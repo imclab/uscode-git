@@ -4,3 +4,10 @@
      The Attorney General shall, promptly upon receipt, transmit one copy of every registration statement filed hereunder and one copy of every amendment or supplement thereto filed hereunder, to the Secretary of State for such comment and use as the Secretary of State may determine to be appropriate from the point of view of the foreign relations of the United States. Failure of the Attorney General so to transmit such copy shall not be a bar to prosecution under this subchapter.
   (c) Executive departments and agencies; Congressional committees
      The Attorney General is authorized to furnish to departments and agencies in the executive branch and committees of the Congress such information obtained by him in the administration of this subchapter, including the names of registrants under this subchapter, copies of registration statements, or parts thereof, or other documents or information filed under this subchapter, as may be appropriate in the light of the purposes of this subchapter.
+  (d) Public database of registration statements and updates
+    (1) In general
+       The Attorney General shall maintain, and make available to the public over the Internet, without a fee or other access charge, in a searchable, sortable, and downloadable manner, to the extent technically practicable, an electronic database that–
+      (A) includes the information contained in registration statements and updates filed under this subchapter; and
+      (B) is searchable and sortable, at a minimum, by each of the categories of information described in section 612(a) of this title.
+    (2) Accountability
+       The Attorney General shall make each registration statement and update filed in electronic form pursuant to section 612(g) of this title available for public inspection over the Internet as soon as technically practicable after the registration statement or update is filed.
