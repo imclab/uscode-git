@@ -1,9 +1,76 @@
-   The Commission is hereby authorized and directed to designate any board of trade as a ””contract market““ when, and only when, such board of trade complies with and carries out the following conditions and requirements:
-  (1) When located at a terminal market where any cash commodity of the kind specified in the contracts of sale of commodities for future delivery to be executed on such board is sold in sufficient volumes and under such conditions as fairly to reflect the general value of the commodity and the differences in value between the various grades of such commodity, and where there is available to such board of trade, official inspection service approved by the Secretary of Agriculture or the Commission for the purpose: T3ProvidedK, That any board of trade not so located shall be designated as a ””contract market““ if such board of trade provides for the delivery of commodities on such contracts at a delivery point or points and upon terms and conditions approved by the Commission.
-  (2) When the governing board thereof provides for the making and filing by the board or any member thereof, as the Commission may direct, of reports in accordance with the rules and regulations, and in such manner and form and at such times as may be prescribed by the Commission, showing the details and terms of all transactions entered into by the board, or the members thereof, either in cash transactions or transactions for future delivery consummated on or subject to the rules of a board of trade, and when such governing board provides, in accordance with such rules and regulations, for the keeping of a record by the board or the members of the board of trade, as the Commission may direct, showing the details and terms of all cash and future transactions entered into by them, consummated on or subject to the rules of a board of trade, such record to be in permanent form, showing the parties to all such transactions, including the persons for whom made, any assignments or transfers thereof, with the parties thereto, and the manner in which said transactions are fulfilled, discharged, or terminated. Such record shall be required to be kept for a period of three years from the date thereof, or for a longer period if the Commission shall so direct, and shall at all times be open to the inspection of any representative of the Commission or United States Department of Justice.
-  (3) When the governing board thereof provides for the prevention of dissemination by the board or any member thereof of false or misleading or knowingly inaccurate reports concerning crop or market information or conditions that affect or tend to affect the price of any commodity in interstate commerce.
-  (4) When the governing board thereof provides for the prevention of manipulation of prices and the cornering of any commodity by the dealers or operators upon such board.
-  (5) When the governing board thereof does not exclude from membership in and all privileges on such board of trade any duly authorized representative of any lawfully formed and conducted cooperative association of producers having adequate financial responsibility which is engaged in any cash commodity business, if such association has complied, and agrees to comply, with such terms and conditions as are or may be imposed lawfully on other members of such board: T3ProvidedK, That no rule of a contract market shall forbid or be construed to forbid the return on a patronage basis by such cooperative association to its bona fide members of moneys collected in excess of the expense of conducting the business of such association.
-  (6) When the governing board provides for making effective the final orders or decisions entered pursuant to the provisions of section 9 of this title, and the orders issued pursuant to the provisions of section 7a of this title, and for compliance in all other respects with the requirements applicable to such board of trade under this chapter.
-  (7) When such board of trade demonstrates that transactions for future delivery in the commodity for which designation as a contract market is sought will not be contrary to the public interest.
-  (8) When such board of trade demonstrates that every contract market for which such board of trade is designated complies with the requirements of section 7a(b) of this title.
+  (a) Applications
+     A board of trade applying to the Commission for designation as a contract market shall submit an application to the Commission that includes any relevant materials and records the Commission may require consistent with this chapter.
+  (b) Criteria for designation
+    (1) In general
+       To be designated as a contract market, the board of trade shall demonstrate to the Commission that the board of trade meets the criteria specified in this subsection.
+    (2) Prevention of market manipulation
+       The board of trade shall have the capacity to prevent market manipulation through market surveillance, compliance, and enforcement practices and procedures, including methods for conducting real-time monitoring of trading and comprehensive and accurate trade reconstructions.
+    (3) Fair and equitable trading
+       The board of trade shall establish and enforce trading rules to ensure fair and equitable trading through the facilities of the contract market, and the capacity to detect, investigate, and discipline any person that violates the rules. The rules may authorize–
+      (A) transfer trades or office trades;
+      (B) an exchange of–
+        (i) futures in connection with a cash commodity transaction;
+        (ii) futures for cash commodities; or
+        (iii) futures for swaps; or
+      (C) a futures commission merchant, acting as principal or agent, to enter into or confirm the execution of a contract for the purchase or sale of a commodity for future delivery if the contract is reported, recorded, or cleared in accordance with the rules of the contract market or a derivatives clearing organization.
+    (4) Trade execution facility
+       The board of trade shall–
+      (A) establish and enforce rules defining, or specifications detailing, the manner of operation of the trade execution facility maintained by the board of trade, including rules or specifications describing the operation of any electronic matching platform; and
+      (B) demonstrate that the trade execution facility operates in accordance with the rules or specifications.
+    (5) Financial integrity of transactions
+       The board of trade shall establish and enforce rules and procedures for ensuring the financial integrity of transactions entered into by or through the facilities of the contract market, including the clearance and settlement of the transactions with a derivatives clearing organization.
+    (6) Disciplinary procedures
+       The board of trade shall establish and enforce disciplinary procedures that authorize the board of trade to discipline, suspend, or expel members or market participants that violate the rules of the board of trade, or similar methods for performing the same functions, including delegation of the functions to third parties.
+    (7) Public access
+       The board of trade shall provide the public with access to the rules, regulations, and contract specifications of the board of trade.
+    (8) Ability to obtain information
+       The board of trade shall establish and enforce rules that will allow the board of trade to obtain any necessary information to perform any of the functions described in this subsection, including the capacity to carry out such international information-sharing agreements as the Commission may require.
+  (c) Existing contract markets
+     A board of trade that is designated as a contract market on December 21, 2000, shall be considered to be a designated contract market under this section.
+  (d) Core principles for contract markets
+    (1) In general
+       To maintain the designation of a board of trade as a contract market, the board of trade shall comply with the core principles specified in this subsection. The board of trade shall have reasonable discretion in establishing the manner in which it complies with the core principles.
+    (2) Compliance with rules
+       The board of trade shall monitor and enforce compliance with the rules of the contract market, including the terms and conditions of any contracts to be traded and any limitations on access to the contract market.
+    (3) Contracts not readily subject to manipulation
+       The board of trade shall list on the contract market only contracts that are not readily susceptible to manipulation.
+    (4) Monitoring of trading
+       The board of trade shall monitor trading to prevent manipulation, price distortion, and disruptions of the delivery or cash-settlement process.
+    (5) Position limitations or accountability
+       To reduce the potential threat of market manipulation or congestion, especially during trading in the delivery month, the board of trade shall adopt position limitations or position accountability for speculators, where necessary and appropriate.
+    (6) Emergency authority
+       The board of trade shall adopt rules to provide for the exercise of emergency authority, in consultation or cooperation with the Commission, where necessary and appropriate, including the authority to–
+      (A) liquidate or transfer open positions in any contract;
+      (B) suspend or curtail trading in any contract; and
+      (C) require market participants in any contract to meet special margin requirements.
+    (7) Availability of general information
+       The board of trade shall make available to market authorities, market participants, and the public information concerning–
+      (A) the terms and conditions of the contracts of the contract market; and
+      (B) the mechanisms for executing transactions on or through the facilities of the contract market.
+    (8) Daily publication of trading information
+       The board of trade shall make public daily information on settlement prices, volume, open interest, and opening and closing ranges for actively traded contracts on the contract market.
+    (9) Execution of transactions
+       The board of trade shall provide a competitive, open, and efficient market and mechanism for executing transactions.
+    (10) Trade information
+       The board of trade shall maintain rules and procedures to provide for the recording and safe storage of all identifying trade information in a manner that enables the contract market to use the information for purposes of assisting in the prevention of customer and market abuses and providing evidence of any violations of the rules of the contract market.
+    (11) Financial integrity of contracts
+       The board of trade shall establish and enforce rules providing for the financial integrity of any contracts traded on the contract market (including the clearance and settlement of the transactions with a derivatives clearing organization), and rules to ensure the financial integrity of any futures commission merchants and introducing brokers and the protection of customer funds.
+    (12) Protection of market participants
+       The board of trade shall establish and enforce rules to protect market participants from abusive practices committed by any party acting as an agent for the participants.
+    (13) Dispute resolution
+       The board of trade shall establish and enforce rules regarding and provide facilities for alternative dispute resolution as appropriate for market participants and any market intermediaries.
+    (14) Governance fitness standards
+       The board of trade shall establish and enforce appropriate fitness standards for directors, members of any disciplinary committee, members of the contract market, and any other persons with direct access to the facility (including any parties affiliated with any of the persons described in this paragraph).
+    (15) Conflicts of interest
+       The board of trade shall establish and enforce rules to minimize conflicts of interest in the decisionmaking process of the contract market and establish a process for resolving such conflicts of interest.
+    (16) Composition of boards of mutually owned contract markets
+       In the case of a mutually owned contract market, the board of trade shall ensure that the composition of the governing board reflects market participants.
+    (17) Recordkeeping
+       The board of trade shall maintain records of all activities related to the business of the contract market in a form and manner acceptable to the Commission for a period of 5 years.
+    (18) Antitrust considerations
+       Unless necessary or appropriate to achieve the purposes of this chapter, the board of trade shall endeavor to avoid–
+      (A) adopting any rules or taking any actions that result in any unreasonable restraints of trade; or
+      (B) imposing any material anticompetitive burden on trading on the contract market.
+  (e) Current agricultural commodities
+    (1) Subject to paragraph (2) of this subsection, a contract for purchase or sale for future delivery of an agricultural commodity enumerated in section 1a(4) of this title that is available for trade on a contract market, as of December 21, 2000, may be traded only on a contract market designated under this section.
+    (2) In order to promote responsible economic or financial innovation and fair competition, the Commission, on application by any person, after notice and public comment and opportunity for hearing, may prescribe rules and regulations to provide for the offer and sale of contracts for future delivery or options on such contracts to be conducted on a derivatives transaction execution facility.

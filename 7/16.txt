@@ -8,13 +8,18 @@
   (c) Expenses
      All of the expenses of the Commissioners, including all necessary expenses for transportation incurred by them while on official business of the Commission, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the Commission.
   (d) Authorization of appropriations
-     There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2000.
-  (e) Relation to other laws, departments, or agencies
-     Nothing in this chapter shall supersede or preempt–
-    (1) criminal prosecution under any Federal criminal statute;
-    (2) the application of any Federal or State statute, including any rule or regulation thereunder, to any transaction in or involving any commodity, product, right, service, or interest (A) that is not conducted on or subject to the rules of a contract market, or, in the case of any State or local law that prohibits or regulates gaming or the operation of ””bucket shops““ (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title, or (B) (except as otherwise specified by the Commission by rule or regulation) that is not conducted on or subject to the rules of any board of trade, exchange, or market located outside the United States, its territories or possessions, or (C) that is not subject to regulation by the Commission under section 6c or 23 of this title; or
-    (3) the application of any Federal or State statute, including any rule or regulation thereunder, to any person required to be registered or designated under this chapter who shall fail or refuse to obtain such registration or designation.
-       The Commission may refer any transaction or matter subject to such other Federal or State statutes to any department or agency administering such statutes for such investigation, action, or proceedings as that department or agency shall deem appropriate.
+     There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.
+  (e) Relation to other law, departments, or agencies
+    (1) Nothing in this chapter shall supersede or preempt–
+      (A) criminal prosecution under any Federal criminal statute;
+      (B) the application of any Federal or State statute (except as provided in paragraph (2)), including any rule or regulation thereunder, to any transaction in or involving any commodity, product, right, service, or interest–
+        (i) that is not conducted on or subject to the rules of a registered entity or exempt board of trade;
+        (ii) (except as otherwise specified by the Commission by rule or regulation) that is not conducted on or subject to the rules of any board of trade, exchange, or market located outside the United States, its territories or possessions; or
+        (iii) that is not subject to regulation by the Commission under section 6c or 23 of this title; or
+      (C) the application of any Federal or State statute, including any rule or regulation thereunder, to any person required to be registered or designated under this chapter who shall fail or refuse to obtain such registration or designation.
+    (2) This chapter shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of–
+      (A) an electronic trading facility excluded under section 2(e) of this title; and
+      (B) an agreement, contract, or transaction that is excluded from this chapter under section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title (regardless of whether any such agreement, contract, or transaction is otherwise subject to this chapter).
   (f) Investigative assistance to foreign futures authorities
     (1) On request from a foreign futures authority, the Commission may, in its discretion, provide assistance in accordance with this section if the requesting authority states that the requesting authority is conducting an investigation which it deems necessary to determine whether any person has violated, is violating, or is about to violate any laws, rules or regulations relating to futures or options matters that the requesting authority administers or enforces. The Commission may conduct such investigation as the Commission deems necessary to collect information and evidence pertinent to the request for assistance. Such assistance may be provided without regard to whether the facts stated in the request would also constitute a violation of the laws of the United States.
     (2) In deciding whether to provide assistance under this subsection, the Commission shall consider whether–

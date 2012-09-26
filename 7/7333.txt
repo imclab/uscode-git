@@ -8,22 +8,26 @@
         (ii) that is produced for food or fiber.
       (B) Crops specifically included
          The term ””eligible crop““ shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), and industrial crops.
+      (C) Combination of similar types or varieties
+         At the option of the Secretary, all types or varieties of a crop or commodity, described in subparagraphs (A) and (B), may be considered to be a single eligible crop under this section.
     (3) Cause of loss
        To qualify for assistance under this section, the losses of the noninsured commodity shall be due to drought, flood, or other natural disaster, as determined by the Secretary.
   (b) Application for noninsured crop disaster assistance
     (1) Timely application
-       To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted at such time as the Secretary may require.
+       To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
     (2) Records
-       A producer shall provide records, as required by the Secretary, of crop acreage, acreage yields, and production.
+       To be eligible for assistance under this section, a producer shall provide annually to the Secretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
     (3) Acreage reports
-       A producer shall provide reports on acreage planted or prevented from being planted, as required by the Secretary, by the designated acreage reporting date for the crop and location as established by the Secretary.
+       A producer shall provide annual reports on acreage planted or prevented from being planted, as required by the Secretary, by the designated acreage reporting date for the crop and location as established by the Secretary.
   (c) Loss requirements
-    (1) Required area loss
-       A producer of an eligible crop shall not receive noninsured crop disaster assistance unless the average yield for that crop, or an equivalent measure in the event yield data are not available, in an area falls below 65 percent of the expected area yield, as established by the Secretary.
-    (2) Prevented planting
+    (1) Cause
+       To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
+    (2) Assistance
+       On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+    (3) Prevented planting
        Subject to paragraph (1), the Secretary shall make a prevented planting noninsured crop disaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
-    (3) Reduced yields
-       Subject to paragraph (1), the Secretary shall make a reduced yield noninsured crop disaster assistance payment to a producer if the total quantity of the eligible crop that the producer is able to harvest on any farm is, because of drought, flood, or other natural disaster as determined by the Secretary, less than 50 percent of the expected individual yield for the crop, as determined by the Secretary, factored for the interest of the producer for the crop.
+    (4) Area trigger
+       The Secretary shall provide assistance to individual producers without any requirement of an area loss.
   (d) Payment
      The Secretary shall make available to a producer eligible for noninsured assistance under this section a payment computed by multiplying–
     (1) the quantity that is less than 50 percent of the established yield for the crop; by
@@ -86,3 +90,13 @@
            A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 1421 note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section.
         (5) Regulations
            The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection.
+      (j) Omitted
+      (k) Service fee
+        (1) In general
+           To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1) of this section) a service fee for the eligible crop in an amount that is equal to the lesser of–
+          (A) $100 per crop per county; or
+          (B) $300 per producer per county, but not to exceed a total of $900 per producer.
+        (2) Waiver
+           The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource farmer, as defined by the Secretary.
+        (3) Use
+           The Secretary shall deposit service fees collected under this subsection in the Commodity Credit Corporation Fund.
