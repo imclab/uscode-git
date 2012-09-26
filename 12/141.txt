@@ -1,35 +1,35 @@
    The cities of New York and Chicago are designated as central reserve cities, and the following cities are designated as reserve cities:
     
-   BostonDIndianapolis
-   AlbanyDChicago
-   Brooklyn and BronxDPeoria
-   BuffaloDDetroit
-   PhiladelphiaDGrand Rapids
-   PittsburghDMilwaukee
-   BaltimoreDMinneapolis
-   WashingtonDSt. Paul
-   RichmondDCedar Rapids
-   AtlantaDDes Moines
-   Little RockDDubuque
-   LouisvilleDSioux City
-   MemphisDKansas City, Mo.
-   NashvilleDSt. Joseph
-   CincinnatiDJacksonville
-   ClevelandDBirmingham
-   ColumbusDNew Orleans
-   ToledoDDallas
-   El PasoDPueblo
-   Fort WorthDMuskogee
-   GalvestonDOklahoma City
-   HoustonDTulsa
-   San AntonioDSavannah
-   WacoDSeattle
-   St. LouisDSpokane
-   LincolnDPortland
-   OmahaDLos Angeles
-   Kansas City, Kans.DOakland
-   TopekaDSan Francisco
-   WichitaDOgden
-   HelenaDSalt Lake City
+   Boston DIndianapolis
+   Albany DChicago
+   Brooklyn and Bronx DPeoria
+   Buffalo DDetroit
+   Philadelphia DGrand Rapids
+   Pittsburgh DMilwaukee
+   Baltimore DMinneapolis
+   Washington DSt. Paul
+   Richmond DCedar Rapids
+   Atlanta DDes Moines
+   Little Rock DDubuque
+   Louisville DSioux City
+   Memphis DKansas City, Mo.
+   Nashville DSt. Joseph
+   Cincinnati DJacksonville
+   Cleveland DBirmingham
+   Columbus DNew Orleans
+   Toledo DDallas
+   El Paso DPueblo
+   Fort Worth DMuskogee
+   Galveston DOklahoma City
+   Houston DTulsa
+   San Antonio DSavannah
+   Waco DSeattle
+   St. Louis DSpokane
+   Lincoln DPortland
+   Omaha DLos Angeles
+   Kansas City, Kans. DOakland
+   Topeka DSan Francisco
+   Wichita DOgden
+   Helena DSalt Lake City
    Denver
    The Board of Governors of the Federal Reserve System may at any time reclassify cities so designated as reserve and central reserve cities, may add to the number so classified, or terminate the designation of any cities as such.

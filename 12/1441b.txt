@@ -66,19 +66,19 @@
     (4) Pro rata distribution of 1st $1,000,000,000 invested in Financing Corporation by Home Loan Banks
        Of the first $1,000,000,000 in the aggregate which the Thrift Depositor Protection Oversight Board pursuant to section 1441b of this title or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:
         
-       T2BankDT2Percentage
-       Federal Home Loan Bank of BostonD1.8629
-       Federal Home Loan Bank of New YorkD9.1006
-       Federal Home Loan Bank of PittsburghD4.2702
-       Federal Home Loan Bank of AtlantaD14.4007
-       Federal Home Loan Bank of CincinnatiD8.2653
-       Federal Home Loan Bank of IndianapolisD5.2863
-       Federal Home Loan Bank of ChicagoD9.6886
-       Federal Home Loan Bank of Des MoinesD6.9301
-       Federal Home Loan Bank of DallasD8.8181
-       Federal Home Loan Bank of TopekaD5.2706
-       Federal Home Loan Bank of San FranciscoD19.9644
-       Federal Home Loan Bank of SeattleD6.1422
+       T2Bank DT2Percentage
+       Federal Home Loan Bank of Boston D1.8629
+       Federal Home Loan Bank of New York D9.1006
+       Federal Home Loan Bank of Pittsburgh D4.2702
+       Federal Home Loan Bank of Atlanta D14.4007
+       Federal Home Loan Bank of Cincinnati D8.2653
+       Federal Home Loan Bank of Indianapolis D5.2863
+       Federal Home Loan Bank of Chicago D9.6886
+       Federal Home Loan Bank of Des Moines D6.9301
+       Federal Home Loan Bank of Dallas D8.8181
+       Federal Home Loan Bank of Topeka D5.2706
+       Federal Home Loan Bank of San Francisco D19.9644
+       Federal Home Loan Bank of Seattle D6.1422
     (5) Pro rata distribution of amounts required to be invested in excess of $1,000,000,000
        With respect to any amount in excess of the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Federal Housing Finance Board by multiplying such excess amount by the percentage arrived at by dividing–
       (A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members which are members of such bank; by
@@ -104,19 +104,19 @@
       (A) that portion required to be added to reserves maintained pursuant to the first two sentences of section 1436 of this title; and
       (B) the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985, as determined under the following table:
           
-         T2BankDT2Dollar amount
-         Federal Home Loan Bank of BostonD$3.2 million
-         Federal Home Loan Bank of New YorkD7.7 million
-         Federal Home Loan Bank of PittsburghD5.2 million
-         Federal Home Loan Bank of AtlantaD12.3 million
-         Federal Home Loan Bank of CincinnatiD5.9 million
-         Federal Home Loan Bank of IndianapolisD37.4 million
-         Federal Home Loan Bank of ChicagoD6.0 million
-         Federal Home Loan Bank of Des MoinesD32.7 million
-         Federal Home Loan Bank of DallasD45.0 million
-         Federal Home Loan Bank of TopekaD13.7 million
-         Federal Home Loan Bank of San FranciscoD21.9 million
-         Federal Home Loan Bank of SeattleD33.6 million
+         T2Bank DT2Dollar amount
+         Federal Home Loan Bank of Boston D$3.2 million
+         Federal Home Loan Bank of New York D7.7 million
+         Federal Home Loan Bank of Pittsburgh D5.2 million
+         Federal Home Loan Bank of Atlanta D12.3 million
+         Federal Home Loan Bank of Cincinnati D5.9 million
+         Federal Home Loan Bank of Indianapolis D37.4 million
+         Federal Home Loan Bank of Chicago D6.0 million
+         Federal Home Loan Bank of Des Moines D32.7 million
+         Federal Home Loan Bank of Dallas D45.0 million
+         Federal Home Loan Bank of Topeka D13.7 million
+         Federal Home Loan Bank of San Francisco D21.9 million
+         Federal Home Loan Bank of Seattle D33.6 million
   (e) Obligations of Financing Corporation
     (1) Limitation on amount of outstanding obligations
        The aggregate amount of obligations of the Financing Corporation which may be outstanding at any time (as determined by the Federal Housing Finance Board) shall not exceed the lesser of–
