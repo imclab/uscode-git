@@ -1,7 +1,7 @@
   (a) Nonforfeitability requirements
      Each pension plan shall provide that an employee“s right to his normal retirement benefit is nonforfeitable upon the attainment of normal retirement age and in addition shall satisfy the requirements of paragraphs (1) and (2) of this subsection.
     (1) A plan satisfies the requirements of this paragraph if an employee“s rights in his accrued benefit derived from his own contributions are nonforfeitable.
-    (2) A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A), (B), or (C).
+    (2) A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A) or (B).
       (A) A plan satisfies the requirements of this subparagraph if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions.
       (B) A plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of the employee“s accrued benefit derived from employer contributions determined under the following table:
           
@@ -9,20 +9,15 @@
            Years of service:
          percentage is:
          3
-         20    
+         20     
          4
-         40    
+         40     
          5
-         60    
+         60     
          6
-         80    
+         80     
          7 or more
          100.   
-      (C) A plan satisfies the requirements of this subparagraph if–
-        (i) the plan is a multiemployer plan (within the meaning of section 1002(37)), and
-        (ii) under the plan–
-          (I) an employee who is covered pursuant to a collective bargaining agreement described in section 1002(37)(A)(ii) of this title and who has completed at least 10 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions, and
-          (II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).
     (3)      (A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 1055 of this title).
       (B) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits–
         (i) in the case of a plan other than a multi-employer plan, by an employer who maintains the plan under which such benefits were being paid; and

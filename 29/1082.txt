@@ -248,13 +248,13 @@
              T2in calendar year:
              T2percentage is:
               1995
-             109 
+             109  
               1996
-             108 
+             108  
               1997
-             107 
+             107  
               1998
-             106 
+             106  
               1999 and thereafter
              105.
         (ii) Mortality tables
@@ -358,17 +358,17 @@
            T2   beginning in:
            T2points is:
              1995
-           3 
+           3  
              1996
-           6 
+           6  
              1997
-           9 
+           9  
              1998
-           12 
+           12  
              1999
-           15 
+           15  
              2000
-           19 
+           19  
              2001
            24.
         (ii) Other cases
@@ -407,7 +407,7 @@
       (A) Payable in 4 installments
          There shall be 4 required installments for each plan year.
       (B) Time for payment of installments
-          h1 h1 j
+          
          xlT2In the case of the followingD 
          xlT2 required installments:DT2The due date is:
            1stDApril 15

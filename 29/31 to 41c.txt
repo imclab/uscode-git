@@ -15,7 +15,7 @@
    Section 41c, act June 2, 1920, ch. 219, § 14, as added Nov. 8, 1965, Pub. L. 89–333, § 3, 79 Stat. 1288, related to waiver in the case of locally financed activity of requirement that plan be statewide.
    Sections 31 to 41c, referred to above, and sections 42–1 to 42b of this title, were known as the Vocational Rehabilitation Act. Section 500(a) of Pub. L. 93–112, which repealed that Act, also provided that references to such Vocational Rehabilitation Act in any other provision of law would, ninety days after Sept. 26, 1973, be deemed to be references to the Rehabilitation Act of 1973, which is classified generally to chapter 15 (§ 701 et seq.) of this title.
    Such former provisions are covered by various sections as follows:
-    h1T3Former sectionsh1T3Present sectionsj
+    
    31(a)D701(1), 720(a)
    31(b)(1), (2)D720(b)(1), (2)
    31(b)(3)(A)D761(a), 774(a)
@@ -80,7 +80,7 @@
    41(i)D706(5)
    41(j)D707(b)
    41(k)D706(11)
-   41(T3lT1)D706(1)
+   41(T3lK)D706(1)
    41a(a)D771(b)(1)
    41a(b)D771(b)(2), 776
    41a(b)(1)(A)–(C)D776(b)(1)(A)–(C)

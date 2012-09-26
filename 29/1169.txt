@@ -8,9 +8,10 @@
         (i) which creates or recognizes the existence of an alternate recipient“s right to, or assigns to an alternate recipient the right to, receive benefits for which a participant or beneficiary is eligible under a group health plan, and
         (ii) with respect to which the requirements of paragraphs (3) and (4) are met.
       (B) Medical child support order
-         The term ””medical child support order““ means any judgment, decree, or order (including approval of a settlement agreement) issued by a court of competent jurisdiction which–
+         The term ””medical child support order““ means any judgment, decree, or order (including approval of a settlement agreement) which–
         (i) provides for child support with respect to a child of a participant under a group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan, or
-        (ii) enforces a law relating to medical child support described in section 1908 of the Social Security Act [42 U.S.C. 1396g–1] (as added by section 13822 \1\N of the Omnibus Budget Reconciliation Act of 1993) with respect to a group health plan.
+        (ii) enforces a law relating to medical child support described in section 1908 of the Social Security Act [42 U.S.C. 1396g–1] (as added by section 13822 \1\N of the Omnibus Budget Reconciliation Act of 1993) with respect to a group health plan,
+         if such judgment, decree, or order (I) is issued by a court of competent jurisdiction or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law.
       (C) Alternate recipient
          The term ””alternate recipient““ means any child of a participant who is recognized under a medical child support order as having a right to enrollment under a group health plan with respect to such participant.
     (3) Information to be included in qualified order

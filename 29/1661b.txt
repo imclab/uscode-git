@@ -1,29 +1,30 @@
-  (a) Designation of substate areas
-    (1) The Governor of each State shall, after receiving any recommendations from the State job training coordinating council, designate substate areas for the State.
-    (2) Each service delivery area within a State shall be included within a substate area and no service delivery area shall be divided among two or more substate areas.
-    (3) In making designations of substate areas, the Governor shall consider–
-      (A) the availability of services throughout the State;
-      (B) the capability to coordinate the delivery of services with other human services and economic development programs; and
-      (C) the geographic boundaries of labor market areas within the State.
-    (4) Subject to paragraphs (2) and (3), the Governor–
-      (A) shall designate as a substate area any single service delivery area that has a population of 200,000 or more;
-      (B) shall designate as a substate area any two or more contiguous service delivery areas–
-        (i) that in the aggregate have a population of 200,000 or more; and
-        (ii) that request such designation; and
-      (C) shall designate as a substate area any concentrated employment program grantee for a rural area described in section 1511(a)(4)(A)(iii) of this title.
-    (5) The Governor may deny a request for designation under paragraph (4)(B) if the Governor determines that such designation would not be consistent with the effective delivery of services to eligible dislocated workers in various labor market areas (including urban and rural areas) within the State, or would not otherwise be appropriate to carry out the purposes of this subchapter.
-    (6) The designations made under this section may not be revised more than once each two years, in accordance with the requirements of this section.
-  (b) Designation of substate grantees
-     A substate grantee shall be designated, on a biennial basis, for each substate area. Such substate grantee shall be designated in accordance with an agreement among the Governor, the local elected official or officials of such area, and the private industry council or councils of such area. Whenever a substate area is represented by more than one such official or council, the respective officials and councils shall each designate representatives, in accordance with procedures established by the Governor (after consultation with the State job training coordinating council), to negotiate such agreement. In the event agreement cannot be reached on the selection of a substate grantee, the Governor shall select the substate grantee.
-  (c) Eligibility
-     Entities eligible for designation as substate grantees include–
-    (1) private industry councils in the substate area;
-    (2) service delivery area grant recipients or administrative entities;
-    (3) private nonprofit organizations;
-    (4) units of general local government in the substate area, or agencies thereof;
-    (5) local offices of State agencies; and
-    (6) other public agencies, such as community colleges and area vocational schools.
-  (d) Functions of substate grantees
-     The substate grantee shall be responsible for providing, within such substate area, services described in section 1661c(c), (d), and (e) of this title pursuant to an agreement with the Governor and in accordance with the State plan under section 1661 of this title and the substate plan under section 1661b of this title. The substate grantee may provide such services directly or through contract, grant, or agreement with service providers.
-  (e) Applicability of general administrative provisions to substate grantees
-     The requirements of parts C and D of subchapter I of this chapter that apply to an administrative entity or a recipient of financial assistance under this chapter shall also apply to substate grantees under this subchapter.
+  (a) General rule
+     No amounts appropriated for any fiscal year may be provided to a substate grantee unless the Governor (after considering the recommendations of the State job training coordinating council) has approved a substate plan, or modification thereof, submitted by the substate grantee describing the manner in which activities will be conducted within the substate area. Prior to the submission to the Governor, the plan shall be submitted for review and comment to the other parties to the agreement described in section 1661a(b) of this title.
+  (b) Contents of substate plan
+     The substate plan shall contain a statement of–
+    (1) the means for delivering services described in section 1661c of this title to eligible dislocated workers;
+    (2) the means to be used to identify, select, and verify the eligibility of program participants;
+    (3) the means for implementing the requirements of section 1661c(f) of this title;
+    (4) the means for involving labor organizations in the development and implementation of services;
+    (5) the performance goals to be achieved consistent with the performance goals contained in the State plan pursuant to section 1661(b)(8) of this title;
+    (6) procedures, consistent with section 1517 of this title, for selecting service providers which take into account past performance in job training or related activities, fiscal accountability, and ability to meet performance standards;
+    (7) a description of the methods by which the substate grantee will respond expeditiously to worker dislocation where the rapid response assistance required by section 1661c(b) of this title is inappropriate, including worker dislocation in sparsely populated areas, which methods may include (but are not limited to)–
+      (A) development and delivery of widespread outreach mechanisms;
+      (B) provision of financial evaluation and counseling (where appropriate) to assist in determining eligibility for services and the type of services needed;
+      (C) initial assessment and referral for further basic adjustment and training services; and
+      (D) establishment of regional centers for the purpose of providing such outreach, assessment, and early readjustment assistance;
+    (8) a description of the methods by which the other parties to the agreement described in section 1661a(b) of this title may be involved in activities of the substate grantee;
+    (9) a description of training services to be provided, including–
+      (A) procedures to assess participants“ current education skill levels and occupational abilities;
+      (B) procedures to assess participants“ needs, including educational, training, employment, and social services;
+      (C) methods for allocating resources to provide the services recommended by rapid response teams for eligible dislocated workers within the substate area; and
+      (D) a description of services and activities to be provided in the substate area;
+    (10) the means whereby coordination with other appropriate programs, services, and systems will be effected, particularly where such coordination is intended to provide access to the services of such other systems for program participants at no cost to the worker readjustment program; and
+    (11) a detailed budget, as required by the State.
+  (c) Plan approval
+     The Governor shall approve or disapprove the plan of a substate grantee in the manner required by section 1515(b)(1), (2), and (3) of this title. If a substate grantee fails to submit a plan, or submits a plan that is not approved by the Governor in accordance with such section, the Governor may direct the expenditure of funds allocated to the substate area until such time as a plan is submitted and approved or a new substate grantee is designated under section 1661a of this title.
+  (d) By-pass authority
+     If a substate grantee fails to expend funds allocated to it in accordance with its plan, the Governor may, subject to appropriate notice and opportunity for comment in the manner required by section 1515(b)(1), (2), and (3) of this title, direct the expenditure of funds in accordance with the substate plan until–
+    (1) the substate grantee corrects the failure,
+    (2) the substate grantee submits an acceptable modification to its plan pursuant to subsection (a) of this section, or
+    (3) a new substate grantee is designated under section 1661a of this title.

@@ -1,29 +1,32 @@
-  (a) Benefit plan assets to be held in trust; authority of trustees
-     Except as provided in subsection (b) of this section, all assets of an employee benefit plan shall be held in trust by one or more trustees. Such trustee or trustees shall be either named in the trust instrument or in the plan instrument described in section 1102(a) of this title or appointed by a person who is a named fiduciary, and upon acceptance of being named or appointed, the trustee or trustees shall have exclusive authority and discretion to manage and control the assets of the plan, except to the extent that–
-    (1) the plan expressly provides that the trustee or trustees are subject to the direction of a named fiduciary who is not a trustee, in which case the trustees shall be subject to proper directions of such fiduciary which are made in accordance with the terms of the plan and which are not contrary to this chapter, or
-    (2) authority to manage, acquire, or dispose of assets of the plan is delegated to one or more investment managers pursuant to section 1102(c)(3) of this title.
-  (b) Exceptions
-     The requirements of subsection (a) of this section shall not apply–
-    (1) to any assets of a plan which consist of insurance contracts or policies issued by an insurance company qualified to do business in a State;
-    (2) to any assets of such an insurance company or any assets of a plan which are held by such an insurance company;
-    (3) to a plan–
-      (A) some or all of the participants of which are employees described in section 401(c)(1) of title 26; or
-      (B) which consists of one or more individual retirement accounts described in section 408 of title 26;
-     to the extent that such plan“s assets are held in one or more custodial accounts which qualify under section 401(f) or 408(h) of title 26, whichever is applicable.
-    (4) to a plan which the Secretary exempts from the requirement of subsection (a) of this section and which is not subject to any of the following provisions of this chapter–
-      (A) part 2 of this subtitle,
-      (B) part 3 of this subtitle, or
-      (C) subchapter III of this chapter; or
-    (5) to a contract established and maintained under section 403(b) of title 26 to the extent that the assets of the contract are held in one or more custodial accounts pursuant to section 403(b)(7) of title 26.
-    (6) Any plan, fund or program under which an employer, all of whose stock is directly or indirectly owned by employees, former employees or their beneficiaries, proposes through an unfunded arrangement to compensate retired employees for benefits which were forfeited by such employees under a pension plan maintained by a former employer prior to the date such pension plan became subject to this chapter.
-  (c) Assets of plan not to inure to benefit of employer; allowable purposes of holding plan assets
-    (1) Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on January 1, 1995), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
-    (2)      (A) In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III of this chapter–
-        (i) if such contribution or payment is made by an employer to a plan (other than a multiemployer plan) by a mistake of fact, paragraph (1) shall not prohibit the return of such contribution to the employer within one year after the payment of the contribution, and
-        (ii) if such contribution or payment is made by an employer to a multiemployer plan by a mistake of fact or law (other than a mistake relating to whether the plan is described in section 401(a) of title 26 or the trust which is part of such plan is exempt from taxation under section 501(a) of title 26), paragraph (1) shall not prohibit the return of such contribution or payment to the employer within 6 months after the plan administrator determines that the contribution was made by such a mistake.
-      (B) If a contribution is conditioned on initial qualification of the plan under section 401 or 403(a) of title 26, and if the plan receives an adverse determination with respect to its initial qualification, then paragraph (1) shall not prohibit the return of such contribution to the employer within one year after such determination, but only if the application for the determination is made by the time prescribed by law for filing the employer“s return for the taxable year in which such plan was adopted, or such later date as the Secretary of the Treasury may prescribe.
-      (C) If a contribution is conditioned upon the deductibility of the contribution under section 404 of title 26, then, to the extent the deduction is disallowed, paragraph (1) shall not prohibit the return to the employer of such contribution (to the extent disallowed) within one year after the disallowance of the deduction.
-    (3) In the case of a withdrawal liability payment which has been determined to be an overpayment, paragraph (1) shall not prohibit the return of such payment to the employer within 6 months after the date of such determination.
-  (d) Termination of plan
-    (1) Upon termination of a pension plan to which section 1321 of this title does not apply at the time of termination and to which this part applies (other than a plan to which no employer contributions have been made) the assets of the plan shall be allocated in accordance with the provisions of section 1344 of this title, except as otherwise provided in regulations of the Secretary.
-    (2) The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
+  (a) Prudent man standard of care
+    (1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge his duties with respect to a plan solely in the interest of the participants and beneficiaries and–
+      (A) for the exclusive purpose of:
+        (i) providing benefits to participants and their beneficiaries; and
+        (ii) defraying reasonable expenses of administering the plan;
+      (B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
+      (C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
+      (D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III of this chapter.
+    (2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
+  (b) Indicia of ownership of assets outside jurisdiction of district courts
+     Except as authorized by the Secretary by regulations, no fiduciary may maintain the indicia of ownership of any assets of a plan outside the jurisdiction of the district courts of the United States.
+  (c) Control over assets by participant or beneficiary
+    (1) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control over the assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)–
+      (A) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
+      (B) no person who is otherwise a fiduciary shall be liable under this part for any loss, or by reason of any breach, which results from such participant“s or beneficiary“s exercise of control.
+    (2) In the case of a simple retirement account established pursuant to a qualified salary reduction arrangement under section 408(p) of title 26, a participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account upon the earliest of–
+      (A) an affirmative election among investment options with respect to the initial investment of any contribution,
+      (B) a rollover to any other simple retirement account or individual retirement plan, or
+      (C) one year after the simple retirement account is established.
+         No reports, other than those required under section 1021(g) of this title, shall be required with respect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
+  (d) Plan terminations
+    (1) If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary“s duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
+      (A) In the case of a fiduciary of the terminated plan, any requirement–
+        (i) under section 4980(d)(2)(B) of title 26 with respect to the transfer of assets from the terminated plan to a qualified replacement plan, and
+        (ii) under section 4980(d)(2)(B)(ii) or 4980(d)(3) of title 26 with respect to any increase in benefits under the terminated plan.
+      (B) In the case of a fiduciary of a qualified replacement plan, any requirement–
+        (i) under section 4980(d)(2)(A) of title 26 with respect to participation in the qualified replacement plan of active participants in the terminated plan,
+        (ii) under section 4980(d)(2)(B) of title 26 with respect to the receipt of assets from the terminated plan, and
+        (iii) under section 4980(d)(2)(C) of title 26 with respect to the allocation of assets to participants of the qualified replacement plan.
+    (2) For purposes of this subsection–
+      (A) any term used in this subsection which is also used in section 4980(d) of title 26 shall have the same meaning as when used in such section, and
+      (B) any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
