@@ -2,7 +2,8 @@
     (A) A fair, credible, and transparent performance appraisal system for employees.
     (B) A fair, credible, and transparent system for linking employee bonuses and other performance-based actions to performance appraisals of employees.
     (C) A process for ensuring ongoing performance feedback and dialogue among supervisors, managers, and employees throughout the appraisal period and setting timetables for review.
-    (D) Development of ””performance assistance plans““ that are designed to give employees formal training, on-the-job training, counseling, mentoring, and other assistance.
+    (D) Development of attractive career paths.
+    (E) Development of ””performance assistance plans““ that are designed to give employees formal training, on-the-job training, counseling, mentoring, and other assistance.
   (2) In developing the regulations required by this subsection, the Secretary, in coordination with the Director, may waive the requirements of chapter 43 (other than sections 4302 and 4303(e)) and the regulations implementing such chapter, to the extent necessary to achieve the objectives of this subsection.
   (3)    (A) The Secretary may establish a fund, to be known as the ””Department of Defense Civilian Workforce Incentive Fund““ (in this paragraph referred to as the ””Fund““).
     (B) The Fund shall consist of the following:
@@ -28,6 +29,8 @@
   (3) In implementing this subsection, the Secretary shall comply with the provisions of section 2302(b)(11), regarding veterans“ preference requirements, in a manner consistent with that in which such provisions are applied under chapter 33.
   (4)    (A) Any action taken by the Secretary under this subsection, or to implement this subsection, shall be subject to the requirements of subsection (c) and chapter 71.
     (B) Any rules or regulations promulgated pursuant to this section shall be deemed an agency rule or regulation under section 7117(a)(2), and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1).
+  (5) The Secretary shall develop a training program for Department of Defense human resource professionals to implement the requirements of this subsection.
+  (6) The Secretary shall develop indicators of effectiveness to determine whether appointment flexibilities under this subsection have achieved the objectives set forth in paragraph (1).
   (c) T4Criteria for Use of New Personnel AuthoritiesK.–In establishing any new performance management and workforce incentive system under subsection (a) or utilizing appointment flexibilities under subsection (b), the Secretary shall–
     (1) adhere to merit principles set forth in section 2301;
     (2) include a means for ensuring employee involvement (for bargaining unit employees, through their exclusive representatives) in the design and implementation of such system;
@@ -36,8 +39,10 @@
       (A) a comprehensive management succession program to provide training to employees to develop managers for the agency; and
       (B) a program to provide training to supervisors on actions, options, and strategies a supervisor may use in administering such system;
     (5) include effective transparency and accountability measures and safeguards to ensure that the management of such system is fair, credible, and equitable, including appropriate independent reasonableness reviews, internal assessments, and employee surveys;
-    (6) utilize the annual strategic workforce plan, required by section 115b of title 10; and
-    (7) ensure that adequate agency resources are allocated for the design, implementation, and administration of such system.
+    (6) provide mentors to advise individuals on their career paths and opportunities to advance and excel within their fields;
+    (7) develop appropriate procedures for warnings during performance evaluations for employees who fail to meet performance standards;
+    (8) utilize the annual strategic workforce plan, required by section 115b of title 10; and
+    (9) ensure that adequate agency resources are allocated for the design, implementation, and administration of such system.
   (d) T4Development of Training Program for SupervisorsK.–(1) The Secretary shall develop–
     (A) a program to provide training to supervisors on use of the new authorities provided in this section, including the actions, options, and strategies a supervisor may use in–
       (i) developing and discussing relevant goals and objectives with the employee, communicating and discussing progress relative to performance goals and objectives, and conducting performance appraisals;
@@ -92,3 +97,18 @@
       (D) Paragraph (1) shall apply to an individual who is eligible to file an election under subparagraph (A) and does not file a timely election under subparagraph (B).
     (3) Benefits similar to those provided by paragraphs (1) and (2) may be extended, in accordance with regulations prescribed by the President, so as to be made available with respect to reemployed annuitants within the Department of Defense who are subject to such other retirement systems for Government employees (whose annuities are payable under authorities other than subchapter III of chapter 83 or chapter 84 of title 5) as may be provided for under such regulations.
     (4) The Secretary shall prescribe regulations to carry out this subsection, excluding paragraph (3).
+  (h) T4Reports.–
+    (1) T4In generalK.–Not later than 1 year after the implementation of any performance management and workforce incentive system under subsection (a) or any procedures relating to personnel appointment flexibilities under subsection (b) (whichever is earlier), and whenever any significant action is taken under any of the preceding provisions of this section (but at least biennially) thereafter, the Secretary shall–
+      (A) conduct appropriately designed and statistically valid internal assessments or employee surveys to assess employee perceptions of any program, system, procedures, or other aspect of personnel management, as established or modified under authority of this section; and
+      (B) submit to the appropriate committees of Congress and the Comptroller General, a report describing the results of the assessments or surveys conducted under subparagraph (A) (including the methodology used), together with any other information which the Secretary considers appropriate.
+    (2) T4ReviewK.–After receiving any report under paragraph (1), the Comptroller General–
+      (A) shall review the assessments or surveys described in such report to determine if they were appropriately designed and statistically valid;
+      (B) shall conduct a review of the extent to which the program, system, procedures, or other aspect of program management concerned (as described in paragraph (1)(A)) is fair, credible, transparent, and otherwise in conformance with the requirements of this section; and
+      (C) within 6 months after receiving such report, shall submit to the appropriate committees of Congress–
+        (i) an independent evaluation of the results of the assessments or surveys reviewed under subparagraph (A), and
+        (ii) the findings of the Comptroller General based on the review under subparagraph (B),
+       together with any recommendations the Comptroller General considers appropriate.
+    (3) T4DefinitionK.–For purposes of this subsection, the term ””appropriate committees of Congress““ means–
+      (A) the Committees on Armed Services of the Senate and the House of Representatives;
+      (B) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+      (C) the Committee on Oversight and Government Reform of the House of Representatives.
