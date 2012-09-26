@@ -71,17 +71,15 @@
     (3) If the total number of commissioned officers serving on active duty in an armed force (excluding officers in categories specified in subsection (b)) is between any two consecutive figures listed in the first column of the appropriate table in paragraph (1) or (2), the corresponding authorized strengths for each of the grades shown in that table for that armed force are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of commissioned officers serving on active duty in an armed force (excluding officers in categories specified in subsection (b)) is greater or less than the figures listed in the first column of the appropriate table in paragraph (1) or (2), the Secretary concerned shall fix the corresponding strengths for the grades shown in that table in the same proportion as reflected in the nearest limit shown in the table.
   (b) Officers in the following categories shall be excluded in computing and determining authorized strengths under this section:
     (1) Reserve officers–
-      (A) on active duty for training;
-      (B) on active duty under section 10211, 10302 through 10305, or 12402 of this title or under section 708 of title 32;
-      (C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
-      (D) on active duty to pursue special work;
-      (E) ordered to active duty under section 12304 of this title; or
-      (F) on full-time National Guard duty.
+      (A) on active duty as authorized under section 115(a)(1)(B) or 115(b)(1) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title;
+      (B) on active duty under section 10211, 10302 through 10305, or 12402 of this title or under section 708 of title 32; or
+      (C) on full-time National Guard duty.
     (2) General and flag officers.
     (3) Medical officers.
     (4) Dental officers.
     (5) Warrant officers.
     (6) Retired officers on active duty under a call or order to active duty for 180 days or less.
-    (7) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+    (7) Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+    (8) Permanent professors of the United States Military Academy and the United States Air Force Academy and professors of the United States Naval Academy who are career military professors (as defined in regulations prescribed by the Secretary of the Navy), but not to exceed 50 from any such academy.
   (c) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
   (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.

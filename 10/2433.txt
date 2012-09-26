@@ -7,6 +7,7 @@
     (2) In the case of a procurement program, the procurement unit cost.
     (3) Any cost variance or schedule variance in a major contract under the program since the contract was entered into.
     (4) Any changes from program schedule milestones or program performances reflected in the baseline description established under section 2435 of this title that are known, expected, or anticipated by the program manager.
+    (5) Any significant changes in the total program cost for development and procurement of the software component of the program, schedule milestones for the software component of the program, or expected performance for the software component of the program that are known, expected, or anticipated by the program manager.
   (c) If the program manager of a major defense acquisition program for which a unit cost report has previously been submitted under subsection (b) determines at any time during a quarter that there is reasonable cause to believe–
     (1) that the program acquisition unit cost for the program has increased by at least 15 percent over the program acquisition unit cost for the program as shown in the Baseline Estimate; or
     (2) in the case of a major defense acquisition program that is a procurement program, that the procurement unit cost for the program has increased by at least 15 percent over the procurement unit cost for the program as reflected in the Baseline Estimate;
@@ -50,5 +51,6 @@
         (iv) Any current change and the total change, in dollars and expressed as a percentage, in the contract cost.
         (v) The percentage by which the contract is currently ahead of or behind schedule.
         (vi) A narrative providing a summary explanation of the most significant occurrences, including cost and schedule variances under major contracts of the program, contributing to the changes identified and a discussion of the effect these occurrences will have on future program costs and the program schedule.
+      (Q) In any case in which one or more problems with the software component of the program significantly contributed to the increase in program unit costs, the action taken and proposed to be taken to solve such problems.
     (2) If a program acquisition unit cost increase or a procurement unit cost increase for a major defense acquisition program that results in a report under this subsection is due to termination or cancellation of the entire program, only the information specified in clauses (A) through (F) of paragraph (1) and the percentage change in program acquisition unit cost or procurement unit cost that resulted in the report need be included in the report. The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program.
   (h) Reporting under this section shall not apply if a program has received a limited reporting waiver under section 2432(h) of this title.

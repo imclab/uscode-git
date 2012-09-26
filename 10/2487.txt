@@ -1,14 +1,6 @@
-  (a) T4Authority To Limit ReleaseK.–(1) The Secretary of Defense may limit the release to the public of any information described in paragraph (2) if the Secretary determines that it is in the best interest of the Department of Defense to limit the release of such information. If the Secretary determines to limit the release of any such information, the Secretary may provide for limited release of such information in accordance with subsection (b).
-  (2) Paragraph (1) applies to the following:
-    (A) Information contained in the computerized business systems of commissary stores or the Defense Commissary Agency that is collected through or in connection with the use of electronic scanners in commissary stores, including the following information:
-      (i) Data relating to sales of goods or services.
-      (ii) Demographic information on customers.
-      (iii) Any other information pertaining to commissary transactions and operations.
-    (B) Business programs, systems, and applications (including software) relating to commissary operations that were developed with funding derived from commissary surcharges.
-  (b) T4Release AuthorityK.–(1) The Secretary of Defense may, using competitive procedures, enter into a contract to sell information described in subsection (a)(2).
-  (2) The Secretary of Defense may release, without charge, information on an item sold in commissary stores to the manufacturer or producer of that item or an agent of the manufacturer or producer.
-  (3) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referred to in subsection (a)(2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on the costs of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
-  (4) Each contract entered into under this subsection shall specify the amount to be paid for information released or a license granted under the contract, as the case may be.
-  (c) T4Form of ReleaseK.–Information described in subsection (a)(2) may not be released, under subsection (b) or otherwise, in a form that identifies any customer or that provides information making it possible to identify any customer.
-  (d) T4ReceiptsK.–Amounts received by the Secretary under this section shall be credited to funds derived from commissary surcharges, shall be merged with those funds, and shall be available for the same purposes as the funds with which merged.
-  (e) T4DefinitionK.–In this section, the term ””commissary surcharge““ means any adjustment or surcharge applied under section 2486(c) of this title.
+  (a) T4Separate Operation of SystemsK.–(1) Except as provided in paragraph (2), the defense commissary system and the exchange stores system shall be operated as separate systems of the Department of Defense.
+  (2) Paragraph (1) does not apply to the following:
+    (A) Combined exchange and commissary stores operated under the authority provided by section 2489 of this title.
+    (B) NEXMART stores of the Navy Exchange Service Command established before October 1, 2003.
+  (b) T4Consolidation or Other Organizational Changes of Defense Retail SystemsK.–(1) The operation and administration of the defense retail systems may not be consolidated or otherwise merged unless the consolidation or merger is specifically authorized by an Act of Congress.
+  (2) In this subsection, the term ””defense retail systems““ means the defense commissary system and exchange stores system and other revenue-generating facilities operated by nonappropriated fund instrumentalities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.

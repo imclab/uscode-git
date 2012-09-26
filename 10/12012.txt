@@ -80,7 +80,7 @@
      8,000 D740 D370  
      10,000 D800 D400  
       
-     Air National Guard
+     Air National Guard:
      5,000 D1,020 D405  
      6,000 D1,070 D435  
      7,000 D1,120 D465  

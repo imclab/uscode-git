@@ -1,1 +1,11 @@
-   Section, added Pub. L. 100–456, div. A, title VIII, § 805(a)(1), Sept. 29, 1988, 102 Stat. 2010; amended Pub. L. 102–190, div. A, title X, § 1061(a)(13), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–355, title II, § 2401, Oct. 13, 1994, 108 Stat. 3324, related to quality control in procurement of critical aircraft and ship spare or repair parts.
+  (a) T4LimitationK.–The head of an agency may enter into a contract for the performance of acquisition functions closely associated with inherently governmental functions only if the contracting officer for the contract ensures that–
+    (1) appropriate military or civilian personnel of the Department of Defense cannot reasonably be made available to perform the functions;
+    (2) appropriate military or civilian personnel of the Department of Defense are–
+      (A) to supervise contractor performance of the contract; and
+      (B) to perform all inherently governmental functions associated with the functions to be performed under the contract; and
+    (3) the agency addresses any potential organizational conflict of interest of the contractor in the performance of the functions under the contract, consistent with subpart 9.5 of part 9 of the Federal Acquisition Regulation and the best interests of the Department of Defense.
+  (b) T4DefinitionsK.–In this section:
+    (1) The term ””head of an agency““ has the meaning given such term in section 2302(1) of this title, except that such term does not include the Secretary of Homeland Security or the Administrator of the National Oceanic and Atmospheric Administration.
+    (2) The term ””inherently governmental functions““ has the meaning given such term in subpart 7.5 of part 7 of the Federal Acquisition Regulation.
+    (3) The term ””functions closely associated with inherently governmental functions““ means the functions described in section 7.503(d) of the Federal Acquisition Regulation.
+    (4) The term ””organizational conflict of interest““ has the meaning given such term in subpart 9.5 of part 9 of the Federal Acquisition Regulation.
