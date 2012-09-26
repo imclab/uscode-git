@@ -1,0 +1,24 @@
+  (a) T4JurisdictionK.–In addition to any other remedy under current law, the district courts of the United States shall have original and exclusive jurisdiction to prevent and restrain restricted transactions by issuing appropriate orders in accordance with this section, regardless of whether a prosecution has been initiated under this subchapter.
+  (b) T4Proceedings.–
+    (1) T4Institution by federal government.–
+      (A) T4In generalK.–The United States, acting through the Attorney General, may institute proceedings under this section to prevent or restrain a restricted transaction.
+      (B) T4ReliefK.–Upon application of the United States under this paragraph, the district court may enter a temporary restraining order, a preliminary injunction, or an injunction against any person to prevent or restrain a restricted transaction, in accordance with rule 65 of the Federal Rules of Civil Procedure.
+    (2) T4Institution by state attorney general.–
+      (A) T4In generalK.–The attorney general (or other appropriate State official) of a State in which a restricted transaction allegedly has been or will be initiated, received, or otherwise made may institute proceedings under this section to prevent or restrain the violation or threatened violation.
+      (B) T4ReliefK.–Upon application of the attorney general (or other appropriate State official) of an affected State under this paragraph, the district court may enter a temporary restraining order, a preliminary injunction, or an injunction against any person to prevent or restrain a restricted transaction, in accordance with rule 65 of the Federal Rules of Civil Procedure.
+    (3) T4Indian lands.–
+      (A) T4In generalK.–Notwithstanding paragraphs (1) and (2), for a restricted transaction that allegedly has been or will be initiated, received, or otherwise made on Indian lands (as that term is defined in section 4 of the Indian Gaming Regulatory Act)–
+        (i) the United States shall have the enforcement authority provided under paragraph (1); and
+        (ii) the enforcement authorities specified in an applicable Tribal-State Compact negotiated under section 11 of the Indian Gaming Regulatory Act (25 U.S.C. 2710) shall be carried out in accordance with that compact.
+      (B) T4Rule of constructionK.–No provision of this section shall be construed as altering, superseding, or otherwise affecting the application of the Indian Gaming Regulatory Act.
+  (c) T4Limitation Relating to Interactive Computer Services.–
+    (1) T4In generalK.–Relief granted under this section against an interactive computer service shall–
+      (A) be limited to the removal of, or disabling of access to, an online site violating section 5363, or a hypertext link to an online site violating such section, that resides on a computer server that such service controls or operates, except that the limitation in this subparagraph shall not apply if the service is subject to liability under this section under section 5367;
+      (B) be available only after notice to the interactive computer service and an opportunity for the service to appear are provided;
+      (C) not impose any obligation on an interactive computer service to monitor its service or to affirmatively seek facts indicating activity violating this subchapter;
+      (D) specify the interactive computer service to which it applies; and
+      (E) specifically identify the location of the online site or hypertext link to be removed or access to which is to be disabled.
+    (2) T4Coordination with other lawK.–An interactive computer service that does not violate this subchapter shall not be liable under section 1084(d) of title 18, except that the limitation in this paragraph shall not apply if an interactive computer service has actual knowledge and control of bets and wagers and–
+      (A) operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made or at which unlawful bets or wagers are offered to be placed, received, or otherwise made; or
+      (B) owns or controls, or is owned or controlled by, any person who operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made.
+  (d) T4Limitation on Injunctions Against Regulated PersonsK.–Notwithstanding any other provision of this section, and subject to section 5367, no provision of this subchapter shall be construed as authorizing the Attorney General of the United States, or the attorney general (or other appropriate State official) of any State to institute proceedings to prevent or restrain a restricted transaction against any financial transaction provider, to the extent that the person is acting as a financial transaction provider.
