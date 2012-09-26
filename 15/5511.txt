@@ -1,0 +1,50 @@
+  (a) National High-Performance Computing Program
+    (1) The President shall implement a National High-Performance Computing Program, which shall–
+      (A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities; and
+      (B) provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program.
+    (2) The Program shall–
+      (A) provide for the establishment of policies for management and access to the Network;
+      (B) provide for oversight of the operation and evolution of the Network;
+      (C) promote connectivity among computer networks of Federal agencies and departments;
+      (D) provide for efforts to increase software availability, productivity, capability, portability, and reliability;
+      (E) provide for improved dissemination of Federal agency data and electronic information;
+      (F) provide for acceleration of the development of high-performance computing systems, subsystems, and associated software;
+      (G) provide for the technical support and research and development of high-performance computing software and hardware needed to address Grand Challenges;
+      (H) provide for educating and training additional undergraduate and graduate students in software engineering, computer science, library and information science, and computational science; and
+        (I) provide–
+          (i) for the security requirements, policies, and standards necessary to protect Federal research computer networks and information resources accessible through Federal research computer networks, including research required to establish security standards for high-performance computing systems and networks; and
+          (ii) that agencies and departments identified in the annual report submitted under paragraph (3)(A) shall define and implement a security plan consistent with the Program and with applicable law.
+    (3) The Director shall–
+      (A) submit to the Congress an annual report, along with the President“s annual budget request, describing the implementation of the Program;
+      (B) provide for interagency coordination of the Program; and
+      (C) consult with academic, State, industry, and other appropriate groups conducting research on and using high-performance computing.
+    (4) The annual report submitted under paragraph (3)(A) shall–
+      (A) include a detailed description of the goals and priorities established by the President for the Program;
+      (B) set forth the relevant programs and activities, for the fiscal year with respect to which the budget submission applies, of each Federal agency and department, including–
+        (i) the Department of Agriculture;
+        (ii) the Department of Commerce;
+        (iii) the Department of Defense;
+        (iv) the Department of Education;
+        (v) the Department of Energy;
+        (vi) the Department of Health and Human Services;
+        (vii) the Department of the Interior;
+        (viii) the Environmental Protection Agency;
+        (ix) the National Aeronautics and Space Administration;
+        (x) the National Science Foundation; and
+        (xi) such other agencies and departments as the President or the Director considers appropriate;
+      (C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
+      (D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
+      (E) include the report of the Secretary of Energy required by section 5523(d) of this title; and
+      (F) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
+  (b) High-performance computing advisory committee
+     The President shall establish an advisory committee on high-performance computing consisting of non-Federal members, including representatives of the research, education, and library communities, network providers, and industry, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of–
+    (1) progress made in implementing the Program;
+    (2) the need to revise the Program;
+    (3) the balance between the components of the Program;
+    (4) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in computing technology; and
+    (5) other issues identified by the Director.
+  (c) Office of Management and Budget
+    (1) Each Federal agency and department participating in the Program shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which–
+      (A) identifies each element of its high-performance computing activities which contributes directly to the Program or benefits from the Program; and
+      (B) states the portion of its request for appropriations that is allocated to each such element.
+    (2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(3)(A) of this section, and shall include, in the President“s annual budget estimate, a statement of the portion of each appropriate agency“s or department“s annual budget estimate relating to its activities undertaken pursuant to the Program.

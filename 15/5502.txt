@@ -1,0 +1,12 @@
+   The purpose of this chapter is to help ensure the continued leadership of the United States in high-performance computing and its applications by–
+  (1) expanding Federal support for research, development, and application of high-performance computing in order to–
+    (A) establish a high-capacity and high-speed National Research and Education Network;
+    (B) expand the number of researchers, educators, and students with training in high-performance computing and access to high-performance computing resources;
+    (C) promote the further development of an information infrastructure of data bases, services, access mechanisms, and research facilities available for use through the Network;
+    (D) stimulate research on software technology;
+    (E) promote the more rapid development and wider distribution of computing software tools and applications software;
+    (F) accelerate the development of computing systems and subsystems;
+    (G) provide for the application of high-performance computing to Grand Challenges;
+    (H) invest in basic research and education, and promote the inclusion of high-performance computing into educational institutions at all levels; and
+      (I) promote greater collaboration among government, Federal laboratories, industry, high-performance computing centers, and universities; and
+  (2) improving the interagency planning and coordination of Federal research and development on high-performance computing and maximizing the effectiveness of the Federal Government“s high-performance computing efforts.
