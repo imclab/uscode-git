@@ -1,0 +1,54 @@
+  (a) Requirement to restrict access
+    (1) Prohibited conduct
+       Whoever knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors shall be fined not more than $50,000, imprisoned not more than 6 months, or both.
+    (2) Intentional violations
+       In addition to the penalties under paragraph (1), whoever intentionally violates such paragraph shall be subject to a fine of not more than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
+    (3) Civil penalty
+       In addition to the penalties under paragraphs (1) and (2), whoever violates paragraph (1) shall be subject to a civil penalty of not more than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
+  (b) Inapplicability of carriers and other service providers
+     For purposes of subsection (a) of this section, a person shall not be considered to make any communication for commercial purposes to the extent that such person is–
+    (1) a telecommunications carrier engaged in the provision of a telecommunications service;
+    (2) a person engaged in the business of providing an Internet access service;
+    (3) a person engaged in the business of providing an Internet information location tool; or
+    (4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person“s deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this section or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
+  (c) Affirmative defense
+    (1) Defense
+       It is an affirmative defense to prosecution under this section that the defendant, in good faith, has restricted access by minors to material that is harmful to minors–
+      (A) by requiring use of a credit card, debit account, adult access code, or adult personal identification number;
+      (B) by accepting a digital certificate that verifies age; or
+      (C) by any other reasonable measures that are feasible under available technology.
+    (2) Protection for use of defenses
+       No cause of action may be brought in any court or administrative agency against any person on account of any activity that is not in violation of any law punishable by criminal or civil penalty, and that the person has taken in good faith to implement a defense authorized under this subsection or otherwise to restrict or prevent the transmission of, or access to, a communication specified in this section.
+  (d) Privacy protection requirements
+    (1) Disclosure of information limited
+       A person making a communication described in subsection (a) of this section–
+      (A) shall not disclose any information collected for the purposes of restricting access to such communications to individuals 17 years of age or older without the prior written or electronic consent of–
+        (i) the individual concerned, if the individual is an adult; or
+        (ii) the individual“s parent or guardian, if the individual is under 17 years of age; and
+      (B) shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the person making such communication and the recipient of such communication.
+    (2) Exceptions
+       A person making a communication described in subsection (a) of this section may disclose such information if the disclosure is–
+      (A) necessary to make the communication or conduct a legitimate business activity related to making the communication; or
+      (B) made pursuant to a court order authorizing such disclosure.
+  (e) Definitions
+     For purposes of this subsection,\1\N the following definitions shall apply:
+    (1) By means of the World Wide Web
+       The term ””by means of the World Wide Web““ means by placement of material in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.
+    (2) Commercial purposes; engaged in the business
+      (A) Commercial purposes
+         A person shall be considered to make a communication for commercial purposes only if such person is engaged in the business of making such communications.
+      (B) Engaged in the business
+         The term ””engaged in the business““ means that the person who makes a communication, or offers to make a communication, by means of the World Wide Web, that includes any material that is harmful to minors, devotes time, attention, or labor to such activities, as a regular course of such person“s trade or business, with the objective of earning a profit as a result of such activities (although it is not necessary that the person make a profit or that the making or offering to make such communications be the person“s sole or principal business or source of income). A person may be considered to be engaged in the business of making, by means of the World Wide Web, communications for commercial purposes that include material that is harmful to minors, only if the person knowingly causes the material that is harmful to minors to be posted on the World Wide Web or knowingly solicits such material to be posted on the World Wide Web.
+    (3) Internet
+       The term ””Internet““ means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that employ the Transmission Control Protocol/Internet Protocol or any successor protocol to transmit information.
+    (4) Internet access service
+       The term ””Internet access service““ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. Such term does not include telecommunications services.
+    (5) Internet information location tool
+       The term ””Internet information location tool““ means a service that refers or links users to an online location on the World Wide Web. Such term includes directories, indices, references, pointers, and hypertext links.
+    (6) Material that is harmful to minors
+       The term ””material that is harmful to minors““ means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that–
+      (A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
+      (B) depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+      (C) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
+    (7) Minor
+       The term ””minor““ means any person under 17 years of age.
