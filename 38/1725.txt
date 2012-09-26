@@ -9,7 +9,7 @@
   (3) A veteran is personally liable for emergency treatment furnished the veteran in a non-Department facility if the veteran–
     (A) is financially liable to the provider of emergency treatment for that treatment;
     (B) has no entitlement to care or services under a health-plan contract (determined, in the case of a health-plan contract as defined in subsection (f)(2)(B) or (f)(2)(C), without regard to any requirement or limitation relating to eligibility for care or services from any department or agency of the United States);
-    (C) has no other contractual or legal recourse against a third party that would, in whole or in part, extinguish such liability to the provider; and
+    (C) has no other contractual or legal recourse against a third party that would, in whole, extinguish such liability to the provider; and
     (D) is not eligible for reimbursement for medical care or services under section 1728 of this title.
   (c) T4Limitations on ReimbursementK.–(1) The Secretary, in accordance with regulations prescribed by the Secretary, shall–
     (A) establish the maximum amount payable under subsection (a);
@@ -17,6 +17,10 @@
     (C) provide that in no event may a payment under that subsection include any amount for which the veteran is not personally liable.
   (2) Subject to paragraph (1), the Secretary may provide reimbursement under this section only after the veteran or the provider of emergency treatment has exhausted without success all claims and remedies reasonably available to the veteran or provider against a third party for payment of such treatment.
   (3) Payment by the Secretary under this section on behalf of a veteran to a provider of emergency treatment shall, unless rejected and refunded by the provider within 30 days of receipt, extinguish any liability on the part of the veteran for that treatment. Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.
+  (4)    (A) If the veteran has contractual or legal recourse against a third party that would only, in part, extinguish the veteran“s liability to the provider of the emergency treatment, and payment for the treatment may be made both under subsection (a) and by the third party, the amount payable for such treatment under such subsection shall be the amount by which the costs for the emergency treatment exceed the amount payable or paid by the third party, except that the amount payable may not exceed the maximum amount payable established under paragraph (1)(A).
+    (B) In any case in which a third party is financially responsible for part of the veteran“s emergency treatment expenses, the Secretary shall be the secondary payer.
+    (C) A payment in the amount payable under subparagraph (A) shall be considered payment in full and shall extinguish the veteran“s liability to the provider.
+    (D) The Secretary may not reimburse a veteran under this section for any copayment or similar payment that the veteran owes the third party or for which the veteran is responsible under a health-plan contract.
   (d) T4Independent Right of RecoveryK.–(1) In accordance with regulations prescribed by the Secretary, the United States shall have the independent right to recover any amount paid under this section when, and to the extent that, a third party subsequently makes a payment for the same emergency treatment.
   (2) Any amount paid by the United States to the veteran (or the veteran“s personal representative, successor, dependents, or survivors) or to any other person or organization paying for such treatment shall constitute a lien in favor of the United States against any recovery the payee subsequently receives from a third party for the same treatment.
   (3) Any amount paid by the United States to the provider that furnished the veteran“s emergency treatment shall constitute a lien against any subsequent amount the provider receives from a third party for the same emergency treatment for which the United States made payment.
@@ -36,7 +40,6 @@
       (B) An insurance program described in section 1811 of the Social Security Act (42 U.S.C. 1395c) or established by section 1831 of that Act (42 U.S.C. 1395j).
       (C) A State plan for medical assistance approved under title XIX of such Act (42 U.S.C. 1396 et seq.).
       (D) A workers“ compensation law or plan described in section 1729(a)(2)(A) of this title.
-      (E) A law of a State or political subdivision described in section 1729(a)(2)(B) of this title.
     (3) The term ””third party““ means any of the following:
       (A) A Federal entity.
       (B) A State or political subdivision of a State.
