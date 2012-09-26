@@ -3,13 +3,13 @@
     (1) the term ””Under Secretary““ means Under Secretary of Commerce for Oceans and Atmosphere;
     (2) the term ””appropriate congressional committees““ means–
       (A) the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate; and
-      (B) the Committee on Appropriations and the Committee on Science and Technology of the House of Representatives;
-    (3) the term ””satellite““ means the satellites proposed to be acquired for the National Oceanic and Atmospheric Administration, other than the National Polar-orbiting Operational Environmental Satellite System (NPOESS);
+      (B) the Committee on Appropriations and the Committee on Science, Space and Technology of the House of Representatives;
+    (3) the term ””satellite““ means the satellites proposed to be acquired for the National Oceanic and Atmospheric Administration (NOAA);
     (4) the term ””development““ means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in NOAA Administrative Order 216–108, Department of Commerce Administrative Order 208–3, and NASA“s Procedural Requirements 7120.5c, dated March 22, 2005;
     (5) the term ””development cost““ means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program;
     (6) the term ””life-cycle cost““ means the total of the direct, indirect, recurring, and nonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control;
-    (7) the term ””major program““ means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000;
-    (8) the term ””baseline““ means the program as set following contract award and critical design review of the space and ground systems.
+    (7) the term ””major program““ means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000; and
+    (8) the term ””baseline““ means the program as set following contract award and preliminary design review of the space and ground systems.
   (b) Contract requirements for major programs
     (1) NOAA shall not enter into a contract for development of a major program, unless the Under Secretary determines that–
       (A) the technical, cost, and schedule risks of the program are clearly identified and the program has developed a plan to manage those risks;
@@ -37,10 +37,10 @@
     (1) transmit to the appropriate congressional committees, not later than 15 days after making the determination, a report that includes–
       (A) a description of the increase in cost and a detailed explanation for the increase;
       (B) a description of actions taken or proposed to be taken in response to the cost increase; and
-      (C) a description of any impacts the cost increase, or the actions described under subparagraph (B), will have on any other program within NOAA.\1\N
+      (C) a description of any impacts the cost increase, or the actions described under subparagraph (B), will have on any other program within NOAA; and
     (2) if the Under Secretary intends to continue with the program, promptly initiate an analysis of the program, which shall include, at a minimum–
       (A) the projected cost and schedule for completing the program if current requirements of the program are not modified;
       (B) the projected cost and the schedule for completing the program after instituting the actions described under paragraph (1)(B); and
-      (C) a description of, and the projected cost and schedule for, a broad range of alternatives to the program. NOAA shall complete an analysis initiated under paragraph (2) not later than 6 months after the Under Secretary makes a determination under this subsection. The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
-  (f) Estimation of Geostationary Operational Environmental Satellite Program costs
-     For the purposes of determining whether cost of the Geostationary Operational Environmental Satellite Program exceeds 20 percent more than the baseline under this section, the estimate of the total life-cycle cost for GOES–R shall be the estimate provided with the NOAA Fiscal Year 2008 Presidential Budget justification (page 513).
+      (C) a description of, and the projected cost and schedule for, a broad range of alternatives to the program.
+  (f) Completion and transmittal of analysis
+     NOAA shall complete an analysis initiated under paragraph (2) \1\N not later than 6 months after the Under Secretary makes a determination under this subsection.\2\N The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
