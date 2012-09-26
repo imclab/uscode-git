@@ -1,45 +1,25 @@
-  (a) The Secretary of Defense shall submit to Congress, not later than February 15 of each fiscal year, an annual manpower requirements report. The report shall be in writing and shall contain the Secretary“s recommendations for–  
-    (1) the annual active-duty end-strength level for each component of the armed forces for the next fiscal year; and  
-    (2) the annual civilian personnel end-strength level for each component of the Department of Defense for the next fiscal year.  
-  (b)    (1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.  
-    (2) The justification and explanation shall specify in detail for all major military force units (including each land force division, carrier and other major combatant vessel, air wing, and other comparable unit) the following:  
-      (A) Unit mission and capability.  
-      (B) Strategy which the unit supports.  
-      (C) Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas.  
-    (3) The justification and explanation shall also specify in detail the manpower required to perform the medical missions of each of the armed forces and of the Department of Defense.  
-  (c) The Secretary shall include in each report under subsection (a) a detailed discussion of the following:  
-    (1) The manpower required for support and overhead functions within the armed forces and the Department of Defense.  
-    (2) The relationship of the manpower required for support and overhead functions to the primary combat missions and support policies.  
-    (3) The manpower required to be stationed or assigned to duty in foreign countries and aboard vessels located outside the territorial limits of the United States, its territories, and possessions.  
-  (d) In each such report, the Secretary shall also–  
-    (1) identify, define, and group by mission and by region the types of military bases, installations, and facilities;  
-    (2) provide an explanation and justification of the relationship between this base structure and the proposed military force structure; and  
-    (3) provide a comprehensive identification of base operating support costs and an evaluation of possible alternatives to reduce those costs.  
-  (e) The Secretary shall also include in each such report, with respect to each armed force under the jurisdiction of the Secretary of a military department, the following:  
-    (1) The number of positions that require warrant officers or commissioned officers serving on active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.  
-    (2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.  
-    (3) An estimate and analysis for the current fiscal year and for each of the next five fiscal years of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of–  
-      (A) retirements displayed by year of active commissioned service;  
-      (B) discharges;  
-      (C) other separations;  
-      (D) deaths;  
-      (E) promotions; and  
-      (F) reserve and regular officers ordered to active duty.  
-    (4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade in which serving and years of active commissioned service:  
-      (A) Regular officers.  
-      (B) Reserve officers on the active-duty list.  
-      (C) Reserve officers described in clauses (B) and (C) of section 523(b)(1) of this title.  
-      (D) Officers other than those specified in subparagraphs (A), (B), and (C) serving in a temporary grade.  
-    (5) An analysis of the number of officers and enlisted members serving on active duty for training as of the last day of the preceding fiscal year under orders specifying an aggregate period in excess of 180 days and an estimate for the current fiscal year of the number that will be ordered to such duty, tabulated by–  
-      (A) recruit and specialized training;  
-      (B) flight training;  
-      (C) professional training in military and civilian institutions; and  
-      (D) officer acquisition training.  
-  (f) In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.  
-  (g)    (1) In each such report, the Secretary shall also include recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.  
-    (2) For purposes of this subsection, the term ””medical personnel““ includes–  
-      (A) in the case of the Army, members of the Medical Corps, Dental Corps, Nurse Corps, Medical Service Corps, Veterinary Corps, and Army Medical Specialist Corps;  
-      (B) in the case of the Navy, members of the Medical Corps, Dental Corps, Nurse Corps, and Medical Service Corps;  
-      (C) in the case of the Air Force, members designated as medical officers, dental officers, Air Force nurses, medical service officers, and biomedical science officers;  
-      (D) enlisted members engaged in or supporting medically related activities; and  
-      (E) such other personnel as the Secretary considers appropriate.  
+  (a) Congress shall authorize personnel strength levels for each fiscal year for each of the following:
+    (1) The end strength for each of the armed forces (other than the Coast Guard) for (A) active-duty personnel who are to be paid from funds appropriated for active-duty personnel, and (B) active-duty personnel and full-time National Guard duty personnel who are to be paid from funds appropriated for reserve personnel.
+    (2) The end strength for the Selected Reserve of each reserve component of the armed forces.
+    (3) The average military training student loads for each of the armed forces (other than the Coast Guard).
+  (b) No funds may be appropriated for any fiscal year to or for–
+    (1) the use of active-duty personnel or full-time National Guard duty personnel of any of the armed forces (other than the Coast Guard) unless the end strength for such personnel of that armed force for that fiscal year has been authorized by law;
+    (2) the use of the Selected Reserve of any reserve component of the armed forces unless the end strength for the Selected Reserve of that component for that fiscal year has been authorized by law; or
+    (3) training military personnel in the training categories described in subsection (f) of any of the armed forces (other than the Coast Guard) unless the average student load of that armed force for that fiscal year has been authorized by law.
+  (c) Upon determination by the Secretary of Defense that such action is in the national interest, the Secretary may–
+    (1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equal to not more than 0.5 percent of that end strength; and
+    (2) increase the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equal to not more than 2 percent of that end strength.
+  (d) In counting active-duty personnel for the purpose of the end-strengths authorized pursuant to subsection (a)(1), persons in the following categories shall be excluded:
+    (1) Members of the Ready Reserve ordered to active duty under section 673 \1\N of this title.
+    (2) Members of the Selected Reserve of the Ready Reserve ordered to active duty under section 673b \1\ of this title.
+    (3) Members of the National Guard called into Federal service under section 3500 \1\ or 8500 \1\ of this title.
+    (4) Members of the militia called into Federal service under chapter 15 of this title.
+    (5) Members of reserve components on active duty for training.
+    (6) Members of reserve components on active duty for 180 days or less to perform special work.
+    (7) Members on full-time National Guard duty for 180 days or less.
+  (e) The authorized strength of the Navy under subsection (a)(1) is increased by the authorized strength of the Coast Guard during any period when the Coast Guard is operating as a service in the Navy.
+  (f) Authorization under subsection (a)(3) is not required for unit or crew training student loads, but is required for student loads for the following individual training categories:
+    (1) Recruit and specialized training.
+    (2) Flight training.
+    (3) Professional training in military and civilian institutions.
+    (4) Officer acquisition training.
