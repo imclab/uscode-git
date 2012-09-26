@@ -1,0 +1,4 @@
+  (a) Subscriber request
+     Upon request by a cable service subscriber, a cable operator shall, without charge, fully scramble or otherwise fully block the audio and video programming of each channel carrying such programming so that one not a subscriber does not receive it.
+  (b) ””Scramble““ defined
+     As used in this section, the term ””scramble““ means to rearrange the content of the signal of the programming so that the programming cannot be viewed or heard in an understandable manner.

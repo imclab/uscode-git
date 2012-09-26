@@ -1,8 +1,9 @@
   (a) Findings
      The Congress finds that–
     (1) new and recent models of television receivers and video cassette recorders often contain premium features and functions that are disabled or inhibited because of cable scrambling, encoding, or encryption technologies and devices, including converter boxes and remote control devices required by cable operators to receive programming;
-    (2) if these problems are allowed to persist, consumers will be less likely to purchase, and electronics equipment manufacturers will be less likely to develop, manufacture, or offer for sale, television receivers and video cassette recorders with new and innovative features and functions; and
-    (3) cable operators should use technologies that will prevent signal thefts while permitting consumers to benefit from such features and functions in such receivers and recorders.
+    (2) if these problems are allowed to persist, consumers will be less likely to purchase, and electronics equipment manufacturers will be less likely to develop, manufacture, or offer for sale, television receivers and video cassette recorders with new and innovative features and functions;
+    (3) cable operators should use technologies that will prevent signal thefts while permitting consumers to benefit from such features and functions in such receivers and recorders; and
+    (4) compatibility among televisions, video cassette recorders, and cable systems can be assured with narrow technical standards that mandate a minimum degree of common design and operation, leaving all features, functions, protocols, and other product and service options for selection through open competition in the market.
   (b) Compatible interfaces
     (1) Report; regulations
        Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders. Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.
@@ -11,11 +12,12 @@
   (c) Rulemaking requirements
     (1) Factors to be considered
        In prescribing the regulations required by this section, the Commission shall consider–
-      (A) the costs and benefits to consumers of imposing compatibility requirements on cable operators and television manufacturers in a manner that, while providing effective protection against theft or unauthorized reception of cable service, will minimize interference with or nullification of the special functions of subscribers“ television receivers or video cassette recorders, including functions that permit the subscriber–
+      (A) the need to maximize open competition in the market for all features, functions, protocols, and other product and service options of converter boxes and other cable converters unrelated to the descrambling or decryption of cable television signals;
+      (B) the costs and benefits to consumers of imposing compatibility requirements on cable operators and television manufacturers in a manner that, while providing effective protection against theft or unauthorized reception of cable service, will minimize interference with or nullification of the special functions of subscribers“ television receivers or video cassette recorders, including functions that permit the subscriber–
         (i) to watch a program on one channel while simultaneously using a video cassette recorder to tape a program on another channel;
         (ii) to use a video cassette recorder to tape two consecutive programs that appear on different channels; and
         (iii) to use advanced television picture generation and display features; and
-      (B) the need for cable operators to protect the integrity of the signals transmitted by the cable operator against theft or to protect such signals against unauthorized reception.
+      (C) the need for cable operators to protect the integrity of the signals transmitted by the cable operator against theft or to protect such signals against unauthorized reception.
     (2) Regulations required
        The regulations prescribed by the Commission under this section shall include such regulations as are necessary–
       (A) to specify the technical requirements with which a television receiver or video cassette recorder must comply in order to be sold as ””cable compatible““ or ””cable ready““;
@@ -26,9 +28,10 @@
           (III) to use advanced television picture generation and display features; and
         (ii) to the extent technically and economically feasible, to offer subscribers the option of having all other channels delivered directly to the subscribers“ television receivers or video cassette recorders without passing through the converter box;
       (C) to promote the commercial availability, from cable operators and retail vendors that are not affiliated with cable systems, of converter boxes and of remote control devices compatible with converter boxes;
-      (D) to require a cable operator who offers subscribers the option of renting a remote control unit–
+      (D) to ensure that any standards or regulations developed under the authority of this section to ensure compatibility between televisions, video cassette recorders, and cable systems do not affect features, functions, protocols, and other product and service options other than those specified in paragraph (1)(B), including telecommunications interface equipment, home automation communications, and computer network services;
+      (E) to require a cable operator who offers subscribers the option of renting a remote control unit–
         (i) to notify subscribers that they may purchase a commercially available remote control device from any source that sells such devices rather than renting it from the cable operator; and
         (ii) to specify the types of remote control units that are compatible with the converter box supplied by the cable operator; and
-      (E) to prohibit a cable operator from taking any action that prevents or in any way disables the converter box supplied by the cable operator from operating compatibly with commercially available remote control units.
+      (F) to prohibit a cable operator from taking any action that prevents or in any way disables the converter box supplied by the cable operator from operating compatibly with commercially available remote control units.
   (d) Review of regulations
      The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actions taken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.

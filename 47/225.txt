@@ -1,7 +1,7 @@
   (a) Definitions
      As used in this section–
     (1) Common carrier or carrier
-       The term ””common carrier““ or ””carrier““ includes any common carrier engaged in interstate communication by wire or radio as defined in section 153(h) of this title and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 152(b) and 221(b) of this title.
+       The term ””common carrier““ or ””carrier““ includes any common carrier engaged in interstate communication by wire or radio as defined in section 153 of this title and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 152(b) and 221(b) of this title.
     (2) TDD
        The term ””TDD““ means a Telecommunications Device for the Deaf, which is a machine that employs graphic communication in the transmission of coded signals through a wire or radio communication system.
     (3) Telecommunications relay services

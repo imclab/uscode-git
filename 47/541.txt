@@ -12,12 +12,20 @@
   (b) No cable service without franchise; exception under prior law
     (1) Except to the extent provided in paragraph (2) and subsection (f) of this section, a cable operator may not provide cable service without a franchise.
     (2) Paragraph (1) shall not require any person lawfully providing cable service without a franchise on July 1, 1984, to obtain a franchise unless the franchising authority so requires.
+    (3)      (A) If a cable operator or affiliate thereof is engaged in the provision of telecommunications services–
+        (i) such cable operator or affiliate shall not be required to obtain a franchise under this subchapter for the provision of telecommunications services; and
+        (ii) the provisions of this subchapter shall not apply to such cable operator or affiliate for the provision of telecommunications services.
+      (B) A franchising authority may not impose any requirement under this subchapter that has the purpose or effect of prohibiting, limiting, restricting, or conditioning the provision of a telecommunications service by a cable operator or an affiliate thereof.
+      (C) A franchising authority may not order a cable operator or affiliate thereof–
+        (i) to discontinue the provision of a telecommunications service, or
+        (ii) to discontinue the operation of a cable system, to the extent such cable system is used for the provision of a telecommunications service, by reason of the failure of such cable operator or affiliate thereof to obtain a franchise or franchise renewal under this subchapter with respect to the provision of such telecommunications service.
+      (D) Except as otherwise permitted by sections 531 and 532 of this title, a franchising authority may not require a cable operator to provide any telecommunications service or facilities, other than institutional networks, as a condition of the initial grant of a franchise, a franchise renewal, or a transfer of a franchise.
   (c) Status of cable system as common carrier or utility
      Any cable system shall not be subject to regulation as a common carrier or utility by reason of providing any cable service.
   (d) Informational tariffs; regulation by States; ””State““ defined
     (1) A State or the Commission may require the filing of informational tariffs for any intrastate communications service provided by a cable system, other than cable service, that would be subject to regulation by the Commission or any State if offered by a common carrier subject, in whole or in part, to subchapter II of this chapter. Such informational tariffs shall specify the rates, terms, and conditions for the provision of such service, including whether it is made available to all subscribers generally, and shall take effect on the date specified therein.
     (2) Nothing in this subchapter shall be construed to affect the authority of any State to regulate any cable operator to the extent that such operator provides any communication service other than cable service, whether offered on a common carrier or private contract basis.
-    (3) For purposes of this subsection, the term ””State““ has the meaning given it in section 153(v) of this title.
+    (3) For purposes of this subsection, the term ””State““ has the meaning given it in section 153 of this title.
   (e) State regulation of facilities serving subscribers in multiple dwelling units
      Nothing in this subchapter shall be construed to affect the authority of any State to license or otherwise regulate any facility or combination of facilities which serves only subscribers in one or more multiple unit dwellings under common ownership, control, or management and which does not use any public right-of-way.
   (f) Local or municipal authority as multichannel video programming distributor

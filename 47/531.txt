@@ -9,6 +9,6 @@
     (1) rules and procedures under which the cable operator is permitted to use such channel capacity for the provision of other services if such channel capacity is not being used for the purposes designated, and
     (2) rules and procedures under which such permitted use shall cease.
   (e) Editorial control by cable operator
-     Subject to section 544(d) of this title, a cable operator shall not exercise any editorial control over any public, educational, or governmental use of channel capacity provided pursuant to this section.
+     Subject to section 544(d) of this title, a cable operator shall not exercise any editorial control over any public, educational, or governmental use of channel capacity provided pursuant to this section, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity.
   (f) ””Institutional network““ defined
      For purposes of this section, the term ””institutional network““ means a communication network which is constructed or operated by the cable operator and which is generally available only to subscribers who are not residential subscribers.

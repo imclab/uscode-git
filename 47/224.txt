@@ -1,12 +1,19 @@
   (a) Prohibited acts generally
      Whoever–
-    (1) in the District of Columbia or in interstate or foreign communication by means of telephone–
-      (A) makes any comment, request, suggestion or proposal which is obscene, lewd, lascivious, filthy, or indecent;
-      (B) makes a telephone call, whether or not conversation ensues, without disclosing his identity and with intent to annoy, abuse, threaten, or harass any person at the called number;
-      (C) makes or causes the telephone of another repeatedly or continuously to ring, with intent to harass any person at the called number; or
-      (D) makes repeated telephone calls, during which conversation ensues, solely to harass any person at the called number; or
-    (2) knowingly permits any telephone facility under his control to be used for any purpose prohibited by this section,
-       shall be fined not more than $50,000 or imprisoned not more than six months, or both.
+    (1) in interstate or foreign communications–
+      (A) by means of a telecommunications device knowingly–
+        (i) makes, creates, or solicits, and
+        (ii) initiates the transmission of,
+       any comment, request, suggestion, proposal, image, or other communication which is obscene, lewd, lascivious, filthy, or indecent, with intent to annoy, abuse, threaten, or harass another person;
+      (B) by means of a telecommunications device knowingly–
+        (i) makes, creates, or solicits, and
+        (ii) initiates the transmission of,
+       any comment, request, suggestion, proposal, image, or other communication which is obscene or indecent, knowing that the recipient of the communication is under 18 years of age, regardless of whether the maker of such communication placed the call or initiated the communication;
+      (C) makes a telephone call or utilizes a telecommunications device, whether or not conversation or communication ensues, without disclosing his identity and with intent to annoy, abuse, threaten, or harass any person at the called number or who receives the communications;
+      (D) makes or causes the telephone of another repeatedly or continuously to ring, with intent to harass any person at the called number; or
+      (E) makes repeated telephone calls or repeatedly initiates communication with a telecommunications device, during which conversation or communication ensues, solely to harass any person at the called number or who receives the communication; or
+    (2) knowingly permits any telecommunications facility under his control to be used for any activity prohibited by paragraph (1) with the intent that it be used for such activity,
+       shall be fined under title 18 or imprisoned not more than two years, or both.
   (b) Prohibited acts for commercial purposes; defense to prosecution
     (1) Whoever knowingly–
       (A) within the United States, by means of telephone, makes (directly or by recording device) any obscene communication for commercial purposes to any person, regardless of whether the maker of such communication placed the call; or
@@ -30,3 +37,38 @@
         (i) in good faith reliance upon the lack of any representation by a provider of communications that communications provided by that provider are communications specified in subsection (b) of this section, or
         (ii) because a specific representation by the provider did not allow the carrier, acting in good faith, a sufficient period to restrict access to restrict access to communications described in subsection (b) of this section.
     (3) Notwithstanding paragraph (2) of this subsection, a provider of communications services to which subscribers are denied access pursuant to paragraph (1) of this subsection may bring an action for a declaratory judgment or similar action in a court. Any such action shall be limited to the question of whether the communications which the provider seeks to provide fall within the category of communications to which the carrier will provide access only to subscribers who have previously requested such access.
+  (d) Sending or displaying offensive material to persons under 18
+     Whoever–
+    (1) in interstate or foreign communications knowingly–
+      (A) uses an interactive computer service to send to a specific person or persons under 18 years of age, or
+      (B) uses any interactive computer service to display in a manner available to a person under 18 years of age,
+     any comment, request, suggestion, proposal, image, or other communication that, in context, depicts or describes, in terms patently offensive as measured by contemporary community standards, sexual or excretory activities or organs, regardless of whether the user of such service placed the call or initiated the communication; or 
+    (2) knowingly permits any telecommunications facility under such person“s control to be used for an activity prohibited by paragraph (1) with the intent that it be used for such activity,
+       shall be fined under title 18 or imprisoned not more than two years, or both. 
+  (e) Defenses
+     In addition to any other defenses available by law:
+    (1) No person shall be held to have violated subsection (a) or (d) of this section solely for providing access or connection to or from a facility, system, or network not under that person“s control, including transmission, downloading, intermediate storage, access software, or other related capabilities that are incidental to providing such access or connection that does not include the creation of the content of the communication.
+    (2) The defenses provided by paragraph (1) of this subsection shall not be applicable to a person who is a conspirator with an entity actively involved in the creation or knowing distribution of communications that violate this section, or who knowingly advertises the availability of such communications.
+    (3) The defenses provided in paragraph (1) of this subsection shall not be applicable to a person who provides access or connection to a facility, system, or network engaged in the violation of this section that is owned or controlled by such person.
+    (4) No employer shall be held liable under this section for the actions of an employee or agent unless the employee“s or agent“s conduct is within the scope of his or her employment or agency and the employer (A) having knowledge of such conduct, authorizes or ratifies such conduct, or (B) recklessly disregards such conduct.
+    (5) It is a defense to a prosecution under subsection (a)(1)(B) or (d) of this section, or under subsection (a)(2) of this section with respect to the use of a facility for an activity under subsection (a)(1)(B) of this section that a person–
+      (A) has taken, in good faith, reasonable, effective, and appropriate actions under the circumstances to restrict or prevent access by minors to a communication specified in such subsections, which may involve any appropriate measures to restrict minors from such communications, including any method which is feasible under available technology; or
+      (B) has restricted access to such communication by requiring use of a verified credit card, debit account, adult access code, or adult personal identification number.
+    (6) The Commission may describe measures which are reasonable, effective, and appropriate to restrict access to prohibited communications under subsection (d) of this section. Nothing in this section authorizes the Commission to enforce, or is intended to provide the Commission with the authority to approve, sanction, or permit, the use of such measures. The Commission shall have no enforcement authority over the failure to utilize such measures. The Commission shall not endorse specific products relating to such measures. The use of such measures shall be admitted as evidence of good faith efforts for purposes of paragraph (5) in any action arising under subsection (d) of this section. Nothing in this section shall be construed to treat interactive computer services as common carriers or telecommunications carriers.
+  (f) Violations of law required; commercial entities, nonprofit libraries, or institutions of higher education
+    (1) No cause of action may be brought in any court or administrative agency against any person on account of any activity that is not in violation of any law punishable by criminal or civil penalty, and that the person has taken in good faith to implement a defense authorized under this section or otherwise to restrict or prevent the transmission of, or access to, a communication specified in this section.
+    (2) No State or local government may impose any liability for commercial activities or actions by commercial entities, nonprofit libraries, or institutions of higher education in connection with an activity or action described in subsection (a)(2) or (d) of this section that is inconsistent with the treatment of those activities or actions under this section: T3Provided, howeverK, That nothing herein shall preclude any State or local government from enacting and enforcing complementary oversight, liability, and regulatory systems, procedures, and requirements, so long as such systems, procedures, and requirements govern only intrastate services and do not result in the imposition of inconsistent rights, duties or obligations on the provision of interstate services. Nothing in this subsection shall preclude any State or local government from governing conduct not covered by this section.
+  (g) Application and enforcement of other Federal law
+     Nothing in subsection (a), (d), (e), or (f) of this section or in the defenses to prosecution under subsection (a) or (d) of this section shall be construed to affect or limit the application or enforcement of any other Federal law.
+  (h) Definitions
+     For purposes of this section–
+    (1) The use of the term ””telecommunications device““ in this section–
+      (A) shall not impose new obligations on broadcasting station licensees and cable operators covered by obscenity and indecency provisions elsewhere in this chapter; and
+      (B) does not include an interactive computer service.
+    (2) The term ””interactive computer service““ has the meaning provided in section 230(e)(2) of this title.
+    (3) The term ””access software““ means software (including client or server software) or enabling tools that do not create or provide the content of the communication but that allow a user to do any one or more of the following:
+      (A) filter, screen, allow, or disallow content;
+      (B) pick, choose, analyze, or digest content; or
+      (C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
+    (4) The term ””institution of higher education““ has the meaning provided in section 1141 of title 20.
+    (5) The term ””library““ means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 355e et seq.).

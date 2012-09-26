@@ -10,3 +10,8 @@
       (B) readily being altered by the user to receive transmissions in such frequencies, or
       (C) being equipped with decoders that convert digital cellular transmissions to analog voice audio.
     (2) Beginning 1 year after the effective date of the regulations adopted pursuant to paragraph (1), no receiver having the capabilities described in subparagraph (A), (B), or (C) of paragraph (1), as such capabilities are defined in such regulations, shall be manufactured in the United States or imported for use in the United States.
+  (e) Delegation of equipment testing and certification to private laboratories
+     The Commission may–
+    (1) authorize the use of private organizations for testing and certifying the compliance of devices or home electronic equipment and systems with regulations promulgated under this section;
+    (2) accept as prima facie evidence of such compliance the certification by any such organization; and
+    (3) establish such qualifications and standards as it deems appropriate for such private organizations, testing, and certification.

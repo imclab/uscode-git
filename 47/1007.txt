@@ -1,11 +1,11 @@
   (a) Grounds for issuance
-     A court shall issue an order enforcing this chapter under section 2522 of title 18 only if the court finds that–
+     A court shall issue an order enforcing this subchapter under section 2522 of title 18 only if the court finds that–
     (1) alternative technologies or capabilities or the facilities of another carrier are not reasonably available to law enforcement for implementing the interception of communications or access to call-identifying information; and
-    (2) compliance with the requirements of this chapter is reasonably achievable through the application of available technology to the equipment, facility, or service at issue or would have been reasonably achievable if timely action had been taken.
+    (2) compliance with the requirements of this subchapter is reasonably achievable through the application of available technology to the equipment, facility, or service at issue or would have been reasonably achievable if timely action had been taken.
   (b) Time for compliance
-     Upon issuing an order enforcing this chapter, the court shall specify a reasonable time and conditions for complying with its order, considering the good faith efforts to comply in a timely manner, any effect on the carrier“s, manufacturer“s, or service provider“s ability to continue to do business, the degree of culpability or delay in undertaking efforts to comply, and such other matters as justice may require.
+     Upon issuing an order enforcing this subchapter, the court shall specify a reasonable time and conditions for complying with its order, considering the good faith efforts to comply in a timely manner, any effect on the carrier“s, manufacturer“s, or service provider“s ability to continue to do business, the degree of culpability or delay in undertaking efforts to comply, and such other matters as justice may require.
   (c) Limitations
-     An order enforcing this chapter may not–
+     An order enforcing this subchapter may not–
     (1) require a telecommunications carrier to meet the Government“s \1\N demand for interception of communications and acquisition of call-identifying information to any extent in excess of the capacity for which the Attorney General has agreed to reimburse such carrier;
     (2) require any telecommunications carrier to comply with assistance capability requirement \2\N of section 1002 of this title if the Commission has determined (pursuant to section 1008(b)(1) of this title) that compliance is not reasonably achievable, unless the Attorney General has agreed (pursuant to section 1008(b)(2) of this title) to pay the costs described in section 1008(b)(2)(A) of this title; or
     (3) require a telecommunications carrier to modify, for the purpose of complying with the assistance capability requirements of section 1002 of this title, any equipment, facility, or service deployed on or before January 1, 1995, unless–
