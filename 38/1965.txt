@@ -16,7 +16,7 @@
   (5) The term ””member““ means–
     (A) a person on active duty, active duty for training, or inactive duty training in the uniformed services in a commissioned, warrant, or enlisted rank, or grade, or as a cadet or midshipman of the United States Military Academy, United States Naval Academy, United States Air Force Academy, or the United States Coast Guard Academy;
     (B) a person who volunteers for assignment to the Ready Reserve of a uniformed service and is assigned to a unit or position in which such person may be required to perform active duty, or active duty for training, and each year will be scheduled to perform at least twelve periods of inactive duty training that is creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
-    (C) a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) of title 10; and
+    (C) a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) \1\N of title 10; and
     (D) a member, cadet, or midshipman of the Reserve Officers Training Corps while attending field training or practice cruises.
   (6) The term ””uniformed services““ means the Army, Navy, Air Force, Marine Corps, Coast Guard, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
   (7) The terms ””widow““ or ””widower““ means a person who is the lawful spouse of the insured member at the time of his death.
@@ -25,10 +25,3 @@
   (10) The term ””insurable dependent““, with respect to a member, means the following:
     (A) The member“s spouse.
     (B) The member“s child, as defined in the first sentence of section 101(4)(A) of this title.
-  (11) The term ””activities of daily living““ means the inability to independently perform 2 of the 6 following functions:
-    (A) Bathing.
-    (B) Continence.
-    (C) Dressing.
-    (D) Eating.
-    (E) Toileting.
-    (F) Transferring.
