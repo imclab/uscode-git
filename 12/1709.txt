@@ -1,5 +1,26 @@
   (a) Mutual Mortgage Insurance Fund
-     There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the ””Fund““), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.
+    (1) Establishment
+       Subject to the provisions of the Federal Credit Reform Act of 1990 [2 U.S.C. 661 et seq.], there is hereby created a Mutual Mortgage Insurance Fund (in this subchapter referred to as the ””Fund““), which shall be used by the Secretary to carry out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title. The Secretary may enter into commitments to guarantee, and may guarantee, such insured mortgages.
+    (2) Limit on loan guarantees
+       The authority of the Secretary to enter into commitments to guarantee such insured mortgages shall be effective for any fiscal year only to the extent that the aggregate original principal loan amount under such mortgages, any part of which is guaranteed, does not exceed the amount specified in appropriations Acts for such fiscal year.
+    (3) Fiduciary responsibility
+       The Secretary has a responsibility to ensure that the Mutual Mortgage Insurance Fund remains financially sound.
+    (4) Annual independent actuarial study
+       The Secretary shall provide for an independent actuarial study of the Fund to be conducted annually, which shall analyze the financial position of the Fund. The Secretary shall submit a report annually to the Congress describing the results of such study and assessing the financial status of the Fund. The report shall recommend adjustments to underwriting standards, program participation, or premiums, if necessary, to ensure that the Fund remains financially sound. The report shall also include an evaluation of the quality control procedures and accuracy of information utilized in the process of underwriting loans guaranteed by the Fund. Such evaluation shall include a review of the risk characteristics of loans based not only on borrower information and performance, but on risks associated with loans originated or funded by various entities or financial institutions.
+    (5) Quarterly reports
+       During each fiscal year, the Secretary shall submit a report to the Congress for each calendar quarter, which shall specify for mortgages that are obligations of the Fund–
+      (A) the cumulative volume of loan guarantee commitments that have been made during such fiscal year through the end of the quarter for which the report is submitted;
+      (B) the types of loans insured, categorized by risk;
+      (C) any significant changes between actual and projected claim and prepayment activity;
+      (D) projected versus actual loss rates; and
+      (E) updated projections of the annual subsidy rates to ensure that increases in risk to the Fund are identified and mitigated by adjustments to underwriting standards, program participation, or premiums, and the financial soundness of the Fund is maintained.
+       The first quarterly report under this paragraph shall be submitted on the last day of the first quarter of fiscal year 2008, or on the last day of the first full calendar quarter following July 30, 2008, whichever is later.
+    (6) Adjustment of premiums
+       If, pursuant to the independent actuarial study of the Fund required under paragraph (4), the Secretary determines that the Fund is not meeting the operational goals established under paragraph (7) or there is a substantial probability that the Fund will not maintain its established target subsidy rate, the Secretary may either make programmatic adjustments under this subchapter as necessary to reduce the risk to the Fund, or make appropriate premium adjustments.
+    (7) Operational goals
+       The operational goals for the Fund are–
+      (A) to minimize the default risk to the Fund and to homeowners by among other actions instituting fraud prevention quality control screening not later than 18 months after July 30, 2008; and
+      (B) to meet the housing needs of the borrowers that the single family mortgage insurance program under this subchapter is designed to serve.
   (b) Advisory Board
      There is created a Federal Housing Administration Advisory Board (””Board““) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
     (1) The Advisory Board shall be composed of 15 members to be appointed from among individuals who have substantial expertise and broad experience in housing and mortgage lending of whom–
@@ -80,7 +101,17 @@
       (A) conduct and complete its own investigation;
       (B) provide written notification to the other agency of its decision, including the factual basis for its decision; and
       (C) if a mortgagee is withdrawn, publish its decision in the Federal Register.
-  (e) Appraisal standards
+  (e) Suspension or revocation of approval of mortgagee; notice and statement of reasons
+     Whenever the Secretary has taken any discretionary action to suspend or revoke the approval of any mortgagee to participate in any mortgage insurance program under this subchapter, the Secretary shall provide prompt notice of the action and a statement of the reasons for the action to–
+    (1) the Secretary of Veterans Affairs;
+    (2) the chief executive officer of the Federal National Mortgage Association;
+    (3) the chief executive officer of the Federal Home Loan Mortgage Corporation;
+    (4) the Secretary of Agriculture;
+    (5) if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;
+    (6) if the mortgagee is a State bank that is a member of the Federal Reserve System or a subsidiary or affiliate of such a bank, or a bank holding company or a subsidiary or affiliate of such a company, the Board of Governors of the Federal Reserve System;
+    (7) if the mortgagee is a State bank that is not a member of the Federal Reserve System or is a subsidiary or affiliate of such a bank, the Board of Directors of the Federal Deposit Insurance Corporation; and
+    (8) if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision.
+  (f) Appraisal standards
     (1) The Secretary shall prescribe standards for the appraisal of all property to be insured by the Federal Housing Administration. Such appraisals shall be performed in accordance with uniform standards, by individuals who have demonstrated competence and whose professional conduct is subject to effective supervision. These standards shall require at a minimum–
       (A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as the appraisal standards promulgated by the Appraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
       (B) that each appraisal be a written statement used in connection with a real estate transaction that is independently an \4\N impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
@@ -92,3 +123,8 @@
     (4) T4Fee Panel Appraisers.–
       (A) Any individual who is an employee of an appraisal company (including any company organized as a corporation, partnership, or sole proprietorship) and who meets the qualifications or standards for appraisers and inclusion on appraiser fee panels established by the Secretary, shall be eligible for assignment to conduct appraisals for mortgages under this subchapter in the same manner and on the same basis as other approved appraisers.
       (B) With respect to any employee of an appraisal company described in subparagraph (A) who is offered an appraisal assignment in connection with a mortgage under this subchapter, the person utilizing the appraiser may contract directly with the appraisal company employing the appraiser for the furnishing of the appraisal services.
+    (5) T4Additional appraiser standardsK.–Beginning on July 30, 2008, any appraiser chosen or approved to conduct appraisals for mortgages under this subchapter shall–
+      (A) be certified–
+        (i) by the State in which the property to be appraised is located; or
+        (ii) by a nationally recognized professional appraisal organization; and
+      (B) have demonstrated verifiable education in the appraisal requirements established by the Federal Housing Administration under this subsection.

@@ -1,58 +1,23 @@
-  (a) Establishment
+  (a) Establishment of goal
     (1) In general
-       The Secretary shall establish a special annual goal designed to adjust the purchase by each enterprise of mortgages on rental and owner-occupied housing to meet the then-existing unaddressed needs of, and affordable to, low-income families in low-income areas and very low-income families. The special affordable housing goal established under this section for an enterprise shall not be less than 1 percent of the dollar amount of the mortgage purchases by the enterprise for the previous year.
-    (2) Standards
-       In establishing the special affordable housing goal for an enterprise, the Secretary shall consider–
-      (A) data submitted to the Secretary in connection with the special affordable housing goal for previous years;
-      (B) the performance and efforts of the enterprise toward achieving the special affordable housing goal in previous years;
-      (C) national housing needs within the categories set forth in this section;
-      (D) the ability of the enterprise to lead the industry in making mortgage credit available for low-income and very low-income families; and
-      (E) the need to maintain the sound financial condition of the enterprise.
-  (b) Full credit activities
-    (1) In general
-       The Secretary shall give full credit toward achievement of the special affordable housing goal under this section (for purposes of section 4566 of this title) to the following activities:
-      (A) Federally related mortgages
-         The purchase or securitization of federally insured or guaranteed mortgages, if–
-        (i) such mortgages cannot be readily securitized through the Government National Mortgage Association or any other Federal agency;
-        (ii) participation of the enterprise substantially enhances the affordability of the housing subject to such mortgages; and
-        (iii) the mortgages involved are on housing that otherwise qualifies under such goal to be considered for purposes of such goal.
-      (B) Portfolios
-         The purchase or refinancing of existing, seasoned portfolios of loans, if–
-        (i) the seller is engaged in a specific program to use the proceeds of such sales to originate additional loans that meet such goal; and
-        (ii) such purchases or refinancings support additional lending for housing that otherwise qualifies under such goal to be considered for purposes of such goal.
-      (C) RTC and FDIC loans
-         The purchase of direct loans made by the Resolution Trust Corporation or the Federal Deposit Insurance Corporation, if such loans–
-        (i) are not guaranteed by such agencies themselves or other Federal agencies;
-        (ii) are made with recourse provisions similar to those offered through private mortgage insurance or other conventional sellers; and
-        (iii) are made for the purchase of housing that otherwise qualifies under such goal to be considered for purposes of such goal.
-    (2) Exclusion
-       No credit toward the achievement of the special affordable housing goal may be given to the purchase or securitization of mortgages associated with the refinancing of the existing enterprise portfolios.
-  (c) Use of borrower and tenant income
-    (1) In general
-       The Secretary shall monitor the performance of each enterprise in carrying out this section and shall evaluate such performance (for purposes of section 4566 of this title) based on–
-      (A) in the case of an owner-occupied dwelling, the mortgagor“s income at the time of origination of the mortgage; or
-      (B) in the case of a rental dwelling–
-        (i) the income of the prospective or actual tenants of the property, where such data are available; or
-        (ii) the rent levels affordable to low-income and very low-income families, where the data referred to in clause (i) are not available.
-    (2) Affordability
-       For the purpose of paragraph (1)(B)(ii), a rent level shall be considered affordable if it does not exceed 30 percent of the maximum income level of the income categories referred to in this section, with appropriate adjustments for unit size as measured by the number of bedrooms.
-  (d) Transition
-    (1) FNMA mortgage purchases
-       Notwithstanding any other provision of this section, during the 2-year period beginning on January 1, 1993, the special affordable housing goal for the Federal National Mortgage Association shall include mortgage purchases of not less than $2,000,000,000 (for such 2-year period), with one-half of such purchases consisting of mortgages on single family housing and one-half consisting of mortgages on multifamily housing.
-    (2) FHLMC mortgage purchases
-       Notwithstanding any other provision of this section, during the 2-year period beginning on January 1, 1993, the special affordable housing goal for the Federal Home Loan Mortgage Corporation shall include mortgage purchases of not less than $1,500,000,000 (for such 2-year period), with one-half of such purchases consisting of mortgages on single family housing and one-half consisting of mortgages on multifamily housing.
-    (3) Income characteristics for mortgage purchases
-      (A) Multifamily mortgages
-         The special affordable housing goals established under paragraphs (1) and (2) shall provide that, of mortgages on multifamily housing that are purchased and contribute to the achievement of such goals–
-        (i) 45 percent shall be mortgages on multifamily housing affordable to low-income families; and
-        (ii) 55 percent shall be mortgages on multifamily housing in which–
-          (I) at least 20 percent of the units are affordable to families whose incomes do not exceed 50 percent of the median income for the area; or
-          (II) at least 40 percent of the units are affordable to very low-income families.
-      (B) Single family mortgages
-         The special affordable housing goals established under paragraphs (1) and (2) shall provide that, of mortgages on single family housing that are purchased and contribute to the achievement of such goals–
-        (i) 45 percent shall be mortgages of low-income families who live in census tracts in which the median income does not exceed 80 percent of the area median income; and
-        (ii) 55 percent shall be mortgages of very low-income families.
-      (C) Compliance with special affordable housing goals
-         Only the portion of mortgages on multifamily housing purchased by an enterprise that are attributable to units affordable to low-income families shall contribute to the achievement of the special affordable housing goals under subparagraph (A)(ii).
-    (4) Implementation
-       The Secretary shall establish any requirements necessary to implement the transition provisions under this subsection by notice, after providing the enterprises with an opportunity to review and comment not less than 30 days before the issuance of such notice. Such notice shall be issued not later than the expiration of the 90-day period beginning upon October 28, 1992, and shall be effective upon issuance.
+       The Director shall, by regulation, establish a single annual goal, by either unit or dollar volume, of purchases by each enterprise of mortgages on multifamily housing that finance dwelling units affordable to low-income families.
+    (2) Additional requirements for units affordable to very low-income families
+       When establishing the goal under this section, the Director shall establish additional requirements for the purchase by each enterprise of mortgages on multifamily housing that finance dwelling units affordable to very low-income families.
+    (3) Reporting on smaller properties
+       The Director shall require each enterprise to report on the purchase by each enterprise of multifamily housing of a smaller or limited size that is affordable to low-income families, which may be based on multifamily projects of 5 to 50 units (as such numbers may be adjusted by the Director) or on mortgages of up to $5,000,000 (as such amount may be adjusted by the Director), and may, by regulation, establish such aditional \1\N requirements related to such units.
+    (4) Factors
+       In establishing the goal and additional requirements under this section, the Director shall not consider segments of the market determined to be inconsistent with safety and soundness or unauthorized for purchase by the enterprises, and shall take into consideration–
+      (A) national multifamily mortgage credit needs and the ability of the enterprise to provide additional liquidity and stability for the multifamily mortgage market;
+      (B) the performance and effort of the enterprise in making mortgage credit available for multifamily housing in previous years;
+      (C) the size of the multifamily mortgage market for housing affordable to low-income and very low-income families, including the size of the multifamily markets for housing of a smaller or limited size;
+      (D) the ability of the enterprise to lead the market in making multifamily mortgage credit available, especially for multifamily housing described in paragraphs (1) and (2);
+      (E) the availability of public subsidies; and
+      (F) the need to maintain the sound financial condition of the enterprise.
+  (b) Units financed by housing finance agency bonds
+     The Director shall give full credit toward the achievement of the multifamily special affordable housing goal under this section (for purposes of section 4566 of this title) to dwelling units in multifamily housing that otherwise qualifies under such goal and that is financed by tax-exempt or taxable bonds issued by a State or local housing finance agency, if such bonds, in whole or in part–
+    (1) are secured by a guarantee of the enterprise; or
+    (2) are purchased by the enterprise, except that the Director may give less than full credit for purchases of investment grade bonds, to the extent that such purchases do not provide a new market or add liquidity to an existing market.
+  (c) Measurement of performance
+     The Director shall monitor the performance of each enterprise in meeting the goals established under this section and shall evaluate such performance (for purposes of section 4566 of this title) based on whether the rent levels are affordable. A rent level shall be considered to be affordable for purposes of this subsection for low-income families if it does not exceed 30 percent of the maximum income level of such income category, with appropriate adjustments for unit size as measured by the number of bedrooms.
+  (d) Determination of compliance
+     The Director shall determine, for each year that the housing goal under this section is in effect pursuant to section 4561(a) of this title, whether each enterprise has complied with such goal and the additional requirements under subsection (a)(2).

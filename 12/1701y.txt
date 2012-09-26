@@ -35,9 +35,15 @@
       (A) the home loan is secured by property that is the principal residence (as defined by the Secretary) of the homeowner;
       (B) the home loan is not assisted under title V of the Housing Act of 1949 [42 U.S.C. 1471 et seq.]; and
       (C) the homeowner is, or is expected to be, unable to make payments, correct a home loan delinquency within a reasonable time, or resume full home loan payments due to a reduction in the income of the homeowner because of–
-        (i) an involuntary loss of, or reduction in, the employment of the homeowner, the self-employment of the homeowner, or income from the pursuit of the occupation of the homeowner; or
-        (ii) any similar loss or reduction experienced by any person who contributes to the income of the homeowner.
-       An applicant for a mortgage shall be eligible for homeownership counseling under this subsection if the applicant is a first-time homebuyer who meets the requirements of section 12852(b)(1) of title 42 and the mortgage involves a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the property and is to be insured pursuant to section 203 of the National Housing Act [12 U.S.C. 1709].
+        (i) an involuntary loss of, or reduction in, the employment of the homeowner, the self-employment of the homeowner, or income from the pursuit of the occupation of the homeowner;
+        (ii) any similar loss or reduction experienced by any person who contributes to the income of the homeowner;
+        (iii) a significant reduction in the income of the household due to divorce or death; or
+        (iv) a significant increase in basic expenses of the homeowner or an immediate family member of the homeowner (including the spouse, child, or parent for whom the homeowner provides substantial care or financial assistance) due to–
+          (I) an unexpected or significant increase in medical expenses;
+          (II) a divorce;
+          (III) unexpected and significant damage to the property, the repair of which will not be covered by private or public insurance; or
+          (IV) a large property-tax increase; or
+      (D) the Secretary of Housing and Urban Development determines that the annual income of the homeowner is no greater than the annual income established by the Secretary as being of low- or moderate-income.
     (5) Notification of availability of homeownership counseling
       (A) Notification of availability of homeownership counseling
         (i) Requirement

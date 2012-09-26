@@ -1,13 +1,37 @@
-  (a) Appointment
-     The Office shall be under the management of a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of mortgage security markets and housing finance. An individual may not be appointed as Director if the individual has served as an executive officer or director of an enterprise at any time during the 3-year period ending upon the nomination of such individual for appointment as Director.
-  (b) Term
-     The Director shall be appointed for a term of 5 years.
-  (c) Vacancy
-     A vacancy in the position of Director shall be filled in the manner in which the original appointment was made under subsection (a) of this section.
-  (d) Service after end of term
-     A Director may serve after the expiration of the term for which the Director was appointed until a successor Director has been appointed.
-  (e) Deputy Director
+  (a) Establishment of position
+     There is established the position of the Director of the Agency, who shall be the head of the Agency.
+  (b) Appointment; term
+    (1) Appointment
+       The Director shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of capital markets, including the mortgage securities markets and housing finance.
+    (2) Term
+       The Director shall be appointed for a term of 5 years, unless removed before the end of such term for cause by the President.
+    (3) Vacancy
+       A vacancy in the position of Director that occurs before the expiration of the term for which a Director was appointed shall be filled in the manner established under paragraph (1), and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
+    (4) Service after end of term
+       An individual may serve as the Director after the expiration of the term for which appointed until a successor has been appointed.
+    (5) Transitional provision
+       Notwithstanding paragraphs (1) and (2), during the period beginning on the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and ending on the date on which the Director is appointed and confirmed, the person serving as the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development on that effective date shall act for all purposes as, and with the full powers of, the Director.
+  (c) Deputy Director of the Division of Enterprise Regulation
     (1) In general
-       The Office shall have a Deputy Director who shall be appointed by the Director from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of mortgage security markets and housing finance. An individual may not be appointed as Deputy Director if the individual has served as an executive officer or director of an enterprise at any time during the 3-year period ending upon the appointment of such individual as Deputy Director.
+       The Agency shall have a Deputy Director of the Division of Enterprise Regulation, who shall be designated by the Director from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of mortgage securities markets and housing finance.
     (2) Functions
-       The Deputy Director shall have such functions, powers, and duties as the Director shall prescribe. In the event of the death, resignation, sickness, or absence of the Director, the Deputy Director shall serve as acting Director until the return of the Director or the appointment of a successor pursuant to subsection (c) of this section.
+       The Deputy Director of the Division of Enterprise Regulation shall have such functions, powers, and duties with respect to the oversight of the enterprises as the Director shall prescribe.
+  (d) Deputy Director of the Division of Federal Home Loan Bank Regulation
+    (1) In general
+       The Agency shall have a Deputy Director of the Division of Federal Home Loan Bank Regulation, who shall be designated by the Director from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of the Federal Home Loan Bank System and housing finance.
+    (2) Functions
+       The Deputy Director of the Division of Federal Home Loan Bank Regulation shall have such functions, powers, and duties with respect to the oversight of the Federal Home Loan Banks as the Director shall prescribe.
+  (e) Deputy Director for Housing Mission and Goals
+    (1) In general
+       The Agency shall have a Deputy Director for Housing Mission and Goals, who shall be designated by the Director from among individuals who are citizens of the United States, and have a demonstrated understanding of the housing markets and housing finance.
+    (2) Functions
+       The Deputy Director for Housing Mission and Goals shall have such functions, powers, and duties with respect to the oversight of the housing mission and goals of the enterprises, and with respect to oversight of the housing finance and community and economic development mission of the Federal Home Loan Banks, as the Director shall prescribe.
+    (3) Considerations
+       In exercising such functions, powers, and duties, the Deputy Director for Housing Mission and Goals shall consider the differences between the enterprises and the Federal Home Loan Banks, including those described in section 4513(d) of this title.
+  (f) Acting Director
+     In the event of the death, resignation, sickness, or absence of the Director, the President shall designate either the Deputy Director of the Division of Enterprise Regulation, the Deputy Director of the Division of Federal Home Loan Bank Regulation, or the Deputy Director for Housing Mission and Goals, to serve as acting Director until the return of the Director, or the appointment of a successor pursuant to subsection (b).
+  (g) Limitations
+     The Director and each of the Deputy Directors may not–
+    (1) have any direct or indirect financial interest in any regulated entity or entity-affiliated party;
+    (2) hold any office, position, or employment in any regulated entity or entity-affiliated party; or
+    (3) have served as an executive officer or director of any regulated entity or entity-affiliated party at any time during the 3-year period preceding the date of appointment or designation of such individual as Director or Deputy Director, as applicable.

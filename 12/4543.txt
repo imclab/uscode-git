@@ -1,9 +1,14 @@
-  (a) In general
-     The Secretary shall make available to the public, in forms useful to the public (including forms accessible by computers), the data submitted by the enterprises in the reports required under section 1723a(m) of this title or section 1456(e) of this title.
+  (a) Availability
+    (1) In general
+       The Director shall make available to the public, in forms useful to the public (including forms accessible by computers), the data submitted by the enterprises in the reports required under section 1723a(m) of this title or section 1456(e) of this title.
+    (2) Census tract level reporting
+       Such data shall include the data elements required to be reported under the Home Mortgage Disclosure Act of 1975 [12 U.S.C. 2801 et seq.], at the census tract level.
   (b) Access
     (1) Proprietary data
-       Except as provided in paragraph (2), the Secretary may not make available to the public data that the Secretary determines pursuant to section 4546 of this title are proprietary information.
+       Except as provided in paragraph (2), the Director may not make available to the public data that the Director determines pursuant to section 4546 of this title are proprietary information.
     (2) Exception
-       The Secretary shall not restrict access to the data provided in accordance with section 1723a(m)(1)(A) of this title or section 1456(e)(1)(A) of this title.
+       The Director shall not restrict access to the data provided in accordance with section 1723a(m)(1)(A) of this title or section 1456(e)(1)(A) of this title or with subsection (a)(2).
   (c) Fees
-     The Secretary may charge reasonable fees to cover the cost of making data available under this section to the public.
+     The Director may charge reasonable fees to cover the cost of making data available under this section to the public.
+  (d) Timing
+     Data submitted under this section by an enterprise in connection with a provision referred to in subsection (a) shall be made publicly available in accordance with this section not later than September 30 of the year following the year to which the data relates.

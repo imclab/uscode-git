@@ -1,4 +1,4 @@
-  (a) In general
+  (a) Enterprises
      For purposes of this subchapter, the Director shall classify the enterprises according to the following capital classifications:
     (1) Adequately capitalized
        An enterprise shall be classified as adequately capitalized if the enterprise–
@@ -22,13 +22,38 @@
       (A) the enterprise–
         (i) does not maintain an amount of total capital that is equal to or exceeds the risk-based capital level established for the enterprise; and
         (ii) does not maintain an amount of core capital that is equal to or exceeds the critical capital level for the enterprise; or
-      (B) is otherwise classified as critically undercapitalized under subsection (b)(3) of this section or section 4616(b)(5) of this title.
-  (b) Discretionary classification
-     If at any time the Director determines in writing that an enterprise is engaging in conduct not approved by the Director that could result in a rapid depletion of core capital or that the value of the property subject to mortgages held or securitized by the enterprise has decreased significantly, the Director may classify the enterprise–
-    (1) as undercapitalized, if the enterprise is otherwise classified as adequately capitalized;
-    (2) as significantly undercapitalized, if the enterprise is otherwise classified as undercapitalized; and
-    (3) as critically undercapitalized, if the enterprise is otherwise classified as significantly undercapitalized.
-  (c) Quarterly determination
-     The Director shall determine the capital classification of the enterprises for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (b) of this section). The first such determination shall be made during the 3-month period beginning on the appointment of the Director.
-  (d) Implementation
-     Notwithstanding any other provision of this section, during the period beginning on October 28, 1992, and ending upon the effective date of section 4615 of this title (as provided in section 4615(c) of this title), an enterprise shall be classified as adequately capitalized if the enterprise maintains an amount of core capital that is equal to or exceeds the minimum capital level for the enterprise under section 4612 of this title.
+      (B) is otherwise classified as critically undercapitalized under subsection (b)(3) of this section or section 4616(b)(5) \1\N of this title.
+  (b) Federal Home Loan Banks
+    (1) Establishment and criteria
+       For purposes of this subchapter, the Director shall, by regulation–
+      (A) establish the capital classifications specified under paragraph (2) for the Federal Home Loan Banks;
+      (B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
+      (C) shall classify the Federal Home Loan Banks according to such capital classifications.
+    (2) Classifications
+       The capital classifications specified under this paragraph are–
+      (A) adequately capitalized;
+      (B) undercapitalized;
+      (C) significantly undercapitalized; and
+      (D) critically undercapitalized.
+  (c) Discretionary classification
+    (1) Grounds for reclassification
+       The Director may reclassify a regulated entity under paragraph (2) if–
+      (A) at any time, the Director determines in writing that the regulated entity is engaging in conduct that could result in a rapid depletion of core or total capital or the value of collateral pledged as security has decreased significantly or that the value of the property subject to mortgages held by the regulated entity (or securitized in the case of an enterprise) has decreased significantly;
+      (B) after notice and an opportunity for hearing, the Director determines that the regulated entity is in an unsafe or unsound condition; or
+      (C) pursuant to section 4631(b) of this title, the Director deems the regulated entity to be engaging in an unsafe or unsound practice.
+    (2) Reclassification
+       In addition to any other action authorized under this chapter, including the reclassification of a regulated entity for any reason not specified in this subsection, if the Director takes any action described in paragraph (1), the Director may classify a regulated entity–
+      (A) as undercapitalized, if the regulated entity is otherwise classified as adequately capitalized;
+      (B) as significantly undercapitalized, if the regulated entity is otherwise classified as undercapitalized; and
+      (C) as critically undercapitalized, if the regulated entity is otherwise classified as significantly undercapitalized.
+  (d) Quarterly determination
+     The Director shall determine the capital classification of the regulated entities for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (c) of this section).
+  (e) Restriction on capital distributions
+    (1) In general
+       A regulated entity shall make no capital distribution if, after making the distribution, the regulated entity would be undercapitalized.
+    (2) Exception
+       Notwithstanding paragraph (1), the Director may permit a regulated entity, to the extent appropriate or applicable, to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition–
+      (A) is made in connection with the issuance of additional shares or obligations of the regulated entity in at least an equivalent amount; and
+      (B) will reduce the financial obligations of the regulated entity or otherwise improve the financial condition of the entity.
+  (f) Implementation
+     Notwithstanding any other provision of this section, during the period beginning on October 28, 1992, and ending upon the effective date of section 4615 of this title (as provided in section 4615(c) \1\ of this title), an enterprise shall be classified as adequately capitalized if the enterprise maintains an amount of core capital that is equal to or exceeds the minimum capital level for the enterprise under section 4612 of this title.
