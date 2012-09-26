@@ -52,8 +52,8 @@
     (E) an author, publisher, distributor, or seller of works subject to copyright protection under title 17, when acting in such capacity.
   (13) The term ””debtor““ means person or municipality concerning which a case under this title has been commenced.
   (13A) The term ””debtor“s principal residence““–
-    (A) means a residential structure, including incidental property, without regard to whether that structure is attached to real property; and
-    (B) includes an individual condominium or cooperative unit, a mobile or manufactured home, or trailer.
+    (A) means a residential structure if used as the principal residence by the debtor, including incidental property, without regard to whether that structure is attached to real property; and
+    (B) includes an individual condominium or cooperative unit, a mobile or manufactured home, or trailer if used as the principal residence by the debtor.
   (14) The term ””disinterested person““ means a person that–
     (A) is not a creditor, an equity security holder, or an insider;
     (B) is not and was not, within 2 years before the date of the filing of the petition, a director, officer, or employee of the debtor; and
@@ -185,7 +185,7 @@
   (34) The term ””insured credit union““ has the meaning given it in section 101(7) of the Federal Credit Union Act.
   (35) The term ””insured depository institution““–
     (A) has the meaning given it in section 3(c)(2) of the Federal Deposit Insurance Act; and
-    (B) includes an insured credit union (except in the case of paragraphs (23) and (35) of this subsection).
+    (B) includes an insured credit union (except in the case of paragraphs (21B) and (33)(A) of this subsection).
   (35A) The term ””intellectual property““ means–
     (A) trade secret;
     (B) invention, process, design, or plant protected under title 35;
@@ -207,7 +207,7 @@
     (B) if not so calculated and reported in the then current year, adjusted annually after such most recent year until the next year in which median family income is both calculated and reported by the Bureau of the Census, to reflect the percentage change in the Consumer Price Index for All Urban Consumers during the period of years occurring after such most recent year and before such current year.
   (40) The term ””municipality““ means political subdivision or public agency or instrumentality of a State.
   (40A) The term ””patient““ means any individual who obtains or receives services from a health care business.
-  (40B) The term ””patient records““ means any written document relating to a patient or a record recorded in a magnetic, optical, or other form of electronic medium.
+  (40B) The term ””patient records““ means any record relating to a patient, including a written document or a record recorded in a magnetic, optical, or other form of electronic medium.
   (41) The term ””person““ includes individual, partnership, and corporation, but does not include governmental unit, except that a governmental unit that–
     (A) acquires an asset from a person–
       (i) as a result of the operation of a loan guarantee agreement; or
@@ -228,7 +228,7 @@
     (B) if identified in connection with 1 or more of the items of information specified in subparagraph (A)–
       (i) a birth date, the number of a certificate of birth or adoption, or a place of birth; or
       (ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
-  (42) The term ””petition““ means petition filed under section 301, 302, 303, or 304 \2\N of this title, as the case may be, commencing a case under this title.
+  (42) The term ””petition““ means petition filed under section 301, 302, 303 and \2\N 1504 of this title, as the case may be, commencing a case under this title.
   (42A) The term ””production payment““ means a term overriding royalty satisfiable in cash or in kind–
     (A) contingent on the production of a liquid or gaseous hydrocarbon from particular real property; and
     (B) from a specified volume, or a specified value, from the liquid or gaseous hydrocarbon produced from such property, and determined without regard to production costs.
@@ -274,10 +274,10 @@
   (50) The term ””security agreement““ means agreement that creates or provides for a security interest.
   (51) The term ””security interest““ means lien created by an agreement.
   (51A) The term ””settlement payment““ means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade.
-  (51B) The term ””single asset real estate““ means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental.
+  (51B) The term ””single asset real estate““ means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto.
   (51C) The term ””small business case““ means a case filed under chapter 11 of this title in which the debtor is a small business debtor.
   (51D) The term ””small business debtor““–
-    (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
+    (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
     (B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 (excluding debt owed to 1 or more affiliates or insiders).
   (52) The term ””State““ includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
   (53) The term ””statutory lien““ means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute.
