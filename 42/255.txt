@@ -1,31 +1,33 @@
-  (a) Purpose; authorization of grants and loans; considerations; conditions on loans; appropriations
-    (1) For the purpose of encouraging the establishment and initial operation of home health programs to provide home health services in areas in which such services are inadequate or not readily accessible, the Secretary may, in accordance with the provisions of this section, make grants to public and nonprofit private entities and loans to proprietary entities to meet the initial costs of establishing and operating such home health programs. Such grants and loans may include funds to provide training for paraprofessionals (including homemaker home health aides) to provide home health services.
-    (2) In making grants and loans under this subsection, the Secretary shall–
-      (A) consider the relative needs of the several States for home health services;
-      (B) give preference to areas in which a high percentage of the population proposed to be served is composed of individuals who are elderly, medically indigent, or disabled; and
-      (C) give special consideration to areas with inadequate means of transportation to obtain necessary health services.
-    (3)      (A) No loan may be made to a proprietary entity under this section unless the application of such entity for such loan contains assurances satisfactory to the Secretary that–
-        (i) at the time the application is made the entity is fiscally sound;
-        (ii) the entity is unable to secure a loan for the project for which the application is submitted from non-Federal lenders at the rate of interest prevailing in the area in which the entity is located; and
-        (iii) during the period of the loan, such entity will remain fiscally sound.
-      (B) Loans under this section shall be made at an interest rate comparable to the rate of interest prevailing on the date the loan is made with respect to the marketable obligations of the United States of comparable maturities, adjusted to provide for administrative costs.
-    (4) Applications for grants and loans under this subsection shall be in such form and contain such information as the Secretary shall prescribe.
-    (5) There are authorized to be appropriated for grants and loans under this subsection $5,000,000 for each of the fiscal years ending on September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
-  (b) Grants and contracts for training programs for paraprofessionals; considerations; applications; appropriations
-    (1) The Secretary may make grants to and enter into contracts with public and private entities to assist them in developing appropriate training programs for paraprofessionals (including homemaker home health aides) to provide home health services.
-    (2) Any program established with a grant or contract under this subsection to train homemaker home health aides shall–
-      (A) extend for at least forty hours, and consist of classroom instruction and at least twenty hours (in the aggregate) of supervised clinical instruction directed toward preparing students to deliver home health services;
-      (B) be carried out under appropriate professional supervision and be designed to train students to maintain or enhance the personal care of an individual in his home in a manner which promotes the functional independence of the individual; and
-      (C) include training in–
-        (i) personal care services designed to assist an individual in the activities of daily living such as bathing, exercising, personal grooming, and getting in and out of bed; and
-        (ii) household care services such as maintaining a safe living environment, light housekeeping, and assisting in providing good nutrition (by the purchasing and preparation of food).
-    (3) In making grants and entering into contracts under this subsection, special consideration shall be given to entities which establish or will establish programs to provide training for persons fifty years of age and older who wish to become paraprofessionals (including homemaker home health aides) to provide home health services.
-    (4) Applications for grants and contracts under this subsection shall be in such form and contain such information as the Secretary shall prescribe.
-    (5) There are authorized to be appropriated for grants and contracts under this subsection $2,000,000 for each of the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
-  (c) Report to Congress with respect to grants and loans and training of personnel
-     The Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives on or before January 1, 1984, with respect to–
-    (1) the impact of grants made and contracts entered into under subsections (a) and (b) of this section (as such subsections were in effect prior to October 1, 1981);
-    (2) the need to continue grants and loans under subsections (a) and (b) of this section (as such subsections are in effect on the day after January 4, 1983); and
-    (3) the extent to which standards have been applied to the training of personnel who provide home health services.
-  (d) ””Home health services““ defined
-     For purposes of this section, the term ””home health services““ has the meaning prescribed for the term by section 1395x(m) of this title.
+  (a) Payment authority
+     Any executive agency may–
+    (1) make advance, partial, progress or other payments under contracts for property or services made by the agency; and
+    (2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
+  (b) Performance-based payments
+     Whenever practicable, payments under subsection (a) of this section shall be made on any of the following bases:
+    (1) Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.
+    (2) Accomplishment of events defined in the program management plan.
+    (3) Other quantifiable measures of results.
+  (c) Payment amount
+     Payments made under subsection (a) of this section may not exceed the unpaid contract price.
+  (d) Security for advance payments
+     Advance payments under subsection (a) of this section may be made only upon adequate security and a determination by the agency head that to do so would be in the public interest. Such security may be in the form of a lien in favor of the Government on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien shall be paramount to all other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
+  (e) Conditions for progress payments
+    (1) The executive agency shall ensure that any payment for work in progress (including materials, labor, and other items) under a contract of an executive agency that provides for such payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide such information and evidence as the executive agency determines necessary to permit the executive agency to carry out the preceding sentence.
+    (2) The executive agency shall ensure that progress payments referred to in paragraph (1) are not made for more than 80 percent of the work accomplished under the contract so long as the executive agency has not made the contractual terms, specifications, and price definite.
+    (3) This subsection applies to any contract in an amount greater than $25,000.
+  (f) Conditions for payments for commercial items
+    (1) Payments under subsection (a) of this section for commercial items may be made under such terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+    (2) Advance payments made under subsection (a) of this section for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
+    (3) The conditions of subsections (d) and (e) of this section need not be applied if they would be inconsistent, as determined by the head of the executive agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
+  (g) Action in case of fraud
+    (1) In any case in which the remedy coordination official of an executive agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
+    (2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor“s request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
+    (3) The extent of any reduction or suspension of payments by an executive agency under paragraph (2) on the basis of fraud shall be reasonably commensurate with the anticipated loss to the United States resulting from the fraud.
+    (4) A written justification for each decision of the head of an executive agency whether to reduce or suspend payments under paragraph (2), and for each recommendation received by the executive agency in connection with such decision, shall be prepared and be retained in the files of the executive agency.
+    (5) The head of each executive agency shall prescribe procedures to ensure that, before the head of the executive agency decides to reduce or suspend payments in the case of a contractor under paragraph (2), the contractor is afforded notice of the proposed reduction or suspension and an opportunity to submit matters to the executive agency in response to such proposed reduction or suspension.
+    (6) Not later than 180 days after the date on which the head of an executive agency reduces or suspends payments to a contractor under paragraph (2), the remedy coordination official of the executive agency shall–
+      (A) review the determination of fraud on which the reduction or suspension is based; and
+      (B) transmit a recommendation to the head of such executive agency whether the suspension or reduction should continue.
+    (7) The head of each executive agency who receives recommendations made by a remedy coordination official of the executive agency to reduce or suspend payments under paragraph (2) during a fiscal year shall prepare for such year a report that contains the recommendations, the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. Any such report shall be available to any Member of Congress upon request.
+    (8) The head of an executive agency may not delegate responsibilities under this subsection to any person in a position below level IV of the Executive Schedule.
+    (9) In this subsection, the term ””remedy coordination official““, with respect to an executive agency, means the person or entity in that executive agency who coordinates within that executive agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.

@@ -1,0 +1,13 @@
+  (a) In general
+     The head of an executive agency should, to the maximum extent practicable, use modular contracting for an acquisition of a major system of information technology.
+  (b) Modular contracting described
+     Under modular contracting, an executive agency“s need for a system is satisfied in successive acquisitions of interoperable increments. Each increment complies with common or commercially accepted standards applicable to information technology so that the increments are compatible with other increments of information technology comprising the system.
+  (c) Implementation
+     The Federal Acquisition Regulation shall provide that–
+    (1) under the modular contracting process, an acquisition of a major system of information technology may be divided into several smaller acquisition increments that–
+      (A) are easier to manage individually than would be one comprehensive acquisition;
+      (B) address complex information technology objectives incrementally in order to enhance the likelihood of achieving workable solutions for attainment of those objectives;
+      (C) provide for delivery, implementation, and testing of workable systems or solutions in discrete increments each of which comprises a system or solution that is not dependent on any subsequent increment in order to perform its principal functions; and
+      (D) provide an opportunity for subsequent increments of the acquisition to take advantage of any evolution in technology or needs that occur during conduct of the earlier increments;
+    (2) a contract for an increment of an information technology acquisition should, to the maximum extent practicable, be awarded within 180 days after the date on which the solicitation is issued and, if the contract for that increment cannot be awarded within such period, the increment should be considered for cancellation; and
+    (3) the information technology provided for in a contract for acquisition of information technology should be delivered within 18 months after the date on which the solicitation resulting in award of the contract was issued.

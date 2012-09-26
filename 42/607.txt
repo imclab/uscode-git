@@ -1,17 +1,24 @@
-  (a) Loan authority
-    (1) In general
-       The Secretary shall make loans to any loan-eligible State, for a period to maturity of not more than 3 years.
-    (2) Loan-eligible State
-       As used in paragraph (1), the term ””loan-eligible State““ means a State against which a penalty has not been imposed under section 609(a)(1) of this title.
-  (b) Rate of interest
-     The Secretary shall charge and collect interest on any loan made under this section at a rate equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the period to maturity of the loan.
-  (c) Use of loan
-     A State shall use a loan made to the State under this section only for any purpose for which grant amounts received by the State under section 603(a) of this title may be used, including–
-    (1) welfare anti-fraud activities; and
-    (2) the provision of assistance under the State program to Indian families that have moved from the service area of an Indian tribe with a tribal family assistance plan approved under section 612 of this title.
-  (d) Limitation on total amount of loans to State
-     The cumulative dollar amount of all loans made to a State under this section during fiscal years 1997 through 2002 shall not exceed 10 percent of the State family assistance grant.
-  (e) Limitation on total amount of outstanding loans
-     The total dollar amount of loans outstanding under this section may not exceed $1,700,000,000.
-  (f) Appropriation
-     Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated such sums as may be necessary for the cost of loans under this section.
+  (a) Establishment; consultation; Tennessee Valley Authority
+    (1) Except as provided in paragraph (2) an agency board of contract appeals may be established within an executive agency when the agency head, after consultation with the Administrator, determines from a workload study that the volume of contract claims justifies the establishment of a full-time agency board of at least three members who shall have no other inconsistent duties. Workload studies will be updated at least once every three years and submitted to the Administrator.
+    (2) The Board of Directors of the Tennessee Valley Authority may establish a board of contract appeals for the Authority of an indeterminate number of members.
+  (b) Appointment of members; chairman; compensation
+    (1) Except as provided in paragraph (2), the members of agency boards shall be selected and appointed to serve in the same manner as administrative law judges appointed pursuant to section 3105 of title 5, with an additional requirement that such members shall have had not fewer than five years“ experience in public contract law. Full-time members of agency boards serving as such on the effective date of this chapter shall be considered qualified. The chairman and vice chairman of each board shall be designated by the agency head from members so appointed. Compensation for the chairman, the vice chairman, and all other members of an agency board shall be determined under section 5372a of title 5.
+    (2) The Board of Directors of the Tennessee Valley Authority shall establish criteria for the appointment of members to its agency board of contract appeals established in subsection (a)(2) of this section, and shall designate a chairman of such board. The chairman and all other members of such board shall receive compensation, at the daily equivalent of the rates determined under section 5372a of title 5, for each day they are engaged in the actual performance of their duties as members of the board.
+  (c) Appeals; inter-agency arrangements
+     If the volume of contract claims is not sufficient to justify an agency board under subsection (a) of this section or if he otherwise considers it appropriate, any agency head shall arrange for appeals from decisions by contracting officers of his agency to be decided by a board of contract appeals of another executive agency. In the event an agency head is unable to make such an arrangement with another agency, he shall submit the case to the Administrator for placement with an agency board. The provisions of this subsection shall not apply to the Tennessee Valley Authority.
+  (d) Jurisdiction
+     Each agency board shall have jurisdiction to decide any appeal from a decision of a contracting officer (1) relative to a contract made by its agency, and (2) relative to a contract made by any other agency when such agency or the Administrator has designated the agency board to decide the appeal. In exercising this jurisdiction, the agency board is authorized to grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims.
+  (e) Decisions
+     An agency board shall provide to the fullest extent practicable, informal, expeditious, and inexpensive resolution of disputes, and shall issue a decision in writing or take other appropriate action on each appeal submitted, and shall mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
+  (f) Accelerated appeal disposition
+     The rules of each agency board shall include a procedure for the accelerated disposition of any appeal from a decision of a contracting officer where the amount in dispute is $100,000 or less. The accelerated procedure shall be applicable at the sole election of only the contractor. Appeals under the accelerated procedure shall be resolved, whenever possible, within one hundred and eighty days from the date the contractor elects to utilize such procedure.
+  (g) Review
+    (1) The decision of an agency board of contract appeals shall be final, except that–
+      (A) a contractor may appeal such a decision to the United States Court of Appeals for the Federal Circuit within one hundred twenty days after the date of receipt of a copy of such decision, or
+      (B) the agency head, if he determines that an appeal should be taken, and with the prior approval of the Attorney General, transmits the decision of the board of contract appeals to the Court of Appeals for the Federal Circuit for judicial review under section 1295 of title 28, within one hundred and twenty days from the date of the agency“s receipt of a copy of the board“s decision.
+    (2) Notwithstanding the provisions of paragraph (1), the decision of the board of contract appeals of the Tennessee Valley Authority shall be final, except that–
+      (A) a contractor may appeal such a decision to a United States district court pursuant to the provisions of section 1337 of title 28, within one hundred twenty days after the date of receipt of a copy of such decision, or
+      (B) The Tennessee Valley Authority may appeal the decision to a United States district court pursuant to the provisions of section 1337 of title 28, within one hundred twenty days after the date of the decision in any case.
+    (3) An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 through 13 of title 9, except that the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
+  (h) Procedural guidelines
+     Pursuant to the authority conferred under the Office of Federal Procurement Policy Act [41 U.S.C. 401 et seq.], the Administrator is authorized and directed, as may be necessary or desirable to carry out the provisions of this chapter, to issue guidelines with respect to criteria for the establishment, functions, and procedures of the agency boards (except for a board established by the Tennessee Valley Authority).

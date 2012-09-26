@@ -1,56 +1,14 @@
-  (a) Administration
-     The rural health services outreach demonstration grant program established under section 241 of this title shall be administered by the Office of Rural Health Policy (of the Health Resources and Services Administration), in consultation with State rural health offices or other appropriate State governmental entities.
-  (b) Grants
-     Under the program referred to in subsection (a) of this section, the Secretary, acting through the Director of the Office of Rural Health Policy, may award grants to expand access to, coordinate, restrain the cost of, and improve the quality of essential health care services, including preventive and emergency services, through the development of integrated health care delivery systems or networks in rural areas and regions.
-  (c) Eligible networks
-    (1) Outreach networks
-       To be eligible to receive a grant under this section, an entity shall–
-      (A) be a rural public or nonprofit private entity that is or represents a network or potential network that includes three or more health care providers or other entities that provide or support the delivery of health care services; and
-      (B) in consultation with the State office of rural health or other appropriate State entity, prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including–
-        (i) a description of the activities which the applicant intends to carry out using amounts provided under the grant;
-        (ii) a plan for continuing the project after Federal support is ended;
-        (iii) a description of the manner in which the activities funded under the grant will meet health care needs of underserved rural populations within the State; and
-        (iv) a description of how the local community or region to be served by the network or proposed network will be involved in the development and ongoing operations of the network.
-    (2) For-profit entities
-       An eligible network may include for-profit entities so long as the network grantee is a nonprofit entity.
-    (3) Telemedicine networks
-      (A) In general
-         An entity that is a health care provider and a member of an existing or proposed telemedicine network, or an entity that is a consortium of health care providers that are members of an existing or proposed telemedicine network shall be eligible for a grant under this section.
-      (B) Requirement
-         A telemedicine network referred to in subparagraph (A) shall, at a minimum, be composed of–
-        (i) a multispecialty entity that is located in an urban or rural area, which can provide 24-hour a day access to a range of specialty care; and
-        (ii) at least two rural health care facilities, which may include rural hospitals, rural physician offices, rural health clinics, rural community health clinics, and rural nursing homes.
-  (d) Preference
-     In awarding grants under this section, the Secretary shall give preference to applicant networks that include–
-    (1) a majority of the health care providers serving in the area or region to be served by the network;
-    (2) any federally qualified health centers, rural health clinics, and local public health departments serving in the area or region;
-    (3) outpatient mental health providers serving in the area or region; or
-    (4) appropriate social service providers, such as agencies on aging, school systems, and providers under the women, infants, and children program, to improve access to and coordination of health care services.
-  (e) Use of funds
-    (1) In general
-       Amounts provided under grants awarded under this section shall be used–
-      (A) for the planning and development of integrated self-sustaining health care networks; and
-      (B) for the initial provision of services.
-    (2) Expenditures in rural areas
-      (A) In general
-         In awarding a grant under this section, the Secretary shall ensure that not less than 50 percent of the grant award is expended in a rural area or to provide services to residents of rural areas.
-      (B) Telemedicine networks
-         An entity described in subsection (c)(3) of this section may not use in excess of–
-        (i) 40 percent of the amounts provided under a grant under this section to carry out activities under paragraph (3)(A)(iii); and
-        (ii) 20 percent of the amounts provided under a grant under this section to pay for the indirect costs associated with carrying out the purposes of such grant.
-    (3) Telemedicine networks
-      (A) In general
-         An entity described in subsection (c)(3) of this section, may use amounts provided under a grant under this section to–
-        (i) demonstrate the use of telemedicine in facilitating the development of rural health care networks and for improving access to health care services for rural citizens;
-        (ii) provide a baseline of information for a systematic evaluation of telemedicine systems serving rural areas;
-        (iii) purchase or lease and install equipment; and
-        (iv) operate the telemedicine system and evaluate the telemedicine system.
-      (B) Limitations
-         An entity described in subsection (c)(3) of this section, may not use amounts provided under a grant under this section–
-        (i) to build or acquire real property;
-        (ii) purchase or install transmission equipment (such as laying cable or telephone lines, microwave towers, satellite dishes, amplifiers, and digital switching equipment); or
-        (iii) for construction, except that such funds may be expended for minor renovations relating to the installation of equipment; \1\N
-  (f) Term of grants
-     Funding may not be provided to a network under this section for in excess of a 3-year period.
-  (g) Authorization of appropriations
-     For the purpose of carrying out this section there are authorized to be appropriated $36,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001.
+  (a) Authority
+     An executive agency may enter into a multiyear contract for the acquisition of property or services if–
+    (1) funds are available and obligated for such contract, for the full period of the contract or for the first fiscal year in which the contract is in effect, and for the estimated costs associated with any necessary termination of such contract; and
+    (2) the executive agency determines that–
+      (A) the need for the property or services is reasonably firm and continuing over the period of the contract; and
+      (B) a multiyear contract will serve the best interests of the United States by encouraging full and open competition or promoting economy in administration, performance, and operation of the agency“s programs.
+  (b) Termination clause
+     A multiyear contract entered into under the authority of this section shall include a clause that provides that the contract shall be terminated if funds are not made available for the continuation of such contract in any fiscal year covered by the contract. Amounts available for paying termination costs shall remain available for such purpose until the costs associated with termination of the contract are paid.
+  (c) Cancellation ceiling notice
+     Before any contract described in subsection (a) of this section that contains a clause setting forth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Congress, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+  (d) Multiyear contract defined
+     For the purposes of this section, a multiyear contract is a contract for the purchase of property or services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
+  (e) Rule of construction
+     Nothing in this section is intended to modify or affect any other provision of law that authorizes multiyear contracts.
