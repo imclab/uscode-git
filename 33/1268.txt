@@ -16,8 +16,10 @@
       (F) ””area of concern““ means a geographic area located within the Great Lakes, in which beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
       (G) ””Great Lakes States““ means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
       (H) ””Great Lakes Water Quality Agreement““ means the bilateral agreement, between the United States and Canada which was signed in 1978 and amended by the Protocol of 1987;
-      (I) ””Lakewide Management Plan““ means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of the open waters of each of the Great Lakes, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement; and
-      (J) ””Remedial Action Plan““ means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of areas of concern, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement.
+      (I) ””Lakewide Management Plan““ means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of the open waters of each of the Great Lakes, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement;
+      (J) ””Remedial Action Plan““ means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of areas of concern, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement;
+      (K) ””site characterization““ means a process for monitoring and evaluating the nature and extent of sediment contamination in accordance with the Environmental Protection Agency“s guidance for the assessment of contaminated sediment in an area of concern located wholly or partially within the United States; and
+      (L) ””potentially responsible party““ means an individual or entity that may be liable under any Federal or State authority that is being used or may be used to facilitate the cleanup and protection of the Great Lakes.
   (b) Great Lakes National Program Office
      The Great Lakes National Program Office (previously established by the Administrator) is hereby established within the Agency. The Program Office shall be headed by a Director who, by reason of management experience and technical expertise relating to the Great Lakes, is highly qualified to direct the development of programs and plans on a variety of Great Lakes issues. The Great Lakes National Program Office shall be located in a Great Lakes State.
   (c) Great Lakes management
@@ -91,7 +93,7 @@
       (B) Eligible projects
          A project meets the requirements of this subparagraph if the project is to be carried out in an area of concern located wholly or partially in the United States and the project–
         (i) monitors or evaluates contaminated sediment;
-        (ii) subject to subparagraph (D), implements a plan to remediate contaminated sediment; or
+        (ii) subject to subparagraph (D), implements a plan to remediate contaminated sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment; or
         (iii) prevents further or renewed contamination of sediment.
       (C) Priority
          In selecting projects to carry out under this paragraph, the Administrator shall give priority to a project that–
@@ -100,35 +102,55 @@
           (II) is ready to be implemented;
         (iii) will use an innovative approach, technology, or technique that may provide greater environmental benefits, or equivalent environmental benefits at a reduced cost; or
         (iv) includes remediation to be commenced not later than 1 year after the date of receipt of funds for the project.
-      (D) Limitation
+      (D) Limitations
          The Administrator may not carry out a project under this paragraph for remediation of contaminated sediments located in an area of concern–
-        (i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment; or
-        (ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project.
+        (i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment;
+        (ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project;
+        (iii) unless each non-Federal sponsor for the project has entered into a written project agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
+        (iv) unless the Administrator provides assurance that the Agency has conducted a reasonable inquiry to identify potentially responsible parties connected with the site.
       (E) Non-Federal share
         (i) In general
            The non-Federal share of the cost of a project carried out under this paragraph shall be at least 35 percent.
         (ii) In-kind contributions
-           The non-Federal share of the cost of a project carried out under this paragraph may include the value of in-kind services contributed by a non-Federal sponsor.
-        (iii) Non-Federal share
+          (I) In general
+             The non-Federal share of the cost of a project carried out under this paragraph may include the value of an in-kind contribution provided by a non-Federal sponsor.
+          (II) Credit
+             A project agreement described in subparagraph (D)(iii) may provide, with respect to a project, that the Administrator shall credit toward the non-Federal share of the cost of the project the value of an in-kind contribution made by the non-Federal sponsor, if the Administrator determines that the material or service provided as the in-kind contribution is integral to the project.
+          (III) Work performed before project agreement
+             In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
+          (IV) Limitation
+             Credit authorized under this clause for a project carried out under this paragraph–
+            (aa) shall not exceed the non-Federal share of the cost of the project; and
+            (bb) shall not exceed the actual and reasonable costs of the materials and services provided by the non-Federal sponsor, as determined by the Administrator.
+          (V) Inclusion of certain contributions
+             In this subparagraph, the term ””in-kind contribution““ may include the costs of planning (including data collection), design, construction, and materials that are provided by the non-Federal sponsor for implementation of a project under this paragraph.
+        (iii) Treatment of credit between projects
+           Any credit provided under this subparagraph towards the non-Federal share of the cost of a project carried out under this paragraph may be applied towards the non-Federal share of the cost of any other project carried out under this paragraph by the same non-Federal sponsor for a site within the same area of concern.
+        (iv) Non-Federal share
            The non-Federal share of the cost of a project carried out under this paragraph–
-          (I) may include monies paid pursuant to, or the value of any in-kind service performed under, an administrative order on consent or judicial consent decree; but
-          (II) may not include any funds paid pursuant to, or the value of any in-kind service performed under, a unilateral administrative order or court order.
-        (iv) Operation and maintenance
+          (I) may include monies paid pursuant to, or the value of any in-kind contribution performed under, an administrative order on consent or judicial consent decree; but
+          (II) may not include any funds paid pursuant to, or the value of any in-kind contribution performed under, a unilateral administrative order or court order.
+        (v) Operation and maintenance
            The non-Federal share of the cost of the operation and maintenance of a project carried out under this paragraph shall be 100 percent.
-      (F) Maintenance of effort
-         The Administrator may not carry out a project under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated.
+      (F) Site characterization
+        (i) In general
+           The Administrator, in consultation with any affected State or unit of local government, shall carry out at Federal expense the site characterization of a project under this paragraph for the remediation of contaminated sediment.
+        (ii) Limitation
+           For purposes of clause (i), the Administrator may carry out one site assessment per discrete site within a project at Federal expense.
       (G) Coordination
          In carrying out projects under this paragraph, the Administrator shall coordinate with the Secretary of the Army, and with the Governors of States in which the projects are located, to ensure that Federal and State assistance for remediation in areas of concern is used as efficiently as practicable.
       (H) Authorization of appropriations
         (i) In general
-           In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2008.
+           In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2010.
         (ii) Availability
            Funds made available under clause (i) shall remain available until expended.
+        (iii) Allocation of funds
+           Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
     (13) Public information program
       (A) In general
          The Administrator, acting through the Program Office and in coordination with States, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
       (B) Authorization of appropriations
-         There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2008.
+         There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2010.
   (d) Great Lakes research
     (1) Establishment of Research Office
        There is established within the National Oceanic and Atmospheric Administration the Great Lakes Research Office.

@@ -1,45 +1,19 @@
-  (a) Included vessels
-     This chapter shall apply–
-    (1) to a ship of United States registry or nationality, or one operated under the authority of the United States, wherever located;
-    (2) with respect to Annexes I and II to the Convention, to a ship, other than a ship referred to in paragraph (1), while in the navigable waters of the United States;
-    (3) with respect to the requirements of Annex V to the Convention, to a ship, other than a ship referred to in paragraph (1), while in the navigable waters or the exclusive economic zone of the United States; and
-    (4) with respect to regulations prescribed under section 1905 of this title, any port or terminal in the United States.
-  (b) Excluded vessels
-    (1) Except as provided in paragraph (2), this chapter shall not apply to–
-      (A) a warship, naval auxiliary, or other ship owned or operated by the United States when engaged in noncommercial service; or
-      (B) any other ship specifically excluded by the MARPOL Protocol or the Antarctic Protocol.
-    (2)      (A) Notwithstanding any provision of the MARPOL Protocol, and subject to subparagraph (B) of this paragraph, the requirements of Annex V to the Convention shall apply as follows:
-        (i) After December 31, 1993, to all ships referred to in paragraph (1)(A) of this subsection other than those owned or operated by the Department of the Navy.
-        (ii) Except as provided in subsection (c) of this section, after December 31, 1998, to all ships referred to in paragraph (1)(A) of this subsection other than submersibles owned or operated by the Department of the Navy.
-        (iii) Except as provided in subsection (c) of this section, after December 31, 2008, to all ships referred to in paragraph (1)(A) of this subsection.
-      (B) This paragraph shall not apply during time of war or a declared national emergency.
-  (c) Discharges in special areas
-    (1) Except as provided in paragraphs (2) and (3), not later than December 31, 2000, all surface ships owned or operated by the Department of the Navy, and not later than December 31, 2008, all submersibles owned or operated by the Department of the Navy, shall comply with the special area requirements of Regulation 5 of Annex V to the Convention.
-    (2)      (A) Subject to subparagraph (B), any ship described in subparagraph (C) may discharge, without regard to the special area requirements of Regulation 5 of Annex V to the Convention, the following non-plastic, non-floating garbage:
-        (i) A slurry of seawater, paper, cardboard, or food waste that is capable of passing through a screen with openings no larger than 12 millimeters in diameter.
-        (ii) Metal and glass that have been shredded and bagged so as to ensure negative buoyancy.
-        (iii) With regard to a submersible, nonplastic garbage that has been compacted and weighted to ensure negative buoyancy.
-      (B)        (i) Garbage described in subparagraph (A)(i) may not be discharged within 3 nautical miles of land.
-        (ii) Garbage described in clauses (ii) and (iii) of subparagraph (A) may not be discharged within 12 nautical miles of land.
-      (C) This paragraph applies to any ship that is owned or operated by the Department of the Navy that, as determined by the Secretary of the Navy–
-        (i) has unique military design, construction, manning, or operating requirements; and
-        (ii) cannot fully comply with the special area requirements of Regulation 5 of Annex V to the Convention because compliance is not technologically feasible or would impair the operations or operational capability of the ship.
-    (3)      (A) Not later than December 31, 2000, the Secretary of the Navy shall prescribe and publish in the Federal Register standards to ensure that each ship described in subparagraph (B) is, to the maximum extent practicable without impairing the operations or operational capabilities of the ship, operated in a manner that is consistent with the special area requirements of Regulation 5 of Annex V to the Convention.
-      (B) Subparagraph (A) applies to surface ships that are owned or operated by the Department of the Navy that the Secretary plans to decommission during the period beginning on January 1, 2001, and ending on December 31, 2005.
-      (C) At the same time that the Secretary publishes standards under subparagraph (A), the Secretary shall publish in the Federal Register a list of the ships covered by subparagraph (B).
-  (d) Regulations
-     The Secretary shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol, including regulations conforming to and giving effect to the requirements of Annex V as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
-  (e) Compliance by excluded vessels
-    (1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
-    (2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
-    (3) Except when necessary for the purpose of securing the safety of the ship, the health of the ship“s personnel, or saving life at sea, it shall be a violation of this chapter for a ship referred to in subsection (b)(1)(A) of this section that is owned or operated by the Department of the Navy:
-      (A) With regard to a submersible, to discharge buoyant garbage or plastic.
-      (B) With regard to a surface ship, to discharge plastic contaminated by food during the last 3 days before the ship enters port.
-      (C) With regard to a surface ship, to discharge plastic, except plastic that is contaminated by food, during the last 20 days before the ship enters port.
-    (4) The Secretary of Defense shall publish in the Federal Register:
-      (A) Each year, the amount and nature of the discharges in special areas, not otherwise authorized under this chapter, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.
-      (B) Beginning on October 1, 1996, and each year thereafter until October 1, 1998, a list of the names of such ships equipped with plastic processors pursuant to section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994.
-  (f) Waiver authority
-     The President may waive the effective dates of the requirements set forth in subsection (c) of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
-  (g) Noncommercial shipping standards
-     The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+  (a) Unless the context indicates otherwise, as used in this chapter–
+    (1) ””Administrator““ means the Administrator of the Environmental Protection Agency;
+    (2) ””Antarctica““ means the area south of 60 degrees south latitude;
+    (3) ””Antarctic Protocol““ means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, and includes any future amendments thereto which have entered into force;
+    (4) ””MARPOL Protocol““ means the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, and includes the Convention;
+    (5) ””Convention““ means the International Convention for the Prevention of Pollution from Ships, 1973, including Protocols I and II and Annexes I, II, V, and VI thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States;
+    (6) ””discharge““, ””emission““, ””garbage““, ””harmful substance““, and ””incident““ shall have the meanings provided in the Convention;
+    (7) ””navigable waters““ includes the territorial sea of the United States (as defined in Presidential Proclamation 5928 of December 27, 1988) and the internal waters of the United States;
+    (8) ””owner““ means any person holding title to, or in the absence of title, any other indicia of ownership of, a ship or terminal, but does not include a person who, without participating in the management or operation of a ship or terminal, holds indicia of ownership primarily to protect a security interest in the ship or terminal;
+    (9) ””operator““ means–
+      (a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or
+      (b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
+    (10) ””person““ means an individual, firm, public or private corporation, partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body;
+    (11) ””Secretary““ means the Secretary of the department in which the Coast Guard is operating;
+    (12) ””ship““ means a vessel of any type whatsoever, including hydrofoils, air-cushion vehicles, submersibles, floating craft whether self-propelled or not, and fixed or floating platforms;
+    (13) ””submersible““ means a submarine, or any other vessel designed to operate under water; and
+    (14) ””terminal““ means an onshore facility or an offshore structure located in the navigable waters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
+  (b) For purposes of this chapter, the requirements of Annex V shall apply to the navigable waters of the United States, as well as to all other waters and vessels over which the United States has jurisdiction.
+  (c) For the purposes of this chapter, the requirements of Annex IV to the Antarctic Protocol shall apply in Antarctica to all vessels over which the United States has jurisdiction.
