@@ -1,5 +1,5 @@
   (a) Printing
-     Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
+     Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
   (b) Approved food stores; receipt of cash in change for coupons used to purchase food
      Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: T3ProvidedK, That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: T3Provided furtherK, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
   (c) Design of coupons
@@ -65,3 +65,25 @@
             (i) obtain some additional point-of-sale service from the company or an affiliate of the company; or
             (ii) not obtain some additional point-of-sale service from a competitor of the company or competitor of any affiliate of the company.
           (C) T4Consultation with the federal reserve boardK.–Before promulgating regulations or interpretations of regulations to carry out this paragraph, the Secretary shall consult with the Board of Governors of the Federal Reserve System.
+      (j) State option to issue benefits to certain individuals made ineligible by welfare reform
+        (1) In general
+           Notwithstanding any other provision of law, a State agency may, with the approval of the Secretary, issue benefits under this chapter to an individual who is ineligible to participate in the food stamp program solely as a result of section 2015(T3oK)(2) of this title or section 1612 or 1613 of title 8.
+        (2) State payments to Secretary
+          (A) In general
+             Not later than the date the State agency issues benefits to individuals under this subsection, the State agency shall pay the Secretary, in accordance with procedures established by the Secretary, an amount that is equal to–
+            (i) the value of the benefits; and
+            (ii) the costs of printing, shipping, and redeeming coupons, and other Federal costs, incurred in providing the benefits, as determined by the Secretary.
+          (B) Crediting
+             Notwithstanding section 3302(b) of title 31, payments received under subparagraph (A) shall be credited to the food stamp program appropriation account or the account from which the costs were drawn, as appropriate, for the fiscal year in which the payment is received.
+        (3) Reporting
+           To be eligible to issue benefits under this subsection, a State agency shall comply with reporting requirements established by the Secretary to carry out this subsection.
+        (4) Plan
+           To be eligible to issue benefits under this subsection, a State agency shall–
+          (A) submit a plan to the Secretary that describes the conditions and procedures under which the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
+          (B) obtain the approval of the Secretary for the plan.
+        (5) Violations
+           A sanction, disqualification, fine, or other penalty prescribed under Federal law (including sections 2021 and 2024 of this title) shall apply to a violation committed in connection with a coupon issued under this subsection.
+        (6) Ineligibility for administrative reimbursement
+           Administrative and other costs incurred in issuing a benefit under this subsection shall not be eligible for Federal funding under this chapter.
+        (7) Exclusion from enhanced payment accuracy systems
+           Section 2025(c) of this title shall not apply to benefits issued under this subsection.
