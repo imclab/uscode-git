@@ -107,4 +107,4 @@
              Manganese (g)D5.0DD
              Sodium (mg)D20.0DD 60.0.
              Potassium (mg)D80.0DD200.0.
-             Chloride (mg)D55.0DD150.0.fG2aG1 Stated per 100 kilocalories.fG2bG1 The source of protein shall be at least nutritionally equivalent to casein.fG2cG1 Retinol equivalents.fG2dG1 Required to be included in this amount only in formulas which are not milk-based.fG2eG1 Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0.
+             Chloride (mg)D55.0DD150.0.
