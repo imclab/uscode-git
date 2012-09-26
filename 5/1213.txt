@@ -1,26 +1,46 @@
-  (a) The Office of Special Counsel shall–
-    (1) in accordance with section 1214(a) and other applicable provisions of this subchapter, protect employees, former employees, and applicants for employment from prohibited personnel practices;
-    (2) receive and investigate allegations of prohibited personnel practices, and, where appropriate–
-      (A) bring petitions for stays, and petitions for corrective action, under section 1214; and
-      (B) file a complaint or make recommendations for disciplinary action under section 1215;
-    (3) receive, review, and, where appropriate, forward to the Attorney General or an agency head under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
-    (4) review rules and regulations issued by the Director of the Office of Personnel Management in carrying out functions under section 1103 and, where the Special Counsel finds that any such rule or regulation would, on its face or as implemented, require the commission of a prohibited personnel practice, file a written complaint with the Board; and
-    (5) investigate and, where appropriate, bring actions concerning allegations of violations of other laws within the jurisdiction of the Office of Special Counsel (as referred to in section 1216).
-  (b)    (1) The Special Counsel and any employee of the Office of Special Counsel designated by the Special Counsel may administer oaths, examine witnesses, take depositions, and receive evidence.
-    (2) The Special Counsel may–
-      (A) issue subpoenas; and
-      (B) order the taking of depositions and order responses to written interrogatories;
-         in the same manner as provided under section 1204.
-    (3)      (A) In the case of contumacy or failure to obey a subpoena issued under paragraph (2)(A), the Special Counsel may apply to the Merit Systems Protection Board to enforce the subpoena in court pursuant to section 1204(c).
-      (B) A subpoena under paragraph (2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in the manner referred to in subsection (d) of section 1204, and the United States District Court for the District of Columbia may, with respect to any such individual, compel compliance in accordance with such subsection.
-    (4) Witnesses (whether appearing voluntarily or under subpoena) shall be paid the same fee and mileage allowances which are paid subpoenaed witnesses in the courts of the United States.
-  (c)    (1) Except as provided in paragraph (2), the Special Counsel may as a matter of right intervene or otherwise participate in any proceeding before the Merit Systems Protection Board, except that the Special Counsel shall comply with the rules of the Board.
-    (2) The Special Counsel may not intervene in an action brought by an individual under section 1221, or in an appeal brought by an individual under section 7701, without the consent of such individual.
-  (d)    (1) The Special Counsel may appoint the legal, administrative, and support personnel necessary to perform the functions of the Special Counsel.
-    (2) Any appointment made under this subsection shall be made in accordance with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
-  (e) The Special Counsel may prescribe such regulations as may be necessary to perform the functions of the Special Counsel. Such regulations shall be published in the Federal Register.
-  (f) The Special Counsel may not issue any advisory opinion concerning any law, rule, or regulation (other than an advisory opinion concerning chapter 15 or subchapter III of chapter 73).
-  (g)    (1) The Special Counsel may not respond to any inquiry or disclose any information from or about any person making an allegation under section 1214(a), except in accordance with the provisions of section 552a of title 5, United States Code, or as required by any other applicable Federal law.
-    (2) Notwithstanding the exception under paragraph (1), the Special Counsel may not respond to any inquiry concerning an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any person described in paragraph (1)–
-      (A) unless the consent of the individual as to whom the information pertains is obtained in advance; or
-      (B) except upon request of an agency which requires such information in order to make a determination concerning an individual“s having access to the information unauthorized disclosure of which could be expected to cause exceptionally grave damage to the national security.
+  (a) This section applies with respect to–
+    (1) any disclosure of information by an employee, former employee, or applicant for employment which the employee, former employee, or applicant reasonably believes evidences–
+      (A) a violation of any law, rule, or regulation; or
+      (B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+     if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; and
+    (2) any disclosure by an employee, former employee, or applicant for employment to the Special Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee, former employee, or applicant reasonably believes evidences–
+      (A) a violation of any law, rule, or regulation; or
+      (B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+  (b) Whenever the Special Counsel receives information of a type described in subsection (a) of this section, the Special Counsel shall review such information and, within 15 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
+  (c)    (1) Subject to paragraph (2), if the Special Counsel makes a positive determination under subsection (b) of this section, the Special Counsel shall promptly transmit the information with respect to which the determination was made to the appropriate agency head and require that the agency head–
+      (A) conduct an investigation with respect to the information and any related matters transmitted by the Special Counsel to the agency head; and
+      (B) submit a written report setting forth the findings of the agency head within 60 days after the date on which the information is transmitted to the agency head or within any longer period of time agreed to in writing by the Special Counsel.
+    (2) The Special Counsel may require an agency head to conduct an investigation and submit a written report under paragraph (1) only if the information was transmitted to the Special Counsel by–
+      (A) an employee, former employee, or applicant for employment in the agency which the information concerns; or
+      (B) an employee who obtained the information in connection with the performance of the employee“s duties and responsibilities.
+  (d) Any report required under subsection (c) shall be reviewed and signed by the head of the agency and shall include–
+    (1) a summary of the information with respect to which the investigation was initiated;
+    (2) a description of the conduct of the investigation;
+    (3) a summary of any evidence obtained from the investigation;
+    (4) a listing of any violation or apparent violation of any law, rule, or regulation; and
+    (5) a description of any action taken or planned as a result of the investigation, such as–
+      (A) changes in agency rules, regulations, or practices;
+      (B) the restoration of any aggrieved employee;
+      (C) disciplinary action against any employee; and
+      (D) referral to the Attorney General of any evidence of a criminal violation.
+  (e)    (1) Any such report shall be submitted to the Special Counsel, and the Special Counsel shall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
+    (2) Upon receipt of any report of the head of an agency required under subsection (c) of this section, the Special Counsel shall review the report and determine whether–
+      (A) the findings of the head of the agency appear reasonable; and
+      (B) the report of the agency under subsection (c)(1) of this section contains the information required under subsection (d) of this section.
+    (3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
+    (4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
+  (f) In any case in which evidence of a criminal violation obtained by an agency in an investigation under subsection (c) of this section is referred to the Attorney General–
+    (1) the report shall not be transmitted to the complainant; and
+    (2) the agency shall notify the Office of Personnel Management and the Office of Management and Budget of the referral.
+  (g)    (1) If the Special Counsel receives information of a type described in subsection (a) from an individual other than an individual described in subparagraph (A) or (B) of subsection (c)(2), the Special Counsel may transmit the information to the head of the agency which the information concerns. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action shall be completed. The Special Counsel shall inform the individual of the report of the agency head. If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.
+    (2) If the Special Counsel receives information of a type described in subsection (a) from an individual described in subparagraph (A) or (B) of subsection (c)(2), but does not make a positive determination under subsection (b), the Special Counsel may transmit the information to the head of the agency which the information concerns, except that the information may not be transmitted to the head of the agency without the consent of the individual. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action will be completed. The Special Counsel shall inform the individual of the report of the agency head.
+    (3) If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall–
+      (A) return any documents and other matter provided by the individual who made the disclosure; and
+      (B) inform the individual of–
+        (i) the reasons why the disclosure may not be further acted on under this chapter; and
+        (ii) other offices available for receiving disclosures, should the individual wish to pursue the matter further.
+  (h) The identity of any individual who makes a disclosure described in subsection (a) may not be disclosed by the Special Counsel without such individual“s consent unless the Special Counsel determines that the disclosure of the individual“s identity is necessary because of an imminent danger to public health or safety or imminent violation of any criminal law.
+    (i) Except as specifically authorized under this section, the provisions of this section shall not be considered to authorize disclosure of any information by any agency or any person which is–
+      (1) specifically prohibited from disclosure by any other provision of law; or
+      (2) specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
+    (j) With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
