@@ -11,19 +11,19 @@
         (ii) the aggregate deductions for interest properly allocable to such property, exceed
       (B) the aggregate income from such property.
     (2) Tax-exempt use property
-       The term ””tax-exempt use property““ has the meaning given to such term by section 168(h), except that such section shall be applied–
-      (A) without regard to paragraphs (1)(C) and (3) thereof, and
-      (B) as if property described in–
-        (i) section 167(f)(1)(B),
-        (ii) section 167(f)(2), and
-        (iii) section 197 intangible,
-       were tangible property.
-       Such term shall not include property which would (but for this sentence) be tax-exempt use property solely by reason of section 168(h)(6) if any credit is allowable under section 42 or 47 with respect to such property.
+      (A) In general
+         The term ””tax-exempt use property““ has the meaning given to such term by section 168(h), except that such section shall be applied–
+        (i) without regard to paragraphs (1)(C) and (3) thereof, and
+        (ii) as if section 197 intangible property (as defined in section 197), and property described in paragraph (1)(B) or (2) of section 167(f), were tangible property.
+      (B) Exception for partnerships
+         Such term shall not include any property which would (but for this subparagraph) be tax-exempt use property solely by reason of section 168(h)(6).
+      (C) Cross reference
+         T2For treatment of partnerships as leases to which section 168(h) applies, see section 7701(e).
   (d) Exception for certain leases
      This section shall not apply to any lease of property which meets the requirements of all of the following paragraphs:
     (1) Availability of funds
       (A) In general
-         A lease of property meets the requirements of this paragraph if (at any time during the lease term) not more than an allowable amount of funds are–
+         A lease of property meets the requirements of this paragraph if (at all times during the lease term) not more than an allowable amount of funds are–
         (i) subject to any arrangement referred to in subparagraph (B), or
         (ii) set aside or expected to be set aside,
          to or for the benefit of the lessor or any lender, or to or for the benefit of the lessee to satisfy the lessee“s obligations or options under the lease. For purposes of clause (ii), funds shall be treated as set aside or expected to be set aside only if a reasonable person would conclude, based on the facts and circumstances, that such funds are set aside or expected to be set aside.

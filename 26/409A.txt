@@ -65,15 +65,40 @@
       (A) the date on which the plan first provides that assets will become restricted to the provision of benefits under the plan in connection with a change in the employer“s financial health, or
       (B) the date on which assets are so restricted,
        whether or not such assets are available to satisfy claims of general creditors.
-    (3) Income inclusion for offshore trusts and employer“s financial health
-       For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subject to paragraph (1) or (2), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
-    (4) Interest on tax liability payable with respect to transferred property
+    (3) Treatment of employer“s defined benefit plan during restricted period
       (A) In general
-         If amounts are required to be included in gross income by reason of paragraph (1) or (2) for a taxable year, the tax imposed by this chapter for such taxable year shall be increased by the sum of–
+         If–
+        (i) during any restricted period with respect to a single-employer defined benefit plan, assets are set aside or reserved (directly or indirectly) in a trust (or other arrangement as determined by the Secretary) or transferred to such a trust or other arrangement for purposes of paying deferred compensation of an applicable covered employee under a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor, or
+        (ii) a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor provides that assets will become restricted to the provision of benefits under the plan in connection with such restricted period (or other similar financial measure determined by the Secretary) with respect to the defined benefit plan, or assets are so restricted,
+         such assets shall, for purposes of section 83, be treated as property transferred in connection with the performance of services whether or not such assets are available to satisfy claims of general creditors. Clause (i) shall not apply with respect to any assets which are so set aside before the restricted period with respect to the defined benefit plan.
+      (B) Restricted period
+         For purposes of this section, the term ””restricted period““ means, with respect to any plan described in subparagraph (A)–
+        (i) any period during which the plan is in at-risk status (as defined in section 430(i)); \1\N
+        (ii) any period the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, and
+        (iii) the 12-month period beginning on the date which is 6 months before the termination date of the plan if, as of the termination date, the plan is not sufficient for benefit liabilities (within the meaning of section 4041 of the Employee Retirement Income Security Act of 1974).
+      (C) Special rule for payment of taxes on deferred compensation included in income
+         If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect to any compensation required to be included in gross income by reason of this paragraph–
+        (i) interest shall be imposed under subsection (a)(1)(B)(i)(I) on the amount of such payment in the same manner as if such payment was part of the deferred compensation to which it relates,
+        (ii) such payment shall be taken into account in determining the amount of the additional tax under subsection (a)(1)(B)(i)(II) in the same manner as if such payment was part of the deferred compensation to which it relates, and
+        (iii) no deduction shall be allowed under this title with respect to such payment.
+      (D) Other definitions
+         For purposes of this section–
+        (i) Applicable covered employee
+           The term ””applicable covered employee““ means any–
+          (I) covered employee of a plan sponsor,
+          (II) covered employee of a member of a controlled group which includes the plan sponsor, and
+          (III) former employee who was a covered employee at the time of termination of employment with the plan sponsor or a member of a controlled group which includes the plan sponsor.
+        (ii) Covered employee
+           The term ””covered employee““ means an individual described in section 162(m)(3) or an individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
+    (4) Income inclusion for offshore trusts and employer“s financial health
+       For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subject to paragraph (1), (2), or (3), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
+    (5) Interest on tax liability payable with respect to transferred property
+      (A) In general
+         If amounts are required to be included in gross income by reason of paragraph (1), (2), or (3) for a taxable year, the tax imposed by this chapter for such taxable year shall be increased by the sum of–
         (i) the amount of interest determined under subparagraph (B), and
         (ii) an amount equal to 20 percent of the amounts required to be included in gross income.
       (B) Interest
-         For purposes of subparagraph (A), the interest determined under this subparagraph for any taxable year is the amount of interest at the underpayment rate plus 1 percentage point on the underpayments that would have occurred had the amounts so required to be included in gross income by paragraph (1) or (2) been includible in gross income for the taxable year in which first deferred or, if later, the first taxable year in which such amounts are not subject to a substantial risk of forfeiture.
+         For purposes of subparagraph (A), the interest determined under this subparagraph for any taxable year is the amount of interest at the underpayment rate plus 1 percentage point on the underpayments that would have occurred had the amounts so required to be included in gross income by paragraph (1), (2), or (3) been includible in gross income for the taxable year in which first deferred or, if later, the first taxable year in which such amounts are not subject to a substantial risk of forfeiture.
   (c) No inference on earlier income inclusion or requirement of later inclusion
      Nothing in this section shall be construed to prevent the inclusion of amounts in gross income under any other provision of this chapter or any other rule of law earlier than the time provided in this section. Any amount included in gross income under this section shall not be required to be included in gross income under any other provision of this chapter or any other rule of law later than the time provided in this section.
   (d) Other definitions and special rules

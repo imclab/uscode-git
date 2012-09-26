@@ -4,7 +4,7 @@
       (A) the qualified research expenses for the taxable year, over
       (B) the base amount,
     (2) 20 percent of the basic research payments determined under subsection (e)(1)(A), and
-    (3) 20 percent of the amounts paid or incurred by the taxpayer in carrying on any trade or business of the taxpayer during the taxable year (including as contributions) to an energy research consortium.
+    (3) 20 percent of the amounts paid or incurred by the taxpayer in carrying on any trade or business of the taxpayer during the taxable year (including as contributions) to an energy research consortium for energy research.
   (b) Qualified research expenses
      For purposes of this section–
     (1) Qualified research expenses
@@ -103,17 +103,27 @@
     (4) Election of alternative incremental credit
       (A) In general
          At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to the sum of–
-        (i) 2.65 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
-        (ii) 3.2 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
-        (iii) 3.75 percent of so much of such expenses as exceeds 2 percent of such average.
+        (i) 3 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
+        (ii) 4 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
+        (iii) 5 percent of so much of such expenses as exceeds 2 percent of such average.
       (B) Election
          An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
-    (5) Consistent treatment of expenses required
+    (5) Election of alternative simplified credit
+      (A) In general
+         At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 12 percent of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
+      (B) Special rule in case of no qualified research expenses in any of 3 preceding taxable years
+        (i) Taxpayers to which subparagraph applies
+           The credit under this paragraph shall be determined under this subparagraph if the taxpayer has no qualified research expenses in any one of the 3 taxable years preceding the taxable year for which the credit is being determined.
+        (ii) Credit rate
+           The credit determined under this subparagraph shall be equal to 6 percent of the qualified research expenses for the taxable year.
+      (C) Election
+         An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary. An election under this paragraph may not be made for any taxable year to which an election under paragraph (4) applies.
+    (6) Consistent treatment of expenses required
       (A) In general
          Notwithstanding whether the period for filing a claim for credit or refund has expired for any taxable year taken into account in determining the fixed-base percentage, the qualified research expenses taken into account in computing such percentage shall be determined on a basis consistent with the determination of qualified research expenses for the credit year.
       (B) Prevention of distortions
          The Secretary may prescribe regulations to prevent distortions in calculating a taxpayer“s qualified research expenses or gross receipts caused by a change in accounting methods used by such taxpayer between the current year and a year taken into account in computing such taxpayer“s fixed-base percentage.
-    (6) Gross receipts
+    (7) Gross receipts
        For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
   (d) Qualified research defined
      For purposes of this section–
@@ -271,11 +281,11 @@
       (A) Controlled group of corporations
          In determining the amount of the credit under this section–
         (i) all members of the same controlled group of corporations shall be treated as a single taxpayer, and
-        (ii) the credit (if any) allowable by this section to each such member shall be its proportionate shares of the qualified research expenses and basic research payments giving rise to the credit.
+        (ii) the credit (if any) allowable by this section to each such member shall be its proportionate shares of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums, giving rise to the credit.
       (B) Common control
          Under regulations prescribed by the Secretary, in determining the amount of the credit under this section–
         (i) all trades or businesses (whether or not incorporated) which are under common control shall be treated as a single taxpayer, and
-        (ii) the credit (if any) allowable by this section to each such person shall be its proportionate shares of the qualified research expenses and basic research payments giving rise to the credit.
+        (ii) the credit (if any) allowable by this section to each such person shall be its proportionate shares of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums, giving rise to the credit.
          The regulations prescribed under this subparagraph shall be based on principles similar to the principles which apply in the case of subparagraph (A).
     (2) Allocations
       (A) Pass-thru in the case of estates and trusts
@@ -316,6 +326,8 @@
          For purposes of subsection (a)(3), amounts paid or incurred for any energy research conducted outside the United States, the Commonwealth of Puerto Rico, or any possession of the United States shall not be taken into account.
       (D) Denial of double benefit
          Any amount taken into account under subsection (a)(3) shall not be taken into account under paragraph (1) or (2) of subsection (a).
+      (E) Energy research
+         The term ””energy research““ does not include any research which is not qualified research.
   (g) Special rule for pass-thru of credit
      In the case of an individual who–
     (1) owns an interest in an unincorporated trade or business,
@@ -327,6 +339,6 @@
     (1) In general
        This section shall not apply to any amount paid or incurred–
       (A) after June 30, 1995, and before July 1, 1996, or
-      (B) after December 31, 2005.
+      (B) after December 31, 2007.
     (2) Computation of base amount
        In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.

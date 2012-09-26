@@ -1,16 +1,17 @@
   (a) Credit allowed
      There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.
   (b) Limitation
-     The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed–
+     The credit allowed under subsection (a) with respect to all qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year at a location shall not exceed–
     (1) $30,000 in the case of a property of a character subject to an allowance for depreciation, and
     (2) $1,000 in any other case.
   (c) Qualified alternative fuel vehicle refueling property
-    (1) In general
-       Except as provided in paragraph (2), the term ””qualified alternative fuel vehicle refueling property““ has the meaning given to such term by section 179A(d),\1\N but only with respect to any fuel–
-      (A) at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquefied natural gas, liquefied petroleum gas, or hydrogen, or
-      (B) any mixture of biodiesel (as defined in section 40A(d)(1)) and diesel fuel (as defined in section 4083(a)(3)), determined without regard to any use of kerosene and containing at least 20 percent biodiesel.
-    (2) Residential property
-       In the case of any property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, paragraph (1) of section 179A(d) shall not apply.
+     For purposes of this section, the term ””qualified alternative fuel vehicle refueling property““ has the same meaning as the term ””qualified clean-fuel vehicle refueling property““ would have under section 179A if–
+    (1) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
+    (2) only the following were treated as clean-burning fuels for purposes of section 179A(d):
+      (A) Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.
+      (B) Any mixture–
+        (i) which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
+        (ii) at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
   (d) Application with other credits
     (1) Business credit treated as part of general business credit
        So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).

@@ -112,6 +112,27 @@
            Deductions computed in accordance with this paragraph shall be allowable notwithstanding paragraph (1)(B), section 263, 263A, 404, 419, or 461(h).
       (E) Authority to make adjustments
          The Secretary shall prescribe appropriate adjustments to the basis of property and to the look-back method for the additional amounts allowable as a deduction solely by reason of this paragraph.
+    (8) Special rules for certain musical works and copyrights
+      (A) In general
+         If an election is in effect under this paragraph for any taxable year, then, notwithstanding paragraph (1), any expense which–
+        (i) is paid or incurred by the taxpayer in creating or acquiring any applicable musical property placed in service during the taxable year, and
+        (ii) is otherwise properly chargeable to capital account,
+         shall be amortized ratably over the 5-year period beginning with the month in which the property was placed in service. The preceding sentence shall not apply to any expense which, without regard to this paragraph, would not be allowable as a deduction.
+      (B) Exclusive method
+         Except as provided in this paragraph, no depreciation or amortization deduction shall be allowed with respect to any expense to which subparagraph (A) applies.
+      (C) Applicable musical property
+         For purposes of this paragraph–
+        (i) In general
+           The term ””applicable musical property““ means any musical composition (including any accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
+        (ii) Exceptions
+           Such term shall not include any property–
+          (I) with respect to which expenses are treated as qualified creative expenses to which section 263A(h) applies,
+          (II) to which a simplified procedure established under section 263A(i)(2) applies, or
+          (III) which is an amortizable section 197 intangible (as defined in section 197(c)).
+      (D) Election
+         An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply to all applicable musical property placed in service during the taxable year for which the election applies.
+      (E) Termination
+         An election may not be made under this paragraph for any taxable year beginning after December 31, 2010.
   (h) Amortization of geological and geophysical expenditures
     (1) In general
        Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas within the United States (as defined in section 638) shall be allowed as a deduction ratably over the 24-month period beginning on the date that such expense was paid or incurred.
@@ -121,6 +142,17 @@
        Except as provided in this subsection, no depreciation or amortization deduction shall be allowed with respect to such payments.
     (4) Treatment upon abandonment
        If any property with respect to which geological and geophysical expenses are paid or incurred is retired or abandoned during the 24-month period described in paragraph (1), no deduction shall be allowed on account of such retirement or abandonment and the amortization deduction under this subsection shall continue with respect to such payment.
-      (i) Cross references
-         T2(1) For additional rule applicable to depreciation of improvements in the case of mines, oil and gas wells, other natural deposits, and timber, see section 611.
-         T2(2) For amortization of goodwill and certain other intangibles, see section 197.
+    (5) Special rule for major integrated oil companies
+      (A) In general
+         In the case of a major integrated oil company, paragraphs (1) and (4) shall be applied by substituting ””7-year““ for ””24 month““.
+      (B) Major integrated oil company
+         For purposes of this paragraph, the term ””major integrated oil company““ means, with respect to any taxable year, a producer of crude oil–
+        (i) which has an average daily worldwide production of crude oil of at least 500,000 barrels for the taxable year,
+        (ii) which had gross receipts in excess of $1,000,000,000 for its last taxable year ending during calendar year 2005, and
+        (iii) to which subsection (c) of section 613A does not apply by reason of paragraph (4) of section 613A(d), determined–
+          (I) by substituting ””15 percent““ for ””5 percent““ each place it occurs in paragraph (3) of section 613A(d), and
+          (II) without regard to whether subsection (c) of section 613A does not apply by reason of paragraph (2) of section 613A(d).
+            (i) Cross references
+               T2(1) For additional rule applicable to depreciation of improvements in the case of mines, oil and gas wells, other natural deposits, and timber, see section 611.
+               T2(2) For amortization of goodwill and certain other intangibles, see section 197.
+         For purposes of clauses (i) and (ii), all persons treated as a single employer under subsections (a) and (b) of section 52 shall be treated as 1 person and, in case of a short taxable year, the rule under section 448(c)(3)(B) shall apply.

@@ -135,8 +135,10 @@
         (i) subparagraph (B) or (D) of paragraph (3) provides that any amount with respect to any share or beneficial interest is to be treated as a long-term capital gain, and
         (ii) the taxpayer has held such share or interest for 6 months or less,
          then any loss on the sale or exchange of such share or interest shall, to the extent of the amount described in clause (i), be treated as a long-term capital loss.
-      (B) Determination of holding period
-         For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock or beneficial interest; except that ””6 months““ shall be substituted for the number of days specified in subparagraph (B) \1\N of section 246(c)(3).
+      (B) Determination of holding periods
+         For purposes of this paragraph, in determining the period for which the taxpayer has held any share of stock or beneficial interest–
+        (i) the rules of paragraphs (3) and (4) of section 246(c) shall apply, and
+        (ii) there shall not be taken into account any day which is more than 6 months after the date on which such share or interest becomes ex-dividend.
       (C) Exception for losses incurred under periodic liquidation plans
          To the extent provided in regulations, subparagraph (A) shall not apply to any loss incurred on the sale or exchange of shares of stock of, or beneficial interest in, a real estate investment trust pursuant to a plan which provides for the periodic liquidation of such shares or interests.
     (9) Time certain dividends taken into account

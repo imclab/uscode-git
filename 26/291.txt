@@ -11,12 +11,7 @@
       (B) the adjusted basis of the property at the close of the taxable year (determined without regard to the depletion deduction for the taxable year).
     (3) Certain financial institution preference items
        The amount allowable as a deduction under this chapter (determined without regard to this section) with respect to any financial institution preference item shall be reduced by 20 percent.
-       If all of the stock in the FSC is not held by 1 or more C corporations throughout the taxable year, under regulations, proper adjustments shall be made in the application of the preceding sentence to take into account stock held by persons other than C corporations.
-    (4) Certain FSC income
-       In the case of taxable years beginning after December 31, 1984, section 923(a) \1\N shall be applied with respect to any FSC by substituting–
-      (A) ””30 percent““ for ””32 percent““ in paragraph (2), and
-      (B) ””\15/23\““ for ””\16/23\““ in paragraph (3).
-    (5) Amortization of pollution control facilities
+    (4) Amortization of pollution control facilities
        If an election is made under section 169 with respect to any certified pollution control facility, the amortizable basis of such facility for purposes of such section shall be reduced by 20 percent.
   (b) Special rules for treatment of intangible drilling costs and mineral exploration and development costs
      For purposes of this subtitle, in the case of a corporation–
@@ -36,7 +31,7 @@
   (c) Special rules relating to pollution control facilities
      For purposes of this subtitle–
     (1) Accelerated cost recovery deduction
-       Section 168 shall apply with respect to that portion of the basis of any property not taken into account under section 169 by reason of subsection (a)(5).
+       Section 168 shall apply with respect to that portion of the basis of any property not taken into account under section 169 by reason of subsection (a)(4).
     (2) 1250 Recapture
        Subsection (a)(1) shall not apply to any section 1250 property which is part of a certified pollution control facility (within the meaning of section 169(d)(1)) with respect to which an election under section 169 was made.
   (d) Special rule for real estate investment trusts

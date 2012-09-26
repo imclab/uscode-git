@@ -2,8 +2,9 @@
     (1) In general
        A plan meets the requirements of section 401(a)(11) only if–
       (A) under the plan, each participant–
-        (i) may elect at any time during the applicable election period to waive the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit (or both), and
-        (ii) may revoke any such election at any time during the applicable election period, and
+        (i) may elect at any time during the applicable election period to waive the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit (or both),
+        (ii) if the participant elects a waiver under clause (i), may elect the qualified optional survivor annuity at any time during the applicable election period, and
+        (iii) may revoke any such election at any time during the applicable election period, and
       (B) the plan meets the requirements of paragraphs (2), (3), and (4) of this subsection.
     (2) Spouse must consent to election
        Each plan shall provide that an election under paragraph (1)(A)(i) shall not take effect unless–
@@ -13,7 +14,7 @@
     (3) Plan to provide written explanations
       (A) Explanation of joint and survivor annuity
          Each plan shall provide to each participant, within a reasonable period of time before the annuity starting date (and consistent with such regulations as the Secretary may prescribe), a written explanation of–
-        (i) the terms and conditions of the qualified joint and survivor annuity,
+        (i) the terms and conditions of the qualified joint and survivor annuity and of the qualified optional survivor annuity,
         (ii) the participant“s right to make, and the effect of, an election under paragraph (1) to waive the joint and survivor annuity form of benefit,
         (iii) the rights of the participant“s spouse under paragraph (2), and
         (iv) the right to make, and the effect of, a revocation of an election under paragraph (1).
@@ -38,7 +39,7 @@
          For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit if under the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
     (6) Applicable election period defined
        For purposes of this subsection, the term ””applicable election period““ means–
-      (A) in the case of an election to waive the qualified joint and survivor annuity form of benefit, the 90-day period ending on the annuity starting date, or
+      (A) in the case of an election to waive the qualified joint and survivor annuity form of benefit, the 180-day period ending on the annuity starting date, or
       (B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of the plan year in which the participant attains age 35 and ends on the date of the participant“s death.
        In the case of a participant who is separated from service, the applicable election period under subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
     (7) Special rules relating to time for written explanation
@@ -92,19 +93,22 @@
        the plan may immediately distribute the present value of such annuity.
     (3) Determination of present value
       (A) In general
-        (i) Present value
-           Except as provided in subparagraph (B), for purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
-        (ii) Definitions
-           For purposes of clause (i)–
-          (I) Applicable mortality table
-             The term ””applicable mortality table““ means the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners“ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date as of which present value is being determined (without regard to any other subparagraph of section 807(d)(5)).
-          (II) Applicable interest rate
-             The term ””applicable interest rate““ means the annual rate of interest on 30-year Treasury securities for the month before the date of distribution or such other time as the Secretary may by regulations prescribe.
-      (B) Exception
-         In the case of a distribution from a plan that was adopted and in effect before the date of the enactment of the Retirement Protection Act of 1994, the present value of any distribution made before the earlier of–
-        (i) the later of the date a plan amendment applying subparagraph (A) is adopted or made effective, or
-        (ii) the first day of the first plan year beginning after December 31, 1999,
-         shall be calculated, for purposes of paragraphs (1) and (2), using the interest rate determined under the regulations of the Pension Benefit Guaranty Corporation for determining the present value of a lump sum distribution on plan termination that were in effect on September 1, 1993, and using the provisions of the plan as in effect on the day before such date of enactment; but only if such provisions of the plan met the requirements of section 417(e)(3) as in effect on the day before such date of enactment.
+         For purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
+      (B) Applicable mortality table
+         For purposes of subparagraph (A), the term ””applicable mortality table““ means a mortality table, modified as appropriate by the Secretary, based on the mortality table specified for the plan year under subparagraph (A) of section 430(h)(3) (without regard to subparagraph (C) or (D) of such section).
+      (C) Applicable interest rate
+         For purposes of subparagraph (A), the term ””applicable interest rate““ means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 430(h)(2)(C) for the month before the date of the distribution or such other time as the Secretary may by regulations prescribe.
+      (D) Applicable segment rates
+         For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) if–
+        (i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
+        (ii) section 430(h)(2)(G)(i)(II) were applied by substituting ””section 417(e)(3)(A)(ii)(II)““ for ””section 412(b)(5)(B)(ii)(II)““, and
+        (iii) the applicable percentage under section 430(h)(2)(G) were determined in accordance with the following table:
+            
+           T2In the case of plan years beginning in:
+            2008 D 20 percent  
+            2009 D 40 percent  
+            2010 D 60 percent  
+            2011 D 80 percent.
   (f) Other definitions and special rules
      For purposes of this section and section 401(a)(11)–
     (1) Vested participant
@@ -126,3 +130,16 @@
        No consent of a spouse shall be effective for purposes of subsection (e)(1) or (e)(2) (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (a)(1)(A) are met.
     (7) Consultation with the Secretary of Labor
        In prescribing regulations under this section and section 401(a)(11), the Secretary shall consult with the Secretary of Labor.
+  (g) Definition of qualified optional survivor annuity
+    (1) In general
+       For purposes of this section, the term ””qualified optional survivor annuity““ means an annuity–
+      (A) for the life of the participant with a survivor annuity for the life of the spouse which is equal to the applicable percentage of the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
+      (B) which is the actuarial equivalent of a single annuity for the life of the participant.
+       Such term also includes any annuity in a form having the effect of an annuity described in the preceding sentence.
+    (2) Applicable percentage
+      (A) In general
+         For purposes of paragraph (1), if the survivor annuity percentage–
+        (i) is less than 75 percent, the applicable percentage is 75 percent, and
+        (ii) is greater than or equal to 75 percent, the applicable percentage is 50 percent.
+      (B) Survivor annuity percentage
+         For purposes of subparagraph (A), the term ””survivor annuity percentage““ means the percentage which the survivor annuity under the plan“s qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.

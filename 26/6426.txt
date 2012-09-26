@@ -57,7 +57,7 @@
       (C) compressed or liquefied natural gas,
       (D) liquefied hydrogen,
       (E) any liquid fuel derived from coal (including peat) through the Fischer-Tropsch process, and
-      (F) liquid hydrocarbons derived from biomass (as defined in section 45K(c)(3)).
+      (F) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
        Such term does not include ethanol, methanol, or biodiesel.
     (3) Gasoline gallon equivalent
        For purposes of this subsection, the term ””gasoline gallon equivalent““ means, with respect to any nonliquid alternative fuel, the amount of such fuel having a Btu content of 124,800 (higher heating value).
@@ -84,3 +84,5 @@
        All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under paragraph (1) as if such tax were imposed by section 4081 and not by this section.
   (g) Coordination with exemption from excise tax
      Rules similar to the rules under section 40(c) shall apply for purposes of this section.
+  (h) Denial of double benefit
+     No credit shall be determined under subsection (d) or (e) with respect to any fuel with respect to which credit may be determined under subsection (b) or (c) or under section 40 or 40A.

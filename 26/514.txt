@@ -100,8 +100,9 @@
       (C) Qualified organization
          For purposes of this paragraph, the term ””qualified organization““ means–
         (i) an organization described in section 170(b)(1)(A)(ii) and its affiliated support organizations described in section 509(a)(3);
-        (ii) any trust which constitutes a qualified trust under section 401; or
-        (iii) an organization described in section 501(c)(25).
+        (ii) any trust which constitutes a qualified trust under section 401;
+        (iii) an organization described in section 501(c)(25); or
+        (iv) a retirement income account described in section 403(b)(9).
       (D) Other pass-thru entities; tiered entities
          Rules similar to the rules of subparagraph (B)(vi) shall also apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
       (E) Certain allocations permitted

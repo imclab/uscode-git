@@ -1,5 +1,5 @@
   (a) Initial tax
-     There is hereby imposed on the undistributed income of a private foundation for any taxable year, which has not been distributed before the first day of the second (or any succeeding) taxable year following such taxable year (if such first day falls within the taxable period), a tax equal to 15 percent of the amount of such income remaining undistributed at the beginning of such second (or succeeding) taxable year. The tax imposed by this subsection shall not apply to the undistributed income of a private foundation–
+     There is hereby imposed on the undistributed income of a private foundation for any taxable year, which has not been distributed before the first day of the second (or any succeeding) taxable year following such taxable year (if such first day falls within the taxable period), a tax equal to 30 percent of the amount of such income remaining undistributed at the beginning of such second (or succeeding) taxable year. The tax imposed by this subsection shall not apply to the undistributed income of a private foundation–
     (1) for any taxable year for which it is an operating foundation (as defined in subsection (j)(3)), or
     (2) to the extent that the foundation failed to distribute any amount solely because of an incorrect valuation of assets under subsection (e), if–
       (A) the failure to value the assets properly was not willful and was due to reasonable cause,
@@ -78,21 +78,19 @@
        For purposes of this section, the term ””qualifying distribution““ includes a contribution to a section 501(c)(3) organization described in paragraph (1)(A)(i) or (ii) if–
       (A) not later than the close of the first taxable year after its taxable year in which such contribution is received, such organization makes a distribution equal to the amount of such contribution and such distribution is a qualifying distribution (within the meaning of paragraph (1) or (2), without regard to this paragraph) which is treated under subsection (h) as a distribution out of corpus (or would be so treated if such section 501(c)(3) organization were a private foundation which is not an operating foundation), and
       (B) the private foundation making the contribution obtains adequate records or other sufficient evidence from such organization showing that the qualifying distribution described in subparagraph (A) has been made by such organization.
-    (4) Limitation on administrative expenses allocable to making of contributions, gifts, and grants
+    (4) Limitation on distributions by nonoperating private foundations to supporting organizations
       (A) In general
-         The amount of the grant administrative expenses paid during any taxable year which may be taken into account as qualifying distributions shall not exceed the excess (if any) of–
-        (i) .65 percent of the sum of the net assets of the private foundation for such taxable year and the immediately preceding 2 taxable years, over
-        (ii) the aggregate amount of grant administrative expenses paid during the 2 preceding taxable years which were taken into account as qualifying distributions.
-      (B) Grant administrative expenses
-         For purposes of this paragraph, the term ””grant administrative expenses““ means any administrative expenses which are allocable to the making of qualified grants.
-      (C) Qualified grants
-         For purposes of this paragraph, the term ””qualified grant““ means any contribution, gift, or grant which is a qualifying distribution.
-      (D) Net asset
-         For purposes of this paragraph, the term ””net assets““ means, with respect to any taxable year, the excess determined under subsection (e)(1) for such taxable year.
-      (E) Transitional rule
-         In the case of any preceding taxable year which begins before January 1, 1985, the amount of the grant administrative expenses taken into account under subparagraph (A)(ii) shall not exceed .65 percent of the net assets of the private foundation for such taxable year.
-      (F) Termination
-         This paragraph shall not apply to taxable years beginning after December 31, 1990.
+         For purposes of this section, the term ””qualifying distribution““ shall not include any amount paid by a private foundation which is not an operating foundation to–
+        (i) any type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
+        (ii) any organization which is described in subparagraph (B) or (C) if–
+          (I) a disqualified person of the private foundation directly or indirectly controls such organization or a supported organization (as defined in section 509(f)(3)) of such organization, or
+          (II) the Secretary determines by regulations that a distribution to such organization otherwise is inappropriate.
+      (B) Type I and type II supporting organizations
+         An organization is described in this subparagraph if the organization meets the requirements of subparagraphs (A) and (C) of section 509(a)(3) and is–
+        (i) operated, supervised, or controlled by one or more organizations described in paragraph (1) or (2) of section 509(a), or
+        (ii) supervised or controlled in connection with one or more such organizations.
+      (C) Functionally integrated type III supporting organizations
+         An organization is described in this subparagraph if the organization is a functionally integrated type III supporting organization (as defined under section 4943(f)(5)(B)).
   (h) Treatment of qualifying distributions
     (1) In general
        Except as provided in paragraph (2), any qualifying distribution made during a taxable year shall be treated as made–
@@ -105,7 +103,7 @@
       (i) Adjustment of distributable amount where distributions during prior years have exceeded income
         (1) In general
            If, for the taxable years in the adjustment period for which an organization is a private foundation–
-          (A) the aggregate qualifying distributions treated (under subsection (h)) as made out of the undistributed income for such taxable year or as made out of corpus (except to the extent subsection (g)(3) with respect to the recipient private foundation or section 170(b)(1)(E)(ii) applies) during such taxable years, exceed
+          (A) the aggregate qualifying distributions treated (under subsection (h)) as made out of the undistributed income for such taxable year or as made out of corpus (except to the extent subsection (g)(3) with respect to the recipient private foundation or section 170(b)(1)(F)(ii) applies) during such taxable years, exceed
           (B) the distributable amounts for such taxable years (determined without regard to this subsection),
            then, for purposes of this section (other than subsection (h)), the distributable amount for the taxable year shall be reduced by an amount equal to such excess.
         (2) Taxable years in adjustment period

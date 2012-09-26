@@ -3,13 +3,16 @@
        Gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of indebtedness of the taxpayer if–
       (A) the discharge occurs in a title 11 case,
       (B) the discharge occurs when the taxpayer is insolvent,
-      (C) the indebtedness discharged is qualified farm indebtedness, or
-      (D) in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness.
+      (C) the indebtedness discharged is qualified farm indebtedness,
+      (D) in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness, or
+      (E) the indebtedness discharged is qualified principal residence indebtedness which is discharged before January 1, 2010.
     (2) Coordination of exclusions
       (A) Title 11 exclusion takes precedence
-         Subparagraphs (B), (C), and (D) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case.
+         Subparagraphs (B), (C), (D), and (E) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case.
       (B) Insolvency exclusion takes precedence over qualified farm exclusion and qualified real property business exclusion
          Subparagraphs (C) and (D) of paragraph (1) shall not apply to a discharge to the extent the taxpayer is insolvent.
+      (C) Principal residence exclusion takes precedence over insolvency exclusion unless elected otherwise
+         Paragraph (1)(B) shall not apply to a discharge to which paragraph (1)(E) applies unless the taxpayer elects to apply paragraph (1)(B) in lieu of paragraph (1)(E).
     (3) Insolvency exclusion limited to amount of insolvency
        In the case of a discharge to which paragraph (1)(B) applies, the amount excluded under paragraph (1)(B) shall not exceed the amount by which the taxpayer is insolvent.
   (b) Reduction of tax attributes
@@ -205,3 +208,14 @@
          For purposes of this paragraph, the term ””qualified property““ means any property which is used or is held for use in a trade or business or for the production of income.
       (D) Coordination with insolvency exclusion
          For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
+  (h) Special rules relating to qualified principal residence indebtedness
+    (1) Basis reduction
+       The amount excluded from gross income by reason of subsection (a)(1)(E) shall be applied to reduce (but not below zero) the basis of the principal residence of the taxpayer.
+    (2) Qualified principal residence indebtedness
+       For purposes of this section, the term ””qualified principal residence indebtedness““ means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting ””$2,000,000 ($1,000,000““ for ””$1,000,000 ($500,000““ in clause (ii) thereof) with respect to the principal residence of the taxpayer.
+    (3) Exception for certain discharges not related to taxpayer“s financial condition
+       Subsection (a)(1)(E) shall not apply to the discharge of a loan if the discharge is on account of services performed for the lender or any other factor not directly related to a decline in the value of the residence or to the financial condition of the taxpayer.
+    (4) Ordering rule
+       If any loan is discharged, in whole or in part, and only a portion of such loan is qualified principal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
+    (5) Principal residence
+       For purposes of this subsection, the term ””principal residence““ has the same meaning as when used in section 121.

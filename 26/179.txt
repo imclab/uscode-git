@@ -2,9 +2,9 @@
      A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
   (b) Limitations
     (1) Dollar limitation
-       The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $25,000 ($100,000 in the case of taxable years beginning after 2002 and before 2008).
+       The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $25,000 ($125,000 in the case of taxable years beginning after 2006 and before 2011).
     (2) Reduction in limitation
-       The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $200,000 ($400,000 in the case of taxable years beginning after 2002 and before 2008).
+       The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $200,000 ($500,000 in the case of taxable years beginning after 2006 and before 2011).
     (3) Limitation based on income from trade or business
       (A) In general
          The amount allowed as a deduction under subsection (a) for any taxable year (determined after the application of paragraphs (1) and (2)) shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived from the active conduct by the taxpayer of any trade or business during such taxable year.
@@ -22,9 +22,9 @@
       (B) unless such individuals elect otherwise, 50 percent of the cost which may be taken into account under subsection (a) for such taxable year (before application of paragraph (3)) shall be allocated to each such individual.
     (5) Inflation adjustments
       (A) In general
-         In the case of any taxable year beginning in a calendar year after 2003 and before 2008, the $100,000 and $400,000 amounts in paragraphs (1) and (2) shall each be increased by an amount equal to–
+         In the case of any taxable year beginning in a calendar year after 2007 and before 2011, the $125,000 and $500,000 amounts in paragraphs (1) and (2) shall each be increased by an amount equal to–
         (i) such dollar amount, multiplied by
-        (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ””calendar year 2002““ for ””calendar year 1992““ in subparagraph (B) thereof.
+        (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ””calendar year 2006““ for ””calendar year 1992““ in subparagraph (B) thereof.
       (B) Rounding
         (i) Dollar limitation
            If the amount in paragraph (1) as increased under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
@@ -52,13 +52,13 @@
       (B) be made on the taxpayer“s return of the tax imposed by this chapter for the taxable year.
        Such election shall be made in such manner as the Secretary may by regulations prescribe.
     (2) Election irrevocable
-       Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2008 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
+       Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2011 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
   (d) Definitions and special rules
     (1) Section 179 property
        For purposes of this section, the term ””section 179 property““ means property–
       (A) which is–
         (i) tangible property (to which section 168 applies), or
-        (ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2008,
+        (ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2011,
       (B) which is section 1245 property (as defined in section 1245(a)(3)), and
       (C) which is acquired by purchase for use in the active conduct of a trade or business.
        Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units.

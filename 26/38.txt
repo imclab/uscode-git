@@ -33,8 +33,9 @@
     (26) the portion of the alternative fuel vehicle refueling property credit to which section 30C(d)(1) applies,
     (27) the Hurricane Katrina housing credit determined under section 1400P(b),
     (28) the Hurricane Katrina employee retention credit determined under section 1400R(a),
-    (29) the Hurricane Rita employee retention credit determined under section 1400R(b), and
-    (30) the Hurricane Wilma employee retention credit determined under section 1400R(c).
+    (29) the Hurricane Rita employee retention credit determined under section 1400R(b),
+    (30) the Hurricane Wilma employee retention credit determined under section 1400R(c), plus
+    (31) the mine rescue team training credit determined under section 45N(a).
   (c) Limitation based on amount of tax
     (1) In general
        The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer“s net income tax over the greater of–
@@ -68,10 +69,12 @@
           (II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the specified credits).
       (B) Specified credits
          For purposes of this subsection, the term ””specified credits““ means–
-        (i) for taxable years beginning after December 31, 2004, the credit determined under section 40, and
+        (i) for taxable years beginning after December 31, 2004, the credit determined under section 40,
         (ii) the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced–
           (I) at a facility which is originally placed in service after the date of the enactment of this paragraph, and
-          (II) during the 4-year period beginning on the date that such facility was originally placed in service \1\N
+          (II) during the 4-year period beginning on the date that such facility was originally placed in service,
+        (iii) the credit determined under section 45B, and
+        (iv) the credit determined under section 51.
     (5) Special rules
       (A) Married individuals
          In the case of a husband or wife who files a separate return, the amount specified under subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This subparagraph shall not apply if the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer“s taxable year.

@@ -17,11 +17,11 @@
           (II) the applicable dollar amount, bears to
         (ii) $15,000 ($10,000 in the case of a joint return or a married individual filing a separate return).
          The rules of subparagraphs (B) and (C) of section 219(g)(2) shall apply to any reduction under this subparagraph.
-      (B) Rollover from IRA
-         A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates–
+      (B) Rollover from eligible retirement plan
+         A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an an \1\N eligible retirement plan (as defined by section 402(c)(8)(B)) other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates–
         (i) the taxpayer“s adjusted gross income exceeds $100,000, or
         (ii) the taxpayer is a married individual filing a separate return.
-      (C) Definitions
+      (C) \2\N Definitions
          For purposes of this paragraph–
         (i) adjusted gross income shall be determined in the same manner as under section 219(g)(3), except that–
           (I) any amount included in gross income under subsection (d)(3) shall not be taken into account; and
@@ -32,19 +32,24 @@
           (III) in the case of a married individual filing a separate return, zero.
       (D) Marital status
          Section 219(g)(4) shall apply for purposes of this paragraph.
-    (4) Contributions permitted after age 70\1/2\
-       Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70\1/2\.
-    (5) Mandatory distribution rules not to apply before death
-       Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
-      (A) Section 401(a)(9)(A).
-      (B) The incidental death benefit requirements of section 401(a).
-    (6) Rollover contributions
-      (A) In general
-         No rollover contribution may be made to a Roth IRA unless it is a qualified rollover contribution.
-      (B) Coordination with limit
-         A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
-    (7) Time when contributions made
-       For purposes of this section, the rule of section 219(f)(3) shall apply.
+  (C) \2\ Inflation adjustment
+     In the case of any taxable year beginning in a calendar year after 2006, the dollar amounts in subclauses (I) and (II) of subparagraph (C)(ii) shall each be increased by an amount equal to–
+    (i) such dollar amount, multiplied by
+    (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2005““ for ””calendar year 1992““ in subparagraph (B) thereof.
+     Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
+  (4) Contributions permitted after age 70\1/2\
+     Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70\1/2\.
+  (5) Mandatory distribution rules not to apply before death
+     Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
+    (A) Section 401(a)(9)(A).
+    (B) The incidental death benefit requirements of section 401(a).
+  (6) Rollover contributions
+    (A) In general
+       No rollover contribution may be made to a Roth IRA unless it is a qualified rollover contribution.
+    (B) Coordination with limit
+       A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+  (7) Time when contributions made
+     For purposes of this section, the rule of section 219(f)(3) shall apply.
   (d) Distribution rules
      For purposes of this title–
     (1) Exclusion
@@ -61,19 +66,19 @@
          A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual“s spouse made a contribution to a Roth IRA) established for such individual.
       (C) Distributions of excess contributions and earnings
          The term ””qualified distribution““ shall not include any distribution of any contribution described in section 408(d)(4) and any net income allocable to the contribution.
-    (3) Rollovers from an IRA other than a Roth IRA
+    (3) Rollovers from an eligible retirement plan other than a Roth IRA
       (A) In general
-         Notwithstanding section 408(d)(3), in the case of any distribution to which this paragraph applies–
+         Notwithstanding sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16), in the case of any distribution to which this paragraph applies–
         (i) there shall be included in gross income any amount which would be includible were it not part of a qualified rollover contribution,
         (ii) section 72(t) shall not apply, and
         (iii) unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.
          Any election under clause (iii) for any distributions during a taxable year may not be changed after the due date for such taxable year.
       (B) Distributions to which paragraph applies
-         This paragraph shall apply to a distribution from an individual retirement plan (other than a Roth IRA) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution.
+         This paragraph shall apply to a distribution from an eligible retirement plan (as defined by section 402(c)(8)(B)) (other than a Roth IRA) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution.
       (C) Conversions
          The conversion of an individual retirement plan (other than a Roth IRA) to a Roth IRA shall be treated for purposes of this paragraph as a distribution to which this paragraph applies.
       (D) Additional reporting requirements
-         Trustees of Roth IRAs, trustees of individual retirement plans, or both, whichever is appropriate, shall include such additional information in reports required under section 408(i) as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
+         Trustees of Roth IRAs, trustees of individual retirement plans, persons subject to section 6047(d)(1), or all of the foregoing persons, whichever is appropriate, shall include such additional information in reports required under section 408(i) or 6047 as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
       (E) Special rules for contributions to which 4-year averaging applies
          In the case of a qualified rollover contribution to a Roth IRA of a distribution to which subparagraph (A)(iii) applied, the following rules shall apply:
         (i) Acceleration of inclusion
@@ -117,7 +122,12 @@
     (7) Due date
        For purposes of this subsection, the due date for any taxable year is the date prescribed by law (including extensions of time) for filing the taxpayer“s return for such taxable year.
   (e) Qualified rollover contribution
-     For purposes of this section, the term ””qualified rollover contribution““ means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). Such term includes a rollover contribution described in section 402A(c)(3)(A). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
+     For purposes of this section, the term ””qualified rollover contribution““ means a rollover contribution–
+    (1) to a Roth IRA from another such account,
+    (2) from an eligible retirement plan, but only if–
+      (A) in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
+      (B) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
+         For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
   (f) Individual retirement plan
      For purposes of this section–
     (1) a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and

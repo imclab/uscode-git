@@ -58,35 +58,23 @@
            A prior taxable year shall not be taken into account under clause (i) unless–
           (I) such taxable year began after December 31, 1981, and
           (II) the corporation was an S corporation for such taxable year.
-      (B) Gross receipts from sales of capital assets (other than stock and securities)
-         For purposes of this paragraph, in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom.
-      (C) Passive investment income defined
+      (B) Gross receipts from the sales of certain assets
          For purposes of this paragraph–
+        (i) in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom, and
+        (ii) in the case of sales or exchanges of stock or securities, gross receipts shall be taken into account only to the extent of the gains therefrom.
+      (C) Passive investment income defined
         (i) In general
-           Except as otherwise provided in this subparagraph, the term ””passive investment income““ means gross receipts derived from royalties, rents, dividends, interest, annuities, and sales or exchanges of stock or securities (gross receipts from such sales or exchanges being taken into account for purposes of this paragraph only to the extent of gains therefrom).
+           Except as otherwise provided in this subparagraph, the term ””passive investment income““ means gross receipts derived from royalties, rents, dividends, interest, and annuities.
         (ii) Exception for interest on notes from sales of inventory
            The term ””passive investment income““ shall not include interest on any obligation acquired in the ordinary course of the corporation“s trade or business from its sale of property described in section 1221(a)(1).
         (iii) Treatment of certain lending or finance companies
            If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term ””passive investment income““ shall not include gross receipts for the taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).
-        (iv) Treatment of certain liquidations
-           Gross receipts derived from sales or exchanges of stock or securities shall not include amounts received by an S corporation which are treated under section 331 (relating to corporate liquidations) as payments in exchange for stock where the S corporation owned more than 50 percent of each class of stock of the liquidating corporation.
-      (D) Special rule for options and commodity dealings
-        (i) In general
-           In the case of any options dealer or commodities dealer, passive investment income shall be determined by not taking into account any gain or loss (in the normal course of the taxpayer“s activity of dealing in or trading section 1256 contracts) from any section 1256 contract or property related to such a contract.
-        (ii) Definitions
-           For purposes of this subparagraph–
-          (I) Options dealer
-             The term ””options dealer““ has the meaning given such term by section 1256(g)(8).
-          (II) Commodities dealer
-             The term ””commodities dealer““ means a person who is actively engaged in trading section 1256 contracts and is registered with a domestic board of trade which is designated as a contract market by the Commodities Futures Trading Commission.
-          (III) Section 1256 contract
-             The term ””section 1256 contract““ has the meaning given to such term by section 1256(b).
-      (E) Treatment of certain dividends
-         If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term ””passive investment income““ shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
-      (F) Exception for banks; etc.
-         In the case of a bank (as defined in section 581),\1\N a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),\2\N the term ””passive investment income““ shall not include–
-        (i) interest income earned by such bank or company, or
-        (ii) dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
+        (iv) Treatment of certain dividends
+           If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term ””passive investment income““ shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
+        (v) Exception for banks, etc.
+           In the case of a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),\1\N the term ””passive investment income““ shall not include–
+          (I) interest income earned by such bank or company, or
+          (II) dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
   (e) Treatment of S termination year
     (1) In general
        In the case of an S termination year, for purposes of this title–
@@ -124,14 +112,14 @@
          Paragraph (2) shall not apply to an S termination year if there is a sale or exchange of 50 percent or more of the stock in such corporation during such year.
   (f) Inadvertent invalid elections or terminations
      If–
-    (1) an election under subsection (a), section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii) by any corporation–
+    (1) an election under subsection (a) or section 1361(b)(3)(B)(ii) by any corporation–
       (A) was not effective for the taxable year for which made (determined without regard to subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
-      (B) was terminated under paragraph (2) or (3) of subsection (d), section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii),
+      (B) was terminated under paragraph (2) or (3) of subsection (d) or section 1361(b)(3)(C),
     (2) the Secretary determines that the circumstances resulting in such ineffectiveness or termination were inadvertent,
     (3) no later than a reasonable period of time after discovery of the circumstances resulting in such ineffectiveness or termination, steps were taken–
       (A) so that the corporation for which the election was made or the termination occurred is a small business corporation or a qualified subchapter S subsidiary, as the case may be, or
       (B) to acquire the required shareholder consents, and
     (4) the corporation for which the election was made or the termination occurred, and each person who was a shareholder in such corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such corporation as an S corporation or a qualified subchapter S subsidiary, as the case may be) as may be required by the Secretary with respect to such period,
-       then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be \3\N during the period specified by the Secretary.
+       then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be \2\N during the period specified by the Secretary.
   (g) Election after termination
      If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.

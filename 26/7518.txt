@@ -1,6 +1,6 @@
   (a) Ceiling on deposits
     (1) In general
-       The amount deposited in a fund established under section 607 of the Merchant Marine Act, 1936 (hereinafter in this section referred to as a ””capital construction fund““) shall not exceed for any taxable year the sum of:
+       The amount deposited in a fund established under chapter 535 of title 46 of the United States Code (hereinafter in this section referred to as a ””capital construction fund““) shall not exceed for any taxable year the sum of:
       (A) that portion of the taxable income of the owner or lessee for such year (computed as provided in chapter 1 but without regard to the carryback of any net operating loss or net capital loss and without regard to this section) which is attributable to the operation of the agreement vessels in the foreign or domestic commerce of the United States or in the fisheries of the United States,
       (B) the amount allowable as a deduction under section 167 for such year with respect to the agreement vessels,
       (C) if the transaction is not taken into account for purposes of subparagraph (A), the net proceeds (as defined in joint regulations) from–
@@ -8,7 +8,7 @@
         (ii) insurance or indemnity attributable to any agreement vessel, and
       (D) the receipts from the investment or reinvestment of amounts held in such fund.
     (2) Limitations on deposits by lessees
-       In the case of a lessee, the maximum amount which may be deposited with respect to an agreement vessel by reason of paragraph (1)(B) for any period shall be reduced by any amount which, under an agreement entered into under section 607 of the Merchant Marine Act, 1936, the owner is required or permitted to deposit for such period with respect to such vessel by reason of paragraph (1)(B).
+       In the case of a lessee, the maximum amount which may be deposited with respect to an agreement vessel by reason of paragraph (1)(B) for any period shall be reduced by any amount which, under an agreement entered into under chapter 535 of title 46, United States Code, the owner is required or permitted to deposit for such period with respect to such vessel by reason of paragraph (1)(B).
     (3) Certain barges and containers included
        For purposes of paragraph (1), the term ””agreement vessel““ includes barges and containers which are part of the complement of such vessel and which are provided for in the agreement.
   (b) Requirements as to investments
@@ -21,10 +21,10 @@
   (c) Nontaxability for deposits
     (1) In general
        For purposes of this title–
-      (A) taxable income (determined without regard to this section and section 607 of the Merchant Marine Act, 1936) for the taxable year shall be reduced by an amount equal to the amount deposited for the taxable year out of amounts referred to in subsection (a)(1)(A),
+      (A) taxable income (determined without regard to this section and chapter 535 of title 46, United States Code) for the taxable year shall be reduced by an amount equal to the amount deposited for the taxable year out of amounts referred to in subsection (a)(1)(A),
       (B) gain from a transaction referred to in subsection (a)(1)(C) shall not be taken into account if an amount equal to the net proceeds (as defined in joint regulations) from such transaction is deposited in the fund,
       (C) the earnings (including gains and losses) from the investment and reinvestment of amounts held in the fund shall not be taken into account,
-      (D) the earnings and profits (within the meaning of section 316) of any corporation shall be determined without regard to this section and section 607 of the Merchant Marine Act, 1936, and
+      (D) the earnings and profits (within the meaning of section 316) of any corporation shall be determined without regard to this section and chapter 535 of title 46, United States Code, and
       (E) in applying the tax imposed by section 531 (relating to the accumulated earnings tax), amounts while held in the fund shall not be taken into account.
     (2) Only qualified deposits eligible for treatment
        Paragraph (1) shall apply with respect to any amount only if such amount is deposited in the fund pursuant to the agreement and not later than the time provided in joint regulations.
@@ -94,7 +94,7 @@
       (C) for the period on or before the last date prescribed for payment of tax for the taxable year in which this withdrawal is made–
         (i) no interest shall be payable under section 6601 and no addition to the tax shall be payable under section 6651,
         (ii) interest on the amount of the additional tax attributable to any item referred to in subparagraph (A) or (B) shall be paid at the applicable rate (as defined in paragraph (4)) from the last date prescribed for payment of the tax for the taxable year for which such item was deposited in the fund, and
-        (iii) no interest shall be payable on amounts referred to in clauses (i) and (ii) of paragraph (2) or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 606(5) of the Merchant Marine Act of 1936 as in effect on December 31, 1969.
+        (iii) no interest shall be payable on amounts referred to in clauses (i) and (ii) of paragraph (2) or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969.
     (4) Interest rate
        For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal–
       (A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or

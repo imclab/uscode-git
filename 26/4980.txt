@@ -21,9 +21,7 @@
           (III) in the case of any plan, by reason of the failure of the plan to initially qualify or the failure of contributions to be deductible.
     (3) Exception for employee stock ownership plans
       (A) In general
-         If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if–
-        (i) the requirements of subparagraphs (B), (C), and (D) are met, and
-        (ii) under the plan, employer securities to which subparagraph (B) applies must, except to the extent necessary to meet the requirements of section 401(a)(28), remain in the plan until distribution to participants in accordance with the provisions of such plan.
+         If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.
       (B) Investment in employer securities
          The requirements of this subparagraph are met if, within 90 days after the transfer (or such longer period as the Secretary may prescribe), the amount transferred is invested in employer securities (as defined in section 409(T3lK)) or used to repay loans used to purchase such securities.
       (C) Allocation requirements

@@ -93,7 +93,7 @@
   (g) Extension for facilities producing coke or coke gas
      Notwithstanding subsection (e)–
     (1) In general
-       In the case of a facility for producing coke or coke gas which was placed in service before January 1, 1993, or after June 30, 1998, and before January 1, 2010, this section shall apply with respect to coke and coke gas produced in such facility and sold during the period–
+       In the case of a facility for producing coke or coke gas (other than from petroleum based products) which was placed in service before January 1, 1993, or after June 30, 1998, and before January 1, 2010, this section shall apply with respect to coke and coke gas produced in such facility and sold during the period–
       (A) beginning on the later of January 1, 2006, or the date that such facility is placed in service, and
       (B) ending on the date which is 4 years after the date such period began.
     (2) Special rules
@@ -104,3 +104,5 @@
          For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in the case of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting ””2004““ for ””1979““.
       (C) Denial of double benefit
          This subsection shall not apply to any facility producing qualified fuels for which a credit was allowed under this section for the taxable year or any preceding taxable year by reason of subsection (f).
+      (D) Nonapplication of phaseout
+         Subsection (b)(1) shall not apply.

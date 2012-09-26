@@ -46,15 +46,18 @@
       (E) Income equivalent to interest
          Any income equivalent to interest, including income from commitment fees (or similar amounts) for loans actually made.
       (F) Income from notional principal contracts
-         Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
+        (i) In general
+           Net income from notional principal contracts.
+        (ii) Coordination with other categories of foreign personal holding company income
+           Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
       (G) Payments in lieu of dividends
          Payments in lieu of dividends which are made pursuant to an agreement to which section 1058 applies.
-        (I) \3\N Personal service contracts
-          (i) Amounts received under a contract under which the corporation is to furnish personal services if–
-            (I) some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or
-            (II) the individual who is to perform the services is designated (by name or by description) in the contract, and
-          (ii) amounts received from the sale or other disposition of such a contract.
-           This subparagraph shall apply with respect to amounts received for services under a particular contract only if at some time during the taxable year 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for the individual who has performed, is to perform, or may be designated (by name or by description) as the one to perform, such services.
+      (H) Personal service contracts
+        (i) Amounts received under a contract under which the corporation is to furnish personal services if–
+          (I) some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or
+          (II) the individual who is to perform the services is designated (by name or by description) in the contract, and
+        (ii) amounts received from the sale or other disposition of such a contract.
+         This subparagraph shall apply with respect to amounts received for services under a particular contract only if at some time during the taxable year 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for the individual who has performed, is to perform, or may be designated (by name or by description) as the one to perform, such services.
     (2) Exception for certain amounts
       (A) Rents and royalties derived in active business
          Foreign personal holding company income shall not include rents and royalties which are derived in the active conduct of a trade or business and which are received from a person other than a related person (within the meaning of subsection (d)(3)). For purposes of the preceding sentence, rents derived from leasing an aircraft or vessel in foreign commerce shall not fail to be treated as derived in the active conduct of a trade or business if, as determined under regulations prescribed by the Secretary, the active leasing expenses are not less than 10 percent of the profit on the lease.
@@ -63,7 +66,7 @@
       (C) Exception for dealers
          Except as provided by regulations, in the case of a regular dealer in property which is property described in paragraph (1)(B), forward contracts, option contracts, or similar financial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding company income–
         (i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions and transactions involving physical settlement) entered into in the ordinary course of such dealer“s trade or business as such a dealer, and
-        (ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amount described in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(J)) entered into in the ordinary course of such dealer“s trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
+        (ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amount described in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(I)) entered into in the ordinary course of such dealer“s trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
     (3) Certain income received from related persons
       (A) In general
          Except as provided in subparagraph (B), the term ””foreign personal holding company income““ does not include–
@@ -91,6 +94,13 @@
          Commodities with respect to which gains and losses are not taken into account under paragraph (2)(C) in computing a controlled foreign corporation“s foreign personal holding company income shall not be taken into account in applying the substantially all test under paragraph (1)(C)(ii) to such corporation.
       (C) Regulations
          The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (1)(C) in the case of transactions involving related parties.
+    (6) Look-thru rule for related controlled foreign corporations
+      (A) In general
+         For purposes of this subsection, dividends, interest, rents, and royalties received or accrued from a controlled foreign corporation which is a related person shall not be treated as foreign personal holding company income to the extent attributable or properly allocable (determined under rules similar to the rules of subparagraphs (C) and (D) of section 904(d)(3)) to income of the related person which is neither subpart F income nor income treated as effectively connected with the conduct of a trade or business in the United States. For purposes of this subparagraph, interest shall include factoring income which is treated as income equivalent to interest for purposes of paragraph (1)(E). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including such regulations as may be necessary or appropriate to prevent the abuse of the purposes of this paragraph.
+      (B) Exception
+         Subparagraph (A) shall not apply in the case of any interest, rent, or royalty to the extent such interest, rent, or royalty creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation.
+      (C) Application
+         Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2009, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
   (d) Foreign base company sales income
     (1) In general
        For purposes of subsection (a)(2), the term ””foreign base company sales income““ means income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with the purchase of personal property from a related person and its sale to any person, the sale of personal property to any person on behalf of a related person, the purchase of personal property from any person and its sale to a related person, or the purchase of personal property from any person on behalf of a related person where–
@@ -214,7 +224,7 @@
     (8) Regulations
        The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, subsection (c)(1)(B)(i), subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2).
     (9) Application
-       This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2007, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
+       This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2009, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
       (i) Special rule for income derived in the active conduct of insurance business
         (1) In general
            For purposes of subsection (c)(1), foreign personal holding company income shall not include qualified insurance income of a qualifying insurance company.

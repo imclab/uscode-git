@@ -30,19 +30,26 @@
              2001 D78,000  
              2002 and thereafter D80,000.
         (ii) Inflation adjustment
-           In the case of any taxable year beginning in a calendar year after 2007, the $80,000 amount in clause (i) shall be increased by an amount equal to the product of–
+           In the case of any taxable year beginning in a calendar year after 2005, the $80,000 amount in clause (i) shall be increased by an amount equal to the product of–
           (I) such dollar amount, and
-          (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””2006““ for ””1992““ in subparagraph (B) thereof.
+          (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””2004““ for ””1992““ in subparagraph (B) thereof.
               If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
   (c) Housing cost amount
      For purposes of this section–
     (1) In general
        The term ””housing cost amount““ means an amount equal to the excess of–
-      (A) the housing expenses of an individual for the taxable year, over
+      (A) the housing expenses of an individual for the taxable year to the extent such expenses do not exceed the amount determined under paragraph (2), over
       (B) an amount equal to the product of–
-        (i) 16 percent of the salary (computed on a daily basis) of an employee of the United States who is compensated at a rate equal to the annual rate paid for step 1 of grade GS–14, multiplied by
+        (i) 16 percent of the amount (computed on a daily basis) in effect under subsection (b)(2)(D) for the calendar year in which such taxable year begins, multiplied by
         (ii) the number of days of such taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1).
-    (2) Housing expenses
+    (2) Limitation
+      (A) In general
+         The amount determined under this paragraph is an amount equal to the product of–
+        (i) 30 percent (adjusted as may be provided under subparagraph (B)) of the amount (computed on a daily basis) in effect under subsection (b)(2)(D) for the calendar year in which the taxable year of the individual begins, multiplied by
+        (ii) the number of days of such taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1).
+      (B) Regulations
+         The Secretary may issue regulations or other guidance providing for the adjustment of the percentage under subparagraph (A)(i) on the basis of geographic differences in housing costs relative to housing costs in the United States.
+    (3) Housing expenses
       (A) In general
          The term ””housing expenses““ means the reasonable expenses paid or incurred during the taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term–
         (i) includes expenses attributable to the housing (such as utilities and insurance), but
@@ -55,7 +62,7 @@
            If an individual maintains a separate abode outside the United States for his spouse and dependents and they do not reside with him because of living conditions which are dangerous, unhealthful, or otherwise adverse, then–
           (I) the words ””if they reside with him““ in subparagraph (A) shall be disregarded, and
           (II) the housing expenses incurred with respect to such abode shall be taken into account under paragraph (1).
-    (3) Special rules where housing expenses not provided by employer
+    (4) Special rules where housing expenses not provided by employer
       (A) In general
          To the extent the housing cost amount of any individual for any taxable year is not attributable to employer provided amounts, such amount shall be treated as a deduction allowable in computing adjusted gross income to the extent of the limitation of subparagraph (B).
       (B) Limitation
@@ -93,7 +100,7 @@
         (i) during any period during which the Secretary determines, after consultation with the Secretary of State or his delegate, that individuals were required to leave such foreign country because of war, civil unrest, or similar adverse conditions in such foreign country which precluded the normal conduct of business by such individuals, and
         (ii) before meeting the requirements of such paragraph (1), and
       (C) establishes to the satisfaction of the Secretary that such individual could reasonably have been expected to have met such requirements but for the conditions referred to in clause (i) of subparagraph (B),
-       shall be treated as a qualified individual with respect to the period described in subparagraph (A) during which he was a bona fide resident of, or was present in, the foreign country, and in applying subsections (b)(2)(A) and (c)(1)(B)(ii) with respect to such individual, only the days within such period shall be taken into account.
+       shall be treated as a qualified individual with respect to the period described in subparagraph (A) during which he was a bona fide resident of, or was present in, the foreign country, and in applying subsections (b)(2)(A), (c)(1)(B)(ii), and (c)(2)(A)(ii) with respect to such individual, only the days within such period shall be taken into account.
     (5) Test of bona fide residence
        If–
       (A) an individual who has earned income from sources within a foreign country submits a statement to the authorities of that country that he is not a resident of that country, and
@@ -102,7 +109,7 @@
     (6) Denial of double benefits
        No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
     (7) Aggregate benefit cannot exceed foreign earned income
-       The sum of the amount excluded under subsection (a) and the amount deducted under subsection (c)(3)(A) for the taxable year shall not exceed the individual“s foreign earned income for such year.
+       The sum of the amount excluded under subsection (a) and the amount deducted under subsection (c)(4)(A) for the taxable year shall not exceed the individual“s foreign earned income for such year.
     (8) Limitation on income earned in restricted country
       (A) In general
          If travel (or any transaction in connection with such travel) with respect to any foreign country is subject to the regulations described in subparagraph (B) during any period–
@@ -124,5 +131,26 @@
        An election under subsection (a) shall apply to the taxable year for which made and to all subsequent taxable years unless revoked under paragraph (2).
     (2) Revocation
        A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for any subsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
-  (f) Cross references
+  (f) Determination of tax liability
+    (1) In general
+       If, for any taxable year, any amount is excluded from gross income of a taxpayer under subsection (a), then, notwithstanding sections 1 and 55–
+      (A) if such taxpayer has taxable income for such taxable year, the tax imposed by section 1 for such taxable year shall be equal to the excess (if any) of–
+        (i) the tax which would be imposed by section 1 for such taxable year if the taxpayer“s taxable income were increased by the amount excluded under subsection (a) for such taxable year, over
+        (ii) the tax which would be imposed by section 1 for such taxable year if the taxpayer“s taxable income were equal to the amount excluded under subsection (a) for such taxable year, and
+      (B) if such taxpayer has a taxable excess (as defined in section 55(b)(1)(A)(ii)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A)(i) for such taxable year shall be equal to the excess (if any) of–
+        (i) the amount which would be determined under such sentence for such taxable year (subject to the limitation of section 55(b)(3)) if the taxpayer“s taxable excess (as so defined) were increased by the amount excluded under subsection (a) for such taxable year, over
+        (ii) the amount which would be determined under such sentence for such taxable year if the taxpayer“s taxable excess (as so defined) were equal to the amount excluded under subsection (a) for such taxable year.
+    (2) Special rules
+      (A) Regular tax
+         In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer“s net capital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)–
+        (i) the taxpayer“s net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
+        (ii) the taxpayer“s qualified dividend income shall be reduced by so much of such capital gain excess as exceeds the taxpayer“s net capital gain (determined without regard to section 1(h)(11) and the reduction under clause (i)), and
+        (iii) adjusted net capital gain, unrecaptured section 1250 gain, and 28-percent rate gain shall each be determined after increasing the amount described in section 1(h)(4)(B) by such capital gain excess.
+      (B) Alternative minimum tax
+         In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer“s net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(A)(ii))–
+        (i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting ””the taxable excess (as defined in section 55(b)(1)(A)(ii))““ for ””taxable income““, and
+        (ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
+      (C) Definitions
+         Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h), except that in applying subparagraph (B) the adjustments under part VI of subchapter A shall be taken into account.
+  (g) Cross references
      T2For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.

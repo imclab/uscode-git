@@ -1,8 +1,8 @@
   (a) Initial taxes
     (1) On the foundation
-       There is hereby imposed on each taxable expenditure (as defined in subsection (d)) a tax equal to 10 percent of the amount thereof. The tax imposed by this paragraph shall be paid by the private foundation.
+       There is hereby imposed on each taxable expenditure (as defined in subsection (d)) a tax equal to 20 percent of the amount thereof. The tax imposed by this paragraph shall be paid by the private foundation.
     (2) On the management
-       There is hereby imposed on the agreement of any foundation manager to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 2\1/2\ percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who agreed to the making of the expenditure.
+       There is hereby imposed on the agreement of any foundation manager to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 5 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who agreed to the making of the expenditure.
   (b) Additional taxes
     (1) On the foundation
        In any case in which an initial tax is imposed by subsection (a)(1) on a taxable expenditure and such expenditure is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of the amount of the expenditure. The tax imposed by this paragraph shall be paid by the private foundation.
@@ -13,14 +13,17 @@
     (1) Joint and several liability
        If more than one person is liable under subsection (a)(2) or (b)(2) with respect to the making of a taxable expenditure, all such persons shall be jointly and severally liable under such paragraph with respect to such expenditure.
     (2) Limit for management
-       With respect to any one taxable expenditure, the maximum amount of the tax imposed by subsection (a)(2) shall not exceed $5,000, and the maximum amount of the tax imposed by subsection (b)(2) shall not exceed $10,000.
+       With respect to any one taxable expenditure, the maximum amount of the tax imposed by subsection (a)(2) shall not exceed $10,000, and the maximum amount of the tax imposed by subsection (b)(2) shall not exceed $20,000.
   (d) Taxable expenditure
      For purposes of this section, the term ””taxable expenditure““ means any amount paid or incurred by a private foundation–
     (1) to carry on propaganda, or otherwise to attempt, to influence legislation, within the meaning of subsection (e),
     (2) except as provided in subsection (f), to influence the outcome of any specific public election, or to carry on, directly or indirectly, any voter registration drive,
     (3) as a grant to an individual for travel, study, or other similar purposes by such individual, unless such grant satisfies the requirements of subsection (g),
     (4) as a grant to an organization unless–
-      (A) such organization is described in paragraph (1), (2), or (3) of section 509(a) or is an exempt operating foundation (as defined in section 4940(d)(2)), or
+      (A) such organization–
+        (i) is described in paragraph (1) or (2) of section 509(a),
+        (ii) is an organization described in section 509(a)(3) (other than an organization described in clause (i) or (ii) of section 4942(g)(4)(A)), or
+        (iii) is an exempt operating foundation (as defined in section 4940(d)(2)), or
       (B) the private foundation exercises expenditure responsibility with respect to such grant in accordance with subsection (h), or
     (5) for any purpose other than one specified in section 170(c)(2)(B).
   (e) Activities within subsection (d)(1)

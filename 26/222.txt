@@ -8,8 +8,8 @@
          In the case of a taxable year beginning in 2002 or 2003, the applicable dollar limit shall be equal to–
         (i) in the case of a taxpayer whose adjusted gross income for the taxable year does not exceed $65,000 ($130,000 in the case of a joint return), $3,000, and–
         (ii) in the case of any other taxpayer, zero.
-      (B) 2004 and 2005
-         In the case of a taxable year beginning in 2004 or 2005, the applicable dollar amount shall be equal to–
+      (B) After 2003
+         In the case of any taxable year beginning after 2003, the applicable dollar amount shall be equal to–
         (i) in the case of a taxpayer whose adjusted gross income for the taxable year does not exceed $65,000 ($130,000 in the case of a joint return), $4,000,
         (ii) in the case of a taxpayer not described in clause (i) whose adjusted gross income for the taxable year does not exceed $80,000 ($160,000 in the case of a joint return), $2,000, and
         (iii) in the case of any other taxpayer, zero.
@@ -45,4 +45,4 @@
     (6) Regulations
        The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
   (e) Termination
-     This section shall not apply to taxable years beginning after December 31, 2005.
+     This section shall not apply to taxable years beginning after December 31, 2007.

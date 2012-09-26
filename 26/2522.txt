@@ -23,9 +23,36 @@
          A deduction shall be allowed under subsection (a) in respect of any qualified reformation (within the meaning of section 2055(e)(3)(B)).
       (B) Rules similar to section 2055(e)(3) to apply
          For purposes of this paragraph, rules similar to the rules of section 2055(e)(3) shall apply.
+    (5) Contributions to donor advised funds
+       A deduction otherwise allowed under subsection (a) for any contribution to a donor advised fund (as defined in section 4966(d)(2)) shall only be allowed if–
+      (A) the sponsoring organization (as defined in section 4966(d)(1)) with respect to such donor advised fund is not–
+        (i) described in paragraph (3) or (4) of subsection (a), or
+        (ii) a type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
+      (B) the taxpayer obtains a contemporaneous written acknowledgment (determined under rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
   (d) Special rule for irrevocable transfers of easements in real property
      A deduction shall be allowed under subsection (a) in respect of any transfer of a qualified real property interest (as defined in section 170(h)(2)(C)) which meets the requirements of section 170(h) (without regard to paragraph (4)(A) thereof).
-  (e) Cross references
+  (e) Special rules for fractional gifts
+    (1) Denial of deduction in certain cases
+      (A) In general
+         No deduction shall be allowed for a contribution of an undivided portion of a taxpayer“s entire interest in tangible personal property unless all interests in the property are held immediately before such contribution by–
+        (i) the taxpayer, or
+        (ii) the taxpayer and the donee.
+      (B) Exceptions
+         The Secretary may, by regulation, provide for exceptions to subparagraph (A) in cases where all persons who hold an interest in the property make proportional contributions of an undivided portion of the entire interest held by such persons.
+    (2) Recapture of deduction in certain cases; addition to tax
+      (A) In general
+         The Secretary shall provide for the recapture of an amount equal to any deduction allowed under this section (plus interest) with respect to any contribution of an undivided portion of a taxpayer“s entire interest in tangible personal property–
+        (i) in any case in which the donor does not contribute all of the remaining interests in such property to the donee (or, if such donee is no longer in existence, to any person described in section 170(c)) on or before the earlier of–
+          (I) the date that is 10 years after the date of the initial fractional contribution, or
+          (II) the date of the death of the donor, and
+        (ii) in any case in which the donee has not, during the period beginning on the date of the initial fractional contribution and ending on the date described in clause (i)–
+          (I) had substantial physical possession of the property, and
+          (II) used the property in a use which is related to a purpose or function constituting the basis for the organizations“ exemption under section 501.
+      (B) Addition to tax
+         The tax imposed under this chapter for any taxable year for which there is a recapture under subparagraph (A) shall be increased by 10 percent of the amount so recaptured.
+      (C) Initial fractional contribution
+         For purposes of this paragraph, the term ””initial fractional contribution““ means, with respect to any donor, the first gift of an undivided portion of the donor“s entire interest in any tangible personal property for which a deduction is allowed under subsection (a) or (b).
+  (f) Cross references
      T2(1) For treatment of certain organizations providing child care, see section 501(k).
      T2(2) For exemption of certain gifts to or for the benefit of the United States and for rules of construction with respect to certain bequests, see section 2055(f).
      T2(3) For treatment of gifts to or for the use of Indian tribal governments (or their subdivisions), see section 7871.

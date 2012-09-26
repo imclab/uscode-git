@@ -1,5 +1,5 @@
   (a) General rule
-     If there is a qualified transfer of any excess pension assets of a defined benefit plan (other than a multiemployer plan) to a health benefits account which is part of such plan–
+     If there is a qualified transfer of any excess pension assets of a defined benefit plan to a health benefits account which is part of such plan–
     (1) a trust which is part of such plan shall not be treated as failing to meet the requirements of subsection (a) or (h) of section 401 solely by reason of such transfer (or any other action authorized under this section),
     (2) no amount shall be includible in the gross income of the employer maintaining the plan solely by reason of such transfer,
     (3) such transfer shall not be treated–
@@ -56,7 +56,7 @@
          In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant“s benefits as if subparagraph (A) had applied immediately before such separation.
     (3) Minimum cost requirements
       (A) In general
-         The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefits are provided provides that the applicable employer cost for each taxable year during the cost maintenance period shall not be less than the higher of the applicable employer costs for each of the 2 taxable years immediately preceding the taxable year of the qualified transfer.
+         The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefits are provided provides that the applicable employer cost for each taxable year during the cost maintenance period shall not be less than the higher of the applicable employer costs for each of the 2 taxable years immediately preceding the taxable year of the qualified transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).
       (B) Applicable employer cost
          For purposes of this paragraph, the term ””applicable employer cost““ means, with respect to any taxable year, the amount determined by dividing–
         (i) the qualified current retiree health liabilities of the employer for such taxable year determined–
@@ -107,14 +107,87 @@
          If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing qualified current retiree health liabilities for such taxable year or in calculating applicable employer cost under subsection (c)(3)(B).
     (2) Excess pension assets
        The term ””excess pension assets““ means the excess (if any) of–
-      (A) the amount determined under section 412(c)(7)(A)(ii), over
-      (B) the greater of–
-        (i) the amount determined under section 412(c)(7)(A)(i), or
-        (ii) 125 percent of current liability (as defined in section 412(c)(7)(B)).
-       The determination under this paragraph shall be made as of the most recent valuation date of the plan preceding the qualified transfer.
+      (A) the lesser of–
+        (i) the fair market value of the plan“s assets (reduced by the prefunding balance and funding standard carryover balance determined under section 430(f)), or
+        (ii) the value of plan assets as determined under section 430(g)(3) after reduction under section 430(f), over
+      (B) 125 percent of the sum of the funding target and the target normal cost determined under section 430 for such plan year.
     (3) Health benefits account
        The term ””health benefits account““ means an account established and maintained under section 401(h).
-    (4) Coordination with section 412
-       In the case of a qualified transfer to a health benefits account–
-      (A) any assets transferred in a plan year on or before the valuation date for such year (and any income allocable thereto) shall, for purposes of section 412, be treated as assets in the plan as of the valuation date for such year, and
-      (B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting ””10 plan years““ for ””5 plan years““.
+    (4) Coordination with section 430
+       In the case of a qualified transfer, any assets so transferred shall not, for purposes of this section and section 430, be treated as assets in the plan.
+    (5) Application to multiemployer plans
+       In the case of a multiemployer plan, this section shall be applied to any such plan–
+      (A) by treating any reference in this section to an employer as a reference to all employers maintaining the plan (or, if appropriate, the plan sponsor), and
+      (B) in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
+  (f) Qualified transfers to cover future retiree health costs and collectively bargained retiree health benefits
+    (1) In general
+       An employer maintaining a defined benefit plan (other than a multiemployer plan) may, in lieu of a qualified transfer, elect for any taxable year to have the plan make–
+      (A) a qualified future transfer, or
+      (B) a collectively bargained transfer.
+       Except as provided in this subsection, a qualified future transfer and a collectively bargained transfer shall be treated for purposes of this title and the Employee Retirement Income Security Act of 1974 as if it were a qualified transfer.
+    (2) Qualified future and collectively bargained transfers
+       For purposes of this subsection–
+      (A) In general
+         The terms ””qualified future transfer““ and ””collectively bargained transfer““ mean a transfer which meets all of the requirements for a qualified transfer, except that–
+        (i) the determination of excess pension assets shall be made under subparagraph (B),
+        (ii) the limitation on the amount transferred shall be determined under subparagraph (C),
+        (iii) the minimum cost requirements of subsection (c)(3) shall be modified as provided under subparagraph (D), and
+        (iv) in the case of a collectively bargained transfer, the requirements of subparagraph (E) shall be met with respect to the transfer.
+      (B) Excess pension assets
+        (i) In general
+           In determining excess pension assets for purposes of this subsection, subsection (e)(2) shall be applied by substituting ””120 percent““ for ””125 percent““.
+        (ii) Requirement to maintain funded status
+           If, as of any valuation date of any plan year in the transfer period, the amount determined under subsection (e)(2)(B) (after application of clause (i)) exceeds the amount determined under subsection (e)(2)(A), either–
+          (I) the employer maintaining the plan shall make contributions to the plan in an amount not less than the amount required to reduce such excess to zero as of such date, or
+          (II) there is transferred from the health benefits account to the plan an amount not less than the amount required to reduce such excess to zero as of such date.
+      (C) Limitation on amount transferred
+         Notwithstanding subsection (b)(3), the amount of the excess pension assets which may be transferred–
+        (i) in the case of a qualified future transfer shall be equal to the sum of–
+          (I) if the transfer period includes the taxable year of the transfer, the amount determined under subsection (b)(3) for such taxable year, plus
+          (II) in the case of all other taxable years in the transfer period, the sum of the qualified current retiree health liabilities which the plan reasonably estimates, in accordance with guidance issued by the Secretary, will be incurred for each of such years, and
+        (ii) in the case of a collectively bargained transfer, shall not exceed the amount which is reasonably estimated, in accordance with the provisions of the collective bargaining agreement and generally accepted accounting principles, to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the collectively bargained cost maintenance period for collectively bargained retiree health liabilities.
+      (D) Minimum cost requirements
+        (i) In general
+           The requirements of subsection (c)(3) shall be treated as met if–
+          (I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided provides applicable health benefits during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of such \1\N the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
+          (II) in the case of a collectively bargained transfer, each collectively bargained group health plan under which collectively bargained health benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be less than the amount specified by the collective bargaining agreement.
+        (ii) Election to maintain benefits for future transfers
+           An employer may elect, in lieu of the requirements of clause (i)(I), to meet the requirements of subsection (c)(3) by meeting the requirements of such subsection (as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999) for each of the years described in the period under clause (i)(I).
+        (iii) Collectively bargained employer cost
+           For purposes of this subparagraph, the term ””collectively bargained employer cost““ means the average cost per covered individual of providing collectively bargained retiree health benefits as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained retiree health benefits that is provided or financed by a government program or other source.
+      (E) Special rules for collectively bargained transfers
+        (i) In general
+           A collectively bargained transfer shall only include a transfer which–
+          (I) is made in accordance with a collective bargaining agreement,
+          (II) before the transfer, the employer designates, in a written notice delivered to each employee organization that is a party to the collective bargaining agreement, as a collectively bargained transfer in accordance with this section, and
+          (III) involves a plan maintained by an employer which, in its taxable year ending in 2005, provided health benefits or coverage to retirees and their spouses and dependents under all of the benefit plans maintained by the employer, but only if the aggregate cost (including administrative expenses) of such benefits or coverage which would have been allowable as a deduction to the employer (if such benefits or coverage had been provided directly by the employer and the employer used the cash receipts and disbursements method of accounting) is at least 5 percent of the gross receipts of the employer (determined in accordance with the last sentence of subsection (c)(3)(E)(ii)(II)) for such taxable year, or a plan maintained by a successor to such employer.
+        (ii) Use of assets
+           Any assets transferred to a health benefits account in a collectively bargained transfer (and any income allocable thereto) shall be used only to pay collectively bargained retiree health liabilities (other than liabilities of key employees not taken into account under paragraph (6)(B)(iii)) for the taxable year of the transfer or for any subsequent taxable year during the collectively bargained cost maintenance period (whether directly or through reimbursement).
+    (3) Coordination with other transfers
+       In applying subsection (b)(3) to any subsequent transfer during a taxable year in a transfer period or collectively bargained cost maintenance period, qualified current retiree health liabilities shall be reduced by any such liabilities taken into account with respect to the qualified future transfer or collectively bargained transfer to which such period relates.
+    (4) Special deduction rules for collectively bargained transfers
+       In the case of a collectively bargained transfer–
+      (A) the limitation under subsection (d)(1)(C) shall not apply, and
+      (B) notwithstanding subsection (d)(2), an employer may contribute an amount to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) with respect to collectively bargained retiree health liabilities for which transferred assets are required to be used under subsection (c)(1)(B), and the deductibility of any such contribution shall be governed by the limits applicable to the deductibility of contributions to a welfare benefit fund under a collective bargaining agreement (as determined under section 419A(f)(5)(A)) without regard to whether such contributions are made to a health benefits account or welfare benefit fund and without regard to the provisions of section 404 or the other provisions of this section.
+       The Secretary shall provide rules to ensure that the application of this paragraph does not result in a deduction being allowed more than once for the same contribution or for 2 or more contributions or expenditures relating to the same collectively bargained retiree health liabilities.
+    (5) Transfer period
+       For purposes of this subsection, the term ””transfer period““ means, with respect to any transfer, a period of consecutive taxable years (not less than 2) specified in the election under paragraph (1) which begins and ends during the 10-taxable-year period beginning with the taxable year of the transfer.
+    (6) Terms relating to collectively bargained transfers
+       For purposes of this subsection–
+      (A) Collectively bargained cost maintenance period
+         The term ””collectively bargained cost maintenance period““ means, with respect to each covered retiree and his covered spouse and dependents, the shorter of–
+        (i) the remaining lifetime of such covered retiree and his covered spouse and dependents, or
+        (ii) the period of coverage provided by the collectively bargained health plan (determined as of the date of the collectively bargained transfer) with respect to such covered retiree and his covered spouse and dependents.
+      (B) Collectively bargained retiree health liabilities
+        (i) In general
+           The term ””collectively bargained retiree health liabilities““ means the present value, as of the beginning of a taxable year and determined in accordance with the applicable collective bargaining agreement, of all collectively bargained health benefits (including administrative expenses) for such taxable year and all subsequent taxable years during the collectively bargained cost maintenance period.
+        (ii) Reduction for amounts previously set aside
+           The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year of the collectively bargained transfer) of the assets in all health benefits accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree health liabilities.
+        (iii) Key employees excluded
+           If an employee is a key employee (within the meaning of section 416(I)(1)) \2\N with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree health liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
+      (C) Collectively bargained health benefits
+         The term ””collectively bargained health benefits““ means health benefits or coverage which are provided to–
+        (i) retired employees who, immediately before the collectively bargained transfer, are entitled to receive such benefits upon retirement and who are entitled to pension benefits under the plan, and their spouses and dependents, and
+        (ii) if specified by the provisions of the collective bargaining agreement governing the collectively bargained transfer, active employees who, following their retirement, are entitled to receive such benefits and who are entitled to pension benefits under the plan, and their spouses and dependents.
+      (D) Collectively bargained health plan
+         The term ””collectively bargained health plan““ means a group health plan or arrangement for retired employees and their spouses and dependents that is maintained pursuant to 1 or more collective bargaining agreements.

@@ -11,15 +11,13 @@
       (A) derived in the active conduct of a banking business by an institution licensed to do business as a bank in the United States (or, to the extent provided in regulations, by any other corporation),
       (B) derived in the active conduct of an insurance business by a corporation which is predominantly engaged in an insurance business and which would be subject to tax under subchapter L if it were a domestic corporation,
       (C) which is interest, a dividend, or a rent or royalty, which is received or accrued from a related person (within the meaning of section 954(d)(3)) to the extent such amount is properly allocable (under regulations prescribed by the Secretary) to income of such related person which is not passive income, or
-      (D) which is foreign trade income of an FSC or export trade income of an export trade corporation (as defined in section 971).
+      (D) which is export trade income of an export trade corporation (as defined in section 971).
        For purposes of subparagraph (C), the term ””related person““ has the meaning given such term by section 954(d)(3) determined by substituting ””foreign corporation““ for ””controlled foreign corporation““ each place it appears in section 954(d)(3).
   (c) Look-thru in the case of 25-percent owned corporations
      If a foreign corporation owns (directly or indirectly) at least 25 percent (by value) of the stock of another corporation, for purposes of determining whether such foreign corporation is a passive foreign investment company, such foreign corporation shall be treated as if it–
     (1) held its proportionate share of the assets of such other corporation, and
     (2) received directly its proportionate share of the income of such other corporation.
-  (d) Section 1247 \1\N corporations
-     For purposes of this part, the term ””passive foreign investment company““ does not include any foreign investment company to which section 1247 \1\ applies.
-  (e) Exception for United States shareholders of controlled foreign corporations
+  (d) Exception for United States shareholders of controlled foreign corporations
     (1) In general
        For purposes of this part, a corporation shall not be treated with respect to a shareholder as a passive foreign investment company during the qualified portion of such shareholder“s holding period with respect to stock in such corporation.
     (2) Qualified portion
@@ -33,7 +31,7 @@
          Subparagraph (A) shall not apply if such stock was, with respect to such shareholder, stock in a passive foreign investment company at any time before the qualified portion of the shareholder“s holding period with respect to such stock and no election under section 1298(b)(1) is made.
     (4) Treatment of holders of options
        Paragraph (1) shall not apply to stock treated as owned by a person by reason of section 1298(a)(4) (relating to the treatment of a person that has an option to acquire stock as owning such stock) unless such person establishes that such stock is owned (within the meaning of section 958(a)) by a United States shareholder (as defined in section 951(b)) who is not exempt from tax under this chapter.
-  (f) Methods for measuring assets
+  (e) Methods for measuring assets
     (1) Determination using value
        The determination under subsection (a)(2) shall be made on the basis of the value of the assets of a foreign corporation if–
       (A) such corporation is a publicly traded corporation for the taxable year, or

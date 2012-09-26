@@ -1,11 +1,14 @@
   (a) Dispositions of donated property
     (1) In general
-       If the donee of any charitable deduction property sells, exchanges, or otherwise disposes of such property within 2 years after its receipt, the donee shall make a return (in accordance with forms and regulations prescribed by the Secretary) showing–
+       If the donee of any charitable deduction property sells, exchanges, or otherwise disposes of such property within 3 years after its receipt, the donee shall make a return (in accordance with forms and regulations prescribed by the Secretary) showing–
       (A) the name, address, and TIN of the donor,
       (B) a description of the property,
       (C) the date of the contribution,
-      (D) the amount received on the disposition, and
-      (E) the date of such disposition.
+      (D) the amount received on the disposition,
+      (E) the date of such disposition,
+      (F) a description of the donee“s use of the property, and
+      (G) a statement indicating whether the use of the property was related to the purpose or function constituting the basis for the donee“s exemption under section 501.
+       In any case in which the donee indicates that the use of applicable property (as defined in section 170(e)(7)(C)) was related to the purpose or function constituting the basis for the exemption of the donee under section 501 under subparagraph (G), the donee shall include with the return the certification described in section 170(e)(7)(D) if such certification is made under section 170(e)(7).
     (2) Definitions
        For purposes of this subsection:
       (A) Charitable deduction property

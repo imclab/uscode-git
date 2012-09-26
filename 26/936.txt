@@ -8,7 +8,7 @@
     (2) Conditions which must be satisfied
        The conditions referred to in paragraph (1) are:
       (A) 3-year period
-         If 80 percent or more of the gross income of such domestic corporation for the 3-year period immediately preceding the close of the taxable year (or for such part of such period immediately preceding the close of such taxable year as may be applicable) was derived from sources within a possession of the United States (determined without regard to section 904(f)); and
+         If 80 percent or more of the gross income of such domestic corporation for the 3-year period immediately preceding the close of the taxable year (or for such part of such period immediately preceding the close of such taxable year as may be applicable) was derived from sources within a possession of the United States (determined without regard to subsections (f) and (g) of section 904); and
       (B) Trade or business
          If 75 percent or more of the gross income of such domestic corporation for such period or such part thereof was derived from the active conduct of a trade or business within a possession of the United States.
     (3) Credit not allowed against certain taxes
@@ -110,7 +110,7 @@
     (1) for which it is a DISC or former DISC, or
     (2) in which it owns at any time stock in a–
       (A) DISC or former DISC, or
-      (B) FSC or former FSC.
+      (B) former FSC.
   (g) Exception to accumulated earnings tax
     (1) For purposes of section 535, the term ””accumulated taxable income““ shall not include taxable income entitled to the credit under subsection (a).
     (2) For purposes of section 537, the term ””reasonable needs of the business““ includes assets which produce income eligible for the credit under subsection (a).

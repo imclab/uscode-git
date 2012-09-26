@@ -26,7 +26,12 @@
         (i) 100 percent of the stock of such corporation is held by the S corporation, and
         (ii) the S corporation elects to treat such corporation as a qualified subchapter S subsidiary.
       (C) Treatment of terminations of qualified subchapter S subsidiary status
-         For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+        (i) In general
+           For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+        (ii) Termination by reason of sale of stock
+           If the failure to meet the requirements of subparagraph (B) is by reason of the sale of stock of a corporation which is a qualified subchapter S subsidiary, the sale of such stock shall be treated as if–
+          (I) the sale were a sale of an undivided interest in the assets of such corporation (based on the percentage of the corporation“s stock sold), and
+          (II) the sale were followed by an acquisition by such corporation of all of its assets (and the assumption by such corporation of all of its liabilities) in a transaction to which section 351 applies.
       (D) Election after termination
          If a corporation“s status as a qualified subchapter S subsidiary terminates, such corporation (and any successor corporation) shall not be eligible to make–
         (i) an election under subparagraph (B)(ii) to be treated as a qualified subchapter S subsidiary, or
@@ -145,3 +150,14 @@
        An election under this subsection shall be made by the trustee. Any such election shall apply to the taxable year of the trust for which made and all subsequent taxable years of such trust unless revoked with the consent of the Secretary.
     (4) Cross reference
        T2For special treatment of electing small business trusts, see section 641(c).
+  (f) Restricted bank director stock
+    (1) In general
+       Restricted bank director stock shall not be taken into account as outstanding stock of the S corporation in applying this subchapter (other than section 1368(f)).
+    (2) Restricted bank director stock
+       For purposes of this subsection, the term ””restricted bank director stock““ means stock in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),\1\N if such stock–
+      (A) is required to be held by an individual under applicable Federal or State law in order to permit such individual to serve as a director, and
+      (B) is subject to an agreement with such bank or company (or a corporation which controls (within the meaning of section 368(c)) such bank or company) pursuant to which the holder is required to sell back such stock (at the same price as the individual acquired such stock) upon ceasing to hold the office of director.
+    (3) Cross reference
+       T2For treatment of certain distributions with respect to restricted bank director stock, see section 1368(f).
+  (g) Special rule for bank required to change from the reserve method of accounting on becoming S corporation
+     In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.

@@ -81,7 +81,16 @@
           (II) in the case of a partnership, ownership of more than 50 percent of the profits interests or capital interests in such partnership, or
           (III) in any other case, ownership of more than 50 percent of the beneficial interests in the entity.
         (ii) T4Constructive ownershipK.–Section 318 (relating to constructive ownership of stock) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
-      (E) T4Related personsK.–The Secretary shall prescribe such rules as may be necessary or appropriate to prevent avoidance of the purposes of this paragraph through the use of related persons.
+      (E) T4Paragraph to apply only to certain excess payments.–
+        (i) T4In generalK.–Subparagraph (A) shall apply only to the portion of a qualifying specified payment received or accrued by the controlling organization that exceeds the amount which would have been paid or accrued if such payment met the requirements prescribed under section 482.
+        (ii) T4Addition to tax for valuation misstatementsK.–The tax imposed by this chapter on the controlling organization shall be increased by an amount equal to 20 percent of the larger of–
+          (I) such excess determined without regard to any amendment or supplement to a return of tax, or
+          (II) such excess determined with regard to all such amendments and supplements.
+        (iii) T4Qualifying specified paymentK.–The term ””qualifying specified payment““ means a specified payment which is made pursuant to–
+          (I) a binding written contract in effect on the date of the enactment of this subparagraph, or
+          (II) a contract which is a renewal, under substantially similar terms, of a contract described in subclause (I).
+        (iv) T4TerminationK.–This subparagraph shall not apply to payments received or accrued after December 31, 2007.
+      (F) T4Related personsK.–The Secretary shall prescribe such rules as may be necessary or appropriate to prevent avoidance of the purposes of this paragraph through the use of related persons.
          [(14) Repealed. Pub. L. 101–508, title XI, § 11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521.]
   (15) Except as provided in paragraph (4), in the case of a trade or business–
     (A) which consists of providing services under license issued by a Federal regulatory agency,

@@ -30,6 +30,8 @@
         (i) the transferee has actual knowledge that the affidavit referred to in such paragraph is false, or
         (ii) the transferee receives a notice (as described in subsection (d)) from a transferor“s agent or a transferee“s agent that such affidavit is false, or
       (B) if the Secretary by regulations requires the transferee to furnish a copy of such affidavit to the Secretary and the transferee fails to furnish a copy of such affidavit to the Secretary at such time and in such manner as required by such regulations.
+    (8) Applicable wash sales transactions
+       No person shall be required to deduct and withhold any amount under subsection (a) with respect to a disposition which is treated as a disposition of a United States real property interest solely by reason of section 897(h)(5).
   (c) Limitations on amount required to be withheld
     (1) Cannot exceed transferor“s maximum tax liability
       (A) In general
@@ -89,7 +91,9 @@
        A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
     (5) Rules relating to dispositions of interest in partnerships, trusts, or estates
        To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized on the disposition.
-    (6) Regulations
+    (6) Distributions by regulated investment companies and real estate investment trusts
+       If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 15 percent (20 percent in the case of taxable years beginning after December 31, 2010)) of the amount so treated.
+    (7) Regulations
        The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for exceptions from provisions of this subsection and regulations for the application of this subsection in the case of payments through 1 or more entities.
   (f) Definitions
      For purposes of this section–

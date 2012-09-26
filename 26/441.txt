@@ -5,7 +5,7 @@
     (1) the taxpayer“s annual accounting period, if it is a calendar year or a fiscal year;
     (2) the calendar year, if subsection (g) applies;
     (3) the period for which the return is made, if a return is made for a period of less than 12 months; or
-    (4) in the case of a FSC or DISC filing a return for a period of at least 12 months, the period determined under subsection (h).
+    (4) in the case of a DISC filing a return for a period of at least 12 months, the period determined under subsection (h).
   (c) Annual accounting period
      For purposes of this subtitle, the term ””annual accounting period““ means the annual period on the basis of which the taxpayer regularly computes his income in keeping his books.
   (d) Calendar year
@@ -38,11 +38,11 @@
     (1) the taxpayer keeps no books;
     (2) the taxpayer does not have an annual accounting period; or
     (3) the taxpayer has an annual accounting period, but such period does not qualify as a fiscal year.
-  (h) Taxable year of FSC“s and DISC“s
+  (h) Taxable year of DISC“s
     (1) In general
-       For purposes of this subtitle, the taxable year of any FSC or DISC shall be the taxable year of that shareholder (or group of shareholders with the same 12-month taxable year) who has the highest percentage of voting power.
+       For purposes of this subtitle, the taxable year of any DISC shall be the taxable year of that shareholder (or group of shareholders with the same 12-month taxable year) who has the highest percentage of voting power.
     (2) Special rule where more than one shareholder (or group) has highest percentage
-       If 2 or more shareholders (or groups) have the highest percentage of voting power under paragraph (1), the taxable year of the FSC or DISC shall be the same 12-month period as that of any such shareholder (or group).
+       If 2 or more shareholders (or groups) have the highest percentage of voting power under paragraph (1), the taxable year of the DISC shall be the same 12-month period as that of any such shareholder (or group).
     (3) Subsequent changes of ownership
        The Secretary shall prescribe regulations under which paragraphs (1) and (2) shall apply to a change of ownership of a corporation after the taxable year of the corporation has been determined under paragraph (1) or (2) only if such change is a substantial change of ownership.
     (4) Voting power determined

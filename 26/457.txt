@@ -5,6 +5,8 @@
       (B) is paid or otherwise made available to the participant or other beneficiary, in the case of a plan of an eligible employer described in subsection (e)(1)(B).
     (2) Special rule for rollover amounts
        To the extent provided in section 72(t)(9), section 72(t) shall apply to any amount includible in gross income under this subsection.
+    (3) Special rule for health and long-term care insurance
+       In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402(T3lK), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
   (b) Eligible deferred compensation plan defined
      For purposes of this section, the term ””eligible deferred compensation plan““ means a plan established and maintained by an eligible employer–
     (1) in which only individuals who perform service for the employer may be participants,
@@ -89,6 +91,16 @@
            A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $3,000.
       (C) Qualified services
          For purposes of this paragraph, the term ””qualified services““ means fire fighting and prevention services, emergency medical services, and ambulance services.
+      (D) Certain voluntary early retirement incentive plans
+        (i) In general
+           If an applicable voluntary early retirement incentive plan–
+          (I) makes payments or supplements as an early retirement benefit, a retirement-type subsidy, or a benefit described in the last sentence of section 411(a)(9), and
+          (II) such payments or supplements are made in coordination with a defined benefit plan which is described in section 401(a) and includes a trust exempt from tax under section 501(a) and which is maintained by an eligible employer described in paragraph (1)(A) or by an education association described in clause (ii)(II),
+              such applicable plan shall be treated for purposes of subparagraph (A)(i) as a bona fide severance pay plan with respect to such payments or supplements to the extent such payments or supplements could otherwise have been provided under such defined benefit plan (determined as if section 411 applied to such defined benefit plan).
+        (ii) Applicable voluntary early retirement incentive plan
+           For purposes of this subparagraph, the term ””applicable voluntary early retirement incentive plan““ means a voluntary early retirement incentive plan maintained by–
+          (I) a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or
+          (II) an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) and exempt from tax under section 501(a).
     (12) Exception for nonelective deferred compensation of nonemployees
       (A) In general
          This section shall not apply to nonelective deferred compensation attributable to services not performed as an employee.
@@ -127,7 +139,7 @@
         (iii) in the case of a distribution of property other than money, the amount so transferred consists of the property distributed,
          then such distribution (to the extent so transferred) shall not be includible in gross income for the taxable year in which paid.
       (B) Certain rules made applicable
-         The rules of paragraphs (2) through (7) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
+         The rules of paragraphs (2) through (7), (9), and (11) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
       (C) Reporting
          Rollovers under this paragraph shall be reported to the Secretary in the same manner as rollovers from qualified retirement plans (as defined in section 4974(c)).
     (17) Trustee-to-trustee transfers to purchase permissive service credit
@@ -150,14 +162,32 @@
       (A) a plan described in section 401(a) which includes a trust exempt from tax under section 501(a),
       (B) an annuity plan or contract described in section 403,
       (C) that portion of any plan which consists of a transfer of property described in section 83,
-      (D) that portion of any plan which consists of a trust to which section 402(b) applies, and
-      (E) a qualified governmental excess benefit arrangement described in section 415(m).
+      (D) that portion of any plan which consists of a trust to which section 402(b) applies,
+      (E) a qualified governmental excess benefit arrangement described in section 415(m), and
+      (F) that portion of any applicable employment retention plan described in paragraph (4) with respect to any participant.
     (3) Definitions
        For purposes of this subsection–
       (A) Plan includes arrangements, etc.
          The term ””plan““ includes any agreement or arrangement.
       (B) Substantial risk of forfeiture
          The rights of a person to compensation are subject to a substantial risk of forfeiture if such person“s rights to such compensation are conditioned upon the future performance of substantial services by any individual.
+    (4) Employment retention plans
+       For purposes of paragraph (2)(F)–
+      (A) In general
+         The portion of an applicable employment retention plan described in this paragraph with respect to any participant is that portion of the plan which provides benefits payable to the participant not in excess of twice the applicable dollar limit determined under subsection (e)(15).
+      (B) Other rules
+        (i) Limitation
+           Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
+        (ii) Treatment
+           A plan shall not be treated for purposes of this title as providing for the deferral of compensation for any year with respect to the portion of the plan described in subparagraph (A).
+      (C) Applicable employment retention plan
+         The term ””applicable employment retention plan““ means an employment retention plan maintained by–
+        (i) a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801),\1\N or
+        (ii) an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
+      (D) Employment retention plan
+         The term ””employment retention plan““ means a plan to pay, upon termination of employment, compensation to an employee of a local educational agency or education association described in subparagraph (C) for purposes of–
+        (i) retaining the services of the employee, or
+        (ii) rewarding such employee for the employee“s service with 1 or more such agencies or associations.
   (g) Governmental plans must maintain set-asides for exclusive benefit of participants
     (1) In general
        A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not be treated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.

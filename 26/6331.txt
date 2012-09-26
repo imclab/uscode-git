@@ -19,7 +19,7 @@
         (v) the provisions of this title and procedures relating to redemption of property and release of liens on property.
   (b) Right to fair hearing
     (1) In general
-       If the person requests a hearing under subsection (a)(3)(B), such hearing shall be held by the Internal Revenue Service Office of Appeals.
+       If the person requests a hearing in writing under subsection (a)(3)(B) and states the grounds for the requested hearing, such hearing shall be held by the Internal Revenue Service Office of Appeals.
     (2) One hearing per period
        A person shall be entitled to only one hearing under this section with respect to the taxable period to which the unpaid tax specified in subsection (a)(3)(A) relates.
     (3) Impartial officer
@@ -43,15 +43,13 @@
       (C) whether any proposed collection action balances the need for the efficient collection of taxes with the legitimate concern of the person that any collection action be no more intrusive than necessary.
     (4) Certain issues precluded
        An issue may not be raised at the hearing if–
-      (A) the issue was raised and considered at a previous hearing under section 6320 or in any other previous administrative or judicial proceeding; and
-      (B) the person seeking to raise the issue participated meaningfully in such hearing or proceeding.
+      (A)        (i) the issue was raised and considered at a previous hearing under section 6320 or in any other previous administrative or judicial proceeding; and
+        (ii) the person seeking to raise the issue participated meaningfully in such hearing or proceeding; or
+      (B) the issue meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A).
        This paragraph shall not apply to any issue with respect to which subsection (d)(2)(B) applies.
   (d) Proceeding after hearing
     (1) Judicial review of determination
-       The person may, within 30 days of a determination under this section, appeal such determination–
-      (A) to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter); or
-      (B) if the Tax Court does not have jurisdiction of the underlying tax liability, to a district court of the United States.
-       If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the court determination to file such appeal with the correct court.
+       The person may, within 30 days of a determination under this section, appeal such determination to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
     (2) Jurisdiction retained at IRS Office of Appeals
        The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding–
       (A) collection actions taken or proposed with respect to such determination; and
@@ -63,6 +61,11 @@
        Paragraph (1) shall not apply to a levy action while an appeal is pending if the underlying tax liability is not at issue in the appeal and the court determines that the Secretary has shown good cause not to suspend the levy.
   (f) Jeopardy and State refund collection
      If–
-    (1) the Secretary has made a finding under the last sentence of section 6331(a) that the collection of tax is in jeopardy; or
-    (2) the Secretary has served a levy on a State to collect a Federal tax liability from a State tax refund,
+    (1) the Secretary has made a finding under the last sentence of section 6331(a) that the collection of tax is in jeopardy,
+    (2) the Secretary has served a levy on a State to collect a Federal tax liability from a State tax refund, or
+    (3) the Secretary has served a disqualified employment tax levy,
        this section shall not apply, except that the taxpayer shall be given the opportunity for the hearing described in this section within a reasonable period of time after the levy.
+  (g) Frivolous requests for hearing, etc.
+     Notwithstanding any other provision of this section, if the Secretary determines that any portion of a request for a hearing under this section or section 6320 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
+  (h) Disqualified employment tax levy
+     For purposes of subsection (f), a disqualified employment tax levy is any levy in connection with the collection of employment taxes for any taxable period if the person subject to the levy (or any predecessor thereof) requested a hearing under this section with respect to unpaid employment taxes arising in the most recent 2-year period before the beginning of the taxable period with respect to which the levy is served. For purposes of the preceding sentence, the term ””employment taxes““ means any taxes under chapter 21, 22, 23, or 24.

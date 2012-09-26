@@ -31,6 +31,10 @@
         (iii) The adjusted basis of such shares in the hands of the shareholder shall be increased, with respect to the amounts required by this subparagraph to be included in computing his long-term capital gains, by the difference between the amount of such includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).
         (iv) In the event of such designation the tax imposed by subparagraph (A) shall be paid by the regulated investment company within 30 days after close of its taxable year.
         (v) The earnings and profits of such regulated investment company, and the earnings and profits of any such shareholder which is a corporation, shall be appropriately adjusted in accordance with regulations prescribed by the Secretary.
+      (E) Certain distributions
+         In the case of a distribution to which section 897 does not apply by reason of the second sentence of section 897(h)(1), the amount of such distribution which would be included in computing long-term capital gains for the shareholder under subparagraph (B) or (D) (without regard to this subparagraph)–
+        (i) shall not be included in computing such shareholder“s long-term capital gains, and
+        (ii) shall be included in such shareholder“s gross income as a dividend from the regulated investment company.
     (4) Loss on sale or exchange of stock held 6 months or less
       (A) Loss attributable to capital gain dividend
          If–
@@ -43,7 +47,9 @@
         (ii) such share is held by the taxpayer for 6 months or less,
          then any loss on the sale or exchange of such share shall, to the extent of the amount of such exempt-interest dividend, be disallowed.
       (C) Determination of holding periods
-         For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock; except that ””6 months““ shall be substituted for each number of days specified in subparagraph (B) \2\N of section 246(c)(3).
+         For purposes of this paragraph, in determining the period for which the taxpayer has held any share of stock–
+        (i) the rules of paragraphs (3) and (4) of section 246(c) shall apply, and
+        (ii) there shall not be taken into account any day which is more than 6 months after the date on which such share becomes ex-dividend.
       (D) Losses incurred under a periodic liquidation plan
          To the extent provided in regulations, subparagraphs (A) and (B) shall not apply to losses incurred on the sale or exchange of shares of stock in a regulated investment company pursuant to a plan which provides for the periodic liquidation of such shares.
       (E) Authority to shorten required holding period

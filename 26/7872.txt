@@ -142,11 +142,32 @@
         (i) the CPI for the preceding calendar year exceeds
         (ii) the CPI for calendar year 1985.
          For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.
-  (h) Regulations
+    (6) Suspension of application
+       Paragraph (1) shall not apply for any calendar year to which subsection (h) applies.
+  (h) Exception for loans to qualified continuing care facilities
     (1) In general
-       The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including–
-      (A) regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender“s or borrower“s interest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
-      (B) regulations for the purpose of assuring that the positions of the borrower and lender are consistent as to the application (or nonapplication) of this section, and
-      (C) regulations exempting from the application of this section any class of transactions the interest arrangements of which have no significant effect on any Federal tax liability of the lender or the borrower.
-    (2) Estate tax coordination
-       Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
+       This section shall not apply for any calendar year to any below-market loan owed by a facility which on the last day of such year is a qualified continuing care facility, if such loan was made pursuant to a continuing care contract and if the lender (or the lender“s spouse) attains age 62 before the close of such year.
+    (2) Continuing care contract
+       For purposes of this section, the term ””continuing care contract““ means a written contract between an individual and a qualified continuing care facility under which–
+      (A) the individual or individual“s spouse may use a qualified continuing care facility for their life or lives,
+      (B) the individual or individual“s spouse will be provided with housing, as appropriate for the health of such individual or individual“s spouse–
+        (i) in an independent living unit (which has additional available facilities outside such unit for the provision of meals and other personal care), and
+        (ii) in an assisted living facility or a nursing facility, as is available in the continuing care facility, and
+      (C) the individual or individual“s spouse will be provided assisted living or nursing care as the health of such individual or individual“s spouse requires, and as is available in the continuing care facility.
+       The Secretary shall issue guidance which limits such term to contracts which provide only facilities, care, and services described in this paragraph.
+    (3) Qualified continuing care facility
+      (A) In general
+         For purposes of this section, the term ””qualified continuing care facility““ means 1 or more facilities–
+        (i) which are designed to provide services under continuing care contracts,
+        (ii) which include an independent living unit, plus an assisted living or nursing facility, or both, and
+        (iii) substantially all of the independent living unit residents of which are covered by continuing care contracts.
+      (B) Nursing homes excluded
+         The term ””qualified continuing care facility““ shall not include any facility which is of a type which is traditionally considered a nursing home.
+        (i) Regulations
+          (1) In general
+             The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including–
+            (A) regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender“s or borrower“s interest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
+            (B) regulations for the purpose of assuring that the positions of the borrower and lender are consistent as to the application (or nonapplication) of this section, and
+            (C) regulations exempting from the application of this section any class of transactions the interest arrangements of which have no significant effect on any Federal tax liability of the lender or the borrower.
+          (2) Estate tax coordination
+             Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).

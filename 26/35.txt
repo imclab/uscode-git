@@ -38,7 +38,7 @@
       (B) any dependent of the taxpayer with respect to whom the taxpayer is entitled to a deduction under section 151(c).
        Such term does not include any individual who has other specified coverage.
     (2) Special dependency test in case of divorced parents, etc.
-       If paragraph (2) or (4) of section 152(e) applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph (1)(B) with respect to the custodial parent (within the meaning of section 152(e)(1)) and not with respect to the noncustodial parent.
+       If section 152(e) applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph (1)(B) with respect to the custodial parent (as defined in section 152(e)(4)(A)) and not with respect to the noncustodial parent.
   (e) Qualified health insurance
      For purposes of this section–
     (1) In general

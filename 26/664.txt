@@ -7,8 +7,16 @@
     (3) Third, as other income to the extent of such income of the trust for the year and such undistributed income of the trust for prior years; and
     (4) Fourth, as a distribution of trust corpus.
        For purposes of this section, the trust shall determine the amount of its undistributed capital gain on a cumulative net basis.
-  (c) Exemption from income taxes
-     A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle, unless such trust, for such year, has unrelated business taxable income (within the meaning of section 512, determined as if part III of subchapter F applied to such trust).
+  (c) Taxation of trusts
+    (1) Income tax
+       A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle.
+    (2) Excise tax
+      (A) In general
+         In the case of a charitable remainder annuity trust or a charitable remainder unitrust which has unrelated business taxable income (within the meaning of section 512, determined as if part III of subchapter F applied to such trust) for a taxable year, there is hereby imposed on such trust or unitrust an excise tax equal to the amount of such unrelated business taxable income.
+      (B) Certain rules to apply
+         The tax imposed by subparagraph (A) shall be treated as imposed by chapter 42 for purposes of this title other than subchapter E of chapter 42.
+      (C) Tax court proceedings
+         For purposes of this paragraph, the references in section 6212(c)(1) to section 4940 shall be deemed to include references to this paragraph.
   (d) Definitions
     (1) Charitable remainder annuity trust
        For purposes of this section, a charitable remainder annuity trust is a trust–
@@ -59,7 +67,7 @@
       (B) plan participants are entitled to direct the plan as to the manner in which such securities which are entitled to vote and are allocated to the account of such participant are to be voted,
       (C) an independent trustee votes the securities so transferred which are not allocated to plan participants,
       (D) each participant who is entitled to a distribution from the plan has the rights described in subparagraphs (A) and (B) of section 409(h)(1),
-      (E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),\1\N and
+      (E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),\1\N and
       (F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
        For purposes of the preceding sentence, the term ””independent trustee““ means any trustee who is not a member of the family (within the meaning of section 2032A(e)(2)) of the decedent or a 5-percent shareholder. A plan shall not fail to be treated as meeting the requirements of section 401(a) by reason of meeting the requirements of this subsection.
     (4) Qualified employer securities

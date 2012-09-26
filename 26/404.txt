@@ -1,20 +1,21 @@
   (a) Taxability of beneficiary under a qualified annuity plan
     (1) Distributee taxable under section 72
        If an annuity contract is purchased by an employer for an employee under a plan which meets the requirements of section 404(a)(2) (whether or not the employer deducts the amounts paid for the contract under such section), the amount actually distributed to any distributee under the contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities).
-       [(2) Repealed. Pub. L. 99–514, title XI, § 1122(b)(1)(B), Oct. 22, 1986, 100 Stat. 2466]
-  (3) Self-employed individuals
-     For purposes of this subsection, the term ””employee““ includes an individual who is an employee within the meaning of section 401(c)(1), and the employer of such individual is the person treated as his employer under section 401(c)(4).
-  (4) Rollover amounts
-    (A) General rule
-       If–
-      (i) any portion of the balance to the credit of an employee in an employee annuity described in paragraph (1) is paid to him in an eligible rollover distribution (within the meaning of section 402(c)(4)),
-      (ii) the employee transfers any portion of the property he receives in such distribution to an eligible retirement plan, and
-      (iii) in the case of a distribution of property other than money, the amount so transferred consists of the property distributed,
-       then such distribution (to the extent so transferred) shall not be includible in gross income for the taxable year in which paid.
-    (B) Certain rules made applicable
-       The rules of paragraphs (2) through (7) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
-  (5) Direct trustee-to-trustee transfer
-     Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of such transfer.
+    (2) Special rule for health and long-term care insurance
+       To the extent provided in section 402(T3lK), paragraph (1) shall not apply to the amount distributed under the contract which is otherwise includible in gross income under this subsection.
+    (3) Self-employed individuals
+       For purposes of this subsection, the term ””employee““ includes an individual who is an employee within the meaning of section 401(c)(1), and the employer of such individual is the person treated as his employer under section 401(c)(4).
+    (4) Rollover amounts
+      (A) General rule
+         If–
+        (i) any portion of the balance to the credit of an employee in an employee annuity described in paragraph (1) is paid to him in an eligible rollover distribution (within the meaning of section 402(c)(4)),
+        (ii) the employee transfers any portion of the property he receives in such distribution to an eligible retirement plan, and
+        (iii) in the case of a distribution of property other than money, the amount so transferred consists of the property distributed,
+         then such distribution (to the extent so transferred) shall not be includible in gross income for the taxable year in which paid.
+      (B) Certain rules made applicable
+         The rules of paragraphs (2) through (7) and (11) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
+    (5) Direct trustee-to-trustee transfer
+       Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of such transfer.
   (b) Taxability of beneficiary under annuity purchased by section 501(c)(3) organization or public school
     (1) General rule
        If–
@@ -26,25 +27,26 @@
       (C) the employee“s rights under the contract are nonforfeitable, except for failure to pay future premiums,
       (D) except in the case of a contract purchased by a church, such contract is purchased under a plan which meets the nondiscrimination requirements of paragraph (12), and
       (E) in the case of a contract purchased under a salary reduction agreement, the contract meets the requirements of section 401(a)(30),
-         [(2) Repealed. Pub. L. 107–16, title VI, § 632(a)(2)(B), June 7, 2001, 115 Stat. 113]
        then contributions and other additions by such employer for such annuity contract shall be excluded from the gross income of the employee for the taxable year to the extent that the aggregate of such contributions and additions (when expressed as an annual addition (within the meaning of section 415(c)(2))) does not exceed the applicable limit under section 415. The amount actually distributed to any distributee under such contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities). For purposes of applying the rules of this subsection to contributions and other additions by an employer for a taxable year, amounts transferred to a contract described in this paragraph by reason of a rollover contribution described in paragraph (8) of this subsection or section 408(d)(3)(A)(ii) shall not be considered contributed by such employer.
-  (3) Includible compensation
-     For purposes of this subsection, the term ””includible compensation““ means, in the case of any employee, the amount of compensation which is received from the employer described in paragraph (1)(A), and which is includible in gross income (computed without regard to section 911) for the most recent period (ending not later than the close of the taxable year) which under paragraph (4) may be counted as one year of service, and which precedes the taxable year by no more than five years. Such term does not include any amount contributed by the employer for any annuity contract to which this subsection applies. Such term includes–
-    (A) any elective deferral (as defined in section 402(g)(3)), and
-    (B) any amount which is contributed or deferred by the employer at the election of the employee and which is not includible in the gross income of the employee by reason of section 125, 132(f)(4), or 457.
-  (4) Years of service
-     In determining the number of years of service for purposes of this subsection, there shall be included–
-    (A) one year for each full year during which the individual was a full-time employee of the organization purchasing the annuity for him, and
-    (B) a fraction of a year (determined in accordance with regulations prescribed by the Secretary) for each full year during which such individual was a part-time employee of such organization and for each part of a year during which such individual was a full-time or part-time employee of such organization.
-     In no case shall the number of years of service be less than one.
-  (5) Application to more than one annuity contract
-     If for any taxable year of the employee this subsection applies to 2 or more annuity contracts purchased by the employer, such contracts shall be treated as one contract.
-     [(6) Repealed. Pub. L. 107–147, title IV, § 411(p)(2), Mar. 9, 2002, 116 Stat. 50]
+    (2) Special rule for health and long-term care insurance
+       To the extent provided in section 402(T3lK), paragraph (1) shall not apply to the amount distributed under the contract which is otherwise includible in gross income under this subsection.
+    (3) Includible compensation
+       For purposes of this subsection, the term ””includible compensation““ means, in the case of any employee, the amount of compensation which is received from the employer described in paragraph (1)(A), and which is includible in gross income (computed without regard to section 911) for the most recent period (ending not later than the close of the taxable year) which under paragraph (4) may be counted as one year of service, and which precedes the taxable year by no more than five years. Such term does not include any amount contributed by the employer for any annuity contract to which this subsection applies. Such term includes–
+      (A) any elective deferral (as defined in section 402(g)(3)), and
+      (B) any amount which is contributed or deferred by the employer at the election of the employee and which is not includible in the gross income of the employee by reason of section 125, 132(f)(4), or 457.
+    (4) Years of service
+       In determining the number of years of service for purposes of this subsection, there shall be included–
+      (A) one year for each full year during which the individual was a full-time employee of the organization purchasing the annuity for him, and
+      (B) a fraction of a year (determined in accordance with regulations prescribed by the Secretary) for each full year during which such individual was a part-time employee of such organization and for each part of a year during which such individual was a full-time or part-time employee of such organization.
+       In no case shall the number of years of service be less than one.
+    (5) Application to more than one annuity contract
+       If for any taxable year of the employee this subsection applies to 2 or more annuity contracts purchased by the employer, such contracts shall be treated as one contract.
+       [(6) Repealed. Pub. L. 107–147, title IV, § 411(p)(2), Mar. 9, 2002, 116 Stat. 50]
   (7) Custodial accounts for regulated investment company stock
     (A) Amounts paid treated as contributions
        For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if–
       (i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
-      (ii) under the custodial account no such amounts may be paid or made available to any distributee before the employee dies, attains age 59\1/2\, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
+      (ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59\1/2\, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
     (B) Account treated as plan
        For purposes of this title, a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as an organization described in section 401(a) solely for purposes of subchapter F and subtitle F with respect to amounts received by it (and income from investment thereof).
     (C) Regulated investment company
@@ -57,7 +59,7 @@
       (iii) in the case of a distribution of property other than money, the property so transferred consists of the property distributed,
        then such distribution (to the extent so transferred) shall not be includible in gross income for the taxable year in which paid.
     (B) Certain rules made applicable
-       The rules of paragraphs (2) through (7) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A), except that section 402(f) shall be applied to the payor in lieu of the plan administrator.
+       The rules of paragraphs (2) through (7), (9), and (11) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A), except that section 402(f) shall be applied to the payor in lieu of the plan administrator.
   (9) Retirement income accounts provided by churches, etc.
     (A) Amounts paid treated as contributions
        For purposes of this title–
@@ -69,8 +71,9 @@
      Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
   (11) Requirement that distributions not begin before age 59\1/2\, severance from employment, death, or disability
      This subsection shall not apply to any annuity contract unless under such contract distributions attributable to contributions made pursuant to a salary reduction agreement (within the meaning of section 402(g)(3)(C)) may be paid only–
-    (A) when the employee attains age 59\1/2\, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)), or
-    (B) in the case of hardship.
+    (A) when the employee attains age 59\1/2\, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
+    (B) in the case of hardship, or
+    (C) for distributions to which section 72(t)(2)(G) applies.
      Such contract may not provide for the distribution of any income attributable to such contributions in the case of hardship.
   (12) Nondiscrimination requirements
     (A) In general

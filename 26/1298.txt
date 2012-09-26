@@ -8,7 +8,7 @@
       (A) In general
          If 50 percent or more in value of the stock of a corporation is owned, directly or indirectly, by or for any person, such person shall be considered as owning the stock owned directly or indirectly by or for such corporation in that proportion which the value of the stock which such person so owns bears to the value of all stock in the corporation.
       (B) 50-percent limitation not to apply to PFIC
-         For purposes of determining whether a shareholder of a passive foreign investment company is treated as owning stock owned directly or indirectly by or for such company, subparagraph (A) shall be applied without regard to the 50-percent limitation contained therein. Section 1297(e) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.
+         For purposes of determining whether a shareholder of a passive foreign investment company is treated as owning stock owned directly or indirectly by or for such company, subparagraph (A) shall be applied without regard to the 50-percent limitation contained therein. Section 1297(d) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.
     (3) Partnerships, etc.
        Stock owned, directly or indirectly, by or for a partnership, estate, or trust shall be considered as being owned proportionately by its partners or beneficiaries.
     (4) Options
@@ -43,9 +43,7 @@
          Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(f)) \1\N in respect of stock which the taxpayer is treated as owning under subsection (a).
     (6) Dispositions
        Except as provided in regulations, if a taxpayer uses any stock in a passive foreign investment company as security for a loan, the taxpayer shall be treated as having disposed of such stock.
-    (7) Coordination with section 1246 \1\
-       Section 1246 \1\ shall not apply to earnings and profits of any company for any taxable year beginning after December 31, 1986, if such company is a passive foreign investment company for such taxable year.
-    (8) Treatment of certain foreign corporations owning stock in 25-percent owned domestic corporation
+    (7) Treatment of certain foreign corporations owning stock in 25-percent owned domestic corporation
       (A) In general
          If–
         (i) a foreign corporation is subject to the tax imposed by section 531 (or waives any benefit under any treaty which would otherwise prevent the imposition of such tax), and
@@ -53,7 +51,7 @@
          for purposes of determining whether such foreign corporation is a passive foreign investment company, any qualified stock held by such domestic corporation shall be treated as an asset which does not produce passive income (and is not held for the production of passive income) and any amount included in gross income with respect to such stock shall not be treated as passive income.
       (B) Qualified stock
          For purposes of subparagraph (A), the term ””qualified stock““ means any stock in a C corporation which is a domestic corporation and which is not a regulated investment company or real estate investment trust.
-    (9) Treatment of certain subpart F inclusions
+    (8) Treatment of certain subpart F inclusions
        Any amount included in gross income under section 951(a)(1)(B) shall be treated as a distribution received with respect to the stock.
   (c) Treatment of stock held by pooled income fund
      If stock in a passive foreign investment company is owned (or treated as owned under subsection (a)) by a pooled income fund (as defined in section 642(c)(5)) and no portion of any gain from a disposition of such stock may be allocated to income under the terms of the governing instrument of such fund–

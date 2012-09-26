@@ -182,14 +182,14 @@
         (B) such individual first became an active MSA participant for a taxable year ending after the cut-off year by reason of coverage under a high deductible health plan of an MSA-participating employer.
       (2) Cut-off year
          For purposes of paragraph (1), the term ””cut-off year““ means the earlier of–
-        (A) calendar year 2005, or
-        (B) the first calendar year before 2005 for which the Secretary determines under subsection (j) that the numerical limitation for such year has been exceeded.
+        (A) calendar year 2007, or
+        (B) the first calendar year before 2007 for which the Secretary determines under subsection (j) that the numerical limitation for such year has been exceeded.
       (3) Active MSA participant
          For purposes of this subsection–
         (A) In general
            The term ””active MSA participant““ means, with respect to any taxable year, any individual who is the account holder of any Archer MSA into which any contribution was made which was excludable from gross income under section 106(b), or allowable as a deduction under this section, for such taxable year.
-        (B) Special rule for cut-off years before 2005
-           In the case of a cut-off year before 2005–
+        (B) Special rule for cut-off years before 2007
+           In the case of a cut-off year before 2007–
           (i) an individual shall not be treated as an eligible individual for any month of such year or an active MSA participant under paragraph (1)(A) unless such individual is, on or before the cut-off date, covered under a high deductible health plan, and
           (ii) an employer shall not be treated as an MSA-participating employer unless the employer, on or before the cut-off date, offered coverage under a high deductible health plan to any employee.
         (C) Cut-off date
@@ -218,14 +218,14 @@
          The numerical limitation for 1997 is exceeded if, based on the reports required under paragraph (4), the number of Archer MSAs established as of–
         (A) April 30, 1997, exceeds 375,000, or
         (B) June 30, 1997, exceeds 525,000.
-      (2) Determination of whether limit exceeded for 1998, 1999, 2001, 2002, or 2004
+      (2) Determination of whether limit exceeded for 1998, 1999, 2001, 2002, 2004, 2005, or 2006
         (A) In general
-           The numerical limitation for 1998, 1999, 2001, 2002, or 2004 is exceeded if the sum of–
+           The numerical limitation for 1998, 1999, 2001, 2002, 2004, 2005, or 2006 is exceeded if the sum of–
           (i) the number of MSA returns filed on or before April 15 of such calendar year for taxable years ending with or within the preceding calendar year, plus
           (ii) the Secretary“s estimate (determined on the basis of the returns described in clause (i)) of the number of MSA returns for such taxable years which will be filed after such date,
            exceeds 750,000 (600,000 in the case of 1998). For purposes of the preceding sentence, the term ””MSA return““ means any return on which any exclusion is claimed under section 106(b) or any deduction is claimed under this section.
         (B) Alternative computation of limitation
-           The numerical limitation for 1998, 1999, 2001, 2002, or 2004 is also exceeded if the sum of–
+           The numerical limitation for 1998, 1999, 2001, 2002, 2004, 2005, or 2006 is also exceeded if the sum of–
           (i) 90 percent of the sum determined under subparagraph (A) for such calendar year, plus
           (ii) the product of 2.5 and the number of Archer MSAs established during the portion of such year preceding July 1 (based on the reports required under paragraph (4)) for taxable years beginning in such year,
            exceeds 750,000.
@@ -238,7 +238,7 @@
            For purposes of this subsection, the term ””previously uninsured individual““ means, with respect to any Archer MSA, any individual who had no health plan coverage (other than coverage referred to in subsection (c)(1)(B)) at any time during the 6-month period before the date such individual“s coverage under the high deductible health plan commences.
       (4) Reporting by MSA trustees
         (A) In general
-           Not later than August 1 of 1997, 1998, 1999, 2001, 2002, and 2004, each person who is the trustee of an Archer MSA established before July 1 of such calendar year shall make a report to the Secretary (in such form and manner as the Secretary shall specify) which specifies–
+           Not later than August 1 of 1997, 1998, 1999, 2001, 2002, 2004, 2005, and 2006, each person who is the trustee of an Archer MSA established before July 1 of such calendar year shall make a report to the Secretary (in such form and manner as the Secretary shall specify) which specifies–
           (i) the number of Archer MSAs established before such July 1 (for taxable years beginning in such calendar year) of which such person is the trustee,
           (ii) the name and TIN of the account holder of each such account, and
           (iii) the number of such accounts which are accounts of previously uninsured individuals.

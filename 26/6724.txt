@@ -22,7 +22,7 @@
         (i) section 6041A(a) or (b) (relating to returns of direct sellers),
         (ii) section 6043A(a) (relating to returns relating to taxable mergers and acquisitions),
         (iii) section 6045(a) or (d) (relating to returns of brokers),
-        (iv) section 6050H(a) (relating to mortgage interest received in trade or business from individuals),
+        (iv) section 6050H(a) or (h)(1) (relating to mortgage interest received in trade or business from individuals),
         (v) section 6050I(a) or (g)(1) (relating to cash received in trade or business, etc.),
         (vi) section 6050J(a) (relating to foreclosures and abandonments of security),
         (vii) section 6050K(a) (relating to exchanges of certain partnership interests),
@@ -32,60 +32,64 @@
         (xi) section 6050S (relating to returns relating to payments for qualified tuition and related expenses),
         (xii) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals),
         (xiii) section 6052(a) (relating to reporting payment of wages in the form of group-life insurance),
-        (xiv) section 6053(c)(1) (relating to reporting with respect to certain tips),
-        (xv) subsection (b) or (e) of section 1060 (relating to reporting requirements of transferors and transferees in certain asset acquisitions),
-        (xvi) section 4101(d) (relating to information reporting with respect to fuels taxes),
-        (xvii) subparagraph (C) of section 338(h)(10) (relating to information required to be furnished to the Secretary in case of elective recognition of gain or loss), or
-        (xviii) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts), and
-      (C) any statement of the amount of payments to another person required to be made to the Secretary under–
-        (i) section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
-        (ii) section 6047(d) (relating to reports by employers, plan administrators, etc.).
-       Such term also includes any form, statement, or schedule required to be filed with the Secretary with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
-    (2) Payee statement
-       The term ””payee statement““ means any statement required to be furnished under–
-      (A) section 6031(b) or (c), 6034A, or 6037(b) (relating to statements furnished by certain pass-thru entities),
-      (B) section 6039(a) (relating to information required in connection with certain options),
-      (C) section 6041(d) (relating to information at source),
-      (D) section 6041A(e) (relating to returns regarding payments of remuneration for services and direct sales),
-      (E) section 6042(c) (relating to returns regarding payments of dividends and corporate earnings and profits),
-      (F) subsections (b) and (d) of section 6043A (relating to returns relating to taxable mergers and acquisitions).\1\N
-      (G) section 6044(e) (relating to returns regarding payments of patronage dividends),
-      (H) section 6045(b) or (d) (relating to returns of brokers),
-      (I) section 6049(c) (relating to returns regarding payments of interest),
-      (J) section 6050A(b) (relating to reporting requirements of certain fishing boat operators),
-      (K) section 6050H(d) relating \2\N to returns relating to mortgage interest received in trade or business from individuals),
-      (L) section 6050I(e) or paragraph (4) or (5) of section 6050I(g) (relating to cash received in trade or business, etc.),
-      (M) section 6050J(e) (relating to returns relating to foreclosures and abandonments of security),
-      (N) section 6050K(b) (relating to returns relating to exchanges of certain partnership interests),
-      (O) section 6050L(c) (relating to returns relating to certain dispositions of donated property),
-      (P) section 6050N(b) (relating to returns regarding payments of royalties),
-      (Q) section 6050P(d) (relating to returns relating to the cancellation of indebtedness by certain financial entities),
-      (R) section 6050Q(b) (relating to certain long-term care benefits),
-      (S) section 6050R(c) (relating to returns relating to certain purchases of fish),
-      (T) section 6051 (relating to receipts for employees),
-      (U) section 6052(b) (relating to returns regarding payment of wages in the form of group-term life insurance),
-      (V) section 6053(b) or (c) (relating to reports of tips),
-      (W) section 6048(b)(1)(B) (relating to foreign trust reporting requirements),
-      (X) section 408(i) (relating to reports with respect to individual retirement plans) to any person other than the Secretary with respect to the amount of payments made to such person,
-      (Y) section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
-      (Z) section 6050S(d) (relating to returns relating to qualified tuition and related expenses),
-        (AA) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts), or
-        (BB) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals).
-       Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
-    (3) Specified information reporting requirement
-       The term ””specified information reporting requirement““ means–
-      (A) the notice required by section 6050K(c)(1) (relating to requirement that transferor notify partnership of exchange),
-      (B) any requirement contained in the regulations prescribed under section 6109 that a person–
-        (i) include his TIN on any return, statement, or other document (other than an information return or payee statement),
-        (ii) furnish his TIN to another person, or
-        (iii) include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person,
-      (C) any requirement contained in the regulations prescribed under section 215 that a person–
-        (i) furnish his TIN to another person, or
-        (ii) include on his return the TIN of another person, and
-      (D) any requirement under section 6109(h) that–
-        (i) a person include on his return the name, address, and TIN of another person, or
-        (ii) a person furnish his TIN to another person.
-    (4) Required filing date
-       The term ””required filing date““ means the date prescribed for filing an information return with the Secretary (determined with regard to any extension of time for filing).
+        (xiv) section 6050V (relating to returns relating to applicable insurance contracts in which certain exempt organizations hold interests),
+        (xv) section 6053(c)(1) (relating to reporting with respect to certain tips),
+        (xvi) subsection (b) or (e) of section 1060 (relating to reporting requirements of transferors and transferees in certain asset acquisitions),
+        (xvii) section 4101(d) (relating to information reporting with respect to fuels taxes),
+        (xviii) subparagraph (C) of section 338(h)(10) (relating to information required to be furnished to the Secretary in case of elective recognition of gain or loss),
+        (xix) \1\N section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts), or
+        (xx) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), and
+  (xix) \1\ section 6039(a) (relating to returns required with respect to certain options), and
+  (C) any statement of the amount of payments to another person required to be made to the Secretary under–
+    (i) section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
+    (ii) section 6047(d) (relating to reports by employers, plan administrators, etc.).
+   Such term also includes any form, statement, or schedule required to be filed with the Secretary with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
+  (2) Payee statement
+     The term ””payee statement““ means any statement required to be furnished under–
+    (A) section 6031(b) or (c), 6034A, or 6037(b) (relating to statements furnished by certain pass-thru entities),
+    (B) section 6039(b) (relating to information required in connection with certain options),
+    (C) section 6041(d) (relating to information at source),
+    (D) section 6041A(e) (relating to returns regarding payments of remuneration for services and direct sales),
+    (E) section 6042(c) (relating to returns regarding payments of dividends and corporate earnings and profits),
+    (F) subsections (b) and (d) of section 6043A (relating to returns relating to taxable mergers and acquisitions).\2\N
+    (G) section 6044(e) (relating to returns regarding payments of patronage dividends),
+    (H) section 6045(b) or (d) (relating to returns of brokers),
+    (I) section 6049(c) (relating to returns regarding payments of interest),
+    (J) section 6050A(b) (relating to reporting requirements of certain fishing boat operators),
+    (K) section 6050H(d) or (h)(2) relating \3\N to returns relating to mortgage interest received in trade or business from individuals),
+    (L) section 6050I(e) or paragraph (4) or (5) of section 6050I(g) (relating to cash received in trade or business, etc.),
+    (M) section 6050J(e) (relating to returns relating to foreclosures and abandonments of security),
+    (N) section 6050K(b) (relating to returns relating to exchanges of certain partnership interests),
+    (O) section 6050L(c) (relating to returns relating to certain dispositions of donated property),
+    (P) section 6050N(b) (relating to returns regarding payments of royalties),
+    (Q) section 6050P(d) (relating to returns relating to the cancellation of indebtedness by certain financial entities),
+    (R) section 6050Q(b) (relating to certain long-term care benefits),
+    (S) section 6050R(c) (relating to returns relating to certain purchases of fish),
+    (T) section 6051 (relating to receipts for employees),
+    (U) section 6052(b) (relating to returns regarding payment of wages in the form of group-term life insurance),
+    (V) section 6053(b) or (c) (relating to reports of tips),
+    (W) section 6048(b)(1)(B) (relating to foreign trust reporting requirements),
+    (X) section 408(i) (relating to reports with respect to individual retirement plans) to any person other than the Secretary with respect to the amount of payments made to such person,
+    (Y) section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
+    (Z) section 6050S(d) (relating to returns relating to qualified tuition and related expenses),
+      (AA) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
+      (BB) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) \4\N
+      (CC) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements).
+     Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
+  (3) Specified information reporting requirement
+     The term ””specified information reporting requirement““ means–
+    (A) the notice required by section 6050K(c)(1) (relating to requirement that transferor notify partnership of exchange),
+    (B) any requirement contained in the regulations prescribed under section 6109 that a person–
+      (i) include his TIN on any return, statement, or other document (other than an information return or payee statement),
+      (ii) furnish his TIN to another person, or
+      (iii) include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person,
+    (C) any requirement contained in the regulations prescribed under section 215 that a person–
+      (i) furnish his TIN to another person, or
+      (ii) include on his return the TIN of another person, and
+    (D) any requirement under section 6109(h) that–
+      (i) a person include on his return the name, address, and TIN of another person, or
+      (ii) a person furnish his TIN to another person.
+  (4) Required filing date
+     The term ””required filing date““ means the date prescribed for filing an information return with the Secretary (determined with regard to any extension of time for filing).
   (e) Special rule for certain partnership returns
      If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.

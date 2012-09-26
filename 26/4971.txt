@@ -1,17 +1,27 @@
   (a) Initial tax
-     For each taxable year of an employer who maintains a plan to which section 412 applies, there is hereby imposed a tax of 10 percent (5 percent in the case of a multiemployer plan) on the amount of the accumulated funding deficiency under the plan, determined as of the end of the plan year ending with or within such taxable year.
+     If at any time during any taxable year an employer maintains a plan to which section 412 applies, there is hereby imposed for the taxable year a tax equal to–
+    (1) in the case of a single-employer plan, 10 percent of the aggregate unpaid minimum required contributions for all plan years remaining unpaid as of the end of any plan year ending with or within the taxable year, and
+    (2) in the case of a multiemployer plan, 5 percent of the accumulated funding deficiency determined under section 431 as of the end of any plan year ending with or within the taxable year.
   (b) Additional tax
-     In any case in which an initial tax is imposed by subsection (a) on an accumulated funding deficiency and such accumulated funding deficiency is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of such accumulated funding deficiency to the extent not corrected.
+     If–
+    (1) a tax is imposed under subsection (a)(1) on any unpaid required minimum contribution and such amount remains unpaid as of the close of the taxable period, or
+    (2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
+       there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution or accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
   (c) Definitions
      For purposes of this section–
     (1) Accumulated funding deficiency
-       The term ””accumulated funding deficiency““ has the meaning given to such term by the last two sentences of section 412(a).
+       The term ””accumulated funding deficiency““ has the meaning given to such term by section 431.
     (2) Correct
        The term ””correct““ means, with respect to an accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
     (3) Taxable period
        The term ””taxable period““ means, with respect to an accumulated funding deficiency, the period beginning with the end of the plan year in which there is an accumulated funding deficiency and ending on the earlier of–
       (A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
       (B) the date on which the tax imposed by subsection (a) is assessed.
+    (4) Unpaid minimum required contribution
+      (A) In general
+         The term ””unpaid minimum required contribution““ means, with respect to any plan year, any minimum required contribution under section 430 for the plan year which is not paid on or before the due date (as determined under section 430(j)(1)) for the plan year.
+      (B) Ordering rule
+         Any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for all preceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 430 for the plan year.
   (d) Notification of the Secretary of Labor
      Before issuing a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunity (but not more than 60 days)–
     (1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency, or
@@ -19,22 +29,22 @@
        In the case of a multiemployer plan which is in reorganization under section 418, the same notice and opportunity shall be provided to the Pension Benefit Guaranty Corporation.
   (e) Liability for tax
     (1) In general
-       Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(b)(3)(A).
+       Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(1)(A).\1\N
     (2) Joint and several liability where employer member of controlled group
       (A) In general
-         In the case of a plan other than a multiemployer plan, if the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for the tax imposed by subsection (a), (b), or (f).
+         If an employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for the tax imposed by subsection (a), (b), (f), or (g).
       (B) Controlled group
          For purposes of subparagraph (A), the term ””controlled group““ means any group treated as a single employer under subsection (b), (c), (m), or (T3oK) of section 414.
   (f) Failure to pay liquidity shortfall
     (1) In general
-       In the case of a plan to which section 412(m)(5) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of–
+       In the case of a plan to which section 430(j)(4) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of–
       (A) the amount of the liquidity shortfall for any quarter, over
-      (B) the amount of such shortfall which is paid by the required installment under section 412(m) for such quarter (but only if such installment is paid on or before the due date for such installment).
+      (B) the amount of such shortfall which is paid by the required installment under section 430(j) for such quarter (but only if such installment is paid on or before the due date for such installment).
     (2) Additional tax
        If the plan has a liquidity shortfall as of the close of any quarter and as of the close of each of the following 4 quarters, there is hereby imposed a tax equal to 100 percent of the amount on which tax was imposed by paragraph (1) for such first quarter.
     (3) Definitions and special rule
       (A) Liquidity shortfall; quarter
-         For purposes of this subsection, the terms ””liquidity shortfall““ and ””quarter““ have the respective meanings given such terms by section 412(m)(5).
+         For purposes of this subsection, the terms ””liquidity shortfall““ and ””quarter““ have the respective meanings given such terms by section 412(m)(5).\2\N
       (B) Special rule
          If the tax imposed by paragraph (2) is paid with respect to any liquidity shortfall for any quarter, no further tax shall be imposed by this subsection on such shortfall for such quarter.
     (4) Waiver by Secretary
@@ -42,7 +52,42 @@
       (A) the liquidity shortfall described in paragraph (1) was due to reasonable cause and not willful neglect, and
       (B) reasonable steps have been taken to remedy such liquidity shortfall,
        the Secretary may waive all or part of the tax imposed by this subsection.
-  (g) Cross references
+  (g) Multiemployer plans in endangered or critical status
+    (1) In general
+       Except as provided in this subsection–
+      (A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in critical status pursuant to section 432, and
+      (B) any tax imposed under this subsection for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in endangered status pursuant to section 432 shall be in addition to any other tax imposed by this section.
+    (2) Failure to comply with funding improvement or rehabilitation plan
+      (A) In general
+         If any funding improvement plan or rehabilitation plan in effect under section 432 with respect to a multiemployer plan requires an employer to make a contribution to the plan, there is hereby imposed a tax on each failure of the employer to make the required contribution within the time required under such plan.
+      (B) Amount of tax
+         The amount of the tax imposed by subparagraph (A) shall be equal to the amount of the required contribution the employer failed to make in a timely manner.
+      (C) Liability for tax
+         The tax imposed by subparagraph (A) shall be paid by the employer responsible for contributing to or under the rehabilitation plan which fails to make the contribution.
+    (3) Failure to meet requirements for plans in endangered or critical status
+       If–
+      (A) a plan which is in seriously endangered status fails to meet the applicable benchmarks by the end of the funding improvement period, or
+      (B) a plan which is in critical status either–
+        (i) fails to meet the requirements of section 432(e) by the end of the rehabilitation period, or
+        (ii) has received a certification under section 432(b)(3)(A)(ii) for 3 consecutive plan years that the plan is not making the scheduled progress in meeting its requirements under the rehabilitation plan,
+       the plan shall be treated as having an accumulated funding deficiency for purposes of this section for the last plan year in such funding improvement, rehabilitation, or 3-consecutive year period (and each succeeding plan year until such benchmarks or requirements are met) in an amount equal to the greater of the amount of the contributions necessary to meet such benchmarks or requirements or the amount of such accumulated funding deficiency without regard to this paragraph.
+    (4) Failure to adopt rehabilitation plan
+      (A) In general
+         In the case of a multiemployer plan which is in critical status, there is hereby imposed a tax on the failure of such plan to adopt a rehabilitation plan within the time prescribed under section 432.
+      (B) Amount of tax
+         The amount of the tax imposed under subparagraph (A) with respect to any plan sponsor for any taxable year shall be the greater of–
+        (i) the amount of tax imposed under subsection (a) for the taxable year (determined without regard to this subsection), or
+        (ii) the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the first day of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
+      (C) Liability for tax
+        (i) In general
+           The tax imposed by subparagraph (A) shall be paid by each plan sponsor.
+        (ii) Plan sponsor
+           For purposes of clause (i), the term ””plan sponsor““ in the case of a multiemployer plan means the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+    (5) Waiver
+       In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
+    (6) Terms used in section 432
+       For purposes of this subsection, any term used in this subsection which is also used in section 432 shall have the meaning given such term by section 432.
+  (h) Cross references
      T2For disallowance of deduction for taxes paid under this section, see section 275.
      T2For liability for tax in case of an employer party to collective bargaining agreement, see section 413(b)(6).
      T2For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.

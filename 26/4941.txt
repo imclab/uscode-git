@@ -1,8 +1,8 @@
   (a) Initial taxes
     (1) On self-dealer
-       There is hereby imposed a tax on each act of self-dealing between a disqualified person and a private foundation. The rate of tax shall be equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participates in the act of self-dealing. In the case of a government official (as defined in section 4946(c)), a tax shall be imposed by this paragraph only if such disqualified person participates in the act of self-dealing knowing that it is such an act.
+       There is hereby imposed a tax on each act of self-dealing between a disqualified person and a private foundation. The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participates in the act of self-dealing. In the case of a government official (as defined in section 4946(c)), a tax shall be imposed by this paragraph only if such disqualified person participates in the act of self-dealing knowing that it is such an act.
     (2) On foundation manager
-       In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 2\1/2\ percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
+       In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
   (b) Additional taxes
     (1) On self-dealer
        In any case in which an initial tax is imposed by subsection (a)(1) on an act of self-dealing by a disqualified person with a private foundation and the act is not corrected within the taxable period, there is hereby imposed a tax equal to 200 percent of the amount involved. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participated in the act of self-dealing.
@@ -12,8 +12,8 @@
      For purposes of subsections (a) and (b)–
     (1) Joint and several liability
        If more than one person is liable under any paragraph of subsection (a) or (b) with respect to any one act of self-dealing, all such persons shall be jointly and severally liable under such paragraph with respect to such act.
-    (2) $10,000 limit for management
-       With respect to any one act of self-dealing, the maximum amount of the tax imposed by subsection (a)(2) shall not exceed $10,000, and the maximum amount of the tax imposed by subsection (b)(2) shall not exceed $10,000.
+    (2) $20,000 limit for management
+       With respect to any one act of self-dealing, the maximum amount of the tax imposed by subsection (a)(2) shall not exceed $20,000, and the maximum amount of the tax imposed by subsection (b)(2) shall not exceed $20,000.
   (d) Self-dealing
     (1) In general
        For purposes of this section, the term ””self-dealing““ means any direct or indirect–

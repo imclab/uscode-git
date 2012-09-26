@@ -29,6 +29,10 @@
          The shareholder“s basis in the stock of the corporation shall be reduced by the amount allowed as a deduction by reason of this paragraph.
       (D) At-risk limitations
          To the extent that any increase in adjusted basis described in subparagraph (B) would have increased the shareholder“s amount at risk under section 465 if such increase had occurred on the day preceding the commencement of the post-termination transition period, rules similar to the rules described in subparagraphs (A) through (C) shall apply to any losses disallowed by reason of section 465(a).
+    (4) Application of limitation on charitable contributions
+       In the case of any charitable contribution of property to which the second sentence of section 1367(a)(2) applies, paragraph (1) shall not apply to the extent of the excess (if any) of–
+      (A) the shareholder“s pro rata share of such contribution, over
+      (B) the shareholder“s pro rata share of the adjusted basis of such property.
   (e) Treatment of family group
      If an individual who is a member of the family (within the meaning of section 704(e)(3)) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
   (f) Special rules

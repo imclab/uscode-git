@@ -47,7 +47,7 @@
   (e) Substantial valuation misstatement under chapter 1
     (1) In general
        For purposes of this section, there is a substantial valuation misstatement under chapter 1 if–
-      (A) the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 200 percent or more of the amount determined to be the correct amount of such valuation or adjusted basis (as the case may be), or
+      (A) the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 150 percent or more of the amount determined to be the correct amount of such valuation or adjusted basis (as the case may be), or
       (B)        (i) the price for any property or services (or for the use of property) claimed on any such return in connection with any transaction between persons described in section 482 is 200 percent or more (or 50 percent or less) of the amount determined under section 482 to be the correct amount of such price, or
         (ii) the net section 482 transfer price adjustment for the taxable year exceeds the lesser of $5,000,000 or 10 percent of the taxpayer“s gross receipts.
     (2) Limitation
@@ -78,7 +78,7 @@
        No penalty shall be imposed by reason of subsection (b)(4) unless the portion of the underpayment for the taxable year attributable to substantial overstatements of pension liabilities exceeds $1,000.
   (g) Substantial estate or gift tax valuation understatement
     (1) In general
-       For purposes of this section, there is a substantial estate or gift tax valuation understatement if the value of any property claimed on any return of tax imposed by subtitle B is 50 percent or less of the amount determined to be the correct amount of such valuation.
+       For purposes of this section, there is a substantial estate or gift tax valuation understatement if the value of any property claimed on any return of tax imposed by subtitle B is 65 percent or less of the amount determined to be the correct amount of such valuation.
     (2) Limitation
        No penalty shall be imposed by reason of subsection (b)(5) unless the portion of the underpayment attributable to substantial estate or gift tax valuation understatements for the taxable period (or, in the case of the tax imposed by chapter 11, with respect to the estate of the decedent) exceeds $5,000.
   (h) Increase in penalty in case of gross valuation misstatements
@@ -87,10 +87,12 @@
     (2) Gross valuation misstatements
        The term ””gross valuation misstatements““ means–
       (A) any substantial valuation misstatement under chapter 1 as determined under subsection (e) by substituting–
-        (i) ””400 percent““ for ””200 percent““ each place it appears,
-        (ii) ””25 percent““ for ””50 percent““, and
+        (i) in paragraph (1)(A), ””200 percent““ for ””150 percent““,
+        (ii) in paragraph (1)(B)(i)–
+          (I) ””400 percent““ for ””200 percent““, and
+          (II) ””25 percent““ for ””50 percent““, and
         (iii) in paragraph (1)(B)(ii)–
           (I) ””$20,000,000““ for ””$5,000,000““, and
           (II) ””20 percent““ for ””10 percent““.
       (B) any substantial overstatement of pension liabilities as determined under subsection (f) by substituting ””400 percent““ for ””200 percent““, and
-      (C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting ””25 percent““ for ””50 percent““.
+      (C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting ””40 percent““ for ””65 percent““.

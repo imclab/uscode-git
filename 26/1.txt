@@ -74,7 +74,7 @@
        With respect to taxable years beginning after December 31, 2003, in prescribing the tables under paragraph (1)–
       (A) the maximum taxable income in the 15-percent rate bracket in the table contained in subsection (a) (and the minimum taxable income in the next higher taxable income bracket in such table) shall be 200 percent of the maximum taxable income in the 15-percent rate bracket in the table contained in subsection (c) (after any other adjustment under this subsection), and
       (B) the comparable taxable income amounts in the table contained in subsection (d) shall be \1/2\ of the amounts determined under subparagraph (A).
-  (g) Certain unearned income of minor children taxed as if parent“s income
+  (g) Certain unearned income of children taxed as if parent“s income
     (1) In general
        In the case of any child to whom this subsection applies, the tax imposed by this section shall be equal to the greater of–
       (A) the tax imposed by this section without regard to this subsection, or
@@ -83,8 +83,12 @@
         (ii) such child“s share of the allocable parental tax.
     (2) Child to whom subsection applies
        This subsection shall apply to any child for any taxable year if–
-      (A) such child has not attained age 14 before the close of the taxable year, and
-      (B) either parent of such child is alive at the close of the taxable year.
+      (A) such child–
+        (i) has not attained age 18 before the close of the taxable year, or
+        (ii)          (I) has attained age 18 before the close of the taxable year and meets the age requirements of section 152(c)(3) (determined without regard to subparagraph (B) thereof), and
+          (II) whose earned income (as defined in section 911(d)(2)) for such taxable year does not exceed one-half of the amount of the individual“s support (within the meaning of section 152(c)(1)(D) after the application of section 152(f)(5) (without regard to subparagraph (A) thereof)) for such taxable year,
+      (B) either parent of such child is alive at the close of the taxable year, and
+      (C) such child does not file a joint return for the taxable year.
     (3) Allocable parental tax
        For purposes of this subsection–
       (A) In general
@@ -106,6 +110,8 @@
           (II) the greater of the amount described in subclause (I) or, if the child itemizes his deductions for the taxable year, the amount of the itemized deductions allowed by this chapter for the taxable year which are directly connected with the production of the portion of adjusted gross income referred to in clause (i).
       (B) Limitation based on taxable income
          The amount of the net unearned income for any taxable year shall not exceed the individual“s taxable income for such taxable year.
+      (C) Treatment of distributions from qualified disability trusts
+         For purposes of this subsection, in the case of any child who is a beneficiary of a qualified disability trust (as defined in section 642(b)(2)(C)(ii)), any amount included in the income of such child under sections 652 and 662 during a taxable year shall be considered earned income of such child for such taxable year.
     (5) Special rules for determining parent to whom subsection applies
        For purposes of this subsection, the parent whose taxable income shall be taken into account shall be–
       (A) in the case of parents who are not married (within the meaning of section 7703), the custodial parent (within the meaning of section 152(e)) of the child, and

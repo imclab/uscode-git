@@ -41,3 +41,7 @@
          An S corporation may, with the consent of all of its affected shareholders, elect to have paragraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
       (B) Affected shareholder
          For purposes of subparagraph (A), the term ””affected shareholder““ means any shareholder to whom a distribution is made by the S corporation during the taxable year.
+  (f) Restricted bank director stock
+     If a director receives a distribution (not in part or full payment in exchange for stock) from an S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution–
+    (1) shall be includible in gross income of the director, and
+    (2) shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount in \1\N included in the gross income of the director.

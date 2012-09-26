@@ -118,8 +118,8 @@
          The term ””top-heavy plan““ shall not include a simple retirement account under section 408(p).
       (H) Cash or deferred arrangements using alternative methods of meeting nondiscrimination requirements
          The term ””top-heavy plan““ shall not include a plan which consists solely of–
-        (i) a cash or deferred arrangement which meets the requirements of section 401(k)(12), and
-        (ii) matching contributions with respect to which the requirements of section 401(m)(11) are met.
+        (i) a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13), and
+        (ii) matching contributions with respect to which the requirements of section 401(m)(11) or 401(m)(12) are met.
            [(h) Repealed. Pub. L. 104–188, title I, § 1452(c)(7), Aug. 20, 1996, 110 Stat. 1816]
           (i) Definitions
              For purposes of this section–
@@ -154,7 +154,7 @@
             (4) Treatment of employees covered by collective bargaining agreements
                The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
             (5) Treatment of beneficiaries
-               The terms ””employee“““ and ””key employee““ include their beneficiaries.
+               The terms ””employee““ and ””key employee““ include their beneficiaries.
             (6) Treatment of simplified employee pensions
               (A) Treatment as defined contribution plans
                  A simplified employee pension shall be treated as a defined contribution plan.

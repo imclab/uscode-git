@@ -1,12 +1,22 @@
   (a) Allowance of credit
      In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of so much of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,000.
   (b) Applicable percentage
-     For purposes of this section, the applicable percentage is the percentage determined in accordance with the following table:
-      
-       D$30,000 D  D$22,500 D  D$15,000 D50
-     30,000 D 32,500 D22,500 D 24,375 D15,000 D 16,250 D20
-     32,500 D 50,000 D24,375 D 37,500 D16,250 D 25,000 D10
-     50,000 D  D37,500 D  D25,000 D  D0
+     For purposes of this section–
+    (1) Joint returns
+       In the case of a joint return, the applicable percentage is–
+      (A) if the adjusted gross income of the taxpayer is not over $30,000, 50 percent,
+      (B) if the adjusted gross income of the taxpayer is over $30,000 but not over $32,500, 20 percent,
+      (C) if the adjusted gross income of the taxpayer is over $32,500 but not over $50,000, 10 percent, and
+      (D) if the adjusted gross income of the taxpayer is over $50,000, zero percent.
+    (2) Other returns
+       In the case of–
+      (A) a head of household, the applicable percentage shall be determined under paragraph (1) except that such paragraph shall be applied by substituting for each dollar amount therein (as adjusted under paragraph (3)) a dollar amount equal to 75 percent of such dollar amount, and
+      (B) any taxpayer not described in paragraph (1) or subparagraph (A), the applicable percentage shall be determined under paragraph (1) except that such paragraph shall be applied by substituting for each dollar amount therein (as adjusted under paragraph (3)) a dollar amount equal to 50 percent of such dollar amount.
+    (3) Inflation adjustment
+       In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to–
+      (A) such dollar amount, multiplied by
+      (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2005““ for ””calendar year 1992““ in subparagraph (B) thereof.
+       Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $500.
   (c) Eligible individual
      For purposes of this section–
     (1) In general
@@ -46,5 +56,3 @@
      In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of–
     (1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
     (2) the sum of the credits allowable under this subpart (other than this section and section 23) and section 27 for the taxable year.
-  (h) Termination
-     This section shall not apply to taxable years beginning after December 31, 2006.

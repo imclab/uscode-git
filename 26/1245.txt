@@ -12,7 +12,7 @@
       (B) Taxpayer may establish amount allowed
          For purposes of subparagraph (A), if the taxpayer can establish by adequate records or other sufficient evidence that the amount allowed for depreciation or amortization for any period was less than the amount allowable, the amount added for such period shall be the amount allowed.
       (C) Certain deductions treated as amortization
-         Any deduction allowable under section 179, 179A, 179B, 179C, 179D, 181, 190, 193, or 194 shall be treated as if it were a deduction allowable for amortization.
+         Any deduction allowable under section 179, 179A, 179B, 179C, 179D, 179E, 181, 190, 193, or 194 shall be treated as if it were a deduction allowable for amortization.
     (3) Section 1245 property
        For purposes of this section, the term ””section 1245 property““ means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 and is either–
       (A) personal property,
@@ -20,7 +20,7 @@
         (i) was used as an integral part of manufacturing, production, or extraction or of furnishing transportation, communications, electrical energy, gas, water, or sewage disposal services,
         (ii) constituted a research facility used in connection with any of the activities referred to in clause (i), or
         (iii) constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
-      (C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179A, 179B, 179C, 179D, 185,\1\N 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,\2\N
+      (C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179A, 179B, 179C, 179D, 179E, 185,\1\N 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,\2\N
       (D) a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
       (E) a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
       (F) any railroad grading or tunnel bore (as defined in section 168(e)(4)).

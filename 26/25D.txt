@@ -1,12 +1,12 @@
   (a) Allowance of credit
      In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of–
-    (1) 30 percent of the qualified photovoltaic property expenditures made by the taxpayer during such year,
+    (1) 30 percent of the qualified solar electric property expenditures made by the taxpayer during such year,
     (2) 30 percent of the qualified solar water heating property expenditures made by the taxpayer during such year, and
     (3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year.
   (b) Limitations
     (1) Maximum credit
        The credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed–
-      (A) $2,000 with respect to any qualified photovoltaic property expenditures,
+      (A) $2,000 with respect to any qualified solar electric property expenditures,
       (B) $2,000 with respect to any qualified solar water heating property expenditures, and
       (C) $500 with respect to each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made.
     (2) Certification of solar water heating property
@@ -20,8 +20,8 @@
      For purposes of this section–
     (1) Qualified solar water heating property expenditure
        The term ””qualified solar water heating property expenditure““ means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
-    (2) Qualified photovoltaic property expenditure
-       The term ””qualified photovoltaic property expenditure““ means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
+    (2) Qualified solar electric property expenditure
+       The term ””qualified solar electric property expenditure““ means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
     (3) Qualified fuel cell property expenditure
        The term ””qualified fuel cell property expenditure““ means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
   (e) Special rules
@@ -35,7 +35,7 @@
     (4) Dollar amounts in case of joint occupancy
        In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:
       (A) T4Maximum expendituresK.–The maximum amount of expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be–
-        (i) $6,667 in the case of any qualified photovoltaic property expenditures,
+        (i) $6,667 in the case of any qualified solar electric property expenditures,
         (ii) $6,667 in the case of any qualified solar water heating property expenditures, and
         (iii) $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made.
       (B) T4Allocation of expendituresK.–The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of–
@@ -63,4 +63,4 @@
   (f) Basis adjustments
      For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
   (g) Termination
-     The credit allowed under this section shall not apply to property placed in service after December 31, 2007.
+     The credit allowed under this section shall not apply to property placed in service after December 31, 2008.

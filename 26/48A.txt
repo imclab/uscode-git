@@ -57,7 +57,7 @@
       (B) Redistribution
          The Secretary may reallocate credits available under clauses (i) and (ii) of paragraph (3)(B) if the Secretary determines that–
         (i) there is an insufficient quantity of qualifying applications for certification pending at the time of the review, or
-        (ii) any certification made pursuant to subsection paragraph (2) has been revoked pursuant to subsection paragraph (2)(D) because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.
+        (ii) any certification made pursuant to paragraph (2) has been revoked pursuant to paragraph (2)(D) because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.
       (C) Reallocation
          If the Secretary determines that credits under clause (i) or (ii) of paragraph (3)(B) are available for reallocation pursuant to the requirements set forth in paragraph (2), the Secretary is authorized to conduct an additional program for applications for certification.
   (e) Qualifying advanced coal projects
@@ -97,6 +97,7 @@
          NOG5T2xK (emissions) D0.07 lbs/MMBTU
          PM* (emissions) D0.015 lbs/MMBTU
          Hg (percent removal) D90 percent
+       For purposes of the performance requirement specified for the removal of SOG5T22K in the table contained in subparagraph (B), the SOG5T22K removal design level in the case of a unit designed for the use of feedstock substantially all of which is subbituminous coal shall be 99 percent SOG5T22K removal or the achievement of an emission level of 0.04 pounds or less of SOG5T22K per million Btu, determined on a 30-day average.
     (2) Design net heat rate
        For purposes of this subsection, design net heat rate with respect to an electric generation unit shall–
       (A) be measured in Btu per kilowatt hour (higher heating value),

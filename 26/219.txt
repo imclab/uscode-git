@@ -40,7 +40,22 @@
            $500  
            2006 and thereafter
            $1,000.
-      (C) Cost-of-living adjustment
+      (C) Catchup contributions for certain individuals
+        (i) In general
+           In the case of an applicable individual who elects to make a qualified retirement contribution in addition to the deductible amount determined under subparagraph (A)–
+          (I) the deductible amount for any taxable year shall be increased by an amount equal to 3 times the applicable amount determined under subparagraph (B) for such taxable year, and
+          (II) subparagraph (B) shall not apply.
+        (ii) Applicable individual
+           For purposes of this subparagraph, the term ””applicable individual““ means, with respect to any taxable year, any individual who was a qualified participant in a qualified cash or deferred arrangement (as defined in section 401(k)) of an employer described in clause (iii) under which the employer matched at least 50 percent of the employee“s contributions to such arrangement with stock of such employer.
+        (iii) Employer described
+           An employer is described in this clause if, in any taxable year preceding the taxable year described in clause (ii)–
+          (I) such employer (or any controlling corporation of such employer) was a debtor in a case under title 11 of the United States Code, or similar Federal or State law, and
+          (II) such employer (or any other person) was subject to an indictment or conviction resulting from business transactions related to such case.
+        (iv) Qualified participant
+           For purposes of clause (ii), the term ””qualified participant““ means any applicable individual who was a participant in the cash or deferred arrangement described in such clause on the date that is 6 months before the filing of the case described in clause (iii).
+        (v) Termination
+           This subparagraph shall not apply to taxable years beginning after December 31, 2009.
+      (D) Cost-of-living adjustment
         (i) In general
            In the case of any taxable year beginning in a calendar year after 2008, the $5,000 amount under subparagraph (A) shall be increased by an amount equal to–
           (I) such dollar amount, multiplied by
@@ -96,7 +111,9 @@
         (ii) shall not include any rollover contribution.
       (C) Special rule where excess deduction was allowed for closed year
          Proper reduction shall be made in the amount allowable as a deduction by reason of this paragraph for any amount allowed as a deduction under this section for a prior taxable year for which the period for assessing deficiency has expired if the amount so allowed exceeds the amount which should have been allowed for such prior taxable year.
-    (7) Election not to deduct contributions
+    (7) Special rule for compensation earned by members of the Armed Forces for service in a combat zone.
+       For purposes of subsections (b)(1)(B) and (c), the amount of compensation includible in an individual“s gross income shall be determined without regard to section 112.
+    (8) Election not to deduct contributions
        T2For election not to deduct contributions to individual retirement plans, see section 408(T3oT2)(2)(B)(ii).
   (g) Limitation on deduction for active participants in certain pension plans
     (1) In general
@@ -203,5 +220,10 @@
        If this subsection applies to an individual for any taxable year solely because their spouse is an active participant, then, in applying this subsection to the individual (but not their spouse)–
       (A) the applicable dollar amount under paragraph (3)(B)(i) shall be $150,000; and
       (B) the amount applicable under paragraph (2)(A)(ii) shall be $10,000.
+    (8) Inflation adjustment
+       In the case of any taxable year beginning in a calendar year after 2006, the dollar amount in the last row of the table contained in paragraph (3)(B)(i), the dollar amount in the last row of the table contained in paragraph (3)(B)(ii), and the dollar amount contained in paragraph (7)(A), shall each be increased by an amount equal to–
+      (A) such dollar amount, multiplied by
+      (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2005““ for ””calendar year 1992““ in subparagraph (B) thereof.
+       Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
   (h) Cross reference
      T2For failure to provide required reports, see section 6652(g).

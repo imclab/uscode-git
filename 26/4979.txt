@@ -16,11 +16,8 @@
     (4) a simplified employee pension of an employer which satisfies the requirements of section 408(k), and
     (5) a plan described in section 501(c)(18).
        Such term includes any plan which, at any time, has been determined by the Secretary to be such a plan.
-  (f) No tax where excess distributed within 2\1/2\ months of close of year
+  (f) No tax where excess distributed within specified period after close of year
     (1) In general
-       No tax shall be imposed under this section on any excess contribution or excess aggregate contribution, as the case may be, to the extent such contribution (together with any income allocable thereto) is distributed (or, if forfeitable, is forfeited) before the close of the first 2\1/2\ months of the following plan year.
+       No tax shall be imposed under this section on any excess contribution or excess aggregate contribution, as the case may be, to the extent such contribution (together with any income allocable thereto through the end of the plan year for which the contribution was made) is distributed (or, if forfeitable, is forfeited) before the close of the first 2\1/2\ months (6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3))) of the following plan year.
     (2) Year of inclusion
-      (A) In general
-         Except as provided in subparagraph (B), any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.
-      (B) De minimis distributions
-         If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.
+       Any amount distributed as provided in paragraph (1) shall be treated as earned and received by the recipient in the recipient“s taxable year in which such distributions were made.
