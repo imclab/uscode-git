@@ -1,8 +1,8 @@
   (a) In general
-     The Secretary may not enter into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation under subsection (b) of this section.
+     The Secretary may not enter into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation under subsection (b) of this section, or any subsidiary of such an entity.
   (b) Inverted domestic corporation
      For purposes of this section, a foreign incorporated entity shall be treated as an inverted domestic corporation if, pursuant to a plan (or a series of related transactions)–
-    (1) the entity completes after November 25, 2002, the direct or indirect acquisition of substantially all of the properties held directly or indirectly by a domestic corporation or substantially all of the properties constituting a trade or business of a domestic partnership;
+    (1) the entity completes before, on, or after November 25, 2002, the direct or indirect acquisition of substantially all of the properties held directly or indirectly by a domestic corporation or substantially all of the properties constituting a trade or business of a domestic partnership;
     (2) after the acquisition at least 80 percent of the stock (by vote or value) of the entity is held–
       (A) in the case of an acquisition with respect to a domestic corporation, by former shareholders of the domestic corporation by reason of holding stock in the domestic corporation; or
       (B) in the case of an acquisition with respect to a domestic partnership, by former partners of the domestic partnership by reason of holding a capital or profits interest in the domestic partnership; and
@@ -15,7 +15,7 @@
         (i) stock held by members of the expanded affiliated group which includes the foreign incorporated entity; or
         (ii) stock of such entity which is sold in a public offering related to the acquisition described in subsection (b)(1) of this section.
       (B) Plan deemed in certain cases
-         If a foreign incorporated entity acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is after November 25, 2002, and which is 2 years before the ownership requirements of subsection (b)(2) of this section are met, such actions shall be treated as pursuant to a plan.
+         If a foreign incorporated entity acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is 2 years before the ownership requirements of subsection (b)(2) of this section are met, such actions shall be treated as pursuant to a plan.
       (C) Certain transfers disregarded
          The transfer of properties or liabilities (including by contribution or distribution) shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
       (D) Special rule for related partnerships
@@ -31,4 +31,4 @@
     (4) Other definitions
        The terms ””person““, ””domestic““, and ””foreign““ have the meanings given such terms by paragraphs (1), (4), and (5) of section 7701(a) of title 26, respectively.
   (d) Waivers
-     The Secretary shall waive subsection (a) of this section with respect to any specific contract if the Secretary determines that the waiver is required in the interest of homeland security.
+     The Secretary shall waive subsection (a) of this section with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
