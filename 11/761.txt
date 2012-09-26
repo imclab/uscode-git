@@ -8,7 +8,8 @@
     (C) with respect to a leverage transaction merchant, leverage transaction;
     (D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
     (E) with respect to a commodity options dealer, commodity option;
-    (F) any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;
+    (F)      (i) any other contract, option, agreement, or transaction that is similar to a contract, option, agreement, or transaction referred to in this paragraph; and
+      (ii) with respect to a futures commission merchant or a clearing organization, any other contract, option, agreement, or transaction, in each case, that is cleared by a clearing organization;
     (G) any combination of the agreements or transactions referred to in this paragraph;
     (H) any option to enter into an agreement or transaction referred to in this paragraph;
     (I) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H), together with all supplements to such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this paragraph, except that the master agreement shall be considered to be a commodity contract under this paragraph only with respect to each agreement or transaction under the master agreement that is referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H); or
@@ -19,7 +20,7 @@
   (8) ””contract of sale““, ””commodity““, ””derivatives clearing organization““, ””future delivery““, ””board of trade““, ””registered entity““, and ””futures commission merchant““ have the meanings assigned to those terms in the Act;
   (9) ””customer““ means–
     (A) with respect to a futures commission merchant–
-      (i) entity for or with whom such futures commission merchant deals and that holds a claim against such futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such futures commission merchant in the ordinary course of such futures commission merchant“s business as a futures commission merchant from or for the commodity futures account of such entity; or
+      (i) entity for or with whom such futures commission merchant deals and that holds a claim against such futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such futures commission merchant in the ordinary course of such futures commission merchant“s business as a futures commission merchant from or for a commodity contract account of such entity; or
       (ii) entity that holds a claim against such futures commission merchant arising out of–
         (I) the making, liquidation, or change in the value of a commodity contract of a kind specified in clause (i) of this subparagraph;
         (II) a deposit or payment of cash, a security, or other property with such futures commission merchant for the purpose of making or margining such a commodity contract; or
