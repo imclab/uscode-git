@@ -4,6 +4,7 @@
       (B) in commercial advertising or promotion, misrepresents the nature, characteristics, qualities, or geographic origin of his or her or another person“s goods, services, or commercial activities,
          shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act.
     (2) As used in this subsection, the term ””any person““ includes any State, instrumentality of a State or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+    (3) In a civil action for trade dress infringement under this chapter for trade dress not registered on the principal register, the person who asserts trade dress protection has the burden of proving that the matter sought to be protected is not functional.
   (b) Importation
      Any goods marked or labeled in contravention of the provisions of this section shall not be imported into the United States or admitted to entry at any customhouse of the United States. The owner, importer, or consignee of goods refused entry at any customhouse under this section may have any recourse by protest or appeal that is given under the customs revenue laws or may have the remedy given by this chapter in cases involving goods refused entry or seized.
   (c) Remedies for dilution of famous marks
@@ -16,9 +17,47 @@
       (F) the degree of recognition of the mark in the trading areas and channels of trade used by the marks“ owner and the person against whom the injunction is sought;
       (G) the nature and extent of use of the same or similar marks by third parties; and
       (H) whether the mark was registered under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register.
-    (2) In an action brought under this subsection, the owner of the famous mark shall be entitled only to injunctive relief unless the person against whom the injunction is sought willfully intended to trade on the owner“s reputation or to cause dilution of the famous mark. If such willful intent is proven, the owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity.
+    (2) In an action brought under this subsection, the owner of the famous mark shall be entitled only to injunctive relief as set forth in section 1116 of this title unless the person against whom the injunction is sought willfully intended to trade on the owner“s reputation or to cause dilution of the famous mark. If such willful intent is proven, the owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity.
     (3) The ownership by a person of a valid registration under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register shall be a complete bar to an action against that person, with respect to that mark, that is brought by another person under the common law or a statute of a State and that seeks to prevent dilution of the distinctiveness of a mark, label, or form of advertisement.
     (4) The following shall not be actionable under this section:
       (A) Fair use of a famous mark by another person in comparative commercial advertising or promotion to identify the competing goods or services of the owner of the famous mark.
       (B) Noncommercial use of a mark.
       (C) All forms of news reporting and news commentary.
+  (d) Cyberpiracy prevention
+    (1)      (A) A person shall be liable in a civil action by the owner of a mark, including a personal name which is protected as a mark under this section, if, without regard to the goods or services of the parties, that person–
+        (i) has a bad faith intent to profit from that mark, including a personal name which is protected as a mark under this section; and
+        (ii) registers, traffics in, or uses a domain name that–
+          (I) in the case of a mark that is distinctive at the time of registration of the domain name, is identical or confusingly similar to that mark;
+          (II) in the case of a famous mark that is famous at the time of registration of the domain name, is identical or confusingly similar to or dilutive of that mark; or
+          (III) is a trademark, word, or name protected by reason of section 706 of title 18 or section 220506 of title 36.
+      (B)        (i) In determining whether a person has a bad faith intent described under subparagraph (A), a court may consider factors such as, but not limited to–
+          (I) the trademark or other intellectual property rights of the person, if any, in the domain name;
+          (II) the extent to which the domain name consists of the legal name of the person or a name that is otherwise commonly used to identify that person;
+          (III) the person“s prior use, if any, of the domain name in connection with the bona fide offering of any goods or services;
+          (IV) the person“s bona fide noncommercial or fair use of the mark in a site accessible under the domain name;
+          (V) the person“s intent to divert consumers from the mark owner“s online location to a site accessible under the domain name that could harm the goodwill represented by the mark, either for commercial gain or with the intent to tarnish or disparage the mark, by creating a likelihood of confusion as to the source, sponsorship, affiliation, or endorsement of the site;
+          (VI) the person“s offer to transfer, sell, or otherwise assign the domain name to the mark owner or any third party for financial gain without having used, or having an intent to use, the domain name in the bona fide offering of any goods or services, or the person“s prior conduct indicating a pattern of such conduct;
+          (VII) the person“s provision of material and misleading false contact information when applying for the registration of the domain name, the person“s intentional failure to maintain accurate contact information, or the person“s prior conduct indicating a pattern of such conduct;
+          (VIII) the person“s registration or acquisition of multiple domain names which the person knows are identical or confusingly similar to marks of others that are distinctive at the time of registration of such domain names, or dilutive of famous marks of others that are famous at the time of registration of such domain names, without regard to the goods or services of the parties; and
+          (IX) the extent to which the mark incorporated in the person“s domain name registration is or is not distinctive and famous within the meaning of subsection (c)(1) of this section.
+        (ii) Bad faith intent described under subparagraph (A) shall not be found in any case in which the court determines that the person believed and had reasonable grounds to believe that the use of the domain name was a fair use or otherwise lawful.
+      (C) In any civil action involving the registration, trafficking, or use of a domain name under this paragraph, a court may order the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark.
+      (D) A person shall be liable for using a domain name under subparagraph (A) only if that person is the domain name registrant or that registrant“s authorized licensee.
+      (E) As used in this paragraph, the term ””traffics in““ refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
+    (2)      (A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if–
+        (i) the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c) of this section; and
+        (ii) the court finds that the owner–
+          (I) is not able to obtain in personam jurisdiction over a person who would have been a defendant in a civil action under paragraph (1); or
+          (II) through due diligence was not able to find a person who would have been a defendant in a civil action under paragraph (1) by–
+            (aa) sending a notice of the alleged violation and intent to proceed under this paragraph to the registrant of the domain name at the postal and e-mail address provided by the registrant to the registrar; and
+            (bb) publishing notice of the action as the court may direct promptly after filing the action.
+      (B) The actions under subparagraph (A)(ii) shall constitute service of process.
+      (C) In an in rem action under this paragraph, a domain name shall be deemed to have its situs in the judicial district in which–
+        (i) the domain name registrar, registry, or other domain name authority that registered or assigned the domain name is located; or
+        (ii) documents sufficient to establish control and authority regarding the disposition of the registration and use of the domain name are deposited with the court.
+      (D)        (i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall–
+          (I) expeditiously deposit with the court documents sufficient to establish the court“s control and authority regarding the disposition of the registration and use of the domain name to the court; and
+          (II) not transfer, suspend, or otherwise modify the domain name during the pendency of the action, except upon order of the court.
+        (ii) The domain name registrar or registry or other domain name authority shall not be liable for injunctive or monetary relief under this paragraph except in the case of bad faith or reckless disregard, which includes a willful failure to comply with any such court order.
+    (3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy available under either such action, shall be in addition to any other civil action or remedy otherwise applicable.
+    (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.

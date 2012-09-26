@@ -24,3 +24,27 @@
          No provision of this paragraph–
         (i) affects or alters the protections otherwise applicable with respect to benefits established by any other provision \1\N Federal, State, or local law; or
         (ii) otherwise supersedes the application of any State or local law.
+    (3) Fee disclosures at automated teller machines
+      (A) In general
+         The regulations prescribed under paragraph (1) shall require any automated teller machine operator who imposes a fee on any consumer for providing host transfer services to such consumer to provide notice in accordance with subparagraph (B) to the consumer (at the time the service is provided) of–
+        (i) the fact that a fee is imposed by such operator for providing the service; and
+        (ii) the amount of any such fee.
+      (B) Notice requirements
+        (i) On the machine
+           The notice required under clause (i) of subparagraph (A) with respect to any fee described in such subparagraph shall be posted in a prominent and conspicuous location on or at the automated teller machine at which the electronic fund transfer is initiated by the consumer.
+        (ii) On the screen
+           The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
+      (C) Prohibition on fees not properly disclosed and explicitly assumed by consumer
+         No fee may be imposed by any automated teller machine operator in connection with any electronic fund transfer initiated by a consumer for which a notice is required under subparagraph (A), unless–
+        (i) the consumer receives such notice in accordance with subparagraph (B); and
+        (ii) the consumer elects to continue in the manner necessary to effect the transaction after receiving such notice.
+      (D) Definitions
+         For purposes of this paragraph, the following definitions shall apply:
+        (i) Automated teller machine operator
+           The term ””automated teller machine operator““ means any person who–
+          (I) operates an automated teller machine at which consumers initiate electronic fund transfers; and
+          (II) is not the financial institution that holds the account of such consumer from which the transfer is made.
+        (ii) Electronic fund transfer
+           The term ””electronic fund transfer““ includes a transaction that involves a balance inquiry initiated by a consumer in the same manner as an electronic fund transfer, whether or not the consumer initiates a transfer of funds in the course of the transaction.
+        (iii) Host transfer services
+           The term ””host transfer services““ means any electronic fund transfer made by an automated teller machine operator in connection with a transaction initiated by a consumer at an automated teller machine operated by such operator.
