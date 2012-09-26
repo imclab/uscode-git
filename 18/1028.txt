@@ -3,30 +3,46 @@
     (2) knowingly transfers an identification document or a false identification document knowing that such document was stolen or produced without lawful authority;
     (3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or more identification documents (other than those issued lawfully for the use of the possessor) or false identification documents;
     (4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor) or a false identification document, with the intent such document be used to defraud the United States;
-    (5) knowingly produces, transfers, or possesses a document-making implement with the intent such document-making implement will be used in the production of a false identification document or another document-making implement which will be so used; or
-    (6) knowingly possesses an identification document that is or appears to be an identification document of the United States which is stolen or produced without lawful authority knowing that such document was stolen or produced without such authority;
-       or attempts to do so, shall be punished as provided in subsection (b) of this section.
+    (5) knowingly produces, transfers, or possesses a document-making implement with the intent such document-making implement will be used in the production of a false identification document or another document-making implement which will be so used;
+    (6) knowingly possesses an identification document that is or appears to be an identification document of the United States which is stolen or produced without lawful authority knowing that such document was stolen or produced without such authority; or
+    (7) knowingly transfers or uses, without lawful authority, a means of identification of another person with the intent to commit, or to aid or abet, any unlawful activity that constitutes a violation of Federal law, or that constitutes a felony under any applicable State or local law;
+       shall be punished as provided in subsection (b) of this section.
   (b) The punishment for an offense under subsection (a) of this section is–
     (1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 15 years, or both, if the offense is–
       (A) the production or transfer of an identification document or false identification document that is or appears to be–
         (i) an identification document issued by or under the authority of the United States; or
         (ii) a birth certificate, or a driver“s license or personal identification card;
-      (B) the production or transfer of more than five identification documents or false identification documents; or
-      (C) an offense under paragraph (5) of such subsection;
+      (B) the production or transfer of more than five identification documents or false identification documents;
+      (C) an offense under paragraph (5) of such subsection; or
+      (D) an offense under paragraph (7) of such subsection that involves the transfer or use of 1 or more means of identification if, as a result of the offense, any individual committing the offense obtains anything of value aggregating $1,000 or more during any 1-year period;
     (2) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than three years, or both, if the offense is–
-      (A) any other production or transfer of an identification document or false identification document; or
-      (B) an offense under paragraph (3) of such subsection;
-    (3) a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in section 929(a)(2) of this title);
-    (4) a fine under this title or imprisonment for not more than 25 years, or both, if the offense is committed to facilitate an act of international terrorism (as defined in section 2331(1) of this title); and
-    (5) a fine under this title or imprisonment for not more than one year, or both, in any other case.
+      (A) any other production, transfer, or use of a means of identification, an identification document, or a false identification document; or
+      (B) an offense under paragraph (3) or (7) of such subsection;
+    (3) a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed–
+      (A) to facilitate a drug trafficking crime (as defined in section 929(a)(2));
+      (B) in connection with a crime of violence (as defined in section 924(c)(3)); or
+      (C) after a prior conviction under this section becomes final;
+    (4) a fine under this title or imprisonment for not more than 25 years, or both, if the offense is committed to facilitate an act of international terrorism (as defined in section 2331(1) of this title);
+    (5) in the case of any offense under subsection (a), forfeiture to the United States of any personal property used or intended to be used to commit the offense; and
+    (6) a fine under this title or imprisonment for not more than one year, or both, in any other case.
   (c) The circumstance referred to in subsection (a) of this section is that–
     (1) the identification document or false identification document is or appears to be issued by or under the authority of the United States or the document-making implement is designed or suited for making such an identification document or false identification document;
     (2) the offense is an offense under subsection (a)(4) of this section; or
-    (3) the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section.
-  (d) As used in this section–
-    (1) the term ””identification document““ means a document made or issued by or under the authority of the United States Government, a State, political subdivision of a State, a foreign government, political subdivision of a foreign government, an international governmental or an international quasi-governmental organization which, when completed with information concerning a particular individual, is of a type intended or commonly accepted for the purpose of identification of individuals;
-    (2) the term ””produce““ includes alter, authenticate, or assemble;
-    (3) the term ””document-making implement““ means any implement or impression specially designed or primarily used for making an identification document, a false identification document, or another document-making implement;
-    (4) the term ””personal identification card““ means an identification document issued by a State or local government solely for the purpose of identification; and
-    (5) the term ””State““ includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession or territory of the United States.
+    (3) either–
+      (A) the production, transfer, possession, or use prohibited by this section is in or affects interstate or foreign commerce; or
+      (B) the means of identification, identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, possession, or use prohibited by this section.
+  (d) In this section–
+    (1) the term ””document-making implement““ means any implement, impression, electronic device, or computer hardware or software, that is specifically configured or primarily used for making an identification document, a false identification document, or another document-making implement;
+    (2) the term ””identification document““ means a document made or issued by or under the authority of the United States Government, a State, political subdivision of a State, a foreign government, political subdivision of a foreign government, an international governmental or an international quasi-governmental organization which, when completed with information concerning a particular individual, is of a type intended or commonly accepted for the purpose of identification of individuals;
+    (3) the term ””means of identification““ means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any–
+      (A) name, social security number, date of birth, official State or government issued driver“s license or identification number, alien registration number, government passport number, employer or taxpayer identification number;
+      (B) unique biometric data, such as fingerprint, voice print, retina or iris image, or other unique physical representation;
+      (C) unique electronic identification number, address, or routing code; or 
+      (D) telecommunication identifying information or access device (as defined in section 1029(e));
+    (4) the term ””personal identification card““ means an identification document issued by a State or local government solely for the purpose of identification;
+    (5) the term ””produce““ includes alter, authenticate, or assemble; and
+    (6) the term ””State““ includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States.
   (e) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title.
+  (f) T4Attempt and ConspiracyK.–Any person who attempts or conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
+  (g) T4Forfeiture ProceduresK.–The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
+  (h) T4Rule of ConstructionK.–For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
