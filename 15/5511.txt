@@ -1,25 +1,23 @@
   (a) National High-Performance Computing Program
     (1) The President shall implement a National High-Performance Computing Program, which shall–
-      (A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities; and
-      (B) provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program.
-    (2) The Program shall–
-      (A) provide for the development of technologies to advance the capacity and capabilities of the Internet;
-      (B) provide for high performance testbed networks to enable the research, development, and demonstration of advanced networking technologies and to develop and demonstrate advanced applications made possible by the existence of such testbed networks;
-      (C) promote connectivity among computer networks of Federal agencies and departments;
-      (D) provide for efforts to increase software availability, productivity, capability, portability, and reliability;
-      (E) provide for improved dissemination of Federal agency data and electronic information;
-      (F) provide for acceleration of the development of high-performance computing systems, subsystems, and associated software;
-      (G) provide for the technical support and research and development of high-performance computing software and hardware needed to address Grand Challenges;
-      (H) provide for educating and training additional undergraduate and graduate students in software engineering, computer science, library and information science, and computational science; and
-        (I) provide–
-          (i) for the security requirements, policies, and standards necessary to protect Federal research computer networks and information resources accessible through Federal research computer networks, including research required to establish security standards for high-performance computing systems and networks; and
-          (ii) that agencies and departments identified in the annual report submitted under paragraph (3)(A) shall define and implement a security plan consistent with the Program and with applicable law.
-    (3) The Director shall–
-      (A) submit to the Congress an annual report, along with the President“s annual budget request, describing the implementation of the Program;
-      (B) provide for interagency coordination of the Program; and
-      (C) consult with academic, State, industry, and other appropriate groups conducting research on and using high-performance computing.
-    (4) The annual report submitted under paragraph (3)(A) shall–
-      (A) include a detailed description of the goals and priorities established by the President for the Program;
+      (A) provide for long-term basic and applied research on high-performance computing, including networking;
+      (B) provide for research and development on, and demonstration of, technologies to advance the capacity and capabilities of high-performance computing and networking systems, and related software;
+      (C) provide for sustained access by the research community throughout the United States to high-performance computing and networking systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems, including provision for technical support for users of such systems;
+      (D) provide for widely dispersed efforts to increase software availability, productivity, capability, security, portability, and reliability;
+      (E) provide for high-performance networks, including experimental testbed networks, to enable research and development on, and demonstration of, advanced applications enabled by such networks;
+      (F) provide for computational science and engineering research on mathematical modeling and algorithms for applications in all fields of science and engineering;
+      (G) provide for the technical support of, and research and development on, high-performance computing systems and software required to address Grand Challenges;
+      (H) provide for educating and training additional undergraduate and graduate students in software engineering, computer science, computer and network security, applied mathematics, library and information science, and computational science; and
+        (I) provide for improving the security of computing and networking systems, including Federal systems, including providing for research required to establish security standards and practices for these systems.
+    (2) The Director shall–
+      (A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities;
+      (B) establish Program Component Areas that implement the goals established under subparagraph (A), and identify the Grand Challenges that the Program should address;
+      (C) provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program;
+      (D) submit to the Congress an annual report, along with the President“s annual budget request, describing the implementation of the Program;
+      (E) develop and maintain a research, development, and deployment roadmap covering all States and regions for the provision of high-performance computing and networking systems under paragraph (1)(C); and
+      (F) consult with academic, State, industry, and other appropriate groups conducting research on and using high-performance computing.
+    (3) The annual report submitted under paragraph (2)(D) shall–
+      (A) provide a detailed description of the Program Component Areas, including a description of any changes in the definition of or activities under the Program Component Areas from the preceding report, and the reasons for such changes, and a description of Grand Challenges addressed under the Program;
       (B) set forth the relevant programs and activities, for the fiscal year with respect to which the budget submission applies, of each Federal agency and department, including–
         (i) the Department of Agriculture;
         (ii) the Department of Commerce;
@@ -32,19 +30,20 @@
         (ix) the National Aeronautics and Space Administration;
         (x) the National Science Foundation; and
         (xi) such other agencies and departments as the President or the Director considers appropriate;
-      (C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
-      (D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
-      (E) include the report of the Secretary of Energy required by section 5523(d) \1\N of this title; and
-      (F) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
+      (C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for each Program Component Area;
+      (D) describe the levels of Federal funding for each agency and department participating in the Program, and for each Program Component Area, for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies; and
+      (E) include an analysis of the progress made toward achieving the goals and priorities established for the Program and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b).
   (b) Advisory committee
-     The President shall establish an advisory committee on high-performance computing consisting of non-Federal members, including representatives of the research, education, and library communities, network providers, and industry, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of–
-    (1) progress made in implementing the Program;
-    (2) the need to revise the Program;
-    (3) the balance between the components of the Program;
-    (4) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in computing technology; and
-    (5) other issues identified by the Director.
+    (1) The President shall establish an advisory committee on high-performance computing, consisting of geographically dispersed non-Federal members, including representatives of the research, education, and library communities, network and related software providers, and industry representatives in the Program Component Areas, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of–
+      (A) progress made in implementing the Program;
+      (B) the need to revise the Program;
+      (C) the balance between the components of the Program, including funding levels for the Program Component Areas;
+      (D) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in high-performance computing, networking technology, and related software; and
+      (E) other issues identified by the Director.
+    (2) In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program. The advisory committee shall report not less frequently than once every 2 fiscal years to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations. The first report shall be due within 1 year after August 9, 2007.
+    (3) Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this subsection.
   (c) Office of Management and Budget
     (1) Each Federal agency and department participating in the Program shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which–
-      (A) identifies each element of its high-performance computing activities which contributes directly to the Program or benefits from the Program; and
+      (A) identifies each element of its high-performance computing activities which contributes directly to the Program Component Areas or benefits from the Program; and
       (B) states the portion of its request for appropriations that is allocated to each such element.
-    (2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(3)(A) of this section, and shall include, in the President“s annual budget estimate, a statement of the portion of each appropriate agency“s or department“s annual budget estimate relating to its activities undertaken pursuant to the Program.
+    (2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D) of this section, and shall include, in the President“s annual budget estimate, a statement of the portion of each appropriate agency“s or department“s annual budget estimate relating to its activities undertaken pursuant to the Program.
