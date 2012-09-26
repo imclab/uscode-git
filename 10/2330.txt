@@ -1,14 +1,31 @@
-  (a) T4Requirement for Management StructureK.–(1) The Secretary of Defense shall establish and implement a management structure for the procurement of services for the Department of Defense. The management structure shall be comparable to the management structure that applies to the procurement of products by the Department.
-  (2) The management structure required by paragraph (1) shall–
-    (A) provide for a designated official in each military department to exercise responsibility for the management of the procurement of services for such department;
-    (B) provide for a designated official for Defense Agencies and other defense components outside the military departments to exercise responsibility for the management of the procurement of services for such Defense Agencies and components;
-    (C) include a means by which employees of the departments, Defense Agencies, and components are accountable to such designated officials for carrying out the requirements of subsection (b); and
-    (D) establish specific dollar thresholds and other criteria for advance approvals of purchases under subsection (b)(1)(C) and delegations of activity under subsection (b)(2).
-  (b) T4Contracting Responsibilities of Designated OfficialsK.–(1) The responsibilities of an official designated under subsection (a) shall include, with respect to the procurement of services for the military department or Defense Agencies and components by that official, the following:
-    (A) Ensuring that the services are procured by means of contracts or task orders that are in the best interests of the Department of Defense and are entered into or issued and managed in compliance with applicable statutes, regulations, directives, and other requirements, regardless of whether the services are procured through a contract or task order of the Department of Defense or through a contract entered into or task order issued by an official of the United States outside the Department of Defense.
-    (B) Analyzing data collected under section 2330a of this title on contracts that are entered into for the procurement of services.
-    (C) Approving, in advance, any procurement of services above the thresholds established pursuant to subsection (a)(2)(D) that is to be made through the use of–
-      (i) a contract or task order that is not a performance-based contract or task order; or
-      (ii) a contract entered into, or a task order issued, by an official of the United States outside the Department of Defense.
-  (2) The responsibilities of a designated official may be delegated to other employees of the Department of Defense in accordance with the criteria established by the Secretary of Defense.
-  (c) T4DefinitionK.–In this section, the term ””performance-based““, with respect to a contract or a task order, means that the contract or task order, respectively, includes the use of performance work statements that set forth requirements in clear, specific, and objective terms with measurable outcomes.
+  (a) T4Requirement for Management StructureK.–The Secretary of Defense shall establish and implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the following:
+    (1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall–
+      (A) develop and maintain (in consultation with the service acquisition executives) policies, procedures, and best practices guidelines addressing the procurement of contract services, including policies, procedures, and best practices guidelines for–
+        (i) acquisition planning;
+        (ii) solicitation and contract award;
+        (iii) requirements development and management;
+        (iv) contract tracking and oversight;
+        (v) performance evaluation; and
+        (vi) risk management;
+      (B) work with the service acquisition executives and other appropriate officials of the Department of Defense–
+        (i) to identify the critical skills and competencies needed to carry out the procurement of contract services on behalf of the Department of Defense;
+        (ii) to develop a comprehensive strategy for recruiting, training, and deploying employees to meet the requirements for such skills and competencies; and
+        (iii) to ensure that the military departments and Defense Agencies have staff and administrative support that are adequate to effectively perform their duties under this section;
+      (C) establish contract services acquisition categories, based on dollar thresholds, for the purpose of establishing the level of review, decision authority, and applicable procedures in such categories; and
+      (D) oversee the implementation of the requirements of this section and the policies, procedures, and best practices guidelines established pursuant to subparagraph (A).
+    (2) The service acquisition executive of each military department shall be the senior official responsible for the management of acquisition of contract services for or on behalf of the military department.
+    (3) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be the senior official responsible for the management of acquisition of contract services for or on behalf of the Defense Agencies and other components of the Department of Defense outside the military departments.
+  (b) T4Duties and Responsibilities of Senior Officials Responsible for the Management of Acquisition of Contract ServicesK.–(1) Except as provided in paragraph (2), the senior officials responsible for the management of acquisition of contract services shall assign responsibility for the review and approval of procurements in each contract services acquisition category established under subsection (a)(1)(C) to specific Department of Defense officials, subject to the direction, supervision, and oversight of such senior officials.
+  (2) With respect to the acquisition of contract services by a component or command of the Department of Defense the primary mission of which is the acquisition of products and services, such acquisition shall be conducted in accordance with policies, procedures, and best practices guidelines developed and maintained by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to subsection (a)(1), subject to oversight by the senior officials referred to in paragraph (1).
+  (3) In carrying out paragraph (1), each senior official responsible for the management of acquisition of contract services shall–
+    (A) implement the requirements of this section and the policies, procedures, and best practices guidelines developed by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to subsection (a)(1)(A);
+    (B) authorize the procurement of contract services through contracts entered into by agencies outside the Department of Defense in appropriate circumstances, in accordance with the requirements of section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (10 U.S.C. 2304 note), section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (31 U.S.C. 1535 note), and the regulations implementing such sections;
+    (C) dedicate full-time commodity managers to coordinate the procurement of key categories of services;
+    (D) ensure that contract services are procured by means of procurement actions that are in the best interests of the Department of Defense and are entered into and managed in compliance with applicable laws, regulations, directives, and requirements;
+    (E) ensure that competitive procedures and performance-based contracting are used to the maximum extent practicable for the procurement of contract services; and
+    (F) monitor data collection under section 2330a of this title, and periodically conduct spending analyses, to ensure that funds expended for the procurement of contract services are being expended in the most rational and economical manner practicable.
+  (c) T4DefinitionsK.–In this section:
+    (1) The term ””procurement action““ includes the following actions:
+      (A) Entry into a contract or any other form of agreement.
+      (B) Issuance of a task order, delivery order, or military interdepartmental purchase request.
+    (2) The term ””contract services““ includes all services acquired from private sector entities by or for the Department of Defense, other than services relating to research and development or military construction.

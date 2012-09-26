@@ -1,5 +1,34 @@
-  (a) T4Requirement for Program ElementK.–The Secretary of Defense shall ensure that, within budget program elements for space programs of the Department of Defense, there is a separate, dedicated program element for operationally responsive national security payloads and buses of the Department of Defense for space satellites and that programs and activities for such payloads and buses are planned, programmed, and budgeted for through that program element.
-  (b) T4Management AuthorityK.–The Secretary of Defense shall assign management authority for the program element required under subsection (a) to the Director of the Office of Force Transformation of the Department of Defense.
-  (c) T4Definition of Operationally ResponsiveK.–In this section, the term ””operationally responsive““, with respect to a national security payload and bus for a space satellite, means an experimental or operational payload and bus with a weight not in excess of 5,000 pounds that–
-    (1) can be developed and acquired within 18 months after authority to proceed with development is granted; and
-    (2) is responsive to requirements for capabilities at the operational and tactical levels of warfare.
+  (a) T4EstablishmentK.–The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ””Office““).
+  (b) T4Head of OfficeK.–The head of the Office shall be–
+    (1) the Department of Defense Executive Agent for Space; or
+    (2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space.
+  (c) T4MissionK.–The mission of the Office shall be–
+    (1) to contribute to the development of low-cost, rapid reaction payloads, busses, spacelift, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution; and
+    (2) to coordinate and execute operationally responsive space efforts across the Department of Defense with respect to planning, acquisition, and operations.
+  (d) T4ElementsK.–The Secretary of Defense shall select the elements of the Department of Defense to be included in the Office so as to contribute to the development of capabilities for operationally responsive space and to achieve a balanced representation of the military departments in the Office to ensure proper acknowledgment of joint considerations in the activities of the Office, except that the Office shall include the following:
+    (1) A science and technology element that shall pursue innovative approaches to the development of capabilities for operationally responsive space through basic and applied research focused on (but not limited to) payloads, bus, and launch equipment.
+    (2) An acquisition element that shall undertake the acquisition of systems necessary to integrate, sustain, and launch assets for operationally responsive space.
+    (3) An operations element that shall–
+      (A) sustain and maintain assets for operationally responsive space prior to launch;
+      (B) integrate and launch such assets; and
+      (C) operate such assets in orbit.
+    (4) A combatant command support element that shall serve as the primary intermediary between the military departments and the combatant commands in order to–
+      (A) ascertain the needs of the commanders of the combatant commands; and
+      (B) integrate operationally responsive space capabilities into–
+        (i) operations plans of the combatant commands;
+        (ii) techniques, tactics, and procedures of the military departments; and
+        (iii) military exercises, demonstrations, and war games.
+    (5) Such other elements as the Secretary of Defense may consider necessary.
+  (e) T4Acquisition AuthorityK.–The acquisition activities of the Office shall be subject to the following:
+    (1) The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.
+    (2) The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office for operational experimentation.
+    (3) The commander of the United States Strategic Command, or the designee of the commander, shall–
+      (A) validate all system requirements for systems to be acquired by the Office; and
+      (B) participate in the approval of any acquisition program initiated by the Office.
+    (4) To the maximum extent practicable, the procurement unit cost of a launch vehicle procured by the Office for launch to low earth orbit should not exceed $20,000,000 (in constant dollars).
+    (5) To the maximum extent practicable, the procurement unit cost of an integrated satellite procured by the Office should not exceed $40,000,000 (in constant dollars).
+  (f) T4Required Program ElementK.–(1) The Secretary of Defense shall ensure that, within budget program elements for space programs of the Department of Defense, that–
+    (A) there is a separate, dedicated program element for operationally responsive space;
+    (B) to the extent applicable, relevant program elements should be consolidated into the program element required by subparagraph (A); and
+    (C) the Office executes its responsibilities through this program element.
+  (2) The Office shall manage the program element required by paragraph (1)(A).

@@ -19,28 +19,29 @@
     (4) The non-Army entity agrees to hold harmless and indemnify the United States from any liability or claim for damages or injury to any person or property arising out of the activity, including any damages or injury arising out of a decision by the Secretary of the Army or the Secretary of Defense to suspend or terminate an activity, or any portion thereof, during a war or national emergency or to require the facility to perform other work or provide other services on a priority basis, except–
       (A) in any case of willful misconduct or gross negligence; and
       (B) in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure of the United States to comply with quality, schedule, or cost performance requirements in the contract to carry out the activity.
-  (d) T4Arangement \1\N Methods and AuthoritiesK.–To establish a cooperative arrangement under subsection (a) with a non-Army entity, the approval authority described in subsection (e) for an Army industrial facility may–
+  (d) T4Arrangement Methods and AuthoritiesK.–To establish a cooperative arrangement under subsection (a) with a non-Army entity, the approval authority described in subsection (f) for an Army industrial facility may–
     (1) enter into a firm, fixed-price contract (or, if agreed to by the non-Army entity, a cost reimbursement contract) for a sale of articles or services or use of equipment or facilities;
     (2) enter into a multiyear contract for a period not to exceed five years, unless a longer period is specifically authorized by law;
     (3) charge the non-Army entity the amounts necessary to recover the full costs of the articles or services provided, including capital improvement costs, and equipment depreciation costs associated with providing the articles, services, equipment, or facilities;
     (4) authorize the non-Army entity to use incremental funding to pay for the articles, services, or use of equipment or facilities; and
     (5) accept payment-in-kind.
-  (e) T4Approval AuthorityK.–The authority of an Army industrial facility to enter into a cooperative arrangement under subsection (a) shall be exercised at the level of the commander of the major subordinate command of the Army that has responsibility for the facility. The commander may approve such an arrangement on a case-by-case basis or a class basis.
-  (f) T4Commercial SalesK.–Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (e) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
-  (g) T4Exclusion From Depot-Level Maintenance and Repair Percentage LimitationK.–Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at an Army industrial facility shall not be counted for purposes of applying the percentage limitation in section 2466(a) of this title if the personnel are provided by a non-Army entity pursuant to a cooperative arrangement entered into under subsection (a).
-  (h) T4Relationship to Other LawsK.–Nothing in this section shall be construed to affect the application of–
-    (1) foreign military sales and the export controls provided for in sections 30 and 38 of the Arms Export Control Act (22 U.S.C. 2770 and 2778) to activities of a cooperative arrangement entered into under subsection (a); and
-    (2) section 2667 of this title to leases of non-excess property in the administration of such an arrangement.
-      (i) T4DefinitionsK.–In this section:
-        (1) The term ””Army industrial facility““ includes an ammunition plant, an arsenal, a depot, and a manufacturing plant.
-        (2) The term ””non-Army entity““ includes the following:
-          (A) A Federal agency (other than the Department of the Army).
-          (B) An entity in industry or commercial sales.
-          (C) A State or political subdivision of a State.
-          (D) An institution of higher education or vocational training institution.
-        (3) The term ””incremental funding““ means a series of partial payments that–
-          (A) are made as the work on manufacture or articles is being performed or services are being performed or equipment or facilities are used, as the case may be; and
-          (B) result in full payment being completed as the required work is being completed.
-        (4) The term ””full costs““, with respect to articles or services provided under a cooperative arrangement entered into under subsection (a), means the variable costs and the fixed costs that are directly related to the production of the articles or the provision of the services.
-        (5) The term ””variable costs““ means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
-      (j) T4Expiration of AuthorityK.–The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2009, and arrangements entered into under such subsection shall terminate not later than that date.
+  (e) T4Proceeds Credited to Working Capital FundK.–The proceeds received from the sale of an article or service pursuant to a contract or other cooperative arrangement under this section shall be credited to the working capital fund that incurs the cost of manufacturing the article or performing the service.
+  (f) T4Approval AuthorityK.–The authority of an Army industrial facility to enter into a cooperative arrangement under subsection (a) shall be exercised at the level of the commander of the major subordinate command of the Army that has responsibility for the facility. The commander may approve such an arrangement on a case-by-case basis or a class basis.
+  (g) T4Commercial SalesK.–Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
+  (h) T4Exclusion From Depot-Level Maintenance and Repair Percentage LimitationK.–Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at an Army industrial facility shall not be counted for purposes of applying the percentage limitation in section 2466(a) of this title if the personnel are provided by a non-Army entity pursuant to a cooperative arrangement entered into under subsection (a).
+    (i) T4Relationship to Other LawsK.–Nothing in this section shall be construed to affect the application of–
+      (1) foreign military sales and the export controls provided for in sections 30 and 38 of the Arms Export Control Act (22 U.S.C. 2770 and 2778) to activities of a cooperative arrangement entered into under subsection (a); and
+      (2) section 2667 of this title to leases of non-excess property in the administration of such an arrangement.
+    (j) T4DefinitionsK.–In this section:
+      (1) The term ””Army industrial facility““ includes an ammunition plant, an arsenal, a depot, and a manufacturing plant.
+      (2) The term ””non-Army entity““ includes the following:
+        (A) A Federal agency (other than the Department of the Army).
+        (B) An entity in industry or commercial sales.
+        (C) A State or political subdivision of a State.
+        (D) An institution of higher education or vocational training institution.
+      (3) The term ””incremental funding““ means a series of partial payments that–
+        (A) are made as the work on manufacture or articles is being performed or services are being performed or equipment or facilities are used, as the case may be; and
+        (B) result in full payment being completed as the required work is being completed.
+      (4) The term ””full costs““, with respect to articles or services provided under a cooperative arrangement entered into under subsection (a), means the variable costs and the fixed costs that are directly related to the production of the articles or the provision of the services.
+      (5) The term ””variable costs““ means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
+    (k) T4Expiration of AuthorityK.–The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2009.

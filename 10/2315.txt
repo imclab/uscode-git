@@ -1,7 +1,1 @@
-  (a) For the purposes of subtitle III of title 40, the term ””national security systems““ means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which–
-    (1) involves intelligence activities;
-    (2) involves cryptologic activities related to national security;
-    (3) involves the command and control of military forces;
-    (4) involves equipment that is an integral part of a weapon or weapons system; or
-    (5) subject to subsection (b), is critical to the direct fulfillment of military or intelligence missions.
-  (b) Subsection (a)(5) does not include procurement of automatic data processing equipment or services to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
+   For purposes of subtitle III of title 40, the term ””national security system““, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3542(b)(2) of title 44.
