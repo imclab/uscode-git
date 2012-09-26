@@ -3,7 +3,7 @@
     (2) provide suitable quarters and provide for the safekeeping, care, and subsistence of all persons charged with or convicted of offenses against the United States, or held as witnesses or otherwise;
     (3) provide for the protection, instruction, and discipline of all persons charged with or convicted of offenses against the United States;
     (4) provide technical assistance to State and local governments in the improvement of their correctional systems; and
-    (5) provide notice of release of prisoners in accordance with subsection (b).
+    (5) provide notice of release of prisoners in accordance with subsections (b) and (c).
   (b) T4Notice of Release of PrisonersK.–(1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officer of the State and of the local jurisdiction in which the prisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
   (2) A notice under paragraph (1) shall disclose–
     (A) the prisoner“s name;
@@ -12,5 +12,17 @@
   (3) A prisoner is described in this paragraph if the prisoner was convicted of–
     (A) a drug trafficking crime, as that term is defined in section 924(c)(2); or
     (B) a crime of violence (as defined in section 924(c)(3)).
-  (4) The notice provided under this section shall be used solely for law enforcement purposes.
-  (c) T4Application of SectionK.–This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
+  (c) T4Notice of Sex Offender ReleaseK.–(1) In the case of a person described in paragraph (4) who is released from prison or sentenced to probation, notice shall be provided to–
+    (A) the chief law enforcement officer of the State and of the local jurisdiction in which the person will reside; and
+    (B) a State or local agency responsible for the receipt or maintenance of sex offender registration information in the State or local jurisdiction in which the person will reside.
+       The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
+  (2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall be subject to a registration requirement as a sex offender. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (4) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
+  (3) The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.
+  (4) A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
+    (A) An offense under section 1201 involving a minor victim.
+    (B) An offense under chapter 109A.
+    (C) An offense under chapter 110.
+    (D) An offense under chapter 117.
+    (E) Any other offense designated by the Attorney General as a sexual offense for purposes of this subsection.
+  (5) The United States and its agencies, officers, and employees shall be immune from liability based on good faith conduct in carrying out this subsection and subsection (b).
+  (d) T4Application of SectionK.–This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
