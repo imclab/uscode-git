@@ -110,8 +110,9 @@
          shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment or, within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless he determines that such amendment is necessary because of a substantial business hardship (as determined under section 1083(b) of this title) and that waiver under section 1083(a) of this title is unavailable or inadequate.
     (9)      (A) For purposes of this part, a determination of experience gains and losses and a valuation of the plan“s liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary of the Treasury.
       (B)        (i) Except as provided in clause (ii), the valuation referred to in subparagraph (A) shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
-        (ii) The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 125 percent of the plan“s current liability (as defined in paragraph (7)(B)).
+        (ii) The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan“s current liability (as defined in paragraph (7)(B)).
         (iii) Information under clause (ii) shall, in accordance with regulations, be actuarially adjusted to reflect significant differences in participants.
+        (iv) A change in funding method to use a prior year valuation, as provided in clause (ii), may not be made unless as of the valuation date within the prior plan year, the value of the assets of the plan are not less than 125 percent of the plan“s current liability (as defined in paragraph (7)(B)).
     (10) For purposes of this section–
       (A) In the case of a defined benefit plan other than a multiemployer plan, any contributions for a plan year made by an employer during the period–
         (i) beginning on the day after the last day of such plan year, and
@@ -269,6 +270,8 @@
              106  
               1999 and thereafter
              105.
+          (III) Special rule for 2002 and 2003
+             For a plan year beginning in 2002 or 2003, notwithstanding subclause (I), in the case that the rate of interest used under subsection (b)(5) of this section exceeds the highest rate permitted under subclause (I), the rate of interest used to determine current liability under this subsection may exceed the rate of interest otherwise permitted under subclause (I); except that such rate of interest shall not exceed 120 percent of the weighted average referred to in subsection (b)(5)(B)(ii) of this section.
         (ii) Mortality tables
           (I) Commissioners“ standard table
              In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this subsection shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners“ standard table (described in section 807(d)(5)(A) of title 26) used to determine reserves for group annuity contracts issued on January 1, 1993.
@@ -499,6 +502,12 @@
          In applying this subsection to a plan year beginning on any date other than January 1, there shall be substituted for the months specified in this subsection, the months which correspond thereto.
       (B) Short plan year
          This section shall be applied to plan years of less than 12 months in accordance with regulations prescribed by the Secretary of the Treasury.
+    (7) Special rules for 2002 and 2004
+       In any case in which the interest rate used to determine current liability is determined under subsection (d)(7)(C)(i)(III) of this section–
+      (A) 2002
+         For purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2002, the current liability for the preceding plan year shall be redetermined using 120 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
+      (B) 2004
+         For purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2004, the current liability for the preceding plan year shall be redetermined using 105 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
   (f) Imposition of lien where failure to make required contributions
     (1) In general
        In the case of a plan covered under section 1321 of this title, if–

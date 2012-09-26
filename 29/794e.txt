@@ -9,7 +9,7 @@
     (2) Electronic and information technology standards
       (A) In general
          Not later than 18 months after August 7, 1998, the Architectural and Transportation Barriers Compliance Board (referred to in this section as the ””Access Board““), after consultation with the Secretary of Education, the Administrator of General Services, the Secretary of Commerce, the Chairman of the Federal Communications Commission, the Secretary of Defense, and the head of any other Federal department or agency that the Access Board determines to be appropriate, including consultation on relevant research findings, and after consultation with the electronic and information technology industry and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities, shall issue and publish standards setting forth–
-        (i) for purposes of this section, a definition of electronic and information technology that is consistent with the definition of information technology specified in section 1401(3) of title 40; and
+        (i) for purposes of this section, a definition of electronic and information technology that is consistent with the definition of information technology specified in section 11101(6) of title 40; and
         (ii) the technical and functional performance criteria necessary to implement the requirements set forth in paragraph (1).
       (B) Review and amendment
          The Access Board shall periodically review and, as appropriate, amend the standards required under subparagraph (A) to reflect technological advances or changes in electronic and information technology.
@@ -18,7 +18,7 @@
     (4) Acquisition planning
        In the event that a Federal department or agency determines that compliance with the standards issued by the Access Board under paragraph (2) relating to procurement imposes an undue burden, the documentation by the department or agency supporting the procurement shall explain why compliance creates an undue burden.
     (5) Exemption for national security systems
-       This section shall not apply to national security systems, as that term is defined in section 1452 of title 40.
+       This section shall not apply to national security systems, as that term is defined in section 11103(a) of title 40.
     (6) Construction
       (A) Equipment
          In a case in which the Federal Government provides access to the public to information or data through electronic and information technology, nothing in this section shall be construed to require a Federal department or agency–

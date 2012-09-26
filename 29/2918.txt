@@ -1,8 +1,11 @@
   (a) In general
      The Secretary is authorized to award national emergency grants in a timely manner–
     (1) to an entity described in subsection (c) of this section to provide employment and training assistance to workers affected by major economic dislocations, such as plant closures, mass layoffs, or closures and realignments of military installations;
-    (2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the ””disaster area““) to provide disaster relief employment in the area; and
-    (3) to provide additional assistance to a State or local board for eligible dislocated workers in a case in which the State or local board has expended the funds provided under this section to carry out activities described in paragraphs (1) and (2) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary.
+    (2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the ””disaster area““) to provide disaster relief employment in the area;
+    (3) to provide additional assistance to a State or local board for eligible dislocated workers in a case in which the State or local board has expended the funds provided under this section to carry out activities described in paragraphs (1) and (2) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
+    (4) from funds appropriated under section 2919(c) of this title–
+      (A) to a State or entity (as defined in subsection (c)(1)(B) of this section) to carry out subsection (f) of this section, including providing assistance to eligible individuals; and
+      (B) to a State or entity (as so defined) to carry out subsection (g) of this section, including providing assistance to eligible individuals.
   (b) Administration
      The Secretary shall designate a dislocated worker office to coordinate the functions of the Secretary under this chapter relating to employment and training activities for dislocated workers, including activities carried out under the national emergency grants.
   (c) Employment and training assistance requirements
@@ -59,3 +62,120 @@
         (i) paragraph (2)(A) or (3) of section 2863(b) of this title; or
         (ii) paragraph (2)(B) of section 2863(b) of this title; and
       (B) shall use the funds in the same manner as the State uses other funds allocated under the appropriate paragraph of section 2863(b) of this title.
+  (f) Health insurance coverage assistance for eligible individuals
+    (1) In general
+       Funds made available to a State or entity under paragraph (4)(A) of subsection (a) of this section may be used by the State or entity for the following:
+      (A) Health insurance coverage
+         To assist an eligible individual and such individual“s qualifying family members in enrolling in qualified health insurance.
+      (B) Administrative and start-up expenses
+         To pay the administrative expenses related to the enrollment of eligible individuals and such individuals“ qualifying family members in qualified health insurance, including–
+        (i) eligibility verification activities;
+        (ii) the notification of eligible individuals of available qualified health insurance options;
+        (iii) processing qualified health insurance costs credit eligibility certificates provided for under section 7527 of title 26;
+        (iv) providing assistance to eligible individuals in enrolling in qualified health insurance;
+        (v) the development or installation of necessary data management systems; and
+        (vi) any other expenses determined appropriate by the Secretary, including start-up costs and on going administrative expenses to carry out clauses (iv) through (ix) of paragraph (2)(A).
+    (2) Qualified health insurance
+       For purposes of this subsection and subsection (g) of this section–
+      (A) In general
+         The term ””qualified health insurance““ means any of the following:
+        (i) Coverage under a COBRA continuation provision (as defined in section 1191b(d)(1) of this title).
+        (ii) State-based continuation coverage provided by the State under a State law that requires such coverage.
+        (iii) Coverage offered through a qualified State high risk pool (as defined in section 300gg–44(c)(2) of title 42).
+        (iv) Coverage under a health insurance program offered for State employees.
+        (v) Coverage under a State-based health insurance program that is comparable to the health insurance program offered for State employees.
+        (vi) Coverage through an arrangement entered into by a State and–
+          (I) a group health plan (including such a plan which is a multiemployer plan as defined in section 1002(37) of this title),
+          (II) an issuer of health insurance coverage,
+          (III) an administrator, or
+          (IV) an employer.
+        (vii) Coverage offered through a State arrangement with a private sector health care coverage purchasing pool.
+        (viii) Coverage under a State-operated health plan that does not receive any Federal financial participation.
+        (ix) Coverage under a group health plan that is available through the employment of the eligible individual“s spouse.
+        (x) In the case of any eligible individual and such individual“s qualifying family members, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for–
+          (I) in the case of an eligible TAA recipient, the allowance described in section 35(c)(2) of title 26,
+          (II) in the case of an eligible alternative TAA recipient, the benefit described in section 35(c)(3)(B) of such title, or
+          (III) in the case of any eligible PBGC pension recipient, the benefit described in section 35(c)(4)(B) of such title.
+              For purposes of this clause, the term ””individual health insurance““ means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
+      (B) Requirements for State-based coverage
+        (i) In general
+           The term ””qualified health insurance““ does not include any coverage described in clauses (ii) through (viii) of subparagraph (A) unless the State involved has elected to have such coverage treated as qualified health insurance under this paragraph and such coverage meets the following requirements:
+          (I) Guaranteed issue
+             Each qualifying individual is guaranteed enrollment if the individual pays the premium for enrollment or provides a qualified health insurance costs credit eligibility certificate described in section 7527 of title 26 and pays the remainder of such premium.
+          (II) No imposition of preexisting condition exclusion
+             No pre-existing condition limitations are imposed with respect to any qualifying individual.
+          (III) Nondiscriminatory premium
+             The total premium (as determined without regard to any subsidies) with respect to a qualifying individual may not be greater than the total premium (as so determined) for a similarly situated individual who is not a qualifying individual.
+          (IV) Same benefits
+             Benefits under the coverage are the same as (or substantially similar to) the benefits provided to similarly situated individuals who are not qualifying individuals.
+        (ii) Qualifying individual
+           For purposes of this subparagraph, the term ””qualifying individual““ means–
+          (I) an eligible individual for whom, as of the date on which the individual seeks to enroll in clauses (ii) through (viii) of subparagraph (A), the aggregate of the periods of creditable coverage (as defined in section 9801(c) of title 26) is 3 months or longer and who, with respect to any month, meets the requirements of clauses (iii) and (iv) of section 35(b)(1)(A) of such title; and
+          (II) the qualifying family members of such eligible individual.
+      (C) Exception
+         The term ””qualified health insurance““ shall not include–
+        (i) a flexible spending or similar arrangement, and
+        (ii) any insurance if substantially all of its coverage is of excepted benefits described in section 1191b(c) of this title.
+    (3) Availability of funds
+      (A) Expedited procedures
+         With respect to applications submitted by States or entities for grants under this subsection, the Secretary shall–
+        (i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity, notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
+        (ii) in the case of an application of a State or other entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in a timely manner to enable the State or entity to submit an approved application; and
+        (iii) develop procedures to expedite the provision of funds to States and entities with approved applications.
+      (B) Availability and distribution of funds
+         The Secretary shall ensure that funds made available under section 2919(c)(1)(A) of this title to carry out subsection (a)(4)(A) of this section are available to States and entities throughout the period described in section 2919(c)(2)(A) of this title.
+    (4) Eligible individual defined
+       For purposes of this subsection and subsection (g) of this section, the term ””eligible individual““ means–
+      (A) an eligible TAA recipient (as defined in section 35(c)(2) of title 26),
+      (B) an eligible alternative TAA recipient (as defined in section 35(c)(3) of title 26), and
+      (C) an eligible PBGC pension recipient (as defined in section 35(c)(4) of title 26),
+       who, as of the first day of the month, does not have other specified coverage and is not imprisoned under Federal, State, or local authority.
+    (5) Qualifying family member defined
+       For purposes of this subsection and subsection (g) of this section–
+      (A) In general
+         The term ””qualifying family member““ means–
+        (i) the eligible individual“s spouse, and
+        (ii) any dependent of the eligible individual with respect to whom the individual is entitled to a deduction under section 151(c) of title 26.
+         Such term does not include any individual who has other specified coverage.
+      (B) Special dependency test in case of divorced parents, etc.
+         If paragraph (2) or (4) of section 152(e) of such title applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in subparagraph (A)(ii) with respect to the custodial parent (within the meaning of section 152(e)(1) of such title) and not with respect to the noncustodial parent.
+    (6) State
+       For purposes of this subsection and subsection (g) of this section, the term ””State““ includes an entity as defined in subsection (c)(1)(B) of this section.
+    (7) Other specified coverage
+       For purposes of this subsection, an individual has other specified coverage for any month if, as of the first day of such month–
+      (A) Subsidized coverage
+        (i) In general
+           Such individual is covered under any insurance which constitutes medical care (except insurance substantially all of the coverage of which is of excepted benefits described in section 9832(c) of title 26) under any health plan maintained by any employer (or former employer) of the taxpayer or the taxpayer“s spouse and at least 50 percent of the cost of such coverage (determined under section 4980B of such title) is paid or incurred by the employer.
+        (ii) Eligible alternative TAA recipients
+           In the case of an eligible alternative TAA recipient (as defined in section 35(c)(3) of title 26), such individual is either–
+          (I) eligible for coverage under any qualified health insurance (other than insurance described in clause (i), (ii), or (vi) of paragraph (2)(A)) under which at least 50 percent of the cost of coverage (determined under section 4980B(f)(4) of such title) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer“s spouse, or
+          (II) covered under any such qualified health insurance under which any portion of the cost of coverage (as so determined) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer“s spouse.
+        (iii) Treatment of cafeteria plans
+           For purposes of clauses (i) and (ii), the cost of coverage shall be treated as paid or incurred by an employer to the extent the coverage is in lieu of a right to receive cash or other qualified benefits under a cafeteria plan (as defined in section 125(d) of title 26).
+      (B) Coverage under Medicare, Medicaid, or SCHIP
+         Such individual–
+        (i) is entitled to benefits under part A of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq.] or is enrolled under part B of such title [42 U.S.C. 1395j et seq.], or
+        (ii) is enrolled in the program under title XIX [42 U.S.C. 1396 et seq.] or XXI [42 U.S.C. 1397aa et seq.] of such Act (other than under section 1928 of such Act [42 U.S.C. 1396s]).
+      (C) Certain other coverage
+         Such individual–
+        (i) is enrolled in a health benefits plan under chapter 89 of title 5, or
+        (ii) is entitled to receive benefits under chapter 55 of title 10.
+  (g) Interim health insurance coverage and other assistance
+    (1) In general
+       Funds made available to a State or entity under paragraph (4)(B) of subsection (a) of this section may be used by the State or entity to provide assistance and support services to eligible individuals, including health care coverage to the extent provided under subsection (f)(1)(A) of this section, transportation, child care, dependent care, and income assistance.
+    (2) Income support
+       With respect to any income assistance provided to an eligible individual with such funds, such assistance shall supplement and not supplant other income support or assistance provided under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002) or the unemployment compensation laws of the State where the eligible individual resides.
+    (3) Health insurance coverage
+       With respect to any assistance provided to an eligible individual with such funds in enrolling in qualified health insurance, the following rules shall apply:
+      (A) The State or entity may provide assistance in obtaining such coverage to the eligible individual and to such individual“s qualifying family members.
+      (B) Such assistance shall supplement and may not supplant any other State or local funds used to provide health care coverage and may not be included in determining the amount of non-Federal contributions required under any program.
+    (4) Availability of funds
+      (A) Expedited procedures
+         With respect to applications submitted by States or entities for grants under this subsection, the Secretary shall–
+        (i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity, notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
+        (ii) in the case of an application of a State or entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in a timely manner to enable the State or entity to submit an approved application; and
+        (iii) develop procedures to expedite the provision of funds to States and entities with approved applications.
+      (B) Availability and distribution of funds
+         The Secretary shall ensure that funds made available under section 2919(c)(1)(B) of this title to carry out subsection (a)(4)(B) of this section are available to States and entities throughout the period described in section 2919(c)(2)(B) of this title.
+    (5) Inclusion of certain individuals as eligible individuals
+       For purposes of this subsection, the term ””eligible individual““ includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 [19 U.S.C. 2271 et seq.] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 [19 U.S.C. 2291(a)(3)(B)] (as so in effect).
