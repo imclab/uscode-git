@@ -3,6 +3,8 @@
       (A) The term ””beneficiary country““ means any country listed in subsection (b) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter. Before the President designates any country as a beneficiary country for purposes of this chapter, he shall notify the House of Representatives and the Senate of his intention to make such designation, together with the considerations entering into such decision.
       (B) The term ””entered““ means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
       (C) The term ””HTS““ means Harmonized Tariff Schedule of the United States.
+      (D) The term ””NAFTA““ means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+      (E) The terms ””WTO““ and ””WTO member““ have the meanings given those terms in section 3501 of this title.
     (2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
   (b) Countries eligible for designation as beneficiary countries; conditions
      In designating countries as ””beneficiary countries““ under this chapter the President shall consider only the following countries and territories or successor political entities:
@@ -68,10 +70,14 @@
     (11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
   (d) Omitted
   (e) Withdrawal or suspension of duty-free treatment to specific articles
-    (1) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met–
-      (A) withdraw or suspend the designation of any country as a beneficiary country, or
-      (B) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
-         if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.
+    (1)      (A) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met–
+        (i) withdraw or suspend the designation of any country as a beneficiary country, or
+        (ii) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
+           if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.
+      (B) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met–
+        (i) withdraw or suspend the designation of any country as a CBTPA beneficiary country; or
+        (ii) withdraw, suspend, or limit the application of preferential treatment under section 2703(b)(2) and (3) of this title to any article of any country,
+           if, after such designation, the President determines that, as a result of changed circumstances, the performance of such country is not satisfactory under the criteria set forth in section 2703(b)(5)(B) of this title.
     (2)      (A) The President shall publish in the Federal Register notice of the action the President proposes to take under paragraph (1) at least 30 days prior to taking such action.
       (B) The United States Trade Representative shall, within the 30-day period beginning on the date on which the President publishes under subparagraph (A) notice of proposed action–
         (i) accept written comments from the public regarding such proposed action,
@@ -79,5 +85,11 @@
         (iii) publish in the Federal Register–
           (I) notice of the time and place of such hearing prior to the hearing, and
           (II) the time and place at which such written comments will be accepted.
+    (3) If preferential treatment under section 2703(b)(2) and (3) of this title is withdrawn, suspended, or limited with respect to a CBTPA beneficiary country, such country shall not be deemed to be a ””party““ for the purposes of applying section 2703(b)(5)(C) of this title to imports of articles for which preferential treatment has been withdrawn, suspended, or limited with respect to such country.
   (f) Reporting requirements
-     On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.
+    (1) In general
+       Not later than December 31, 2001, and every 2 years thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to Congress a report regarding the operation of this chapter, including–
+      (A) with respect to subsections (b) and (c) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+      (B) the performance of each beneficiary country or CBTPA beneficiary country, as the case may be, under the criteria set forth in section 2703(b)(5)(B) of this title.
+    (2) Public comment
+       Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
