@@ -1,5 +1,65 @@
-  (a) T4Filing and VenueK.–Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) under this part may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
-  (b) T4Judicial ProceduresK.–When a petition is filed under subsection (a) of this section, the clerk of the court immediately shall send a copy of the petition to the Secretary or Administrator, as appropriate. The Secretary or Administrator shall file with the court a record of any proceeding in which the order was issued, as provided in section 2112 of title 28.
-  (c) T4Authority of CourtK.–When the petition is sent to the Secretary or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary or Administrator to conduct further proceedings. After reasonable notice to the Secretary or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary or Administrator, if supported by substantial evidence, are conclusive.
-  (d) T4Requirement for Prior ObjectionK.–In reviewing an order under this section, the court may consider an objection to an order of the Secretary or Administrator only if the objection was made in the proceeding conducted by the Secretary or Administrator or if there was a reasonable ground for not making the objection in the proceeding.
-  (e) T4Supreme Court ReviewK.–A decision by a court under this section may be reviewed only by the Supreme Court under section 1254 of title 28.
+  (a) T4General PenaltyK.–(1) A person is liable to the United States Government for a civil penalty of not more than $1,000 for violating–
+    (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section 46302, 46303, or 47107(b) (including any assurance made under such section) of this title;
+    (B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
+    (C) any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title; or
+    (D) a regulation of the United States Postal Service under this part.
+  (2) A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating–
+    (A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+    (B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
+  (3) A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to–
+    (A) the transportation of hazardous material; or
+    (B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation.
+  (4) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41715) continues or, if applicable, for each flight involving the violation (other than a violation of section 41715).
+  (5) T4Penalty for diversion of aviation revenuesK.–The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
+  (6) Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.
+  (b) T4Smoke Alarm Device PenaltyK.–(1) A passenger may not tamper with, disable, or destroy a smoke alarm device located in a lavatory on an aircraft providing air transportation or intrastate air transportation.
+  (2) An individual violating this subsection is liable to the Government for a civil penalty of not more than $2,000.
+  (c) T4Procedural RequirementsK.–(1) The Secretary of Transportation may impose a civil penalty for the following violations only after notice and an opportunity for a hearing:
+    (A) a violation of subsection (b) of this section or chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, or section 44909 of this title.
+    (B) a violation of a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
+    (C) a violation of any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title.
+    (D) a violation under subsection (a)(1) of this section related to the transportation of hazardous material.
+  (2) The Secretary shall give written notice of the finding of a violation and the civil penalty under paragraph (1) of this subsection.
+  (d) T4Administrative Imposition of PenaltiesK.–(1) In this subsection–
+    (A) ””flight engineer““ means an individual who holds a flight engineer certificate issued under part 63 of title 14, Code of Federal Regulations.
+    (B) ””mechanic““ means an individual who holds a mechanic certificate issued under part 65 of title 14, Code of Federal Regulations.
+    (C) ””pilot““ means an individual who holds a pilot certificate issued under part 61 of title 14, Code of Federal Regulations.
+    (D) ””repairman““ means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
+  (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46302, 46303, or 47107(b) (as further defined by the Secretary under section 47107(T3lK) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
+  (3) In a civil action to collect a civil penalty imposed by the Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
+  (4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Administrator initiates if–
+    (A) the amount in controversy is more than $50,000;
+    (B) the action is in rem or another action in rem based on the same violation has been brought;
+    (C) the action involves an aircraft subject to a lien that has been seized by the Government; or
+    (D) another action has been brought for an injunction based on the same violation.
+  (5)    (A) The Administrator may issue an order imposing a penalty under this subsection against an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
+    (B) An individual acting as a pilot, flight engineer, mechanic, or repairman may appeal an order imposing a penalty under this subsection to the National Transportation Safety Board. After notice and an opportunity for a hearing on the record, the Board shall affirm, modify, or reverse the order. The Board may modify a civil penalty imposed to a suspension or revocation of a certificate.
+    (C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+    (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
+  (6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+  (7)    (A) The Administrator may impose a penalty on an individual (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
+    (B) In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator shall consider only whether–
+      (i) each finding of fact is supported by a preponderance of reliable, probative, and substantial evidence;
+      (ii) each conclusion of law is made according to applicable law, precedent, and public policy; and
+      (iii) the judge committed a prejudicial error that supports the appeal.
+    (C) Except for good cause, a civil action involving a penalty under this paragraph may not be initiated later than 2 years after the violation occurs.
+    (D) In the case of a violation of section 47107(b) of this title or any assurance made under such section–
+      (i) a civil penalty shall not be assessed against an individual;
+      (ii) a civil penalty may be compromised as provided under subsection (f); and
+      (iii) judicial review of any order assessing a civil penalty may be obtained only pursuant to section 46110 of this title.
+  (8) The maximum civil penalty the Administrator or Board may impose under this subsection is $50,000.
+  (9) This subsection applies only to a violation occurring after August 25, 1992.
+  (e) T4Penalty ConsiderationsK.–In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary shall consider–
+    (1) the nature, circumstances, extent, and gravity of the violation;
+    (2) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on the ability to continue doing business; and
+    (3) other matters that justice requires.
+  (f) T4Compromise and SetoffK.–(1)(A) The Secretary may compromise the amount of a civil penalty imposed for violating–
+    (i) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909) of this title; or
+    (ii) a regulation prescribed or order issued under any provision to which clause (i) of this subparagraph applies.
+  (B) The Postal Service may compromise the amount of a civil penalty imposed under subsection (a)(1)(D) of this section.
+  (2) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
+  (g) T4Judicial ReviewK.–An order of the Secretary imposing a civil penalty may be reviewed judicially only under section 46110 of this title.
+  (h) T4NonapplicationK.–(1) This section does not apply to the following when performing official duties:
+    (A) a member of the armed forces of the United States.
+    (B) a civilian employee of the Department of Defense subject to the Uniform Code of Military Justice.
+  (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.

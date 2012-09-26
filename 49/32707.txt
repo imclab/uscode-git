@@ -1,20 +1,22 @@
-  (a) T4Authority To Inspect and InvestigateK.–Subject to section 32707 of this title, the Secretary of Transportation may conduct an inspection or investigation necessary to carry out this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall cooperate with State and local officials to the greatest extent possible in conducting an inspection or investigation. The Secretary may give the Attorney General information about a violation of this chapter or a regulation prescribed or order issued under this chapter.
-  (b) T4Entry, Inspection, and ImpoundmentK.–(1) In carrying out subsection (a) of this section, an officer or employee designated by the Secretary, on display of proper credentials and written notice to the owner, operator, or agent in charge, may–
-    (A) enter and inspect commercial premises in which a motor vehicle or motor vehicle equipment is manufactured, held for shipment or sale, maintained, or repaired;
-    (B) enter and inspect noncommercial premises in which the Secretary reasonably believes there is a motor vehicle or motor vehicle equipment that is an object of a violation of this chapter;
-    (C) inspect that motor vehicle or motor vehicle equipment; and
-    (D) impound for not more than 72 hours for inspection a motor vehicle or motor vehicle equipment that the Secretary reasonably believes is an object of a violation of this chapter.
-  (2) An inspection or impoundment under this subsection shall be conducted at a reasonable time, in a reasonable way, and with reasonable promptness. The written notice may consist of a warrant issued under section 32707 of this title.
-  (c) T4Reasonable CompensationK.–When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter II \1\N of chapter 105 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle or equipment.
-  (d) T4Records and Information RequirementsK.–(1) To enable the Secretary to decide whether a dealer or distributor is complying with this chapter and regulations prescribed and orders issued under this chapter, the Secretary may require the dealer or distributor–
-    (A) to keep records;
-    (B) to provide information from those records if the Secretary states the purpose for requiring the information and identifies the information to the fullest extent practicable; and
-    (C) to allow an officer or employee designated by the Secretary to inspect relevant records of the dealer or distributor.
-  (2) This subsection and subsection (e)(1)(B) of this section do not authorize the Secretary to require a dealer or distributor to provide information on a regular periodic basis.
-  (e) T4Administrative Authority and Civil Actions To EnforceK.–(1) In carrying out this chapter, the Secretary may–
-    (A) inspect and copy records of any person at reasonable times;
-    (B) order a person to file written reports or answers to specific questions, including reports or answers under oath; and
-    (C) conduct hearings, administer oaths, take testimony, and require (by subpena or otherwise) the appearance and testimony of witnesses and the production of records the Secretary considers advisable.
-  (2) A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
-  (3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
-  (f) T4ProhibitionsK.–A person may not fail to keep records, refuse access to or copying of records, fail to make reports or provide information, fail to allow entry or inspection, or fail to permit impoundment, as required under this section.
+  (a) T4DefinitionK.–In this section, ””probable cause““ means a valid public interest in the effective enforcement of this chapter or a regulation prescribed under this chapter sufficient to justify the inspection or impoundment in the circumstances stated in an application for a warrant under this section.
+  (b) T4Warrant Requirement and IssuanceK.–(1) Except as provided in paragraph (4) of this subsection, an inspection or impoundment under section 32706 of this title may be carried out only after a warrant is obtained.
+  (2) A judge of a court of the United States or a State court of record or a United States magistrate may issue a warrant for an inspection or impoundment under section 32706 of this title within the territorial jurisdiction of the court or magistrate. The warrant must be based on an affidavit that–
+    (A) establishes probable cause to issue the warrant; and
+    (B) is sworn to before the judge or magistrate by an officer or employee who knows the facts alleged in the affidavit.
+  (3) The judge or magistrate shall issue the warrant when the judge or magistrate decides there is a reasonable basis for believing that probable cause exists to issue the warrant. The warrant must–
+    (A) identify the premises, property, or motor vehicle to be inspected and the items or type of property to be impounded;
+    (B) state the purpose of the inspection, the basis for issuing the warrant, and the name of the affiant;
+    (C) direct an individual authorized under section 32706 of this title to inspect the premises, property, or vehicle for the purpose stated in the warrant and, when appropriate, to impound the property specified in the warrant;
+    (D) direct that the warrant be served during the hours specified in the warrant; and
+    (E) name the judge or magistrate with whom proof of service is to be filed.
+  (4) A warrant under this section is not required when–
+    (A) the owner, operator, or agent in charge of the premises consents;
+    (B) it is reasonable to believe that the mobility of the motor vehicle to be inspected makes it impractical to obtain a warrant;
+    (C) an application for a warrant cannot be made because of an emergency;
+    (D) records are to be inspected and copied under section 32706(e)(1)(A) of this title; or
+    (E) a warrant is not constitutionally required.
+  (c) T4Service and Impoundment of PropertyK.–(1) A warrant issued under this section must be served and proof of service filed not later than 10 days after its issuance date. The judge or magistrate may allow additional time in the warrant if the Secretary of Transportation demonstrates a need for additional time. Proof of service must be filed promptly with a written inventory of the property impounded under the warrant. The inventory shall be made in the presence of the individual serving the warrant and the individual from whose possession or premises the property was impounded, or if that individual is not present, a credible individual except the individual making the inventory. The individual serving the warrant shall verify the inventory. On request, the judge or magistrate shall send a copy of the inventory to the individual from whose possession or premises the property was impounded and to the applicant for the warrant.
+  (2) When property is impounded under a warrant, the individual serving the warrant shall–
+    (A) give the person from whose possession or premises the property was impounded a copy of the warrant and a receipt for the property; or
+    (B) leave the copy and receipt at the place from which the property was impounded.
+  (3) The judge or magistrate shall file the warrant, proof of service, and all documents filed about the warrant with the clerk of the United States district court for the judicial district in which the inspection is made.

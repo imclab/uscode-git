@@ -1,6 +1,12 @@
-  (a) T4Maintenance InformationK.–Not later than October 24, 1993, the Secretary of Transportation shall prescribe regulations requiring an operator of a natural gas distribution pipeline that does not maintain customer-owned natural gas service lines up to building walls to advise its customers of–
-    (1) the requirements for maintaining those lines;
-    (2) any resources known to the operator that could assist customers in carrying out the maintenance;
-    (3) information the operator has on operating and maintaining its lines that could assist customers; and
-    (4) the potential hazards of not maintaining the lines.
-  (b) T4Actions To Promote SafetyK.–Not later than one year after submitting the report required under section 115(b) of the Pipeline Safety Act of 1992 (Public Law 102–508, 106 Stat. 3296), the Secretary, considering the report and in cooperation and coordination with appropriate State and local authorities, shall take appropriate action to promote the adoption of measures to improve the safety of customer-owned natural gas service lines.
+  (a) T4Minimum RequirementsK.–The Secretary of Transportation shall prescribe regulations providing minimum requirements for establishing and operating a one-call notification system for a State to adopt that will notify an operator of a pipeline facility of activity in the vicinity of the facility that could threaten the safety of the facility. The regulations shall include the following:
+    (1) a requirement that the system apply to all areas of the State containing underground pipeline facilities.
+    (2) a requirement that a person intending to engage in an activity the Secretary decides could cause physical damage to an underground facility must contact the appropriate system to establish if there are underground facilities present in the area of the intended activity.
+    (3) a requirement that all operators of underground pipeline facilities participate in an appropriate one-call notification system.
+    (4) qualifications for an operator of a facility, a private contractor, or a State or local authority to operate a system.
+    (5) procedures for advertisement and notice of the availability of a system.
+    (6) a requirement about the information to be provided by a person contacting the system under clause (2) of this subsection.
+    (7) a requirement for the response of the operator of the system and of the facility after they are contacted by an individual under this subsection.
+    (8) a requirement that each State decide whether the system will be toll free.
+    (9) a requirement for sanctions substantially the same as provided under sections 60120 and 60122 of this title.
+  (b) T4Marking FacilitiesK.–On notification by an operator of a damage prevention program or by a person planning to carry out demolition, excavation, tunneling, or construction in the vicinity of a pipeline facility, the operator of the facility shall mark accurately, in a reasonable and timely way, the location of the pipeline facilities in the vicinity of the demolition, excavation, tunneling, or construction.
+  (d) \1\N T4Relationship to Other LawsK.–This section and regulations prescribed under this section do not affect the liability established under a law of the United States or a State for damage caused by an activity described in subsection (a)(2) of this section.

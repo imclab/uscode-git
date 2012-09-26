@@ -1,3 +1,53 @@
-   Except to the extent that State law is inconsistent with this chapter, this chapter does not–
-  (1) affect a State law on disconnecting, altering, or tampering with an odometer with intent to defraud; or
-  (2) exempt a person from complying with that law.
+  (a) T4GeneralK.–In this chapter–
+    (1) ””alternative fuel““ means–
+      (A) methanol;
+      (B) denatured ethanol;
+      (C) other alcohols;
+      (D) except as provided in subsection (b) of this section, a mixture containing at least 85 percent of methanol, denatured ethanol, and other alcohols by volume with gasoline or other fuels;
+      (E) natural gas;
+      (F) liquefied petroleum gas;
+      (G) hydrogen;
+      (H) coal derived liquid fuels;
+      (I) fuels (except alcohol) derived from biological materials;
+      (J) electricity (including electricity from solar energy); and
+      (K) any other fuel the Secretary of Transportation prescribes by regulation that is not substantially petroleum and that would yield substantial energy security and environmental benefits.
+    (2) ””alternative fueled automobile““ means an automobile that is a–
+      (A) dedicated automobile; or
+      (B) dual fueled automobile.
+    (3) except as provided in section 32908 of this title, ””automobile““ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at–
+      (A) not more than 6,000 pounds gross vehicle weight; or
+      (B) more than 6,000, but less than 10,000, pounds gross vehicle weight, if the Secretary decides by regulation that–
+        (i) an average fuel economy standard under this chapter for the vehicle is feasible; and
+        (ii) an average fuel economy standard under this chapter for the vehicle will result in significant energy conservation or the vehicle is substantially used for the same purposes as a vehicle rated at not more than 6,000 pounds gross vehicle weight.
+    (4) ””automobile manufactured by a manufacturer““ includes every automobile manufactured by a person that controls, is controlled by, or is under common control with the manufacturer, but does not include an automobile manufactured by the person that is exported not later than 30 days after the end of the model year in which the automobile is manufactured.
+    (5) ””average fuel economy““ means average fuel economy determined under section 32904 of this title.
+    (6) ””average fuel economy standard““ means a performance standard specifying a minimum level of average fuel economy applicable to a manufacturer in a model year.
+    (7) ””dedicated automobile““ means an automobile that operates only on alternative fuel.
+    (8) ””dual fueled automobile““ means an automobile that–
+      (A) is capable of operating on alternative fuel and on gasoline or diesel fuel;
+      (B) provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the United States Government, when operating on alternative fuel as when operating on gasoline or diesel fuel;
+      (C) for model years 1993–1995 for an automobile capable of operating on a mixture of an alternative fuel and gasoline or diesel fuel and if the Administrator of the Environmental Protection Agency decides to extend the application of this subclause, for an additional period ending not later than the end of the last model year to which section 32905(b) and (d) of this title applies, provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the Government, when operating on a mixture of alternative fuel and gasoline or diesel fuel containing exactly 50 percent gasoline or diesel fuel as when operating on gasoline or diesel fuel; and
+      (D) for a passenger automobile, meets or exceeds the minimum driving range prescribed under subsection (c) of this section.
+    (9) ””fuel““ means–
+      (A) gasoline;
+      (B) diesel oil; or
+      (C) other liquid or gaseous fuel that the Secretary decides by regulation to include in this definition as consistent with the need of the United States to conserve energy.
+    (10) ””fuel economy““ means the average number of miles traveled by an automobile for each gallon of gasoline (or equivalent amount of other fuel) used, as determined by the Administrator under section 32904(c) of this title.
+    (11) ””import““ means to import into the customs territory of the United States.
+    (12) ””manufacture““ (except under section 32902(d) of this title) means to produce or assemble in the customs territory of the United States or to import.
+    (13) ””manufacturer““ means–
+      (A) a person engaged in the business of manufacturing automobiles, including a predecessor or successor of the person to the extent provided under regulations prescribed by the Secretary; and
+      (B) if more than one person is the manufacturer of an automobile, the person specified under regulations prescribed by the Secretary.
+    (14) ””model““ means a class of automobiles as decided by regulation by the Administrator after consulting and coordinating with the Secretary.
+    (15) ””model year““, when referring to a specific calendar year, means–
+      (A) the annual production period of a manufacturer, as decided by the Administrator, that includes January 1 of that calendar year; or
+      (B) that calendar year if the manufacturer does not have an annual production period.
+    (16) ””passenger automobile““ means an automobile that the Secretary decides by regulation is manufactured primarily for transporting not more than 10 individuals, but does not include an automobile capable of off-highway operation that the Secretary decides by regulation–
+      (A) has a significant feature (except 4-wheel drive) designed for off-highway operation; and
+      (B) is a 4-wheel drive automobile or is rated at more than 6,000 pounds gross vehicle weight.
+  (b) T4Authority To Change PercentageK.–The Secretary may prescribe regulations changing the percentage referred to in subsection (a)(1)(D) of this section to not less than 70 percent because of requirements relating to cold start, safety, or vehicle functions.
+  (c) T4Minimum Driving Ranges for Dual Fueled Passenger AutomobilesK.–(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
+  (2)    (A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
+    (B) The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles.
+    (C) If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles).
+  (3) In prescribing a minimum driving range under paragraph (1) of this subsection and in taking an action under paragraph (2) of this subsection, the Secretary shall consider the purpose set forth in section 3 of the Alternative Motor Fuels Act of 1988 (Public Law 100–494, 102 Stat. 2442), consumer acceptability, economic practicability, technology, environmental impact, safety, drivability, performance, and other factors the Secretary considers relevant.

@@ -1,13 +1,23 @@
-  (a) T4DefinitionK.–In this section, ””person““ includes a governmental authority, political subdivision, authority, legal representative, trust, unincorporated organization, trustee, trustee in bankruptcy, and receiver.
-  (b) T4ProhibitionsK.–A person may not be excluded from participating in, denied a benefit of, or discriminated against under, a project, program, or activity receiving financial assistance under this chapter because of race, color, creed, national origin, sex, or age.
-  (c) T4ComplianceK.–(1) The Secretary of Transportation shall take affirmative action to ensure compliance with subsection (b) of this section.
-  (2) When the Secretary decides that a person receiving financial assistance under this chapter is not complying with subsection (b) of this section, a civil rights law of the United States, or a regulation or order under that law, the Secretary shall notify the person of the decision and require action be taken to ensure compliance with subsection (b).
-  (d) T4Authority of Secretary for NoncomplianceK.–If a person does not comply with subsection (b) of this section within a reasonable time after receiving notice, the Secretary shall–
-    (1) direct that no further financial assistance of the United States Government under this chapter be provided to the person;
-    (2) refer the matter to the Attorney General with a recommendation that a civil action be brought;
-    (3) proceed under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.); and
-    (4) take any other action provided by law.
-  (e) T4Civil Actions by Attorney GeneralK.–The Attorney General may bring a civil action for appropriate relief when–
-    (1) a matter is referred to the Attorney General under subsection (d)(2) of this section; or
-    (2) the Attorney General believes a person is engaged in a pattern or practice in violation of this section.
-  (f) T4Application and Relationship to Other LawsK.–This section applies to an employment or business opportunity and is in addition to title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+  (a) T4Reporting System and Uniform System of Accounts and RecordsK.–(1) To help meet the needs of individual mass transportation systems, the United States Government, State and local governments, and the public for information on which to base mass transportation service planning, the Secretary of Transportation shall maintain a reporting system, by uniform categories, to accumulate mass transportation financial and operating information and a uniform system of accounts and records. The reporting and uniform systems shall contain appropriate information to help any level of government make a public sector investment decision. The Secretary may request and receive appropriate information from any source.
+  (2) The Secretary may make a grant under section 5307 of this title only if the applicant, and any person that will receive benefits directly from the grant, are subject to the reporting and uniform systems.
+  (b) T4Quarterly ReportsK.–Not later than 30 days after the last day of each calendar quarter, the Secretary shall submit to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate a report on–
+    (1) obligations by State, designated recipient, and applicant made under this chapter during the quarter;
+    (2) the balance of unobligated apportionments under this chapter on the last day of the quarter;
+    (3) the balance of unobligated amounts under this chapter on the last day of the quarter that the Secretary may expend;
+    (4) letters of intent issued during the quarter;
+    (5) letters of intent outstanding on the last day of the quarter; and
+    (6) grant contracts executed and reimbursement authority established for amounts obligated for each State, designated recipient, and applicant.
+  (c) T4Biennial Needs ReportK.–In January 1993, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing an evaluation of the extent to which current mass transportation needs are addressed adequately and an estimate of the future mass transportation needs of the United States, including mass transportation needs in rural areas (particularly access to health care facilities). The report shall include–
+    (1) an assessment of needs related to rail modernization, guideway modernization, replacing, rehabilitating, and buying buses and related equipment, constructing bus related facilities, and constructing new fixed guideway systems and extensions to existing fixed guideway systems;
+    (2) a 5-year projection of maintenance and modernization needs resulting from aging of existing equipment and facilities, including the need to overhaul or replace existing bus fleets and rolling stock used on fixed guideway systems;
+    (3) a 5-year projection of the need to invest in the expansion of existing mass transportation systems to meet changing economic, commuter, and residential patterns;
+    (4) an estimate of the level of expenditure needed to satisfy the needs identified in clauses (1)–(3) of this paragraph;
+    (5) an examination of existing Government, State, local, and private resources that are or reasonably can be expected to be made available to support public mass transportation; and
+    (6) the gap between the level of expenditure estimated under clause (4) of this paragraph and the level of resources identified under clause (5) of this paragraph that are available to meet the needs.
+  (d) T4Biennial Transferability ReportK.–In January 1993, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on carrying out section 5307(b)(5) of this title. The report shall–
+    (1) identify, by State, the amount of mass transportation money transferred for non-mass transportation purposes under section 5307(b)(5) of this title during the prior fiscal year;
+    (2) include an assessment of the impact of the transfers on the mass transportation needs of individuals and communities in the State, including the impact on–
+      (A) the State“s ability to meet the mass transportation needs of elderly individuals and individuals with disabilities;
+      (B) efforts to meet the objectives of the Clean Air Act (42 U.S.C. 7401 et seq.) and the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
+      (C) the State“s efforts to extend public mass transportation services to unserved rural areas; and
+    (3) examine the relative levels of Government mass transportation assistance and services in urban and rural areas in the fiscal year that ended September 30, 1991, and the extent to which the assistance and service has changed in later fiscal years because of mass transportation resources made available under this chapter and the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 1914).

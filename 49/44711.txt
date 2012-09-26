@@ -1,25 +1,13 @@
-  (a) T4DefinitionK.–In this section, ””controlled substance““ has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
-  (b) T4RevocationK.–(1) The Administrator of the Federal Aviation Administration shall issue an order revoking an airman certificate issued an individual under section 44703 of this title after the individual is convicted, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), of an offense punishable by death or imprisonment for more than one year if the Administrator finds that–
-    (A) an aircraft was used to commit, or facilitate the commission of, the offense; and
-    (B) the individual served as an airman, or was on the aircraft, in connection with committing, or facilitating the commission of, the offense.
-  (2) The Administrator shall issue an order revoking an airman certificate issued an individual under section 44703 of this title if the Administrator finds that–
-    (A) the individual knowingly carried out an activity punishable, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year;
-    (B) an aircraft was used to carry out or facilitate the activity; and
-    (C) the individual served as an airman, or was on the aircraft, in connection with carrying out, or facilitating the carrying out of, the activity.
-  (3) The Administrator has no authority under paragraph (1) of this subsection to review whether an airman violated a law of the United States or a State related to a controlled substance.
-  (c) T4Advice to Holders and Opportunity To AnswerK.–Before the Administrator revokes a certificate under subsection (b) of this section, the Administrator must–
-    (1) advise the holder of the certificate of the charges or reasons on which the Administrator relies for the proposed revocation; and
-    (2) provide the holder of the certificate an opportunity to answer the charges and be heard why the certificate should not be revoked.
-  (d) T4AppealsK.–(1) An individual whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and an opportunity for a hearing on the record. When conducting the hearing, the Board is not bound by findings of fact of the Administrator but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
-  (2) When an individual files an appeal with the Board under this subsection, the order of the Administrator revoking the certificate is stayed. However, if the Administrator advises the Board that safety in air transportation or air commerce requires the immediate effectiveness of the order–
-    (A) the order remains effective; and
-    (B) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board.
-  (3) An individual substantially affected by an order of the Board under this subsection, or the Administrator when the Administrator decides that an order of the Board will have a significant adverse effect on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
-  (e) T4AcquittalK.–(1) The Administrator may not revoke, and the Board may not affirm a revocation of, an airman certificate under subsection (b)(2) of this section on the basis of an activity described in subsection (b)(2)(A) if the holder of the certificate is acquitted of all charges related to a controlled substance in an indictment or information arising from the activity.
-  (2) If the Administrator has revoked an airman certificate under this section because of an activity described in subsection (b)(2)(A) of this section, the Administrator shall reissue a certificate to the individual if–
-    (A) the individual otherwise satisfies the requirements for a certificate under section 44703 of this title; and
-    (B)      (i) the individual subsequently is acquitted of all charges related to a controlled substance in an indictment or information arising from the activity; or
-      (ii) the conviction on which a revocation under subsection (b)(1) of this section is based is reversed.
-  (f) T4WaiversK.–The Administrator may waive the requirement of subsection (b) of this section that an airman certificate of an individual be revoked if–
-    (1) a law enforcement official of the United States Government or of a State requests a waiver; and
-    (2) the Administrator decides that the waiver will facilitate law enforcement efforts.
+  (a) T4ProhibitionsK.–A person may not–
+    (1) operate a civil aircraft in air commerce without an airworthiness certificate in effect or in violation of a term of the certificate;
+    (2) serve in any capacity as an airman with respect to a civil aircraft, aircraft engine, propeller, or appliance used, or intended for use, in air commerce–
+      (A) without an airman certificate authorizing the airman to serve in the capacity for which the certificate was issued; or
+      (B) in violation of a term of the certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
+    (3) employ for service related to civil aircraft used in air commerce an airman who does not have an airman certificate authorizing the airman to serve in the capacity for which the airman is employed;
+    (4) operate as an air carrier without an air carrier operating certificate or in violation of a term of the certificate;
+    (5) operate aircraft in air commerce in violation of a regulation prescribed or certificate issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
+    (6) operate a seaplane or other aircraft of United States registry on the high seas in violation of a regulation under section 3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602);
+    (7) violate a term of an air agency or production certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title related to the holder of the certificate;
+    (8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate; or
+    (9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title.
+  (b) T4ExemptionK.–On terms the Administrator of the Federal Aviation Administration prescribes as being in the public interest, the Administrator may exempt a foreign aircraft and airmen serving on the aircraft from subsection (a) of this section. However, an exemption from observing air traffic regulations may not be granted.

@@ -1,4 +1,37 @@
-  (a) T4Submission and PreparationK.–An airport operator may submit to the Secretary of Transportation a noise exposure map showing the noncompatible uses in each area of the map on the date the map is submitted, a description of estimated aircraft operations during 1985, and how those operations will affect the map. The map shall–
-    (1) be prepared in consultation with public agencies and planning authorities in the area surrounding the airport; and
-    (2) comply with regulations prescribed under section 47502 of this title.
-  (b) T4Revised MapsK.–If a change in the operation of an airport will establish a substantial new noncompatible use in an area surrounding the airport, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use.
+  (a) T4SubmissionsK.–(1) An airport operator that submitted a noise exposure map and related information under section 47503(a) of this title may submit a noise compatibility program to the Secretary of Transportation after–
+    (A) consulting with public agencies and planning authorities in the area surrounding the airport, United States Government officials having local responsibility for the airport, and air carriers using the airport; and
+    (B) notice and an opportunity for a public hearing.
+  (2) A program submitted under paragraph (1) of this subsection shall state the measures the operator has taken or proposes to take to reduce existing noncompatible uses and prevent introducing additional noncompatible uses in the area covered by the map. The measures may include–
+    (A) establishing a preferential runway system;
+    (B) restricting the use of the airport by a type or class of aircraft because of the noise characteristics of the aircraft;
+    (C) constructing barriers and acoustical shielding and soundproofing public buildings;
+    (D) using flight procedures to control the operation of aircraft to reduce exposure of individuals to noise in the area surrounding the airport; and
+    (E) acquiring land, air rights, easements, development rights, and other interests to ensure that the property will be used in ways compatible with airport operations.
+  (b) T4ApprovalsK.–(1) The Secretary shall approve or disapprove a program submitted under subsection (a) of this section (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) not later than 180 days after receiving it. The Secretary shall approve the program (except as the program is related to flight procedures referred to in subsection (a)(2)(D)) if the program–
+    (A) does not place an unreasonable burden on interstate or foreign commerce;
+    (B) is reasonably consistent with achieving the goal of reducing noncompatible uses and preventing the introduction of additional noncompatible uses; and
+    (C) provides for necessary revisions because of a revised map submitted under section 47503(b) of this title.
+  (2) A program (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) is deemed to be approved if the Secretary does not act within the 180-day period.
+  (3) The Secretary shall submit any part of a program related to flight procedures referred to in subsection (a)(2)(D) of this section to the Administrator of the Federal Aviation Administration. The Administrator shall approve or disapprove that part of the program.
+  (c) T4GrantsK.–(1) The Secretary may incur obligations to make grants from amounts available under section 48103 of this title to carry out a project under a part of a noise compatibility program approved under subsection (b) of this section. A grant may be made to–
+    (A) an airport operator submitting the program; and
+    (B) a unit of local government in the area surrounding the airport, if the Secretary decides the unit is able to carry out the project.
+  (2) T4Soundproofing and acquisition of certain residential buildings and propertiesK.–The Secretary may incur obligations to make grants from amounts made available under section 48103 of this title–
+    (A) for projects to soundproof residential buildings–
+      (i) if the airport operator received approval for a grant for a project to soundproof residential buildings pursuant to section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987;
+      (ii) if the airport operator submits updated noise exposure contours, as required by the Secretary; and
+      (iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
+    (B) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport–
+      (i) if the airport operator amended an existing local aircraft noise regulation during calendar year 1993 to increase the maximum permitted noise levels for scheduled air carrier aircraft as a direct result of implementation of revised aircraft noise departure procedures mandated for aircraft safety purposes by the Administrator of the Federal Aviation Administration for standardized application at airports served by scheduled air carriers;
+      (ii) if the airport operator submits updated noise exposure contours, as required by the Secretary; and
+      (iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
+    (C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program; and
+    (D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise.
+  (3) An airport operator may agree to make a grant made under paragraph (1)(A) of this subsection available to a public agency in the area surrounding the airport if the Secretary decides the agency is able to carry out the project.
+  (4) The Government“s share of a project for which a grant is made under this subsection is the greater of–
+    (A) 80 percent of the cost of the project; or
+    (B) the Government“s share that would apply if the amounts available for the project were made available under subchapter I of chapter 471 of this title for a project at the airport.
+  (5) The provisions of subchapter I of chapter 471 of this title related to grants apply to a grant made under this chapter, except–
+    (A) section 47109(a) and (b) of this title; and
+    (B) any provision that the Secretary decides is inconsistent with, or unnecessary to carry out, this chapter.
+  (d) T4Government Relief From LiabilityK.–The Government is not liable for damages from aviation noise because of action taken under this section.

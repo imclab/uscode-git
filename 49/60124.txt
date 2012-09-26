@@ -1,10 +1,24 @@
-  (a) T4General PenaltyK.–A person knowingly and willfully violating section 60114(c) or 60118(a) of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
-  (b) T4Penalty for Damaging or Destroying FacilityK.–A person knowingly and willfully damaging or destroying, or attempting to damage or destroy, an interstate gas pipeline facility or interstate hazardous liquid pipeline facility shall be fined under title 18, imprisoned for not more than 15 years, or both.
-  (c) T4Penalty for Damaging or Destroying SignK.–A person knowingly and willfully defacing, damaging, removing, or destroying a pipeline sign or right-of-way marker required by a law or regulation of the United States shall be fined under title 18, imprisoned for not more than one year, or both.
-  (d) T4Penalty for Not Using One-Call Notification System or Not Heeding Location Information or MarkingsK.–A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person knowingly and willfully–
-    (1) engages in an excavation activity–
-      (A) without first using an available one-call notification system to establish the location of underground facilities in the excavation area; or
-      (B) without paying attention to appropriate location information or markings the operator of a pipeline facility establishes; and
-    (2) subsequently damages–
-      (A) a pipeline facility that results in death, serious bodily harm, or actual damage to property of more than $50,000; or
-      (B) a hazardous liquid pipeline facility that results in the release of more than 50 barrels of product.
+  (a) T4Submission and ContentsK.–Not later than August 15, 1997, and every 2 years thereafter, the Secretary of Transportation shall submit to Congress a report on carrying out this chapter for the 2 immediately preceding calendar years for gas and a report on carrying out this chapter for such period for hazardous liquid. Each report shall include the following information about the prior year for gas or hazardous liquid, as appropriate:
+    (1) a thorough compilation of the leak repairs, accidents, and casualties and a statement of cause when investigated and established by the National Transportation Safety Board.
+    (2) a list of applicable pipeline safety standards prescribed under this chapter including identification of standards prescribed during the year.
+    (3) a summary of the reasons for each waiver granted under section 60118(c) and (d) of this title.
+    (4) an evaluation of the degree of compliance with applicable safety standards, including a list of enforcement actions and compromises of alleged violations by location and company name.
+    (5) a summary of outstanding problems in carrying out this chapter, in order of priority.
+    (6) an analysis and evaluation of–
+      (A) research activities, including their policy implications, completed as a result of the United States Government and private sponsorship; and
+      (B) technological progress in safety achieved.
+    (7) a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter.
+    (8) the extent to which technical information was distributed to the scientific community and consumer-oriented information was made available to the public.
+    (9) a compilation of certifications filed under section 60105 of this title that were–
+      (A) in effect; or
+      (B) rejected in any part by the Secretary and a summary of the reasons for each rejection.
+    (10) a compilation of agreements made under section 60106 of this title that were–
+      (A) in effect; or
+      (B) ended in any part by the Secretary and a summary of the reasons for ending each agreement.
+    (11) a description of the number and qualifications of State pipeline safety inspectors in each State for which a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect and the number and qualifications of inspectors the Secretary recommends for that State.
+    (12) recommendations for legislation the Secretary considers necessary–
+      (A) to promote cooperation among the States in improving–
+        (i) gas pipeline safety; or
+        (ii) hazardous liquid pipeline safety programs; and
+      (B) to strengthen the national gas pipeline safety program.
+  (b) T4Submission of One ReportK.–The Secretary may submit one report to carry out subsection (a) of this section.

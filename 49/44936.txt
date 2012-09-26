@@ -1,7 +1,18 @@
-  (a) T4Employment Investigation RequirementK.–(1) The Administrator of the Federal Aviation Administration shall require by regulation that an employment investigation, including a criminal history record check, shall be conducted, as the Administrator decides is necessary to ensure air transportation security, of each individual employed in, or applying for, a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to–
-    (A) aircraft of an air carrier or foreign air carrier; or
-    (B) a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier.
+  (a) T4Employment Investigation RequirementK.–(1)(A) The Administrator of the Federal Aviation Administration shall require by regulation that an employment investigation, including a criminal history record check, shall be conducted, as the Administrator decides is necessary to ensure air transportation security, of each individual employed in, or applying for, a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to–
+    (i) aircraft of an air carrier or foreign air carrier; or
+    (ii) a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier.
+  (B) The Administrator shall require by regulation that an employment investigation (including a criminal history record check in any case described in subparagraph (C)) be conducted for–
+    (i) individuals who will be responsible for screening passengers or property under section 44901 of this title;
+    (ii) supervisors of the individuals described in clause (i); and
+    (iii) such other individuals who exercise security functions associated with baggage or cargo, as the Administrator determines is necessary to ensure air transportation security.
+  (C) Under the regulations issued under subparagraph (B), a criminal history record check shall be conducted in any case in which–
+    (i) an employment investigation reveals a gap in employment of 12 months or more that the individual who is the subject of the investigation does not satisfactorily account for;
+    (ii) such individual is unable to support statements made on the application of such individual;
+    (iii) there are significant inconsistencies in the information provided on the application of such individual; or
+    (iv) information becomes available during the employment investigation indicating a possible conviction for one of the crimes listed in subsection (b)(1)(B).
+  (D) If an individual requires a criminal history record check under subparagraph (C), the individual may be employed as a screener until the check is completed if the individual is subject to supervision.
   (2) An air carrier, foreign air carrier, or airport operator that employs, or authorizes or makes a contract for the services of, an individual in a position described in paragraph (1) of this subsection shall ensure that the investigation the Administrator requires is conducted.
+  (3) The Administrator shall provide for the periodic audit of the effectiveness of criminal history record checks conducted under paragraph (1) of this subsection.
   (b) T4Prohibited EmploymentK.–(1) Except as provided in paragraph (3) of this subsection, an air carrier, foreign air carrier, or airport operator may not employ, or authorize or make a contract for the services of, an individual in a position described in subsection (a)(1) of this section if–
     (A) the investigation of the individual required under this section has not been conducted; or
     (B) the results of that investigation establish that, in the 10-year period ending on the date of the investigation, the individual was convicted of–
@@ -31,3 +42,61 @@
     (B) may complete and correct the information contained in the check before a final employment decision is made based on the check.
   (d) T4Fees and ChargesK.–The Administrator and the Attorney General shall establish reasonable fees and charges to pay expenses incurred in carrying out this section. The employer of the individual being investigated shall pay the costs of a record check of the individual. Money collected under this section shall be credited to the account in the Treasury from which the expenses were incurred and are available to the Administrator and the Attorney General for those expenses.
   (e) T4When Investigation or Record Check Not RequiredK.–This section does not require an investigation or record check when the investigation or record check is prohibited by a law of a foreign country.
+  (f) T4Records of Employment of Pilot Applicants.–
+    (1) T4In generalK.–Before hiring an individual as a pilot, an air carrier shall request and receive the following information:
+      (A) T4FAA recordsK.–From the Administrator of the Federal Aviation Administration, records pertaining to the individual that are maintained by the Administrator concerning–
+        (i) current airman certificates (including airman medical certificates) and associated type ratings, including any limitations to those certificates and ratings; and
+        (ii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
+      (B) T4Air carrier and other recordsK.–From any air carrier or other person that has employed the individual at any time during the 5-year period preceding the date of the employment application of the individual, or from the trustee in bankruptcy for such air carrier or person–
+        (i) records pertaining to the individual that are maintained by an air carrier (other than records relating to flight time, duty time, or rest time) under regulations set forth in–
+          (I) section 121.683 of title 14, Code of Federal Regulations;
+          (II) paragraph (A) of section VI, appendix I, part 121 of such title;
+          (III) paragraph (A) of section IV, appendix J, part 121 of such title;
+          (IV) section 125.401 of such title; and
+          (V) section 135.63(a)(4) of such title; and
+        (ii) other records pertaining to the individual that are maintained by the air carrier or person concerning–
+          (I) the training, qualifications, proficiency, or professional competence of the individual, including comments and evaluations made by a check airman designated in accordance with section 121.411, 125.295, or 135.337 of such title;
+          (II) any disciplinary action taken with respect to the individual that was not subsequently overturned; and
+          (III) any release from employment or resignation, termination, or disqualification with respect to employment.
+      (C) T4National driver register recordsK.–In accordance with section 30305(b)(7),\1\N from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
+    (2) T4Written consent; release from liabilityK.–An air carrier making a request for records under paragraph (1)–
+      (A) shall be required to obtain written consent to the release of those records from the individual that is the subject of the records requested; and
+      (B) may, notwithstanding any other provision of law or agreement to the contrary, require the individual who is the subject of the records to request to execute a release from liability for any claim arising from the furnishing of such records to or the use of such records by such air carrier (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
+    (3) 5-T4year reporting periodK.–A person shall not furnish a record in response to a request made under paragraph (1) if the record was entered more than 5 years before the date of the request, unless the information concerns a revocation or suspension of an airman certificate or motor vehicle license that is in effect on the date of the request.
+    (4) T4Requirement to maintain recordsK.–The Administrator shall maintain pilot records described in paragraph (1)(A) for a period of at least 5 years.
+    (5) T4Receipt of consent; provision of informationK.–A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested. A person who receives a request for records under this paragraph shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
+    (6) T4Right to receive notice and copy of any record furnishedK.–A person who receives a request for records under paragraph (1) shall provide to the individual who is the subject of the records–
+      (A) on or before the 20th day following the date of receipt of the request, written notice of the request and of the individual“s right to receive a copy of such records; and
+      (B) in accordance with paragraph (10), a copy of such records, if requested by the individual.
+    (7) T4Reasonable charges for processing requests and furnishing copiesK.–A person who receives a request under paragraph (1) or (6) may establish a reasonable charge for the cost of processing the request and furnishing copies of the requested records.
+    (8) T4Standard formsK.–The Administrator shall promulgate–
+      (A) standard forms that may be used by an air carrier to request records under paragraph (1); and
+      (B) standard forms that may be used by an air carrier to–
+        (i) obtain the written consent of the individual who is the subject of a request under paragraph (1); and
+        (ii) inform the individual of–
+          (I) the request; and
+          (II) the individual right of that individual to receive a copy of any records furnished in response to the request.
+    (9) T4Right to correct inaccuraciesK.–An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with a reasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
+    (10) T4Right of pilot to review certain recordsK.–Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot employed by such carrier, make available, within a reasonable time of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
+    (11) T4Privacy protectionsK.–An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+    (12) T4Periodic reviewK.–Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry–
+      (A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
+      (B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
+    (13) T4RegulationsK.–The Administrator may prescribe such regulations as may be necessary–
+      (A) to protect–
+        (i) the personal privacy of any individual whose records are requested under paragraph (1); and
+        (ii) the confidentiality of those records;
+      (B) to preclude the further dissemination of records received under paragraph (1) by the person who requested those records; and
+      (C) to ensure prompt compliance with any request made under paragraph (1).
+  (g) T4Limitation on Liability; Preemption of State Law.–
+    (1) T4Limitation on liabilityK.–No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under paragraph (2), against–
+      (A) the air carrier requesting the records of that individual under subsection (f)(1);
+      (B) a person who has complied with such request;
+      (C) a person who has entered information contained in the individual“s records; or
+      (D) an agent or employee of a person described in subparagraph (A) or (B);
+     in the nature of an action for defamation, invasion of privacy, negligence, interference with contract, or otherwise, or under any Federal or State law with respect to the furnishing or use of such records in accordance with subsection (f).
+    (2) T4PreemptionK.–No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (f).
+    (3) T4Provision of knowingly false informationK.–Paragraphs (1) and (2) shall not apply with respect to a person who furnishes information in response to a request made under subsection (f)(1), that–
+      (A) the person knows is false; and
+      (B) was maintained in violation of a criminal statute of the United States.
+  (h) T4Limitation on Statutory ConstructionK.–Nothing in subsection (f) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.

@@ -1,1 +1,42 @@
-   A rail tank car built before January 1, 1971, may be used to transport hazardous material in commerce only if the air brake equipment support attachments of the car comply with the standards for attachments contained in sections 179.100-16 and 179.200-19 of title 49, Code of Federal Regulations, in effect on November 16, 1990.
+  (a) T4ApplicationK.–(1) This section applies to a motor vehicle only if the vehicle is transporting hazardous material in commerce for which placarding of the vehicle is required under regulations prescribed under this chapter. However, the Secretary of Transportation by regulation may extend application of this section or a standard prescribed under subsection (b) of this section to–
+    (A) any use of a vehicle under this paragraph to transport any hazardous material in commerce; and
+    (B) any motor vehicle used to transport hazardous material in commerce.
+  (2) Except as provided by subsection (d) of this section and section 5125(c) of this title, each State and Indian tribe may establish, maintain, and enforce–
+    (A) designations of specific highway routes over which hazardous material may and may not be transported by motor vehicle; and
+    (B) limitations and requirements related to highway routing.
+  (b) T4Standards for States and Indian TribesK.–(1) The Secretary, in consultation with the States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include–
+    (A) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall enhance public safety in the area subject to the jurisdiction of the State or tribe and in areas of the United States not subject to the jurisdiction of the State or tribe and directly affected by the designation, limitation, or requirement;
+    (B) minimum procedural requirements to ensure public participation when the State or Indian tribe is establishing a highway routing designation, limitation, or requirement;
+    (C) a requirement that, in establishing a highway routing designation, limitation, or requirement, a State or Indian tribe consult with appropriate State, local, and tribal officials having jurisdiction over areas of the United States not subject to the jurisdiction of that State or tribe establishing the designation, limitation, or requirement and with affected industries;
+    (D) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall ensure through highway routing for the transportation of hazardous material between adjacent areas;
+    (E) a requirement that a highway routing designation, limitation, or requirement of one State or Indian tribe affecting the transportation of hazardous material in another State or tribe may be established, maintained, and enforced by the State or tribe establishing the designation, limitation, or requirement only if–
+      (i) the designation, limitation, or requirement is agreed to by the other State or tribe within a reasonable period or is approved by the Secretary under subsection (d) of this section; and
+      (ii) the designation, limitation, or requirement is not an unreasonable burden on commerce;
+    (F) a requirement that establishing a highway routing designation, limitation, or requirement of a State or Indian tribe be completed in a timely way;
+    (G) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe provide reasonable routes for motor vehicles transporting hazardous material to reach terminals, facilities for food, fuel, repairs, and rest, and places to load and unload hazardous material;
+    (H) a requirement that a State be responsible–
+      (i) for ensuring that political subdivisions of the State comply with standards prescribed under this subsection in establishing, maintaining, and enforcing a highway routing designation, limitation, or requirement; and
+      (ii) for resolving a dispute between political subdivisions; and
+        (I) a requirement that, in carrying out subsection (a) of this section, a State or Indian tribe shall consider–
+          (i) population densities;
+          (ii) the types of highways;
+          (iii) the types and amounts of hazardous material;
+          (iv) emergency response capabilities;
+          (v) the results of consulting with affected persons;
+          (vi) exposure and other risk factors;
+          (vii) terrain considerations;
+          (viii) the continuity of routes;
+          (ix) alternative routes;
+          (x) the effects on commerce;
+          (xi) delays in transportation; and
+          (xii) other factors the Secretary considers appropriate.
+  (2) The Secretary may not assign a specific weight that a State or Indian tribe shall use when considering the factors under paragraph (1)(I) of this subsection.
+  (c) T4List of Route DesignationsK.–In coordination with the States, the Secretary shall update and publish periodically a list of currently effective hazardous material highway route designations.
+  (d) T4Dispute ResolutionK.–(1) The Secretary shall prescribe regulations for resolving a dispute related to through highway routing or to an agreement with a proposed highway route designation, limitation, or requirement between or among States, political subdivisions of different States, or Indian tribes.
+  (2) A State or Indian tribe involved in a dispute under this subsection may petition the Secretary to resolve the dispute. The Secretary shall resolve the dispute not later than one year after receiving the petition. The resolution shall provide the greatest level of highway safety without being an unreasonable burden on commerce and shall ensure compliance with standards prescribed under subsection (b) of this section.
+  (3)    (A) After a petition is filed under this subsection, a civil action about the subject matter of the dispute may be brought in a court only after the earlier of–
+      (i) the day the Secretary issues a final decision; or
+      (ii) the last day of the one-year period beginning on the day the Secretary receives the petition.
+    (B) A State or Indian tribe adversely affected by a decision of the Secretary under this subsection may bring a civil action for judicial review of the decision in an appropriate district court of the United States not later than 89 days after the day the decision becomes final.
+  (e) T4Relationship to Other LawsK.–This section and regulations prescribed under this section do not affect sections 31111 and 31113 of this title or section 127 of title 23.
+  (f) T4Existing Radioactive Material Routing RegulationsK.–The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.

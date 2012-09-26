@@ -1,1 +1,41 @@
-   A civil penalty under this chapter may be collected by bringing a civil action against the person subject to the penalty, a civil action in rem against an aircraft subject to a lien for a penalty, or both. The action shall conform as nearly as practicable to a civil action in admiralty, regardless of the place an aircraft in a civil action in rem is seized. However, a party may demand a jury trial of an issue of fact in an action involving a civil penalty under this chapter (except a penalty imposed by the Secretary of Transportation that formerly was imposed by the Civil Aeronautics Board) if the value of the matter in controversy is more than $20. Issues of fact tried by a jury may be reexamined only under common law rules.
+  (a) T4ApplicationK.–This section applies only to aircraft not used to provide air transportation.
+  (b) T4General Criminal PenaltyK.–Except as provided by subsection (c) of this section, a person shall be fined under title 18, imprisoned for not more than 3 years, or both, if the person–
+    (1) knowingly and willfully forges or alters a certificate authorized to be issued under this part;
+    (2) knowingly sells, uses, attempts to use, or possesses with the intent to use, such a certificate;
+    (3) knowingly and willfully displays or causes to be displayed on an aircraft a mark that is false or misleading about the nationality or registration of the aircraft;
+    (4) obtains a certificate authorized to be issued under this part by knowingly and willfully falsifying or concealing a material fact, making a false, fictitious, or fraudulent statement, or making or using a false document knowing it contains a false, fictitious, or fraudulent statement or entry;
+    (5) owns an aircraft eligible for registration under section 44102 of this title and knowingly and willfully operates, attempts to operate, or allows another person to operate the aircraft when–
+      (A) the aircraft is not registered under section 44103 of this title or the certificate of registration is suspended or revoked; or
+      (B) the owner knows or has reason to know that the other person does not have proper authorization to operate or navigate the aircraft without registration for a period of time after transfer of ownership;
+    (6) knowingly and willfully operates or attempts to operate an aircraft eligible for registration under section 44102 of this title knowing that–
+      (A) the aircraft is not registered under section 44103 of this title;
+      (B) the certificate of registration is suspended or revoked; or
+      (C) the person does not have proper authorization to operate or navigate the aircraft without registration for a period of time after transfer of ownership;
+    (7) knowingly and willfully serves or attempts to serve in any capacity as an airman without an airman“s certificate authorizing the individual to serve in that capacity;
+    (8) knowingly and willfully employs for service or uses in any capacity as an airman an individual who does not have an airman“s certificate authorizing the individual to serve in that capacity; or
+    (9) operates an aircraft with a fuel tank or fuel system that has been installed or modified knowing that the tank, system, installation, or modification does not comply with regulations and requirements of the Administrator of the Federal Aviation Administration.
+  (c) T4Controlled Substance Criminal PenaltyK.–(1) In this subsection, ””controlled substance““ has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
+  (2) A person violating subsection (b) of this section shall be fined under title 18, imprisoned for not more than 5 years, or both, if the violation is related to transporting a controlled substance by aircraft or aiding or facilitating a controlled substance violation and the transporting, aiding, or facilitating–
+    (A) is punishable by death or imprisonment of more than one year under a law of the United States or a State; or
+    (B) that is provided is related to an act punishable by death or imprisonment for more than one year under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance).
+  (3) A term of imprisonment imposed under paragraph (2) of this subsection shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
+  (d) T4Seizure and ForfeitureK.–(1) The Administrator of Drug Enforcement or the Commissioner of Customs may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
+  (2) An aircraft“s use is presumed to have been related to a violation of, or to aid or facilitate a violation of–
+    (A) subsection (b)(1) of this section if the aircraft certificate of registration has been forged or altered;
+    (B) subsection (b)(3) of this section if there is an external display of false or misleading registration numbers or country of registration;
+    (C) subsection (b)(4) of this section if–
+      (i) the aircraft is registered to a false or fictitious person; or
+      (ii) the application form used to obtain the aircraft certificate of registration contains a material false statement;
+    (D) subsection (b)(5) of this section if the aircraft was operated when it was not registered under section 44103 of this title; or
+    (E) subsection (b)(9) of this section if the aircraft has a fuel tank or fuel system that was installed or altered–
+      (i) in violation of a regulation or requirement of the Administrator of the Federal Aviation Administration; or
+      (ii) if a certificate required to be issued for the installation or alteration is not carried on the aircraft.
+  (3) The Administrator of the Federal Aviation Administration, the Administrator of Drug Enforcement, and the Commissioner shall agree to a memorandum of understanding to establish procedures to carry out this subsection.
+  (e) T4Relationship to State LawsK.–This part does not prevent a State from establishing a criminal penalty, including providing for forfeiture and seizure of aircraft, for a person that–
+    (1) knowingly and willfully forges or alters an aircraft certificate of registration;
+    (2) knowingly sells, uses, attempts to use, or possesses with the intent to use, a fraudulent aircraft certificate of registration;
+    (3) knowingly and willfully displays or causes to be displayed on an aircraft a mark that is false or misleading about the nationality or registration of the aircraft; or
+    (4) obtains an aircraft certificate of registration from the Administrator of the Federal Aviation Administration by–
+      (A) knowingly and willfully falsifying or concealing a material fact;
+      (B) making a false, fictitious, or fraudulent statement; or
+      (C) making or using a false document knowing it contains a false, fictitious, or fraudulent statement or entry.
