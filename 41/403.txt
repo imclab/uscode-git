@@ -35,7 +35,7 @@
     (E) Installation services, maintenance services, repair services, training services, and other services if–
       (i) the services are procured for support of an item referred to in subparagraph (A), (B), (C), or (D), regardless of whether such services are provided by the same source or at the same time as the item; and
       (ii) the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government.
-    (F) Services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed and under standard commercial terms and conditions.
+    (F) Services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions.
     (G) Any item, combination of items, or service referred to in subparagraphs (A) through (F) notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
     (H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
   (13) The term ””nondevelopmental item““ means any of the following:
@@ -45,3 +45,14 @@
     (D) Any item of supply currently being produced that does not meet the requirements of subparagraph (A), (B), or (C) solely because the item is not yet in use.
   (14) The term ””component““ means any item supplied to the Federal Government as part of an end item or of another component.
   (15) The term ””commercial component““ means any component that is a commercial item.
+  (16) The term ””acquisition““–
+    (A) means the process of acquiring, with appropriated funds, by contract for purchase or lease, property or services (including construction) that support the missions and goals of an executive agency, from the point at which the requirements of the executive agency are established in consultation with the chief acquisition officer of the executive agency; and
+    (B) includes–
+      (i) the process of acquiring property or services that are already in existence, or that must be created, developed, demonstrated, and evaluated;
+      (ii) the description of requirements to satisfy agency needs;
+      (iii) solicitation and selection of sources;
+      (iv) award of contracts;
+      (v) contract performance;
+      (vi) contract financing;
+      (vii) management and measurement of contract performance through final delivery and payment; and
+      (viii) technical and management functions directly related to the process of fulfilling agency requirements by contract.
