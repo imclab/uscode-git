@@ -1,24 +1,8 @@
-  (a) Any person who–
-    (1) knowingly mails, or transports or ships in interstate or foreign commerce by any means, including by computer, any child pornography;
-    (2) knowingly receives or distributes–
-      (A) any child pornography that has been mailed, or shipped or transported in interstate or foreign commerce by any means, including by computer; or
-      (B) any material that contains child pornography that has been mailed, or shipped or transported in interstate or foreign commerce by any means, including by computer;
-    (3) knowingly reproduces any child pornography for distribution through the mails, or in interstate or foreign commerce by any means, including by computer;
-    (4) either–
-      (A) in the special maritime and territorial jurisdiction of the United States, or on any land or building owned by, leased to, or otherwise used by or under the control of the United States Government, or in the Indian country (as defined in section 1151), knowingly sells or possesses with the intent to sell any child pornography; or
-      (B) knowingly sells or possesses with the intent to sell any child pornography that has been mailed, or shipped or transported in interstate or foreign commerce by any means, including by computer, or that was produced using materials that have been mailed, or shipped or transported in interstate or foreign commerce by any means, including by computer; or
-    (5) either–
-      (A) in the special maritime and territorial jurisdiction of the United States, or on any land or building owned by, leased to, or otherwise used by or under the control of the United States Government, or in the Indian country (as defined in section 1151), knowingly possesses any book, magazine, periodical, film, videotape, computer disk, or any other material that contains an image of child pornography; or
-      (B) knowingly possesses any book, magazine, periodical, film, videotape, computer disk, or any other material that contains an image of child pornography that has been mailed, or shipped or transported in interstate or foreign commerce by any means, including by computer, or that was produced using materials that have been mailed, or shipped or transported in interstate or foreign commerce by any means, including by computer,
-         shall be punished as provided in subsection (b).
-  (b)    (1) Whoever violates, or attempts or conspires to violate, paragraph (1), (2), (3), or (4) of subsection (a) shall be fined under this title or imprisoned not more than 15 years, or both, but, if such person has a prior conviction under this chapter, chapter 109A, or chapter 117, or under the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, such person shall be fined under this title and imprisoned for not less than 5 years nor more than 30 years.
-    (2) Whoever violates, or attempts or conspires to violate, subsection (a)(5) shall be fined under this title or imprisoned not more than 5 years, or both, but, if such person has a prior conviction under this chapter, chapter 109A, or chapter 117, or under the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, such person shall be fined under this title and imprisoned for not less than 2 years nor more than 10 years.
-  (c) It shall be an affirmative defense to a charge of violating paragraph (1), (2), (3), or (4) of subsection (a) that–
-    (1) the alleged child pornography was produced using an actual person or persons engaging in sexually explicit conduct;
-    (2) each such person was an adult at the time the material was produced; and
-    (3) the defendant did not advertise, promote, present, describe, or distribute the material in such a manner as to convey the impression that it is or contains a visual depiction of a minor engaging in sexually explicit conduct.
-  (d) T4Affirmative DefenseK.–It shall be an affirmative defense to a charge of violating subsection (a)(5) that the defendant–
-    (1) possessed less than three images of child pornography; and
-    (2) promptly and in good faith, and without retaining or allowing any person, other than a law enforcement agency, to access any image or copy thereof–
-      (A) took reasonable steps to destroy each such image; or
-      (B) reported the matter to a law enforcement agency and afforded that agency access to each such image.
+  (a) Whoever knowingly uses a misleading domain name on the Internet with the intent to deceive a person into viewing material constituting obscenity shall be fined under this title or imprisoned not more than 2 years, or both.
+  (b) Whoever knowingly uses a misleading domain name on the Internet with the intent to deceive a minor into viewing material that is harmful to minors on the Internet shall be fined under this title or imprisoned not more than 4 years, or both.
+  (c) For the purposes of this section, a domain name that includes a word or words to indicate the sexual content of the site, such as ””sex““ or ””porn““, is not misleading.
+  (d) For the purposes of this section, the term ””material that is harmful to minors““ means any communication, consisting of nudity, sex, or excretion, that, taken as a whole and with reference to its context–
+    (1) predominantly appeals to a prurient interest of minors;
+    (2) is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for minors; and
+    (3) lacks serious literary, artistic, political, or scientific value for minors.
+  (e) For the purposes of subsection (d), the term ””sex““ means acts of masturbation, sexual intercourse, or physcial \1\N contact with a person“s genitals, or the condition of human male or female genitals when in a state of sexual stimulation or arousal.
