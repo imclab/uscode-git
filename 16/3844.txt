@@ -1,7 +1,14 @@
-  (a) Beginning farmers and ranchers and Indian tribes
-     In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to–
-    (1) foster new farming and ranching opportunities; and
-    (2) enhance environmental stewardship over the long term.
+  (a) Incentives for certain farmers and ranchers and Indian tribes
+    (1) Incentives authorized
+       In carrying out any conservation program administered by the Secretary, the Secretary may provide to a person or entity specified in paragraph (2) incentives to participate in the conservation program–
+      (A) to foster new farming and ranching opportunities; and
+      (B) to enhance long-term environmental goals.
+    (2) Covered persons
+       Incentives authorized by paragraph (1) may be provided to the following:
+      (A) Beginning farmers or ranchers.
+      (B) Socially disadvantaged farmers or ranchers.
+      (C) Limited resource farmers or ranchers.
+      (D) Indian tribes.
   (b) Privacy of personal information relating to natural resources conservation programs
     (1) Information received for technical and financial assistance
       (A) In general
@@ -10,7 +17,7 @@
         (ii) shall not be released to any person or Federal, State, local agency or Indian tribe (as defined by the Secretary) outside the Department of Agriculture.
       (B) Information
          The information referred to in subparagraph (A) is information–
-        (i) provided to the Secretary or a contractor of the Secretary (including information provided under subchapter IV of this chapter) for the purpose of providing technical or financial assistance to an owner, operator, or producer with respect to any natural resources conservation program administered by the Natural Resources Conservation Service or the Farm Service Agency; and
+        (i) provided to the Secretary or a contractor of the Secretary (including information provided under subchapter IV) for the purpose of providing technical or financial assistance to an owner, operator, or producer with respect to any natural resources conservation program administered by the Natural Resources Conservation Service or the Farm Service Agency; and
         (ii) that is proprietary (within the meaning of section 552(b)(4) of title 5) to the agricultural operation or land that is a part of an agricultural operation of the owner, operator, or producer.
       (C) Exception
          Nothing in this section affects the availability of payment information (including payment amounts and the names and addresses of recipients of payments) under section 552 of title 5.
@@ -39,3 +46,53 @@
        Nothing in this subsection–
       (A) affects any procedure for data collection or disclosure through the National Resources Inventory; or
       (B) limits the authority of Congress or the Government Accountability Office to review information collected or disclosed under this subsection.
+  (c) Plans
+     The Secretary shall, to the extent practicable, avoid duplication in–
+    (1) the conservation plans required for–
+      (A) highly erodible land conservation under subchapter II;
+      (B) the conservation reserve program established under subpart B of part I of subchapter IV; and
+      (C) the wetlands reserve program established under subpart C of part I of subchapter IV; and
+    (2) the environmental quality incentives program established under part IV of subchapter IV.
+  (d) Tenant protection
+     Except for a person who is a tenant on land that is subject to a conservation reserve contract that has been extended by the Secretary, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing, on a fair and equitable basis, in payments under the programs established under subchapters II through IV.
+  (e) Provision of technical assistance by other sources
+     In the preparation and application of a conservation compliance plan under subchapter II or similar plan required as a condition for assistance from the Department of Agriculture, the Secretary shall permit persons to secure technical assistance from approved sources, as determined by the Secretary, other than the Natural Resources Conservation Service. If the Secretary rejects a technical determination made by such a source, the basis of the Secretary“s determination must be supported by documented evidence.
+  (f) Acreage limitations
+    (1) Limitations
+      (A) Enrollments
+         The Secretary shall not enroll more than 25 percent of the cropland in any county in the programs administered under subparts B and C of part I of subchapter IV.
+      (B) Easements
+         Not more than 10 percent of the cropland in a country \1\N may be subject to an easement acquired under subpart C of part I of subchapter IV.
+    (2) Exceptions
+       The Secretary may exceed the limitation in paragraph (1)(A), if the Secretary determines that–
+      (A) the action would not adversely affect the local economy of a county; and
+      (B) operators in the county are having difficulties complying with conservation plans implemented under section 3812 of this title.
+    (3) Waiver to exclude certain acreage
+       The Secretary may grant a waiver to exclude acreage enrolled under subsection (c)(2)(B) or (f)(4) of section 3834 of this title from the limitations in paragraph (1)(A) with the concurrence of the county government of the county involved.
+    (4) Shelterbelts and windbreaks
+       The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart C of part I of subchapter IV \2\N that is used for the establishment of shelterbelts and windbreaks.
+  (g) Compliance and performance
+     For each conservation program under subchapter IV, the Secretary shall develop procedures–
+    (1) to monitor compliance with program requirements;
+    (2) to measure program performance;
+    (3) to demonstrate whether the long-term conservation benefits of the program are being achieved;
+    (4) to track participation by crop and livestock types; and
+    (5) to coordinate activities described in this subsection with the national conservation program authorized under section 2004 of this title.
+  (h) Encouragement of pollinator habitat development and protection
+     In carrying out any conservation program administered by the Secretary, the Secretary may, as appropriate, encourage–
+    (1) the development of habitat for native and managed pollinators; and
+    (2) the use of conservation practices that benefit native and managed pollinators.
+      (i) Streamlined application process
+        (1) In general
+           In carrying out each conservation program under this chapter, the Secretary shall ensure that the application process used by producers and landowners is streamlined to minimize complexity and eliminate redundancy.
+        (2) Review and streamlining
+          (A) Review
+             The Secretary shall carry out a review of the application forms and processes for each conservation program covered by this subsection.
+          (B) Streamlining
+             On completion of the review the Secretary shall revise application forms and processes, as necessary, to ensure that–
+            (i) all required application information is essential for the efficient, effective, and accountable implementation of conservation programs;
+            (ii) conservation program applicants are not required to provide information that is readily available to the Secretary through existing information systems of the Department of Agriculture;
+            (iii) information provided by the applicant is managed and delivered efficiently for use in all stages of the application process, or for multiple applications; and
+            (iv) information technology is used effectively to minimize data and information input requirements.
+        (3) Implementation and notification
+           Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
