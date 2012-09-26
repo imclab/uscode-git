@@ -16,13 +16,46 @@
       (D) use of the vessel is restricted to–
         (i) the deployment of equipment, supplies, and personnel to recover, contain, or transport oil discharged into the navigable waters of the United States, or within the Exclusive Economic Zone, or
         (ii) for training exercises to prepare to respond to such a discharge.
-    (2) For purposes of the first proviso of section 27 of the Merchant Marine Act, 1920, section 2 of the Shipping Act of 1916, and section 12102(a) of this title, a vessel meeting the criteria of this subsection shall be considered to be owned exclusively by citizens of the United States.
+    (2) For purposes of the first proviso of section 27 of the Merchant Marine Act, 1920, section 2 of the Shipping Act of \1\N 1916, and section 12102(a) of this title, a vessel meeting the criteria of this subsection shall be considered to be owned exclusively by citizens of the United States.
   (e)    (1) A certificate of documentation for a vessel may be endorsed with a coastwise endorsement if–
       (A) the vessel is eligible for documentation;
-      (B) the person that owns the vessel, a parent entity of that person, or a subsidiary of a parent entity of that person, is primarily engaged in leasing or other financing transactions;
+      (B) the person that owns the vessel (or, if the vessel is owned by a trust or similar arrangement, the beneficiary of the trust or similar arrangement) meets the requirements of subsection (f);
       (C) the vessel is under a demise charter to a person that certifies to the Secretary that the person is a citizen of the United States for engaging in the coastwise trade under section 2 of the Shipping Act, 1916;
       (D) the demise charter is for a period of at least 3 years or a shorter period as may be prescribed by the Secretary; and
       (E) the vessel is otherwise eligible for documentation under this section.
     (2) The demise charter and any amendments to that charter shall be filed with the certificate required by this subsection, or within 10 days following the filing of an amendment to the charter, and such charter and amendments shall be made available to the public.
     (3) Upon termination by a demise charterer required under paragraph (1)(C), the coastwise endorsement of the vessel may, in the sole discretion of the Secretary, be continued after the termination for default of the demise charter for a period not to exceed 6 months on such terms and conditions as the Secretary may prescribe.
     (4) For purposes of section 2 of the Shipping Act, 1916, and section 12102(a) of this title, a vessel meeting the criteria of this subsection is deemed to be owned exclusively by citizens of the United States.
+  (f) T4Ownership Certification Requirement.–
+    (1) T4In generalK.–A person meets the requirements of this subsection if that person transmits to the Secretary each year the certification required by paragraph (2) or (3) with respect to a vessel.
+    (2) T4Investment certificationK.–To meet the certification requirement of this paragraph, a person shall certify that it–
+      (A) is a leasing company, bank, or financial institution;
+      (B) owns, or holds the beneficial interest in, the vessel solely as a passive investment;
+      (C) does not operate any vessel for hire and is not an affiliate of any person who operates any vessel for hire; and
+      (D) is independent from, and not an affiliate of, any charterer of the vessel or any other person who has the right, directly or indirectly, to control or direct the movement or use of the vessel.
+    (3) T4Certain tank vessels.–
+      (A) T4In generalK.–To meet the certification requirement of this paragraph, a person shall certify that–
+        (i) the aggregate book value of the vessels owned by such person and United States affiliates of such person does not exceed 10 percent of the aggregate book value of all assets owned by such person and its United States affiliates;
+        (ii) not more than 10 percent of the aggregate revenues of such person and its United States affiliates is derived from the ownership, operation, or management of vessels;
+        (iii) at least 70 percent of the aggregate tonnage of all cargo carried by all vessels owned by such person and its United States affiliates and documented under this section is qualified proprietary cargo;
+        (iv) any cargo other than qualified proprietary cargo carried by all vessels owned by such person and its United States affiliates and documented under this section consists of oil, petroleum products, petrochemicals, or liquified natural gas;
+        (v) no vessel owned by such person or any of its United States affiliates and documented under this section carries molten sulphur; and
+        (vi) such person owned 1 or more vessels documented under subsection (e) of this section as of the date of enactment of the Coast Guard and Maritime Transportation Act of 2004.
+      (B) T4Application only to certain vesselsK.–A person may make a certification under this paragraph only with respect to–
+        (i) a tank vessel having a tonnage of not less than 6,000 gross tons, as measured under section 14502 of this title (or an alternative tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title); or
+        (ii) a towing vessel associated with a non-self-propelled tank vessel that meets the requirements of clause (i), where the 2 vessels function as a single self-propelled vessel.
+    (4) T4DefinitionsK.–In this subsection:
+      (A) T4AffiliateK.–The term ””affiliate““ means, with respect to any person, any other person that is–
+        (i) directly or indirectly controlled by, under common control with, or controlling such person; or
+        (ii) named as being part of the same consolidated group in any report or other document submitted to the United States Securities and Exchange Commission or the Internal Revenue Service.
+      (B) T4CargoK.–The term ””cargo““ does not include cargo to which title is held for non-commercial reasons and primarily for the purpose of evading the requirements of paragraph (3).
+      (C) T4OilK.–The term ””oil““ has the meaning given that term in section 2101(20) of this title.
+      (D) T4Passive investmentK.–The term ””passive investment““ means an investment in which neither the investor nor any affiliate of such investor is involved in, or has the power to be involved in, the formulation, determination, or direction of any activity or function concerning the management, use, or operation of the asset that is the subject of the investment.
+      (E) T4Qualified proprietary cargoK.–The term ””qualified proprietary cargo““ means–
+        (i) oil, petroleum products, petrochemicals, or liquefied natural gas cargo that is beneficially owned by the person who submits to the Secretary an application or annual certification under paragraph (3), or by an affiliate of such person, immediately before, during, or immediately after such cargo is carried in coastwise trade on a vessel owned by such person;
+        (ii) oil, petroleum products, petrochemicals, or liquefied natural gas cargo not beneficially owned by the person who submits to the Secretary an application or an annual certification under paragraph (3), or by an affiliate of such person, but that is carried in coastwise trade by a vessel owned by such person and which is part of an arrangement in which vessels owned by such person and at least one other person are operated collectively as one fleet, to the extent that an equal amount of oil, petroleum products, petrochemicals, or liquefied natural gas cargo beneficially owned by such person, or an affiliate of such person, is carried in coastwise trade on 1 or more other vessels, not owned by such person, or an affiliate of such person, if such other vessel or vessels are also part of the same arrangement;
+        (iii) in the case of a towing vessel associated with a non-self-propelled tank vessel where the 2 vessels function as a single self-propelled vessel, oil, petroleum products, petrochemicals, or liquefied natural gas cargo that is beneficially owned by the person who owns both such towing vessel and the non-self-propelled tank vessel, or any United States affiliate of such person, immediately before, during, or immediately after such cargo is carried in coastwise trade on either of the 2 vessels; or
+        (iv) any oil, petroleum products, petrochemicals, or liquefied natural gas cargo carried on any vessel that is either a self-propelled tank vessel having a length of at least 210 meters or a tank vessel that is a liquefied natural gas carrier that–
+          (I) was delivered by the builder of such vessel to the owner of such vessel after December 31, 1999; and
+          (II) was purchased by a person for the purpose, and with the reasonable expectation, of transporting on such vessel liquefied natural gas or unrefined petroleum beneficially owned by the owner of such vessel, or an affiliate of such owner, from Alaska to the continental United States.
+      (F) T4United States affiliateK.–The term ””United States affiliate““ means, with respect to any person, an affiliate the principal place of business of which is located in the United States.

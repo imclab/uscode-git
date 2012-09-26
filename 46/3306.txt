@@ -1,8 +1,23 @@
-  (a) The inspection process shall ensure that a vessel subject to inspection–
-    (1) is of a structure suitable for the service in which it is to be employed;
-    (2) is equipped with proper appliances for lifesaving, fire prevention, and firefighting;
-    (3) has suitable accommodations for the crew, sailing school instructors, and sailing school students, and for passengers on the vessel if authorized to carry passengers;
-    (4) is in a condition to be operated with safety to life and property; and
-    (5) complies with applicable marine safety laws and regulations.
-  (b) If an inspection, or examination under section 3308 of this title, reveals that a life preserver, lifesaving device, or firehose is defective and incapable of being repaired, the owner or master shall destroy the life preserver, lifesaving device, or firehose in the presence of the official conducting the inspection or examination.
-  (c) A nautical school vessel operated by a civilian nautical school or by an educational institution under section 558 of title 40 shall be inspected like a small passenger vessel or a passenger vessel, depending on its tonnage.
+  (a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for–
+    (1) the design, construction, alteration, repair, and operation of those vessels, including superstructures, hulls, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, boilers, unfired pressure vessels, piping, electric installations, and accommodations for passengers and crew, sailing school instructors, and sailing school students;
+    (2) lifesaving equipment and its use;
+    (3) firefighting equipment, its use, and precautionary measures to guard against fire;
+    (4) inspections and tests related to paragraphs (1), (2), and (3) of this subsection; and
+    (5) the use of vessel stores and other supplies of a dangerous nature.
+  (b)    (1) Equipment and material subject to regulation under this section may not be used on any vessel without prior approval of the Secretary.
+    (2) Except with respect to use on a public vessel, the Secretary may treat an approval of equipment or materials by a foreign government as approval by the Secretary for purposes of paragraph (1) if the Secretary determines that–
+      (A) the design standards and testing procedures used by that government meet the requirements of the International Convention for the Safety of Life at Sea, 1974;
+      (B) the approval of the equipment or material by the foreign government will secure the safety of individuals and property on board vessels subject to inspection; and
+      (C) for lifesaving equipment, the foreign government–
+        (i) has given equivalent treatment to approvals of lifesaving equipment by the Secretary; and
+        (ii) otherwise ensures that lifesaving equipment approved by the Secretary may be used on vessels that are documented and subject to inspection under the laws of that country.
+  (c) In prescribing regulations for sailing school vessels, the Secretary shall consult with representatives of the private sector having experience in the operation of vessels likely to be certificated as sailing school vessels. The regulations shall–
+    (1) reflect the specialized nature of sailing school vessel operations, and the character, design, and construction of vessels operating as sailing school vessels; and
+    (2) include requirements for notice to sailing school instructors and sailing school students about the specialized nature of sailing school vessels and applicable safety regulations.
+  (d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))), the Secretary shall consider the function, purpose, and operation of the vessels, their routes, and the number of individuals who may be carried on the vessels.
+  (e) When the Secretary finds it in the public interest, the Secretary may suspend or grant exemptions from the requirements of a regulation prescribed under this section related to lifesaving and firefighting equipment, muster lists, ground tackle and hawsers, and bilge systems.
+  (f) In prescribing regulations for offshore supply vessels, the Secretary shall consider the characteristics, methods of operation, and the nature of the service of offshore supply vessels.
+  (g) In prescribing regulations for fish processing or fish tender vessels, the Secretary shall consult with representatives of the private sector having experience in the operation of these vessels. The regulations shall reflect the specialized nature and economics of fish processing or fish tender vessel operations and the character, design, and construction of fish processing or fish tender vessels.
+  (h) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title.
+  (i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
+  (j) The Secretary may establish by regulation a safety management system appropriate for the characteristics, methods of operation, and nature of service of towing vessels.
