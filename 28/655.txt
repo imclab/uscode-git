@@ -1,15 +1,8 @@
-  (a) T4Time for DemandK.–Within 30 days after the filing of an arbitration award with a district court under section 654, any party may file a written demand for a trial de novo in the district court.
-  (b) T4Restoration to Court DocketK.–Upon a demand for a trial de novo, the action shall be restored to the docket of the court and treated for all purposes as if it had not been referred to arbitration. In such a case, any right of trial by jury that a party otherwise would have had, as well as any place on the court calendar which is no later than that which a party otherwise would have had, are preserved.
-  (c) T4Limitation on Admission of EvidenceK.–The court shall not admit at the trial de novo any evidence that there has been an arbitration proceeding, the nature or amount of any award, or any other matter concerning the conduct of the arbitration proceeding, unless–
-    (1) the evidence would otherwise be admissible in the court under the Federal Rules of Evidence, or
-    (2) the parties have otherwise stipulated.
-  (d) T4Taxation of Arbitrator Fees as CostK.–(1)(A) A district court may provide by rule that, in any trial de novo under this section, arbitrator fees paid under section 657 may be taxed as costs against the party demanding the trial de novo.
-  (B) Such rule may provide that a party demanding a trial de novo under subsection (a), other than the United States or its agencies or officers, shall deposit a sum equal to such arbitrator fees as advanced payment of such costs, unless the party is permitted to proceed in forma pauperis.
-  (2) Arbitrator fees shall not be taxed as costs under paragraph (1)(A), and any sum deposited under paragraph (1)(B) shall be returned to the party demanding the trial de novo, if–
-    (A) the party demanding the trial de novo obtains a final judgment more favorable than the arbitration award, or
-    (B) the court determines that the demand for the trial de novo was made for good cause.
-  (3) Any arbitrator fees taxed as costs under paragraph (1)(A), and any sum deposited under paragraph (1)(B) that is not returned to the party demanding the trial de novo, shall be paid to the Treasury of the United States.
-  (4) Any rule under this subsection shall provide that no penalty for demanding a trial de novo, other than that provided in this subsection, shall be assessed by the court.
-  (e) T4Assessment of Costs and Attorney FeesK.–In any trial de novo demanded under subsection (a) in which arbitration was done by consent of the parties, a district court may assess costs, as provided in section 1920 of this title, and reasonable attorney fees against the party demanding the trial de novo if–
-    (1) such party fails to obtain a judgment, exclusive of interest and costs, in the court which is substantially more favorable to such party than the arbitration award, and
-    (2) the court determines that the party“s conduct in seeking a trial de novo was in bad faith.
+  (a) T4Powers of ArbitratorsK.–An arbitrator to whom an action is referred under section 654 shall have the power, within the judicial district of the district court which referred the action to arbitration–
+    (1) to conduct arbitration hearings;
+    (2) to administer oaths and affirmations; and
+    (3) to make awards.
+  (b) T4Standards for CertificationK.–Each district court that authorizes arbitration shall establish standards for the certification of arbitrators and shall certify arbitrators to perform services in accordance with such standards and this chapter. The standards shall include provisions requiring that any arbitrator–
+    (1) shall take the oath or affirmation described in section 453; and
+    (2) shall be subject to the disqualification rules under section 455.
+  (c) T4ImmunityK.–All individuals serving as arbitrators in an alternative dispute resolution program under this chapter are performing quasi-judicial functions and are entitled to the immunities and protections that the law accords to persons serving in such capacity.
