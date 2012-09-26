@@ -1,5 +1,5 @@
   (a) In general
-     The Administrator may authorize the heads of any of the executive agencies, in accordance with subsection (d)(2) of this section, to carry out a pilot program to test the feasibility of using solutions-based contracting for acquisition of information technology.
+     The Administrator may authorize the heads of any of the executive agencies, in accordance with subsection (d) of this section, to carry out a pilot program to test the feasibility of using solutions-based contracting for acquisition of information technology.
   (b) Solutions-based contracting described
      For purposes of this section, solutions-based contracting is an acquisition method under which the acquisition objectives are defined by the Federal Government user of the technology to be acquired, a streamlined contractor selection process is used, and industry sources are allowed to provide solutions that attain the objectives effectively.
   (c) Process requirements
@@ -39,7 +39,7 @@
     (9) Selection of most qualified offeror
        A selection process consisting of the following:
       (A) Identification of the most qualified source or sources, primarily on the basis of the oral proposals, presentations, and discussions, and written proposals submitted in accordance with paragraph (7).
-      (B) Conduct for 30 to 60 days (or a longer period, if approved by the Administrator) of a program definition phase (funded, in the case of the source ultimately awarded the contract, by the Federal Government)–
+      (B) Conduct for 30 to 60 days (or a longer period, if approved by the Administrator) of a program definition phase–
         (i) during which the selected source or sources, in consultation with one or more intended users, develops a conceptual system design and technical approach, defines logical phases for the project, and estimates the total cost and the cost for each phase; and
         (ii) after which a contract for performance of the work may be awarded to the source whose offer is determined to be most advantageous to the Government on the basis of cost, the responsiveness, reasonableness, and quality of the proposed performance, and a sharing of risk and benefits between the source and the Government.
       (C) Conduct of as many successive program definition phases as is necessary in order to award a contract in accordance with subparagraph (B).
@@ -49,17 +49,10 @@
        Authority for the Federal Government or the contractor to terminate the contract without penalty at the end of any phase defined for the project.
     (12) Time management discipline
        Application of a standard for awarding a contract within 105 to 120 days after issuance of the solicitation, except that the Administrator may approve the application of a longer standard period.
-  (d) Pilot program design
-    (1) Joint public-private working group
-       The Administrator, in consultation with the Administrator for the Office of Information and Regulatory Affairs, shall establish a joint working group of Federal Government personnel and representatives of the information technology industry to design a plan for conduct of any pilot program carried out under this section.
-    (2) Content of plan
-       The plan shall provide for use of solutions-based contracting in the Department of Defense and not more than two other executive agencies for a total of–
-      (A) not more than 10 projects, each of which has an estimated cost of between $25,000,000 and $100,000,000; and
-      (B) not more than 10 projects, each of which has an estimated cost of between $1,000,000 and $5,000,000, to be set aside for small business concerns.
-    (3) Complexity of projects
-      (A) Subject to subparagraph (C), each acquisition project under the pilot program shall be sufficiently complex to provide for meaningful evaluation of the use of solutions-based contracting for acquisition of information technology for executive agencies.
-      (B) In order for an acquisition project to satisfy the requirement in subparagraph (A), the solution for attainment of the executive agency“s objectives under the project should not be obvious, but rather shall involve a need for some innovative development and systems integration.
-      (C) An acquisition project should not be so extensive or lengthy as to result in undue delay in the evaluation of the use of solutions-based contracting.
+  (d) Pilot program projects
+     The Administrator shall authorize to be carried out under the pilot program–
+    (1) not more than 10 projects, each of which has an estimated cost of at least $25,000,000 and not more than $100,000,000; and
+    (2) not more than 10 projects for small business concerns, each of which has an estimated cost of at least $1,000,000 and not more than $5,000,000.
   (e) Monitoring by GAO
      The Comptroller General of the United States shall–
     (1) monitor the conduct, and review the results, of acquisitions under the pilot program; and
