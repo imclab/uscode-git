@@ -1,1 +1,15 @@
-   No person convicted in a court of competent jurisdiction of any subversive act against the United States or any of its Allies, committed after the declaration by the President on May 27, 1941, of the national emergency, shall be entitled to compensation or other benefits under subchapter I of this chapter, nor shall any compensation be payable with respect to his death or detention under said subchapter, and upon indictment or the filing of an information charging the commission of any such subversive act, all such compensation or other benefits shall be suspended and remain suspended until acquittal or withdrawal of such charge, but upon conviction thereof or upon death occurring prior to a final disposition thereof, all such payments and all benefits under said subchapter shall be forfeited and terminated. If the charge is withdrawn, or there is an acquittal, all such compensation withheld shall be paid to the person or persons entitled thereto.
+  (a) T4Maintaining Records on ComputerK.–Each executive agency shall establish and maintain for 5 years a computer file, by fiscal year, containing unclassified records of all procurements greater than the simplified acquisition threshold in that fiscal year.
+  (b) T4ContentsK.–The record established under subsection (a) shall include, with respect to each procurement carried out using–
+    (1) competitive procedures–
+      (A) the date of contract award;
+      (B) information identifying the source to whom the contract was awarded;
+      (C) the property or services the Federal Government obtains under the procurement; and
+      (D) the total cost of the procurement; or
+    (2) procedures other than competitive procedures–
+      (A) the information described in paragraph (1);
+      (B) the reason under section 3304(a) of this title or section 2304(c) of title 10 for using the procedures; and
+      (C) the identity of the organization or activity that conducted the procurement.
+  (c) T4Separate Record Category for Procurements Resulting in One Bid or ProposalK.–Information included in a record pursuant to subsection (b)(1) that relates to procurements resulting in the submission of a bid or proposal by only one responsible source shall be separately categorized from the information relating to other procurements included in the record. The record of that information shall be designated ””noncompetitive procurements using competitive procedures““.
+  (d) T4Transmission and Data Entry of InformationK.–The head of each executive agency shall–
+    (1) ensure the accuracy of the information included in the record established and maintained by the agency under subsection (a); and
+    (2) transmit in a timely manner such information to the General Services Administration for entry into the Federal Procurement Data System referred to in section 1122(a)(4) of this title, or any successor system.
