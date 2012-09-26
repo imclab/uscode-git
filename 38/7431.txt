@@ -14,21 +14,36 @@
        T2the rate
         
        T2payable for:
-       two years or less I44step 1   
-       more than 2 years and not more than 4 years I44step 2   
-       more than 4 years and not more than 6 years I44step 3   
-       more than 6 years and not more than 8 years I44step 4   
-       more than 8 years and not more than 10 years I44step 5   
-       more than 10 years and not more than 12 years I44step 6   
-       more than 12 years and not more than 14 years I44step 7   
-       more than 14 years and not more than 16 years I44step 8   
-       more than 16 years and not more than 18 years I44step 9   
-       more than 18 years and not more than 20 years I44step 10  
-       more than 20 years and not more than 22 years I44step 11  
-       more than 22 years and not more than 24 years I44step 12  
-       more than 24 years and not more than 26 years I44step 13  
-       more than 26 years and not more than 28 years I44step 14  
-       more than 28 years I44step 15.
+       two years or less
+       step 1   
+       more than 2 years and not more than 4 years
+       step 2   
+       more than 4 years and not more than 6 years
+       step 3   
+       more than 6 years and not more than 8 years
+       step 4   
+       more than 8 years and not more than 10 years
+       step 5   
+       more than 10 years and not more than 12 years
+       step 6   
+       more than 12 years and not more than 14 years
+       step 7   
+       more than 14 years and not more than 16 years
+       step 8   
+       more than 16 years and not more than 18 years
+       step 9   
+       more than 18 years and not more than 20 years
+       step 10  
+       more than 20 years and not more than 22 years
+       step 11  
+       more than 22 years and not more than 24 years
+       step 12  
+       more than 24 years and not more than 26 years
+       step 13  
+       more than 26 years and not more than 28 years
+       step 14  
+       more than 28 years
+       step 15.
     (4) At the same time as rates of basic pay are increased for a year under section 5303 of title 5, the Secretary shall increase the amount of base pay payable under this subsection for that year by a percentage equal to the percentage by which rates of basic pay are increased under such section for that year.
   (c) T4Market PayK.–One element of pay for physicians and dentists shall be market pay. Market pay shall meet the following requirements:
     (1) Each physician and dentist is eligible for market pay.

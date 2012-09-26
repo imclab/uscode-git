@@ -25,3 +25,10 @@
   (10) The term ””insurable dependent““, with respect to a member, means the following:
     (A) The member“s spouse.
     (B) The member“s child, as defined in the first sentence of section 101(4)(A) of this title.
+  (11) The term ””activities of daily living““ means the inability to independently perform 2 of the 6 following functions:
+    (A) Bathing.
+    (B) Continence.
+    (C) Dressing.
+    (D) Eating.
+    (E) Toileting.
+    (F) Transferring.
