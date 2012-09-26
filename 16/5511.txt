@@ -34,7 +34,7 @@
         (xi) such other agencies and departments as the President or the Director considers appropriate;
       (C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
       (D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
-      (E) include the report of the Secretary of Energy required by section 5523(d) of this title; and
+      (E) include the report of the Secretary of Energy required by section 5523(d) \1\N of this title; and
       (F) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
   (b) Advisory committee
      The President shall establish an advisory committee on high-performance computing consisting of non-Federal members, including representatives of the research, education, and library communities, network providers, and industry, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of–

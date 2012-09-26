@@ -129,14 +129,14 @@
     (2) the purpose is certified in accordance with section 1681e of this title by a prospective user of the report through a general or specific certification.
   (g) Protection of medical information
     (1) Limitation on consumer reporting agencies
-       A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless–
+       A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information (other than medical contact information treated in the manner required under section 1681c(a)(6) of this title) about a consumer, unless–
       (A) if furnished in connection with an insurance transaction, the consumer affirmatively consents to the furnishing of the report;
       (B) if furnished for employment purposes or in connection with a credit transaction–
         (i) the information to be furnished is relevant to process or effect the employment or credit transaction; and
         (ii) the consumer provides specific written consent for the furnishing of the report that describes in clear and conspicuous language the use for which the information will be furnished; or
       (C) the information to be furnished pertains solely to transactions, accounts, or balances relating to debts arising from the receipt of medical services, products, or devises, where such information, other than account status or amounts, is restricted or reported using codes that do not identify, or do not provide information sufficient to infer, the specific provider or the nature of such services, products, or devices, as provided in section 1681c(a)(6) of this title.
     (2) Limitation on creditors
-       Except as permitted pursuant to paragraph (3)(C) or regulations prescribed under paragraph (5)(A), a creditor shall not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer“s eligibility, or continued eligibility, for credit.
+       Except as permitted pursuant to paragraph (3)(C) or regulations prescribed under paragraph (5)(A), a creditor shall not obtain or use medical information (other than medical information treated in the manner required under section 1681c(a)(6) of this title) pertaining to a consumer in connection with any determination of the consumer“s eligibility, or continued eligibility, for credit.
     (3) Actions authorized by Federal law, insurance activities and regulatory determinations
        Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed–
       (A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
