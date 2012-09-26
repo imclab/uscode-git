@@ -1,7 +1,7 @@
   (a) Exemption by Director of Central Intelligence
      Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence from the provisions of section 552 of title 5 (Freedom of Information Act) which require publication or disclosure, or search or review in connection therewith.
   (b) ””Operational files““ defined
-     For the purposes of this title the term ””operational files““ means–
+     In this section, the term ””operational files““ means–
     (1) files of the Directorate of Operations which document the conduct of foreign intelligence or counterintelligence operations or intelligence or security liaison arrangements or information exchanges with foreign governments or their intelligence or security services;
     (2) files of the Directorate for Science and Technology which document the means by which foreign intelligence or counterintelligence is collected through scientific and technical systems; and
     (3) files of the Office of Personnel Security which document investigations conducted to determine the suitability of potential foreign intelligence or counterintelligence sources;
@@ -27,3 +27,12 @@
     (5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
     (6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
     (7) if at any time following the filing of a complaint pursuant to this subsection the Central Intelligence Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
+  (g) Decennial review of exempted operational files
+    (1) Review by Director of Central Intelligence
+       Not less than once every ten years, the Director of Central Intelligence shall review the exemptions in force under subsection (a) of this section to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
+    (2) Consideration; historical value; public interest
+       The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
+    (3) Judicial review
+       A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court“s review shall be limited to determining the following:
+      (A) Whether the Central Intelligence Agency has conducted the review required by paragraph (1) before October 15, 1994, or before the expiration of the 10-year period beginning on the date of the most recent review.
+      (B) Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
