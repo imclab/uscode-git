@@ -11,7 +11,7 @@
   (c) T4Records Concerning Electronic Communication Service or Remote Computing ServiceK.–(1) A governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity–
     (A) obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation or equivalent State warrant;
     (B) obtains a court order for such disclosure under subsection (d) of this section;
-    (C) has the consent of the subscriber or customer to such disclosure; or \1\N
+    (C) has the consent of the subscriber or customer to such disclosure;
     (D) submits a formal written request relevant to a law enforcement investigation concerning telemarketing fraud for the name, address, and place of business of a subscriber or customer of such provider, which subscriber or customer is engaged in telemarketing (as such term is defined in section 2325 of this title); or
     (E) seeks information under paragraph (2).
   (2) A provider of electronic communication service or remote computing service shall disclose to a governmental entity the–
