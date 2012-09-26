@@ -6,7 +6,7 @@
     (A) with respect to a futures commission merchant, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
     (B) with respect to a foreign futures commission merchant, foreign future;
     (C) with respect to a leverage transaction merchant, leverage transaction;
-    (D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+    (D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization; or
     (E) with respect to a commodity options dealer, commodity option;
   (5) ””commodity option““ means agreement or transaction subject to regulation under section 4c(b) of the Act;
   (6) ””commodity options dealer““ means person that extends credit to, or that accepts cash, a security, or other property from, a customer of such person for the purchase or sale of an interest in a commodity option;
