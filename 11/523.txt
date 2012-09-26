@@ -38,10 +38,18 @@
       (A) the debtor physically occupied a dwelling unit in the condominium or cooperative project; or
       (B) the debtor rented the dwelling unit to a tenant and received payments from the tenant for such period,
      but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
-    (17) for a fee imposed by a court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under section 1915(b) or (f) of title 28, or the debtor“s status as a prisoner, as defined in section 1915(h) of title 28; or
+    (17) for a fee imposed by a court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under section 1915(b) or (f) of title 28, or the debtor“s status as a prisoner, as defined in section 1915(h) of title 28;
     (18) owed under State law to a State or municipality that is–
       (A) in the nature of support, and
-      (B) enforceable under part D of title IV of the Social Security Act (42 U.S.C. 601 et seq.).
+      (B) enforceable under part D of title IV of the Social Security Act (42 U.S.C. 601 et seq.); or
+    (19) that–
+      (A) is for–
+        (i) the violation of any of the Federal securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934), any of the State securities laws, or any regulation or order issued under such Federal or State securities laws; or
+        (ii) common law fraud, deceit, or manipulation in connection with the purchase or sale of any security; and
+      (B) results from–
+        (i) any judgment, order, consent order, or decree entered in any Federal or State judicial or administrative proceeding;
+        (ii) any settlement agreement entered into by the debtor; or
+        (iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
   (b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A \1\N of the Higher Education Act of 1965, or under section 733(g) \1\ of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
   (c)    (1) Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), (6), or (15) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), (6), or (15), as the case may be, of subsection (a) of this section.
     (2) Paragraph (1) shall not apply in the case of a Federal depository institutions regulatory agency seeking, in its capacity as conservator, receiver, or liquidating agent for an insured depository institution, to recover a debt described in subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed to such institution by an institution-affiliated party unless the receiver, conservator, or liquidating agent was appointed in time to reasonably comply, or for a Federal depository institutions regulatory agency acting in its corporate capacity as a successor to such receiver, conservator, or liquidating agent to reasonably comply, with subsection (a)(3)(B) as a creditor of such institution-affiliated party with respect to such debt.
