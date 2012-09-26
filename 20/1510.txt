@@ -1,17 +1,8 @@
-  (a) Whoever willfully endeavors by means of bribery to obstruct, delay, or prevent the communication of information relating to a violation of any criminal statute of the United States by any person to a criminal investigator shall be fined under this title, or imprisoned not more than five years, or both.
-  (b)    (1) Whoever, being an officer of a financial institution, with the intent to obstruct a judicial proceeding, directly or indirectly notifies any other person about the existence or contents of a subpoena for records of that financial institution, or information that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than 5 years, or both.
-    (2) Whoever, being an officer of a financial institution, directly or indirectly notifies–
-      (A) a customer of that financial institution whose records are sought by a grand jury subpoena; or
-      (B) any other person named in that subpoena;
-         about the existence or contents of that subpoena or information that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than one year, or both.
-    (3) As used in this subsection–
-      (A) the term ””an officer of a financial institution““ means an officer, director, partner, employee, agent, or attorney of or for a financial institution; and
-      (B) the term ””subpoena for records““ means a Federal grand jury subpoena for customer records that has been served relating to a violation of, or a conspiracy to violate–
-        (i) section 215, 656, 657, 1005, 1006, 1007, 1014, 1344, 1956, 1957, or chapter 53 of title 31; or
-        (ii) section 1341 or 1343 affecting a financial institution.
-  (c) As used in this section, the term ””criminal investigator““ means any individual duly authorized by a department, agency, or armed force of the United States to conduct or engage in investigations of or prosecutions for violations of the criminal laws of the United States.
-  (d)    (1) Whoever–
-      (A) acting as, or being, an officer, director, agent or employee of a person engaged in the business of insurance whose activities affect interstate commerce, or
-      (B) is engaged in the business of insurance whose activities affect interstate commerce or is involved (other than as an insured or beneficiary under a policy of insurance) in a transaction relating to the conduct of affairs of such a business,
-         with intent to obstruct a judicial proceeding, directly or indirectly notifies any other person about the existence or contents of a subpoena for records of that person engaged in such business or information that has been furnished to a Federal grand jury in response to that subpoena, shall be fined as provided by this title or imprisoned not more than 5 years, or both.
-    (2) As used in paragraph (1), the term ””subpoena for records““ means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
+  (a) Order of court
+     If any person summoned under section 1509 of this title does not comply with the summons, the district court of the United States for any district in which such person is found or resides or is doing business, upon application and after notice to any such person and hearing, shall have jurisdiction to issue an order requiring such person to comply with the summons. Failure to obey such order of the court may be punished by such court as a contempt thereof and such court may assess a monetary penalty.
+  (b) Sanctions
+    (1) For so long as any person, after being adjudged guilty of contempt for neglecting or refusing to obey a lawful summons issued under section 1509 of this title and for refusing to obey the order of the court, remains in contempt, the Secretary may–
+      (A) prohibit that person from importing merchandise into the customs territory of the United States directly or indirectly or for his account, and
+      (B) instruct the appropriate customs officers to withhold delivery of merchandise imported directly or indirectly by that person or for his account.
+    (2) If any person remains in contempt for more than one year after the date on which the Secretary issues instructions under paragraph (1)(B) with respect to that person, the appropriate customs officers shall cause all merchandise held in customs custody pursuant to such instructions to be sold at public auction or otherwise disposed of under the customs laws.
+    (3) The sanctions which may be imposed under paragraphs (1) and (2) are in addition to any punishment which may be imposed by the court for contempt.

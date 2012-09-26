@@ -1,45 +1,18 @@
-  (a) Establishment and purpose
-    (1) In general
-       The Secretary shall establish a Federal Interagency Coordinating Council in order to–
-      (A) minimize duplication of programs and activities relating to early intervention services for infants and toddlers with disabilities and their families, and preschool services for children with disabilities, across Federal, State, and local agencies;
-      (B) ensure the effective coordination of Federal early intervention and preschool programs and policies across Federal agencies;
-      (C) coordinate the provision of Federal technical assistance and support activities to States;
-      (D) identify gaps in Federal agency programs and services; and
-      (E) identify barriers to Federal interagency cooperation.
-    (2) Appointments
-       The council established under paragraph (1) (hereafter in this section referred to as the ””Council““) and the chairperson of the Council shall be appointed by the Secretary in consultation with other appropriate Federal agencies. In making the appointments, the Secretary shall ensure that each member has sufficient authority to engage in policy planning and implementation on behalf of the department, agency, or program that such member represents.
-  (b) Composition
-     The Council shall be composed of–
-    (1) a representative of the Office of Special Education Programs;
-    (2) a representative of the National Institute on Disability and Rehabilitation Research;
-    (3) a representative of the Maternal and Child Health Services Block Grant Program;
-    (4) a representative of programs assisted under the Developmental Disabilities Assistance and Bill of Rights Act [42 U.S.C. 6000 et seq.];
-    (5) a representative of the Health Care Financing Administration;
-    (6) a representative of the Division of Birth Defects and Developmental Disabilities of the Centers for Disease Control;
-    (7) a representative of the Social Security Administration;
-    (8) a representative of the special supplemental nutrition program for women, infants, and children of the Department of Agriculture;
-    (9) a representative of the National Institute of Mental Health;
-    (10) a representative of the National Institute of Child Health and Human Development;
-    (11) a representative of the Bureau of Indian Affairs of the Department of the Interior;
-    (12) a representative of the Indian Health Service;
-    (13) a representative of the Surgeon General;
-    (14) a representative of the Department of Defense;
-    (15) a representative of the Administration for Children and Families;
-    (16) a representative of the Substance Abuse and Mental Health Services Administration;
-    (17) a representative of the Pediatric Aids Health Care Demonstration Program in the Public Health Service;
-    (18) at least 3 parents of children with disabilities age 12 or under, of whom at least one must have a child with a disability under the age of 6;
-    (19) at least 2 representatives of State lead agencies for early intervention services to infants and toddlers, one of which must be a representative of a State educational agency and the other a representative of a noneducational agency;
-    (20) other members representing appropriate agencies involved in the provision of, or payment for, early intervention services and special education and related services to infants and toddlers with disabilities and their families and preschool children with disabilities; and
-    (21) other persons appointed by the Secretary.
-  (c) Meetings
-     The Council shall meet at least quarterly and in such places as the Council deems necessary. The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
-  (d) Functions of Council
-     The Council shall–
-    (1) advise and assist the Secretary in the performance of the Secretary“s responsibilities described in this subchapter;
-    (2) conduct policy analyses of Federal programs related to the provision of early intervention services and special educational and related services to infants and toddlers with disabilities and their families, and preschool children with disabilities, in order to determine areas of conflict, overlap, duplication, or inappropriate omission;
-    (3) identify strategies to address issues described in paragraph (2);
-    (4) develop and recommend joint policy memoranda concerning effective interagency collaboration, including modifications to regulations, and the elimination of barriers to interagency programs and activities;
-    (5) coordinate technical assistance and disseminate information on best practices, effective program coordination strategies, and recommendations for improved early intervention programming for infants and toddlers with disabilities and their families and preschool children with disabilities; and
-    (6) facilitate activities in support of States“ interagency coordination efforts.
-  (e) Conflict of interest
-     No member of the Council shall cast a vote on any matter that would provide direct financial benefit to that member or otherwise give the appearance of a conflict of interest under Federal law.
+  (a) Requirement; form and contents
+     Every importer of record making an entry under the provisions of section 1484 of this title shall make and file or transmit electronically therewith, in a form and manner to be prescribed by the Secretary of the Treasury, a declaration under oath, stating–
+    (1) Whether the merchandise is imported in pursuance of a purchase or an agreement to purchase, or whether it is imported otherwise than in pursuance of a purchase or agreement to purchase;
+    (2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case of merchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or price are true to the best of his knowledge and belief;
+    (3) That all other statements in the invoice or other documents filed with the entry, or in the entry itself, are true and correct; and
+    (4) That he will produce at once to the appropriate customs officer any invoice, paper, letter, document, or information received showing that any such prices or statements are not true or correct.
+  (b) Books and periodicals
+     The Secretary of the Treasury is authorized to prescribe regulations for one declaration in the case of books, magazines, newspapers, and periodicals published and imported in successive parts, numbers, or volumes, and entitled to free entry.
+  (c) Agents
+     In the event that an entry is made by an agent under the provisions of section 1484 of this title and such agent is not in possession of such declaration of the importer of record, such agent shall give a bond to produce such declaration.
+  (d) Liability of importer of record for increased duties
+     An importer of record shall not be liable for any additional or increased duties if (1) he declares at the time of entry that he is not the actual owner of the merchandise, (2) he furnishes the name and address of such owner, and (3) within ninety days from the date of entry he produces a declaration of such owner conditioned that he will pay all additional and increased duties, under such regulations as the Secretary of the Treasury may prescribe. Such owner shall possess all the rights of an importer of record.
+  (e) Separate forms for purchase and nonpurchase importations
+     The Secretary of the Treasury shall prescribe separate forms for the declaration in the case of merchandise which is imported in pursuance of a purchase or agreement to purchase and merchandise which is imported otherwise than in pursuance of a purchase or agreement to purchase.
+  (f) Deceased or insolvent persons; partnerships and corporations
+     Whenever such merchandise is consigned to a deceased person, or to an insolvent person who has assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a case under title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
+  (g) Exported merchandise returned as undeliverable
+     With respect to any importation of merchandise to which General Headnote 4(e) of the Harmonized Tariff Schedule of the United States applies, any person who gained any benefit from, or met any obligation to, the United States as a result of the prior exportation of such merchandise shall, in accordance with regulations prescribed by the Secretary, within a reasonable time inform the Customs Service of the return of the merchandise.

@@ -1,13 +1,35 @@
-  (a) Findings
-     The Congress finds that there is an urgent and substantial need–
-    (1) to enhance the development of infants and toddlers with disabilities and to minimize their potential for developmental delay;
-    (2) to reduce the educational costs to our society, including our Nation“s schools, by minimizing the need for special education and related services after infants and toddlers with disabilities reach school age;
-    (3) to minimize the likelihood of institutionalization of individuals with disabilities and maximize the potential for their independently living in society;
-    (4) to enhance the capacity of families to meet the special needs of their infants and toddlers with disabilities; and
-    (5) to enhance the capacity of State and local agencies and service providers to identify, evaluate, and meet the needs of historically underrepresented populations, particularly minority, low-income, inner-city, and rural populations.
-  (b) Policy
-     It is therefore the policy of the United States to provide financial assistance to States–
-    (1) to develop and implement a statewide, comprehensive, coordinated, multidisciplinary, interagency system that provides early intervention services for infants and toddlers with disabilities and their families;
-    (2) to facilitate the coordination of payment for early intervention services from Federal, State, local, and private sources (including public and private insurance coverage);
-    (3) to enhance their capacity to provide quality early intervention services and expand and improve existing early intervention services being provided to infants and toddlers with disabilities and their families; and
-    (4) to encourage States to expand opportunities for children under 3 years of age who would be at risk of having substantial developmental delay if they did not receive early intervention services.
+  (a) In general
+     Every vessel required to make entry under section 1434 of this title or obtain clearance under section 91 of title 46, Appendix, shall have a manifest that complies with the requirements prescribed under subsection (d) of this section.
+  (b) Production of manifest
+     Any manifest required by the Customs Service shall be signed, produced, delivered or electronically transmitted by the master or person in charge of the vessel, aircraft, or vehicle, or by any other authorized agent of the owner or operator of the vessel, aircraft, or vehicle in accordance with the requirements prescribed under subsection (d) of this section. A manifest may be supplemented by bill of lading data supplied by the issuer of such bill. If any irregularity of omission or commission occurs in any way in respect to any manifest or bill of lading data, the owner or operator of the vessel, aircraft or vehicle, or any party responsible for such irregularity, shall be liable for any fine or penalty prescribed by law with respect to such irregularity. The Customs Service may take appropriate action against any of the parties.
+  (c) Public disclosure of certain manifest information
+    (1) Except as provided in subparagraph (2), the following information, when contained in a vessel vessel \1\N or aircraft manifest, shall be available for public disclosure:
+      (A) The name and address of each importer or consignee and the name and address of the shipper to such importer or consignee, unless the importer or consignee has made a biennial certification, in accordance with procedures adopted by the Secretary of the Treasury, claiming confidential treatment of such information.
+      (B) The general character of the cargo.
+      (C) The number of packages and gross weight.
+      (D) The name of the vessel, aircraft, or carrier.
+      (E) The seaport or airport of loading.
+      (F) The seaport or airport of discharge.
+      (G) The country of origin of the shipment.
+      (H) The trademarks appearing on the goods or packages.
+    (2) The information listed in paragraph (1) shall not be available for public disclosure if–
+      (A) the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
+      (B) the information is exempt under the provisions of section 552(b)(1) of title 5.
+    (3) The Secretary of the Treasury, in order to allow for the timely dissemination and publication of the information listed in paragraph (1), shall establish procedures to provide access to manifests. Such procedures shall include provisions for adequate protection against the public disclosure of information not available for public disclosure from such manifests.
+  (d) Regulations
+    (1) In general
+       The Secretary shall by regulation–
+      (A) specify the form for, and the information and data that must be contained in, the manifest required by subsection (a) of this section;
+      (B) allow, at the option of the individual producing the manifest and subject to paragraph (2), letters and documents shipments to be accounted for by summary manifesting procedures;
+      (C) prescribe the manner of production for, and the delivery for electronic transmittal of, the manifest required by subsection (a) of this section; and
+      (D) prescribe the manner for supplementing manifests with bill of lading data under subsection (b) of this section.
+    (2) Letters and documents shipments
+       For purposes of paragraph (1)(B)–
+      (A) the Customs Service may require with respect to letters and documents shipments–
+        (i) that they be segregated by country of origin, and
+        (ii) additional examination procedures that are not necessary for individually manifested shipments;
+      (B) standard letter envelopes and standard document packs shall be segregated from larger document shipments for purposes of customs inspections; and
+      (C) the term ””letters and documents““ means–
+        (i) data described in General Headnote 4(c) of the Harmonized Tariff Schedule of the United States,
+        (ii) securities and similar evidences of value described in heading 4907 of such Schedule, but not monetary instruments defined pursuant to chapter 53 of title 31, and
+        (iii) personal correspondence, whether on paper, cards, photographs, tapes, or other media.

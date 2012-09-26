@@ -1,8 +1,27 @@
-  (a) Fiscal years 1978 through 1983
-     There are authorized to be appropriated $20,000,000 for each of the fiscal years 1978 through 1983, to carry out the provisions of this subchapter.
-  (b) Limitations; allotments to States, etc.; reallotments
-    (1) There are authorized to be appropriated $3,000,000 for fiscal year 1977, for purposes of grants to States made by the Secretary of Education for programs, projects, and leadership activities designed to expand and strengthen counseling and guidance services in elementary and secondary schools.
-    (2) No sums are authorized to be appropriated under section 401(a) \1\N of the Elementary and Secondary Education Act of 1965 for fiscal year 1977, for the purpose of making grants under part B (Libraries and Learning Resources) of title IV of such Act, for such fiscal year which represent the amount authorized to be appropriated under paragraph (1) of this subsection.
-    (3)      (A) The Secretary of Education shall allot the amounts appropriated under this subsection among Guam, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands according to their respective needs for assistance under this subsection. In addition, he shall allot from such amounts to (i) the Secretary of the Interior the amounts necessary for the programs, projects, and activities authorized by this subsection for children and teachers in elementary and secondary schools operated for Indian children by the Department of the Interior; and (ii) the Secretary of Defense the amounts necessary for the programs, projects, and activities authorized by this subsection for children and teachers in the overseas dependents schools of the Department of Defense. The terms upon which payment for such purposes shall be made to the Secretary of the Interior and the Secretary of Defense shall be determined pursuant to such criteria as the Secretary of Education determines will best carry out the purposes of this subsection.
-      (B) From the amounts appropriated to carry out this subsection, the Secretary of Education shall allot to each State from such amounts an amount which bears the same ratio to such amounts as the number of children aged five to seventeen, inclusive, in the State bears to the number of such children in all the States. For the purposes of this subparagraph, the term ””State““ shall not include Guam, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands. The number of children aged five to seventeen, inclusive, in a State and in all the States shall be determined by the Secretary of Education on the basis of the most recent satisfactory data available to him.
-      (C) The amount of any State“s allotment under subparagraph (A) or subparagraph (B) to carry out this subsection which the Secretary of Education determines will not be required to carry out this subsection shall be available for reallotment from time to time, on such dates as the Secretary of Education may fix, to other States in proportion to the original allotments to such States under subparagraph (A) or subparagraph (B) but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary of Education estimates such State needs and will be able to use. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amounts reallotted to a State under this subparagraph from funds appropriated under this subsection shall be deemed a part of its allotment under subparagraph (A) or subparagraph (B).
+   No Federal agency may engage in any standards-related activity that creates unnecessary obstacles to the foreign commerce of the United States, including, but not limited to, standards-related activities that violate any of the following requirements:
+  (1) Nondiscriminatory treatment
+     Each Federal agency shall ensure, in applying standards-related activities with respect to any imported product, that such product is treated no less favorably than are like domestic or imported products, including, but not limited to, when applying tests or test methods, no less favorable treatment with respect to–
+    (A) the acceptance of the product for testing in comparable situations;
+    (B) the administration of the tests in comparable situations;
+    (C) the fees charged for tests;
+    (D) the release of test results to the exporter, importer, or agents;
+    (E) the siting of testing facilities and the selection of samples for testing; and
+    (F) the treatment of confidential information pertaining to the product.
+  (2) Use of international standards
+    (A) In general
+       Except as provided in subparagraph (B)(ii), each Federal agency, in developing standards, shall take into consideration international standards and shall, if appropriate, base the standards on international standards.
+    (B) Application of requirement
+       For purposes of this paragraph, the following apply:
+      (i) International standards not appropriate
+         The reasons for which the basing of a standard on an international standard may not be appropriate include, but are not limited to, the following:
+        (I) National security requirements.
+        (II) The prevention of deceptive practices.
+        (III) The protection of human health or safety, animal or plant life or health, or the environment.
+        (IV) Fundamental climatic or other geographical factors.
+        (V) Fundamental technological problems.
+      (ii) Regional standards
+         In developing standards, a Federal agency may, but is not required to, take into consideration any international standard promulgated by an international standards organization the membership of which is described in section 2571(6)(A)(ii) \1\N of this title.
+  (3) Performance criteria
+     Each Federal agency shall, if appropriate, develop standards based on performance criteria, such as those relating to the intended use of a product and the level of performance that the product must achieve under defined conditions, rather than on design criteria, such as those relating to the physical form of the product or the types of material of which the product is made.
+  (4) Access for foreign suppliers
+     Each Federal agency shall, with respect to any conformity assessment procedure used by it, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.

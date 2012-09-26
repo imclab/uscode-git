@@ -1,14 +1,83 @@
-  (a) T4ProhibitionsK.–Except as provided in subsection (b)–
-    (1) a person or entity providing an electronic communication service to the public shall not knowingly divulge to any person or entity the contents of a communication while in electronic storage by that service; and
-    (2) a person or entity providing remote computing service to the public shall not knowingly divulge to any person or entity the contents of any communication which is carried or maintained on that service–
-      (A) on behalf of, and received by means of electronic transmission from (or created by means of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such service; and
-      (B) solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing.
-  (b) T4ExceptionsK.–A person or entity may divulge the contents of a communication–
-    (1) to an addressee or intended recipient of such communication or an agent of such addressee or intended recipient;
-    (2) as otherwise authorized in section 2517, 2511(2)(a), or 2703 of this title;
-    (3) with the lawful consent of the originator or an addressee or intended recipient of such communication, or the subscriber in the case of remote computing service;
-    (4) to a person employed or authorized or whose facilities are used to forward such communication to its destination;
-    (5) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service; or
-    (6) to a law enforcement agency, if such contents–
-      (A) were inadvertently obtained by the service provider; and
-      (B) appear to pertain to the commission of a crime.
+  (a) Definitions; termination of designation
+    (1) For purposes of this chapter–
+      (A) The term ””beneficiary country““ means any country listed in subsection (b) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter. Before the President designates any country as a beneficiary country for purposes of this chapter, he shall notify the House of Representatives and the Senate of his intention to make such designation, together with the considerations entering into such decision.
+      (B) The term ””entered““ means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
+      (C) The term ””HTS““ means Harmonized Tariff Schedule of the United States.
+    (2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
+  (b) Countries eligible for designation as beneficiary countries; conditions
+     In designating countries as ””beneficiary countries““ under this chapter the President shall consider only the following countries and territories or successor political entities:
+      Anguilla
+     Jamaica
+      Antigua and Barbuda
+     Nicaragua
+      Bahamas, The
+     Panama
+      Barbados
+     Saint Lucia
+      Belize
+     Saint Vincent and the
+      Costa Rica
+      Grenadines
+      Dominica
+     Suriname
+      Dominican Republic
+     Trinidad and Tobago
+      El Salvador
+     Cayman Islands
+      Grenada
+     Montserrat
+      Guatemala
+     Netherlands Antilles
+      Guyana
+     Saint Christopher-Nevis
+      Haiti
+     Turks and Caicos Islands
+      Honduras
+     Virgin Islands, British
+     In addition, the President shall not designate any country a beneficiary country under this chapter–
+    (1) if such country is a Communist country;
+    (2) if such country–
+      (A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or by a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,
+      (B) has taken steps to repudiate or nullify–
+        (i) any existing contract or agreement with, or
+        (ii) any patent, trademark, or other intellectual property of,
+       a United States citizen or a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property so owned, or
+      (C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property, unless the President determines that–
+        (i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
+        (ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
+        (iii) a dispute involving such citizen, corporation, partnership, or association, over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum, and
+     promptly furnishes a copy of such determination to the Senate and House of Representatives;
+    (3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership or association which is 50 per centum or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
+    (4) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverse effect, and he reports those assurances to the Congress;
+    (5) if a government-owned entity in such country engages in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent;
+    (6) unless such country is a signatory to a treaty, convention, protocol, or other agreement regarding the extradition of United States citizens; and
+    (7) if such country has not or is not taking steps to afford internationally recognized worker rights (as defined in section 2467(4) of this title) to workers in the country (including any designated zone in that country).
+       Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any country as a beneficiary country under this Act if the President determines that such designation will be in the national economic or security interest of the United States and reports such determination to the Congress with his reasons therefor.
+  (c) Factors determining designation
+     In determining whether to designate any country a beneficiary country under this chapter, the President shall take into account–
+    (1) an expression by such country of its desire to be so designated;
+    (2) the economic conditions in such country, the living standards of its inhabitants, and any other economic factors which he deems appropriate;
+    (3) the extent to which such country has assured the United States it will provide equitable and reasonable access to the markets and basic commodity resources of such country;
+    (4) the degree to which such country follows the accepted rules of international trade provided for under the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title);
+    (5) the degree to which such country uses export subsidies or imposes export performance requirements or local content requirements which distort international trade;
+    (6) the degree to which the trade policies of such country as they relate to other beneficiary countries are contributing to the revitalization of the region;
+    (7) the degree to which such country is undertaking self-help measures to promote its own economic development;
+    (8) whether or not such country has taken or is taking steps to afford to workers in that country (including any designated zone in that country) internationally recognized worker rights.\1\N
+    (9) the extent to which such country provides under its law adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property, including patent, trademark, and copyright rights;
+    (10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
+    (11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
+  (d) Omitted
+  (e) Withdrawal or suspension of duty-free treatment to specific articles
+    (1) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met–
+      (A) withdraw or suspend the designation of any country as a beneficiary country, or
+      (B) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
+         if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.
+    (2)      (A) The President shall publish in the Federal Register notice of the action the President proposes to take under paragraph (1) at least 30 days prior to taking such action.
+      (B) The United States Trade Representative shall, within the 30-day period beginning on the date on which the President publishes under subparagraph (A) notice of proposed action–
+        (i) accept written comments from the public regarding such proposed action,
+        (ii) hold a public hearing on such proposed action, and
+        (iii) publish in the Federal Register–
+          (I) notice of the time and place of such hearing prior to the hearing, and
+          (II) the time and place at which such written comments will be accepted.
+  (f) Reporting requirements
+     On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.

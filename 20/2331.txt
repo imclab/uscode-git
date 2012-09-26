@@ -1,18 +1,41 @@
-  (a) General authority
-     From amounts reserved under section 2312(a)(3) of this title, each State shall conduct State programs and State leadership activities.
-  (b) Required uses of funds
-     The programs and activities described in subsection (a) of this section shall include–
-    (1) professional development activities for vocational teachers and academic teachers working with vocational education students, including corrections educators and counselors, and educators and counselors in community-based organizations, including inservice and preservice training of teachers in state-of-the-art programs and techniques, including integration of vocational and academic curricula, with particular emphasis on inservice and preservice training of minority teachers;
-    (2) development, dissemination, and field testing of curricula, especially–
-      (A) curricula that integrate vocational and academic methodologies; and
-      (B) curricula that provide a coherent sequence of courses through which academic and occupational skills may be measured; and
-    (3) assessment of programs conducted with assistance under this chapter, including the development of–
-      (A) performance standards and measures for such programs; and
-      (B) program improvement and accountability with respect to such programs.
-  (c) Authorized activities
-     The programs and activities described in subsection (a) of this section may include–
-    (1) the promotion of partnerships among business, education (including educational agencies), industry, labor, community-based organizations, or governmental agencies;
-    (2) the support for tech-prep education as described in section 2394b of this title;
-    (3) the support of vocational student organizations, especially with respect to efforts to increase minority participation in such organizations;
-    (4) leadership and instructional programs in technology education; and
-    (5) data collection.
+  (a) Group eligibility requirements
+    (1) Criteria
+       A group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) shall be certified as eligible to apply for adjustment assistance under this subpart pursuant to a petition filed under subsection (b) of this section if the Secretary determines that a significant number or proportion of the workers in such workers“ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated, and either–
+      (A) that–
+        (i) the sales or production, or both, of such firm or subdivision have decreased absolutely,
+        (ii) imports from Mexico or Canada of articles like or directly competitive with articles produced by such firm or subdivision have increased, and
+        (iii) the increase in imports under clause (ii) contributed importantly to such workers“ separation or threat of separation and to the decline in the sales or production of such firm or subdivision; or
+      (B) that there has been a shift in production by such workers“ firm or subdivision to Mexico or Canada of articles like or directly competitive with articles which are produced by the firm or subdivision.
+    (2) ””Contributed importantly““ defined
+       The term ””contributed importantly““, as used in paragraph (1)(A)(iii), means a cause which is important but not necessarily more important than any other cause.
+    (3) Regulations
+       The Secretary shall issue regulations relating to the application of the criteria described in paragraph (1) in making preliminary findings under subsection (b) of this section and determinations under subsection (c) of this section.
+  (b) Preliminary findings and basic assistance
+    (1) Filing of petitions
+       A petition for certification of eligibility to apply for adjustment assistance under this subpart may be filed by a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) or by their certified or recognized union or other duly authorized representative with the Governor of the State in which such workers“ firm or subdivision thereof is located.
+    (2) Findings and assistance
+       Upon receipt of a petition under paragraph (1), the Governor shall–
+      (A) notify the Secretary that the Governor has received the petition;
+      (B) within 10 days after receiving the petition–
+        (i) make a preliminary finding as to whether the petition meets the criteria described in subsection (a)(1) of this section (and for purposes of this clause the criteria described under subparagraph (A)(iii) of such subsection shall be disregarded), and
+        (ii) transmit the petition, together with a statement of the finding under clause (i) and reasons therefor, to the Secretary for action under subsection (c) of this section; and
+      (C) if the preliminary finding under subparagraph (B)(i) is affirmative, ensure that rapid response and basic readjustment services authorized under other Federal law are made available to the workers.
+  (c) Review of petitions by Secretary; certifications
+    (1) In general
+       The Secretary, within 30 days after receiving a petition under subsection (b) of this section, shall determine whether the petition meets the criteria described in subsection (a)(1) of this section. Upon a determination that the petition meets such criteria, the Secretary shall issue to workers covered by the petition a certification of eligibility to apply for assistance described in subsection (d) of this section.
+    (2) Denial of certification
+       Upon denial of certification with respect to a petition under paragraph (1), the Secretary shall review the petition in accordance with the requirements of subpart A of this part to determine if the workers may be certified under such subpart.
+  (d) Comprehensive assistance
+     Workers covered by certification issued by the Secretary under subsection (c) of this section shall be provided, in the same manner and to the same extent as workers covered under a certification under subpart A of this part, the following:
+    (1) Employment services described in section 2295 of this title.
+    (2) Training described in section 2296 of this title, except that notwithstanding the provisions of section 2296(a)(2)(A) of this title, the total amount of payments for training under this subpart for the period beginning October 1, 1998, and ending June 30, 1999, shall not exceed $15,000,000.
+    (3) Trade readjustment allowances described in sections 2291 through 2294 of this title, except that–
+      (A) the provisions of sections 2291(a)(5)(C) and 2291(c) of this title, authorizing the payment of trade readjustment allowances upon a finding that it is not feasible or appropriate to approve a training program for a worker, shall not be applicable to payment of such allowances under this subpart; and
+      (B) notwithstanding the provisions of section 2293(b) of this title, in order for a worker to qualify for trade readjustment allowances under this subpart, the worker shall be enrolled in a training program approved by the Secretary under section 2296(a) of this title by the later of–
+        (i) the last day of the 16th week of such worker“s initial unemployment compensation benefit period, or
+        (ii) the last day of the 6th week after the week in which the Secretary issues a certification covering such worker.
+     In cases of extenuating circumstances relating to enrollment in a training program, the Secretary may extend the time for enrollment for a period not to exceed 30 days.
+    (4) Job search allowances described in section 2297 of this title.
+    (5) Relocation allowances described in section 2298 of this title.
+  (e) Administration
+     The provisions of subpart C of this part shall apply to the administration of the program under this subpart in the same manner and to the same extent as such provisions apply to the administration of the program under subparts A and B of this part, except that the agreement between the Secretary and the States described in section 2311 of this title shall specify the procedures that will be used to carry out the certification process under subsection (c) of this section and the procedures for providing relevant data by the Secretary to assist the States in making preliminary findings under subsection (b) of this section.
