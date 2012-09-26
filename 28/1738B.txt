@@ -1,11 +1,12 @@
   (a) T4General RuleK.–The appropriate authorities of each State–
     (1) shall enforce according to its terms a child support order made consistently with this section by a court of another State; and
-    (2) shall not seek or make a modification of such an order except in accordance with subsection (e).
+    (2) shall not seek or make a modification of such an order except in accordance with subsections (e), (f), and (i).
   (b) T4DefinitionsK.–In this section:
      ””child““ means–
     (A) a person under 18 years of age; and
     (B) a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
        ””child“s State““ means the State in which a child resides.
+       ””child“s home State““ means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
        ””child support““ means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
        ””child support order““–
       (A) means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
@@ -21,18 +22,25 @@
              ””court““ means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
              ””modification““ means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
              ””State““ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in section 1151 of title 18).
-  (c) T4Requirements of Child Support OrdersK.–A child support order made is made consistently with this section if–
-    (1) a court that makes the order, pursuant to the laws of the State in which the court is located–
+  (c) T4Requirements of Child Support OrdersK.–A child support order made by a court of a State is made consistently with this section if–
+    (1) a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)–
       (A) has subject matter jurisdiction to hear the matter and enter such an order; and
       (B) has personal jurisdiction over the contestants; and
     (2) reasonable notice and opportunity to be heard is given to the contestants.
-  (d) T4Continuing JurisdictionK.–A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child“s State or the residence of any contestant unless the court of another State, acting in accordance with subsection (e), has made a modification of the order.
-  (e) T4Authority To Modify OrdersK.–A court of a State may make a modification of a child support order with respect to a child that is made by a court of another State if–
-    (1) the court has jurisdiction to make such a child support order; and
-    (2)      (A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child“s State or the residence of any contestant; or
-      (B) each contestant has filed written consent to that court“s making the modification and assuming continuing, exclusive jurisdiction over the order.
-  (f) T4Enforcement of Prior OrdersK.–A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsection (e).
-  (g) T4Choice of Law.–
+  (d) T4Continuing JurisdictionK.–A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child“s State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
+  (e) T4Authority To Modify OrdersK.–A court of a State may modify a child support order issued by a court of another State if–
+    (1) the court has jurisdiction to make such a child support order pursuant to subsection (i); and
+    (2)      (A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child“s State or the residence of any individual contestant; or
+      (B) each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
+  (f) T4Recognition of Child Support OrdersK.–If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+    (1) If only 1 court has issued a child support order, the order of that court must be recognized.
+    (2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
+    (3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
+    (4) If 2 or more courts have issued child support orders for the same obligor and child, and none of the courts would have continuing, exclusive jurisdiction under this section, a court may issue a child support order, which must be recognized.
+    (5) The court that has issued an order recognized under this subsection is the court having continuing, exclusive jurisdiction.
+  (g) T4Enforcement of Modified OrdersK.–A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsections (e) and (f).
+  (h) T4Choice of Law.–
     (1) T4In generalK.–In a proceeding to establish, modify, or enforce a child support order, the forum State“s law shall apply except as provided in paragraphs (2) and (3).
-    (2) T4Law of state of issuance of orderK.–In interpreting a child support order, a court shall apply the law of the State of the court that issued the order.
-    (3) T4Period of limitationK.–In an action to enforce a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
+    (2) T4Law of state of issuance of orderK.–In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
+    (3) T4Period of limitationK.–In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
+      (i) T4Registration for ModificationK.–If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.

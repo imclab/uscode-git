@@ -1,31 +1,8 @@
-  (a) There is hereby established in the Treasury of the United States a special fund to be known as the ””United States Trustee System Fund““ (hereinafter in this section referred to as the ””Fund““). Monies in the Fund shall be available to the Attorney General without fiscal year limitation in such amounts as may be specified in appropriations Acts for the following purposes in connection with the operations of United States trustees–
-    (1) salaries and related employee benefits;
-    (2) travel and transportation;
-    (3) rental of space;
-    (4) communication, utilities, and miscellaneous computer charges;
-    (5) security investigations and audits;
-    (6) supplies, books, and other materials for legal research;
-    (7) furniture and equipment;
-    (8) miscellaneous services, including those obtained by contract; and
-    (9) printing.
-  (b) There shall be deposited in the Fund–
-    (1) 23.08 per centum of the fees collected under section 1930(a)(1) of this title;
-    (2) 37.5 per centum of the fees collected under section 1930(a)(3) of this title;
-    (3) one-half of the fees collected under section 1930(a)(4) of this title;
-    (4) one-half of the fees collected under section 1930(a)(5); \1\N
-    (5) 60 per centum of the fees collected under section 1930(a)(6) of this title;
-    (6) three-fourths of the fees collected under the last sentence of section 1930(a) of this title; and
-    (7) the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts.
-  (c)    (1) Except as provided in paragraph (2), amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
-    (2) On November 1, 1989, and on November 1 of each year thereafter, the Secretary of the Treasury shall transfer into the general fund of the Treasury the amount, if any, in the Fund that exceeds 110 percent of–
-      (A) the amount appropriated for the entire current fiscal year for the purposes specified in subsection (a), or
-      (B) if no appropriation has been made for the entire current fiscal year, the annual equivalent of the aggregate amount appropriated to date for the current fiscal year for the purposes specified in subsection (a).
-  (d)    (1) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of the expenditures made under this section.
-    (2) If for each fiscal year in any period of 2 successive fiscal years–
-      (A) the aggregate amount deposited under subsection (b) in the Fund exceeds 110 percent of expenditures for the purposes specified in subsection (a), or
-      (B) the costs incurred for the purposes specified in subsection (a) exceed the aggregate amount deposited under subsection (b) in the Fund,
-         then the Attorney General shall include in such report a recommendation regarding the manner in which the fees payable under section 1930(a) of title 28, United States Code, may be modified to cause the annual amount deposited in the Fund to more closely approximate the annual amount expended from the Fund.
-  (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
-  (f) For the purpose of recovering the cost of services of the United States Trustee System, there shall be deposited as offsetting collections to the appropriation ””United States Trustee System Fund““, to remain available until expended, the following–
-    (1) 12.5 per centum of the fees collected under section 1930(a)(3) of this title;
-    (2) 40 per centum of the fees collected under section 1930(a)(6) of this title.
+  (a) T4Oversight of Conduct of Independent Counsel.–
+    (1) T4Congressional oversightK.–The appropriate committees of the Congress shall have oversight jurisdiction with respect to the official conduct of any independent counsel appointed under this chapter, and such independent counsel shall have the duty to cooperate with the exercise of such oversight jurisdiction.
+    (2) T4Reports to congressK.–An independent counsel appointed under this chapter shall submit to the Congress annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made.
+  (b) T4Oversight of Conduct of Attorney GeneralK.–Within 15 days after receiving an inquiry about a particular case under this chapter, which is a matter of public knowledge, from a committee of the Congress with jurisdiction over this chapter, the Attorney General shall provide the following information to that committee with respect to that case:
+    (1) When the information about the case was received.
+    (2) Whether a preliminary investigation is being conducted, and if so, the date it began.
+    (3) Whether an application for the appointment of an independent counsel or a notification that further investigation is not warranted has been filed with the division of the court, and if so, the date of such filing.
+  (c) T4Information Relating to ImpeachmentK.–An independent counsel shall advise the House of Representatives of any substantial and credible information which such independent counsel receives, in carrying out the independent counsel“s responsibilities under this chapter, that may constitute grounds for an impeachment. Nothing in this chapter or section 49 of this title shall prevent the Congress or either House thereof from obtaining information in the course of an impeachment proceeding.

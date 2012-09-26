@@ -1,3 +1,122 @@
-  (a) There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.
-  (b) Each district court shall consist of the district judge or judges for the district in regular active service. Justices or judges designated or assigned shall be competent to sit as judges of the court.
-  (c) Except as otherwise provided by law, or rule or order of court, the judicial power of a district court with respect to any action, suit or proceeding may be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
+  (a) The President shall appoint, by and with the advice and consent of the Senate, district judges for the several judicial districts, as follows:
+      
+     Alabama:
+     NorthernD7  
+     MiddleD3  
+     SouthernD3  
+     AlaskaD3  
+     ArizonaD8  
+     Arkansas:
+     EasternD5  
+     WesternD3  
+     California:
+     NorthernD14  
+     EasternD6  
+     CentralD27  
+     SouthernD8  
+     ColoradoD7  
+     ConnecticutD8  
+     DelawareD4  
+     District of ColumbiaD15  
+     Florida:
+     NorthernD4  
+     MiddleD11  
+     SouthernD16  
+     Georgia:
+     NorthernD11  
+     MiddleD4  
+     SouthernD3  
+     HawaiiD3  
+     IdahoD2  
+     Illinois:
+     NorthernD22  
+     CentralD3  
+     SouthernD3  
+     Indiana:
+     NorthernD5  
+     SouthernD5  
+     Iowa:
+     NorthernD2  
+     SouthernD3  
+     KansasD5  
+     Kentucky:
+     EasternD4  
+     WesternD4  
+     Eastern and WesternD1  
+     Louisiana:
+     EasternD13  
+     MiddleD2  
+     WesternD7  
+     MaineD3  
+     MarylandD10  
+     MassachusettsD13  
+     Michigan:
+     EasternD15  
+     WesternD4  
+     MinnesotaD7  
+     Mississippi:
+     NorthernD3  
+     SouthernD6  
+     Missouri:
+     EasternD6  
+     WesternD5  
+     Eastern and WesternD2  
+     MontanaD3  
+     NebraskaD3  
+     NevadaD4  
+     New HampshireD3  
+     New JerseyD17  
+     New MexicoD5  
+     New York:
+     NorthernD4  
+     SouthernD28  
+     EasternD15  
+     WesternD4  
+     North Carolina:
+     EasternD4  
+     MiddleD4  
+     WesternD3  
+     North DakotaD2  
+     Ohio:
+     NorthernD11  
+     SouthernD8  
+     Oklahoma:
+     NorthernD3  
+     EasternD1  
+     WesternD6  
+     Northern, Eastern, and WesternD1  
+     OregonD6  
+     Pennsylvania:
+     EasternD22  
+     MiddleD6  
+     WesternD10  
+     Puerto RicoD7  
+     Rhode IslandD3  
+     South CarolinaD9  
+     South DakotaD3  
+     Tennessee:
+     EasternD5  
+     MiddleD4  
+     WesternD5  
+     Texas:
+     NorthernD12  
+     SouthernD18  
+     EasternD7  
+     WesternD10  
+     UtahD5  
+     VermontD2  
+     Virginia:
+     EasternD9  
+     WesternD4  
+     Washington:
+     EasternD4  
+     WesternD7  
+     West Virginia:
+     NorthernD3  
+     SouthernD5  
+     Wisconsin:
+     EasternD4  
+     WesternD2  
+     WyomingD3.
+  (b)    (1) In any case in which a judge of the United States (other than a senior judge) assumes the duties of a full-time office of Federal judicial administration, the President shall appoint, by and with the advice and consent of the Senate, an additional judge for the court on which such judge serves. If the judge who assumes the duties of such full-time office leaves that office and resumes the duties as an active judge of the court, then the President shall not appoint a judge to fill the first vacancy which occurs thereafter in that court.
+    (2) For purposes of paragraph (1), the term ””office of Federal judicial administration““ means a position as Director of the Federal Judicial Center, Director of the Administrative Office of the United States Courts, or administrative assistant to the Chief Justice.
