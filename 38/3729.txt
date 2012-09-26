@@ -5,16 +5,14 @@
      LOAN FEE TABLE
     (A)      (i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004) D2.00 D2.75 DNA
         (A)          (ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004) D2.20 D2.40 DNA
-            (A)              (iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2011) D2.15 D2.40 DNA
-                (A)                  (iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) D1.40 D1.65 DNA
-                (B)                  (i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before January 1, 2004) D3.00 D3.00 DNA
-            (B)              (ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2004, and before October 1, 2011) D3.30 D3.30 DNA
-        (B)          (iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2011 and before October 1, 2013) D2.15 D2.15 DNA
-    (B)      (iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2013 )D1.25 D1.25 DNA
-    (C)      (i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2011) D1.50 D1.75 DNA
-  (C)    (ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2011) D0.75 D1.00 DNA
-  (D)    (i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2011) D1.25 D1.50 DNA
-  (D)    (ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) D0.50 D0.75 DNA
+            (A)              (iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2016) D2.15 D2.40 DNA
+                (A)                  (iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2016) D1.40 D1.65 DNA
+                (B)                  (i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2016) D3.30 D3.30 DNA
+            (B)              (ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2016)D1.25 D1.25 DNA
+            (C)              (i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2016) D1.50 D1.75 DNA
+  (C)    (ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2016) D0.75 D1.00 DNA
+  (D)    (i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2016) D1.25 D1.50 DNA
+  (D)    (ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2016) D0.50 D0.75 DNA
   (E) Interest rate reduction refinancing loan D0.50 D0.50 DNA
   (F) Direct loan under section 3711 D1.00 D1.00 DNA
   (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) D1.00 D1.00 DNA
