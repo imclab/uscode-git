@@ -1,20 +1,17 @@
-  (a) Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection
-    (1) In general
-       There shall be in the Department a Directorate for Information Analysis and Infrastructure Protection headed by an Under Secretary for Information Analysis and Infrastructure Protection, who shall be appointed by the President, by and with the advice and consent of the Senate.
-    (2) Responsibilities
-       The Under Secretary shall assist the Secretary in discharging the responsibilities assigned by the Secretary.
-  (b) Assistant Secretary for Information Analysis; Assistant Secretary for Infrastructure Protection
-    (1) Assistant Secretary for Information Analysis
-       There shall be in the Department an Assistant Secretary for Information Analysis, who shall be appointed by the President.
-    (2) Assistant Secretary for Infrastructure Protection
-       There shall be in the Department an Assistant Secretary for Infrastructure Protection, who shall be appointed by the President.
-    (3) Responsibilities
-       The Assistant Secretary for Information Analysis and the Assistant Secretary for Infrastructure Protection shall assist the Under Secretary for Information Analysis and Infrastructure Protection in discharging the responsibilities of the Under Secretary under this section.
-  (c) Discharge of information analysis and infrastructure protection
-     The Secretary shall ensure that the responsibilities of the Department regarding information analysis and infrastructure protection are carried out through the Under Secretary for Information Analysis and Infrastructure Protection.
-  (d) Responsibilities of Under Secretary
-     Subject to the direction and control of the Secretary, the responsibilities of the Under Secretary for Information Analysis and Infrastructure Protection shall be as follows:
-    (1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information in order to–
+  (a) Intelligence and analysis and infrastructure protection
+     There shall be in the Department an Office of Intelligence and Analysis and an Office of Infrastructure Protection.
+  (b) Under Secretary for Intelligence and Analysis and Assistant Secretary for Infrastructure Protection
+    (1) Office of Intelligence and Analysis
+       The Office of Intelligence and Analysis shall be headed by an Under Secretary for Intelligence and Analysis, who shall be appointed by the President, by and with the advice and consent of the Senate.
+    (2) Chief Intelligence Officer
+       The Under Secretary for Intelligence and Analysis shall serve as the Chief Intelligence Officer of the Department.
+    (3) Office of Infrastructure Protection
+       The Office of Infrastructure Protection shall be headed by an Assistant Secretary for Infrastructure Protection, who shall be appointed by the President.
+  (c) Discharge of responsibilities
+     The Secretary shall ensure that the responsibilities of the Department relating to information analysis and infrastructure protection, including those described in subsection (d), are carried out through the Under Secretary for Intelligence and Analysis or the Assistant Secretary for Infrastructure Protection, as appropriate.
+  (d) Responsibilities of Secretary relating to intelligence and analysis and infrastructure protection
+     The responsibilities of the Secretary relating to intelligence and analysis and infrastructure protection shall be as follows:
+    (1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 (50 U.S.C. 404T3oK), in order to–
       (A) identify and assess the nature and scope of terrorist threats to the homeland;
       (B) detect and identify threats of terrorism against the United States; and
       (C) understand such threats in light of actual and potential vulnerabilities of the homeland.
@@ -23,35 +20,46 @@
     (4) To ensure, pursuant to section 122 of this title, the timely and efficient access by the Department to all information necessary to discharge the responsibilities under this section, including obtaining such information from other agencies of the Federal Government.
     (5) To develop a comprehensive national plan for securing the key resources and critical infrastructure of the United States, including power production, generation, and distribution systems, information technology and telecommunications systems (including satellites), electronic financial and property record storage and transmission systems, emergency preparedness communications systems, and the physical and technological assets that support such systems.
     (6) To recommend measures necessary to protect the key resources and critical infrastructure of the United States in coordination with other agencies of the Federal Government and in cooperation with State and local government agencies and authorities, the private sector, and other entities.
-    (7) To administer the Homeland Security Advisory System, including–
-      (A) exercising primary responsibility for public advisories related to threats to homeland security; and
-      (B) in coordination with other agencies of the Federal Government, providing specific warning information, and advice about appropriate protective measures and countermeasures, to State and local government agencies and authorities, the private sector, other entities, and the public.
-    (8) To review, analyze, and make recommendations for improvements in the policies and procedures governing the sharing of law enforcement information, intelligence information, intelligence-related information, and other information relating to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities.
-    (9) To disseminate, as appropriate, information analyzed by the Department within the Department, to other agencies of the Federal Government with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
-    (10) To consult with the Director of Central Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through such means as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
-    (11) To consult with State and local governments and private sector entities to ensure appropriate exchanges of information, including law enforcement-related information, relating to threats of terrorism against the United States.
-    (12) To ensure that–
+    (7) To review, analyze, and make recommendations for improvements to the policies and procedures governing the sharing of information within the scope of the information sharing environment established under section 485 of this title, including homeland security information, terrorism information, and weapons of mass destruction information, and any policies, guidelines, procedures, instructions, or standards established under that section.
+    (8) To disseminate, as appropriate, information analyzed by the Department within the Department, to other agencies of the Federal Government with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
+    (9) To consult with the Director of National Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through such means as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
+    (10) To consult with State and local governments and private sector entities to ensure appropriate exchanges of information, including law enforcement-related information, relating to threats of terrorism against the United States.
+    (11) To ensure that–
       (A) any material received pursuant to this chapter is protected from unauthorized disclosure and handled and used only for the performance of official duties; and
-      (B) any intelligence information under this chapter is shared, retained, and disseminated consistent with the authority of the Director of Central Intelligence to protect intelligence sources and methods under the National Security Act of 1947 (50 U.S.C. 401 et seq.) and related procedures and, as appropriate, similar authorities of the Attorney General concerning sensitive law enforcement information.
-    (13) To request additional information from other agencies of the Federal Government, State and local government agencies, and the private sector relating to threats of terrorism in the United States, or relating to other areas of responsibility assigned by the Secretary, including the entry into cooperative agreements through the Secretary to obtain such information.
-    (14) To establish and utilize, in conjunction with the chief information officer of the Department, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, and to disseminate information acquired and analyzed by the Department, as appropriate.
-    (15) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analytical tools developed or utilized by the Department–
+      (B) any intelligence information under this chapter is shared, retained, and disseminated consistent with the authority of the Director of National Intelligence to protect intelligence sources and methods under the National Security Act of 1947 (50 U.S.C. 401 et seq.) and related procedures and, as appropriate, similar authorities of the Attorney General concerning sensitive law enforcement information.
+    (12) To request additional information from other agencies of the Federal Government, State and local government agencies, and the private sector relating to threats of terrorism in the United States, or relating to other areas of responsibility assigned by the Secretary, including the entry into cooperative agreements through the Secretary to obtain such information.
+    (13) To establish and utilize, in conjunction with the chief information officer of the Department, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, and to disseminate information acquired and analyzed by the Department, as appropriate.
+    (14) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analytical tools developed or utilized by the Department–
       (A) are compatible with one another and with relevant information databases of other agencies of the Federal Government; and
       (B) treat information in such databases in a manner that complies with applicable Federal law on privacy.
-    (16) To coordinate training and other support to the elements and personnel of the Department, other agencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
-    (17) To coordinate with elements of the intelligence community and with Federal, State, and local law enforcement agencies, and the private sector, as appropriate.
-    (18) To provide intelligence and information analysis and support to other elements of the Department.
-    (19) To perform such other duties relating to such responsibilities as the Secretary may provide.
+    (15) To coordinate training and other support to the elements and personnel of the Department, other agencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
+    (16) To coordinate with elements of the intelligence community and with Federal, State, and local law enforcement agencies, and the private sector, as appropriate.
+    (17) To provide intelligence and information analysis and support to other elements of the Department.
+    (18) To coordinate and enhance integration among the intelligence components of the Department, including through strategic oversight of the intelligence activities of such components.
+    (19) To establish the intelligence collection, processing, analysis, and dissemination priorities, policies, processes, standards, guidelines, and procedures for the intelligence components of the Department, consistent with any directions from the President and, as applicable, the Director of National Intelligence.
+    (20) To establish a structure and process to support the missions and goals of the intelligence components of the Department.
+    (21) To ensure that, whenever possible, the Department–
+      (A) produces and disseminates unclassified reports and analytic products based on open-source information; and
+      (B) produces and disseminates such reports and analytic products contemporaneously with reports or analytic products concerning the same or similar information that the Department produced and disseminated in a classified format.
+    (22) To establish within the Office of Intelligence and Analysis an internal continuity of operations plan.
+    (23) Based on intelligence priorities set by the President, and guidance from the Secretary and, as appropriate, the Director of National Intelligence–
+      (A) to provide to the heads of each intelligence component of the Department guidance for developing the budget pertaining to the activities of such component; and
+      (B) to present to the Secretary a recommendation for a consolidated budget for the intelligence components of the Department, together with any comments from the heads of such components.
+    (24) To perform such other duties relating to such responsibilities as the Secretary may provide.
+    (25) To prepare and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security in the House of Representatives, and to other appropriate congressional committees having jurisdiction over the critical infrastructure or key resources, for each sector identified in the National Infrastructure Protection Plan, a report on the comprehensive assessments carried out by the Secretary of the critical infrastructure and key resources of the United States, evaluating threat, vulnerability, and consequence, as required under this subsection. Each such report–
+      (A) shall contain, if applicable, actions or countermeasures recommended or taken by the Secretary or the head of another Federal agency to address issues identified in the assessments;
+      (B) shall be required for fiscal year 2007 and each subsequent fiscal year and shall be submitted not later than 35 days after the last day of the fiscal year covered by the report; and
+      (C) may be classified.
   (e) Staff
     (1) In general
-       The Secretary shall provide the Directorate with a staff of analysts having appropriate expertise and experience to assist the Directorate in discharging responsibilities under this section.
+       The Secretary shall provide the Office of Intelligence and Analysis and the Office of Infrastructure Protection with a staff of analysts having appropriate expertise and experience to assist such offices in discharging responsibilities under this section.
     (2) Private sector analysts
        Analysts under this subsection may include analysts from the private sector.
     (3) Security clearances
        Analysts under this subsection shall possess security clearances appropriate for their work under this section.
   (f) Detail of personnel
     (1) In general
-       In order to assist the Directorate in discharging responsibilities under this section, personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
+       In order to assist the Office of Intelligence and Analysis and the Office of Infrastructure Protection in discharging responsibilities under this section, personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
     (2) Covered agencies
        The agencies referred to in this paragraph are as follows:
       (A) The Department of State.
@@ -66,7 +74,7 @@
     (4) Basis
        The detail of personnel under this subsection may be on a reimbursable or non-reimbursable basis.
   (g) Functions transferred
-     In accordance with subchapter XII of this chapter, there shall be transferred to the Secretary, for assignment to the Under Secretary for Information Analysis and Infrastructure Protection under this section, the functions, personnel, assets, and liabilities of the following:
+     In accordance with subchapter XII of this chapter, there shall be transferred to the Secretary, for assignment to the Office of Intelligence and Analysis and the Office of Infrastructure Protection under this section, the functions, personnel, assets, and liabilities of the following:
     (1) The National Infrastructure Protection Center of the Federal Bureau of Investigation (other than the Computer Investigations and Operations Section), including the functions of the Attorney General relating thereto.
     (2) The National Communications System of the Department of Defense, including the functions of the Secretary of Defense relating thereto.
     (3) The Critical Infrastructure Assurance Office of the Department of Commerce, including the functions of the Secretary of Commerce relating thereto.

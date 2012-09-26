@@ -65,12 +65,14 @@
     (1) describe the current state of communications interoperability in the applicable jurisdictions among Federal, State, and local emergency response providers and other relevant private resources;
     (2) describe the available and planned use of public safety frequency spectrum and resources for interoperable communications within such jurisdictions;
     (3) describe how the planned use of spectrum and resources for interoperable communications is compatible with surrounding capabilities and interoperable communications plans of Federal, State, and local governmental entities, military installations, foreign governments, critical infrastructure, and other relevant entities;
-    (4) include a 5-year plan for the dedication of Federal, State, and local government and private resources to achieve a consistent, secure, and effective interoperable communications system, including planning, system design and engineering, testing and technology development, procurement and installation, training, and operations and maintenance; and
-    (5) describe how such 5-year plan meets or exceeds any applicable standards and grant requirements established by the Secretary.
+    (4) include a 5-year plan for the dedication of Federal, State, and local government and private resources to achieve a consistent, secure, and effective interoperable communications system, including planning, system design and engineering, testing and technology development, procurement and installation, training, and operations and maintenance;
+    (5) describe how such 5-year plan meets or exceeds any applicable standards and grant requirements established by the Secretary;
+    (6) include information on the governance structure used to develop the plan, including such information about all agencies and organizations that participated in developing the plan and the scope and timeframe of the plan; and
+    (7) describe the method by which multi-jurisdictional, multidisciplinary input is provided from all regions of the jurisdiction, including any high-threat urban areas located in the jurisdiction, and the process for continuing to incorporate such input.
   (g) Definitions
      In this section:
     (1) Interoperable communications
-       The term ””interoperable communications““ means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, or video with one another on demand, in real time, as necessary.
+       The term ””interoperable communications““ means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, and video with one another on demand, in real time, as necessary.
     (2) Emergency response providers
        The term ””emergency response providers““ has the meaning that term has under section 101 of this title.
   (h) Omitted
