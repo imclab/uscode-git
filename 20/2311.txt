@@ -1,18 +1,51 @@
   (a) Authority of Secretary to enter into agreements
-     The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as ””cooperating States““ and ””cooperating States agencies““ respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, will receive applications for, and will provide, payments on the basis provided in this part, (2) where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services, (3) will make any certifications required under section 2291(c)(2) \1\N of this title, and (4) will otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
+     The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as ””cooperating States““ and ””cooperating States agencies““ respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, shall receive applications for, and shall provide, payments on the basis provided in this part, (2) in accordance with subsection (f), shall make available to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A the employment and case management services described in section 2295 of this title, (3) shall make any certifications required under section 2291(c)(2) \1\N of this title, and (4) shall otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
   (b) Amendment, suspension, and termination of agreements
      Each agreement under this subpart shall provide the terms and conditions upon which the agreement may be amended, suspended, or terminated.
-  (c) Unemployment insurance
+  (c) Form and manner of data
+     Each agreement under this subpart shall–
+    (1) provide the Secretary with the authority to collect any data the Secretary determines necessary to meet the requirements of this part; and
+    (2) specify the form and manner in which any such data requested by the Secretary shall be reported.
+  (d) Unemployment insurance
      Each agreement under this subpart shall provide that unemployment insurance otherwise payable to any adversely affected worker will not be denied or reduced for any week by reason of any right to payments under this part.
-  (d) Review
+  (e) Review
      A determination by a cooperating State agency with respect to entitlement to program benefits under an agreement is subject to review in the same manner and to the same extent as determinations under the applicable State law and only in that manner and to that extent.
-  (e) Coordination of benefits and assistance
+  (f) Coordination of benefits and assistance
      Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998 [29 U.S.C. 2801 et seq.] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointly administering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
-  (f) Advising and interviewing adversely affected workers
+  (g) Advising and interviewing adversely affected workers
      Each cooperating State agency shall, in carrying out subsection (a)(2) of this section–
     (1) advise each worker who applies for unemployment insurance of the benefits under this part and the procedures and deadlines for applying for such benefits,
     (2) facilitate the early filing of petitions under section 2271 of this title for any workers that the agency considers are likely to be eligible for benefits under this part,
-    (3) advise each adversely affected worker to apply for training under section 2296(a) of this title before, or at the same time, the worker applies for trade readjustment allowances under division I of subpart B of this part, and
-    (4) as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.
-  (g) Submission of information for coordination of workforce investment activities
-     In order to promote the coordination of workforce investment activities in each State with activities carried out under this part, any agreement entered into under this section shall provide that the State shall submit to the Secretary, in such form as the Secretary may require, the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 [29 U.S.C. 2822(b)].
+    (3) advise each adversely affected worker to apply for training under section 2296(a) of this title before, or at the same time, the worker applies for trade readjustment allowances under division I of subpart B of this part,
+    (4) perform outreach to, intake of, and orientation for adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A with respect to assistance and benefits available under this part, and
+    (5) make employment and case management services described in section 2295 of this title available to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A and, if funds provided to carry out this part are insufficient to make such services available, make arrangements to make such services available through other Federal programs.
+  (h) Submission of information for coordination of workforce investment activities
+     In order to promote the coordination of workforce investment activities in each State with activities carried out under this part, any agreement entered into under this section shall provide that the State shall submit to the Secretary, in such form as the Secretary may require, the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b)) and a description of the State“s rapid response activities under section 2271(a)(2)(A) of this title.
+    (i) Control measures
+      (1) In general
+         The Secretary shall require each cooperating State and cooperating State agency to implement effective control measures and to effectively oversee the operation and administration of the trade adjustment assistance program under this part, including by means of monitoring the operation of control measures to improve the accuracy and timeliness of the data being collected and reported.
+      (2) Definition
+         For purposes of paragraph (1), the term ””control measures““ means measures that–
+        (A) are internal to a system used by a State to collect data; and
+        (B) are designed to ensure the accuracy and verifiability of such data.
+    (j) Data reporting
+      (1) In general
+         Any agreement entered into under this section shall require the cooperating State or cooperating State agency to report to the Secretary on a quarterly basis comprehensive performance accountability data, to consist of–
+        (A) the core indicators of performance described in paragraph (2)(A);
+        (B) the additional indicators of performance described in paragraph (2)(B), if any; and
+        (C) a description of efforts made to improve outcomes for workers under the trade adjustment assistance program.
+      (2) Core indicators described
+        (A) In general
+           The core indicators of performance described in this paragraph are–
+          (i) the percentage of workers receiving benefits under this part who are employed during the second calendar quarter following the calendar quarter in which the workers cease receiving such benefits;
+          (ii) the percentage of such workers who are employed in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits; and
+          (iii) the earnings of such workers in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits.
+        (B) Additional indicators
+           The Secretary and a cooperating State or cooperating State agency may agree upon additional indicators of performance for the trade adjustment assistance program under this part, as appropriate.
+      (3) Standards with respect to reliability of data
+         In preparing the quarterly report required by paragraph (1), each cooperating State or cooperating State agency shall establish procedures that are consistent with guidelines to be issued by the Secretary to ensure that the data reported are valid and reliable.
+    (k) Verification of eligibility for program benefits
+      (1) In general
+         An agreement under this subpart shall provide that the State shall periodically redetermine that a worker receiving benefits under this subpart who is not a citizen or national of the United States remains in a satisfactory immigration status. Once satisfactory immigration status has been initially verified through the immigration status verification system described in section 1320b–7(d) of title 42 for purposes of establishing a worker“s eligibility for unemployment compensation, the State shall reverify the worker“s immigration status if the documentation provided during initial verification will expire during the period in which that worker is potentially eligible to receive benefits under this subpart. The State shall conduct such redetermination in a timely manner, utilizing the immigration status verification system described in section 1320b–7(d) of title 42.
+      (2) Procedures
+         The Secretary shall establish procedures to ensure the uniform application by the States of the requirements of this subsection.
