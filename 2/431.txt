@@ -29,23 +29,22 @@
         (I) shall be considered a loan by each endorser or guarantor, in that proportion of the unpaid balance that each endorser or guarantor bears to the total number of endorsers or guarantors;
         (II) shall be made on a basis which assures repayment, evidenced by a written instrument, and subject to a due date or amortization schedule; and
         (III) shall bear the usual and customary interest rate of the lending institution;
-      (viii) any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;
-      (ix) any legal or accounting services rendered to or on behalf of–
+      (viii) any legal or accounting services rendered to or on behalf of–
         (I) any political committee of a political party if the person paying for such services is the regular employer of the person rendering such services and if such services are not attributable to activities which directly further the election of any designated candidate to Federal office; or
         (II) an authorized committee of a candidate or any other political committee, if the person paying for such services is the regular employer of the individual rendering such services and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
        but amounts paid or incurred by the regular employer for such legal or accounting services shall be reported in accordance with section 434(b) of this title by the committee receiving such services;
-      (x) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: T3ProvidedK, That–
+      (ix) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: T3ProvidedK, That–
         (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
         (2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
         (3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
-      (xi) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): T3ProvidedK, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
-      (xii) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: T3ProvidedK, That–
+      (x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): T3ProvidedK, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+      (xi) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: T3ProvidedK, That–
         (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
         (2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
         (3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates;
-      (xiii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments received by any political party committee as a condition of ballot access;
-      (xiv) any honorarium (within the meaning of section 441i of this title); and
-      (xv) any loan of money derived from an advance on a candidate“s brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate“s brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person“s business.
+      (xii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments received by any political party committee as a condition of ballot access;
+      (xiii) any honorarium (within the meaning of section 441i of this title); and
+      (xiv) any loan of money derived from an advance on a candidate“s brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate“s brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person“s business.
   (9)    (A) The term ””expenditure““ includes–
       (i) any purchase, payment, distribution, loan, advance, deposit, or gift of money or anything of value, made by any person for the purpose of influencing any election for Federal office; and
       (ii) a written contract, promise, or agreement to make an expenditure.
@@ -78,9 +77,40 @@
   (14) The term ””national committee““ means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the national level, as determined by the Commission.
   (15) The term ””State committee““ means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level, as determined by the Commission.
   (16) The term ””political party““ means an association, committee, or organization which nominates a candidate for election to any Federal office whose name appears on the election ballot as the candidate of such association, committee, or organization.
-  (17) The term ””independent expenditure““ means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or any authorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.
+  (17) T4Independent expenditureK.–The term ””independent expenditure““ means an expenditure by a person–
+    (A) expressly advocating the election or defeat of a clearly identified candidate; and
+    (B) that is not made in concert or cooperation with or at the request or suggestion of such candidate, the candidate“s authorized political committee, or their agents, or a political party committee or its agents.
   (18) The term ””clearly identified““ means that–
     (A) the name of the candidate involved appears;
     (B) a photograph or drawing of the candidate appears; or
     (C) the identity of the candidate is apparent by unambiguous reference.
   (19) The term ””Act““ means the Federal Election Campaign Act of 1971 as amended.
+  (20) T4Federal election activity.–
+    (A) T4In generalK.–The term ””Federal election activity““ means–
+      (i) voter registration activity during the period that begins on the date that is 120 days before the date a regularly scheduled Federal election is held and ends on the date of the election;
+      (ii) voter identification, get-out-the-vote activity, or generic campaign activity conducted in connection with an election in which a candidate for Federal office appears on the ballot (regardless of whether a candidate for State or local office also appears on the ballot);
+      (iii) a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned or identified) and that promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate); or
+      (iv) services provided during any month by an employee of a State, district, or local committee of a political party who spends more than 25 percent of that individual“s compensated time during that month on activities in connection with a Federal election.
+    (B) T4Excluded activityK.–The term ””Federal election activity““ does not include an amount expended or disbursed by a State, district, or local committee of a political party for–
+      (i) a public communication that refers solely to a clearly identified candidate for State or local office, if the communication is not a Federal election activity described in subparagraph (A)(i) or (ii);
+      (ii) a contribution to a candidate for State or local office, provided the contribution is not designated to pay for a Federal election activity described in subparagraph (A);
+      (iii) the costs of a State, district, or local political convention; and
+      (iv) the costs of grassroots campaign materials, including buttons, bumper stickers, and yard signs, that name or depict only a candidate for State or local office.
+  (21) T4Generic campaign activityK.–The term ””generic campaign activity““ means a campaign activity that promotes a political party and does not promote a candidate or non-Federal candidate.
+  (22) T4Public communicationK.–The term ””public communication““ means a communication by means of any broadcast, cable, or satellite communication, newspaper, magazine, outdoor advertising facility, mass mailing, or telephone bank to the general public, or any other form of general public political advertising.
+  (23) T4Mass mailingK.–The term ””mass mailing““ means a mailing by United States mail or facsimile of more than 500 pieces of mail matter of an identical or substantially similar nature within any 30-day period.
+  (24) T4Telephone bankK.–The term ””telephone bank““ means more than 500 telephone calls of an identical or substantially similar nature within any 30-day period.
+  (25) T4Election cycleK.–For purposes of sections 441a(i) and 441a–1 of this title and paragraph (26), the term ””election cycle““ means the period beginning on the day after the date of the most recent election for the specific office or seat that a candidate is seeking and ending on the date of the next election for that office or seat. For purposes of the preceding sentence, a primary election and a general election shall be considered to be separate elections.
+  (26) T4Personal fundsK.–The term ””personal funds““ means an amount that is derived from–
+    (A) any asset that, under applicable State law, at the time the individual became a candidate, the candidate had legal right of access to or control over, and with respect to which the candidate had–
+      (i) legal and rightful title; or
+      (ii) an equitable interest;
+    (B) income received during the current election cycle of the candidate, including–
+      (i) a salary and other earned income from bona fide employment;
+      (ii) dividends and proceeds from the sale of the candidate“s stocks or other investments;
+      (iii) bequests to the candidate;
+      (iv) income from trusts established before the beginning of the election cycle;
+      (v) income from trusts established by bequest after the beginning of the election cycle of which the candidate is the beneficiary;
+      (vi) gifts of a personal nature that had been customarily received by the candidate prior to the beginning of the election cycle; and
+      (vii) proceeds from lotteries and similar legal games of chance; and
+    (C) a portion of assets that are jointly owned by the candidate and the candidate“s spouse equal to the candidate“s share of the asset under the instrument of conveyance or ownership, but if no specific share is indicated by an instrument of conveyance or ownership, the value of \1/2\ of the property.
