@@ -11,7 +11,7 @@
       (A) Lobbying
          No individual who engages in, or is otherwise employed in, lobbying of the Congress and who is required under the Federal Regulation of Lobbying Act \1\N to register with the Clerk of the House of Representatives or the Secretary of the Senate shall be eligible for appointment to, or service on, the Board.
       (B) Incompatible office
-         No member of the Board appointed under subsection (b) of this section may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch, or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,\2\N an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
+         No member of the Board appointed under subsection (b) of this section may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch (other than the Office), or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,\2\N an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
     (3) Vacancies
        A vacancy on the Board shall be filled in the manner in which the original appointment was made.
   (e) Term of office
@@ -35,7 +35,12 @@
        In removing a member of the Board, the Speaker of the House of Representatives and the President pro tempore of the Senate shall state in writing to the member of the Board being removed the specific reasons for the removal.
   (g) Compensation
     (1) Per diem
-       Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Board. The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.
+      (A) Rate of compensation for each day
+         Each member of the Board shall be compensated, for each day (including travel time) during which such member is engaged in the performance of the duties of the Board, at a rate equal to the daily equivalent of the lesser of–
+        (i) the highest annual rate of compensation of any officer of the Senate; or
+        (ii) the highest annual rate of compensation of any officer of the House of Representatives.
+      (B) Authority to prorate
+         The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.
     (2) Travel expenses
        Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
   (h) Duties
