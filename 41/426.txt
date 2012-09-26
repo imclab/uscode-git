@@ -1,33 +1,24 @@
   (a) In general
-    (1) The Administrator shall establish a program for the development and implementation of a Federal acquisition computer network architecture (hereinafter in this section referred to as ””FACNET““) that will be Government-wide and provide interoperability among users. The Administrator shall assign a program manager for FACNET and shall provide for overall direction of policy and leadership in the development, coordination, installation, operation, and completion of implementation of FACNET by executive agencies.
-    (2) In carrying out paragraph (1), the Administrator shall consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
-    (3) Government-wide FACNET capability (as defined in section 426a(b) of this title) shall be implemented not later than January 1, 2000.
-  (b) Functions of FACNET
-     The FACNET architecture shall provide for the following functions:
-    (1) Government functions
-       Allow executive agencies to do the following electronically:
-      (A) Provide widespread public notice of solicitations for contract opportunities issued by an executive agency.
-      (B) Receive responses to solicitations and associated requests for information through such system.
-      (C) Provide public notice of contract awards (including price) through such system.
-      (D) In cases in which it is practicable, receive questions regarding solicitations through such system.
-      (E) In cases in which it is practicable, issue orders to be made through such system.
-      (F) In cases in which it is practicable, make payments to contractors by bank card, electronic funds transfer, or other automated methods.
-      (G) Archive data relating to each procurement action made using such system.
-    (2) Private sector user functions
-       Allow private sector users to do the following electronically:
-      (A) Access notice of solicitations for contract opportunities issued by an executive agency.
-      (B) Access and review solicitations issued by an executive agency.
-      (C) Respond to solicitations issued by the executive agency.
-      (D) In cases in which it is practicable, receive orders from the executive agency.
-      (E) Access information on contract awards (including price) made by the executive agency.
-      (F) In cases in which it is practicable, receive payment by bank card, electronic funds transfer, or other automated means.
-    (3) General functions
-      (A) Allow the electronic interchange of procurement information between the private sector and the Federal Government and among Federal agencies.
-      (B) Employ nationally and internationally recognized data formats that serve to broaden and ease the electronic interchange of data.
-      (C) Allow convenient and universal user access through any point of entry.
-  (c) Notice and solicitation regulations
-     In connection with implementation of the architecture referred to in subsection (a) of this section, the Federal Acquisition Regulatory Council shall ensure that the Federal Acquisition Regulation contains appropriate notice and solicitation provisions applicable to acquisitions conducted through a FACNET capability. The provisions shall specify the required form and content of notices of acquisitions and the minimum periods for notifications of solicitations and for deadlines for the submission of offers under solicitations. Each minimum period specified for a notification of solicitation and each deadline for the submission of offers under a solicitation shall afford potential offerors a reasonable opportunity to respond.
-  (d) ””Architecture““ defined
-     For purposes of this section, the term ””architecture““ means the conceptual framework that–
-    (1) uses a combination of commercial hardware and commercial software to enable contractors to conduct business with the Federal Government by electronic means; and
-    (2) includes a description of the functions to be performed to achieve the mission of streamlining procurement through electronic commerce, the system elements and interfaces needed to perform the functions, and the designation of performance levels of those system elements.
+     The head of each executive agency, after consulting with the Administrator, shall establish, maintain, and use, to the maximum extent that is practicable and cost-effective, procedures and processes that employ electronic commerce in the conduct and administration of its procurement system.
+  (b) Applicable standards
+     In conducting electronic commerce, the head of an agency shall apply nationally and internationally recognized standards that broaden interoperability and ease the electronic interchange of information.
+  (c) Agency procedures
+     The head of each executive agency shall ensure that systems, technologies, procedures, and processes established pursuant to this section–
+    (1) are implemented with uniformity throughout the agency, to the extent practicable;
+    (2) are implemented only after granting due consideration to the use or partial use, as appropriate, of existing electronic commerce and electronic data interchange systems and infrastructures such \1\N the Federal acquisition computer network architecture known as FACNET;
+    (3) facilitate access to Federal Government procurement opportunities, including opportunities for small business concerns, socially and economically disadvantaged small business concerns, and business concerns owned predominantly by women; and
+    (4) ensure that any notice of agency requirements or agency solicitation for contract opportunities is provided in a form that allows convenient and universal user access through a single, Government-wide point of entry.
+  (d) Implementation
+     The Administrator shall, in carrying out the requirements of this section–
+    (1) issue policies to promote, to the maximum extent practicable, uniform implementation of this section by executive agencies, with due regard for differences in program requirements among agencies that may require departures from uniform procedures and processes in appropriate cases, when warranted because of the agency mission;
+    (2) ensure that the head of each executive agency complies with the requirements of subsection (c) of this section with respect to the agency systems, technologies, procedures, and processes established pursuant to this section; and
+    (3) consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
+  (e) Report
+     Not later than March 1, 1998, and every year afterward through 2003, the Administrator shall submit to Congress a report setting forth in detail the progress made in implementing the requirements of this section. The report shall include the following:
+    (1) A strategic plan for the implementation of a Government-wide electronic commerce capability.
+    (2) An agency-by-agency summary of implementation of the requirements of subsection (c) of this section, including timetables, as appropriate, addressing when individual agencies will come into full compliance.
+    (3) A specific assessment of compliance with the requirement in subsection (c) of this section to provide universal public access through a single, Government-wide point of entry.
+    (4) Beginning with the report submitted on March 1, 1999, an agency-by-agency summary of the volume and dollar value of transactions that were conducted using electronic commerce methods during the previous calendar year.
+    (5) A discussion of possible incremental changes to the electronic commerce capability referred to in subsection (c)(4) of this section to increase the level of government contract information available to the private sector, including an assessment of the advisability of including contract award information in the electronic commerce functional standard.
+  (f) ””Electronic commerce““ defined
+     For the purposes of this section, the term ””electronic commerce““ means electronic techniques for accomplishing business transactions, including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
