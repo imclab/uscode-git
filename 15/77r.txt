@@ -13,7 +13,7 @@
        A security is a covered security if such security is–
       (A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
       (B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
-      (C) is a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
+      (C) a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
     (2) Exclusive Federal registration of investment companies
        A security is a covered security if such security is a security issued by an investment company that is registered, or that has filed a registration statement, under the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.].
     (3) Sales to qualified purchasers
@@ -32,7 +32,7 @@
          Nothing in this section prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any document filed with the Commission pursuant to this subchapter, together with annual or periodic reports of the value of securities sold or offered to be sold to persons located in the State (if such sales data is not included in documents filed with the Commission), solely for notice purposes and the assessment of any fee, together with a consent to service of process and any required fee.
       (B) Preservation of fees
         (i) In general
-           Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State, or any political subdivision thereof, adopted after October 11, 1996, filing or registration fees with respect to securities or securities transactions shall continue to be collected in amounts determined pursuant to State law as in effect on the day before October 11, 1996.
+           Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof, adopted after October 11, 1996, filing or registration fees with respect to securities or securities transactions shall continue to be collected in amounts determined pursuant to State law as in effect on the day before October 11, 1996.
         (ii) Schedule
            The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
       (C) Availability of preemption contingent on payment of fees

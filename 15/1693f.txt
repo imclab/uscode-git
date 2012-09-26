@@ -11,10 +11,10 @@
   (d) Absence of error; finding; explanation
      If the financial institution determines after its investigation pursuant to subsection (a) or (c) of this section that an error did not occur, it shall deliver or mail to the consumer an explanation of its findings within 3 business days after the conclusion of its investigation, and upon request of the consumer promptly deliver or mail to the consumer reproductions of all documents which the financial institution relied on to conclude that such error did not occur. The financial institution shall include notice of the right to request reproductions with the explanation of its findings.
   (e) Treble damages
-      If in any action under section 1693m of this title, the court finds that–
+      If in any action under section 1693m \1\N of this title, the court finds that–
     (1) the financial institution did not provisionally recredit a consumer“s account within the ten-day period specified in subsection (c) of this section, and the financial institution (A) did not make a good faith investigation of the alleged error, or (B) did not have a reasonable basis for believing that the consumer“s account was not in error; or
     (2) the financial institution knowingly and willfully concluded that the consumer“s account was not in error when such conclusion could not reasonably have been drawn from the evidence available to the financial institution at the time of its investigation,
-       then the consumer shall be entitled to treble damages determined under section 1693m(a)(1) of this title.
+       then the consumer shall be entitled to treble damages determined under section 1693m(a)(1) \1\ of this title.
   (f) Acts constituting error
      For the purpose of this section, an error consists of–
     (1) an unauthorized electronic fund transfer;

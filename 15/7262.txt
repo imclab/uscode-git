@@ -4,3 +4,5 @@
     (2) contain an assessment, as of the end of the most recent fiscal year of the issuer, of the effectiveness of the internal control structure and procedures of the issuer for financial reporting.
   (b) Internal control evaluation and reporting
      With respect to the internal control assessment required by subsection (a) of this section, each registered public accounting firm that prepares or issues the audit report for the issuer shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
+  (c) Exemption for smaller issuers
+     Subsection (b) shall not apply with respect to any audit report prepared for an issuer that is neither a ””large accelerated filer““ nor an ””accelerated filer““ as those terms are defined in Rule 12b–2 of the Commission (17 C.F.R. 240.12b–2).

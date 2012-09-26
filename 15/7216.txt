@@ -1,18 +1,27 @@
   (a) Applicability to certain foreign firms
     (1) In general
-       Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner and to the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuant to section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
+       Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, broker, or dealer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner and to the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuant to section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
     (2) Board authority
-       The Board may, by rule, determine that a foreign public accounting firm (or a class of such firms) that does not issue audit reports nonetheless plays such a substantial role in the preparation and furnishing of such reports for particular issuers, that it is necessary or appropriate, in light of the purposes of this Act and in the public interest or for the protection of investors, that such firm (or class of firms) should be treated as a public accounting firm (or firms) for purposes of registration under, and oversight by the Board in accordance with, this subchapter.
-  (b) Production of audit workpapers
-    (1) Consent by foreign firms
-       If a foreign public accounting firm issues an opinion or otherwise performs material services upon which a registered public accounting firm relies in issuing all or part of any audit report or any opinion contained in an audit report, that foreign public accounting firm shall be deemed to have consented–
-      (A) to produce its audit workpapers for the Board or the Commission in connection with any investigation by either body with respect to that audit report; and
-      (B) to be subject to the jurisdiction of the courts of the United States for purposes of enforcement of any request for production of such workpapers.
-    (2) Consent by domestic firms
-       A registered public accounting firm that relies upon the opinion of a foreign public accounting firm, as described in paragraph (1), shall be deemed–
-      (A) to have consented to supplying the audit workpapers of that foreign public accounting firm in response to a request for production by the Board or the Commission; and
-      (B) to have secured the agreement of that foreign public accounting firm to such production, as a condition of its reliance on the opinion of that foreign public accounting firm.
+       The Board may, by rule, determine that a foreign public accounting firm (or a class of such firms) that does not issue audit reports nonetheless plays such a substantial role in the preparation and furnishing of such reports for particular issuers, brokers, or dealers, that it is necessary or appropriate, in light of the purposes of this Act and in the public interest or for the protection of investors, that such firm (or class of firms) should be treated as a public accounting firm (or firms) for purposes of registration under, and oversight by the Board in accordance with, this subchapter.
+  (b) Production of documents
+    (1) Production by foreign firms
+       If a foreign public accounting firm performs material services upon which a registered public accounting firm relies in the conduct of an audit or interim review, issues an audit report, performs audit work, or conducts interim reviews, the foreign public accounting firm shall–
+      (A) produce the audit work papers of the foreign public accounting firm and all other documents of the firm related to any such audit work or interim review to the Commission or the Board, upon request of the Commission or the Board; and
+      (B) be subject to the jurisdiction of the courts of the United States for purposes of enforcement of any request for such documents.
+    (2) Other production
+       Any registered public accounting firm that relies, in whole or in part, on the work of a foreign public accounting firm in issuing an audit report, performing audit work, or conducting an interim review, shall–
+      (A) produce the audit work papers of the foreign public accounting firm and all other documents related to any such work in response to a request for production by the Commission or the Board; and
+      (B) secure the agreement of any foreign public accounting firm to such production, as a condition of the reliance by the registered public accounting firm on the work of that foreign public accounting firm.
   (c) Exemption authority
      The Commission, and the Board, subject to the approval of the Commission, may, by rule, regulation, or order, and as the Commission (or Board) determines necessary or appropriate in the public interest or for the protection of investors, either unconditionally or upon specified terms and conditions exempt any foreign public accounting firm, or any class of such firms, from any provision of this Act or the rules of the Board or the Commission issued under this Act.
-  (d) Definition
+  (d) Service of requests or process
+    (1) In general
+       Any foreign public accounting firm that performs work for a domestic registered public accounting firm shall furnish to the domestic registered public accounting firm a written irrevocable consent and power of attorney that designates the domestic registered public accounting firm as an agent upon whom may be served any request by the Commission or the Board under this section or upon whom may be served any process, pleadings, or other papers in any action brought to enforce this section.
+    (2) Specific audit work
+       Any foreign public accounting firm that performs material services upon which a registered public accounting firm relies in the conduct of an audit or interim review, issues an audit report, performs audit work, or, performs interim reviews, shall designate to the Commission or the Board an agent in the United States upon whom may be served any request by the Commission or the Board under this section or upon whom may be served any process, pleading, or other papers in any action brought to enforce this section.
+  (e) Sanctions
+     A willful refusal to comply, in whole in or in part, with any request by the Commission or the Board under this section, shall be deemed a violation of this Act.
+  (f) Other means of satisfying production obligations
+     Notwithstanding any other provisions of this section, the staff of the Commission or the Board may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
+  (g) Definition
      In this section, the term ””foreign public accounting firm““ means a public accounting firm that is organized and operates under the laws of a foreign government or political subdivision thereof.

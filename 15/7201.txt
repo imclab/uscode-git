@@ -1,4 +1,4 @@
-   In this Act, the following definitions shall apply:
+   Except as otherwise specifically provided in this Act, in this Act, the following definitions shall apply:
   (1) Appropriate State regulatory authority
      The term ””appropriate State regulatory authority““ means the State agency or other authority responsible for the licensure or other regulation of the practice of accounting in the State or States having jurisdiction over a registered public accounting firm or associated person thereof, with respect to the matter in question.
   (2) Audit
@@ -28,6 +28,12 @@
       (ii) participates as agent or otherwise on behalf of such accounting firm in any activity of that firm.
     (B) Exemption authority
        The Board may, by rule, exempt persons engaged only in ministerial tasks from the definition in subparagraph (A), to the extent that the Board determines that any such exemption is consistent with the purposes of this Act, the public interest, or the protection of investors.
+    (C) Investigative and enforcement authority
+       For purposes of sections 7202(c), 7211(c), 7215, and 7217(c) of this title and the rules of the Board and Commission issued thereunder, except to the extent specifically excepted by such rules, the terms defined in subparagraph (A) shall include any person associated, seeking to become associated, or formerly associated with a public accounting firm, except that–
+      (i) the authority to conduct an investigation of such person under section 7215(b) of this title shall apply only with respect to any act or practice, or omission to act, by the person while such person was associated or seeking to become associated with a registered public accounting firm; and
+      (ii) the authority to commence a disciplinary proceeding under section 7215(c)(1) of this title, or impose sanctions under section 7215(c)(4) of this title, against such person shall apply only with respect to–
+        (I) conduct occurring while such person was associated or seeking to become associated with a registered public accounting firm; or
+        (II) non-cooperation, as described in section 7215(b)(3) of this title, with respect to a demand in a Board investigation for testimony, documents, or other information relating to a period when such person was associated or seeking to become associated with a registered public accounting firm.
   (10) Professional standards
      The term ””professional standards““ means–
     (A) accounting principles that are–
@@ -50,3 +56,5 @@
      The term ””securities laws““ means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations, and orders issued by the Commission thereunder.
   (16) State
      The term ””State““ means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other territory or possession of the United States.
+  (17) Foreign auditor oversight authority
+     The term ””foreign auditor oversight authority““ means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.

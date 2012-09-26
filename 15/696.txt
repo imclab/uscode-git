@@ -2,11 +2,11 @@
   (1) T4Use of proceedsK.–The proceeds of any such loan shall be used solely by the borrower to assist 1 or more identifiable small business concerns and for a sound business purpose approved by the Administration.
   (2) T4Maximum amount.–
     (A) T4In generalK.–Loans made by the Administration under this section shall be limited to–
-      (i) $1,500,000 for each small business concern if the loan proceeds will not be directed toward a goal or project described in subparagraph (B) or (C);
-      (ii) $2,000,000 for each small business concern if the loan proceeds will be directed toward 1 or more of the public policy goals described under section 695(d)(3) of this title;
-      (iii) $4,000,000 for each project of a small manufacturer;
-      (iv) $4,000,000 for each project that reduces the borrower“s energy consumption by at least 10 percent; and
-      (v) $4,000,000 for each project that generates renewable energy or renewable fuels, such as biodiesel or ethanol production.
+      (i) $5,000,000 for each small business concern if the loan proceeds will not be directed toward a goal or project described in clause (ii), (iii), (iv), or (v);
+      (ii) $5,000,000 for each small business concern if the loan proceeds will be directed toward 1 or more of the public policy goals described under section 695(d)(3) of this title;
+      (iii) $5,500,000 for each project of a small manufacturer;
+      (iv) $5,500,000 for each project that reduces the borrower“s energy consumption by at least 10 percent; and
+      (v) $5,500,000 for each project that generates renewable energy or renewable fuels, such as biodiesel or ethanol production.
     (B) T4DefinitionK.–As used in this paragraph, the term ””small manufacturer““ means a small business concern–
       (i) the primary business of which is classified in sector 31, 32, or 33 of the North American Industrial Classification System; and
       (ii) all of the production facilities of which are located in the United States.
@@ -43,3 +43,37 @@
       (v) the financing under this subchapter will provide a substantial benefit to the borrower when prepayment penalties, financing fees, and other financing costs are accounted for;
       (vi) the borrower has been current on all payments due on the existing debt for not less than 1 year preceding the date of refinancing; and
       (vii) the financing under section 697a of this title will provide better terms or rate of interest than the existing indebtedness at the time of refinancing.
+    (C) T4Refinancing not involving expansions.–
+      (i) T4DefinitionsK.–In this subparagraph–
+        (I) the term ””borrower““ means a small business concern that submits an application to a development company for financing under this subparagraph;
+        (II) the term ””eligible fixed asset““ means tangible property relating to which the Administrator may provide financing under this section; and
+        (III) the term ””qualified debt““ means indebtedness–
+          (aa) that–
+            (AA) was incurred not less than 2 years before the date of the application for assistance under this subparagraph;
+            (BB) is a commercial loan;
+            (CC) is not subject to a guarantee by a Federal agency;
+            (DD) the proceeds of which were used to acquire an eligible fixed asset;
+            (EE) was incurred for the benefit of the small business concern; and
+            (FF) is collateralized by eligible fixed assets; and
+          (bb) for which the borrower has been current on all payments for not less than 1 year before the date of the application.
+      (ii) T4AuthorityK.–A project that does not involve the expansion of a small business concern may include the refinancing of qualified debt if–
+        (I) the amount of the financing is not more than 90 percent of the value of the collateral for the financing, except that, if the appraised value of the eligible fixed assets serving as collateral for the financing is less than the amount equal to 125 percent of the amount of the financing, the borrower may provide additional cash or other collateral to eliminate any deficiency;
+        (II) the borrower has been in operation for all of the 2-year period ending on the date of the loan; and
+        (III) for a financing for which the Administrator determines there will be an additional cost attributable to the refinancing of the qualified debt, the borrower agrees to pay a fee in an amount equal to the anticipated additional cost.
+      (iii) T4Financing for business expenses.–
+        (I) T4Financing for business expensesK.–The Administrator may provide financing to a borrower that receives financing that includes a refinancing of qualified debt under clause (ii), in addition to the refinancing under clause (ii), to be used solely for the payment of business expenses.
+        (II) T4Application for financingK.–An application for financing under subclause (I) shall include–
+          (aa) a specific description of the expenses for which the additional financing is requested; and
+          (bb) an itemization of the amount of each expense.
+        (III) T4Condition on additional financingK.–A borrower may not use any part of the financing under this clause for non-business purposes.
+      (iv) T4Loans based on jobs.–
+        (I) T4Job creation and retention goals.–
+          (aa) T4In generalK.–The Administrator may provide financing under this subparagraph for a borrower that meets the job creation goals under subsection (d) or (e) of section 695 of this title.
+          (bb) T4Alternate job retention goalK.–The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $65,000.
+        (II) T4Number of employeesK.–For purposes of subclause (I), the number of employees of a borrower is equal to the sum of–
+          (aa) the number of full-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
+          (bb) the product obtained by multiplying–
+            (AA) the number of part-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; by
+            (BB) the quotient obtained by dividing the average number of hours each part time employee of the borrower works each week by 40.
+      (v) T4NondelegationK.–Notwithstanding section 697e(e) of this title, the Administrator may not permit a premier certified lender to approve or disapprove an application for assistance under this subparagraph.
+      (vi) T4Total amount of loansK.–The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.

@@ -4,10 +4,12 @@
     (2) Action by self-regulatory organization
        If a self-regulatory organization has given notice to SIPC pursuant to subsection (a)(1) of this section with respect to a broker or dealer, and such broker or dealer undertakes to liquidate or reduce its business either pursuant to the direction of a self-regulatory organization or voluntarily, such self-regulatory organization may render such assistance or oversight to such broker or dealer as it considers appropriate to protect the interests of customers of such broker or dealer. The assistance or oversight by a self-regulatory organization shall not be deemed the assumption or adoption by such self-regulatory organization of any obligation or liability to customers, other creditors, shareholders, or partners of the broker or dealer, and shall not prevent or act as a bar to any action by SIPC.
     (3) Action by SIPC
-       If SIPC determines that–
-      (A) any member of SIPC (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
-      (B) one or more of the conditions specified in subsection (b)(1) of this section exist with respect to such member,
-       SIPC may, upon notice to such member, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa, except that no such application shall be filed with respect to a member the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3.
+      (A) In general
+         SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that–
+        (A) \1\N the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
+        (B) \2\N one or more of the conditions specified in subsection (b)(1) of this section exist with respect to such member.
+      (B) Consent required
+         No member of SIPC that has a customer may enter into an insolvency, receivership, or bankruptcy proceeding, under Federal or State law, without the specific consent of SIPC, except as provided in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act [12 U.S.C. 5381 et seq.].
     (4) Effect of other pending actions
        An application with respect to a member of SIPC filed with a court under paragraph (3)–
       (A) may, with the consent of the Commission, be combined with any action brought by the Commission, including an action by the Commission for a temporary receiver pending an appointment of a trustee under subsection (b)(3) of this section; and

@@ -1,19 +1,19 @@
   (a) Auditing, quality control, and ethics standards
     (1) In general
-       The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, and such ethics standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
+       The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
     (2) Rule requirements
        In carrying out paragraph (1), the Board–
       (A) shall include in the auditing standards that it adopts, requirements that each registered public accounting firm shall–
         (i) prepare, and maintain for a period of not less than 7 years, audit work papers, and other information related to any audit report, in sufficient detail to support the conclusions reached in such report;
         (ii) provide a concurring or second partner review and approval of such audit report (and other related information), and concurring approval in its issuance, by a qualified person (as prescribed by the Board) associated with the public accounting firm, other than the person in charge of the audit, or by an independent reviewer (as prescribed by the Board); and
-        (iii) describe in each audit report the scope of the auditor“s testing of the internal control structure and procedures of the issuer, required by section 7262(b) of this title, and present (in such report or in a separate report)–
+        (iii) in each audit report for an issuer, describe the scope of the auditor“s testing of the internal control structure and procedures of the issuer, required by section 7262(b) of this title, and present (in such report or in a separate report)–
           (I) the findings of the auditor from such testing;
           (II) an evaluation of whether such internal control structure and procedures–
             (aa) include maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the issuer;
             (bb) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the issuer are being made only in accordance with authorizations of management and directors of the issuer; and
           (III) a description, at a minimum, of material weaknesses in such internal controls, and of any material noncompliance found on the basis of such testing.
       (B) shall include, in the quality control standards that it adopts with respect to the issuance of audit reports, requirements for every registered public accounting firm relating to–
-        (i) monitoring of professional ethics and independence from issuers on behalf of which the firm issues audit reports;
+        (i) monitoring of professional ethics and independence from issuers, brokers, and dealers on behalf of which the firm issues audit reports;
         (ii) consultation within such firm on accounting and auditing questions;
         (iii) supervision of audit work;
         (iv) hiring, professional development, and advancement of personnel;

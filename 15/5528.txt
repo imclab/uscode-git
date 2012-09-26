@@ -1,6 +1,21 @@
-  (a) Nonapplicability
-     Except to the extent the appropriate Federal agency or department head determines, the provisions of this chapter shall not apply to–
-    (1) programs or activities regarding computer systems that process classified information; or
-    (2) computer systems the function, operation, or use of which are those delineated in paragraphs (1) through (5) of section 2315(a) of title 10.\1\N
-  (b) Acquisition of prototype and early production models
-     In accordance with Federal contracting law, Federal agencies and departments participating in the Program may acquire prototype or early production models of new high-performance computing systems and subsystems to stimulate hardware and software development. Items of computing equipment acquired under this subsection shall be considered research computers for purposes of applicable acquisition regulations.
+  (a) Findings
+     The Congress finds the following:
+    (1) High-performance computing and associated technologies are critical to the United States economy.
+    (2) While the United States has led the development of high-performance computing, United States industry is facing increasing global competition.
+    (3) Despite existing international agreements on fair competition and nondiscrimination in government procurements, there is increasing concern that such agreements are not being honored, that more aggressive enforcement of such agreements is needed, and that additional steps may be required to ensure fair global competition, particularly in high-technology fields such as high-performance computing and associated technologies.
+    (4) It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner which most effectively fosters the maintenance and development of United States leadership in high-performance computers and associated technologies in and for the benefit of the United States.
+    (5) It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner, consistent with the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.), which most effectively fosters reciprocal competitive procurement treatment by foreign governments for United States high-performance computing and associated technology products and suppliers.
+  (b) Annual report
+    (1) Report
+       The Director shall submit an annual report to Congress that identifies–
+      (A) any grant, contract, cooperative agreement, or cooperative research and development agreement (as defined under section 3710a(d)(1) of this title) made or entered into by any Federal agency or department for research and development under the Program with–
+        (i) any company other than a company that is either incorporated or located in the United States, and that has majority ownership by individuals who are citizens of the United States; or
+        (ii) any educational institution or nonprofit institution located outside the United States; and
+      (B) any procurement exceeding $1,000,000 by any Federal agency or department under the Program for–
+        (i) unmanufactured articles, materials, or supplies mined or produced outside the United States; or
+        (ii) manufactured articles, materials, or supplies other than those manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
+       under the meaning of chapter 83 of title 41.
+    (2) Consolidation of reports
+       The report required by this subsection may be included with the report required by section 5511(a)(3)(A) \1\N of this title.
+  (c) Application of Buy American Act
+     This chapter does not affect the applicability of chapter 83 of title 41 to procurements by Federal agencies and departments undertaken as a part of the Program.

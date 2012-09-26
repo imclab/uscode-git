@@ -2,14 +2,14 @@
      The Commission shall have authority from time to time to make, amend, and rescind such rules and regulations as may be necessary to carry out the provisions of this subchapter, including rules and regulations governing registration statements and prospectuses for various classes of securities and issuers, and defining accounting, technical, and trade terms used in this subchapter. Among other things, the Commission shall have authority, for the purposes of this subchapter, to prescribe the form or forms in which required information shall be set forth, the items or details to be shown in the balance sheet and earning statement, and the methods to be followed in the preparation of accounts, in the appraisal or valuation of assets and liabilities, in the determination of depreciation and depletion, in the differentiation of recurring and nonrecurring income, in the differentiation of investment and operating income, and in the preparation, where the Commission deems it necessary or desirable, of consolidated balance sheets or income accounts of any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer. The rules and regulations of the Commission shall be effective upon publication in the manner which the Commission shall prescribe. No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule or regulation of the Commission, notwithstanding that such rule or regulation may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
   (b) Recognition of accounting standards
     (1) In general
-       In carrying out its authority under subsection (a) of this section and under section 78m(b) of this title, the Commission may recognize, as ””generally accepted““ for purposes of the securities laws, any accounting principles established by a standard setting body–
+       In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], the Commission may recognize, as ””generally accepted““ for purposes of the securities laws, any accounting principles established by a standard setting body–
       (A) that–
         (i) is organized as a private entity;
         (ii) has, for administrative and operational purposes, a board of trustees (or equivalent body) serving in the public interest, the majority of whom are not, concurrent with their service on such board, and have not been during the 2-year period preceding such service, associated persons of any registered public accounting firm;
         (iii) is funded as provided in section 7219 of this title;
         (iv) has adopted procedures to ensure prompt consideration, by majority vote of its members, of changes to accounting principles necessary to reflect emerging accounting issues and changing business practices; and
         (v) considers, in adopting accounting principles, the need to keep standards current in order to reflect changes in the business environment, the extent to which international convergence on high quality accounting standards is necessary or appropriate in the public interest and for the protection of investors; and
-      (B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) of this section and section 78m(b) of this title, because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
+      (B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) of this section and section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
     (2) Annual report
        A standard setting body described in paragraph (1) shall submit an annual report to the Commission and the public, containing audited financial statements of that standard setting body.
   (c) Production of evidence
@@ -27,7 +27,34 @@
       (C) the development of a uniform exemption from registration for small issuers which can be agreed upon among several States or between the States and the Federal Government. The Commission shall have the authority to adopt such an exemption as agreed upon for Federal purposes. Nothing in this chapter shall be construed as authorizing preemption of State law.
     (4) In order to carry out these policies and purposes, the Commission shall conduct an annual conference as well as such other meetings as are deemed necessary, to which representatives from such securities associations, securities self-regulatory organizations, agencies, and private organizations involved in capital formation shall be invited to participate.
     (5) For fiscal year 1982, and for each of the three succeeding fiscal years, there are authorized to be appropriated such amounts as may be necessary and appropriate to carry out the policies, provisions, and purposes of this subsection. Any sums so appropriated shall remain available until expended.
-    (6) Notwithstanding any other provision of law, neither the Commission nor any other person shall be required to establish any procedures not specifically required by the securities laws, as that term is defined in section 78c(a)(47) of this title, or by chapter 5 of title 5, in connection with cooperation, coordination, or consultation with–
+    (6) Notwithstanding any other provision of law, neither the Commission nor any other person shall be required to establish any procedures not specifically required by the securities laws, as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(47)], or by chapter 5 of title 5, in connection with cooperation, coordination, or consultation with–
       (A) any association referred to in paragraph (1) or (3) or any conference or meeting referred to in paragraph (4), while such association, conference, or meeting is carrying out activities in furtherance of the provisions of this subsection; or
       (B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, or group is carrying out activities in furtherance of the provisions of such section 80c–1.
          As used in this paragraph, the terms ””association““, ””conference““, ””meeting““, ””forum““, ””agency““, ””organization““, and ””group““ include any committee, subgroup, or representative of such entities.
+  (e) Evaluation of rules or programs
+     For the purpose of evaluating any rule or program of the Commission issued or carried out under any provision of the securities laws, as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c), and the purposes of considering, proposing, adopting, or engaging in any such rule or program or developing new rules or programs, the Commission may–
+    (1) gather information from and communicate with investors or other members of the public;
+    (2) engage in such temporary investor testing programs as the Commission determines are in the public interest or would protect investors; and
+    (3) consult with academics and consultants, as necessary to carry out this subsection.
+  (f) Rule of construction
+     For purposes of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), any action taken under subsection (e) shall not be construed to be a collection of information.
+  (g) Funding for the GASB
+    (1) In general
+       The Commission may, subject to the limitations imposed by section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78T3oK–4), require a national securities association registered under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] to establish–
+      (A) a reasonable annual accounting support fee to adequately fund the annual budget of the Governmental Accounting Standards Board (referred to in this subsection as the ””GASB““); and
+      (B) rules and procedures, in consultation with the principal organizations representing State governors, legislators, local elected officials, and State and local finance officers, to provide for the equitable allocation, assessment, and collection of the accounting support fee established under subparagraph (A) from the members of the association, and the remittance of all such accounting support fees to the Financial Accounting Foundation.
+    (2) Annual budget
+       For purposes of this subsection, the annual budget of the GASB is the annual budget reviewed and approved according to the internal procedures of the Financial Accounting Foundation.
+    (3) Use of funds
+       Any fees or funds collected under this subsection shall be used to support the efforts of the GASB to establish standards of financial accounting and reporting recognized as generally accepted accounting principles applicable to State and local governments of the United States.
+    (4) Limitation on fee
+       The annual accounting support fees collected under this subsection for a fiscal year shall not exceed the recoverable annual budgeted expenses of the GASB (which may include operating expenses, capital, and accrued items).
+    (5) Rules of construction
+      (A) Fees not public monies
+         Accounting support fees collected under this subsection and other receipts of the GASB shall not be considered public monies of the United States.
+      (B) Limitation on authority of the Commission
+         Nothing in this subsection shall be construed to–
+        (i) provide the Commission or any national securities association direct or indirect oversight of the budget or technical agenda of the GASB; or
+        (ii) affect the setting of generally accepted accounting principles by the GASB.
+      (C) Noninterference with States
+         Nothing in this subsection shall be construed to impair or limit the authority of a State or local government to establish accounting and financial reporting standards.

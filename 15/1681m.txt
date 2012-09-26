@@ -9,7 +9,7 @@
       (B) to dispute, under section 1681i of this title, with a consumer reporting agency the accuracy or completeness of any information in a consumer report furnished by the agency.
   (b) Adverse action based on information obtained from third parties other than consumer reporting agencies
     (1) In general
-       Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer“s credit worthiness,\1\N credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer“s written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
+       Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer“s credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer“s written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
     (2) Duties of person taking certain actions based on information provided by affiliate
       (A) Duties, generally
          If a person takes an action described in subparagraph (B) with respect to a consumer, based in whole or in part on information described in subparagraph (C), the person shall–
@@ -21,7 +21,7 @@
          Information referred to in subparagraph (A)–
         (i) except as provided in clause (ii), is information that–
           (I) is furnished to the person taking the action by a person related by common ownership or affiliated by common corporate control to the person taking the action; and
-          (II) bears on the credit worthiness,\1\ credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living of the consumer; and
+          (II) bears on the credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living of the consumer; and
         (ii) does not include–
           (I) information solely as to transactions or experiences between the consumer and the person furnishing the information; or
           (II) information in a consumer report.
@@ -31,8 +31,8 @@
     (1) In general
        Any person who uses a consumer report on any consumer in connection with any credit or insurance transaction that is not initiated by the consumer, that is provided to that person under section 1681b(c)(1)(B) of this title, shall provide with each written solicitation made to the consumer regarding the transaction a clear and conspicuous statement that–
       (A) information contained in the consumer“s consumer report was used in connection with the transaction;
-      (B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness \2\N or insurability under which the consumer was selected for the offer;
-      (C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness \2\ or insurability or does not furnish any required collateral;
+      (B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness or insurability under which the consumer was selected for the offer;
+      (C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness or insurability or does not furnish any required collateral;
       (D) the consumer has a right to prohibit information contained in the consumer“s file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
       (E) the consumer may exercise the right referred to in subparagraph (D) by notifying a notification system established under section 1681b(e) of this title.
     (2) Disclosure of address and telephone number; format
@@ -40,7 +40,7 @@
       (A) include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title; and
       (B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Commission, by rule, in consultation with the Federal banking agencies and the National Credit Union Administration.
     (3) Maintaining criteria on file
-       A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness \2\ or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
+       A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
     (4) Authority of Federal agencies regarding unfair or deceptive acts or practices not affected
        This section is not intended to affect the authority of any Federal or State agency to enforce a prohibition against unfair or deceptive acts or practices, including the making of false or misleading statements in connection with a credit or insurance transaction that is not initiated by the consumer.
   (e) Red flag guidelines and regulations required
@@ -59,6 +59,14 @@
          In developing the guidelines required by paragraph (1)(A), the agencies described in paragraph (1) shall consider including reasonable guidelines providing that when a transaction occurs with respect to a credit or deposit account that has been inactive for more than 2 years, the creditor or financial institution shall follow reasonable policies and procedures that provide for notice to be given to a consumer in a manner reasonably designed to reduce the likelihood of identity theft with respect to such account.
     (3) Consistency with verification requirements
        Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(T3lK) of title 31.
+    (4) Definitions
+       As used in this subsection, the term ””creditor““–
+      (A) means a creditor, as defined in section 1691a of this title, that regularly and in the ordinary course of business–
+        (i) obtains or uses consumer reports, directly or indirectly, in connection with a credit transaction;
+        (ii) furnishes information to consumer reporting agencies, as described in section 1681s–2 of this title, in connection with a credit transaction; or
+        (iii) advances funds to or on behalf of a person, based on an obligation of the person to repay the funds or repayable from specific property pledged by or on behalf of the person;
+      (B) does not include a creditor described in subparagraph (A)(iii) that advances funds on behalf of a person for expenses incidental to a service provided by the creditor to that person; and
+      (C) includes any other type of creditor, as defined in that section 1691a of this title, as the agency described in paragraph (1) having authority over that creditor may determine appropriate by rule promulgated by that agency, based on a determination that such creditor offers or maintains accounts that are subject to a reasonably foreseeable risk of identity theft.
   (f) Prohibition on sale or transfer of debt caused by identity theft
     (1) In general
        No person shall sell, transfer for consideration, or place for collection a debt that such person has been notified under section 1681c–2 of this title has resulted from identity theft.
