@@ -1,0 +1,6 @@
+   The purposes of this subchapter are the following:
+  (1) To provide a comprehensive framework for establishing and ensuring the effectiveness of controls over information resources that support Federal operations and assets.
+  (2)    (A) To recognize the highly networked nature of the Federal computing environment including the need for Federal Government interoperability and, in the implementation of improved security management measures, assure that opportunities for interoperability are not adversely affected.
+    (B) To provide effective governmentwide management and oversight of the related information security risks, including coordination of information security efforts throughout the civilian, national security, and law enforcement communities.
+  (3) To provide for development and maintenance of minimum controls required to protect Federal information and information systems.
+  (4) To provide a mechanism for improved oversight of Federal agency information security programs.

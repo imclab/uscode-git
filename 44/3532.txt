@@ -1,0 +1,7 @@
+  (a) Except as provided under subsection (b), the definitions under section 3502 shall apply to this subchapter.
+  (b) In this subchapter:
+    (1) The term ””information technology““ has the meaning given that term in section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401).
+    (2) The term ””mission critical system““ means any telecommunications or information system used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency, that–
+      (A) is defined as a national security system under section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452);
+      (B) is protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be classified in the interest of national defense or foreign policy; or
+      (C) processes any information, the loss, misuse, disclosure, or unauthorized access to or modification of, would have a debilitating impact on the mission of an agency.
