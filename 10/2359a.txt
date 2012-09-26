@@ -1,6 +1,25 @@
-  (a) T4PolicyK.–Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official are carried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
-  (b) T4Covered OfficialsK.–Subsection (a) applies to the following officials of the Department of Defense:
-    (1) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
-    (2) The Secretary of each military department.
-    (3) The Director of the Defense Advanced Research Projects Agency.
-    (4) The directors and heads of other offices and agencies of the Department of Defense with assigned research, development, test, and evaluation responsibilities.
+  (a) T4Initiative RequiredK.–The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out an initiative, to be known as the Technology Transition Initiative (hereinafter in this section referred to as the ””Initiative““), to facilitate the rapid transition of new technologies from science and technology programs of the Department of Defense into acquisition programs of the Department for the production of such technologies.
+  (b) T4ObjectivesK.–The objectives of the Initiative are as follows:
+    (1) To accelerate the introduction of new technologies into operational capabilities for the armed forces.
+    (2) To successfully demonstrate new technologies in relevant environments.
+  (c) T4Management of InitiativeK.–(1) The Under Secretary shall designate a senior official of the Department of Defense (hereinafter in this section referred to as the ””Manager““) to manage the Initiative.
+  (2) In managing the Initiative, the Manager shall–
+    (A) report directly to the Under Secretary; and
+    (B) obtain advice and other assistance from the Technology Transition Council established under subsection (g).
+  (3) The Manager shall–
+    (A) in consultation with the Technology Transition Council established under subsection (g), identify promising technology transition projects that can contribute to meeting Department of Defense technology goals and requirements;
+    (B) identify potential sponsors in the Department of Defense to manage such projects; and
+    (C) provide funds under subsection (f) for those projects that are selected under subsection (d)(2).
+  (d) T4Selection of ProjectsK.–(1) The science and technology and acquisition executives of each military department and each appropriate Defense Agency and the commanders of the unified and specified combatant commands may nominate technology transition projects for implementation under subsection (e) and shall submit a list of the projects so nominated to the Manager.
+  (2) The Manager, in consultation with the Technology Transition Council established under subsection (g), shall select projects for implementation under subsection (e) from among the projects on the lists submitted under paragraph (1).
+  (e) T4Implementation of ProjectsK.–For each project selected under subsection (d)(2), the Manager shall designate a military department or Defense Agency to implement the project.
+  (f) T4Funding of ProjectsK.–(1) From funds made available to the Manager for the Initiative, the Manager shall, subject to paragraphs (2) and (3), provide funds for each project selected under subsection (d)(2) in an amount determined by mutual agreement between the Manager and the acquisition executive of the military department or Defense Agency concerned.
+  (2) The amount of funds provided to a project under paragraph (1) by the military department or Defense Agency concerned shall be the appropriate share of the military department or Defense Agency, as the case may be, of the cost of the project, as determined by the Manager.
+  (3) A project shall not be provided funds under this subsection for more than four fiscal years.
+  (g) T4Technology Transition CouncilK.–(1) There is a Technology Transition Council in the Department of Defense. The Council is composed of the following members:
+    (A) The science and technology executive of each military department and each Defense Agency.
+    (B) The acquisition executive of each military department.
+    (C) The members of the Joint Requirements Oversight Council.
+  (2) The duty of the Council shall be to support the Under Secretary of Defense for Acquisition, Technology, and Logistics in developing policies to facilitate the rapid transition of technologies from science and technology programs into acquisition programs of the Department of Defense.
+  (3) The Council shall meet not less often than semiannually to carry out its duty under paragraph (2).
+  (h) T4DefinitionK.–In this section, the term ””acquisition executive““, with respect to a military department or Defense Agency, means the official designated as the senior procurement executive for that military department or Defense Agency for the purposes of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)).

@@ -8,7 +8,15 @@
     (A) to award a single task or delivery order contract; or
     (B) if the solicitation states that the head of the agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to two or more sources.
   (2) No determination under section 2304(b) of this title is required for award of multiple task or delivery order contracts under paragraph (1)(B).
-  (3) The regulations implementing this subsection shall–
+  (3)    (A) No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that–
+      (i) the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
+      (ii) the contract provides only for firm, fixed price task orders or delivery orders for–
+        (I) products for which unit prices are established in the contract; or
+        (II) services for which prices are established in the contract for the specific tasks to be performed;
+      (iii) only one source is qualified and capable of performing the work at a reasonable price to the government; or
+      (iv) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
+    (B) The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).
+  (4) The regulations implementing this subsection shall–
     (A) establish a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under the authority of paragraph (1)(B); and
     (B) establish criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
   (e) T4Contract ModificationsK.–A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.

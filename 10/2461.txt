@@ -1,34 +1,45 @@
   (a) T4Public-Private CompetitionK.–(1) A function of the Department of Defense performed by 10 or more Department of Defense civilian employees may not be converted, in whole or in part, to performance by a contractor unless the conversion is based on the results of a public-private competition that–
     (A) formally compares the cost of performance of the function by Department of Defense civilian employees with the cost of performance by a contractor;
-    (B) creates an agency tender, including a most efficient organization plan, in accordance with Office of Management and Budget Circular A–76, as implemented on May 29, 2003;
+    (B) creates an agency tender, including a most efficient organization plan, in accordance with Office of Management and Budget Circular A–76, as implemented on May 29, 2003, or any successor circular;
     (C) includes the issuance of a solicitation;
-    (D) determines whether the submitted offers meet the needs of the Department of Defense with respect to factors other than cost, including quality and reliability;
+    (D) determines whether the submitted offers meet the needs of the Department of Defense with respect to factors other than cost, including quality, reliability, and timeliness;
     (E) examines the cost of performance of the function by Department of Defense civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the Government over the life of the contract, including–
       (i) the estimated cost to the Government (based on offers received) for performance of the function by a contractor;
       (ii) the estimated cost to the Government for performance of the function by Department of Defense civilian employees; and
       (iii) an estimate of all other costs and expenditures that the Government would incur because of the award of such a contract;
     (F) requires continued performance of the function by Department of Defense civilian employees unless the difference in the cost of performance of the function by a contractor compared to the cost of performance of the function by Department of Defense civilian employees would, over all performance periods required by the solicitation, be equal to or exceed the lesser of–
       (i) 10 percent of the personnel-related costs for performance of that function in the agency tender; or
-      (ii) $10,000,000; and
-    (G) examines the effect of performance of the function by a contractor on the military mission associated with the performance of the function.
+      (ii) $10,000,000;
+    (G) requires that the contractor shall not receive an advantage for a proposal that would reduce costs for the Department of Defense by–
+      (i) not making an employer-sponsored health insurance plan (or payment that could be used in lieu of such a plan), health savings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
+      (ii) offering to such workers an employer-sponsored health benefits plan that requires the employer to contribute less towards the premium or subscription share than the amount that is paid by the Department of Defense for health benefits for civilian employees of the Department under chapter 89 of title 5; or
+      (iii) offering to such workers a retirement benefit that, in any year, costs less than the annual retirement cost factor applicable to civilian employees of the Department of Defense under chapter 84 of title 5; and
+    (H) examines the effect of performance of the function by a contractor on the military mission associated with the performance of the function.
   (2) A function that is performed by the Department of Defense and is reengineered, reorganized, modernized, upgraded, expanded, or changed to become more efficient, but still essentially provides the same service, shall not be considered a new requirement.
   (3) In no case may a function being performed by Department of Defense personnel be–
     (A) modified, reorganized, divided, or in any way changed for the purpose of exempting the conversion of the function from the requirements of this section; or
     (B) converted to performance by a contractor to circumvent a civilian personnel ceiling.
-  (b) T4Congressional NotificationK.–(1) Before commencing a public-private competition under subsection (a), the Secretary of Defense shall submit to Congress a report containing the following:
+  (4) A military department or Defense Agency may not be required to conduct a public-private competition under Office of Management and Budget Circular A–76 or any other provision of law at the end of the performance period specified in a letter of obligation or other agreement entered into with Department of Defense civilian employees pursuant to a public-private competition for any function of the Department of Defense performed by Department of Defense civilian employees.
+  (b) T4Requirement to Consult DOD EmployeesK.–(1) Each officer or employee of the Department of Defense responsible for determining under Office of Management and Budget Circular A–76 whether to convert to contractor performance any function of the Department of Defense–
+    (A) shall, at least monthly during the development and preparation of the performance work statement and the management efficiency study used in making that determination, consult with civilian employees who will be affected by that determination and consider the views of such employees on the development and preparation of that statement and that study; and
+    (B) may consult with such employees on other matters relating to that determination.
+  (2)    (A) In the case of employees represented by a labor organization accorded exclusive recognition under section 7111 of title 5, consultation with representatives of that labor organization shall satisfy the consultation requirement in paragraph (1).
+    (B) In the case of employees other than employees referred to in subparagraph (A), consultation with appropriate representatives of those employees shall satisfy the consultation requirement in paragraph (1).
+    (C) The Secretary of Defense shall prescribe regulations to carry out this subsection. The regulations shall include provisions for the selection or designation of appropriate representatives of employees referred to in subparagraph (B) for purposes of the consultation required by paragraph (1).
+  (c) T4Congressional NotificationK.–(1) Before commencing a public-private competition under subsection (a), the Secretary of Defense shall submit to Congress a report containing the following:
     (A) The function for which such public-private competition is to be conducted.
     (B) The location at which the function is performed by Department of Defense civilian employees.
     (C) The number of Department of Defense civilian employee positions potentially affected.
     (D) The anticipated length and cost of the public-private competition, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the public-private competition.
     (E) A certification that a proposed performance of the function by a contractor is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
-  (2) The report required under paragraph (1) shall include an examination the potential economic effect of performance of the function by a contractor on–
+  (2) The report required under paragraph (1) shall include an examination of the potential economic effect of performance of the function by a contractor on–
     (A) Department of Defense civilian employees who would be affected by such a conversion in performance; and
     (B) the local community and the Government, if more than 50 Department of Defense civilian employees perform the function.
   (3)    (A) A representative individual or entity at a facility where a public-private competition is conducted may submit to the Secretary of Defense an objection to the public private \1\N competition on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the public private \1\ competition. The objection shall be in writing and shall be submitted within 90 days after the following date:
       (i) In the case of a failure to submit the report when required, the date on which the representative individual or an official of the representative entity authorized to pose the objection first knew or should have known of that failure.
       (ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
     (B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
-  (c) T4Exemption for the Purchase of Products and Services of the Blind and Other Severely Handicapped PersonsK.–This section shall not apply to a commercial or industrial type function of the Department of Defense that–
+  (d) T4Exemption for the Purchase of Products and Services of the Blind and Other Severely Handicapped PersonsK.–This section shall not apply to a commercial or industrial type function of the Department of Defense that–
     (1) is included on the procurement list established pursuant to section 2 of the Javits-Wagner-O“Day Act (41 U.S.C. 47); or
     (2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.
-  (d) T4Inapplicability During War or EmergencyK.–The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
+  (e) T4Inapplicability During War or EmergencyK.–The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.

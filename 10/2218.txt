@@ -1,8 +1,52 @@
-  (a) T4Matters To Be Included in Annual Defense BudgetsK.–In preparing the defense budget for any fiscal year, the Secretary of Defense shall–
-    (1) specifically identify each common procurement weapon system included in the budget;
-    (2) take all feasible steps to minimize variations in procurement unit costs for any such system as shown in the budget requests of the different armed forces requesting procurement funds for the system; and
-    (3) identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems.
-  (b) T4ComptrollerK.–The Secretary shall carry out this section through the Under Secretary of Defense (Comptroller).
-  (c) T4DefinitionsK.–In this section:
-    (1) The term ””defense budget““ means the budget of the Department of Defense included in the President“s budget submitted to Congress under section 1105 of title 31 for a fiscal year.
-    (2) The term ””common procurement weapon system““ means a weapon system for which two or more of the Army, Navy, Air Force, and Marine Corps request procurement funds in a defense budget.
+  (a) T4EstablishmentK.–There is established in the Treasury of the United States a fund to be known as the ””National Defense Sealift Fund““.
+  (b) T4Administration of FundK.–The Secretary of Defense shall administer the Fund consistent with the provisions of this section.
+  (c) T4Fund PurposesK.–(1) Funds in the National Defense Sealift Fund shall be available for obligation and expenditure only for the following purposes:
+    (A) Construction (including design of vessels), purchase, alteration, and conversion of Department of Defense sealift vessels.
+    (B) Operation, maintenance, and lease or charter of Department of Defense vessels for national defense purposes.
+    (C) Installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States.
+    (D) Research and development relating to national defense sealift.
+    (E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
+  (2) Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
+  (3) Funds obligated and expended for a purpose set forth in subparagraph (B) or (D) of paragraph (1) may be derived only from funds deposited in the National Defense Sealift Fund pursuant to subsection (d)(1).
+  (d) T4DepositsK.–There shall be deposited in the Fund the following:
+    (1) All funds appropriated to the Department of Defense for–
+      (A) construction (including design of vessels), purchase, alteration, and conversion of national defense sealift vessels;
+      (B) operations, maintenance, and lease or charter of national defense sealift vessels;
+      (C) installation and maintenance of defense features for national defense purposes on privately owned and operated vessels; and
+      (D) research and development relating to national defense sealift.
+    (2) All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping of National Defense Reserve Fleet vessels under sections 57101–57104 and chapter 573 of title 46.
+    (3) All receipts from the charter of vessels under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 7291 note).
+  (e) T4Acceptance of SupportK.–(1) The Secretary of Defense may accept from any person, foreign government, or international organization any contribution of money, personal property (excluding vessels), or assistance in kind for support of the sealift functions of the Department of Defense.
+  (2) Any contribution of property accepted under paragraph (1) may be retained and used by the Department of Defense or disposed of in accordance with procedures prescribed by the Secretary of Defense.
+  (3) The Secretary of Defense shall deposit in the Fund money and receipts from the disposition of any property accepted under paragraph (1).
+  (f) T4LimitationsK.–(1) A vessel built in a foreign ship yard may not be purchased with funds in the National Defense Sealift Fund pursuant to subsection (c)(1), unless specifically authorized by law.
+  (2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall be conducted in United States ship yards and shall be subject to section 1424(b) of Public Law 101–510 (104 Stat. 1683).
+  (g) T4Expiration of Funds AfterK 5 T4YearsK.–No part of an appropriation that is deposited in the National Defense Sealift Fund pursuant to subsection (d)(1) shall remain available for obligation more than five years after the end of fiscal year for which appropriated except to the extent specifically provided by law.
+  (h) T4Budget RequestsK.–Budget requests submitted to Congress for the National Defense Sealift Fund shall separately identify–
+    (1) the amount requested for programs, projects, and activities for construction (including design of vessels), purchase, alteration, and conversion of national defense sealift vessels;
+    (2) the amount requested for programs, projects, and activities for operation, maintenance, and lease or charter of national defense sealift vessels;
+    (3) the amount requested for programs, projects, and activities for installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States; and
+    (4) the amount requested for programs, projects, and activities for research and development relating to national defense sealift.
+      (i) T4Title or Management of VesselsK.–Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+      (j) T4Contracts for Incorporation of Defense Features in Commercial VesselsK.–(1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer. As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.
+  (2) The head of an agency may make advance payments to the contractor under a contract under paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
+    (A) The costs to build, procure, and install a defense feature in the vessel.
+    (B) The costs to periodically maintain and test any defense feature on the vessel.
+    (C) Any increased costs of operation or any loss of revenue attributable to the installation or maintenance of any defense feature on the vessel.
+    (D) Any additional costs associated with the terms and conditions of the contract.
+    (E) Payments of such sums as the Government would otherwise expend, if the vessel were placed in the Ready Reserve Fleet, for maintaining the vessel in the status designated as ””ROS–4 status““ in the Ready Reserve Fleet for 25 years.
+  (3) For any contract under paragraph (1) under which the United States makes advance payments under paragraph (2) for the costs associated with installation or maintenance of any defense feature on a commercial vessel, the contractor shall provide to the United States such security interests in the vessel, by way of a preferred mortgage under section 31322 of title 46 or otherwise, as the head of the agency may prescribe in order to adequately protect the United States against loss for the total amount of those costs.
+  (4) Each contract entered into under this subsection shall–
+    (A) set forth terms and conditions under which, so long as a vessel covered by the contract is owned or controlled by the contractor, the contractor is to operate the vessel for the Department of Defense notwithstanding any other contract or commitment of that contractor; and
+    (B) provide that the contractor operating the vessel for the Department of Defense shall be paid for that operation at fair and reasonable rates.
+  (5) The head of an agency may not delegate authority under this subsection to any officer or employee in a position below the level of head of a procuring activity.
+  (6) The head of an agency may not enter into a contract under paragraph (1) that would provide for payments to the contractor as authorized in paragraph (2)(E) until notice of the proposed contract is submitted to the congressional defense committees and a period of 90 days has elapsed.
+  (k) T4DefinitionsK.–In this section:
+    (1) The term ””Fund““ means the National Defense Sealift Fund established by subsection (a).
+    (2) The term ””Department of Defense sealift vessel““ means any ship owned, operated, controlled, or chartered by the Department of Defense that is any of the following:
+      (A) A fast sealift ship, including any vessel in the Fast Sealift Program established under section 1424 of Public Law 101–510 (104 Stat. 1683).
+      (B) Any other auxiliary vessel that was procured or chartered with specific authorization in law for the vessel, or class of vessels, to be funded in the National Defense Sealift Fund.
+    (3) The term ””national defense sealift vessel““ means–
+      (A) a Department of Defense sealift vessel; and
+      (B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+    (4) The term ””head of an agency““ has the meaning given that term in section 2302(1) of this title.

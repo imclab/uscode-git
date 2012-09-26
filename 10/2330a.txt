@@ -13,7 +13,32 @@
       (A) a small business concern;
       (B) a small business concern owned and controlled by socially and economically disadvantaged individuals; or
       (C) a small business concern owned and controlled by women.
-  (c) T4Compatibility With Data Collection System for Information Technology PurchasesK.–To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title.
-  (d) T4DefinitionsK.–In this section:
+  (c) T4InventoryK.–(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
+    (A) The functions and missions performed by the contractor.
+    (B) The contracting organization, the component of the Department of Defense administering the contract, and the organization whose requirements are being met through contractor performance of the function.
+    (C) The funding source for the contract under which the function is performed by appropriation and operating agency.
+    (D) The fiscal year for which the activity first appeared on an inventory under this section.
+    (E) The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.
+    (F) A determination whether the contract pursuant to which the activity is performed is a personal services contract.
+    (G) A summary of the data required to be collected for the activity under subsection (a).
+  (2) The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
+  (d) T4Public Availability of InventoriesK.–Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall–
+    (1) make the inventory available to the public; and
+    (2) publish in the Federal Register a notice that the inventory is available to the public.
+  (e) T4Review and Planning RequirementsK.–Within 90 days after the date on which an inventory is submitted under subsection (c), the Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall–
+    (1) review the contracts and activities in the inventory for which such Secretary or agency head is responsible;
+    (2) ensure that–
+      (A) each contract on the list that is a personal services contract has been entered into, and is being performed, in accordance with applicable statutory and regulatory requirements;
+      (B) the activities on the list do not include any inherently governmental functions; and
+      (C) to the maximum extent practicable, the activities on the list do not include any functions closely associated with inherently governmental functions;
+    (3) identify activities that should be considered for conversion–
+      (A) to performance by civilian employees of the Department of Defense pursuant to section 2463 of this title; or
+      (B) to an acquisition approach that would be more advantageous to the Department of Defense; and
+    (4) develop a plan to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.
+  (f) T4Rule of ConstructionK.–Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
+  (g) T4DefinitionsK.–In this section:
     (1) The term ””performance-based““, with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
     (2) The definitions set forth in section 2225(f) of this title for the terms ””simplified acquisition threshold““, ””small business concern““, ””small business concern owned and controlled by socially and economically disadvantaged individuals““, and ””small business concern owned and controlled by women““ shall apply.
+    (3) T4Function closely associated with inherently governmental functionsK.–The term ””function closely associated with inherently governmental functions““ has the meaning given that term in section 2383(b)(3) of this title.
+    (4) T4Inherently governmental functionsK.–The term ””inherently governmental functions““ has the meaning given that term in section 2383(b)(2) of this title.
+    (5) T4Personal services contractK.–The term ””personal services contract““ means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.

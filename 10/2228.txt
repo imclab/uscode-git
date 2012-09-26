@@ -1,24 +1,43 @@
-  (a) T4Designation of Responsible Official or OrganizationK.–The Secretary of Defense shall designate an officer or employee of the Department of Defense, or a standing board or committee of the Department of Defense, as the senior official or organization responsible in the Department to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department.
-  (b) T4DutiesK.–(1) The official or organization designated under subsection (a) shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the military equipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
-  (2) The designated official or organization shall develop and recommend any policy guidance on the prevention and mitigation of corrosion to be issued by the Secretary of Defense.
-  (3) The designated official or organization shall review the programs and funding levels proposed by the Secretary of each military department during the annual internal Department of Defense budget review process as those programs and funding proposals relate to programs and funding for the prevention and mitigation of corrosion and shall submit to the Secretary of Defense recommendations regarding those programs and proposed funding levels.
-  (4) The designated official or organization shall provide oversight and coordination of the efforts within the Department of Defense to prevent or mitigate corrosion during–
+  (a) T4Office and DirectorK.–(1) There is an Office of Corrosion Policy and Oversight within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+  (2) The Office shall be headed by a Director of Corrosion Policy and Oversight, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense. The Director shall report directly to the Under Secretary.
+  (3) In order to qualify to be assigned to the position of Director, an individual shall–
+    (A) have management expertise in, and professional experience with, corrosion project and policy implementation, including an understanding of the effects of corrosion policies on infrastructure; research, development, test, and evaluation; and maintenance; and
+    (B) have an understanding of Department of Defense budget formulation and execution, policy formulation, and planning and program requirements.
+  (4) The Secretary of Defense shall designate the position of Director as a critical acquisition position under section 1733(b)(1)(C) of this title.
+  (b) T4DutiesK.–(1) The Director of Corrosion Policy and Oversight (in this section referred to as the ””Director““) shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the military equipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
+  (2) The Director shall develop and recommend any policy guidance on the prevention and mitigation of corrosion to be issued by the Secretary of Defense.
+  (3) The Director shall review the programs and funding levels proposed by the Secretary of each military department during the annual internal Department of Defense budget review process as those programs and funding proposals relate to programs and funding for the prevention and mitigation of corrosion and shall submit to the Secretary of Defense recommendations regarding those programs and proposed funding levels.
+  (4) The Director shall provide oversight and coordination of the efforts within the Department of Defense to prevent or mitigate corrosion during–
     (A) the design, acquisition, and maintenance of military equipment; and
     (B) the design, construction, and maintenance of infrastructure.
-  (5) The designated official or organization shall monitor acquisition practices within the Department of Defense–
+  (5) The Director shall monitor acquisition practices within the Department of Defense–
     (A) to ensure that the use of corrosion prevention technologies and the application of corrosion prevention treatments are fully considered during research and development in the acquisition process; and
     (B) to ensure that, to the extent determined appropriate for each acquisition program, such technologies and treatments are incorporated into that program, particularly during the engineering and design phases of the acquisition process.
-  (c) T4Long-Term StrategyK.–(1) The Secretary of Defense shall develop and implement a long-term strategy to reduce corrosion and the effects of corrosion on the military equipment and infrastructure of the Department of Defense.
+  (c) T4Additional Authorities for DirectorK.–The Director is authorized to–
+    (1) develop, update, and coordinate corrosion training with the Defense Acquisition University;
+    (2) participate in the process within the Department of Defense for the development of relevant directives and instructions; and
+    (3) interact directly with the corrosion prevention industry, trade associations, other government corrosion prevention agencies, academic research and educational institutions, and scientific organizations engaged in corrosion prevention, including the National Academy of Sciences.
+  (d) T4Long-Term StrategyK.–(1) The Secretary of Defense shall develop and implement a long-term strategy to reduce corrosion and the effects of corrosion on the military equipment and infrastructure of the Department of Defense.
   (2) The strategy under paragraph (1) shall include the following:
     (A) Expansion of the emphasis on corrosion prevention and mitigation within the Department of Defense to include coverage of infrastructure.
     (B) Application uniformly throughout the Department of Defense of requirements and criteria for the testing and certification of new corrosion-prevention technologies for equipment and infrastructure with similar characteristics, similar missions, or similar operating environments.
     (C) Implementation of programs, including supporting databases, to ensure that a focused and coordinated approach is taken throughout the Department of Defense to collect, review, validate, and distribute information on proven methods and products that are relevant to the prevention of corrosion of military equipment and infrastructure.
-    (D) Establishment of a coordinated research and development program for the prevention and mitigation of corrosion for new and existing military equipment and infrastructure that includes a plan to transition new corrosion prevention technologies into operational systems.
+    (D) Establishment of a coordinated research and development program for the prevention and mitigation of corrosion for new and existing military equipment and infrastructure that includes a plan to transition new corrosion prevention technologies into operational systems, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements.
   (3) The strategy shall include, for the matters specified in paragraph (2), the following:
     (A) Policy guidance.
     (B) Performance measures and milestones.
     (C) An assessment of the necessary personnel and funding necessary to accomplish the long-term strategy.
-  (d) T4DefinitionsK.–In this section:
+  (e) T4ReportK.–(1) For each budget for a fiscal year, beginning with the budget for fiscal year 2009, the Secretary of Defense shall submit, with the defense budget materials, a report on the following:
+    (A) Funding requirements for the long-term strategy developed under subsection (d).
+    (B) The return on investment that would be achieved by implementing the strategy.
+    (C) The funds requested in the budget compared to the funding requirements.
+    (D) An explanation if the funding requirements are not fully funded in the budget.
+  (2) Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees–
+    (A) an analysis of the budget submission for corrosion control and prevention by the Department of Defense; and
+    (B) an analysis of the report required under paragraph (1).
+  (f) T4DefinitionsK.–In this section:
     (1) The term ””corrosion““ means the deterioration of a material or its properties due to a reaction of that material with its chemical environment.
     (2) The term ””military equipment““ includes all weapon systems, weapon platforms, vehicles, and munitions of the Department of Defense, and the components of such items.
     (3) The term ””infrastructure““ includes all buildings, structures, airfields, port facilities, surface and subterranean utility systems, heating and cooling systems, fuel tanks, pavements, and bridges.
+    (4) The term ””budget““, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+    (5) The term ””defense budget materials““, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
