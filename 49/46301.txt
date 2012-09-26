@@ -29,9 +29,9 @@
     (B) ””mechanic““ means an individual who holds a mechanic certificate issued under part 65 of title 14, Code of Federal Regulations.
     (C) ””pilot““ means an individual who holds a pilot certificate issued under part 61 of title 14, Code of Federal Regulations.
     (D) ””repairman““ means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
-  (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46301(b), 46302, 46303, 46318, or 47107(b) (as further defined by the Secretary under section 47107(T3lK) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
-  (3) In a civil action to collect a civil penalty imposed by the Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
-  (4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Administrator initiates if–
+  (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302, 46303, 46318, or 47107(b) (as further defined by the Secretary under section 47107(T3lK) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449. The Under Secretary or Administrator shall give written notice of the finding of a violation and the penalty.
+  (3) In a civil action to collect a civil penalty imposed by the Under Secretary or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
+  (4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Under Secretary or Administrator initiates if–
     (A) the amount in controversy is more than $50,000;
     (B) the action is in rem or another action in rem based on the same violation has been brought;
     (C) the action involves an aircraft subject to a lien that has been seized by the Government; or
@@ -51,7 +51,7 @@
       (i) a civil penalty shall not be assessed against an individual;
       (ii) a civil penalty may be compromised as provided under subsection (f); and
       (iii) judicial review of any order assessing a civil penalty may be obtained only pursuant to section 46110 of this title.
-  (8) The maximum civil penalty the Administrator or Board may impose under this subsection is $50,000.
+  (8) The maximum civil penalty the Under Secretary, Administrator, or Board may impose under this subsection is $50,000.
   (9) This subsection applies only to a violation occurring after August 25, 1992.
   (e) T4Penalty ConsiderationsK.–In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary shall consider–
     (1) the nature, circumstances, extent, and gravity of the violation;
@@ -66,4 +66,4 @@
   (h) T4NonapplicationK.–(1) This section does not apply to the following when performing official duties:
     (A) a member of the armed forces of the United States.
     (B) a civilian employee of the Department of Defense subject to the Uniform Code of Military Justice.
-  (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
+  (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.

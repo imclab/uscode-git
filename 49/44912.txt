@@ -1,22 +1,36 @@
-  (a) T4Program RequirementK.–(1) The Administrator of the Federal Aviation Administration shall establish and carry out a program to accelerate and expand the research, development, and implementation of technologies and procedures to counteract terrorist acts against civil aviation. The program shall provide for developing and having in place, not later than November 16, 1993, new equipment and procedures necessary to meet the technological challenges presented by terrorism. The program shall include research on, and development of, technological improvements and ways to enhance human performance.
-  (2) In designing and carrying out the program established under this subsection, the Administrator shall–
+  (a) T4Program RequirementK.–(1) The Under Secretary of Transportation for Security shall establish and carry out a program to accelerate and expand the research, development, and implementation of technologies and procedures to counteract terrorist acts against civil aviation. The program shall provide for developing and having in place, not later than November 16, 1993, new equipment and procedures necessary to meet the technological challenges presented by terrorism. The program shall include research on, and development of, technological improvements and ways to enhance human performance.
+  (2) In designing and carrying out the program established under this subsection, the Under Secretary shall–
     (A) consult and coordinate activities with other departments, agencies, and instrumentalities of the United States Government doing similar research;
     (B) identify departments, agencies, and instrumentalities that would benefit from that research; and
     (C) seek cost-sharing agreements with those departments, agencies, and instrumentalities.
-  (3) In carrying out the program established under this subsection, the Administrator shall review and consider the annual reports the Secretary of Transportation submits to Congress on transportation security and intelligence.
-  (4) The Administrator may–
+  (3) In carrying out the program established under this subsection, the Under Secretary shall review and consider the annual reports the Secretary of Transportation submits to Congress on transportation security and intelligence.
+  (4)    (A) In carrying out the program established under this subsection, the Administrator shall designate an individual to be responsible for engineering, research, and development with respect to security technology under the program.
+    (B) The individual designated under subparagraph (A) shall use appropriate systems engineering and risk management models in making decisions regarding the allocation of funds for engineering, research, and development with respect to security technology under the program.
+    (C) The individual designated under subparagraph (A) shall, on an annual basis, submit to the Research, Engineering and Development Advisory Committee a report on activities under this paragraph during the preceding year. Each report shall include, for the year covered by such report, information on–
+      (i) progress made in engineering, research, and development with respect to security technology;
+      (ii) the allocation of funds for engineering, research, and development with respect to security technology; and
+      (iii) engineering, research, and development with respect to any technologies drawn from other agencies, including the rationale for engineering, research, and development with respect to such technologies.
+  (5) The Under Secretary may–
     (A) make grants to institutions of higher learning and other appropriate research facilities with demonstrated ability to carry out research described in paragraph (1) of this subsection, and fix the amounts and terms of the grants; and
-    (B) make cooperative agreements with governmental authorities the Administrator decides are appropriate.
-  (b) T4Review of ThreatsK.–(1) The Administrator shall complete an intensive review of threats to civil aviation, with particular focus on–
-    (A) explosive material that presents the most significant threat to civil aircraft;
-    (B) the minimum amounts, configurations, and types of explosive material that can cause, or would reasonably be expected to cause, catastrophic damage to commercial aircraft in service and expected to be in service in the 10-year period beginning on November 16, 1990;
-    (C) the amounts, configurations, and types of explosive material that can be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
-    (D) the feasibility of using various ways to minimize damage caused by explosive material that cannot be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
-    (E) the ability to screen passengers, carry-on baggage, checked baggage, and cargo; and
-    (F) the technologies that might be used in the future to attempt to destroy or otherwise threaten commercial aircraft and the way in which those technologies can be countered effectively.
-  (2) The Administrator shall use the results of the review under this subsection to develop the focus and priorities of the program established under subsection (a) of this section.
-  (c) T4Scientific Advisory PanelK.–The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering and Development Advisory Committee, to review, comment on, advise on the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft by the next generation of terrorist weapons. The panel shall consist of individuals with scientific and technical expertise in–
-    (1) the development and testing of effective explosive detection systems;
-    (2) aircraft structure and experimentation to decide on the type and minimum weights of explosives that an effective technology must be capable of detecting;
-    (3) technologies involved in minimizing airframe damage to aircraft from explosives; and
-    (4) other scientific and technical areas the Administrator considers appropriate.
+    (B) make cooperative agreements with governmental authorities the Under Secretary decides are appropriate.
+  (b) T4Review of ThreatsK.–(1) The Under Secretary shall periodically review threats to civil aviation, with particular focus on–
+    (A) a comprehensive systems analysis (employing vulnerability analysis, threat attribute definition, and technology roadmaps) of the civil aviation system, including–
+      (i) the destruction, commandeering, or diversion of civil aircraft or the use of civil aircraft as a weapon; and
+      (ii) the disruption of civil aviation service, including by cyber attack;
+    (B) explosive material that presents the most significant threat to civil aircraft;
+    (C) the minimum amounts, configurations, and types of explosive material that can cause, or would reasonably be expected to cause, catastrophic damage to aircraft in air transportation;
+    (D) the amounts, configurations, and types of explosive material that can be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
+    (E) the potential release of chemical, biological, or similar weapons or devices either within an aircraft or within an airport;
+    (F) the feasibility of using various ways to minimize damage caused by explosive material that cannot be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
+    (G) the ability to screen passengers, carry-on baggage, checked baggage, and cargo; and
+    (H) the technologies that might be used in the future to attempt to destroy or otherwise threaten commercial aircraft and the way in which those technologies can be countered effectively.
+  (2) The Under Secretary shall use the results of the review under this subsection to develop the focus and priorities of the program established under subsection (a) of this section.
+  (c) T4Scientific Advisory PanelK.–(1) The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering, and Development Advisory Committee, to review, comment on, advise the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft, commercial aviation facilities, commercial aviation personnel and passengers, and other components of the commercial aviation system by the next generation of terrorist weapons.
+  (2)    (A) The advisory panel shall consist of individuals who have scientific and technical expertise in–
+      (i) the development and testing of effective explosive detection systems;
+      (ii) aircraft structure and experimentation to decide on the type and minimum weights of explosives that an effective explosive detection technology must be capable of detecting;
+      (iii) technologies involved in minimizing airframe damage to aircraft from explosives; and
+      (iv) other scientific and technical areas the Administrator considers appropriate.
+    (B) In appointing individuals to the advisory panel, the Administrator should consider individuals from academia and the national laboratories, as appropriate.
+  (3) The Administrator shall organize the advisory panel into teams capable of undertaking the review of policies and technologies upon request.
+  (4) Not later than 90 days after the date of the enactment of the Aviation and Transportation Security Act, and every two years thereafter, the Administrator shall review the composition of the advisory panel in order to ensure that the expertise of the individuals on the panel is suited to the current and anticipated duties of the panel.
