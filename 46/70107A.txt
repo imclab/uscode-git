@@ -1,10 +1,11 @@
   (a) T4In GeneralK.–The Secretary shall establish interagency operational centers for port security at all high-priority ports not later than 3 years after the date of the enactment of the SAFE Port Act.
   (b) T4CharacteristicsK.–The interagency operational centers established under this section shall–
-    (1) utilize, as appropriate, the compositional and operational characteristics of existing centers, including–
-      (A) the pilot project interagency operational centers for port security in Miami, Florida; Norfolk/Hampton Roads, Virginia; Charleston, South Carolina; and San Diego, California; and
-      (B) the virtual operation center of the Port of New York and New Jersey;
-    (2) be organized to fit the security needs, requirements, and resources of the individual port area at which each is operating;
-    (3) in addition to the Coast Guard, provide, as the Secretary determines appropriate, for participation by representatives of the United States Customs and Border Protection, the United States Immigration and Customs Enforcement, the Transportation Security Administration, the Department of Justice, the Department of Defense, and other Federal agencies, State and local law enforcement or port security personnel, members of the Area Maritime Security Committee, and other public and private sector stakeholders adversely affected by a transportation security incident or transportation disruption; and
+    (1)      (A) include–
+        (i) information management systems, and
+        (ii) sensor management systems; and
+      (B) where practicable, provide for the physical co-location of the Coast Guard and, as the Secretary determines appropriate, representatives of the United States Customs and Border Protection, the United States Immigration and Customs Enforcement, the Transportation Security Administration, the Department of Justice, the Department of Defense, and other Federal agencies, State and local law enforcement or port security personnel, members of the Area Maritime Security Committee, and other public and private sector stakeholders adversely affected by a transportation security incident or transportation disruption;
+    (2) utilize, as appropriate, the compositional and operational characteristics of existing centers;
+    (3) be organized to fit the security needs, requirements, and resources of the individual port area at which each is operating; and
     (4) be incorporated in the implementation and administration of–
       (A) maritime transportation security plans developed under section 70103;
       (B) maritime intelligence activities under section 70113 and information sharing activities consistent with section 1016 of the National Security Intelligence Reform Act of 2004 (6 U.S.C. 485) and the Homeland Security Information Sharing Act (6 U.S.C. 481 et seq.);
@@ -14,5 +15,6 @@
       (F) other activities, as determined by the Secretary.
   (c) T4Security ClearancesK.–The Secretary shall sponsor and expedite individuals participating in interagency operational centers in gaining or maintaining their security clearances. Through the Captain of the Port, the Secretary may identify key individuals who should participate. The port or other entities may appeal to the Captain of the Port for sponsorship.
   (d) T4Security IncidentsK.–During a transportation security incident on or adjacent to waters subject to the jurisdiction of the United States, the Coast Guard Captain of the Port designated by the Commandant of the Coast Guard in a maritime security command center described in subsection (a) shall act as the incident commander, unless otherwise directed by the President.
-  (e) T4Rule of ConstructionK.–Nothing in this section shall be construed to affect the normal command and control procedures for operational entities in the Department, unless so directed by the Secretary.
-  (f) T4Authorization of AppropriationsK.–There are authorized to be appropriated $60,000,000 for each of the fiscal years 2007 through 2012 to carry out this section.
+  (e) T4Deployment of Interoperable Communications Equipment at Interagency Operational CentersK.–The Secretary, subject to the availability of appropriations, shall ensure that interoperable communications technology is deployed at all interagency operational centers established under subsection (a) and that such technology and equipment has been tested in live operational environments before deployment.
+  (f) T4Rule of ConstructionK.–Nothing in this section shall be construed to affect the normal command and control procedures for operational entities in the Department, unless so directed by the Secretary.
+  (g) T4Authorization of AppropriationsK.–There are authorized to be appropriated $60,000,000 for each of the fiscal years 2007 through 2012 to carry out this section.

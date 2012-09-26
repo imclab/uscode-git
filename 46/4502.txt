@@ -4,21 +4,20 @@
     (3) an efficient flame arrestor, backfire trap, or other similar device on the carburetors of each inboard engine which uses gasoline as fuel;
     (4) the means to properly and efficiently ventilate enclosed spaces, including engine and fuel tank compartments, so as to remove explosive or flammable gases;
     (5) visual distress signals;
-    (6) a buoyant apparatus, if the vessel is of a type required by regulations prescribed by the Secretary to be equipped with that apparatus;
-    (7) alerting and locating equipment, including emergency position indicating radio beacons, on vessels that operate beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States or beyond 3 nautical miles from the coastline of the Great Lakes; and
-    (8) a placard as required by regulations prescribed under section 10603(b) of this title.
-  (b)    (1) In addition to the requirements of subsection (a) of this section, the Secretary shall prescribe regulations requiring the installation, maintenance, and use of the equipment in paragraph (2) of this subsection for documented vessels to which this chapter applies that–
-      (A) operate beyond the Boundary Line;
+    (6) other equipment required to minimize the risk of injury to the crew during vessel operations, if the Secretary determines that a risk of serious injury exists that can be eliminated or mitigated by that equipment; and
+    (7) a placard as required by regulations prescribed under section 10603(b) of this title.
+  (b)    (1) In addition to the requirements of subsection (a) of this section, the Secretary shall prescribe regulations requiring the installation, maintenance, and use of the equipment in paragraph (2) of this subsection for vessels to which this chapter applies that–
+      (A) operate beyond 3 nautical miles from the baseline from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes;
       (B) operate with more than 16 individuals on board; or
       (C) in the case of a fish tender vessel, engage in the Aleutian trade.
     (2) The equipment to be required is as follows:
       (A) alerting and locating equipment, including emergency position indicating radio beacons;
-      (B) lifeboats or liferafts sufficient to accommodate all individuals on board;
+      (B) a survival craft that ensures that no part of an individual is immersed in water sufficient to accommodate all individuals on board;
       (C) at least one readily accessible immersion suit for each individual on board that vessel when operating on the waters described in section 3102 of this title;
-      (D) radio communications equipment sufficient to effectively communicate with land-based search and rescue facilities;
-      (E) navigation equipment, including compasses, radar reflectors, nautical charts, and anchors;
-      (F) first aid equipment, including medicine chests; and
-      (G) other equipment required to minimize the risk of injury to the crew during vessel operations, if the Secretary determines that a risk of serious injury exists that can be eliminated or mitigated by that equipment.
+      (D) marine radio communications equipment sufficient to effectively communicate with land-based search and rescue facilities;
+      (E) navigation equipment, including compasses, nautical charts, and publications;
+      (F) first aid equipment and medical supplies sufficient for the size and area of operation of the vessel; and
+      (G) ground tackle sufficient for the vessel.
   (c)    (1) In addition to the requirements described in subsections (a) and (b) of this section, the Secretary may prescribe regulations establishing the standards in paragraph (2) of this subsection for vessels to which this chapter applies that–
       (A)        (i) were built after December 31, 1988, or undergo a major conversion completed after that date; and
         (ii) operate with more than 16 individuals on board; or
@@ -37,6 +36,30 @@
   (e) In prescribing regulations under this chapter, the Secretary–
     (1) shall consider the specialized nature and economics of the operations and the character, design, and construction of the vessel; and
     (2) may not require the alteration of a vessel or associated equipment that was constructed or manufactured before the effective date of the regulation.
-  (f) To ensure compliance with the requirements of this chapter, at least once every 2 years the Secretary shall examine–
-    (1) a fish processing vessel; and
-    (2) a fish tender vessel engaged in the Aleutian trade.
+  (f) To ensure compliance with the requirements of this chapter, the Secretary–
+    (1) shall require the individual in charge of a vessel described in subsection (b) to keep a record of equipment maintenance, and required instruction and drills; and
+    (2) shall examine at dockside a vessel described in subsection (b) at least once every 2 years, and shall issue a certificate of compliance to a vessel meeting the requirements of this chapter.
+  (g)    (1) The individual in charge of a vessel described in subsection (b) must pass a training program approved by the Secretary that meets the requirements in paragraph (2) of this subsection and hold a valid certificate issued under that program.
+    (2) The training program shall–
+      (A) be based on professional knowledge and skill obtained through sea service and hands-on training, including training in seamanship, stability, collision prevention, navigation, fire fighting and prevention, damage control, personal survival, emergency medical care, emergency drills, and weather;
+      (B) require an individual to demonstrate ability to communicate in an emergency situation and understand information found in navigation publications;
+      (C) recognize and give credit for recent past experience in fishing vessel operation; and
+      (D) provide for issuance of a certificate to an individual that has successfully completed the program.
+    (3) The Secretary shall prescribe regulations implementing this subsection. The regulations shall require that individuals who are issued a certificate under paragraph (2)(D) must complete refresher training at least once every 5 years as a condition of maintaining the validity of the certificate.
+    (4) The Secretary shall establish a publicly accessible electronic database listing the names of individuals who have participated in and received a certificate confirming successful completion of a training program approved by the Secretary under this section.
+  (h) A vessel to which this chapter applies shall be constructed in a manner that provides a level of safety equivalent to the minimum safety standards the Secretary may establish for recreational vessels under section 4302, if–
+    (1) subsection (b) of this section applies to the vessel;
+    (2) the vessel is less than 50 feet overall in length; and
+    (3) the vessel is built after January 1, 2010.
+      (i)        (1) The Secretary shall establish a Fishing Safety Training Grants Program to provide funding to municipalities, port authorities, other appropriate public entities, not-for-profit organizations, and other qualified persons that provide commercial fishing safety training–
+          (A) to conduct fishing vessel safety training for vessel operators and crewmembers that–
+            (i) in the case of vessel operators, meets the requirements of subsection (g); and
+            (ii) in the case of crewmembers, meets the requirements of subsection (g)(2)(A), such requirements of subsection (g)(2)(B) as are appropriate for crewmembers, and the requirements of subsections (g)(2)(D), (g)(3), and (g)(4); and
+          (B) for purchase of safety equipment and training aids for use in those fishing vessel safety training programs.
+        (2) The Secretary shall award grants under this subsection on a competitive basis.
+        (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
+        (4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2014 for grants under this subsection.
+      (j)        (1) The Secretary shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
+        (2) The Secretary shall award grants under this subsection on a competitive basis.
+        (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
+        (4) There is authorized to be appropriated $3,000,000 for each fiscal years 2010 through 2014 for activities under this subsection.

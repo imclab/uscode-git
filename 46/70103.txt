@@ -25,11 +25,12 @@
     (B) describe the area and infrastructure covered by the plan, including the areas of population or special economic, environmental, or national security importance that might be damaged by a transportation security incident;
     (C) describe in detail how the plan is integrated with other Area Maritime Transportation Security Plans, and with facility security plans and vessel security plans under this section;
     (D) include consultation and coordination with the Department of Defense on matters relating to Department of Defense facilities and vessels;
-    (E) include any other information the Secretary requires;
-    (F) include a salvage response plan–
+    (E) establish area response and recovery protocols to prepare for, respond to, mitigate against, and recover from a transportation security incident consistent with section 202 of the SAFE Port Act of 2006 (6 U.S.C. 942) and subsection (a) of this section;
+    (F) include any other information the Secretary requires;
+    (G) include a salvage response plan–
       (i) to identify salvage equipment capable of restoring operational trade capacity; and
       (ii) to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident; and
-    (G) be updated at least every 5 years by the Federal Maritime Security Coordinator.
+    (H) be updated at least every 5 years by the Federal Maritime Security Coordinator.
   (3) The Secretary shall–
     (A) review and approve Area Maritime Transportation Security Plans under this subsection; and
     (B) periodically review previously approved Area Maritime Transportation Security Plans.
@@ -76,3 +77,11 @@
       (B) to prevent embarrassment to a person, organization, or agency;
       (C) to restrain competition; or
       (D) to prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
+  (e) T4Especially Hazardous Cargo.–
+    (1) T4Enforcement of security zonesK.–Consistent with other provisions of Federal law, the Coast Guard shall coordinate and be responsible for the enforcement of any Federal security zone established by the Coast Guard around a vessel containing especially hazardous cargo. The Coast Guard shall allocate available resources so as to deter and respond to a transportation security incident, to the maximum extent practicable, and to protect lives or protect property in danger.
+    (2) T4Resource deficiency reporting.–
+      (A) T4In generalK.–When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes–
+        (i) for the last full fiscal year preceding the report, a statement of the number of security zones established for especially hazardous cargo shipments;
+        (ii) for the last full fiscal year preceding the report, a statement of the number of especially hazardous cargo shipments provided a waterborne security escort, subdivided by Federal, State, local, or private security; and
+        (iii) an assessment as to any additional vessels, personnel, infrastructure, and other resources necessary to provide waterborne escorts to those especially hazardous cargo shipments for which a security zone is established.
+      (B) T4Especially hazardous cargo definedK.–In this subsection, the term ””especially hazardous cargo““ means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquiefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
