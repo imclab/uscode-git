@@ -1,0 +1,72 @@
+  (a) Identification required
+     The Secretary shall, within 18 months after August 10, 1993, prepare and submit to the President and the Congress a report identifying and recommending for reallocation bands of frequencies–
+    (1) that are allocated on a primary basis for Federal Government use;
+    (2) that are not required for the present or identifiable future needs of the Federal Government;
+    (3) that can feasibly be made available, as of the date of submission of the report or at any time during the next 15 years, for use under the 1934 Act [47 U.S.C. 151 et seq.] (other than for Federal Government stations under section 305 of the 1934 Act [47 U.S.C. 305]);
+    (4) the transfer of which (from Federal Government use) will not result in costs to the Federal Government, or losses of services or benefits to the public, that are excessive in relation to the benefits to the public that may be provided by non-Federal licensees; and
+    (5) that are most likely to have the greatest potential for productive uses and public benefits under the 1934 Act [47 U.S.C. 151 et seq.] if allocated for non-Federal use.
+  (b) Minimum amount of spectrum recommended
+    (1) In general
+       In accordance with the provisions of this section, the Secretary shall recommend for reallocation, for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that in the aggregate span not less than 200 megahertz, that are located below 5 gigahertz, and that meet the criteria specified in paragraphs (1) through (5) of subsection (a) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that span in the aggregate not less than 100 megahertz.
+    (2) Mixed uses permitted to be counted
+       Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act [47 U.S.C. 151 et seq.] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) of this subsection, except that–
+      (A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) of this subsection;
+      (B) a band of frequencies may not be counted under this paragraph unless the assignments of the band to Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305) are limited by geographic area, by time, or by other means so as to guarantee that the potential use to be made by such Federal Government stations is substantially less (as measured by geographic area, time, or otherwise) than the potential use to be made by non-Federal stations; and
+      (C) the operational sharing permitted under this paragraph shall be subject to the interference regulations prescribed by the Commission pursuant to section 305(a) of the 1934 Act [47 U.S.C. 305(a)] and to coordination procedures that the Commission and the Secretary shall jointly establish and implement to ensure against harmful interference.
+  (c) Criteria for identification
+    (1) Needs of the Federal Government
+       In determining whether a band of frequencies meets the criteria specified in subsection (a)(2) of this section, the Secretary shall–
+      (A) consider whether the band of frequencies is used to provide a communications service that is or could be available from a commercial provider or other vendor;
+      (B) seek to promote–
+        (i) the maximum practicable reliance on commercially available substitutes;
+        (ii) the sharing of frequencies (as permitted under subsection (b)(2) of this section);
+        (iii) the development and use of new communications technologies; and
+        (iv) the use of nonradiating communications systems where practicable; and
+      (C) seek to avoid–
+        (i) serious degradation of Federal Government services and operations;
+        (ii) excessive costs to the Federal Government and users of Federal Government services; and
+        (iii) excessive disruption of existing use of Federal Government frequencies by amateur radio licensees.
+    (2) Feasibility of use
+       In determining whether a frequency band meets the criteria specified in subsection (a)(3) of this section, the Secretary shall–
+      (A) assume that the frequency will be assigned by the Commission under section 303 of the 1934 Act (47 U.S.C. 303) within 15 years;
+      (B) assume reasonable rates of scientific progress and growth of demand for telecommunications services;
+      (C) seek to include frequencies which can be used to stimulate the development of new technologies; and
+      (D) consider the immediate and recurring costs to reestablish services displaced by the reallocation of spectrum.
+    (3) Analysis of benefits
+       In determining whether a band of frequencies meets the criteria specified in subsection (a)(5) of this section, the Secretary shall consider–
+      (A) the extent to which equipment is or will be available that is capable of utilizing the band;
+      (B) the proximity of frequencies that are already assigned for commercial or other non-Federal use;
+      (C) the extent to which, in general, commercial users could share the frequency with amateur radio licensees; and
+      (D) the activities of foreign governments in making frequencies available for experimentation or commercial assignments in order to support their domestic manufacturers of equipment.
+    (4) Power agency frequencies
+      (A) Applicability of criteria
+         The criteria specified by subsection (a) of this section shall be deemed not to be met for any purpose under this subchapter with regard to any frequency assignment to, or any frequency assignment used by, a Federal power agency for the purpose of withdrawing that assignment.
+      (B) Mixed use eligibility
+         The frequencies assigned to any Federal power agency may only be eligible for mixed use under subsection (b)(2) of this section in geographically separate areas, but in those cases where a frequency is to be shared by an affected Federal power agency and a non-Federal user, such use by the non-Federal user shall not cause harmful interference to the affected Federal power agency or adversely affect the reliability of its power system.
+      (C) ””Federal power agency““ defined
+         As used in this paragraph, the term ””Federal power agency““ means the Tennessee Valley Authority, the Bonneville Power Administration, the Western Area Power Administration, the Southwestern Power Administration, the Southeastern Power Administration, or the Alaska Power Administration.
+    (5) Limitation on reallocation
+       None of the frequencies recommended for reallocation in the reports required by this subsection shall have been recommended, prior to August 10, 1993, for reallocation to non-Federal use by international agreement.
+  (d) Procedure for identification of reallocable bands of frequencies
+    (1) Submission of preliminary identification to Congress
+       Within 6 months after August 10, 1993, the Secretary shall prepare, make publicly available, and submit to the President, the Congress, and the Commission a report which makes a preliminary identification of reallocable bands of frequencies which meet the criteria established by this section.
+    (2) Public comment
+       The Secretary shall provide interested persons with the opportunity to submit, within 90 days after the date of its publication, written comment on the preliminary report required by paragraph (1). The Secretary shall immediately transmit a copy of any such comment to the Commission.
+    (3) Comment and recommendations from Commission
+       The Commission shall, within 90 days after the conclusion of the period for comment provided pursuant to paragraph (2), submit to the Secretary the Commission“s analysis of such comments and the Commission“s recommendations for responses to such comments, together with such other comments and recommendations as the Commission deems appropriate.
+    (4) Direct discussions
+       The Secretary shall encourage and provide opportunity for direct discussions among commercial representatives and Federal Government users of the spectrum to aid the Secretary in determining which frequencies to recommend for reallocation. The Secretary shall provide notice to the public and the Commission of any such discussions, including the name or names of any businesses or other persons represented in such discussions. A representative of the Commission (and of the Secretary at the election of the Secretary) shall be permitted to attend any such discussions. The Secretary shall provide the public and the Commission with an opportunity to comment on the results of any such discussions prior to the submission of the final report required by subsection (a) of this section.
+  (e) Timetable for reallocation and limitation
+    (1) Timetable required
+       The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of this section, include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
+    (2) Expedited reallocation
+      (A) Required reallocation
+         The Secretary shall, as part of the report required by subsection (d)(1) of this section, specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
+      (B) Permitted reallocation
+         The Secretary may, as part of such report, identify and recommend bands of frequencies for immediate reallocation for a mixed use pursuant to subsection (b)(2) of this section, but such bands of frequencies may not count toward the minimums required by subparagraph (A).
+    (3) Delayed effective dates
+       In setting the recommended delayed effective dates, the Secretary shall–
+      (A) consider the need to reallocate bands of frequencies as early as possible, taking into account the requirements of paragraphs (1) and (2) of section 925(b) of this title;
+      (B) be based on the useful remaining life of equipment that has been purchased or contracted for to operate on identified frequencies;
+      (C) consider the need to coordinate frequency use with other nations; and
+      (D) take into account the relationship between the costs to the Federal Government of changing to different frequencies and the benefits that may be obtained from commercial and other non-Federal uses of the reassigned frequencies.
