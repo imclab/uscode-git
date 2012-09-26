@@ -1,5 +1,84 @@
-  (a) Implementation of FACNET capability
-    (1) The head of each executive agency shall implement the Federal acquisition computer network (””FACNET““) capability required by section 426 of this title.
-    (2) In implementing the FACNET capability pursuant to paragraph (1), the head of an executive agency shall consult with the Administrator for Federal Procurement Policy.
-  (b) Designation of agency official
-     The head of each executive agency shall designate a program manager to have responsibility for implementation of FACNET capability for that agency and otherwise to implement this section. Such program manager shall report directly to the senior procurement executive designated for the executive agency under section 414(3) of this title.
+  (a) Procurement through full and open competition; competitive procedures
+    (1) Except as provided in subsections (b), (c), and (g) of this section and except in the case of procurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services–
+      (A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this title and the Federal Acquisition Regulation; and
+      (B) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
+    (2) In determining the competitive procedures appropriate under the circumstance, an executive agency–
+      (A) shall solicit sealed bids if–
+        (i) time permits the solicitation, submission, and evaluation of sealed bids;
+        (ii) the award will be made on the basis of price and other price-related factors;
+        (iii) it is not necessary to conduct discussions with the responding sources about their bids; and
+        (iv) there is a reasonable expectation of receiving more than one sealed bid; and
+      (B) shall request competitive proposals if sealed bids are not appropriate under clause (A).
+  (b) Exclusion of particular source; restriction of solicitation to small business concerns
+    (1) An executive agency may provide for the procurement of property or services covered by this section using competitive procedures but excluding a particular source in order to establish or maintain any alternative source or sources of supply for that property or service if the agency head determines that to do so–
+      (A) would increase or maintain competition and would likely result in reduced overall costs for such procurement, or for any anticipated procurement, of such property or services;
+      (B) would be in the interest of national defense in having a facility (or a producer, manufacturer, or other supplier) available for furnishing the property or service in case of a national emergency or industrial mobilization;
+      (C) would be in the interest of national defense in establishing or maintaining an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center;
+      (D) would ensure the continuous availability of a reliable source of supply of such property or service;
+      (E) would satisfy projected needs for such property or service determined on the basis of a history of high demand for the property or service; or
+      (F) in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
+    (2) An executive agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding other than small business concerns in furtherance of sections 638 and 644 of title 15;
+    (3) A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by subsection (f)(1) of this section.
+    (4) A determination under paragraph (1) may not be made for a class of purchases or contracts.
+  (c) Use of noncompetitive procedures
+     An executive agency may use procedures other than competitive procedures only when–
+    (1) the property or services needed by the executive agency are available from only one responsible source and no other type of property or services will satisfy the needs of the executive agency;
+    (2) the executive agency“s need for the property or services is of such an unusual and compelling urgency that the Government would be seriously injured unless the executive agency is permitted to limit the number of sources from which it solicits bids or proposals;
+    (3) it is necessary to award the contract to a particular source or sources in order (A) to maintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization, (B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center, or (C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
+    (4) the terms of an international agreement or treaty between the United States Government and a foreign government or international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for such government, have the effect of requiring the use of procedures other than competitive procedures;
+    (5) subject to subsection (h) \1\N of this section, a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency“s need is for a brand-name commercial item for authorized resale;
+    (6) the disclosure of the executive agency“s needs would compromise the national security unless the agency is permitted to limit the number of sources from which it solicits bids or proposals; or
+    (7) the head of the executive agency–
+      (A) determines that it is necessary in the public interest to use procedures other than competitive procedures in the particular procurement concerned, and
+      (B) notifies the Congress in writing of such determination not less than 30 days before the award of the contract.
+  (d) Property or services deemed available from only one source; nondelegable authority
+    (1) For the purposes of applying subsection (c)(1) of this section–
+      (A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
+      (B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency“s needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
+    (2) The authority of the head of an executive agency under subsection (c)(7) of this section may not be delegated.
+  (e) Offer requests to potential sources
+     An executive agency using procedures other than competitive procedures to procure property or services by reason of the application of subsection (c)(2) or (c)(6) of this section shall request offers from as many potential sources as is practicable under the circumstances.
+  (f) Justification for use of noncompetitive procedures
+    (1) Except as provided in paragraph (2), an executive agency may not award a contract using procedures other than competitive procedures unless–
+      (A) the contracting officer for the contract justifies the use of such procedures in writing and certifies the accuracy and completeness of the justification;
+      (B) the justification is approved–
+        (i) in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii); and
+        (ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
+        (iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of this title (without further delegation); and
+      (C) any required notice has been published with respect to such contract pursuant to section 416 of this title and all bids or proposals received in response to such notice have been considered by such executive agency.
+    (2) In the case of a procurement permitted by subsection (c)(2), the justification and approval required by paragraph (1) may be made after the contract is awarded. The justification and approval required by paragraph (1) is not required–
+      (A) when a statute expressly requires that the procurement be made from a specified source;
+      (B) when the agency“s need is for a brand-name commercial item for authorized resale;
+      (C) in the case of a procurement permitted by subsection (c)(7) of this section; or
+      (D) in the case of a procurement conducted under (i) the Javits-Wagner-O“Day Act (41 U.S.C. 46 et seq.), or (ii) section 637(a) of title 15.
+    (3) The justification required by paragraph (1)(A) shall include–
+      (A) a description of the agency“s needs;
+      (B) an identification of the statutory exception from the requirement to use competitive procedures and a demonstration, based on the proposed contractor“s qualifications or the nature of the procurement, of the reasons for using that exception;
+      (C) a determination that the anticipated cost will be fair and reasonable;
+      (D) a description of the market survey conducted or a statement of the reasons a market survey was not conducted;
+      (E) a listing of the sources, if any, that expressed in writing an interest in the procurement; and
+      (F) a statement of the actions, if any, the agency may take to remove or overcome a barrier to competition before a subsequent procurement for such needs.
+    (4) The justification required by paragraph (1)(A) and any related information shall be made available for inspection by the public consistent with the provisions of section 552 of title 5.
+    (5) In no case may an executive agency–
+      (A) enter into a contract for property or services using procedures other than competitive procedures on the basis of the lack of advance planning or concerns related to the amount of funds available to the agency for procurement functions; or
+      (B) procure property or services from another executive agency unless such other executive agency complies fully with the requirements of this subchapter in its procurement of such property or services.
+         The restriction set out in clause (B) is in addition to, and not in lieu of, any other restriction provided by law.
+  (g) Simplified procedures for small purchases
+    (1) In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for–
+      (A) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
+      (B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+    (2)      (A) The Administrator of General Services shall prescribe regulations that provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified acquisition threshold.
+      (B) For purposes of subparagraph (A), the rental rate or rates under a multiyear lease do not exceed the simplified acquisition threshold if the average annual amount of the rent payable for the period of the lease does not exceed the simplified acquisition threshold.
+    (3) A proposed purchase or contract for an amount above the simplified acquisition threshold may not be divided into several purchases or contracts for lesser amounts in order to use the simplified procedures required by paragraph (1).
+    (4) In using the simplified procedures, an executive agency shall promote competition to the maximum extent practicable.
+    (5) An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in section 427(g) of this title.
+  (h) Efficient implementation of requirement
+     The Federal Acquisition Regulation shall ensure that the requirement to obtain full and open competition is implemented in a manner that is consistent with the need to efficiently fulfill the Government“s requirements.
+    (i) Merit-based award of contracts
+      (1) It is the policy of Congress that an executive agency should not be required by legislation to award a new contract to a specific non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be procured through merit-based selection procedures.
+      (2) A provision of law may not be construed as requiring a new contract to be awarded to a specified non-Federal Government entity unless that provision of law–
+        (A) specifically refers to this subsection;
+        (B) specifically identifies the particular non-Federal Government entity involved; and
+        (C) specifically states that the award to that entity is required by such provision of law in contravention of the policy set forth in paragraph (1).
+      (3) For purposes of this subsection, a contract is a new contract unless the work provided for in the contract is a continuation of the work performed by the specified entity under a preceding contract.
+      (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to the Congress or any agency of the Federal Government.

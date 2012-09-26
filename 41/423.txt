@@ -1,41 +1,85 @@
-  (a) Establishment
-     There is established a Federal Acquisition Regulatory Council (hereinafter in this section referred to as the ””Council““) to assist in the direction and coordination of Government-wide procurement policy and Government-wide procurement regulatory activities in the Federal Government.
-  (b) Membership
-    (1) The Council shall consist of the Administrator for Federal Procurement Policy and–
-      (A) the Secretary of Defense,
-      (B) the Administrator of National Aeronautics and Space; and
-      (C) the Administrator of General Services.
-    (2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 [40 U.S.C. 486(d)], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
-  (c) Functions
-    (1) Subject to the provisions of section 405 of this title, the General Services Administration, the Department of Defense, and the National Aeronautics and Space Administration, pursuant to their respective authorities under title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251, et seq.), chapters 4 and 137 of title 10, and the National Aeronautics and Space Act of 1958 (42 U.S.C. 2451, et seq.), shall jointly issue and maintain in accordance with subsection (f) of this section a single Government-wide procurement regulation, to be known as the ””Federal Acquisition Regulation““.
-    (2) Any other regulations relating to procurement issued by an executive agency shall be limited to (A) regulations essential to implement Government-wide policies and procedures within the agency, and (B) additional policies and procedures required to satisfy the specific and unique needs of the agency.
-    (3) The Administrator, in consultation with the Council, shall ensure that procurement regulations promulgated by executive agencies are consistent with the Federal Acquisition Regulation and in accordance with the policies set forth in section 401 of this title or any policies issued pursuant to section 405(a) of this title.
-    (4)      (A) Under procedures established by the Administrator, a person may request the Administrator to review any regulation relating to procurement on the basis that such regulation is inconsistent with the Federal Acquisition Regulation.
-      (B) Unless the request is frivolous or does not, on its face, state a valid basis for such review, the Administrator shall complete such a review not later than 60 days after receiving the request. The time for completion of the review may be extended if the Administrator determines that an additional period of review is required. The Administrator shall advise the requester of the reasons for the extension and the date by which the review will be completed.
-    (5) If the Administrator determines that a regulation relating to procurement is inconsistent with the Federal Acquisition Regulation or that the regulation should otherwise be revised to remove an inconsistency with any policies issued under section 405(a) of this title or the policies set forth in section 401 of this title, the Administrator shall rescind or deny the promulgation of the regulation or take such other action authorized under section 405 of this title as may be necessary to remove the inconsistency. If the Administrator determines that such a regulation, although not inconsistent with the Federal Acquisition Regulation or such policies, should be revised to improve compliance with such Regulation or policies, the Administrator shall take such action authorized under section 405 of this title as may be necessary and appropriate.
-    (6) The decisions of the Administrator shall be in writing and made publicly available. The Administrator shall provide a listing of such decisions in the annual report to Congress required by section 407 of this title.
-  (d) Additional responsibilities of membership
-     Subject to the authority, direction, and control of the head of the agency concerned, each official who represents an agency on the Council pursuant to subsection (b) of this section shall–
-    (1) approve or disapprove all regulations that are, after 60 days after November 17, 1988, proposed for public comment, promulgated in final form, or otherwise made effective by such agency relating to procurement before such regulation may be promulgated in final form, or otherwise made effective, except that such official may grant an interim approval, without review, for not more than 60 days for a procurement regulation in urgent and compelling circumstances;
-    (2) carry out the responsibilities of such agency set forth in chapter 35 of title 44 for each information collection request (as that term is defined in section 3502(11) of title 44) that relates to procurement rules or regulations; and
-    (3) eliminate or reduce (A) any redundant or unnecessary levels of review and approval, in the procurement system of such agency, and (B) redundant or unnecessary procurement regulations which are unique to that agency.
-       The authority to review and approve or disapprove regulations under paragraph (1) of this subsection may not be delegated to any person outside the office of the official who represents the agency on the Council pursuant to subsection (b) of this section.
-  (e) Governing policies
-     All actions of the Council and of members of the Council shall be in accordance with and furtherance of the policies of section 401 of this title and the policies prescribed under section 405(a) of this title.
-  (f) General authority with respect to FAR
-     Subject to section 405(b) of this title, the Council shall manage, coordinate, control, and monitor the maintenance of, and issuance of and changes in, the Federal Acquisition Regulation.
-  (g) Reports
-     The Administrator for Federal Procurement Policy shall–
-    (1) publish a report within 6 months after November 17, 1988, and every 6 months thereafter relating to the development of procurement regulations to be issued in accordance with subsection (c) of this section;
-    (2) include in each report published under paragraph (1)–
-      (A) the status of each such regulation;
-      (B) a description of those regulations which are required by statute;
-      (C) a description of the methods by which public comment was sought with regard to each proposed regulation in accordance with section 418b of this title, and to the extent appropriate, sections 3504(h) and 3507 of title 44;
-      (D) regulatory activities completed and initiated since the last report;
-      (E) regulations, policies, procedures, practices, and forms that are under consideration or review by the Office of Federal Procurement Policy;
-      (F) whether the regulations have paperwork requirements;
-      (G) the progress made in promulgating and implementing the Federal Acquisition Regulation; and
-      (H) such other matters as the Administrator determines would be useful; and
-    (3) report to Congress within 180 days after November 17, 1988, in consultation with the Administrator of the Office of Information and Regulatory Affairs, regarding–
-      (A) the extent of the paperwork burden created by the Federal procurement process, and
-      (B) the extent to which the Federal procurement system can be streamlined to reduce unnecessary paperwork while at the same time maintaining recordkeeping and reporting requirements necessary to ensure the integrity and accountability of the system.
+  (a) Prohibition on disclosing procurement information
+    (1) A person described in paragraph (2) shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
+    (2) Paragraph (1) applies to any person who–
+      (A) is a present or former official of the United States, or a person who is acting or has acted for or on behalf of, or who is advising or has advised the United States with respect to, a Federal agency procurement; and
+      (B) by virtue of that office, employment, or relationship has or had access to contractor bid or proposal information or source selection information.
+  (b) Prohibition on obtaining procurement information
+     A person shall not, other than as provided by law, knowingly obtain contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
+  (c) Actions required of procurement officers when contacted by offerors regarding non-Federal employment
+    (1) If an agency official who is participating personally and substantially in a Federal agency procurement for a contract in excess of the simplified acquisition threshold contacts or is contacted by a person who is a bidder or offeror in that Federal agency procurement regarding possible non-Federal employment for that official, the official shall–
+      (A) promptly report the contact in writing to the official“s supervisor and to the designated agency ethics official (or designee) of the agency in which the official is employed; and
+      (B)        (i) reject the possibility of non-Federal employment; or
+        (ii) disqualify himself or herself from further personal and substantial participation in that Federal agency procurement until such time as the agency has authorized the official to resume participation in such procurement, in accordance with the requirements of section 208 of title 18 and applicable agency regulations on the grounds that–
+          (I) the person is no longer a bidder or offeror in that Federal agency procurement; or
+          (II) all discussions with the bidder or offeror regarding possible non-Federal employment have terminated without an agreement or arrangement for employment.
+    (2) Each report required by this subsection shall be retained by the agency for not less than two years following the submission of the report. All such reports shall be made available to the public upon request, except that any part of a report that is exempt from the disclosure requirements of section 552 of title 5 under subsection (b)(1) of such section may be withheld from disclosure to the public.
+    (3) An official who knowingly fails to comply with the requirements of this subsection shall be subject to the penalties and administrative actions set forth in subsection (e) of this section.
+    (4) A bidder or offeror who engages in employment discussions with an official who is subject to the restrictions of this subsection, knowing that the official has not complied with subparagraph (A) or (B) of paragraph (1), shall be subject to the penalties and administrative actions set forth in subsection (e) of this section.
+  (d) Prohibition on former official“s acceptance of compensation from contractor
+    (1) A former official of a Federal agency may not accept compensation from a contractor as an employee, officer, director, or consultant of the contractor within a period of one year after such former official–
+      (A) served, at the time of selection of the contractor or the award of a contract to that contractor, as the procuring contracting officer, the source selection authority, a member of the source selection evaluation board, or the chief of a financial or technical evaluation team in a procurement in which that contractor was selected for award of a contract in excess of $10,000,000;
+      (B) served as the program manager, deputy program manager, or administrative contracting officer for a contract in excess of $10,000,000 awarded to that contractor; or
+      (C) personally made for the Federal agency–
+        (i) a decision to award a contract, subcontract, modification of a contract or subcontract, or a task order or delivery order in excess of $10,000,000 to that contractor;
+        (ii) a decision to establish overhead or other rates applicable to a contract or contracts for that contractor that are valued in excess of $10,000,000;
+        (iii) a decision to approve issuance of a contract payment or payments in excess of $10,000,000 to that contractor; or
+        (iv) a decision to pay or settle a claim in excess of $10,000,000 with that contractor.
+    (2) Nothing in paragraph (1) may be construed to prohibit a former official of a Federal agency from accepting compensation from any division or affiliate of a contractor that does not produce the same or similar products or services as the entity of the contractor that is responsible for the contract referred to in subparagraph (A), (B), or (C) of such paragraph.
+    (3) A former official who knowingly accepts compensation in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
+    (4) A contractor who provides compensation to a former official knowing that such compensation is accepted by the former official in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
+    (5) Regulations implementing this subsection shall include procedures for an official or former official of a Federal agency to request advice from the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this subsection from accepting compensation from a particular contractor.
+  (e) Penalties and administrative actions
+    (1) Criminal penalties
+       Whoever engages in conduct constituting a violation of subsection (a) or (b) of this section for the purpose of either–
+      (A) exchanging the information covered by such subsection for anything of value, or
+      (B) obtaining or giving anyone a competitive advantage in the award of a Federal agency procurement contract,
+       shall be imprisoned for not more than 5 years or fined as provided under title 18, or both.
+    (2) Civil penalties
+       The Attorney General may bring a civil action in an appropriate United States district court against any person who engages in conduct constituting a violation of subsection (a), (b), (c), or (d) of this section. Upon proof of such conduct by a preponderance of the evidence, the person is subject to a civil penalty. An individual who engages in such conduct is subject to a civil penalty of not more than $50,000 for each violation plus twice the amount of compensation which the individual received or offered for the prohibited conduct. An organization that engages in such conduct is subject to a civil penalty of not more than $500,000 for each violation plus twice the amount of compensation which the organization received or offered for the prohibited conduct.
+    (3) Administrative actions
+      (A) If a Federal agency receives information that a contractor or a person has engaged in conduct constituting a violation of subsection (a), (b), (c), or (d) of this section, the Federal agency shall consider taking one or more of the following actions, as appropriate:
+        (i) Cancellation of the Federal agency procurement, if a contract has not yet been awarded.
+        (ii) Rescission of a contract with respect to which–
+          (I) the contractor or someone acting for the contractor has been convicted for an offense punishable under paragraph (1), or
+          (II) the head of the agency that awarded the contract has determined, based upon a preponderance of the evidence, that the contractor or someone acting for the contractor has engaged in conduct constituting such an offense.
+        (iii) Initiation of suspension or debarment proceedings for the protection of the Government in accordance with procedures in the Federal Acquisition Regulation.
+        (iv) Initiation of adverse personnel action, pursuant to the procedures in chapter 75 of title 5 or other applicable law or regulation.
+      (B) If a Federal agency rescinds a contract pursuant to subparagraph (A)(ii), the United States is entitled to recover, in addition to any penalty prescribed by law, the amount expended under the contract.
+      (C) For purposes of any suspension or debarment proceedings initiated pursuant to subparagraph (A)(iii), engaging in conduct constituting an offense under subsection (a), (b), (c), or (d) of this section affects the present responsibility of a Government contractor or subcontractor.
+  (f) Definitions
+     As used in this section:
+    (1) The term ””contractor bid or proposal information““ means any of the following information submitted to a Federal agency as part of or in connection with a bid or proposal to enter into a Federal agency procurement contract, if that information has not been previously made available to the public or disclosed publicly:
+      (A) Cost or pricing data (as defined by section 2306a(h) of title 10, with respect to procurements subject to that section, and section 254b(h) of this title, with respect to procurements subject to that section).
+      (B) Indirect costs and direct labor rates.
+      (C) Proprietary information about manufacturing processes, operations, or techniques marked by the contractor in accordance with applicable law or regulation.
+      (D) Information marked by the contractor as ””contractor bid or proposal information““, in accordance with applicable law or regulation.
+    (2) The term ””source selection information““ means any of the following information prepared for use by a Federal agency for the purpose of evaluating a bid or proposal to enter into a Federal agency procurement contract, if that information has not been previously made available to the public or disclosed publicly:
+      (A) Bid prices submitted in response to a Federal agency solicitation for sealed bids, or lists of those bid prices before public bid opening.
+      (B) Proposed costs or prices submitted in response to a Federal agency solicitation, or lists of those proposed costs or prices.
+      (C) Source selection plans.
+      (D) Technical evaluation plans.
+      (E) Technical evaluations of proposals.
+      (F) Cost or price evaluations of proposals.
+      (G) Competitive range determinations that identify proposals that have a reasonable chance of being selected for award of a contract.
+      (H) Rankings of bids, proposals, or competitors.
+      (I) The reports and evaluations of source selection panels, boards, or advisory councils.
+      (J) Other information marked as ””source selection information““ based on a case-by-case determination by the head of the agency, his designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
+    (3) The term ””Federal agency““ has the meaning provided such term in section 472 of title 40.
+    (4) The term ””Federal agency procurement““ means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
+    (5) The term ””contracting officer““ means a person who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to such a contract.
+    (6) The term ””protest““ means a written objection by an interested party to the award or proposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
+    (7) The term ””official““ means the following:
+      (A) An officer, as defined in section 2104 of title 5.
+      (B) An employee, as defined in section 2105 of title 5.
+      (C) A member of the uniformed services, as defined in section 2101(3) of title 5.
+  (g) Limitation on protests
+     No person may file a protest against the award or proposed award of a Federal agency procurement contract alleging a violation of subsection (a), (b), (c), or (d) of this section, nor may the Comptroller General of the United States consider such an allegation in deciding a protest, unless that person reported to the Federal agency responsible for the procurement, no later than 14 days after the person first discovered the possible violation, the information that the person believed constitutes evidence of the offense.
+  (h) Savings provisions
+     This section does not–
+    (1) restrict the disclosure of information to, or its receipt by, any person or class of persons authorized, in accordance with applicable agency regulations or procedures, to receive that information;
+    (2) restrict a contractor from disclosing its own bid or proposal information or the recipient from receiving that information;
+    (3) restrict the disclosure or receipt of information relating to a Federal agency procurement after it has been canceled by the Federal agency before contract award unless the Federal agency plans to resume the procurement;
+    (4) prohibit individual meetings between a Federal agency official and an offeror or potential offeror for, or a recipient of, a contract or subcontract under a Federal agency procurement, provided that unauthorized disclosure or receipt of contractor bid or proposal information or source selection information does not occur;
+    (5) authorize the withholding of information from, nor restrict its receipt by, Congress, a committee or subcommittee of Congress, the Comptroller General, a Federal agency, or an inspector general of a Federal agency;
+    (6) authorize the withholding of information from, nor restrict its receipt by, the Comptroller General of the United States in the course of a protest against the award or proposed award of a Federal agency procurement contract; or
+    (7) limit the applicability of any requirements, sanctions, contract penalties, and remedies established under any other law or regulation.

@@ -23,5 +23,8 @@
     (12) The term ””nondevelopmental item““.
     (13) The term ””commercial component““.
     (14) The term ””component““.
-  (d) The term ””simplified acquisition threshold““ has the meaning provided that term in section 403 of this title, except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means an amount equal to two times the amount specified for that term in section 403 of this title.
+  (d)    (1) The term ””simplified acquisition threshold““ has the meaning provided that term in section 403 of this title, except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 403 of this title.
+    (2) In paragraph (1):
+      (A) The term ””contingency operation““ has the meaning given such term in section 101(a) of title 10.
+      (B) The term ””humanitarian or peacekeeping operation““ means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
   (e) The term ””Federal Acquisition Regulation““ means the Federal Acquisition Regulation issued pursuant to section 421(c)(1) of this title.
