@@ -4,7 +4,7 @@
     (2) in the case of a multiemployer plan, 5 percent of the accumulated funding deficiency determined under section 431 as of the end of any plan year ending with or within the taxable year.
   (b) Additional tax
      If–
-    (1) a tax is imposed under subsection (a)(1) on any unpaid required minimum contribution and such amount remains unpaid as of the close of the taxable period, or
+    (1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period, or
     (2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
        there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution or accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
   (c) Definitions
@@ -14,7 +14,7 @@
     (2) Correct
        The term ””correct““ means, with respect to an accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
     (3) Taxable period
-       The term ””taxable period““ means, with respect to an accumulated funding deficiency, the period beginning with the end of the plan year in which there is an accumulated funding deficiency and ending on the earlier of–
+       The term ””taxable period““ means, with respect to an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable \1\N and ending on the earlier of–
       (A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
       (B) the date on which the tax imposed by subsection (a) is assessed.
     (4) Unpaid minimum required contribution
@@ -24,12 +24,12 @@
          Any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for all preceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 430 for the plan year.
   (d) Notification of the Secretary of Labor
      Before issuing a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunity (but not more than 60 days)–
-    (1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency, or
+    (1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, or
     (2) to comment on the imposition of such tax.
        In the case of a multiemployer plan which is in reorganization under section 418, the same notice and opportunity shall be provided to the Pension Benefit Guaranty Corporation.
   (e) Liability for tax
     (1) In general
-       Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(1)(A).\1\N
+       Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(2).
     (2) Joint and several liability where employer member of controlled group
       (A) In general
          If an employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for the tax imposed by subsection (a), (b), (f), or (g).
@@ -77,12 +77,12 @@
       (B) Amount of tax
          The amount of the tax imposed under subparagraph (A) with respect to any plan sponsor for any taxable year shall be the greater of–
         (i) the amount of tax imposed under subsection (a) for the taxable year (determined without regard to this subsection), or
-        (ii) the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the first day of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
+        (ii) the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the day following the close of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
       (C) Liability for tax
         (i) In general
            The tax imposed by subparagraph (A) shall be paid by each plan sponsor.
         (ii) Plan sponsor
-           For purposes of clause (i), the term ””plan sponsor““ in the case of a multiemployer plan means the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+           For purposes of clause (i), the term ””plan sponsor““ has the meaning given such term by section 432(i)(9).
     (5) Waiver
        In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
     (6) Terms used in section 432

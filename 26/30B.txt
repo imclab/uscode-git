@@ -202,6 +202,8 @@
            In the case of a vehicle to which paragraph (2)(A) applies, the term ””maximum available power““ means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine.
         (ii) Other motor vehicles
            In the case of a vehicle to which paragraph (2)(B) applies, the term ””maximum available power““ means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle“s total traction power. For purposes of the preceding sentence, the term ””total traction power““ means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
+      (D) Exclusion of plug-in vehicles
+         Any vehicle with respect to which a credit is allowable under section 30D (determined without regard to subsection (d) thereof) shall not be taken into account under this section.
   (e) New qualified alternative fuel motor vehicle credit
     (1) Allowance of credit
        Except as provided in paragraph (5), the new qualified alternative fuel motor vehicle credit determined under this subsection is an amount equal to the applicable percentage of the incremental cost of any new qualified alternative fuel motor vehicle placed in service by the taxpayer during the taxable year.

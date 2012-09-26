@@ -1,5 +1,5 @@
   (a) Allowance of credit
-     There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer an amount equal to $1,000.
+     There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer for which the taxpayer is allowed a deduction under section 151 an amount equal to $1,000.
   (b) Limitations
     (1) Limitation based on adjusted gross income
        The amount of the credit allowable under subsection (a) shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer“s modified adjusted gross income exceeds the threshold amount. For purposes of the preceding sentence, the term ””modified adjusted gross income““ means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
@@ -12,7 +12,7 @@
     (3) Limitation based on amount of tax
        In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of–
       (A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-      (B) the sum of the credits allowable under this subpart (other than this section and sections 23 and 25B) and section 27 for the taxable year.
+      (B) the sum of the credits allowable under this subpart (other than this section and sections 23, 25B, 25D, and 30D) and section 27 for the taxable year.
   (c) Qualifying child
      For purposes of this section–
     (1) In general
@@ -45,6 +45,8 @@
       (A) such dollar amount, multiplied by
       (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2000““ for ””calendar year 1992““ in subparagraph (B) thereof.
        Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
+    (4) Special rule for 2008
+       Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500.
   (e) Identification requirement
      No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
   (f) Taxable year must be full taxable year

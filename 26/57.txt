@@ -35,9 +35,15 @@
          For purposes of this part, the term ””specified private activity bond““ means any private activity bond (as defined in section 141) which is issued after August 7, 1986, and the interest on which is not includible in gross income under section 103.
       (ii) Exception for qualified 501(c)(3) bonds
          For purposes of clause (i), the term ””private activity bond““ shall not include any qualified 501(c)(3) bond (as defined in section 145).
-      (iii) Exception for refundings
+      (iii) Exception for certain housing bonds
+         For purposes of clause (i), the term ””private activity bond““ shall not include any bond issued after the date of the enactment of this clause if such bond is–
+        (I) an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide qualified residential rental projects (as defined in section 142(d)),
+        (II) a qualified mortgage bond (as defined in section 143(a)), or
+        (III) a qualified veterans“ mortgage bond (as defined in section 143(b)).
+            The preceding sentence shall not apply to any refunding bond unless such preceding sentence applied to the refunded bond (or in the case of a series of refundings, the original bond).
+      (iv) Exception for refundings
          For purposes of clause (i), the term ””private activity bond““ shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
-      (iv) Certain bonds issued before September 1, 1986
+      (v) Certain bonds issued before September 1, 1986
          For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986, unless such bond would be a private activity bond if–
         (I) paragraphs (1) and (2) of section 141(b) were applied by substituting ””25 percent““ for ””10 percent““ each place it appears,
         (II) paragraphs (3), (4), and (5) of section 141(b) did not apply, and

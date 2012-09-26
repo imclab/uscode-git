@@ -55,7 +55,7 @@
         (ii) in the case of a multiemployer plan, in the same industry, the same trade or craft, and the same geographic area covered by the plan as when such benefits commenced.
          The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the purposes of this subparagraph, including regulations with respect to the meaning of the term ””employed““.
       (C) Effect of retroactive plan amendments
-         A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 412(c)(2).\1\N
+         A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 412(d)(2).
       (D) Withdrawal of mandatory contribution
         (i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
         (ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
@@ -68,11 +68,11 @@
          A participant“s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because–
         (i) the plan is amended to reduce benefits under section 418D or under section 4281 of the Employee Retirement Income Security Act of 1974, or
         (ii) benefit payments under the plan may be suspended under section 418E or under section 4281 of the Employee Retirement Income Security Act of 1974.
-      (G) Treatment of matching contributions forfeited by reason of excess deferral or contribution or erroneous automatic contribution
-         A matching contribution (within the meaning of section 401(m)) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B), an excess deferral under section 402(g)(2)(A), an erroneous automatic contribution under section 414(w), or an excess aggregate contribution under section 401(m)(6)(B).
+      (G) Treatment of matching contributions forfeited by reason of excess deferral or contribution or permissible withdrawal
+         A matching contribution (within the meaning of section 401(m)) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B), an excess deferral under section 402(g)(2)(A), a permissible withdrawal under section 414(w), or an excess aggregate contribution under section 401(m)(6)(B).
     (4) Service included in determination of nonforfeitable percentage
        In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under paragraph (2), all of an employee“s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
-      (A) years of service before age 18,\2\N
+      (A) years of service before age 18,\1\N
       (B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions;
       (C) years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary;
       (D) service not required to be taken into account under paragraph (6);
@@ -180,9 +180,9 @@
   (13) Special rules for plans computing accrued benefits by reference to hypothetical account balance or equivalent amounts
     (A) In general
        An applicable defined benefit plan shall not be treated as failing to meet–
-      (i) subject to paragraph (2), the requirements of subsection (a)(2), or
-      (ii) the requirements of subsection (c) or section 417(e) with respect to contributions other than employee contributions,
-       solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in the hypothetical account described in paragraph (3) or as an accumulated percentage of the participant“s final average compensation.
+      (i) subject to subparagraph (B), the requirements of subsection (a)(2), or
+      (ii) the requirements of subsection (a)(11) or (c), or the requirements of section 417(e), with respect to accrued benefits derived from employer contributions,
+       solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in the hypothetical account described in subparagraph (C) or as an accumulated percentage of the participant“s final average compensation.
     (B) 3-year vesting
        In the case of an applicable defined benefit plan, such plan shall be treated as meeting the requirements of subsection (a)(2) only if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions.
     (C) Applicable defined benefit plan and related rules
@@ -264,7 +264,7 @@
         (ii) Similarly situated
            For purposes of this subparagraph, a participant is similarly situated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
         (iii) Disregard of subsidized early retirement benefits
-           In determining the accrued benefit as of any date for purposes of this clause, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
+           In determining the accrued benefit as of any date for purposes of this subparagraph, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
         (iv) Accrued benefit
            For purposes of this subparagraph, the accrued benefit may, under the terms of the plan, be expressed as an annuity payable at normal retirement age, the balance of a hypothetical account, or the current value of the accumulated percentage of the employee“s final average compensation.
       (B) Applicable defined benefit plans
@@ -272,7 +272,7 @@
           (I) In general
              An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
           (II) Preservation of capital
-             An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
+             An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the plan provides that an interest credit (or equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
           (III) Market rate of return
              The Secretary may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I).
         (ii) Special rule for plan conversions
@@ -282,7 +282,7 @@
           (I) the participant“s accrued benefit for years of service before the effective date of the amendment, determined under the terms of the plan as in effect before the amendment, plus
           (II) the participant“s accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
         (iv) Special rules for early retirement subsidies
-           For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount \3\N with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+           For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount \2\N with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
         (v) Applicable plan amendment
            For purposes of this subparagraph–
           (I) In general
@@ -298,7 +298,7 @@
           (I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
           (II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
       (C) Certain offsets permitted
-         A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) solely because the plan provides offsets against benefits under the plan to the extent such offsets are allowable in applying the requirements of section 401(a).
+         A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) solely because the plan provides offsets against benefits under the plan to the extent such offsets are otherwise allowable in applying the requirements of section 401(a).
       (D) Permitted disparities in plan contributions or benefits
          A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(T3lK) are met.
       (E) Indexing permitted
@@ -351,7 +351,7 @@
      In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee“s accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
   (6) Accrued benefit not to be decreased by amendment
     (A) In general
-       A plan shall be treated as not satisfying the requirements of this section if the accrued benefit of a participant is decreased by an amendment of the plan, other than an amendment described in section 412(e)(2),\4\N or section 4281 of the Employee Retirement Income Security Act of 1974.
+       A plan shall be treated as not satisfying the requirements of this section if the accrued benefit of a participant is decreased by an amendment of the plan, other than an amendment described in section 412(d)(2), or section 4281 of the Employee Retirement Income Security Act of 1974.
     (B) Treatment of certain plan amendments
        For purposes of subparagraph (A), a plan amendment which has the effect of–
       (i) eliminating or reducing an early retirement benefit or a retirement-type subsidy (as defined in regulations), or

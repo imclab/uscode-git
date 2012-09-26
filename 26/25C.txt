@@ -15,7 +15,7 @@
   (c) Qualified energy efficiency improvements
      For purposes of this section–
     (1) In general
-       The term ””qualified energy efficiency improvements““ means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2000 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section (or, in the case of a metal roof with appropriate pigmented coatings which meet the Energy Star program requirements), if–
+       The term ””qualified energy efficiency improvements““ means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2000 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section (or, in the case of a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements), if–
       (A) such component is installed in or on a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer“s principal residence (within the meaning of section 121),
       (B) the original use of such component commences with the taxpayer, and
       (C) such component reasonably can be expected to remain in use for at least 5 years.
@@ -24,7 +24,7 @@
       (A) any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
       (B) exterior windows (including skylights),
       (C) exterior doors, and
-      (D) any metal roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+      (D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
     (3) Manufactured homes included
        The term ””dwelling unit““ includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
   (d) Residential energy property expenditures
@@ -44,28 +44,23 @@
          Property described under subparagraph (A) shall meet the performance and quality standards, and the certification requirements (if any), which–
         (i) have been prescribed by the Secretary by regulations (after consultation with the Secretary of Energy or the Administrator of the Environmental Protection Agency, as appropriate), and
         (ii) are in effect at the time of the acquisition of the property, or at the time of the completion of the construction, reconstruction, or erection of the property, as the case may be.
-      (C) Requirements for standards
-         The standards and requirements prescribed by the Secretary under subparagraph (B)–
-        (i) in the case of the energy efficiency ratio (EER) for central air conditioners and electric heat pumps–
-          (I) shall require measurements to be based on published data which is tested by manufacturers at 95 degrees Fahrenheit, and
-          (II) may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency, and
-        (ii) in the case of geothermal heat pumps–
-          (I) shall be based on testing under the conditions of ARI/ISO Standard 13256–1 for Water Source Heat Pumps or ARI 870 for Direct Expansion GeoExchange Heat Pumps (DX), as appropriate, and
-          (II) shall include evidence that water heating services have been provided through a desuperheater or integrated water heating system connected to the storage water heater tank.
+      (C) Requirements and standards for air conditioners and heat pumps
+         The standards and requirements prescribed by the Secretary under subparagraph (B) with respect to the energy efficiency ratio (EER) for central air conditioners and electric heat pumps–
+        (i) shall require measurements to be based on published data which is tested by manufacturers at 95 degrees Fahrenheit, and
+        (ii) may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency.
     (3) Energy-efficient building property
        The term ””energy-efficient building property““ means–
       (A) an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
       (B) an electric heat pump which has a heating seasonal performance factor (HSPF) of at least 9, a seasonal energy efficiency ratio (SEER) of at least 15, and an energy efficiency ratio (EER) of at least 13,
-      (C) a geothermal heat pump which–
-        (i) in the case of a closed loop product, has an energy efficiency ratio (EER) of at least 14.1 and a heating coefficient of performance (COP) of at least 3.3,
-        (ii) in the case of an open loop product, has an energy efficiency ratio (EER) of at least 16.2 and a heating coefficient of performance (COP) of at least 3.6, and
-        (iii) in the case of a direct expansion (DX) product, has an energy efficiency ratio (EER) of at least 15 and a heating coefficient of performance (COP) of at least 3.5,
-      (D) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2006, and
-      (E) a natural gas, propane, or oil water heater which has an energy factor of at least 0.80.
+      (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2006,
+      (D) a natural gas, propane, or oil water heater which has an energy factor of at least 0.80 or a thermal efficiency of at least 90 percent, and
+      (E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
     (4) Qualified natural gas, propane, or oil furnace or hot water boiler
        The term ””qualified natural gas, propane, or oil furnace or hot water boiler““ means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
     (5) Advanced main air circulating fan
        The term ””advanced main air circulating fan““ means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
+    (6) Biomass fuel
+       The term ””biomass fuel““ means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.
   (e) Special rules
      For purposes of this section–
     (1) Application of rules
@@ -78,4 +73,6 @@
   (f) Basis adjustments
      For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
   (g) Termination
-     This section shall not apply with respect to any property placed in service after December 31, 2007.
+     This section shall not apply with respect to any property placed in service–
+    (1) after December 31, 2007, and before January 1, 2009, or
+    (2) after December 31, 2009..\1\N

@@ -24,7 +24,7 @@
       (A) Alternative tax in case of capital gains
          If for any taxable year a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is hereby imposed a tax (if such tax is less than the tax imposed by such subsection) which shall consist of the sum of–
         (i) a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and
-        (ii) a tax determined at the rate provided in section 1201(a) on the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
+        (ii) a tax determined at the rates provided in section 1201(a) on the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
       (B) Treatment of capital gain dividends by shareholders
          A capital gain dividend shall be treated by the shareholders or holders of beneficial interests as a gain from the sale or exchange of a capital asset held for more than 1 year.
       (C) Definition of capital gain dividend
@@ -49,7 +49,7 @@
          A tax is hereby imposed for each taxable year on the net income from foreclosure property of every real estate investment trust. Such tax shall be computed by multiplying the net income from foreclosure property by the highest rate of tax specified in section 11(b).
       (B) Net income from foreclosure property
          For purposes of this part, the term ””net income from foreclosure property““ means the excess of–
-        (i) gain from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3), over
+        (i) gain (including any foreign currency gain, as defined in section 988(b)(1)) from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in (or, in the case of foreign currency gain, not attributable to gross income described in) section 856(c)(3) other than subparagraph (F) thereof, over
         (ii) the deductions allowed by this chapter which are directly connected with the production of the income referred to in clause (i).
     (5) Imposition of tax in case of failure to meet certain requirements
        If section 856(c)(6) applies to a real estate investment trust for any taxable year, there is hereby imposed on such trust a tax in an amount equal to the greater of–
@@ -65,30 +65,31 @@
          There is hereby imposed for each taxable year of every real estate investment trust a tax equal to 100 percent of the net income derived from prohibited transactions.
       (B) Definitions
          For purposes of this part–
-        (i) the term ””net income derived from prohibited transactions““ means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;
+        (i) the term ””net income derived from prohibited transactions““ means the excess of the gain (including any foreign currency gain, as defined in section 988(b)(1)) from prohibited transactions over the deductions (including any foreign currency loss, as defined in section 988(b)(2)) allowed by this chapter which are directly connected with prohibited transactions;
         (ii) in determining the amount of the net income derived from prohibited transactions, there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss; and
         (iii) the term ””prohibited transaction““ means a sale or other disposition of property described in section 1221(a)(1) which is not foreclosure property.
       (C) Certain sales not to constitute prohibited transactions
-         For purposes of this part, the term ””prohibited transaction““ does not include a sale of property which is a real estate asset as defined in section 856(c)(5)(B) if–
-        (i) the trust has held the property for not less than 4 years;
-        (ii) aggregate expenditures made by the trust, or any partner of the trust, during the 4-year period preceding the date of sale which are includible in the basis of the property do not exceed 30 percent of the net selling price of the property;
-        (iii)          (I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year;
-        (iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 4 years for production of rental income; and
+         For purposes of this part, the term ””prohibited transaction““ does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if–
+        (i) the trust has held the property for not less than 2 years;
+        (ii) aggregate expenditures made by the trust, or any partner of the trust, during the 2-year period preceding the date of sale which are includible in the basis of the property do not exceed 30 percent of the net selling price of the property;
+        (iii)          (I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or (III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year;
+        (iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 2 years for production of rental income; and
         (v) if the requirement of clause (iii)(I) is not satisfied, substantially all of the marketing and development expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income.
       (D) Certain sales not to constitute prohibited transactions
-         For purposes of this part, the term ””prohibited transaction““ does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) if–
-        (i) the trust held the property for not less than 4 years in connection with the trade or business of producing timber,
-        (ii) the aggregate expenditures made by the trust, or a partner of the trust, during the 4-year period preceding the date of sale which–
+         For purposes of this part, the term ””prohibited transaction““ does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if–
+        (i) the trust held the property for not less than 2 years in connection with the trade or business of producing timber,
+        (ii) the aggregate expenditures made by the trust, or a partner of the trust, during the 2-year period preceding the date of sale which–
           (I) are includible in the basis of the property (other than timberland acquisition expenditures), and
           (II) are directly related to operation of the property for the production of timber or for the preservation of the property for use as timberland,
               do not exceed 30 percent of the net selling price of the property,
-        (iii) the aggregate expenditures made by the trust, or a partner of the trust, during the 4-year period preceding the date of sale which–
+        (iii) the aggregate expenditures made by the trust, or a partner of the trust, during the 2-year period preceding the date of sale which–
           (I) are includible in the basis of the property (other than timberland acquisition expenditures), and
           (II) are not directly related to operation of the property for the production of timber, or for the preservation of the property for use as timberland,
               do not exceed 5 percent of the net selling price of the property,
         (iv)          (I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or
-          (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year,
-        (v) in the case that the requirement of clause (iv)(I) is not satisfied, substantially all of the marketing expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income, and
+          (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or
+          (III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year,
+        (v) in the case that the requirement of clause (iv)(I) is not satisfied, substantially all of the marketing expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income, or, in the case of a sale on or before the termination date, a taxable REIT subsidiary, and
         (vi) the sales price of the property sold by the trust is not based in whole or in part on income or profits, including income or profits derived from the sale or operation of such property.
       (E) Special rules
          In applying subparagraphs (C) and (D) the following special rules apply:
@@ -101,6 +102,10 @@
         (vii) The term ””sale““ does not include any transaction in which the net selling price is less than $10,000.
       (F) Sales not meeting requirements
          In determining whether or not any sale constitutes a ””prohibited transaction““ for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted.
+      (G) Sales of property that are not a prohibited transaction
+         In the case of a sale on or before the termination date, the sale of property which is not a prohibited transaction through the application of subparagraph (D) shall be considered property held for investment or for use in a trade or business and not property described in section 1221(a)(1) for all purposes of this subtitle. For purposes of the preceding sentence, the reference to subparagraph (D) shall be a reference to such subparagraph as in effect on the day before the enactment of the Housing Assistance Tax Act of 2008, as modified by subparagraph (G) as so in effect.
+      (H) Termination date
+         For purposes of this paragraph, the term ””termination date““ has the meaning given such term by section 856(c)(8).
     (7) Income from redetermined rents, redetermined deductions, and excess interest
       (A) Imposition of tax
          There is hereby imposed for each taxable year of the real estate investment trust a tax equal to 100 percent of redetermined rents, redetermined deductions, and excess interest.

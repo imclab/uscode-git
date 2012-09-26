@@ -34,8 +34,9 @@
   (18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5); \2\
   (19) for any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132; \2\
   (20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)); \2\
-  (21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); or
-  (22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
+  (21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); \2\
+  (22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d); or
+  (23) for any benefit or payment which is excludable from the gross income of the employee under section 139B(b).
      The term ””wages““ includes any amount includible in gross income of an employee under section 409A and payment of such amount shall be treated as having been made in the taxable year in which the amount is so includible.
   (b) Payroll period
      For purposes of this chapter, the term ””payroll period““ means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term ””miscellaneous payroll period““ means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual or annual payroll period.
@@ -51,3 +52,10 @@
      For purposes of subsection (a), the term ””wages““ includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
   (g) Crew leader rules to apply
      Rules similar to the rules of section 3121(T3oK) shall apply for purposes of this chapter.
+  (h) Differential wage payments to active duty members of the uniformed services
+    (1) In general
+       For purposes of subsection (a), any differential wage payment shall be treated as a payment of wages by the employer to the employee.
+    (2) Differential wage payment
+       For purposes of paragraph (1), the term ””differential wage payment““ means any payment which–
+      (A) is made by an employer to an individual with respect to any period during which the individual is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code) while on active duty for a period of more than 30 days, and
+      (B) represents all or a portion of the wages the individual would have received from the employer if the individual were performing service for the employer.

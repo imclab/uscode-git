@@ -1,21 +1,29 @@
   (a) Allowance of credit
      In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of–
     (1) 30 percent of the qualified solar electric property expenditures made by the taxpayer during such year,
-    (2) 30 percent of the qualified solar water heating property expenditures made by the taxpayer during such year, and
-    (3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year.
+    (2) 30 percent of the qualified solar water heating property expenditures made by the taxpayer during such year,
+    (3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year,
+    (4) 30 percent of the qualified small wind energy property expenditures made by the taxpayer during such year, and
+    (5) 30 percent of the qualified geothermal heat pump property expenditures made by the taxpayer during such year.
   (b) Limitations
     (1) Maximum credit
        The credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed–
-      (A) $2,000 with respect to any qualified solar electric property expenditures,
-      (B) $2,000 with respect to any qualified solar water heating property expenditures, and
-      (C) $500 with respect to each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made.
+      (A) $2,000 with respect to any qualified solar water heating property expenditures,
+      (B) $500 with respect to each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
+      (C) $500 with respect to each half kilowatt of capacity (not to exceed $4,000) of wind turbines for which qualified small wind energy property expenditures are made, and
+      (D) $2,000 with respect to any qualified geothermal heat pump property expenditures.
     (2) Certification of solar water heating property
        No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.
-  (c) Carryforward of unused credit
-    (1) Rule for years in which all personal credits allowed against regular and alternative minimum tax
-       In the case of a taxable year to which section 26(a)(2) applies, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(2) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
-    (2) Rule for other years
-       In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(1) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+  (c) Limitation based on amount of tax; carryforward of unused credit
+    (1) Limitation based on amount of tax
+       In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of–
+      (A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+      (B) the sum of the credits allowable under this subpart (other than this section) and section 27 for the taxable year.
+    (2) Carryforward of unused credit
+      (A) Rule for years in which all personal credits allowed against regular and alternative minimum tax
+         In the case of a taxable year to which section 26(a)(2) applies, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(2) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+      (B) Rule for other years
+         In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by paragraph (1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
   (d) Definitions
      For purposes of this section–
     (1) Qualified solar water heating property expenditure
@@ -24,6 +32,15 @@
        The term ””qualified solar electric property expenditure““ means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
     (3) Qualified fuel cell property expenditure
        The term ””qualified fuel cell property expenditure““ means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
+    (4) Qualified small wind energy property expenditure
+       The term ””qualified small wind energy property expenditure““ means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
+    (5) Qualified geothermal heat pump property expenditure
+      (A) In general
+         The term ””qualified geothermal heat pump property expenditure““ means an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
+      (B) Qualified geothermal heat pump property
+         The term ””qualified geothermal heat pump property““ means any equipment which–
+        (i) uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and
+        (ii) meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
   (e) Special rules
      For purposes of this section–
     (1) Labor costs
@@ -35,9 +52,10 @@
     (4) Dollar amounts in case of joint occupancy
        In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:
       (A) T4Maximum expendituresK.–The maximum amount of expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be–
-        (i) $6,667 in the case of any qualified solar electric property expenditures,
-        (ii) $6,667 in the case of any qualified solar water heating property expenditures, and
-        (iii) $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made.
+        (i) $6,667 in the case of any qualified solar water heating property expenditures,
+        (ii) $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
+        (iii) $1,667 in the case of each half kilowatt of capacity (not to exceed $13,333) of wind turbines for which qualified small wind energy property expenditures are made, and
+        (iv) $6,667 in the case of any qualified geothermal heat pump property expenditures.
       (B) T4Allocation of expendituresK.–The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of–
         (i) the amount of expenditures made by such individual with respect to such dwelling during such calendar year, or
         (ii) the maximum amount of such expenditures set forth in subparagraph (A) multiplied by a fraction–
@@ -63,4 +81,4 @@
   (f) Basis adjustments
      For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
   (g) Termination
-     The credit allowed under this section shall not apply to property placed in service after December 31, 2008.
+     The credit allowed under this section shall not apply to property placed in service after December 31, 2016.

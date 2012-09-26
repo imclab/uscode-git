@@ -35,6 +35,11 @@
       (C) 15 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (B), plus
       (D) 25 percent of the amount of taxable excess in excess of the sum of the amounts on which tax is determined under the preceding subparagraphs of this paragraph.
        Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h) but computed with the adjustments under this part.
+    (4) Maximum rate of tax on qualified timber gain of corporations
+       In the case of any taxable year to which section 1201(b) applies, the amount determined under clause (i) \1\N of subparagraph (B) shall not exceed the sum of–
+      (A) 20 percent of so much of the taxable excess (if any) as exceeds the qualified timber gain (or, if less, the net capital gain), plus
+      (B) 15 percent of the taxable excess in excess of the amount on which a tax is determined under subparagraph (A).
+       Any term used in this paragraph which is also used in section 1201 shall have the meaning given such term by such section, except to the extent such term is subject to adjustment under this part.
   (c) Regular tax
     (1) In general
        For purposes of this section, the term ””regular tax““ means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
@@ -46,10 +51,10 @@
      For purposes of this section–
     (1) Exemption amount for taxpayers other than corporations
        In the case of a taxpayer other than a corporation, the term ””exemption amount““ means–
-      (A) $45,000 ($66,250 in the case of taxable years beginning in 2007) in the case of–
+      (A) $45,000 ($69,950 in the case of taxable years beginning in 2008) in the case of–
         (i) a joint return, or
         (ii) a surviving spouse,
-      (B) $33,750 ($44,350 in the case of taxable years beginning in 2007) in the case of an individual who–
+      (B) $33,750 ($46,200 in the case of taxable years beginning in 2008) in the case of an individual who–
         (i) is not a married individual, and
         (ii) is not a surviving spouse,
       (C) 50 percent of the dollar amount applicable under paragraph (1)(A) in the case of a married individual who files a separate return, and
@@ -90,4 +95,4 @@
     (4) Change date
        For purposes of paragraph (2), the change date is the first day of the first taxable year for which the taxpayer ceases to be described in paragraph (1).
     (5) Limitation on use of credit for prior year minimum tax liability
-       In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) \1\N shall apply for purposes of the preceding sentence.
+       In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) \2\N shall apply for purposes of the preceding sentence.

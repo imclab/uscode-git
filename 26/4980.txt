@@ -14,11 +14,12 @@
          The term ””employer reversion““ means the amount of cash and the fair market value of other property received (directly or indirectly) by an employer from the qualified plan.
       (B) Exceptions
          The term ””employer reversion““ shall not include–
-        (i) except as provided in regulations, any amount distributed to or on behalf of any employee (or his beneficiaries) if such amount could have been so distributed before termination of such plan without violating any provision of section 401, or
+        (i) except as provided in regulations, any amount distributed to or on behalf of any employee (or his beneficiaries) if such amount could have been so distributed before termination of such plan without violating any provision of section 401,
         (ii) any distribution to the employer which is allowable under section 401(a)(2)–
           (I) in the case of a multiemployer plan, by reason of mistakes of law or fact or the return of any withdrawal liability payment,
           (II) in the case of a plan other than a multiemployer plan, by reason of mistake of fact, or
-          (III) in the case of any plan, by reason of the failure of the plan to initially qualify or the failure of contributions to be deductible.
+          (III) in the case of any plan, by reason of the failure of the plan to initially qualify or the failure of contributions to be deductible, or
+        (iii) any transfer described in section 420(f)(2)(B)(ii)(II).
     (3) Exception for employee stock ownership plans
       (A) In general
          If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.

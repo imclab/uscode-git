@@ -59,3 +59,10 @@
        Any amount paid for a plan year that is included in income by reason of this subsection shall be treated as received or accrued in the taxable year of the participant in which the plan year ends.
       (i) Sick pay under Railroad Unemployment Insurance Act
          Notwithstanding any other provision of law, gross income includes benefits paid under section 2(a) of the Railroad Unemployment Insurance Act for days of sickness; except to the extent such sickness (as determined in accordance with standards prescribed by the Railroad Retirement Board) is the result of on-the-job injury.
+      (j) Special rule for certain governmental plans
+        (1) In general
+           For purposes of subsection (b), amounts paid (directly or indirectly) to the taxpayer from an accident or health plan described in paragraph (2) shall not fail to be excluded from gross income solely because such plan, on or before January 1, 2008, provides for reimbursements of health care expenses of a deceased plan participant“s beneficiary.
+        (2) Plan described
+           An accident or health plan is described in this paragraph if such plan is funded by a medical trust that is established in connection with a public retirement system and that–
+          (A) has been authorized by a State legislature, or
+          (B) has received a favorable ruling from the Internal Revenue Service that the trust“s income is not includible in gross income under section 115.

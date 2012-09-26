@@ -1,11 +1,19 @@
   (a) Reduction in amount allowed as foreign tax under section 901
-     In applying section 901, the amount of any oil and gas extraction taxes paid or accrued (or deemed to have been paid) during the taxable year which would (but for this subsection) be taken into account for purposes of section 901 shall be reduced by the amount (if any) by which the amount of such taxes exceeds the product of–
-    (1) the amount of the foreign oil and gas extraction income for the taxable year,
+     In applying section 901, the amount of any foreign oil and gas taxes paid or accrued (or deemed to have been paid) during the taxable year which would (but for this subsection) be taken into account for purposes of section 901 shall be reduced by the amount (if any) by which the amount of such taxes exceeds the product of–
+    (1) the amount of the combined foreign oil and gas income for the taxable year,
     (2) multiplied by–
       (A) in the case of a corporation, the percentage which is equal to the highest rate of tax specified under section 11(b), or
       (B) in the case of an individual, a fraction the numerator of which is the tax against which the credit under section 901(a) is taken and the denominator of which is the taxpayer“s entire taxable income.
-  (b) Foreign taxes on foreign oil related income
-     For purposes of this subtitle, in the case of taxes paid or accrued to any foreign country with respect to foreign oil related income, the term ””income, war profits, and excess profits taxes““ shall not include any amount paid or accrued after December 31, 1982, to the extent that the Secretary determines that the foreign law imposing such amount of tax is structured, or in fact operates, so that the amount of tax imposed with respect to foreign oil related income will generally be materially greater, over a reasonable period of time, than the amount generally imposed on income that is neither foreign oil related income nor foreign oil and gas extraction income. In computing the amount not treated as tax under this subsection, such amount shall be treated as a deduction under the foreign law.
+  (b) Combined foreign oil and gas income; foreign oil and gas taxes
+     For purposes of this section–
+    (1) Combined foreign oil and gas income
+       The term ””combined foreign oil and gas income““ means, with respect to any taxable year, the sum of–
+      (A) foreign oil and gas extraction income, and
+      (B) foreign oil related income.
+    (2) Foreign oil and gas taxes
+       The term ””foreign oil and gas taxes““ means, with respect to any taxable year, the sum of–
+      (A) oil and gas extraction taxes, and
+      (B) any income, war profits, and excess profits taxes paid or accrued (or deemed to have been paid or accrued under section 902 or 960) during the taxable year with respect to foreign oil related income (determined without regard to subsection (c)(4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
   (c) Foreign income definitions and special rules
      For purposes of this section–
     (1) Foreign oil and gas extraction income
@@ -27,15 +35,28 @@
       (B) amounts with respect to which taxes are deemed paid under section 960(a), and
       (C) the taxpayer“s distributive share of the income of partnerships.\1\N
        to the extent such dividends, interest, amounts, or distributive share is attributable to foreign oil and gas extraction income, or to foreign oil related income, as the case may be; except that interest described in subparagraph (A) shall not be taken into account in computing foreign oil and gas extraction income but shall be taken into account in computing foreign oil-related income.
-    (4) Recapture of foreign oil and gas extraction losses by recharacterizing later extraction income
+    (4) Recapture of foreign oil and gas losses by recharacterizing later combined foreign oil and gas income
       (A) In general
-         That portion of the income of the taxpayer for the taxable year which (but for this paragraph) would be treated as foreign oil and gas extraction income shall be treated as income (from sources without the United States) which is not foreign oil and gas extraction income to the extent of the excess of–
-        (i) the aggregate amount of foreign oil extraction losses for preceding taxable years beginning after December 31, 1982, over
-        (ii) so much of such aggregate amount as was recharacterized under this subparagraph for preceding taxable years beginning after December 31, 1982.
-      (B) Foreign oil extraction loss defined
+         The combined foreign oil and gas income of a taxpayer for a taxable year (determined without regard to this paragraph) shall be reduced–
+        (i) first by the amount determined under subparagraph (B), and
+        (ii) then by the amount determined under subparagraph (C).
+         The aggregate amount of such reductions shall be treated as income (from sources without the United States) which is not combined foreign oil and gas income.
+      (B) Reduction for pre-2009 foreign oil extraction losses
+         The reduction under this paragraph shall be equal to the lesser of–
+        (i) the foreign oil and gas extraction income of the taxpayer for the taxable year (determined without regard to this paragraph), or
+        (ii) the excess of–
+          (I) the aggregate amount of foreign oil extraction losses for preceding taxable years beginning after December 31, 1982, and before January 1, 2009, over
+          (II) so much of such aggregate amount as was recharacterized under this paragraph (as in effect before and after the date of the enactment of the Energy Improvement and Extension Act of 2008) for preceding taxable years beginning after December 31, 1982.
+      (C) Reduction for post-2008 foreign oil and gas losses
+         The reduction under this paragraph shall be equal to the lesser of–
+        (i) the combined foreign oil and gas income of the taxpayer for the taxable year (determined without regard to this paragraph), reduced by an amount equal to the reduction under subparagraph (A) for the taxable year, or
+        (ii) the excess of–
+          (I) the aggregate amount of foreign oil and gas losses for preceding taxable years beginning after December 31, 2008, over
+          (II) so much of such aggregate amount as was recharacterized under this paragraph for preceding taxable years beginning after December 31, 2008.
+      (D) Foreign oil and gas loss defined
         (i) In general
-           For purposes of this paragraph, the term ””foreign oil extraction loss““ means the amount by which–
-          (I) the gross income for the taxable year from sources without the United States and its possessions (whether or not the taxpayer chooses the benefits of this subpart for such taxable year) taken into account in determining the foreign oil and gas extraction income for such year, is exceeded by
+           For purposes of this paragraph, the term ””foreign oil and gas loss““ means the amount by which–
+          (I) the gross income for the taxable year from sources without the United States and its possessions (whether or not the taxpayer chooses the benefits of this subpart for such taxable year) taken into account in determining the combined foreign oil and gas income for such year, is exceeded by
           (II) the sum of the deductions properly apportioned or allocated thereto.
         (ii) Net operating loss deduction not taken into account
            For purposes of clause (i), the net operating loss deduction allowable for the taxable year under section 172(a) shall not be taken into account.
@@ -44,6 +65,8 @@
           (I) any foreign expropriation loss (as defined in section 172(h) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)) for the taxable year, or
           (II) any loss for the taxable year which arises from fire, storm, shipwreck, or other casualty, or from theft,
               to the extent such loss is not compensated for by insurance or otherwise.
+        (iv) Foreign oil extraction loss
+           For purposes of subparagraph (B)(ii)(I), foreign oil extraction losses shall be determined under this paragraph as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008.
     (5) Oil and gas extraction taxes
        The term ””oil and gas extraction taxes““ means any income, war profits, and excess profits tax paid or accrued (or deemed to have been paid under section 902 or 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
   (d) Disregard of certain posted prices, etc.
@@ -51,16 +74,23 @@
      [(e) Repealed. Pub. L. 101–508, title XI, § 11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521]
   (f) Carryback and carryover of disallowed credits
     (1) In general
-       If the amount of the oil and gas extraction taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the ””unused credit year““), such excess shall be deemed to be oil and gas extraction taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable year,\2\N in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
+       If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the ””unused credit year““), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable year,\2\N in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
     (2) Limitation
-       The amount of the unused oil and gas extraction taxes which under paragraph (1) may be deemed paid or accrued in any preceding or succeeding taxable year shall not exceed the lesser of–
+       The amount of the unused foreign oil and gas taxes which under paragraph (1) may be deemed paid or accrued in any preceding or succeeding taxable year shall not exceed the lesser of–
       (A) the amount by which the limitation provided by subsection (a) for such taxable year exceeds the sum of–
-        (i) the oil and gas extraction taxes paid or accrued during such taxable year, plus
-        (ii) the amounts of the oil and gas extraction taxes which by reason of this subsection are deemed paid or accrued in such taxable year and are attributable to taxable years preceding the unused credit year; or
+        (i) the foreign oil and gas taxes paid or accrued during such taxable year, plus
+        (ii) the amounts of the foreign oil and gas taxes which by reason of this subsection are deemed paid or accrued in such taxable year and are attributable to taxable years preceding the unused credit year; or
       (B) the amount by which the limitation provided by section 904 for such taxable year exceeds the sum of–
         (i) the taxes paid or accrued (or deemed to have been paid under section 902 or 960) to all foreign countries and possessions of the United States during such taxable year,
         (ii) the amount of such taxes which were deemed paid or accrued in such taxable year under section 904(c) and which are attributable to taxable years preceding the unused credit year, plus
-        (iii) the amount of the oil and gas extraction taxes which by reason of this subsection are deemed paid or accrued in such taxable year and are attributable to taxable years preceding the unused credit year.
+        (iii) the amount of the foreign oil and gas taxes which by reason of this subsection are deemed paid or accrued in such taxable year and are attributable to taxable years preceding the unused credit year.
     (3) Special rules
       (A) In the case of any taxable year which is an unused credit year under this subsection and which is an unused credit year under section 904(c), the provisions of this subsection shall be applied before section 904(c).
       (B) For purposes of determining the amount of taxes paid or accrued in any taxable year which may be deemed paid or accrued in a preceding or succeeding taxable year under section 904(c), any tax deemed paid or accrued in such preceding or succeeding taxable year under this subsection shall be considered to be tax paid or accrued in such preceding or succeeding taxable year.
+    (4) Transition rules for pre-2009 and 2009 disallowed credits
+      (A) Pre-2009 credits
+         In the case of any unused credit year beginning before January 1, 2009, this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008–
+        (i) by substituting ””oil and gas extraction taxes““ for ””foreign oil and gas taxes““ each place it appears in paragraphs (1), (2), and (3), and
+        (ii) by computing, for purposes of paragraph (2)(A), the limitation under subparagraph (A) for the year to which such taxes are carried by substituting ””foreign oil and gas extraction income““ for ””foreign oil and gas income““ in subsection (a).
+      (B) 2009 credits
+         In the case of any unused credit year beginning in 2009, the amendments made to this subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009, solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.

@@ -1,8 +1,9 @@
   (a) General rule
      For purposes of section 38, the alcohol fuels credit determined under this section for the taxable year is an amount equal to the sum of–
-    (1) the alcohol mixture credit, plus
-    (2) the alcohol credit, plus
-    (3) in the case of an eligible small ethanol producer, the small ethanol producer credit.
+    (1) the alcohol mixture credit,
+    (2) the alcohol credit,
+    (3) in the case of an eligible small ethanol producer, the small ethanol producer credit, plus
+    (4) the cellulosic biofuel producer credit.
   (b) Definition of alcohol mixture credit, alcohol credit, and small ethanol producer credit
      For purposes of this section, and except as provided in subsection (h)–
     (1) Alcohol mixture credit
@@ -38,11 +39,44 @@
           (III) who sells such ethanol at retail to another person and places such ethanol in the fuel tank of such other person, or
         (ii) is used or sold by such producer for any purpose described in clause (i).
       (C) Limitation
-         The qualified ethanol fuel production of any producer for any taxable year shall not exceed 15,000,000 gallons.
+         The qualified ethanol fuel production of any producer for any taxable year shall not exceed 15,000,000 gallons (determined without regard to any qualified cellulosic biofuel production).
       (D) Additional distillation excluded
          The qualified ethanol fuel production of any producer for any taxable year shall not include any alcohol which is purchased by the producer and with respect to which such producer increases the proof of the alcohol by additional distillation.
     (5) Adding of denaturants not treated as mixture
        The adding of any denaturant to alcohol shall not be treated as the production of a mixture.
+    (6) Cellulosic biofuel producer credit
+      (A) In general
+         The cellulosic biofuel producer credit of any taxpayer is an amount equal to the applicable amount for each gallon of qualified cellulosic biofuel production.
+      (B) Applicable amount
+         For purposes of subparagraph (A), the applicable amount means $1.01, except that such amount shall, in the case of cellulosic biofuel which is alcohol, be reduced by the sum of–
+        (i) the amount of the credit in effect for such alcohol under subsection (b)(1) (without regard to subsection (b)(3)) at the time of the qualified cellulosic biofuel production, plus
+        (ii) in the case of ethanol, the amount of the credit in effect under subsection (b)(4) at the time of such production.
+      (C) Qualified cellulosic biofuel production
+         For purposes of this section, the term ””qualified cellulosic biofuel production““ means any cellulosic biofuel which is produced by the taxpayer, and which during the taxable year–
+        (i) is sold by the taxpayer to another person–
+          (I) for use by such other person in the production of a qualified cellulosic biofuel mixture in such other person“s trade or business (other than casual off-farm production),
+          (II) for use by such other person as a fuel in a trade or business, or
+          (III) who sells such cellulosic biofuel at retail to another person and places such cellulosic biofuel in the fuel tank of such other person, or
+        (ii) is used or sold by the taxpayer for any purpose described in clause (i).
+         The qualified cellulosic biofuel production of any taxpayer for any taxable year shall not include any alcohol which is purchased by the taxpayer and with respect to which such producer increases the proof of the alcohol by additional distillation.
+      (D) Qualified cellulosic biofuel mixture
+         For purposes of this paragraph, the term ””qualified cellulosic biofuel mixture““ means a mixture of cellulosic biofuel and gasoline or of cellulosic biofuel and a special fuel which–
+        (i) is sold by the person producing such mixture to any person for use as a fuel, or
+        (ii) is used as a fuel by the person producing such mixture.
+      (E) Cellulosic biofuel
+         For purposes of this paragraph–
+        (i) In general
+           The term ””cellulosic biofuel““ means any liquid fuel which–
+          (I) is produced from any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and
+          (II) meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545).
+        (ii) Exclusion of low-proof alcohol
+           Such term shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.
+      (F) Allocation of cellulosic biofuel producer credit to patrons of cooperative
+         Rules similar to the rules under subsection (g)(6) shall apply for purposes of this paragraph.
+      (G) Registration requirement
+         No credit shall be determined under this paragraph with respect to any taxpayer unless such taxpayer is registered with the Secretary as a producer of cellulosic biofuel under section 4101.
+      (H) Application of paragraph
+         This paragraph shall apply with respect to qualified cellulosic biofuel production after December 31, 2008, and before January 1, 2013.
   (c) Coordination with exemption from excise tax
      The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of section 4041(b)(2), section 6426, or section 6427(e).
   (d) Definitions and special rules
@@ -69,24 +103,35 @@
         (i) any credit was determined under this section with respect to the retail sale of any alcohol, and
         (ii) any person mixes such alcohol or uses such alcohol other than as a fuel,
          then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents in the case of alcohol with a proof less than 190) for each gallon of such alcohol.
-      (C) Producer credit
+      (C) Small ethanol producer credit
          If–
         (i) any credit was determined under subsection (a)(3), and
         (ii) any person does not use such fuel for a purpose described in subsection (b)(4)(B),
          then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such alcohol.
-      (D) Applicable laws
-         All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under subparagraph (A), (B), or (C) as if such tax were imposed by section 4081 and not by this chapter.
+      (D) Cellulosic biofuel producer credit
+         If–
+        (i) any credit is allowed under subsection (a)(4), and
+        (ii) any person does not use such fuel for a purpose described in subsection (b)(6)(C),
+         then there is hereby imposed on such person a tax equal to the applicable amount (as defined in subsection (b)(6)(B)) for each gallon of such cellulosic biofuel.
+      (E) Applicable laws
+         All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under subparagraph (A), (B), (C), or (D) as if such tax were imposed by section 4081 and not by this chapter.
     (4) Volume of alcohol
-       For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 5 percent of the volume of such alcohol (including denaturants).
+       For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
     (5) Pass-thru in the case of estates and trusts
        Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+    (6) Special rule for cellulosic biofuel producer credit
+       No cellulosic biofuel producer credit shall be determined under subsection (a) with respect to any cellulosic biofuel unless such cellulosic biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term ””United States““ includes any possession of the United States.
+    (7) Limitation to alcohol with connection to the United States
+       No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term ””United States““ includes any possession of the United States.
   (e) Termination
     (1) In general
        This section shall not apply to any sale or use–
       (A) for any period after December 31, 2010, or
       (B) for any period before January 1, 2011, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
     (2) No carryovers to certain years after expiration
-       If this section ceases to apply for any period by reason of paragraph (1), no amount attributable to any sale or use before the first day of such period may be carried under section 39 by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs.
+       If this section ceases to apply for any period by reason of paragraph (1) or subsection (b)(6)(H), no amount attributable to any sale or use before the first day of such period may be carried under section 39 by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs.
+    (3) Exception for cellulosic biofuel producer credit
+       Paragraph (1) shall not apply to the portion of the credit allowed under this section by reason of subsection (a)(4).
   (f) Election to have alcohol fuels credit not apply
     (1) In general
        A taxpayer may elect to have this section not apply for any taxable year.
@@ -135,4 +180,10 @@
         
        2001 or 2002D 53 centsD39.26 cents  
        2003 or 2004D 52 centsD38.52 cents  
-       2005 through 2010D 51 centsD37.78 cents.
+       2005, 2006, 2007, or 2008D 51 centsD37.78 cents  
+       2009 through 2010D 45 centsD33.33 cents.
+    (3) Reduction delayed until annual production or importation of 7,500,000,000 gallons
+      (A) In general
+         In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in subparagraph (B) with respect to all preceding calendar years beginning after 2007, the last row in the table in paragraph (2) shall be applied by substituting ””51 cents““ for ””45 cents““.
+      (B) Determination
+         A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year.

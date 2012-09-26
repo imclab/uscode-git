@@ -110,7 +110,7 @@
          An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
     (5) Election of alternative simplified credit
       (A) In general
-         At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 12 percent of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
+         At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 14 percent (12 percent in the case of taxable years ending before January 1, 2009) of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
       (B) Special rule in case of no qualified research expenses in any of 3 preceding taxable years
         (i) Taxpayers to which subparagraph applies
            The credit under this paragraph shall be determined under this subparagraph if the taxpayer has no qualified research expenses in any one of the 3 taxable years preceding the taxable year for which the credit is being determined.
@@ -339,6 +339,10 @@
     (1) In general
        This section shall not apply to any amount paid or incurred–
       (A) after June 30, 1995, and before July 1, 1996, or
-      (B) after December 31, 2007.
-    (2) Computation of base amount
-       In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.
+      (B) after December 31, 2009.
+    (2) Termination of alternative incremental credit
+       No election under subsection (c)(4) shall apply to taxable years beginning after December 31, 2008.
+  (2) \1\N Computation for taxable year in which credit terminates
+     In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year–
+    (A) the amount determined under subsection (c)(1)(B) with respect to such taxable year shall be the amount which bears the same ratio to such amount (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year, and
+    (B) for purposes of subsection (c)(5), the average qualified research expenses for the preceding 3 taxable years shall be the amount which bears the same ratio to such average qualified research expenses (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.

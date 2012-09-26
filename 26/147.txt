@@ -45,7 +45,7 @@
       (B) any portion of the proceeds of such issue is to be used (directly or indirectly) for the acquisition of land (or an interest therein) to be used for farming purposes.
     (2) Exception for first-time farmers
       (A) In general
-         If the requirements of subparagraph (B) are met with respect to any land, paragraph (1) shall not apply to such land, and subsection (d) shall not apply to property to be used thereon for farming purposes, but only to the extent of expenditures (financed with the proceeds of the issue) not in excess of $250,000.
+         If the requirements of subparagraph (B) are met with respect to any land, paragraph (1) shall not apply to such land, and subsection (d) shall not apply to property to be used thereon for farming purposes, but only to the extent of expenditures (financed with the proceeds of the issue) not in excess of $450,000.
       (B) Acquisition by first-time farmers
          The requirements of this subparagraph are met with respect to any land if–
         (i) such land is to be used for farming purposes, and
@@ -55,7 +55,7 @@
         (i) In general
            The term ””first-time farmer““ means any individual if such individual–
           (I) has not at any time had any direct or indirect ownership interest in substantial farmland in the operation of which such individual materially participated, and
-          (II) has not received financing under this paragraph in an amount which, when added to the financing to be provided under this paragraph, exceeds $250,000.
+          (II) has not received financing under this paragraph in an amount which, when added to the financing to be provided under this paragraph, exceeds the amount in effect under subparagraph (A).
         (ii) Aggregation rules
            Any ownership or material participation, or financing received, by an individual“s spouse or minor child shall be treated as ownership and material participation, or financing received, by the individual.
         (iii) Insolvent farmer
@@ -63,9 +63,7 @@
       (D) Farm
          For purposes of this paragraph, the term ””farm““ has the meaning given such term by section 6420(c)(2).
       (E) Substantial farmland
-         For purposes of this paragraph, the term ””substantial farmland““ means any parcel of land unless–
-        (i) such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located, and
-        (ii) the fair market value of the land does not at any time while held by the individual exceed $125,000.
+         For purposes of this paragraph, the term ””substantial farmland““ means any parcel of land unless such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located.
       (F) Used equipment limitation
          For purposes of this paragraph, in no event may the amount of financing provided by reason of this paragraph to a first-time farmer for personal property–
         (i) of a character subject to the allowance for depreciation,
@@ -76,6 +74,11 @@
          For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section 144(a)(3)) shall not be treated as an acquisition from a related person, if–
         (i) the acquisition price is for the fair market value of such land or property, and
         (ii) subsequent to such acquisition, the related person does not have a financial interest in the farming operation with respect to which the bond proceeds are to be used.
+      (H) Adjustments for inflation
+         In the case of any calendar year after 2008, the dollar amount in subparagraph (A) shall be increased by an amount equal to–
+        (i) such dollar amount, multiplied by
+        (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting ””calendar year 2007““ for ””calendar year 1992““ in subparagraph (B) thereof.
+         If any amount as increased under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
     (3) Exception for certain land acquired for environmental purposes, etc.
        Any land acquired by a governmental unit (or issuing authority) in connection with an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf shall not be taken into account under paragraph (1) if–
       (A) such land is acquired for noise abatement or wetland preservation, or for future use as an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf, and

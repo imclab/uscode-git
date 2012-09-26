@@ -1,225 +1,47 @@
-  (a) Deduction allowed
-     There shall be allowed as a deduction for the taxable year an amount equal to the aggregate of (1) the net operating loss carryovers to such year, plus (2) the net operating loss carrybacks to such year. For purposes of this subtitle, the term ””net operating loss deduction““ means the deduction allowed by this subsection.
-  (b) Net operating loss carrybacks and carryovers
-    (1) Years to which loss may be carried
-      (A) General rule
-         Except as otherwise provided in this paragraph, a net operating loss for any taxable year–
-        (i) shall be a net operating loss carryback to each of the 2 taxable years preceding the taxable year of such loss, and
-        (ii) shall be a net operating loss carryover to each of the 20 taxable years following the taxable year of the loss.
-      (B) Special rules for REIT“s
-        (i) In general
-           A net operating loss for a REIT year shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss.
-        (ii) Special rule
-           In the case of any net operating loss for a taxable year which is not a REIT year, such loss shall not be carried back to any taxable year which is a REIT year.
-        (iii) REIT year
-           For purposes of this subparagraph, the term ””REIT year““ means any taxable year for which the provisions of part II of subchapter M (relating to real estate investment trusts) apply to the taxpayer.
-      (C) Specified liability losses
-         In the case of a taxpayer which has a specified liability loss (as defined in subsection (f)) for a taxable year, such specified liability loss shall be a net operating loss carryback to each of the 10 taxable years preceding the taxable year of such loss.
-      (D) Bad debt losses of commercial banks
-         In the case of any bank (as defined in section 585(a)(2)), the portion of the net operating loss for any taxable year beginning after December 31, 1986, and before January 1, 1994, which is attributable to the deduction allowed under section 166(a) shall be a net operating loss carryback to each of the 10 taxable years preceding the taxable year of the loss and a net operating loss carryover to each of the 5 taxable years following the taxable year of such loss.
-      (E) Excess interest loss
-        (i) In general
-           If–
-          (I) there is a corporate equity reduction transaction, and
-          (II) an applicable corporation has a corporate equity reduction interest loss for any loss limitation year ending after August 2, 1989,
-              then the corporate equity reduction interest loss shall be a net operating loss carryback and carryover to the taxable years described in subparagraph (A), except that such loss shall not be carried back to a taxable year preceding the taxable year in which the corporate equity reduction transaction occurs.
-        (ii) Loss limitation year
-           For purposes of clause (i) and subsection (h), the term ””loss limitation year““ means, with respect to any corporate equity reduction transaction, the taxable year in which such transaction occurs and each of the 2 succeeding taxable years.
-        (iii) Applicable corporation
-           For purposes of clause (i), the term ””applicable corporation““ means–
-          (I) a C corporation which acquires stock, or the stock of which is acquired in a major stock acquisition,
-          (II) a C corporation making distributions with respect to, or redeeming, its stock in connection with an excess distribution, or
-          (III) a C corporation which is a successor of a corporation described in subclause (I) or (II).
-        (iv) Other definitions
-           T2For definitions of terms used in this subparagraph, see subsection (h).
-      (F) Retention of 3-year carryback in certain cases
-        (i) In general
-           Subparagraph (A)(i) shall be applied by substituting ””3 taxable years““ for ””2 taxable years““ with respect to the portion of the net operating loss for the taxable year which is an eligible loss with respect to the taxpayer.
-        (ii) Eligible loss
-           For purposes of clause (i), the term ””eligible loss““ means–
-          (I) in the case of an individual, losses of property arising from fire, storm, shipwreck, or other casualty, or from theft,
-          (II) in the case of a taxpayer which is a small business, net operating losses attributable to Presidentially declared disasters (as defined in section 1033(h)(3)), and
-          (III) in the case of a taxpayer engaged in the trade or business of farming (as defined in section 263A(e)(4)), net operating losses attributable to such Presidentially declared disasters.
-              Such term shall not include any farming loss (as defined in subsection (i)).
-        (iii) Small business
-           For purposes of this subparagraph, the term ””small business““ means a corporation or partnership which meets the gross receipts test of section 448(c) for the taxable year in which the loss arose (or, in the case of a sole proprietorship, which would meet such test if such proprietorship were a corporation).
-        (iv) Coordination with paragraph (2)
-           For purposes of applying paragraph (2), an eligible loss for any taxable year shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-      (G) Farming losses
-         In the case of a taxpayer which has a farming loss (as defined in subsection (i)) for a taxable year, such farming loss shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss.
-      (H) In the case of a net operating loss for any taxable year ending during 2001 or 2002, subparagraph (A)(i) shall be applied by substituting ””5““ for ””2““ and subparagraph (F) shall not apply.
-        (I) Transmission property and pollution control investment
-          (i) In general
-             At the election of the taxpayer for any taxable year ending after December 31, 2005, and before January 1, 2009, in the case of a net operating loss for a taxable year ending after December 31, 2002, and before January 1, 2006, there shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss to the extent that such loss does not exceed 20 percent of the sum of the electric transmission property capital expenditures and the pollution control facility capital expenditures of the taxpayer for the taxable year preceding the taxable year for which such election is made.
-          (ii) Limitations
-             For purposes of this subsection–
-            (I) not more than one election may be made under clause (i) with respect to any net operating loss for a taxable year, and
-            (II) an election may not be made under clause (i) for more than 1 taxable year beginning in any calendar year.
-          (iii) Coordination with ordering rule
-             For purposes of applying subsection (b)(2), the portion of any loss which is carried back 5 years by reason of clause (i) shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-          (iv) Special rules relating to credit or refund
-             In the case of the portion of the loss which is carried back 5 years by reason of clause (i)–
-            (I) an application under section 6411(a) with respect to such portion shall not fail to be treated as timely filed if filed within 24 months after the due date specified under such section, and
-            (II) references in sections 6501(h), 6511(d)(2)(A), and 6611(f)(1) to the taxable year in which such net operating loss arises or results in a net operating loss carryback shall be treated as references to the taxable year for which such election is made.
-          (v) Definitions
-             For purposes of this subparagraph–
-            (I) Electric transmission property capital expenditures
-               The term ””electric transmission property capital expenditures““ means any expenditure, chargeable to capital account, made by the taxpayer which is attributable to electric transmission property used by the taxpayer in the transmission at 69 or more kilovolts of electricity for sale. Such term shall not include any expenditure which may be refunded or the purpose of which may be modified at the option of the taxpayer so as to cease to be treated as an expenditure within the meaning of such term.
-            (II) Pollution control facility capital expenditures
-               The term ””pollution control facility capital expenditures““ means any expenditure, chargeable to capital account, made by an electric utility company (as defined in section 2(3) of the Public Utility Holding Company Act \1\N (15 U.S.C. 79b(3)), as in effect on the day before the date of the enactment of the Energy Tax Incentives Act of 2005) which is attributable to a facility which will qualify as a certified pollution control facility as determined under section 169(d)(1) by striking ””before January 1, 1976,““ and by substituting ””an identifiable““ for ””a new identifiable““. Such term shall not include any expenditure which may be refunded or the purpose of which may be modified at the option of the taxpayer so as to cease to be treated as an expenditure within the meaning of such term.
-    (2) Amount of carrybacks and carryovers
-       The entire amount of the net operating loss for any taxable year (hereinafter in this section referred to as the ””loss year““) shall be carried to the earliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess, if any, of the amount of such loss over the sum of the taxable income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence, the taxable income for any such prior taxable year shall be computed–
-      (A) with the modifications specified in subsection (d) other than paragraphs (1), (4), and (5) thereof, and
-      (B) by determining the amount of the net operating loss deduction without regard to the net operating loss for the loss year or for any taxable year thereafter,
-       and the taxable income so computed shall not be considered to be less than zero.
-    (3) Election to waive carryback
-       Any taxpayer entitled to a carryback period under paragraph (1) may elect to relinquish the entire carryback period with respect to a net operating loss for any taxable year. Such election shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensions of time) for filing the taxpayer“s return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
-  (c) Net operating loss defined
-     For purposes of this section, the term ””net operating loss““ means the excess of the deductions allowed by this chapter over the gross income. Such excess shall be computed with the modifications specified in subsection (d).
-  (d) Modifications
-     The modifications referred to in this section are as follows:
-    (1) Net operating loss deduction
-       No net operating loss deduction shall be allowed.
-    (2) Capital gains and losses of taxpayers other than corporations
-       In the case of a taxpayer other than a corporation–
-      (A) the amount deductible on account of losses from sales or exchanges of capital assets shall not exceed the amount includable on account of gains from sales or exchanges of capital assets; and
-      (B) the exclusion provided by section 1202 shall not be allowed.
-    (3) Deduction for personal exemptions
-       No deduction shall be allowed under section 151 (relating to personal exemptions). No deduction in lieu of any such deduction shall be allowed.
-    (4) Nonbusiness deductions of taxpayers other than corporations
-       In the case of a taxpayer other than a corporation, the deductions allowable by this chapter which are not attributable to a taxpayer“s trade or business shall be allowed only to the extent of the amount of the gross income not derived from such trade or business. For purposes of the preceding sentence–
-      (A) any gain or loss from the sale or other disposition of–
-        (i) property, used in the trade or business, of a character which is subject to the allowance for depreciation provided in section 167, or
-        (ii) real property used in the trade or business,
-       shall be treated as attributable to the trade or business;
-      (B) the modifications specified in paragraphs (1), (2)(B), and (3) shall be taken into account;
-      (C) any deduction for casualty or theft losses allowable under paragraph (2) or (3) of section 165(c) shall be treated as attributable to the trade or business; and
-      (D) any deduction allowed under section 404 to the extent attributable to contributions which are made on behalf of an individual who is an employee within the meaning of section 401(c)(1) shall not be treated as attributable to the trade or business of such individual.
-    (5) Computation of deduction for dividends received, etc.
-       The deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) (relating to limitation on aggregate amount of deductions); and the deduction allowed by section 247 (relating to dividends paid on certain preferred stock of public utilities) shall be computed without regard to subsection (a)(1)(B) of such section.
-    (6) Modifications related to real estate investment trusts
-       In the case of any taxable year for which part II of subchapter M (relating to real estate investment trusts) applies to the taxpayer–
-      (A) the net operating loss for such taxable year shall be computed by taking into account the adjustments described in section 857(b)(2) (other than the deduction for dividends paid described in section 857(b)(2)(B)); and
-      (B) where such taxable year is a ””prior taxable year““ referred to in paragraph (2) of subsection (b), the term ””taxable income““ in such paragraph shall mean ””real estate investment trust taxable income““ (as defined in section 857(b)(2)).
-    (7) Manufacturing deduction
-       The deduction under section 199 shall not be allowed.
-  (e) Law applicable to computations
-     In determining the amount of any net operating loss carryback or carryover to any taxable year, the necessary computations involving any other taxable year shall be made under the law applicable to such other taxable year.
-  (f) Rules relating to specified liability loss
-     For purposes of this section–
-    (1) In general
-       The term ””specified liability loss““ means the sum of the following amounts to the extent taken into account in computing the net operating loss for the taxable year:
-      (A) Any amount allowable as a deduction under section 162 or 165 which is attributable to–
-        (i) product liability, or
-        (ii) expenses incurred in the investigation or settlement of, or opposition to, claims against the taxpayer on account of product liability.
-      (B)        (i) Any amount allowable as a deduction under this chapter (other than section 468(a)(1) or 468A(a)) which is in satisfaction of a liability under a Federal or State law requiring–
-          (I) the reclamation of land,
-          (II) the decommissioning of a nuclear power plant (or any unit thereof),
-          (III) the dismantlement of a drilling platform,
-          (IV) the remediation of environmental contamination, or
-          (V) a payment under any workers compensation act (within the meaning of section 461(h)(2)(C)(i)).
-        (ii) A liability shall be taken into account under this subparagraph only if–
-          (I) the act (or failure to act) giving rise to such liability occurs at least 3 years before the beginning of the taxable year, and
-          (II) the taxpayer used an accrual method of accounting throughout the period or periods during which such act (or failure to act) occurred.
-    (2) Limitation
-       The amount of the specified liability loss for any taxable year shall not exceed the amount of the net operating loss for such taxable year.
-    (3) Special rule for nuclear powerplants
-       Except as provided in regulations prescribed by the Secretary, that portion of a specified liability loss which is attributable to amounts incurred in the decommissioning of a nuclear powerplant (or any unit thereof) may, for purposes of subsection (b)(1)(C), be carried back to each of the taxable years during the period–
-      (A) beginning with the taxable year in which such plant (or unit thereof) was placed in service, and
-      (B) ending with the taxable year preceding the loss year.
-    (4) Product liability
-       The term ””product liability““ means–
-      (A) liability of the taxpayer for damages on account of physical injury or emotional harm to individuals, or damage to or loss of the use of property, on account of any defect in any product which is manufactured, leased, or sold by the taxpayer, but only if
-      (B) such injury, harm, or damage arises after the taxpayer has completed or terminated operations with respect to, and has relinquished possession of, such product.
-    (5) Coordination with subsection (b)(2)
-       For purposes of applying subsection (b)(2), a specified liability loss for any taxable year shall be treated as a separate net operating loss for such taxable year to be taken into account after the remaining portion of the net operating loss for such taxable year.
-    (6) Election
-       Any taxpayer entitled to a 10-year carryback under subsection (b)(1)(C) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(C). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer“s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for that taxable year.
-  (g) Rules relating to bad debt losses of commercial banks
-     For purposes of this section–
-    (1) Portion attributable to deduction for bad debts
-       The portion of the net operating loss for any taxable year which is attributable to the deduction allowed under section 166(a) shall be the excess of–
-      (i) the net operating loss for such taxable year, over
-      (ii) the net operating loss for such taxable year determined without regard to the amount allowed as a deduction under section 166(a) for such taxable year.
-    (2) Coordination with subsection (b)(2)
-       For purposes of subsection (b)(2), the portion of a net operating loss for any taxable year which is attributable to the deduction allowed under section 166(a) shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-  (h) Corporate equity reduction interest losses
-     For purposes of this section–
-    (1) In general
-       The term ””corporate equity reduction interest loss““ means, with respect to any loss limitation year, the excess (if any) of–
-      (A) the net operating loss for such taxable year, over
-      (B) the net operating loss for such taxable year determined without regard to any allocable interest deductions otherwise taken into account in computing such loss.
-    (2) Allocable interest deductions
+  (a) General rule
+     In the case of any bond, as defined in subsection (d), the following rules shall apply to the amortizable bond premium (determined under subsection (b)) on the bond:
+    (1) Taxable bonds
+       In the case of a bond (other than a bond the interest on which is excludable from gross income), the amount of the amortizable bond premium for the taxable year shall be allowed as a deduction.
+    (2) Tax-exempt bonds
+       In the case of any bond the interest on which is excludable from gross income, no deduction shall be allowed for the amortizable bond premium for the taxable year.
+    (3) Cross reference
+       T2For adjustment to basis on account of amortizable bond premium, see section 1016(a)(5).
+  (b) Amortizable bond premium
+    (1) Amount of bond premium
+       For purposes of paragraph (2), the amount of bond premium, in the case of the holder of any bond, shall be determined–
+      (A) with reference to the amount of the basis (for determining loss on sale or exchange) of such bond,
+      (B)        (i) with reference to the amount payable on maturity or on earlier call date, in the case of any bond other than a bond to which clause (ii) applies, or and \1\N
+        (ii) with reference to the amount payable on maturity (or if it results in a smaller amortizable bond premium attributable to the period to earlier call date, with reference to the amount payable on earlier call date), in the case of any bond described in subsection (a)(1) which is acquired after December 31, 1957, and
+      (C) with adjustments proper to reflect unamortized bond premium, with respect to the bond, for the period before the date as of which subsection (a) becomes applicable with respect to the taxpayer with respect to such bond.
+       In no case shall the amount of bond premium on a convertible bond include any amount attributable to the conversion features of the bond.
+    (2) Amount amortizable
+       The amortizable bond premium of the taxable year shall be the amount of the bond premium attributable to such year. In the case of a bond to which paragraph (1)(B)(ii) applies and which has a call date, the amount of bond premium attributable to the taxable year in which the bond is called shall include an amount equal to the excess of the amount of the adjusted basis (for determining loss on sale or exchange) of such bond as of the beginning of the taxable year over the amount received on redemption of the bond or (if greater) the amount payable on maturity.
+    (3) Method of determination
       (A) In general
-         The term ””allocable interest deductions““ means deductions allowed under this chapter for interest on the portion of any indebtedness allocable to a corporate equity reduction transaction.
-      (B) Method of allocation
-         Except as provided in regulations and subparagraph (E), indebtedness shall be allocated to a corporate equity reduction transaction in the manner prescribed under clause (ii) of section 263A(f)(2)(A) (without regard to clause (i) thereof).
-      (C) Allocable deductions not to exceed interest increases
-         Allocable interest deductions for any loss limitation year shall not exceed the excess (if any) of–
-        (i) the amount allowable as a deduction for interest paid or accrued by the taxpayer during the loss limitation year, over
-        (ii) the average of such amounts for the 3 taxable years preceding the taxable year in which the corporate equity reduction transaction occurred.
-      (D) De minimis rule
-         A taxpayer shall be treated as having no allocable interest deductions for any taxable year if the amount of such deductions (without regard to this subparagraph) is less than $1,000,000.
-      (E) Special rule for certain unforeseeable events
-         If an unforeseeable extraordinary adverse event occurs during a loss limitation year but after the corporate equity reduction transaction–
-        (i) indebtedness shall be allocated in the manner described in subparagraph (B) to unreimbursed costs paid or incurred in connection with such event before being allocated to the corporate equity reduction transaction, and
-        (ii) the amount determined under subparagraph (C)(i) shall be reduced by the amount of interest on indebtedness described in clause (i).
-      (F) Transition rule
-         If any of the 3 taxable years described in subparagraph (C)(ii) end on or before August 2, 1989, the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer“s taxable year which includes August 3, 1989, on indebtedness of the taxpayer outstanding on August 2, 1989.
-    (3) Corporate equity reduction transaction
+         Except as provided in regulations prescribed by the Secretary, the determinations required under paragraphs (1) and (2) shall be made on the basis of the taxpayer“s yield to maturity determined by–
+        (i) using the taxpayer“s basis (for purposes of determining loss on sale or exchange) of the obligation, and
+        (ii) compounding at the close of each accrual period (as defined in section 1272(a)(5)).
+      (B) Special rule where earlier call date is used
+         For purposes of subparagraph (A), if the amount payable on an earlier call date is used under paragraph (1)(B)(ii) in determining the amortizable bond premium attributable to the period before the earlier call date, such bond shall be treated as maturing on such date for the amount so payable and then reissued on such date for the amount so payable.
+    (4) Treatment of certain bonds acquired in exchange for other property
       (A) In general
-         The term ””corporate equity reduction transaction““ means–
-        (i) a major stock acquisition, or
-        (ii) an excess distribution.
-      (B) Major stock acquisition
-        (i) In general
-           The term ””major stock acquisition““ means the acquisition by a corporation pursuant to a plan of such corporation (or any group of persons acting in concert with such corporation) of stock in another corporation representing 50 percent or more (by vote or value) of the stock in such other corporation.
-        (ii) Exception
-           The term ””major stock acquisition““ does not include a qualified stock purchase (within the meaning of section 338) to which an election under section 338 applies.
-      (C) Excess distribution
-         The term ””excess distribution““ means the excess (if any) of–
-        (i) the aggregate distributions (including redemptions) made during a taxable year by a corporation with respect to its stock, over
-        (ii) the greater of–
-          (I) 150 percent of the average of such distributions during the 3 taxable years immediately preceding such taxable year, or
-          (II) 10 percent of the fair market value of the stock of such corporation as of the beginning of such taxable year.
-      (D) Rules for applying subparagraph (B)
-         For purposes of subparagraph (B)–
-        (i) Plans to acquire stock
-           All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation) with respect to another corporation shall be treated as 1 plan.
-        (ii) Acquisitions during 24-month period
-           All acquisitions during any 24-month period shall be treated as pursuant to 1 plan.
-      (E) Rules for applying subparagraph (C)
-         For purposes of subparagraph (C)–
-        (i) Certain preferred stock disregarded
-           Stock described in section 1504(a)(4), and distributions (including redemptions) with respect to such stock, shall be disregarded.
-        (ii) Issuance of stock
-           The amounts determined under clauses (i) and (ii)(I) of subparagraph (C) shall be reduced by the aggregate amount of stock issued by the corporation during the applicable period in exchange for money or property other than stock in the corporation.
-    (4) Other rules
-      (A) Ordering rule
-         For purposes of paragraph (1), in determining the allocable interest deductions taken into account in computing the net operating loss for any taxable year, taxable income for such taxable year shall be treated as having been computed by taking allocable interest deductions into account after all other deductions.
-      (B) Coordination with subsection (b)(2)
-         For purposes of subsection (b)(2)–
-        (i) a corporate equity reduction interest loss shall be treated in a manner similar to the manner in which a specified liability loss is treated, and
-        (ii) in determining the net operating loss deduction for any prior taxable year referred to in the 3rd sentence of subsection (b)(2), the portion of any net operating loss which may not be carried to such taxable year under subsection (b)(1)(E) shall not be taken into account.
-      (C) Members of affiliated groups
-         Except as provided by regulations, all members of an affiliated group filing a consolidated return under section 1501 shall be treated as 1 taxpayer for purposes of this subsection and subsection (b)(1)(E).
-    (5) Regulations
-       The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations–
-      (A) for applying this subsection to successor corporations and in cases where a taxpayer becomes, or ceases to be, a member of an affiliated group filing a consolidated return under section 1501,
-      (B) to prevent the avoidance of this subsection through related parties, pass-through entities, and intermediaries, and
-      (C) for applying this subsection where more than 1 corporation is involved in a corporate equity reduction transaction.
-        (i) Rules relating to farming losses
-           For purposes of this section–
-          (1) In general
-             The term ””farming loss““ means the lesser of–
-            (A) the amount which would be the net operating loss for the taxable year if only income and deductions attributable to farming businesses (as defined in section 263A(e)(4)) are taken into account, or
-            (B) the amount of the net operating loss for such taxable year.
-          (2) Coordination with subsection (b)(2)
-             For purposes of applying subsection (b)(2), a farming loss for any taxable year shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-          (3) Election
-             Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(G) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(G). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer“s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
-        (j) Election to disregard 5-year carryback for certain net operating losses
-           Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(H) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(H). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer“s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
-        (k) Cross references
-           T2(1) For treatment of net operating loss carryovers in certain corporate acquisitions, see section 381.
-           T2(2) For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.
+         If–
+        (i) a bond is acquired by any person in exchange for other property, and
+        (ii) the basis of such bond is determined (in whole or in part) by reference to the basis of such other property,
+         for purposes of applying this subsection to such bond while held by such person, the basis of such bond shall not exceed its fair market value immediately after the exchange. A similar rule shall apply in the case of such bond while held by any other person whose basis is determined (in whole or in part) by reference to the basis in the hands of the person referred to in clause (i).
+      (B) Special rule where bond exchanged in reorganization
+         Subparagraph (A) shall not apply to an exchange by the taxpayer of a bond for another bond if such exchange is a part of a reorganization (as defined in section 368). If any portion of the basis of the taxpayer in a bond transferred in such an exchange is not taken into account in determining bond premium by reason of this paragraph, such portion shall not be taken into account in determining the amount of bond premium on any bond received in the exchange.
+  (c) Election as to taxable bonds
+    (1) Eligibility to elect; bonds with respect to which election permitted
+       In the case of bonds the interest on which is not excludible from gross income, this section shall apply only if the taxpayer has so elected.
+    (2) Manner and effect of election
+       The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him and shall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
+  (d) Bond defined
+     For purposes of this section, the term ””bond““ means any bond, debenture, note, or certificate or other evidence of indebtedness, but does not include any such obligation which constitutes stock in trade of the taxpayer or any such obligation of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or any such obligation held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business.
+  (e) Treatment as offset to interest payments
+     Except as provided in regulations, in the case of any taxable bond–
+    (1) the amount of any bond premium shall be allocated among the interest payments on the bond under rules similar to the rules of subsection (b)(3), and
+    (2) in lieu of any deduction under subsection (a), the amount of any premium so allocated to any interest payment shall be applied against (and operate to reduce) the amount of such interest payment.
+       For purposes of the preceding sentence, the term ””taxable bond““ means any bond the interest of which is not excludable from gross income.
+  (f) Dealers in tax-exempt securities
+     T2For special rules applicable, in the case of dealers in securities, with respect to premium attributable to certain wholly tax-exempt securities, see section 75.

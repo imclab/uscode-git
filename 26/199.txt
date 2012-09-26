@@ -24,6 +24,8 @@
          Such term shall not include any amount which is not properly allocable to domestic production gross receipts for purposes of subsection (c)(1).
       (C) Return requirement
          Such term shall not include any amount which is not properly included in a return filed with the Social Security Administration on or before the 60th day after the due date (including extensions) for such return.
+      (D) Special rule for qualified film
+         In the case of a qualified film, such term shall include compensation for services performed in the United States by actors, production personnel, directors, and producers.
     (3) Acquisitions and dispositions
        The Secretary shall provide for the application of this subsection in cases where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
   (c) Qualified production activities income
@@ -67,7 +69,7 @@
       (B) any computer software, and
       (C) any property described in section 168(f)(4).
     (6) Qualified film
-       The term ””qualified film““ means any property described in section 168(f)(3) if not less than 50 percent of the total compensation relating to the production of such property is compensation for services performed in the United States by actors, production personnel, directors, and producers. Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
+       The term ””qualified film““ means any property described in section 168(f)(3) if not less than 50 percent of the total compensation relating to the production of such property is compensation for services performed in the United States by actors, production personnel, directors, and producers. Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code. A qualified film shall include any copyrights, trademarks, or other intangibles with respect to such film. The methods and means of distributing a qualified film shall not affect the availability of the deduction under this section.
     (7) Related persons
       (A) In general
          The term ””domestic production gross receipts““ shall not include any gross receipts of the taxpayer derived from property leased, licensed, or rented by the taxpayer for use by any related person.
@@ -78,8 +80,11 @@
       (A) Partnerships and S corporations
          In the case of a partnership or S corporation–
         (i) this section shall be applied at the partner or shareholder level,
-        (ii) each partner or shareholder shall take into account such person“s allocable share of each item described in subparagraph (A) or (B) of subsection (c)(1) (determined without regard to whether the items described in such subparagraph (A) exceed the items described in such subparagraph (B)), and
-        (iii) each partner or shareholder shall be treated for purposes of subsection (b) as having W-2 wages for the taxable year in an amount equal to such person“s allocable share of the W-2 wages of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary).
+        (ii) each partner or shareholder shall take into account such person“s allocable share of each item described in subparagraph (A) or (B) of subsection (c)(1) (determined without regard to whether the items described in such subparagraph (A) exceed the items described in such subparagraph (B)),
+        (iii) each partner or shareholder shall be treated for purposes of subsection (b) as having W-2 wages for the taxable year in an amount equal to such person“s allocable share of the W-2 wages of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary), and
+        (iv) in the case of each partner of a partnership, or shareholder of an S corporation, who owns (directly or indirectly) at least 20 percent of the capital interests in such partnership or of the stock of such S corporation–
+          (I) such partner or shareholder shall be treated as having engaged directly in any film produced by such partnership or S corporation, and
+          (II) such partnership or S corporation shall be treated as having engaged directly in any film produced by such partner or shareholder.
       (B) Trusts and estates
          In the case of a trust or estate–
         (i) the items referred to in subparagraph (A)(ii) (as determined therein) and the W–2 wages of the trust or estate for the taxable year, shall be apportioned between the beneficiaries and the fiduciary (and among the beneficiaries) under regulations prescribed by the Secretary, and
@@ -87,7 +92,7 @@
       (C) Regulations
          The Secretary may prescribe rules requiring or restricting the allocation of items and wages under this paragraph and may prescribe such reporting requirements as the Secretary determines appropriate.
     (2) Application to individuals
-       In the case of an individual, subsection (a)(1)(B) shall be applied by substituting ””adjusted gross income““ for ””taxable income““. For purposes of the preceding sentence, adjusted gross income shall be determined–
+       In the case of an individual, subsections (a)(1)(B) and (d)(9)(A)(iii) shall be applied by substituting ””adjusted gross income““ for ””taxable income““. For purposes of the preceding sentence, adjusted gross income shall be determined–
       (A) after application of sections 86, 135, 137, 219, 221, 222, and 469, and
       (B) without regard to this section.
     (3) Agricultural and horticultural cooperatives
@@ -133,6 +138,16 @@
       (B) Special rule for applying wage limitation
          In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
       (C) Termination
-         This paragraph shall apply only with respect to the first 2 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2008.
-    (9) Regulations
+         This paragraph shall apply only with respect to the first 4 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2010.
+    (9) Special rule for taxpayers with oil related qualified production activities income
+      (A) In general
+         If a taxpayer has oil related qualified production activities income for any taxable year beginning after 2009, the amount otherwise allowable as a deduction under subsection (a) shall be reduced by 3 percent of the least of–
+        (i) the oil related qualified production activities income of the taxpayer for the taxable year,
+        (ii) the qualified production activities income of the taxpayer for the taxable year, or
+        (iii) taxable income (determined without regard to this section).
+      (B) Oil related qualified production activities income
+         For purposes of this paragraph, the term ””oil related qualified production activities income““ means for any taxable year the qualified production activities income which is attributable to the production, refining, processing, transportation, or distribution of oil, gas, or any primary product thereof during such taxable year.
+      (C) Primary product
+         For purposes of this paragraph, the term ””primary product““ has the same meaning as when used in section 927(a)(2)(C), as in effect before its repeal.
+    (10) Regulations
        The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).

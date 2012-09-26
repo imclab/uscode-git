@@ -1,27 +1,63 @@
   (a) In general
-     In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by chapter 1 for the taxpayer“s first taxable year beginning in 2001 an amount equal to 5 percent of so much of the taxpayer“s taxable income as does not exceed the initial bracket amount (as defined in section 1(i)(1)(B)).
-  (b) Credit treated as nonrefundable personal credit
-     For purposes of this title, the credit allowed under this section shall be treated as a credit allowable under subpart A of part IV of subchapter A of chapter 1.
-  (c) Eligible individual
-     For purposes of this section, the term ””eligible individual““ means any individual other than–
-    (1) any estate or trust,
-    (2) any nonresident alien individual, and
-    (3) any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual“s taxable year begins.
-  (d) Coordination with advance refunds of credit
+     In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2008 an amount equal to the lesser of–
+    (1) net income tax liability, or
+    (2) $600 ($1,200 in the case of a joint return).
+  (b) Special rules
     (1) In general
-       The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (e). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+       In the case of a taxpayer described in paragraph (2)–
+      (A) the amount determined under subsection (a) shall not be less than $300 ($600 in the case of a joint return), and
+      (B) the amount determined under subsection (a) (after the application of subparagraph (A)) shall be increased by the product of $300 multiplied by the number of qualifying children (within the meaning of section 24(c)) of the taxpayer.
+    (2) Taxpayer described
+       A taxpayer is described in this paragraph if the taxpayer–
+      (A) has qualifying income of at least $3,000, or
+      (B) has–
+        (i) net income tax liability which is greater than zero, and
+        (ii) gross income which is greater than the sum of the basic standard deduction plus the exemption amount (twice the exemption amount in the case of a joint return).
+  (c) Treatment of credit
+     The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
+  (d) Limitation based on adjusted gross income
+     The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (f)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayer“s adjusted gross income as exceeds $75,000 ($150,000 in the case of a joint return).
+  (e) Definitions
+     For purposes of this section–
+    (1) Qualifying income
+       The term ””qualifying income““ means–
+      (A) earned income,
+      (B) social security benefits (within the meaning of section 86(d)), and
+      (C) any compensation or pension received under chapter 11, chapter 13, or chapter 15 of title 38, United States Code.
+    (2) Net income tax liability
+       The term ””net income tax liability““ means the excess of–
+      (A) the sum of the taxpayer“s regular tax liability (within the meaning of section 26(b)) and the tax imposed by section 55 for the taxable year, over
+      (B) the credits allowed by part IV (other than section 24 and subpart C thereof) of subchapter A of chapter 1.
+    (3) Eligible individual
+       The term ””eligible individual““ means any individual other than–
+      (A) any nonresident alien individual,
+      (B) any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual“s taxable year begins, and
+      (C) an estate or trust.
+    (4) Earned income
+       The term ””earned income““ has the meaning set forth in section 32(c)(2) except that such term shall not include net earnings from self-employment which are not taken into account in computing taxable income.
+    (5) Basic standard deduction; exemption amount
+       The terms ””basic standard deduction““ and ””exemption amount““ shall have the same respective meanings as when used in section 6012(a).
+  (f) Coordination with advance refunds of credit
+    (1) In general
+       The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (g). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
     (2) Joint returns
-       In the case of a refund or credit made or allowed under subsection (e) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
-  (e) Advance refunds of credit based on prior year data
+       In the case of a refund or credit made or allowed under subsection (g) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
+  (g) Advance refunds and credits
     (1) In general
-       Each individual who was an eligible individual for such individual“s first taxable year beginning in 2000 shall be treated as having made a payment against the tax imposed by chapter 1 for such first taxable year in an amount equal to the advance refund amount for such taxable year.
+       Each individual who was an eligible individual for such individual“s first taxable year beginning in 2007 shall be treated as having made a payment against the tax imposed by chapter 1 for such first taxable year in an amount equal to the advance refund amount for such taxable year.
     (2) Advance refund amount
-       For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if–
-      (A) this section (other than subsections (b) and (d) and this subsection) had applied to such taxable year, and
-      (B) the credit for such taxable year were not allowed to exceed the excess (if any) of–
-        (i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-        (ii) the sum of the credits allowable under part IV of subchapter A of chapter 1 (other than the credits allowable under subpart C thereof, relating to refundable credits).
+       For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (f) and this subsection) had applied to such taxable year.
     (3) Timing of payments
-       In the case of any overpayment attributable to this subsection, the Secretary shall, subject to the provisions of this title, refund or credit such overpayment as rapidly as possible and, to the extent practicable, before October 1, 2001. No refund or credit shall be made or allowed under this subsection after December 31, 2001.
+       The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this section as rapidly as possible. No refund or credit shall be made or allowed under this subsection after December 31, 2008.
     (4) No interest
-       No interest shall be allowed on any overpayment attributable to this subsection.
+       No interest shall be allowed on any overpayment attributable to this section.
+  (h) Identification number requirement
+    (1) In general
+       No credit shall be allowed under subsection (a) to an eligible individual who does not include on the return of tax for the taxable year–
+      (A) such individual“s valid identification number,
+      (B) in the case of a joint return, the valid identification number of such individual“s spouse, and
+      (C) in the case of any qualifying child taken into account under subsection (b)(1)(B), the valid identification number of such qualifying child.
+    (2) Valid identification number
+       For purposes of paragraph (1), the term ””valid identification number““ means a social security number issued to an individual by the Social Security Administration. Such term shall not include a TIN issued by the Internal Revenue Service.
+    (3) Special rule for members of the Armed Forces
+       Paragraph (1) shall not apply to a joint return where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year.

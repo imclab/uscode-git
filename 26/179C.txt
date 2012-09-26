@@ -9,13 +9,13 @@
     (1) In general
        The term ””qualified refinery property““ means any portion of a qualified refinery–
       (A) the original use of which commences with the taxpayer,
-      (B) which is placed in service by the taxpayer after the date of the enactment of this section and before January 1, 2012,
+      (B) which is placed in service by the taxpayer after the date of the enactment of this section and before January 1, 2014,
       (C) in the case any portion of a qualified refinery (other than a qualified refinery which is separate from any existing refinery), which meets the requirements of subsection (e),
       (D) which meets all applicable environmental laws in effect on the date such portion was placed in service,
       (E) no written binding contract for the construction of which was in effect on or before June 14, 2005, and
-      (F)        (i) the construction of which is subject to a written binding construction contract entered into before January 1, 2008,
-        (ii) which is placed in service before January 1, 2008, or
-        (iii) in the case of self-constructed property, the construction of which began after June 14, 2005, and before January 1, 2008.
+      (F)        (i) the construction of which is subject to a written binding construction contract entered into before January 1, 2010,
+        (ii) which is placed in service before January 1, 2010, or
+        (iii) in the case of self-constructed property, the construction of which began after June 14, 2005, and before January 1, 2010.
     (2) Special rule for sale-leasebacks
        For purposes of paragraph (1)(A), if property is–
       (A) originally placed in service after the date of the enactment of this section by a person, and
@@ -24,11 +24,11 @@
     (3) Effect of waiver under Clean Air Act
        A waiver under the Clean Air Act shall not be taken into account in determining whether the requirements of paragraph (1)(D) are met.
   (d) Qualified refinery
-     For purposes of this section, the term ””qualified refinery““ means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel from crude oil or qualified fuels (as defined in section 45K(c)).
+     For purposes of this section, the term ””qualified refinery““ means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel from crude oil or qualified fuels (as defined in section 45K(c)), or directly from shale or tar sands.
   (e) Production capacity
      The requirements of this subsection are met if the portion of the qualified refinery–
     (1) enables the existing qualified refinery to increase total volume output (determined without regard to asphalt or lube oil) by 5 percent or more on an average daily basis, or
-    (2) enables the existing qualified refinery to process qualified fuels (as defined in section 45K(c)) at a rate which is equal to or greater than 25 percent of the total throughput of such qualified refinery on an average daily basis.
+    (2) enables the existing qualified refinery to process shale, tar sands, or qualified fuels (as defined in section 45K(c)) at a rate which is equal to or greater than 25 percent of the total throughput of such qualified refinery on an average daily basis.
   (f) Ineligible refinery property
      No deduction shall be allowed under subsection (a) for any qualified refinery property–
     (1) the primary purpose of which is for use as a topping plant, asphalt plant, lube oil facility, crude or product terminal, or blending facility, or

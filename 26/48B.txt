@@ -1,5 +1,5 @@
   (a) In general
-     For purposes of section 46, the qualifying gasification project credit for any taxable year is an amount equal to 20 percent of the qualified investment for such taxable year.
+     For purposes of section 46, the qualifying gasification project credit for any taxable year is an amount equal to 20 percent (30 percent in the case of credits allocated under subsection (d)(1)(B)) of the qualified investment for such taxable year.
   (b) Qualified investment
     (1) In general
        For purposes of subsection (a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying gasification project–
@@ -40,13 +40,16 @@
       (C) glass,
       (D) steel,
       (E) petroleum residues,
-      (F) forest products, and
-      (G) agriculture, including feedlots and dairy operations.
+      (F) forest products,
+      (G) agriculture, including feedlots and dairy operations, and
+      (H) transportation grade liquid fuels.
     (8) Petroleum residue
        The term ””petroleum residue““ means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
   (d) Qualifying gasification project program
     (1) In general
-       Not later than 180 days after the date of the enactment of this section, the Secretary, in consultation with the Secretary of Energy, shall establish a qualifying gasification project program to consider and award certifications for qualified investment eligible for credits under this section to qualifying gasification project sponsors under this section. The total amounts of credit that may be allocated under the program shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4).
+       Not later than 180 days after the date of the enactment of this section, the Secretary, in consultation with the Secretary of Energy, shall establish a qualifying gasification project program to consider and award certifications for qualified investment eligible for credits under this section to qualifying gasification project sponsors under this section. The total amounts of credit that may be allocated under the program shall not exceed–
+      (A) $350,000,000, plus
+      (B) $250,000,000 for qualifying gasification projects that include equipment which separates and sequesters at least 75 percent of such project“s total carbon dioxide emissions.
     (2) Period of issuance
        A certificate of eligibility under paragraph (1) may be issued only during the 10-fiscal year period beginning on October 1, 2005.
     (3) Selection criteria
@@ -57,5 +60,11 @@
       (D) the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,
       (E) the award recipient“s project team is competent in the construction and operation of the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and
       (F) the award recipient has met other criteria established and published by the Secretary.
+    (4) Selection priorities
+       In determining which qualifying gasification projects to certify under this section, the Secretary shall–
+      (A) give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions, and
+      (B) give high priority to applicant participants who have a research partnership with an eligible educational institution (as defined in section 529(e)(5)).
   (e) Denial of double benefit
      A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48A.
+  (f) Recapture of credit for failure to sequester
+     The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection (d)(1).

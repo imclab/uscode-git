@@ -9,9 +9,13 @@
     (2) Applicable amount
        For purposes of this subsection–
       (A) In general
-         Except as provided in subparagraph (B), the applicable amount is 51 cents.
+         Except as provided in subparagraphs (B) and (C), the applicable amount is–
+        (i) in the case of calendar years beginning before 2009, 51 cents, and
+        (ii) in the case of calendar years beginning after 2008, 45 cents..\1\N
       (B) Mixtures not containing ethanol
          In the case of an alcohol fuel mixture in which none of the alcohol consists of ethanol, the applicable amount is 60 cents.
+      (C) Reduction delayed until annual production or importation of 7,500,000,000 gallons
+         In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii) shall be applied by substituting ””51 cents““ for ””45 cents““.
     (3) Alcohol fuel mixture
        For purposes of this subsection, the term ””alcohol fuel mixture““ means a mixture of alcohol and a taxable fuel which–
       (A) is sold by the taxpayer producing such mixture to any person for use as a fuel, or
@@ -26,17 +30,15 @@
          Such term also includes an alcohol gallon equivalent of ethyl tertiary butyl ether or other ethers produced from such alcohol.
       (B) Taxable fuel
          The term ””taxable fuel““ has the meaning given such term by section 4083(a)(1).
-    (5) Termination
+    (5) Volume of alcohol
+       For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
+    (6) Termination
        This subsection shall not apply to any sale, use, or removal for any period after December 31, 2010.
   (c) Biodiesel mixture credit
     (1) In general
        For purposes of this section, the biodiesel mixture credit is the product of the applicable amount and the number of gallons of biodiesel used by the taxpayer in producing any biodiesel mixture for sale or use in a trade or business of the taxpayer.
     (2) Applicable amount
-       For purposes of this subsection–
-      (A) In general
-         Except as provided in subparagraph (B), the applicable amount is 50 cents.
-      (B) Amount for agri-biodiesel
-         In the case of any biodiesel which is agri-biodiesel, the applicable amount is $1.00.
+       For purposes of this subsection, the applicable amount is $1.00.
     (3) Biodiesel mixture
        For purposes of this section, the term ””biodiesel mixture““ means a mixture of biodiesel and diesel fuel (as defined in section 4083(a)(3)), determined without regard to any use of kerosene, which–
       (A) is sold by the taxpayer producing such mixture to any person for use as a fuel, or
@@ -46,23 +48,31 @@
     (5) Other definitions
        Any term used in this subsection which is also used in section 40A shall have the meaning given such term by section 40A.
     (6) Termination
-       This subsection shall not apply to any sale, use, or removal for any period after December 31, 2008.
+       This subsection shall not apply to any sale, use, or removal for any period after December 31, 2009.
   (d) Alternative fuel credit
     (1) In general
-       For purposes of this section, the alternative fuel credit is the product of 50 cents and the number of gallons of an alternative fuel or gasoline gallon equivalents of a nonliquid alternative fuel sold by the taxpayer for use as a fuel in a motor vehicle or motorboat, or so used by the taxpayer.
+       For purposes of this section, the alternative fuel credit is the product of 50 cents and the number of gallons of an alternative fuel or gasoline gallon equivalents of a nonliquid alternative fuel sold by the taxpayer for use as a fuel in a motor vehicle or motorboat, sold by the taxpayer for use as a fuel in aviation, or so used by the taxpayer.
     (2) Alternative fuel
        For purposes of this section, the term ””alternative fuel““ means–
       (A) liquefied petroleum gas,
       (B) P Series Fuels (as defined by the Secretary of Energy under section 13211(2) of title 42, United States Code),
       (C) compressed or liquefied natural gas,
       (D) liquefied hydrogen,
-      (E) any liquid fuel derived from coal (including peat) through the Fischer-Tropsch process, and
-      (F) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
+      (E) any liquid fuel which meets the requirements of paragraph (4) and which is derived from coal (including peat) through the Fischer-Tropsch process,
+      (F) compressed or liquefied gas derived from biomass (as defined in section 45K(c)(3)), and
+      (G) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
        Such term does not include ethanol, methanol, or biodiesel.
     (3) Gasoline gallon equivalent
        For purposes of this subsection, the term ””gasoline gallon equivalent““ means, with respect to any nonliquid alternative fuel, the amount of such fuel having a Btu content of 124,800 (higher heating value).
-    (4) Termination
-       This subsection shall not apply to any sale or use for any period after September 30, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+    (4) Carbon capture requirement
+      (A) In general
+         The requirements of this paragraph are met if the fuel is certified, under such procedures as required by the Secretary, as having been derived from coal produced at a gasification facility which separates and sequesters not less than the applicable percentage of such facility“s total carbon dioxide emissions.
+      (B) Applicable percentage
+         For purposes of subparagraph (A), the applicable percentage is–
+        (i) 50 percent in the case of fuel produced after September 30, 2009, and on or before December 30, 2009, and
+        (ii) 75 percent in the case of fuel produced after December 30, 2009.
+    (5) Termination
+       This subsection shall not apply to any sale or use for any period after December 31, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
   (e) Alternative fuel mixture credit
     (1) In general
        For purposes of this section, the alternative fuel mixture credit is the product of 50 cents and the number of gallons of alternative fuel used by the taxpayer in producing any alternative fuel mixture for sale or use in a trade or business of the taxpayer.
@@ -71,7 +81,7 @@
       (A) is sold by the taxpayer producing such mixture to any person for use as fuel, or
       (B) is used as a fuel by the taxpayer producing such mixture.
     (3) Termination
-       This subsection shall not apply to any sale or use for any period after September 30, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+       This subsection shall not apply to any sale or use for any period after December 31, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
   (f) Mixture not used as a fuel, etc.
     (1) Imposition of tax
        If–
@@ -86,3 +96,9 @@
      Rules similar to the rules under section 40(c) shall apply for purposes of this section.
   (h) Denial of double benefit
      No credit shall be determined under subsection (d) or (e) with respect to any fuel with respect to which credit may be determined under subsection (b) or (c) or under section 40 or 40A.
+    (i) Limitation to fuels with connection to the United States
+      (1) Alcohol
+         No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States.
+      (2) Biodiesel and alternative fuels
+         No credit shall be determined under this section with respect to any biodiesel or alternative fuel which is produced outside the United States for use as a fuel outside the United States.
+         For purposes of this subsection, the term ””United States““ includes any possession of the United States.

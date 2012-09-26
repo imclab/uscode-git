@@ -34,17 +34,9 @@
     (1) In general
        If an individual has a long-term unused minimum tax credit for any taxable year beginning before January 1, 2013, the amount determined under subsection (c) for such taxable year shall not be less than the AMT refundable credit amount for such taxable year.
     (2) AMT refundable credit amount
-       For purposes of paragraph (1)–
-      (A) In general
-         The term ””AMT refundable credit amount““ means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of–
-        (i) $5,000,
-        (ii) 20 percent of the long-term unused minimum tax credit for such taxable year, or
-        (iii) the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer“s preceding taxable year (as determined before any reduction under subparagraph (B)).
-      (B) Phaseout of AMT refundable credit amount
-        (i) In general
-           In the case of an individual whose adjusted gross income for any taxable year exceeds the threshold amount (within the meaning of section 151(d)(3)(C)), the AMT refundable credit amount determined under subparagraph (A) for such taxable year shall be reduced by the applicable percentage (within the meaning of section 151(d)(3)(B)).
-        (ii) Adjusted gross income
-           For purposes of clause (i), adjusted gross income shall be determined without regard to sections 911, 931, and 933.
+       For purposes of paragraph (1), the term ””AMT refundable credit amount““ means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of–
+      (A) 50 percent of the long-term unused minimum tax credit for such taxable year, or
+      (B) the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer“s preceding taxable year (determined without regard to subsection (f)(2)).
     (3) Long-term unused minimum tax credit
       (A) In general
          For purposes of this subsection, the term ””long-term unused minimum tax credit““ means, with respect to any taxable year, the portion of the minimum tax credit determined under subsection (b) attributable to the adjusted net minimum tax for taxable years before the 3rd taxable year immediately preceding such taxable year.
@@ -52,3 +44,8 @@
          For purposes of subparagraph (A), credits shall be treated as allowed under subsection (a) on a first-in, first-out basis.
     (4) Credit refundable
        For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as if it were allowed under subpart C.
+  (f) Treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options
+    (1) Abatement
+       Any underpayment of tax outstanding on the date of the enactment of this subsection which is attributable to the application of section 56(b)(3) for any taxable year ending before January 1, 2008, and any interest or penalty with respect to such underpayment which is outstanding on such date of enactment, is hereby abated. The amount determined under subsection (b)(1) shall not include any tax abated under the preceding sentence.
+    (2) Increase in credit for certain interest and penalties already paid
+       The AMT refundable credit amount, and the minimum tax credit determined under subsection (b), for the taxpayer“s first 2 taxable years beginning after December 31, 2007, shall each be increased by 50 percent of the aggregate amount of the interest and penalties which were paid by the taxpayer before the date of the enactment of this subsection and which would (but for such payment) have been abated under paragraph (1).

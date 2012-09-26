@@ -197,3 +197,5 @@
       (B) notwithstanding any other provision of this title, amounts in the trust shall be includible in the gross income of participants and beneficiaries only to the extent, and at the time, provided in this section.
     (3) Custodial accounts and contracts
        For purposes of this subsection, custodial accounts and contracts described in section 401(f) shall be treated as trusts under rules similar to the rules under section 401(f).
+    (4) Death benefits under USERRA-qualified active military service
+       A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).

@@ -24,14 +24,22 @@
       (B) the amount realized for the property does not exceed $300,000.
     (6) Stock regularly traded on established securities market
        This paragraph applies if the disposition is of a share of a class of stock that is regularly traded on an established securities market.
-    (7) Special rules for paragraphs (2) and (3)
-       Paragraph (2) or (3) (as the case may be) shall not apply to any disposition–
+    (7) Special rules for paragraphs (2), (3), and (9)
+       Paragraph (2), (3), or (9) (as the case may be) shall not apply to any disposition–
       (A) if–
-        (i) the transferee has actual knowledge that the affidavit referred to in such paragraph is false, or
-        (ii) the transferee receives a notice (as described in subsection (d)) from a transferor“s agent or a transferee“s agent that such affidavit is false, or
-      (B) if the Secretary by regulations requires the transferee to furnish a copy of such affidavit to the Secretary and the transferee fails to furnish a copy of such affidavit to the Secretary at such time and in such manner as required by such regulations.
+        (i) the transferee or qualified substitute has actual knowledge that the affidavit referred to in such paragraph, or the statement referred to in paragraph (9)(A)(ii), is false, or
+        (ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor“s agent, transferee“s agent, or qualified substitute that such affidavit or statement is false, or
+      (B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
     (8) Applicable wash sales transactions
        No person shall be required to deduct and withhold any amount under subsection (a) with respect to a disposition which is treated as a disposition of a United States real property interest solely by reason of section 897(h)(5).
+    (9) Alternative procedure for furnishing nonforeign affidavit
+       For purposes of paragraphs (2) and (7)–
+      (A) In general
+         Paragraph (2) shall be treated as applying to a transaction if, in connection with a disposition of a United States real property interest–
+        (i) the affidavit specified in paragraph (2) is furnished to a qualified substitute, and
+        (ii) the qualified substitute furnishes a statement to the transferee stating, under penalty of perjury, that the qualified substitute has such affidavit in his possession.
+      (B) Regulations
+         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph.
   (c) Limitations on amount required to be withheld
     (1) Cannot exceed transferor“s maximum tax liability
       (A) In general
@@ -51,21 +59,21 @@
          shall be made at the time and manner, and shall include such information, as the Secretary shall prescribe by regulations.
       (B) Requests to be handled within 90 days
          The Secretary shall take action with respect to any request described in subparagraph (A) within 90 days after the Secretary receives the request.
-  (d) Liability of transferor“s agents or transferee“s agents
+  (d) Liability of transferor“s agents, transferee“s agents, or qualified substitutes
     (1) Notice of false affidavit; foreign corporations
        If–
-      (A) the transferor furnishes the transferee an affidavit described in paragraph (2) of subsection (b) or a domestic corporation furnishes the transferee an affidavit described in paragraph (3) of subsection (b), and
+      (A) the transferor furnishes the transferee or qualified substitute an affidavit described in paragraph (2) of subsection (b) or a domestic corporation furnishes the transferee an affidavit described in paragraph (3) of subsection (b), and
       (B) in the case of–
         (i) any transferor“s agent–
           (I) such agent has actual knowledge that such affidavit is false, or
           (II) in the case of an affidavit described in subsection (b)(2) furnished by a corporation, such corporation is a foreign corporation, or
-        (ii) any transferee“s agent, such agent has actual knowledge that such affidavit is false,
-       such agent shall so notify the transferee at such time and in such manner as the Secretary shall require by regulations.
+        (ii) any transferee“s agent or qualified substitute, such agent or substitute has actual knowledge that such affidavit is false,
+       such agent or qualified substitute shall so notify the transferee at such time and in such manner as the Secretary shall require by regulations.
     (2) Failure to furnish notice
       (A) In general
-         If any transferor“s agent or transferee“s agent is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent shall have the same duty to deduct and withhold that the transferee would have had if such agent had complied with paragraph (1).
+         If any transferor“s agent, transferee“s agent, or qualified substitute is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent or substitute shall have the same duty to deduct and withhold that the transferee would have had if such agent or substitute had complied with paragraph (1).
       (B) Liability limited to amount of compensation
-         An agent“s liability under subparagraph (A) shall be limited to the amount of compensation the agent derives from the transaction.
+         An agent“s or substitute“s liability under subparagraph (A) shall be limited to the amount of compensation the agent or substitute derives from the transaction.
     (3) Transferor“s agent
        For purposes of this subsection, the term ””transferor“s agent““ means any person who represents the transferor–
       (A) in any negotiation with the transferee or any transferee“s agent related to the transaction, or
@@ -109,3 +117,7 @@
       (B) the amount the Secretary determines to be the transferor“s unsatisfied withholding liability with respect to such interest.
     (5) Transferor“s unsatisfied withholding liability
        The term ””transferor“s unsatisfied withholding liability““ means the withholding obligation imposed by this section on the transferor“s acquisition of the United States real property interest or on the acquisition of a predecessor interest, to the extent such obligation has not been satisfied.
+    (6) Qualified substitute
+       The term ””qualified substitute““ means, with respect to a disposition of a United States real property interest–
+      (A) the person (including any attorney or title company) responsible for closing the transaction, other than the transferor“s agent, and
+      (B) the transferee“s agent.

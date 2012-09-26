@@ -1,11 +1,11 @@
   (a) Limitation based on amount of tax
     (1) In general
-       The aggregate amount of credits allowed by this subpart (other than sections 23, 24, and 25B) for the taxable year shall not exceed the excess (if any) of–
+       The aggregate amount of credits allowed by this subpart (other than sections 23, 24, 25B, 25D, and 30D) for the taxable year shall not exceed the excess (if any) of–
       (A) the taxpayer“s regular tax liability for the taxable year, over
       (B) the tentative minimum tax for the taxable year (determined without regard to the alternative minimum tax foreign tax credit).
        For purposes of subparagraph (B), the taxpayer“s tentative minimum tax for any taxable year beginning during 1999 shall be treated as being zero.
-    (2) Special rule for taxable years 2000 through 2007
-       For purposes of any taxable year beginning during 2000, 2001, 2002, 2003, 2004, 2005, 2006, or 2007, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of–
+    (2) Special rule for taxable years 2000 through 2008
+       For purposes of any taxable year beginning during 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, or 2008, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of–
       (A) the taxpayer“s regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
       (B) the tax imposed by section 55(a) for the taxable year.
   (b) Regular tax liability
@@ -34,7 +34,9 @@
       (R) section 138(c)(2) (relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),
       (S) sections 106(e)(3)(A)(ii), 223(b)(8)(B)(i)(II), and 408(d)(9)(D)(i)(II) (relating to certain failures to maintain high deductible health plan coverage),
       (T) section 170(T3oK)(3)(B) (relating to recapture of certain deductions for fractional gifts),
-      (U) section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses), and
-      (V) subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation).
+      (U) section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses),
+      (V) subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation),
+      (W) section 36(f) (relating to recapture of homebuyer credit), and
+      (X) section 457A(c)(1)(B) (relating to determinability of amounts of compensation).
   (c) Tentative minimum tax
      For purposes of this part, the term ””tentative minimum tax““ means the amount determined under section 55(b)(1).

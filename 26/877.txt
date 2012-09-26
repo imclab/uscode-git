@@ -87,10 +87,7 @@
          The Secretary shall require such information reporting as is necessary to carry out the purposes of this paragraph.
   (e) Comparable treatment of lawful permanent residents who cease to be taxed as residents
     (1) In general
-       Any long-term resident of the United States who–
-      (A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
-      (B) commences to be treated as a resident of a foreign country under the provisions of a tax treaty between the United States and the foreign country and who does not waive the benefits of such treaty applicable to residents of the foreign country,
-       shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
+       Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
     (2) Long-term resident
        For purposes of this subsection, the term ””long-term resident““ means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
     (3) Special rules
@@ -122,3 +119,5 @@
         (ii) the individual becomes fully liable for income tax in such country.
       (C) Minimal prior physical presence in the United States
          An individual is described in this subparagraph if, for each year in the 10-year period ending on the date of loss of United States citizenship or termination of residency, the individual was physically present in the United States for 30 days or less. The rule of section 7701(b)(3)(D) shall apply for purposes of this subparagraph.
+  (h) Termination
+     This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.

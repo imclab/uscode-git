@@ -50,7 +50,7 @@
         (iii) Projected industry activity
            Any projection of activity in the industry or industries covered by the plan, including future covered employment and contribution levels, shall be based on information provided by the plan sponsor, which shall act reasonably and in good faith.
       (C) Penalty for failure to secure timely actuarial certification
-         Any failure of the plan“s actuary to certify the plan“s status under this subsection by the date specified in subparagraph (A) shall be treated for purposes of section 502(c)(2) of the Employee Retirement Income Security Act of 1974 as a failure or refusal by the plan administrator to file the annual report required to be filed with the Secretary under section 101(b)(4) \1\N of such Act.
+         Any failure of the plan“s actuary to certify the plan“s status under this subsection by the date specified in subparagraph (A) shall be treated for purposes of section 502(c)(2) of the Employee Retirement Income Security Act of 1974 as a failure or refusal by the plan administrator to file the annual report required to be filed with the Secretary under section 101(b)(1) of such Act.
       (D) Notice
         (i) In general
            In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year, the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor.
@@ -59,7 +59,7 @@
           (I) adjustable benefits (as defined in subsection (e)(8)) may be reduced, and
           (II) such reductions may apply to participants and beneficiaries whose benefit commencement date is on or after the date such notice is provided for the first plan year in which the plan is in critical status.
         (iii) Model notice
-           The Secretary of Labor shall prescribe a model notice that a multiemployer plan may use to satisfy the requirements under clause (ii).
+           The Secretary, in consultation with the Secretary of Labor \1\N shall prescribe a model notice that a multiemployer plan may use to satisfy the requirements under clause (ii).
   (c) Funding improvement plan must be adopted for multiemployer plans in endangered status
     (1) In general
        In any case in which a multiemployer plan is in endangered status for a plan year, the plan sponsor, in accordance with this subsection–
@@ -81,7 +81,7 @@
           (I) such percentage as of the beginning of such period, plus
           (II) 33 percent of the difference between 100 percent and the percentage under subclause (I).
         (ii) Avoidance of accumulated funding deficiencies
-           No accumulated funding deficiency for any plan year during the funding improvement period (taking into account any extension of amortization periods under section 304(d)).\2\N
+           No accumulated funding deficiency for any plan year during the funding improvement period (taking into account any extension of amortization periods under section 431(d)).
       (B) Seriously endangered plans
          In the case of a plan in seriously endangered status, except as provided in paragraph (5), subparagraph (A)(i)(II) shall be applied by substituting ””20 percent““ for ””33 percent““.
     (4) Funding improvement period
@@ -117,12 +117,10 @@
       (A) In general
          If–
         (i) a collective bargaining agreement providing for contributions under a multiemployer plan that was in effect at the time the plan entered endangered status expires, and
-        (ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,
+        (ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
          the plan sponsor shall implement the schedule described in paragraph (1)(B)(i)(I) beginning on the date specified in subparagraph (B).
       (B) Date of implementation
-         The date specified in this subparagraph is the earlier of the date–
-        (i) on which the Secretary of Labor certifies that the parties are at an impasse, or
-        (ii) which is 180 days after the date on which the collective bargaining agreement described in subparagraph (A) expires.
+         The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in subparagraph (A) expires.
     (8) Funding plan adoption period
        For purposes of this section, the term ””funding plan adoption period““ means the period beginning on the date of the certification under subsection (b)(3)(A) for the initial determination year and ending on the day before the first day of the funding improvement period.
   (d) Rules for operation of plan during adoption and improvement periods
@@ -175,28 +173,26 @@
         (i) In general
            If–
           (I) a collective bargaining agreement providing for contributions under a multiemployer plan that was in effect at the time the plan entered critical status expires, and
-          (II) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution or benefit schedules with terms consistent with the rehabilitation plan and the schedule from the plan sponsor under paragraph (1)(B)(i),
+          (II) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to adopt a to adopt a \2\N contribution schedule with terms consistent with the rehabilitation plan and a schedule from the plan sponsor under paragraph (1)(B)(i),
               the plan sponsor shall implement the default schedule described in the last sentence of paragraph (1) beginning on the date specified in clause (ii).
         (ii) Date of implementation
-           The date specified in this clause is the earlier of the date–
-          (I) on which the Secretary of Labor certifies that the parties are at an impasse, or
-          (II) which is 180 days after the date on which the collective bargaining agreement described in clause (i) expires.
+           The date specified in this clause is the date which is 180 days after the date on which the collective bargaining agreement described in clause (i) expires.
     (4) Rehabilitation period
        For purposes of this section–
       (A) In general
          The rehabilitation period for a plan in critical status is the 10-year period beginning on the first day of the first plan year of the multiemployer plan following the earlier of–
         (i) the second anniversary of the date of the adoption of the rehabilitation plan, or
-        (ii) the expiration of the collective bargaining agreements in effect on the date of the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
+        (ii) the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
          If a plan emerges from critical status as provided under subparagraph (B) before the end of such 10-year period, the rehabilitation period shall end with the plan year preceding the plan year for which the determination under subparagraph (B) is made.
       (B) Emergence
-         A plan in critical status shall remain in such status until a plan year for which the plan actuary certifies, in accordance with subsection (b)(3)(A), that the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method and taking into account any extension of amortization periods under section 431(d).
+         A plan in critical status shall remain in such status until a plan year for which the plan actuary certifies, in accordance with subsection (b)(3)(A), that the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 431(d).
     (5) Rehabilitation plan adoption period
        For purposes of this section, the term ””rehabilitation plan adoption period““ means the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the day before the first day of the rehabilitation period.
     (6) Limitation on reduction in rates of future accruals
-       Any reduction in the rate of future accruals under the default schedule described in paragraph (1)(B)(i) shall not reduce the rate of future accruals below–
+       Any reduction in the rate of future accruals under the default schedule described in the last sentence of paragraph (1) shall not reduce the rate of future accruals below–
       (A) a monthly benefit (payable as a single life annuity commencing at the participant“s normal retirement age) equal to 1 percent of the contributions required to be made with respect to a participant, or the equivalent standard accrual rate for a participant or group of participants under the collective bargaining agreements in effect as of the first day of the initial critical year, or
       (B) if lower, the accrual rate under the plan on such first day.
-       The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shall be construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that established lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
+       The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shall be construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
     (7) Automatic employer surcharge
       (A) Imposition of surcharge
          Each employer otherwise obligated to make a contribution for the initial critical year shall be obligated to pay to the plan for such year a surcharge equal to 5 percent of the contribution otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is in critical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contribution otherwise so required.
@@ -211,7 +207,7 @@
     (8) Benefit adjustments
       (A) Adjustable benefits
         (i) In general
-           Notwithstanding section 204(g),\3\N the plan sponsor shall, subject to the notice requirement under subparagraph (C), make any reductions to adjustable benefits which the plan sponsor deems appropriate, based upon the outcome of collective bargaining over the schedule or schedules provided under paragraph (1)(B)(i).
+           Notwithstanding section 411(d)(6), the plan sponsor shall, subject to the notice requirement under subparagraph (C), make any reductions to adjustable benefits which the plan sponsor deems appropriate, based upon the outcome of collective bargaining over the schedule or schedules provided under paragraph (1)(B)(i).
         (ii) Exception for retirees
            Except in the case of adjustable benefits described in clause (iv)(III), the plan sponsor of a plan in critical status shall not reduce adjustable benefits of any participant or beneficiary whose benefit commencement date is before the date on which the plan provides notice to the participant or beneficiary under subsection (b)(3)(D) for the initial critical year.
         (iii) Plan sponsor flexibility
@@ -227,7 +223,7 @@
         (i) In general
            No reduction may be made to adjustable benefits under subparagraph (A) unless notice of such reduction has been given at least 30 days before the general effective date of such reduction for all participants and beneficiaries to–
           (I) plan participants and beneficiaries,
-          (II) each employer who has an obligation to contribute (within the meaning of section 4212(a)) \4\N under the plan, and
+          (II) each employer who has an obligation to contribute (within the meaning of section 4212(a) of the Employee Retirement Income Security Act of 1974) under the plan, and
           (III) each employee organization which, for purposes of collective bargaining, represents plan participants employed by such an employer.
         (ii) Content of notice
            The notice under clause (i) shall contain–
@@ -235,15 +231,15 @@
           (II) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
         (iii) Form and manner
            Any notice under clause (i)–
-          (I) shall be provided in a form and manner prescribed in regulations of the Secretary of Labor,
+          (I) shall be provided in a form and manner prescribed in regulations of the Secretary, in consultation with the Secretary of Labor,
           (II) shall be written in a manner so as to be understood by the average plan participant, and
           (III) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
-              The Secretary of Labor shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
+              the \3\N Secretary shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
     (9) Adjustments disregarded in withdrawal liability determination
       (A) Benefit reductions
          Any benefit reductions under this subsection shall be disregarded in determining a plan“s unfunded vested benefits for purposes of determining an employer“s withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974.
       (B) Surcharges
-         Any surcharges under paragraph (7) shall be disregarded in determining an employer“s withdrawal liability under section 4211 of such Act, except for purposes of determining the unfunded vested benefits attributable to an employer under section 4211(c)(4) of such Act or a comparable method approved under section 4211(c)(5) of such Act.
+         Any surcharges under paragraph (7) shall be disregarded in determining the allocation of unfunded vested benefits to an employer under section 4211 of such Act, except for purposes of determining the unfunded vested benefits attributable to an employer under section 4211(c)(4) of such Act or a comparable method approved under section 4211(c)(5) of such Act.
       (C) Simplified calculations
          The Pension Benefit Guaranty Corporation shall prescribe simplified methods for the application of this paragraph in determining withdrawal liability.
   (f) Rules for operation of plan during adoption and rehabilitation period
@@ -255,7 +251,7 @@
     (2) Restriction on lump sums and similar benefits
       (A) In general
          Effective on the date the notice of certification of the plan“s critical status for the initial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 411(d)(6), the plan shall not pay–
-        (i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(b)(1)(A)),
+        (i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs after the date such notice is sent,
         (ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
         (iii) any other payment specified by the Secretary by regulations.
       (B) Exception
@@ -270,7 +266,7 @@
         (iii) any new direct or indirect exclusion of younger or newly hired employees from plan participation, and
       (B) no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 or to comply with other applicable law.
   (g) Expedited resolution of plan sponsor decisions
-     If, within 60 days of the due date for adoption of a funding improvement plan or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
+     If, within 60 days of the due date for adoption of a funding improvement plan under subsection (c) or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
   (h) Nonbargained participation
     (1) Both bargained and nonbargained employee-participants
        In the case of an employer that contributes to a multiemployer plan with respect to both employees who are covered by one or more collective bargaining agreements and employees who are not so covered, if the plan is in endangered status or in critical status, benefits of and contributions for the nonbargained employees, including surcharges on those contributions, shall be determined as if those nonbargained employees were covered under the first to expire of the employer“s collective bargaining agreements in effect when the plan entered endangered or critical status.
@@ -288,7 +284,7 @@
           (A) the numerator of which is the value of the plan“s assets, as determined under section 431(c)(2), and
           (B) the denominator of which is the accrued liability of the plan, determined using actuarial assumptions described in section 431(c)(3).
         (3) Accumulated funding deficiency
-           The term ””accumulated funding deficiency““ has the meaning given such term in section 412(a).
+           The term ””accumulated funding deficiency““ has the meaning given such term in section 431(a).
         (4) Active participant
            The term ””active participant““ means, in connection with a multiemployer plan, a participant who is in covered service under the plan.
         (5) Inactive participant
@@ -304,6 +300,10 @@
         (8) Actuarial method
            Notwithstanding any other provision of this section, the actuary“s determinations with respect to a plan“s normal cost, actuarial accrued liability, and improvements in a plan“s funded percentage under this section shall be based upon the unit credit funding method (whether or not that method is used for the plan“s actuarial valuation).
         (9) Plan sponsor
-           In the case of a plan described under section 404(c), or a continuation of such a plan, the term ””plan sponsor““ means the bargaining parties described under paragraph (1).
+           For purposes of this section, section 431, and section 4971(g):
+          (A) In general
+             The term ””plan sponsor““ means, with respect to any multiemployer plan, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+          (B) Special rule for section 404(c) plans
+             In the case of a plan described in section 404(c) (or a continuation of such plan), such term means the bargaining parties described in paragraph (1).
         (10) Benefit commencement date
            The term ””benefit commencement date““ means the annuity starting date (or in the case of a retroactive annuity starting date, the date on which benefit payments begin).

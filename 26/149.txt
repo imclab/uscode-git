@@ -25,8 +25,9 @@
       (A) Certain insurance programs
          A bond shall not be treated as federally guaranteed by reason of–
         (i) any guarantee by the Federal Housing Administration, the Veterans“ Administration, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
-        (ii) any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans, or
-        (iii) any guarantee by the Bonneville Power Authority pursuant to the Northwest Power Act (16 U.S.C. 839d) as in effect on the date of the enactment of the Tax Reform Act of 1984.
+        (ii) any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans,
+        (iii) any guarantee by the Bonneville Power Authority pursuant to the Northwest Power Act (16 U.S.C. 839d) as in effect on the date of the enactment of the Tax Reform Act of 1984, or
+        (iv) subject to subparagraph (E), any guarantee by a Federal home loan bank made in connection with the original issuance of a bond during the period beginning on the date of the enactment of this clause and ending on December 31, 2010 (or a renewal or extension of a guarantee so made).
       (B) Debt service, etc.
          Paragraph (1) shall not apply to–
         (i) proceeds of the issue invested for an initial temporary period until such proceeds are needed for the purpose for which such issue was issued,
@@ -44,6 +45,8 @@
            Clause (i) shall not apply to any bond which is federally guaranteed within the meaning of paragraph (2)(B)(ii).
       (D) Loans to, or guarantees by, financial institutions
          Except as provided in paragraph (2)(B)(ii), a bond which is issued as part of an issue shall not be treated as federally guaranteed merely by reason of the fact that the proceeds of such issue are used in making loans to a financial institution or there is a guarantee by a financial institution unless such guarantee constitutes a federally insured deposit or account.
+      (E) Safety and soundness requirements for Federal home loan banks
+         Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent as such requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008.
     (4) Definitions
        For purposes of this subsection–
       (A) Treatment of certain entities with authority to borrow from United States

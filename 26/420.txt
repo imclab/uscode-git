@@ -39,7 +39,7 @@
   (c) Requirements of plans transferring assets
     (1) Use of transferred assets
       (A) In general
-         Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement).
+         Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
       (B) Amounts not used to pay for health benefits
         (i) In general
            Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) which are not used as provided in subparagraph (A) shall be transferred out of the account to the transferor plan.
@@ -149,7 +149,7 @@
       (D) Minimum cost requirements
         (i) In general
            The requirements of subsection (c)(3) shall be treated as met if–
-          (I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided provides applicable health benefits during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of such \1\N the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
+          (I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided provides applicable health benefits during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
           (II) in the case of a collectively bargained transfer, each collectively bargained group health plan under which collectively bargained health benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be less than the amount specified by the collective bargaining agreement.
         (ii) Election to maintain benefits for future transfers
            An employer may elect, in lieu of the requirements of clause (i)(I), to meet the requirements of subsection (c)(3) by meeting the requirements of such subsection (as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999) for each of the years described in the period under clause (i)(I).
@@ -184,7 +184,7 @@
         (ii) Reduction for amounts previously set aside
            The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year of the collectively bargained transfer) of the assets in all health benefits accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree health liabilities.
         (iii) Key employees excluded
-           If an employee is a key employee (within the meaning of section 416(I)(1)) \2\N with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree health liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
+           If an employee is a key employee (within the meaning of section 416(I)(1)) \1\N with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree health liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
       (C) Collectively bargained health benefits
          The term ””collectively bargained health benefits““ means health benefits or coverage which are provided to–
         (i) retired employees who, immediately before the collectively bargained transfer, are entitled to receive such benefits upon retirement and who are entitled to pension benefits under the plan, and their spouses and dependents, and

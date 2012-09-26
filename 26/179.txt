@@ -45,6 +45,11 @@
           (I) is designed to have a seating capacity of more than 9 persons behind the driver“s seat,
           (II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
           (III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver“s seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
+    (7) Increase in limitations for 2008
+       In the case of any taxable year beginning in 2008–
+      (A) the dollar limitation under paragraph (1) shall be $250,000,
+      (B) the dollar limitation under paragraph (2) shall be $800,000, and
+      (C) the amounts described in subparagraphs (A) and (B) shall not be adjusted under paragraph (5).
   (c) Election
     (1) In general
        An election under this section for any taxable year shall–
@@ -89,3 +94,18 @@
        No credit shall be allowed under section 38 with respect to any amount for which a deduction is allowed under subsection (a).
     (10) Recapture in certain cases
        The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
+  (e) Special rules for qualified disaster assistance property
+    (1) In general
+       For purposes of this section–
+      (A) the dollar amount in effect under subsection (b)(1) for the taxable year shall be increased by the lesser of–
+        (i) $100,000, or
+        (ii) the cost of qualified section 179 disaster assistance property placed in service during the taxable year, and
+      (B) the dollar amount in effect under subsection (b)(2) for the taxable year shall be increased by the lesser of–
+        (i) $600,000, or
+        (ii) the cost of qualified section 179 disaster assistance property placed in service during the taxable year.
+    (2) Qualified section 179 disaster assistance property
+       For purposes of this subsection, the term ””qualified section 179 disaster assistance property““ means section 179 property (as defined in subsection (d)) which is qualified disaster assistance property (as defined in section 168(n)(2)).
+    (3) Coordination with empowerment zones and renewal communities
+       For purposes of sections 1397A and 1400J, qualified section 179 disaster assistance property shall not be treated as qualified zone property or qualified renewal property, unless the taxpayer elects not to take such qualified section 179 disaster assistance property into account for purposes of this subsection.
+    (4) Recapture
+       For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
