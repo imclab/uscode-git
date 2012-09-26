@@ -1,15 +1,15 @@
    The Secretary of Defense shall include in the annual report of the Secretary to Congress under section 113(c) of this title, for the period covered by the report, the following information (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, and Marine Corps):
-  (1) The number of officers selected for the joint specialty and their education and experience.
-  (2) The military occupational specialties within each of the armed forces that have been designated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.
+  (1)    (A) The number of officers selected for the joint specialty and their education and experience.
+    (B) The number of officers who meet the criteria for selection for the joint specialty but were not selected, together with the reasons why.
+  (2) The number of officers with the joint specialty, shown by grade and branch or specialty and by education.
   (3) The number of officers on the active-duty list with a military occupational specialty designated under section 661(c)(2) of this title as a critical occupational specialty who–
-    (A) have been nominated for the joint specialty;
-    (B) have been nominated for the joint specialty and are serving in a joint duty assignment;
+    (A) have been selected for the joint specialty;
+    (B) have been selected for the joint specialty and are serving in a joint duty assignment;
     (C) have completed a joint duty assignment and are attending an appropriate program at a joint professional military education school;
-    (D) have completed an appropriate program at a joint professional military education school;
-    (E) have been selected for the joint specialty; and
-    (F) have served, or are serving in, a second joint duty assignment after being selected for the joint specialty, with the number of such officers who have served, or are serving, in a critical joint duty assignment shown separately for general and flag officers, and for all other officers.
+    (D) have completed an appropriate program at a joint professional military education school; and
+    (E) have served, or are serving in, a second joint duty assignment after being selected for the joint specialty, with the number of such officers who have served, or are serving, in a critical joint duty assignment shown separately for general and flag officers, and for all other officers.
   (4) For each fiscal year–
-    (A) the number of officers nominated for the joint specialty and, of those, the number who have a military occupational specialty designated as a critical occupational specialty; and
+    (A) the number of officers selected for the joint specialty and, of those, the number who have a military occupational specialty designated as a critical occupational specialty; and
     (B) a comparison of the number of officers who have the joint specialty who qualified for the joint specialty under section 661(c)(1) of this title with the number of officers who have the joint specialty who were selected for the joint specialty under section 661(c)(2) of this title.
   (5) The promotion rate for officers considered for promotion from within the promotion zone who are serving on the Joint Staff compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade and the same competitive category, shown for all officers of the armed force and for officers serving on the headquarters staff of the armed force concerned.
   (6) The promotion rate for officers with the joint specialty, compared in the same manner as specified in paragraph (5).
@@ -22,16 +22,17 @@
     (B) for other officers, shown separately for assignments to the Joint Staff and other joint duty assignments.
   (12) The number of times, in the case of each category of exclusion, that service in a joint duty assignment was excluded in computing the average length of joint duty assignments.
   (13) In any case in which the information under paragraphs (5) through (9) shows a significant imbalance between officers serving in joint duty assignments or having the joint specialty and other officers, a description of what action has been taken (or is planned to be taken) by the Secretary to correct the imbalance.
-  (14) An analysis of the extent to which the Secretary of each military department is providing officers to fill that department“s share (as determined by law or by the Secretary of Defense) of Joint Staff and other joint duty assignments, including the reason for any significant failure by a military department to fill its share of such positions and a discussion of the actions being taken to correct the shortfall.
+  (14)    (A) An analysis of the extent to which the Secretary of each military department is providing officers to fill that department“s share (as determined by law or by the Secretary of Defense) of Joint Staff and other joint duty assignments, including the reason for any significant failure by a military department to fill its share of such positions and a discussion of the actions being taken to correct the shortfall.
+    (B) An assessment of the extent to which the Secretary of each military department is assigning personnel to joint duty assignments in accordance with this chapter and the policies, procedures, and practices established by the Secretary of Defense under section 661(a) of this title.
   (15) The number of times a waiver authority was exercised under this chapter (or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments) and in the case of each such authority–
     (A) whether the authority was exercised for a general or flag officer;
     (B) an analysis of the reasons for exercising the authority; and
     (C) the number of times in which action was taken without exercise of the waiver authority compared with the number of times waiver authority was exercised (in the case of each waiver authority under this chapter or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments).
-  (16) The number of officers granted credit for service in joint duty assignments under section 664(i) of this title and–
+  (16) The number of officers granted credit for service in joint duty assignments under subparagraphs (E) and (F) of section 664(i)(4) of this title and–
     (A) of those officers–
       (i) the number of officers credited with having completed a tour of duty in a joint duty assignment; and
       (ii) the number of officers granted credit for purposes of determining cumulative service in joint duty assignments; and
-    (B) the identity of each operation for which an officer has been granted credit pursuant to section 664(i) of this title and a brief description of the mission of the operation.
+    (B) the identity of each operation for which an officer has been granted credit pursuant to subparagraphs (E) and (F) of section 664(i)(4) of this title and a brief description of the mission of the operation.
   (17) With regard to each time the principal course of instruction at the Joint Forces Staff College is offered–
     (A) the number of officers selected to attend that course who did not first complete while in residence at a professional military education school operated by a military department the principal course of instruction offered at that school;
     (B) the number of those officers as a percentage of all officers who attended that course of instruction at the Joint Forces Staff College;

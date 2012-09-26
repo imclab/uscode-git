@@ -1,8 +1,106 @@
-  (a) The number of reserve officers of the Army, Air Force, and Marine Corps who may be on active duty or full-time National Guard duty in each of the grades of major, lieutenant colonel, and colonel, and of the Navy who may be on active duty in each of the grades of lieutenant commander, commander, and captain, as of the end of any fiscal year for duty described in subclauses (B) and (C) of section 523(b)(1) of this title or full-time National Guard duty (other than for training) under section 502(f) of title 32 may not exceed the number for that grade and armed force in the following table:
+  (a) T4LimitationsK.–(1) Of the total number of members of a reserve component who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of major, lieutenant colonel, and colonel may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
       
-     Major or Lieutenant Commander D3,316 D1,071 D948 D140
-     Lieutenant Colonel or Commander D1,759 D520 D852 D90
-     Colonel or Navy Captain D529 D188 D317 D30
-  (b) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
-  (c) Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
-  (d) Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of officers of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.
+     Army Reserve:
+     10,000 D1,390 D740 D230  
+     11,000 D1,529 D803 D242  
+     12,000 D1,668 D864 D252  
+     13,000 D1,804 D924 D262  
+     14,000 D1,940 D984 D272  
+     15,000 D2,075 D1,044 D282  
+     16,000 D2,210 D1,104 D291  
+     17,000 D2,345 D1,164 D300  
+     18,000 D2,479 D1,223 D309  
+     19,000 D2,613 D1,282 D318  
+     20,000 D2,747 D1,341 D327  
+     21,000 D2,877 D1,400 D336  
+      
+     Army National Guard:
+     20,000 D1,500 D850 D325  
+     22,000 D1,650 D930 D350  
+     24,000 D1,790 D1,010 D370  
+     26,000 D1,930 D1,085 D385  
+     28,000 D2,070 D1,160 D400  
+     30,000 D2,200 D1,235 D405  
+     32,000 D2,330 D1,305 D408  
+     34,000 D2,450 D1,375 D411  
+     36,000 D2,570 D1,445 D411  
+     38,000 D2,670 D1,515 D411  
+     40,000 D2,770 D1,580 D411  
+     42,000 D2,837 D1,644 D411  
+      
+     Marine Corps Reserve:
+     1,100 D106 D56 D20  
+     1,200 D110 D60 D21  
+     1,300 D114 D63 D22  
+     1,400 D118 D66 D23  
+     1,500 D121 D69 D24  
+     1,600 D124 D72 D25  
+     1,700 D127 D75 D26  
+     1,800 D130 D78 D27  
+     1,900 D133 D81 D28  
+     2,000 D136 D84 D29  
+     2,100 D139 D87 D30  
+     2,200 D141 D90 D31  
+     2,300 D143 D92 D32  
+     2,400 D145 D94 D33  
+     2,500 D147 D96 D34  
+     2,600 D149 D98 D35  
+     Air Force Reserve:
+     500 D83 D85 D50  
+     1,000 D155 D165 D95  
+     1,500 D220 D240 D135  
+     2,000 D285 D310 D170  
+     2,500 D350 D369 D203  
+     3,000 D413 D420 D220  
+     3,500 D473 D464 D230  
+     4,000 D530 D500 D240  
+     4,500 D585 D529 D247  
+     5,000 D638 D550 D254  
+     5,500 D688 D565 D261  
+     6,000 D735 D575 D268  
+     7,000 D770 D595 D280  
+     8,000 D805 D615 D290  
+     10,000 D835 D635 D300  
+      
+     Air National Guard:
+     5,000 D333 D335 D251  
+     6,000 D403 D394 D260  
+     7,000 D472 D453 D269  
+     8,000 D539 D512 D278  
+     9,000 D606 D571 D287  
+     10,000 D673 D630 D296  
+     11,000 D740 D688 D305  
+     12,000 D807 D742 D314  
+     13,000 D873 D795 D323  
+     14,000 D939 D848 D332  
+     15,000 D1,005 D898 D341  
+     16,000 D1,067 D948 D350  
+     17,000 D1,126 D998 D359  
+     18,000 D1,185 D1,048 D368  
+     19,000 D1,235 D1,098 D377  
+     20,000 D1,283 D1,148 D380.
+  (2) Of the total number of members of the Naval Reserve who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of lieutenant commander, commander, and captain may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
+      
+     10,000 D807 D447 D141  
+     11,000 D867 D467 D153  
+     12,000 D924 D485 D163  
+     13,000 D980 D503 D173  
+     14,000 D1,035 D521 D183  
+     15,000 D1,088 D538 D193  
+     16,000 D1,142 D555 D203  
+     17,000 D1,195 D565 D213  
+     18,000 D1,246 D575 D223  
+     19,000 D1,291 D585 D233  
+     20,000 D1,334 D595 D242  
+     21,000 D1,364 D603 D250  
+     22,000 D1,384 D610 D258  
+     23,000 D1,400 D615 D265  
+     24,000 D1,410 D620 D270.
+  (b) T4Determinations by InterpolationK.–If the total number of members of a reserve component serving on full-time reserve component duty is between any two consecutive numbers in the first column of the appropriate table in paragraph (1) or (2) of subsection (a), the corresponding authorized strengths for each of the grades shown in that table for that component are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of members of a reserve component serving on full-time reserve component duty is more or less than the highest or lowest number, respectively, set forth in the first column of the appropriate table in paragraph (1) or (2) of subsection (a), the Secretary concerned shall fix the corresponding strengths for the grades shown in that table at the same proportion as is reflected in the nearest limit shown in the table.
+  (c) T4Reallocations to Lower GradesK.–Whenever the number of officers serving in any grade for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
+  (d) T4Secretarial WaiverK.–(1) Upon determining that it is in the national interest to do so, the Secretary of Defense may increase for a particular fiscal year the number of reserve officers that may be on full-time reserve component duty for a reserve component in a grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for the grade in that table.
+  (2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice in writing of the adjustment made.
+  (e) T4Full-Time Reserve Component Duty DefinedK.–In this section, the term ””full-time reserve component duty““ means the following duty:
+    (1) Active duty described in sections 10211, 10302, 10303, 10304, 10305, 12310, or 12402 of this title.
+    (2) Full-time National Guard duty (other than for training) under section 502(f) of title 32.
+    (3) Active duty described in section 708 of title 32.

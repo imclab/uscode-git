@@ -1,4 +1,4 @@
-  (a) T4Monthly ReportK.–The Secretary of Defense shall submit to Congress a monthly report on the allocation of appropriations to O&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the month to which the report pertains.
+  (a) T4Monthly ReportK.–The Secretary of Defense shall submit to the congressional defense committees a monthly report on the allocation of appropriations to O&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the month to which the report pertains.
   (b) T4Matters To Be IncludedK.–Each such report shall set forth the following for each subactivity of the O&M budget activities:
     (1) The amount of budget authority appropriated for that subactivity in the most recent regular Department of Defense Appropriations Act.
     (2) The amount of budget authority actually made available for that subactivity, taking into consideration supplemental appropriations, rescissions, and other adjustments required by law or made pursuant to law.
@@ -9,4 +9,6 @@
     (1) The reasons for the reallocations of funds resulting in the inclusion of that notice in the report.
     (2) Each budget subactivity involved in those reallocations.
     (3) The effect of those reallocations on the operation and maintenance activities funded through the subactivity with respect to which the notice is included in the report.
-  (e) O&M T4Budget Activity DefinedK.–For purposes of this section, the term ””O&M budget activity““ means a budget activity within an operation and maintenance appropriation of the Department of Defense for a fiscal year.
+  (e) T4DefinitionsK.–In this section:
+    (1) The term ””O&M budget activity““ means a budget activity within an operation and maintenance appropriation of the Department of Defense for a fiscal year.
+    (2) The term ””congressional defense committees““ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.

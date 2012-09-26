@@ -1,15 +1,13 @@
-  (a) T4Program Elements SpecifiedK.–In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with the following program elements:
-    (1) The Patriot system.
-    (2) The Navy Area system.
-    (3) The Theater High-Altitude Area Defense system.
-    (4) The Navy Theater Wide system.
-    (5) The Medium Extended Air Defense System.
-    (6) Joint Theater Missile Defense.
-    (7) National Missile Defense.
-    (8) Support Technologies.
-    (9) Family of Systems Engineering and Integration.
-    (10) Ballistic Missile Defense Technical Operations.
-    (11) Threat and Countermeasures.
-    (12) International Cooperative Programs.
-  (b) T4Treatment of Major Defense Acquisition ProgramsK.–Amounts requested for Theater Missile Defense and National Missile Defense major defense acquisition programs shall be specified in individual, dedicated program elements, and amounts appropriated for those programs shall be available only for Ballistic Missile Defense activities.
+  (a) T4Program Elements SpecifiedK.–In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for activities of the Missile Defense Agency shall be set forth in accordance with program elements governing functional areas as follows:
+    (1) Technology.
+    (2) Ballistic Missile Defense System.
+    (3) Terminal Defense Segment.
+    (4) Midcourse Defense Segment.
+    (5) Boost Defense Segment.
+    (6) Sensors Segment.
+  (b) T4Separate Program Elements for Programs Entering Engineering and Manufacturing DevelopmentK.–(1) The Secretary of Defense shall ensure that each ballistic missile defense program that enters engineering and manufacturing development is assigned a separate, dedicated program element.
+  (2) In this subsection, the term ””engineering and manufacturing development““ means the development phase whose primary objectives are to–
+    (A) translate the most promising design approach into a stable, interoperable, producible, supportable, and cost-effective design;
+    (B) validate the manufacturing or production process; and
+    (C) demonstrate system capabilities through testing.
   (c) T4Management and SupportK.–The amount requested for each program element specified in subsection (a) shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.
