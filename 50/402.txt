@@ -1,68 +1,27 @@
-  (a) Establishment; presiding officer; functions; composition
-     There is established a council to be known as the National Security Council (hereinafter in this section referred to as the ””Council““).
-     The President of the United States shall preside over meetings of the Council: T3ProvidedK, That in his absence he may designate a member of the Council to preside in his place.
-     The function of the Council shall be to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the military services and the other departments and agencies of the Government to cooperate more effectively in matters involving the national security.
-     The Council shall be composed of–
-    (1) the President;
-    (2) the Vice President;
-    (3) the Secretary of State;
-    (4) the Secretary of Defense;
-    (5) the Director for Mutual Security;
-    (6) the Chairman of the National Security Resources Board; and
-    (7) the Secretaries and Under Secretaries of other executive departments and of the military departments, the Chairman of the Munitions Board, and the Chairman of the Research and Development Board, when appointed by the President by and with the advice and consent of the Senate, to serve at his pleasure.
-  (b) Additional functions
-     In addition to performing such other functions as the President may direct, for the purpose of more effectively coordinating the policies and functions of the departments and agencies of the Government relating to the national security, it shall, subject to the direction of the President, be the duty of the Council–
-    (1) to assess and appraise the objectives, commitments, and risks of the United States in relation to our actual and potential military power, in the interest of national security, for the purpose of making recommendations to the President in connection therewith; and
-    (2) to consider policies on matters of common interest to the departments and agencies of the Government concerned with the national security, and to make recommendations to the President in connection therewith.
-  (c) Executive secretary; appointment; staff employees
-     The Council shall have a staff to be headed by a civilian executive secretary who shall be appointed by the President. The executive secretary, subject to the direction of the Council, is authorized, subject to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5, to appoint and fix the compensation of such personnel as may be necessary to perform such duties as may be prescribed by the Council in connection with the performance of its functions.
-  (d) Recommendations and reports
-     The Council shall, from time to time, make such recommendations, and such other reports to the President as it deems appropriate or as the President may require.
-  (e) Participation of Chairman or Vice Chairman of Joint Chiefs of Staff
-     The Chairman (or in his absence the Vice Chairman) of the Joint Chiefs of Staff may, in his role as principal military adviser to the National Security Council and subject to the direction of the President, attend and participate in meetings of the National Security Council.
-  (f) Participation by Director of National Drug Control Policy
-     The Director of National Drug Control Policy may, in the role of the Director as principal adviser to the National Security Council on national drug control policy, and subject to the direction of the President, attend and participate in meetings of the National Security Council.
-  (g) Board for Low Intensity Conflict
-     The President shall establish within the National Security Council a board to be known as the ””Board for Low Intensity Conflict““. The principal function of the board shall be to coordinate the policies of the United States for low intensity conflict.
-  (h) Committee on Foreign Intelligence
-    (1) There is established within the National Security Council a committee to be known as the Committee on Foreign Intelligence (in this subsection referred to as the ””Committee““).
-    (2) The Committee shall be composed of the following:
-      (A) The Director of National Intelligence.
-      (B) The Secretary of State.
-      (C) The Secretary of Defense.
-      (D) The Assistant to the President for National Security Affairs, who shall serve as the chairperson of the Committee.
-      (E) Such other members as the President may designate.
-    (3) The function of the Committee shall be to assist the Council in its activities by–
-      (A) identifying the intelligence required to address the national security interests of the United States as specified by the President;
-      (B) establishing priorities (including funding priorities) among the programs, projects, and activities that address such interests and requirements; and
-      (C) establishing policies relating to the conduct of intelligence activities of the United States, including appropriate roles and missions for the elements of the intelligence community and appropriate targets of intelligence collection activities.
-    (4) In carrying out its function, the Committee shall–
-      (A) conduct an annual review of the national security interests of the United States;
-      (B) identify on an annual basis, and at such other times as the Council may require, the intelligence required to meet such interests and establish an order of priority for the collection and analysis of such intelligence; and
-      (C) conduct an annual review of the elements of the intelligence community in order to determine the success of such elements in collecting, analyzing, and disseminating the intelligence identified under subparagraph (B).
-    (5) The Committee shall submit each year to the Council and to the Director of National Intelligence a comprehensive report on its activities during the preceding year, including its activities under paragraphs (3) and (4).
-      (i) \1\N Committee on Transnational Threats
-        (1) There is established within the National Security Council a committee to be known as the Committee on Transnational Threats (in this subsection referred to as the ””Committee““).
-        (2) The Committee shall include the following members:
-          (A) The Director of National Intelligence.
-          (B) The Secretary of State.
-          (C) The Secretary of Defense.
-          (D) The Attorney General.
-          (E) The Assistant to the President for National Security Affairs, who shall serve as the chairperson of the Committee.
-          (F) Such other members as the President may designate.
-        (3) The function of the Committee shall be to coordinate and direct the activities of the United States Government relating to combatting transnational threats.
-        (4) In carrying out its function, the Committee shall–
-          (A) identify transnational threats;
-          (B) develop strategies to enable the United States Government to respond to transnational threats identified under subparagraph (A);
-          (C) monitor implementation of such strategies;
-          (D) make recommendations as to appropriate responses to specific transnational threats;
-          (E) assist in the resolution of operational and policy differences among Federal departments and agencies in their responses to transnational threats;
-          (F) develop policies and procedures to ensure the effective sharing of information about transnational threats among Federal departments and agencies, including law enforcement agencies and the elements of the intelligence community; and
-          (G) develop guidelines to enhance and improve the coordination of activities of Federal law enforcement agencies and elements of the intelligence community outside the United States with respect to transnational threats.
-        (5) For purposes of this subsection, the term ””transnational threat““ means the following:
-          (A) Any transnational activity (including international terrorism, narcotics trafficking, the proliferation of weapons of mass destruction and the delivery systems for such weapons, and organized crime) that threatens the national security of the United States.
-          (B) Any individual or group that engages in an activity referred to in subparagraph (A).
-      (j) Participation of Director of National Intelligence
-         The Director of National Intelligence (or, in the Director“s absence, the Principal Deputy Director of National Intelligence) may, in the performance of the Director“s duties under this Act and subject to the direction of the President, attend and participate in meetings of the National Security Council.
-        (i) \2\N Special Adviser to the President on International Religious Freedom
-           It is the sense of the Congress that there should be within the staff of the National Security Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
+   As used in this Act:
+  (1) The term ””intelligence““ includes foreign intelligence and counterintelligence.
+  (2) The term ””foreign intelligence““ means information relating to the capabilities, intentions, or activities of foreign governments or elements thereof, foreign organizations, or foreign persons, or international terrorist activities.
+  (3) The term ””counterintelligence““ means information gathered, and activities conducted, to protect against espionage, other intelligence activities, sabotage, or assassinations conducted by or on behalf of foreign governments or elements thereof, foreign organizations, or foreign persons, or international terrorist activities.
+  (4) The term ””intelligence community““ includes the following:
+    (A) The Office of the Director of National Intelligence.
+    (B) The Central Intelligence Agency.
+    (C) The National Security Agency.
+    (D) The Defense Intelligence Agency.
+    (E) The National Geospatial-Intelligence Agency.
+    (F) The National Reconnaissance Office.
+    (G) Other offices within the Department of Defense for the collection of specialized national intelligence through reconnaissance programs.
+    (H) The intelligence elements of the Army, the Navy, the Air Force, the Marine Corps, the Federal Bureau of Investigation, and the Department of Energy.
+    (I) The Bureau of Intelligence and Research of the Department of State.
+    (J) The Office of Intelligence and Analysis of the Department of the Treasury.
+    (K) The elements of the Department of Homeland Security concerned with the analysis of intelligence information, including the Office of Intelligence of the Coast Guard.
+    (L) Such other elements of any other department or agency as may be designated by the President, or designated jointly by the Director of National Intelligence and the head of the department or agency concerned, as an element of the intelligence community.
+  (5) The terms ””national intelligence““ and ””intelligence related to national security““ refer to all intelligence, regardless of the source from which derived and including information gathered within or outside the United States, that–
+    (A) pertains, as determined consistent with any guidance issued by the President, to more than one United States Government agency; and
+    (B) that involves–
+      (i) threats to the United States, its people, property, or interests;
+      (ii) the development, proliferation, or use of weapons of mass destruction; or
+      (iii) any other matter bearing on United States national or homeland security.
+  (6) The term ””National Intelligence Program““ refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of Central Intelligence and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
+  (7) The term ””congressional intelligence committees““ means–
+    (A) the Select Committee on Intelligence of the Senate; and
+    (B) the Permanent Select Committee on Intelligence of the House of Representatives.
