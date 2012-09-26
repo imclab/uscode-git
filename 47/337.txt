@@ -23,10 +23,10 @@
       (B) to disaggregate or partition licenses to create smaller spectrum blocks or service areas; and
     (4) shall establish rules insuring that public safety services licensees using spectrum reallocated pursuant to subsection (a)(1) of this section shall not be subject to harmful interference from television broadcast licensees.
   (e) Removal and relocation of incumbent broadcast licensees
-    (1) Channels 60 to 69
-       Any person who holds a television broadcast license to operate between 746 and 806 megahertz may not operate at that frequency after the date on which the digital television service transition period terminates, as determined by the Commission.
+    (1) Channels 52 to 69
+       Any full-power television station licensee that holds a television broadcast license to operate between 698 and 806 megahertz may not operate at that frequency after February 17, 2009.
     (2) Incumbent qualifying low-power stations
-       After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission“s plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 746 megahertz to permit the continued operation of such station.
+       After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission“s plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 698 megahertz to permit the continued operation of such station.
   (f) Definitions
      For purposes of this section:
     (1) Public safety services
