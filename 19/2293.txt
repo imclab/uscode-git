@@ -1,12 +1,12 @@
   (a) Maximum allowance; deduction for unemployment insurance; additional payments for approved training periods
     (1) The maximum amount of trade readjustment allowances payable with respect to the period covered by any certification to an adversely affected worker shall be the amount which is the product of 52 multiplied by the trade readjustment allowance payable to the worker for a week of total unemployment (as determined under section 2292(a) of this title), but such product shall be reduced by the total sum of the unemployment insurance to which the worker was entitled (or would have been entitled if he had applied therefor) in the worker“s first benefit period described in section 2291(a)(3)(A) of this title.
-    (2) A trade readjustment allowance shall not be paid for any week occurring after the close of the 104-week period that begins with the first week following the week in which the adversely affected worker was most recently totally separated from adversely affected employment–
+    (2) A trade readjustment allowance shall not be paid for any week occurring after the close of the 104-week period (or, in the case of an adversely affected worker who requires a program of remedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved for the worker under section 2296 of this title, the 130-week period) that begins with the first week following the week in which the adversely affected worker was most recently totally separated from adversely affected employment–
       (A) within the period which is described in section 2291(a)(1) of this title, and
       (B) with respect to which the worker meets the requirements of section 2291(a)(2) of this title.
-    (3) Notwithstanding paragraph (1), in order to assist the adversely affected worker to complete training approved for him under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period that–
+    (3) Notwithstanding paragraph (1), in order to assist the adversely affected worker to complete training approved for him under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 52 additional weeks in the 52-week period that–
       (A) follows the last week of entitlement to trade readjustment allowances otherwise payable under this part; or
       (B) begins with the first week of such training, if such training begins after the last week described in subparagraph (A).
-         Payments for such additional weeks may be made only for weeks in such 26-week period during which the individual is participating in such training.
+         Payments for such additional weeks may be made only for weeks in such 52-week period during which the individual is participating in such training.
   (b) Limitations on additional payments for training periods
      A trade readjustment allowance may not be paid for an additional week specified in subsection (a)(3) of this section if the adversely affected worker who would receive such allowance did not make a bona fide application to a training program approved by the Secretary under section 2296 of this title within 210 days after the date of the worker“s first certification of eligibility to apply for adjustment assistance issued by the Secretary, or, if later, within 210 days after the date of the worker“s total or partial separation referred to in section 2291(a)(1) of this title.
   (c) Adjustments of amounts payable
@@ -16,6 +16,8 @@
   (e) Week during which worker received on-the-job training
      No trade readjustment allowance shall be paid to a worker under sections 2291 to 2294 of this title for any week during which the worker is receiving on-the-job training.
   (f) Workers treated as participating in training
-     For purposes of this part, a worker shall be treated as participating in training during any week which is part of a break in training that does not exceed 14 days if–
+     For purposes of this part, a worker shall be treated as participating in training during any week which is part of a break in training that does not exceed 30 days if–
     (1) the worker was participating in a training program approved under section 2296(a) of this title before the beginning of such break in training, and
     (2) the break is provided under such training program.
+  (g) Additional weeks to complete training
+     Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 2296 of this title which includes a program of remedial education (as described in section 2296(a)(5)(D) of this title), and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period that follows the last week of entitlement to trade readjustment allowances otherwise payable under this part.

@@ -12,13 +12,18 @@
      shall be treated as a week of employment at wages of $30 or more, but not more than 7 weeks, in case of weeks described in subparagraph (A) or (C), or both (and not more than 26 weeks, in the case of weeks described in subparagraph (B) or (D)), may be treated as weeks of employment under this sentence.
     (3) Such worker–
       (A) was entitled to (or would be entitled to if he applied therefor) unemployment insurance for a week within the benefit period (i) in which such total or partial separation took place, or (ii) which began (or would have begun) by reason of the filing of a claim for unemployment insurance by such worker after such total or partial separation;
-      (B) has exhausted all rights to any unemployment insurance to which he was entitled (or would be entitled if he applied therefor); and
+      (B) has exhausted all rights to any unemployment insurance, except additional compensation that is funded by a State and is not reimbursed from any Federal funds, to which he was entitled (or would be entitled if he applied therefor); and
       (C) does not have an unexpired waiting period applicable to him for any such unemployment insurance.
     (4) Such worker, with respect to such week of unemployment, would not be disqualified for extended compensation payable under the Federal-State Extended Unemployment Compensation Act of 1970 by reason of the work acceptance and job search requirements in section 202(a)(3) of such Act.
     (5) Such worker–
-      (A) is enrolled in a training program approved by the Secretary under section 2296(a) of this title,
+      (A)        (i) is enrolled in a training program approved by the Secretary under section 2296(a) of this title, and
+        (ii) the enrollment required under clause (i) occurs no later than the latest of–
+          (I) the last day of the 16th week after the worker“s most recent total separation from adversely affected employment which meets the requirements of paragraphs (1) and (2),
+          (II) the last day of the 8th week after the week in which the Secretary issues a certification covering the worker,
+          (III) 45 days after the later of the dates specified in subclause (I) or (II), if the Secretary determines there are extenuating circumstances that justify an extension in the enrollment period, or
+          (IV) the last day of a period determined by the Secretary to be approved for enrollment after the termination of a waiver issued pursuant to subsection (c) of this section,
       (B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a training program approved by the Secretary under section 2296(a) of this title, or
-      (C) has received a written statement certified under subsection (c)(1) of this section after the date described in subparagraph (B).
+      (C) has received a written statement under subsection (c)(1) of this section after the date described in subparagraph (B).
   (b) Withholding of trade readjustment allowance pending beginning or resumption of participation in training program; period of applicability
     (1) If–
       (A) the Secretary determines that–
@@ -31,11 +36,30 @@
     (2) The provisions of subsection (a)(5) of this section and paragraph (1) shall not apply with respect to any week of unemployment which begins–
       (A) after the date that is 60 days after the date on which the petition that results in the certification that covers the worker is filed under section 2271 of this title, and
       (B) before the first week following the week in which such certification is made under subpart A of this part.
-  (c) Approval of training programs; written certifications; revocation of certification; annual report
-    (1)      (A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of this title, the Secretary shall submit to such worker a written statement certifying such finding.
-      (B) If a State or State agency has an agreement with the Secretary under section 2311 of this title and the State or State agency finds that it is not feasible or appropriate to approve a training program for a worker pursuant to the requirements of section 2296(a) of this title, the State or State agency shall–
-        (i) submit to such worker a written statement certifying such finding, and
-        (ii) submit to the Secretary a written statement certifying such finding and the reasons for such finding.
-    (2)      (A) If, after submitting to a worker a written statement certified under paragraph (1)(A), the Secretary finds that it is feasible or appropriate to approve a training program for such worker under section 2296(a) of this title, the Secretary shall submit to such worker a written statement that revokes the certification made under paragraph (1)(A) with respect to such worker.
-      (B) If, after submitting to a worker a written statement certified under paragraph (1)(B), a State or State agency finds that it is feasible or appropriate to approve a training program for such worker pursuant to the requirements of section 2296(a) of this title, the State or State agency shall submit to such worker, and to the Secretary, a written statement that revokes the certification made under paragraph (1)(B) with respect to such worker.
-    (3) The Secretary shall submit to the Finance Committee of the Senate and to the Ways and Means Committee of the House of Representatives an annual report on the number of workers who received certifications under paragraph (1) during the preceding year and the number of certifications made under paragraph (1) that were revoked during the preceding year.
+  (c) Waivers of training requirements
+    (1) Issuance of waivers
+       The Secretary may issue a written statement to an adversely affected worker waiving the requirement to be enrolled in training described in subsection (a)(5)(A) of this section if the Secretary determines that it is not feasible or appropriate for the worker, because of 1 or more of the following reasons:
+      (A) Recall
+         The worker has been notified that the worker will be recalled by the firm from which the separation occurred.
+      (B) Marketable skills
+         The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
+      (C) Retirement
+         The worker is within 2 years of meeting all requirements for entitlement to either–
+        (i) old-age insurance benefits under title II of the Social Security Act (42 U.S.C. 401 et seq.) (except for application therefor); or
+        (ii) a private pension sponsored by an employer or labor organization.
+      (D) Health
+         The worker is unable to participate in training due to the health of the worker, except that a waiver under this subparagraph shall not be construed to exempt a worker from requirements relating to the availability for work, active search for work, or refusal to accept work under Federal or State unemployment compensation laws.
+      (E) Enrollment unavailable
+         The first available enrollment date for the approved training of the worker is within 60 days after the date of the determination made under this paragraph, or, if later, there are extenuating circumstances for the delay in enrollment, as determined pursuant to guidelines issued by the Secretary.
+      (F) Training not available
+         Training approved by the Secretary is not reasonably available to the worker from either governmental agencies or private sources (which may include area vocational education schools, as defined in section 2302 \1\N of title 20, and employers), no training that is suitable for the worker is available at a reasonable cost, or no training funds are available.
+    (2) Duration of waivers
+      (A) In general
+         A waiver issued under paragraph (1) shall be effective for not more than 6 months after the date on which the waiver is issued, unless the Secretary determines otherwise.
+      (B) Revocation
+         The Secretary shall revoke a waiver issued under paragraph (1) if the Secretary determines that the basis of a waiver is no longer applicable to the worker and shall notify the worker in writing of the revocation.
+    (3) Agreements under section 2311
+      (A) Issuance by cooperating States
+         Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a cooperating State to issue waivers as described in paragraph (1).
+      (B) Submission of statements
+         An agreement under section 2311 of this title shall include a requirement that the cooperating State submit to the Secretary the written statements provided under paragraph (1) and a statement of the reasons for the waiver.
