@@ -5,12 +5,14 @@
     (1) Exception for refugees and asylees
       (A) An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act [8 U.S.C. 1157].
       (B) An alien who is granted asylum under section 208 of such Act [8 U.S.C. 1158].
-      (C) An alien whose deportation is being withheld under section 243(h) \1\N of such Act [8 U.S.C. 1253].
+      (C) An alien whose deportation is being withheld under section 243(h) of such Act [8 U.S.C. 1253] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act [8 U.S.C. 1231(b)(3)] (as amended by section 305(a) of division C of Public Law 104–208).
+      (D) An alien who is a Cuban and Haitian entrant as defined in section 501(e) of the Refugee Education Assistance Act of 1980.
+      (E) An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) of this title.
     (2) Veteran and active duty exception
        An alien who is lawfully residing in any State and is–
-      (A) a veteran (as defined in section 101 of title 38) with a discharge characterized as an honorable discharge and not on account of alienage,
+      (A) a veteran (as defined in section 101, 1101, or 1301, or as described in section 107 of title 38) with a discharge characterized as an honorable discharge and not on account of alienage and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38,
       (B) on active duty (other than active duty for training) in the Armed Forces of the United States, or
-      (C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B).
+      (C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) \1\N who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
   (c) Application of term Federal means-tested public benefit
     (1) The limitation under subsection (a) of this section shall not apply to assistance or benefits under paragraph (2).
     (2) Assistance and benefits under this paragraph are as follows:
@@ -25,5 +27,5 @@
       (I) Means-tested programs under the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6301 et seq.].
       (J) Benefits under the Head Start Act [42 U.S.C. 9831 et seq.].
       (K) Benefits under the Job Training Partnership Act [29 U.S.C. 1501 et seq.].
-  (d) Special rule for refugee and entrant assistance for Cuban and Haitian entrants
-     The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act [8 U.S.C. 1521 et seq.] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.
+  (d) SSI and medicaid benefits for certain Indians
+     Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) of this section shall not apply to an individual described in section 1612(a)(2)(G) of this title, but only with respect to the programs specified in subsections (a)(3)(A) and (b)(3)(C) of section 1612 of this title.
