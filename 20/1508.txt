@@ -8,7 +8,7 @@
        shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to, statements, declarations, documents and electronically generated or machine readable data) which–
       (A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
       (B) are normally kept in the ordinary course of business.
-  (b) Exportations to free trade countries
+  (b) Exportations to NAFTA countries
     (1) Definitions
        As used in this subsection–
       (A) The term ””associated records““ means, in regard to an exported good under paragraph (2), records associated with–
@@ -23,7 +23,7 @@
       (B) Claims for certain waivers, reductions, or refunds of duties or for credit against bonds
         (i) In general
            Any person that claims with respect to an article–
-          (I) a waiver or reduction of duty under the last paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the last proviso to section 81c(a) of this title;
+          (I) a waiver or reduction of duty under the eleventh paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the proviso preceding the last proviso to section 81c(a) of this title;
           (II) a credit against a bond under section 1312(d) of this title; or
           (III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (T3oK)(1) of this title;
               must disclose to the Customs Service the information described in clause (ii).
@@ -53,3 +53,21 @@
        whichever penalty is higher.
     (2) Relating to Canadian agreement exports
        Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
+  (f) Certificates of Origin for goods exported under the United States-Chile Free Trade Agreement
+    (1) Definitions
+       In this subsection:
+      (A) Records and supporting documents
+         The term ””records and supporting documents““ means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including–
+        (i) the purchase, cost, and value of, and payment for, the good;
+        (ii) if applicable, the purchase, cost, and value of, and payment for, all materials, including recovered goods, used in the production of the good; and
+        (iii) if applicable, the production of the good in the form in which it was exported.
+      (B) Chile FTA Certificate of Origin
+         The term ””Chile FTA Certificate of Origin““ means the certification, established under article 4.13 of the United States-Chile Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+    (2) Exports to Chile
+       Any person who completes and issues a Chile FTA Certificate of Origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the Certificate or copies thereof).
+    (3) Retention period
+       Records and supporting documents shall be kept by the person who issued a Chile FTA Certificate of Origin for at least 5 years after the date on which the certificate was issued.
+  (g) Penalties
+     Any person who fails to retain records and supporting documents required by subsection (f) of this section or the regulations issued to implement that subsection shall be liable for the greater of–
+    (1) a civil penalty not to exceed $10,000; or
+    (2) the general record keeping penalty that applies under the customs laws of the United States.
