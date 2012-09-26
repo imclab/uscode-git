@@ -1,13 +1,13 @@
   (a) T4DefinitionsK.–In this section–
     (1) the term ””foreign nation““ means a country that has become a party to the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (referred to in this section as the ””United Nations Convention““) or a foreign jurisdiction with which the United States has a treaty or other formal international agreement in effect providing for mutual forfeiture assistance; and
     (2) the term ””forfeiture or confiscation judgment““ means a final order of a foreign nation compelling a person or entity–
-      (A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, or any foreign offense described in section 1956(c)(7)(B) of title 18, or property the value of which corresponds to such proceeds; or
+      (A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States, or any foreign offense described in section 1956(c)(7)(B) of title 18, or property the value of which corresponds to such proceeds; or
       (B) to forfeit property involved in or traceable to the commission of such offense.
   (b) T4Review by Attorney General.–
     (1) T4In generalK.–A foreign nation seeking to have a forfeiture or confiscation judgment registered and enforced by a district court of the United States under this section shall first submit a request to the Attorney General or the designee of the Attorney General, which request shall include–
       (A) a summary of the facts of the case and a description of the proceedings that resulted in the forfeiture or confiscation judgment;
       (B) certified \1\N copy of the forfeiture or confiscation judgment;
-      (C) an affidavit or sworn declaration establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant to defend against the charges and that the judgment rendered is in force and is not subject to appeal; and
+      (C) an affidavit or sworn declaration establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons to defend against the charges and that the judgment rendered is in force and is not subject to appeal; and
       (D) such additional information and evidence as may be required by the Attorney General or the designee of the Attorney General.
     (2) T4Certification of requestK.–The Attorney General or the designee of the Attorney General shall determine whether, in the interest of justice, to certify the request, and such decision shall be final and not subject to either judicial review or review under subchapter II of chapter 5, or chapter 7, of title 5 (commonly known as the ””Administrative Procedure Act““).
   (c) T4Jurisdiction and Venue.–
@@ -21,8 +21,14 @@
       (A) the judgment was rendered under a system that provides tribunals or procedures incompatible with the requirements of due process of law;
       (B) the foreign court lacked personal jurisdiction over the defendant;
       (C) the foreign court lacked jurisdiction over the subject matter;
-      (D) the defendant in the proceedings in the foreign court did not receive notice of the proceedings in sufficient time to enable him or her to defend; or
+      (D) the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property of the proceedings \2\N in sufficient time to enable him or her to defend; or
       (E) the judgment was obtained by fraud.
     (2) T4ProcessK.–Process to enforce a judgment under this section shall be in accordance with rule 69(a) of the Federal Rules of Civil Procedure.
+    (3) T4Preservation of property.–
+      (A) T4In generalK.–To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section.
+      (B) T4EvidenceK.–The court, in issuing a restraining order under subparagraph (A)–
+        (i) may rely on information set forth in an affidavit describing the nature of the proceeding or investigation underway in the foreign country, and setting forth a reasonable basis to believe that the property to be restrained will be named in a judgment of forfeiture at the conclusion of such proceeding; or
+        (ii) may register and enforce a restraining order that has been issued by a court of competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
+      (C) T4Limit on grounds for objectionK.–No person may object to a restraining order under subparagraph (A) on any ground that is the subject of parallel litigation involving the same property that is pending in a foreign court.
   (e) T4Finality of Foreign FindingsK.–In entering orders to enforce the judgment, the court shall be bound by the findings of fact to the extent that they are stated in the foreign forfeiture or confiscation judgment.
   (f) T4Currency ConversionK.–The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.
