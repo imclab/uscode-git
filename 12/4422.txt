@@ -1,0 +1,7 @@
+  (a) In general
+     Except with respect to clearing organizations described in subsection (b) of this section, no person may operate a multilateral clearing organization for over-the-counter derivative instruments, or otherwise engage in activities that constitute such a multilateral clearing organization unless the person is a national bank, a State member bank, an insured State nonmember bank, an affiliate of a national bank, a State member bank, or an insured State nonmember bank, or a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.].
+  (b) Clearing organizations
+     Subsection (a) of this section shall not apply to any clearing organization that–
+    (1) is registered as a clearing agency under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.];
+    (2) is registered as a derivatives clearing organization under the Commodity Exchange Act [7 U.S.C. 1 et seq.]; or
+    (3) is supervised by a foreign financial regulator that the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as applicable, has determined satisfies appropriate standards.
