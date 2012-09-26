@@ -12,8 +12,9 @@
         (iii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 30 plan years,
         (iv) separately, with respect to each plan year, the net experience loss (if any) under the plan, over a period of 5 plan years (15 plan years in the case of a multiemployer plan), and
         (v) separately, with respect to each plan year, the net loss (if any) resulting from changes in actuarial assumptions used under the plan, over a period of 10 plan years (30 plan years in the case of a multiemployer plan),
-      (C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 1083(c) of this title) for each prior plan year in equal annual installments (until fully amortized) over a period of 5 plan years (15 plan years in the case of a multiemployer plan), and
-      (D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under paragraph (3)(D).
+      (C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 1083(c) of this title) for each prior plan year in equal annual installments (until fully amortized) over a period of 5 plan years (15 plan years in the case of a multiemployer plan),
+      (D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under paragraph (3)(D), and
+      (E) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of subsection (c)(7)(A)(i)(I) of this section.
     (3) For a plan year, the funding standard account shall be credited with the sum of–
       (A) the amount considered contributed by the employer to or under the plan for the plan year,
       (B) the amount necessary to amortize in equal annual installments (until fully amortized)–
@@ -77,16 +78,15 @@
       (B) all amounts described in paragraphs (2), (B), (C), and (D) and (3)(B) of subsection (b) of this section which are required to be amortized shall be considered fully amortized for purposes of such paragraphs.
     (7) T4Full-funding limitation.–
       (A) T4In generalK.–For purposes of paragraph (6), the term ””full-funding limitation““ means the excess (if any) of–
-        (i) the lesser of (I) 150 percent of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
+        (i) the lesser of (I) the applicable percentage of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
         (ii) the lesser of–
           (I) the fair market value of the plan“s assets, or
           (II) the value of such assets determined under paragraph (2).
       (B) T4Current liabilityK.–For purposes of subparagraph (D) and subclause (I) of subparagraph (A)(i), the term ””current liability““ has the meaning given such term by subsection (d)(7) of this section (without regard to subparagraphs (C) and (D) thereof) and using the rate of interest used under subsection (b)(5)(B) of this section.
       (C) T4Special rule for paragraph (6)(b)K.–For purposes of paragraph (6)(B), subparagraph (A)(i) shall be applied without regard to subclause (I) thereof.
       (D) T4Regulatory authorityK.–The Secretary of the Treasury may by regulations provide–
-        (i) for adjustments to the percentage contained in subparagraph (A)(i) to take into account the respective ages or lengths of service of the participants,
-        (ii) alternative methods based on factors other than current liability for the determination of the amount taken into account under subparagraph (A)(i), and
-        (iii) for the treatment under this section of contributions which would be required to be made under the plan but for the provisions of subparagraph (A)(i)(I).
+        (i) for adjustments to the percentage contained in subparagraph (A)(i) to take into account the respective ages or lengths of service of the participants, and
+        (ii) alternative methods based on factors other than current liability for the determination of the amount taken into account under subparagraph (A)(i).
       (E) T4Minimum amount.–
         (i) T4In generalK.–In no event shall the full-funding limitation determined under subparagraph (A) be less than the excess (if any) of–
           (I) 90 percent of the current liability of the plan (including the expected increase in current liability due to benefits accruing during the plan year), over
@@ -94,6 +94,19 @@
         (ii) T4Current liability; assetsK.–For purposes of clause (i)–
           (I) the term ””current liability““ has the meaning given such term by subsection (d)(7) of this section (without regard to subparagraph (D) thereof), and
           (II) assets shall not be reduced by any credit balance in the funding standard account.
+      (F) T4Applicable percentageK.–For purposes of subparagraph (A)(i)(I), the applicable percentage shall be determined in accordance with the following table:
+         T2In the case of any plan
+         T2The applicable
+         T2 year beginning in–
+         T2percentage is–
+           1999 or 2000
+         155  
+           2001 or 2002
+         160  
+           2003 or 2004
+         165  
+           2005 and succeeding years
+         170.
     (8) For purposes of this part, any amendment applying to a plan year which–
       (A) is adopted after the close of such plan year but no later than 2\1/2\ months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),
       (B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
@@ -469,7 +482,7 @@
           (I) In general
              The term ””base amount““ means, with respect to any quarter, an amount equal to 3 times the sum of the adjusted disbursements from the plan for the 12 months ending on the last day of such quarter.
           (II) Special rule
-             If the amount determined under clause (i) exceeds an amount equal to 2 times the sum of the adjusted disbursements from the plan for the 36 months ending on the last day of the quarter and an enrolled actuary certifies to the satisfaction of the Secretary of the Treasury that such excess is the result of nonrecurring circumstances, the base amount with respect to such quarter shall be determined without regard to amounts related to those nonrecurring circumstances.
+             If the amount determined under subclause (I) exceeds an amount equal to 2 times the sum of the adjusted disbursements from the plan for the 36 months ending on the last day of the quarter and an enrolled actuary certifies to the satisfaction of the Secretary of the Treasury that such excess is the result of nonrecurring circumstances, the base amount with respect to such quarter shall be determined without regard to amounts related to those nonrecurring circumstances.
         (iii) Disbursements from the plan
            The term ””disbursements from the plan““ means all disbursements from the trust, including purchases of annuities, payments of single sums and other benefits, and administrative expenses.
         (iv) Adjusted disbursements

@@ -1,6 +1,6 @@
   (a) Group health plan coverage pursuant to medical child support orders
     (1) In general
-       Each group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child support order.
+       Each group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child support order. A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.
     (2) Definitions
        For purposes of this subsection–
       (A) Qualified medical child support order
@@ -11,15 +11,14 @@
          The term ””medical child support order““ means any judgment, decree, or order (including approval of a settlement agreement) which–
         (i) provides for child support with respect to a child of a participant under a group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan, or
         (ii) enforces a law relating to medical child support described in section 1908 of the Social Security Act [42 U.S.C. 1396g–1] (as added by section 13822 \1\N of the Omnibus Budget Reconciliation Act of 1993) with respect to a group health plan,
-         if such judgment, decree, or order (I) is issued by a court of competent jurisdiction or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law.
+         if such judgment, decree, or order (I) is issued by a court of competent jurisdiction or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
       (C) Alternate recipient
          The term ””alternate recipient““ means any child of a participant who is recognized under a medical child support order as having a right to enrollment under a group health plan with respect to such participant.
     (3) Information to be included in qualified order
        A medical child support order meets the requirements of this paragraph only if such order clearly specifies–
-      (A) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate recipient covered by the order,
-      (B) a reasonable description of the type of coverage to be provided by the plan to each such alternate recipient, or the manner in which such type of coverage is to be determined,
-      (C) the period to which such order applies, and
-      (D) each plan to which such order applies.
+      (A) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate recipient covered by the order, except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,
+      (B) a reasonable description of the type of coverage to be provided to each such alternate recipient, or the manner in which such type of coverage is to be determined, and
+      (C) the period to which such order applies.
     (4) Restriction on new types or forms of benefits
        A medical child support order meets the requirements of this paragraph only if such order does not require a plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act [42 U.S.C. 1396g–1] (as added by section 13822 \1\ of the Omnibus Budget Reconciliation Act of 1993).
     (5) Procedural requirements
@@ -41,6 +40,8 @@
          A person who is an alternate recipient under any medical child support order shall be considered a participant under the plan for purposes of the reporting and disclosure requirements of part 1 of this subtitle.
     (8) Direct provision of benefits provided to alternate recipients
        Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient“s custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient“s custodial parent or legal guardian.
+    (9) Payment to State official treated as satisfaction of plan“s obligation to make payment to alternate recipient
+       Payment of benefits by a group health plan to an official of a State or a political subdivision thereof whose name and address have been substituted for the name and address of an alternate recipient in a qualified medical child support order, pursuant to paragraph (3)(A), shall be treated, for purposes of this subchapter, as payment of benefits to the alternate recipient.
   (b) Rights of States with respect to group health plans where participants or beneficiaries thereunder are eligible for medicaid benefits
     (1) Compliance by plans with assignment of rights
        A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] pursuant to section 1912(a)(1)(A) of such Act [42 U.S.C. 1396k(a)(1)(A)] (as in effect on August 10, 1993).
