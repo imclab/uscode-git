@@ -1,20 +1,12 @@
-  (a) Proposals; proposed designations; requests
-    (1) The Governor shall, after receiving the proposal of the State job training coordinating council, publish a proposed designation of service delivery areas for the State each of which–
-      (A) is comprised of the State or one or more units of general local government;
-      (B) will promote effective delivery of job training services; and
-      (C)        (i) is consistent with labor market areas or standard metropolitan statistical areas, but this clause shall not be construed to require designation of an entire labor market area; or
-        (ii) is consistent with areas in which related services are provided under other State or Federal programs.
-    (2) The Council shall include in its proposal a written explanation of the reasons for designating each service delivery area.
-    (3) Units of general local government (and combinations thereof), business organizations, and other affected persons or organizations shall be given an opportunity to comment on the proposed designation of service delivery areas and to request revisions thereof.
-    (4)      (A) The Governor shall approve any request to be a service delivery area from–
-        (i) any unit of general local government with a population of 200,000 or more;
-        (ii) any consortium of contiguous units of general local government with an aggregate population of 200,000 or more which serves a substantial part of one or more labor market areas; and
-        (iii) any concentrated employment program grantee for a rural area which served as a prime sponsor under the Comprehensive Employment and Training Act.
-      (B) The Governor may approve a request to be a service delivery area from any unit of general local government or consortium of contiguous units of general local government, without regard to population, which serves a substantial portion of a labor market area.
-      (C) If the Governor denies a request submitted under subparagraph (A) and the entity making such request alleges that the decision of the Governor is contrary to the provisions of this section, such entity may appeal the decision to the Secretary, who shall make a final decision within 30 days after such appeal is received.
-  (b) Final designation by Governor
-     The Governor shall make a final designation of service delivery areas within the State. Before making a final designation of service delivery areas for the State, the Governor shall review the comments submitted under subsection (a)(3) of this section and requests submitted under subsection (a)(4) of this section.
-  (c) Redesignations
-    (1) In accordance with subsection (a) of this section, the Governor may redesignate service delivery areas no more frequently than every two years, except as provided for in sections 1516(j)(4)(B) and 1574(b)(1)(B) of this title. Such redesignations shall be made not later than 4 months before the beginning of a program year.
-    (2) Subject to paragraph (1), the Governor shall make such a redesignation if a petition to do so is filed by an entity specified in subsection (a)(4)(A) of this section.
-    (3) The provisions of this subsection are subject to section 1515(c) of this title.
+  (a) Authorization; purposes
+     The Secretary of Energy (hereafter in this chapter referred to as the ””Secretary““) is authorized to make a loan to any person, from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 of this title, to assist such person in undertaking and carrying out a project which (1) is designed to explore for or determine the economic viability of a geothermal reservoir and (2) consists of surface exploration and the drilling of one or more exploratory wells.
+  (b) Repayment rates
+     Subject to subsection (c) of this section and to section 1513(b) of this title, any loan under subsection (a) of this section shall be repayable out of revenue from production of the geothermal energy reservoir with respect to which the loan was made, at a rate, in any year, not to exceed 20 per centum of the gross revenue from the reservoir in that year; except that if any disposition of the geothermal rights to the reservoir is made to one or more other persons by the borrower, the full amount of the loan balance outstanding, or so much of the loan balance outstanding as is equal to the full amount of the compensation realized by the borrower upon such disposition, whichever is less, shall be repaid immediately. In any case where the reservoir is confirmed (as determined by the Secretary), the Secretary may impute a reasonable revenue for purposes of determining repayment if–
+    (1) reasonable efforts are not made to put such reservoir in commercial operation,
+    (2) the borrower (or any such other person) utilizes the resources of the reservoir without a sale of the energy or geothermal energy resources therefrom, or
+    (3) a sale of energy or geothermal energy resources from the reservoir is made for an unreasonably low price;
+       except that no such imputation of revenue shall be made during the three-year period immediately following such reservoir confirmation. In the event of failure to begin production of revenue (or, where no sale of energy or geothermal energy resources is made, to begin production of energy for commercial use) within five years after the date of such reservoir confirmation, the Secretary may take action to recover the value, not to exceed the amount of the unpaid balance of the loan plus any accrued  interest  thereon,  of  any  assets  of  the project in question, including resource rights.
+  (c) Cancellation of unpaid balance and accrued interest
+     The Secretary may at any time cancel the unpaid balance and any accrued interest on any loan made under this section if he determines, on the basis of evidence presented by the loan recipient or otherwise, that the geothermal energy reservoir with respect to which the loan was made has characteristics which make that reservoir economically or technically unacceptable for commercial development.
+  (d) ””Person““ defined
+     As used in this subchapter, the term ””person““ includes municipalities, electric cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the entities included within such term under section 1 of title 1.
