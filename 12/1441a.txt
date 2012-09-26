@@ -65,7 +65,7 @@
         (ii) the undivided profits of such bank accruing after such date.
     (4) Pro rata distribution of 1st $1,000,000,000 invested in Financing Corporation by Home Loan Banks
        Of the first $1,000,000,000 in the aggregate which the Thrift Depositor Protection Oversight Board pursuant to section 1441b of this title or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:
-        h1 h1 j
+        
        T2BankDT2Percentage
        Federal Home Loan Bank of BostonD1.8629
        Federal Home Loan Bank of New YorkD9.1006
@@ -103,7 +103,7 @@
        For purposes of paragraph (3), the term ””undivided profits““ means retained earnings minus the sum of–
       (A) that portion required to be added to reserves maintained pursuant to the first two sentences of section 1436 of this title; and
       (B) the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985, as determined under the following table:
-          h1 h1 j
+          
          T2BankDT2Dollar amount
          Federal Home Loan Bank of BostonD$3.2 million
          Federal Home Loan Bank of New YorkD7.7 million
@@ -150,15 +150,11 @@
     (1) Preenactment assessments
        The Financing Corporation assessments which were assessed on insured institutions pursuant to this section as in effect prior to August 9, 1989.
     (2) New assessment authority
-       To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each Savings Association Insurance Fund member an assessment (in the same manner as assessments are assessed against such members by the Federal Deposit Insurance Corporation under section 1817 of this title), except that–
-      (A) the sum of–
-        (i) the amount assessed under this paragraph; and
-        (ii) the amount assessed by the Funding Corporation under section 1441b of this title;
-       shall not exceed the amount authorized to be assessed against Savings Association Insurance Fund members pursuant to section 1817 of this title;
-      (B) the Financing Corporation shall have first priority to make the assessment; and
-      (C) the amount of the applicable assessment determined under such section 1817 of this title shall be reduced by the sum described in subparagraph (A) of this paragraph.
+       In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 7 of the Federal Deposit Insurance Act [12 U.S.C. 1817]), except that–
+      (A) the assessments imposed on insured depository institutions with respect to any BIF-assessable deposit shall be assessed at a rate equal to \1/5\ of the rate of the assessments imposed on insured depository institutions with respect to any SAIF-assessable deposit; and
+      (B) no limitation under clause (i) or (iii) of section 7(b)(2)(A) of the Federal Deposit Insurance Act [12 U.S.C. 1817(b)(2)(A)] shall apply for purposes of this paragraph.
     (3) Receivership proceeds
-       To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund (established under section 1821a of this title) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
+       To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund (established under section 11A of the Federal Deposit Insurance Act [12 U.S.C. 1821a]) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
   (g) Use and disposition of assets of Financing Corporation not invested in FSLIC
     (1) In general
        Subject to such regulations, restrictions, and limitations as may be prescribed by the Federal Housing Finance Board, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in–
@@ -205,10 +201,15 @@
       (j) Regulations
          The Federal Housing Finance Board may prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations defining terms used in this section.
       (k) Definitions
-         For purposes of this section–
-        (1) Savings Association Insurance Fund member
-           The term ””Savings Association Insurance Fund member““ means a savings association which is a Savings Association Insurance Fund member as defined by section 1817(T3lK) of this title.
-        (2) Directorate
+         For purposes of this section, the following definitions shall apply:
+        (1) Directorate
            The term ””Directorate““ means the directorate established in the manner provided in subsection (b)(1) of this section to manage the Financing Corporation.
-        (3) Net earnings
+        (2) Net earnings
            The term ””net earnings““ means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
+        (3) Insured depository institution
+           The term ””insured depository institution““ has the same meaning as in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813] \3\N
+        (4) Deposit terms
+          (A) BIF-assessable deposits
+             The term ””BIF-assessable deposit““ means a deposit that is subject to assessment for purposes of the Bank Insurance Fund under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.] (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act [12 U.S.C. 1815(d)(3)]).
+          (B) SAIF-assessable deposit
+             The term ””SAIF-assessable deposit““ has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996.

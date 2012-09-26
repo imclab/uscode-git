@@ -3,7 +3,7 @@
       (B) After consultation and in cooperation with the State bank supervisory authorities, the Board may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.
     (2) A branch or agency shall be subject to this subsection only if (A) its parent foreign bank has total worldwide consolidated bank assets in excess of $1,000,000,000; (B) its parent foreign bank is controlled by a foreign company which owns or controls foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000; or (C) its parent foreign bank is controlled by a group of foreign companies that own or control foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000.
   (b) Omitted
-  (c) Examination of branches and agencies by Board
+  (c) Foreign bank examinations and reporting
     (1) Examination of branches, agencies, and affiliates
       (A) In general
          The Board may examine each branch or agency of a foreign bank, each commercial lending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
@@ -12,17 +12,19 @@
            The Board shall coordinate examinations under this paragraph with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and appropriate State bank supervisors to the extent such coordination is possible.
         (ii) Simultaneous examinations
            The Board may request simultaneous examinations of each office of a foreign bank and each affiliate of such bank operating in the United States.
-      (C) Annual on-site examination
-         Each branch or agency of a foreign bank shall be examined at least once during each 12-month period (beginning on the date the most recent examination of such branch or agency ended) in an on-site examination.
+        (iii) Avoidance of duplication
+           In exercising its authority under this paragraph, the Board shall take all reasonable measures to reduce burden and avoid unnecessary duplication of examinations.
+      (C) On-site examination
+         Each Federal branch or agency, and each State branch or agency, of a foreign bank shall be subject to on-site examination by an appropriate Federal banking agency or State bank supervisor as frequently as would a national bank or a State bank, respectively, by the appropriate Federal banking agency.
       (D) Cost of examinations
-         The cost of any examination under subparagraph (A) shall be assessed against and collected from the foreign bank or the foreign company that controls the foreign bank, as the case may be.
+         The cost of any examination under subparagraph (A) shall be assessed against and collected from the foreign bank or the foreign company that controls the foreign bank, as the case may be, only to the same extent that fees are collected by the Board for examination of any State member bank.
     (2) Reporting requirements
        Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposed under section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
   (d) Establishment of foreign bank offices in United States
     (1) Prior approval required
        No foreign bank may establish a branch or an agency, or acquire ownership or control of a commercial lending company, without the prior approval of the Board.
     (2) Required standards for approval
-       The Board may not approve an application under paragraph (1) unless it determines that–
+       Except as provided in paragraph (6), the Board may not approve an application under paragraph (1) unless it determines that–
       (A) the foreign bank engages directly in the business of banking outside of the United States and is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and
       (B) the foreign bank has furnished to the Board the information it needs to adequately assess the application.
     (3) Standards for approval
@@ -34,11 +36,30 @@
     (4) Factor
        In acting on an application under paragraph (1), the Board shall not make the size of the foreign bank the sole determinant factor, and may take into account the needs of the community as well as the length of operation of the foreign bank and its relative size in its home country. Nothing in this paragraph shall affect the ability of the Board to order a State branch, agency, or commercial lending company subsidiary to terminate its activities in the United States pursuant to any standard set forth in this chapter.
     (5) Establishment of conditions
-       Consistent with the standards for approval in paragraph (2), the Board may impose such conditions on its approval under this subsection as it deems necessary.
+       The Board may impose such conditions on its approval under this subsection as it deems necessary.
+    (6) Exception
+      (A) In general
+         If the Board is unable to find, under paragraph (2), that a foreign bank is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country, the Board may nevertheless approve an application by such foreign bank under paragraph (1) if–
+        (i) the appropriate authorities in the home country of the foreign bank are actively working to establish arrangements for the consolidated supervision of such bank; and
+        (ii) all other factors are consistent with approval.
+      (B) Other considerations
+         In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
+      (C) Additional conditions
+         In approving an application under this paragraph, the Board, after requesting and taking into consideration the views of the appropriate State bank supervisor or the Comptroller of the Currency, as the case may be, may impose such conditions or restrictions relating to the activities or business operations of the proposed branch, agency, or commercial lending company subsidiary, including restrictions on sources of funding, as are considered appropriate. The Board shall coordinate with the appropriate State bank supervisor or the Comptroller of the Currency, as appropriate, in the implementation of such conditions or restrictions.
+      (D) Modification of conditions
+         Any condition or restriction imposed by the Board in connection with the approval of an application under authority of this paragraph may be modified or withdrawn.
+    (7) Time period for Board action
+      (A) Final action
+         The Board shall take final action on any application under paragraph (1) not later than 180 days after receipt of the application, except that the Board may extend for an additional 180 days the period within which to take final action on such application after providing notice of, and the reasons for, the extension to the applicant foreign bank and any appropriate State bank supervisor or the Comptroller of the Currency, as appropriate.
+      (B) Failure to submit information
+         The Board may deny any application if it does not receive information requested from the applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit the Board to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).
+      (C) Waiver
+         A foreign bank may waive the applicability of this paragraph with respect to any application under paragraph (1).
   (e) Termination of foreign bank offices in United States
     (1) Standards for termination
        The Board, after notice and opportunity for hearing and notice to any appropriate State bank supervisor, may order a foreign bank that operates a State branch or agency or commercial lending company subsidiary in the United States to terminate the activities of such branch, agency, or subsidiary if the Board finds that–
-      (A) the foreign bank is not subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; or
+      (A)        (i) the foreign bank is not subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and
+        (ii) the appropriate authorities in the home country of the foreign bank are not making demonstrable progress in establishing arrangements for the comprehensive supervision or regulation of such foreign bank on a consolidated basis; or
       (B)        (i) there is reasonable cause to believe that such foreign bank, or any affiliate of such foreign bank, has committed a violation of law or engaged in an unsafe or unsound banking practice in the United States; and
         (ii) as a result of such violation or practice, the continued operation of the foreign bank“s branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this chapter, the Bank Holding Company Act of 1956 [12 U.S.C. 1841 et seq.], or the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.].
        However, in making findings under this paragraph, the Board shall not make size the sole determinant factor, and may take into account the needs of the community as well as the length of operation of the foreign bank and its relative size in its home country. Nothing in this paragraph shall affect the ability of the Board to order a State branch, agency, or commercial lending company subsidiary to terminate its activities in the United States pursuant to any standard set forth in this chapter.

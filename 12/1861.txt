@@ -1,9 +1,18 @@
-  (a) This chapter may be cited as the ””Bank Service Corporation Act““.
-  (b) For the purpose of this chapter–
+  (a) Short title
+     This chapter may be cited as the ””Bank Service Company Act““.
+  (b) Definitions
+     For the purpose of this chapter–
     (1) the term ””appropriate Federal banking agency““ shall have the meaning provided in section 1813(q) of this title;
-    (2) the term ””bank service corporation““ means a corporation organized to perform services authorized by this chapter, all of the capital stock of which is owned by one or more insured banks;
+    (2) the term ””bank service company““ means–
+      (A) any corporation–
+        (i) which is organized to perform services authorized by this chapter; and
+        (ii) all of the capital stock of which is owned by 1 or more insured banks; and
+      (B) any limited liability company–
+        (i) which is organized to perform services authorized by this chapter; and
+        (ii) all of the members of which are 1 or more insured banks.
     (3) the term ””Board““ means the Board of Governors of the Federal Reserve System;
     (4) the term ””depository institution““ means an insured bank, financial institution subject to examination by the Federal Home Loan Bank Board or the National Credit Union Administration Board, or a financial institution the accounts or deposits of which are insured or guaranteed under State law and are eligible to be insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration Board;
     (5) the term ””insured bank““ shall have the meaning provided in section 1813(h) of this title;
-    (6) the term ””invest““ includes any advance of funds to a bank service corporation, whether by the purchase of stock, the making of a loan, or otherwise, except a payment for rent earned, goods sold and delivered, or services rendered prior to the making of such payment; and
-    (7) the term ””principal investor““ means the insured bank that has the largest dollar amount invested in the capital stock of a bank service corporation. In any case where two or more insured banks have equal dollar amounts invested in a bank service corporation, the corporation shall, prior to commencing operations, select one of the insured banks as its principal investor and shall notify the bank“s appropriate Federal banking agency of that choice within 5 business days of its selection.
+    (6) the term ””invest““ includes any advance of funds to a bank service company, whether by the purchase of stock, the making of a loan, or otherwise, except a payment for rent earned, goods sold and delivered, or services rendered prior to the making of such payment;
+    (7) the term ””limited liability company““ means any company, partnership, trust, or similar business entity organized under the law of a State (as defined in section 1813 of this title) which provides that a member or manager of such company is not personally liable for a debt, obligation, or liability of the company solely by reason of being, or acting as, a member or manager of such company; and
+    (8) the term ””principal investor““ means the insured bank that has the largest dollar amount invested in the equity of a bank service company. In any case where two or more insured banks have equal dollar amounts invested in a bank service company, the company shall, prior to commencing operations, select one of the insured banks as its principal investor and shall notify the bank“s appropriate Federal banking agency of that choice within 5 business days of its selection.

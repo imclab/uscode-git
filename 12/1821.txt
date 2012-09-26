@@ -59,15 +59,15 @@
           (I) the conduct of all examinations made pursuant to this subsection; and
           (II) the number, types, and frequency of reports required to be submitted to such agencies and supervisors by insured depository institutions, and the type and amount of information required to be included in such reports; and
         (iv) use copies of reports of examinations of insured depository institutions made by any other Federal banking agency or appropriate State bank supervisor to eliminate duplicative requests for information; and
-      (B) not later than 2 years after September 23, 1994, the Federal banking agencies shall jointly establish and implement a system for determining which one of the Federal banking agencies shall be the lead agency responsible for managing a unified examination of each insured depository institution and its affiliates, as required by this subsection.
+      (B) not later than 2 years after September 23, 1994, the Federal banking agencies shall jointly establish and implement a system for determining which one of the Federal banking agencies or State bank supervisors shall be the lead agency responsible for managing a unified examination of each insured depository institution and its affiliates, as required by this subsection.
     (7) Separate examinations permitted
        Notwithstanding paragraph (6), each appropriate Federal banking agency may conduct a separate examination in an emergency or under other exigent circumstances, or when the agency believes that a violation of law may have occurred.
-    (8) \1\N Report
+    (8) Report
        At the time the system provided for in paragraph (6) is established, the Federal banking agencies shall submit a joint report describing the system to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives. Thereafter, the Federal banking agencies shall annually submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.
-  (8) \1\ Agencies authorized to increase maximum asset amount of institutions for certain purposes
-     At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency“s discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $100,000,000 to an amount not to exceed $175,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
-  (9) Standards for determining adequacy of State examinations
-     The Federal Financial Institutions Examination Council shall issue guidelines establishing standards to be used at the discretion of the appropriate Federal banking agency for purposes of making a determination under paragraph (3).
+    (9) Standards for determining adequacy of State examinations
+       The Federal Financial Institutions Examination Council shall issue guidelines establishing standards to be used at the discretion of the appropriate Federal banking agency for purposes of making a determination under paragraph (3).
+    (10) Agencies authorized to increase maximum asset amount of institutions for certain purposes
+       At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency“s discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $100,000,000 to an amount not to exceed $250,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
   (e) Examination fees
     (1) Regular and special examinations of depository institutions
        The cost of conducting any regular examination or special examination of any depository institution under subsection (b)(2), (b)(3), or (d) of this section may be assessed by the Corporation against the institution to meet the Corporation“s expenses in carrying out such examinations.
@@ -116,3 +116,10 @@
              Not later than 1 year after September 23, 1994, and biennially thereafter for the next 4 years, each appropriate Federal banking agency shall submit a report to the Congress on compliance by insured depository institutions with the requirements of the national flood insurance program.
           (B) Contents
              Each report submitted under this paragraph shall include a description of the methods used to determine compliance, the number of institutions examined during the reporting year, a listing and total number of institutions found not to be in compliance, actions taken to correct incidents of noncompliance, and an analysis of compliance, including a discussion of any trends, patterns, and problems, and recommendations regarding reasonable actions to improve the efficiency of the examinations processes.
+      (j) Consultation among examiners
+        (1) In general
+           Each appropriate Federal banking agency shall take such action as may be necessary to ensure that examiners employed by the agency–
+          (A) consult on examination activities with respect to any depository institution; and
+          (B) achieve an agreement and resolve any inconsistencies in the recommendations to be given to such institution as a consequence of any examinations.
+        (2) Examiner-in-charge
+           Each appropriate Federal banking agency shall consider appointing an examiner-in-charge with respect to a depository institution to ensure consultation on examination activities among all of the examiners of that agency involved in examinations of the institution.

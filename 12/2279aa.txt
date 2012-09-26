@@ -6,7 +6,7 @@
       (ii) consists of a minimum acreage or is used in producing minimum annual receipts, as determined by the Corporation; or
     (B) a principal residence that is a single family, moderate-priced residential dwelling located in a rural area, excluding–
       (i) any community having a population in excess of 2,500 inhabitants; and
-      (ii) any dwelling with a purchase price exceeding $100,000 (as adjusted for inflation).
+      (ii) any dwelling, excluding the land to which the dwelling is affixed, with a value exceeding $100,000 (as adjusted for inflation).
   (2) Board
      The term ””Board““ means–
     (A) the interim board of directors established in section 2279aa–2(a) of this title; and
@@ -14,8 +14,8 @@
      as the case may be.
   (3) Certified facility
      The term ””certified facility““ means–
-    (A) a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title; or
-    (B) the Corporation and any affiliate thereof, but only with respect to qualified loans described in paragraph (9)(B).
+    (A) an agricultural mortgage marketing facility that is certified under section 2279aa–5 of this title; or
+    (B) the Corporation and any affiliate thereof.
   (4) Corporation
      The term ””Corporation““ means the Federal Agricultural Mortgage Corporation established in section 2279aa–1 of this title.
   (5) Guarantee
@@ -34,7 +34,7 @@
         (II) a private corporation or partnership whose members, stockholders, or partners holding a majority interest in the corporation or partnership are individuals described in subclause (I); and
       (iii) of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms; or
     (B) that is the portion of a loan guaranteed by the Secretary of Agriculture pursuant to the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), except that–
-      (i) subsections (b) through (f) of section 2279aa–6 of this title, and sections 2279aa–7, 2279aa–8, and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
+      (i) subsections (b) through (d) of section 2279aa–6 of this title, and sections 2279aa–8 and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
       (ii) the portion of a loan guaranteed by the Secretary shall be considered to meet all standards for qualified loans for all purposes under this chapter.
   (10) State
      The term ””State““ has the meaning given such term in section 2277a of this title.

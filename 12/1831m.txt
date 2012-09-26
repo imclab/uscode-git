@@ -8,7 +8,7 @@
         (ii) an independent public accountant under subsections (c) and (d) of this section; and
       (B) such other information as the Corporation and the appropriate Federal banking agency may determine to be necessary to assess the financial condition and management of the institution.
     (3) Public availability
-       Any annual report required under paragraph (1) shall be available for public inspection.
+       Any annual report required under paragraph (1) shall be available for public inspection. Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.
   (b) Management responsibility for financial statements and internal controls
      Each insured depository institution shall prepare–
     (1) annual financial statements in accordance with generally accepted accounting principles and such other disclosure requirements as the Corporation and the appropriate Federal banking agency may prescribe; and
@@ -34,11 +34,7 @@
       (B) comply with such other disclosure requirements as the Corporation and the appropriate Federal banking agency may prescribe.
     (3) Requirements for insured subsidiaries of holding companies
        The requirements for an independent audit under this subsection may be satisfied for insured depository institutions that are subsidiaries of a holding company by an independent audit of the holding company.
-  (e) Detecting and reporting violations of laws and regulations
-    (1) In general
-       An independent public accountant shall apply procedures agreed upon by the Corporation to objectively determine the extent of the compliance of any insured depository institution or depository institution holding company with laws and regulations designated by the Corporation, in consultation with the appropriate Federal banking agencies.
-    (2) Attestation requirements
-       Any attestation pursuant to paragraph (1) shall be made in accordance with generally accepted standards for attestation engagements.
+  (e) Repealed. Pub. L. 104–208, div. A, title II, § 2301(a), Sept. 30, 1996, 110 Stat. 3009–419
   (f) Form and content of reports and auditing standards
     (1) In general
        The scope of each report by an independent public accountant pursuant to this section, and the procedures followed in preparing such report, shall meet or exceed the scope and procedures required by generally accepted auditing standards and other applicable standards recognized by the Corporation.
@@ -47,7 +43,7 @@
   (g) Improved accountability
     (1) Independent audit committee
       (A) Establishment
-         Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, and who satisfy any specific requirements the Corporation may establish.
+         Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
       (B) Duties
          An independent audit committee“s duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
       (C) Criteria applicable to committees of large insured depository institutions
@@ -55,6 +51,11 @@
         (i) include members with banking or related financial management expertise;
         (ii) have access to the committee“s own outside counsel; and
         (iii) not include any large customers of the institution.
+      (D) Exemption authority
+        (i) In general
+           An appropriate Federal banking agency may, by order or regulation, permit the independent audit committee of an insured depository institution to be made up of less than all, but no fewer than a majority of, outside directors, if the agency determines that the institution has encountered hardships in retaining and recruiting a sufficient number of competent outside directors to serve on the internal audit committee of the institution.
+        (ii) Factors to be considered
+           In determining whether an insured depository institution has encountered hardships referred to in clause (i), the appropriate Federal banking agency shall consider factors such as the size of the institution, and whether the institution has made a good faith effort to elect or name additional competent outside directors to the board of directors of the institution who may serve on the internal audit committee.
     (2) Review of quarterly reports of large insured depository institutions
       (A) In general
          In the case of any insured depository institution which the Corporation has determined to be a large institution, the Corporation may require the independent public accountant retained by such institution to perform reviews of the institution“s quarterly financial reports in accordance with procedures agreed upon by the Corporation.

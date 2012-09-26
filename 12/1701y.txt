@@ -92,7 +92,7 @@
        The Secretary shall select nonprofit organizations to receive assistance under the demonstration program under this subsection based on the experience and ability of the organizations in providing homeownership counseling and their ability to provide community-based prepurchase and foreclosure-prevention counseling under paragraphs (5) and (6) in a counseling target area. To be eligible for selection under this paragraph, a nonprofit organization shall submit an application containing a proposal for providing counseling services in the form and manner required by the Secretary.
     (5) Prepurchase counseling
       (A) Mandatory participation
-         Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (10)(K)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signing of a contract to purchase the home. The counseling shall include counseling with respect to–
+         Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (9)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signing of a contract to purchase the home. The counseling shall include counseling with respect to–
         (i) financial management and the responsibilities involved in homeownership;
         (ii) fair housing laws and requirements;
         (iii) the maximum mortgage amount that the homebuyer can afford; and
@@ -131,19 +131,8 @@
       (E) Designation of control areas
          For purposes of determining the effectiveness of counseling under the demonstration program, the Secretary shall designate 3 control areas, each of which shall correspond to 1 of the counseling target areas designated under subparagraph (A). Each control area shall be located in the metropolitan area in which the corresponding counseling target area is located, shall meet the requirements of subparagraph (B), and shall be similar to such area with respect to size, age of housing stock, median income, and racial makeup of the population. Each control area shall also comply with the requirements of subclause (I) or (II) of subparagraph (B)(iv), according to the subclause with which the corresponding counseling target area complies.
     (8) Evaluation
-       Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General (for purposes of the study and report under paragraph (9)) may require.
-    (9) GAO study and report
-      (A) Study
-         During the 12-month period ending on the termination date under paragraph (13), the Comptroller General of the United States shall conduct a study to assess the effectiveness of the demonstration program and counseling under the program. The study shall include–
-        (i) a comparison of the default and foreclosure rates for each counseling target area and other areas, including each corresponding control area;
-        (ii) a survey of eligible homebuyers and eligible homeowners counseled under the program; and
-        (iii) identification of factors preventing participation in the program for single family home mortgage insurance under the National Housing Act [12 U.S.C. 1701 et seq.] and contributing to default and foreclosure under such program.
-      (B) Report
-         The Comptroller General shall submit to the Committees on Banking, Finance and Urban Affairs and Veterans“ Affairs of the House of Representatives, the Committees on Banking, Housing, and Urban Affairs and Veterans“ Affairs of the Senate, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs, not later than the termination date under paragraph (13), a report regarding the study under subparagraph (A). The report shall include–
-        (i) information describing the results of the activities under clauses (i) through (iii) of such subparagraph;
-        (ii) an assessment of the effectiveness of the counseling under the program in preventing default and foreclosure, based on comparison between counseling target areas and control areas; and
-        (iii) a recommendation of whether a permanent counseling program involving prepurchase counseling or foreclosure-prevention counseling would be effective in reducing defaults and foreclosures on qualified mortgages.
-    (10) Definitions
+       Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General may require.
+    (9) Definitions
        For purposes of this subsection:
       (A) The term ””control area““ means an area designated by the Secretary under paragraph (7)(E).
       (B) The term ””counseling target area““ means an area designated by the Secretary under paragraph (7)(A).
@@ -167,11 +156,11 @@
             (i) is unmarried or legally separated from a spouse; and
             (ii)              (I) has 1 or more minor children for whom the individual has custody or joint custody; or
               (II) is pregnant.
-    (11) Regulations
+    (10) Regulations
        The Secretary may issue any regulations necessary to carry out this subsection.
-    (12) Authorization of appropriations
+    (11) Authorization of appropriations
        There are authorized to be appropriated to carry out this subsection $365,000 for fiscal year 1993 and $380,330 for fiscal year 1994.
-    (13) Termination
+    (12) Termination
        The demonstration program under this subsection shall terminate at the end of fiscal year 1994.
   (e) Certification
     (1) Requirement for assistance

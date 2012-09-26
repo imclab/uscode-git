@@ -1,5 +1,5 @@
    The cities of New York and Chicago are designated as central reserve cities, and the following cities are designated as reserve cities:
-    h1 h1 j
+    
    BostonDIndianapolis
    AlbanyDChicago
    Brooklyn and BronxDPeoria
