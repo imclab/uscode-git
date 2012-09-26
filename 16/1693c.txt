@@ -7,8 +7,11 @@
     (5) the consumer“s right to stop payment of a preauthorized electronic fund transfer and the procedure to initiate such a stop payment order;
     (6) the consumer“s right to receive documentation of electronic fund transfers under section 1693d of this title;
     (7) a summary, in a form prescribed by regulations of the Board, of the error resolution provisions of section 1693f of this title and the consumer“s rights thereunder. The financial institution shall thereafter transmit such summary at least once per calendar year;
-    (8) the financial institution“s liability to the consumer under section 1693h of this title; and
-    (9) under what circumstances the financial institution will in the ordinary course of business disclose information concerning the consumer“s account to third persons.
+    (8) the financial institution“s liability to the consumer under section 1693h of this title;
+    (9) under what circumstances the financial institution will in the ordinary course of business disclose information concerning the consumer“s account to third persons; and
+    (10) a notice to the consumer that a fee may be imposed by–
+      (A) an automated teller machine operator (as defined in section 1693b(d)(3)(D)(i) of this title) if the consumer initiates a transfer from an automated teller machine that is not operated by the person issuing the card or other means of access; and
+      (B) any national, regional, or local network utilized to effect the transaction.
   (b) Notification of changes to consumer
      A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer“s account required to be disclosed under subsection (a) of this section if such change would result in greater cost or liability for such consumer or decreased access to the consumer“s account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer“s account. Subject to subsection (a)(3) of this section, the Board shall require subsequent notification if such a change is made permanent.
   (c) Time for disclosures respecting accounts accessible prior to effective date of this subchapter
