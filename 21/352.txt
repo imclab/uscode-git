@@ -1,19 +1,39 @@
-  (a) Registration
+  (a) Definitions
+     In this section:
+    (1) Bulk vehicle
+       The term ””bulk vehicle““ includes a tank truck, hopper truck, rail tank car, hopper car, cargo tank, portable tank, freight container, or hopper bin, and any other vehicle in which food is shipped in bulk, with the food coming into direct contact with the vehicle.
+    (2) Transportation
+       The term ””transportation““ means any movement in commerce by motor vehicle or rail vehicle.
+  (b) Regulations
+     The Secretary shall by regulation require shippers, carriers by motor vehicle or rail vehicle, receivers, and other persons engaged in the transportation of food to use sanitary transportation practices prescribed by the Secretary to ensure that food is not transported under conditions that may render the food adulterated.
+  (c) Contents
+     The regulations under subsection (b) of this section shall–
+    (1) prescribe such practices as the Secretary determines to be appropriate relating to–
+      (A) sanitation;
+      (B) packaging, isolation, and other protective measures;
+      (C) limitations on the use of vehicles;
+      (D) information to be disclosed–
+        (i) to a carrier by a person arranging for the transport of food; and
+        (ii) to a manufacturer or other person that–
+          (I) arranges for the transportation of food by a carrier; or
+          (II) furnishes a tank vehicle or bulk vehicle for the transportation of food; and
+      (E) recordkeeping; and
+    (2) include–
+      (A) a list of nonfood products that the Secretary determines may, if shipped in a bulk vehicle, render adulterated food that is subsequently transported in the same vehicle; and
+      (B) a list of nonfood products that the Secretary determines may, if shipped in a motor vehicle or rail vehicle (other than a tank vehicle or bulk vehicle), render adulterated food that is simultaneously or subsequently transported in the same vehicle.
+  (d) Waivers
     (1) In general
-       The Secretary shall by regulation require that any facility engaged in manufacturing, processing, packing, or holding food for consumption in the United States be registered with the Secretary. To be registered–
-      (A) for a domestic facility, the owner, operator, or agent in charge of the facility shall submit a registration to the Secretary; and
-      (B) for a foreign facility, the owner, operator, or agent in charge of the facility shall submit a registration to the Secretary and shall include with the registration the name of the United States agent for the facility.
-    (2) Registration
-       An entity (referred to in this section as the ””registrant““) shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations) of any food manufactured, processed, packed, or held at such facility. The registrant shall notify the Secretary in a timely manner of changes to such information.
-    (3) Procedure
-       Upon receipt of a completed registration described in paragraph (1), the Secretary shall notify the registrant of the receipt of such registration and assign a registration number to each registered facility.
-    (4) List
-       The Secretary shall compile and maintain an up-to-date list of facilities that are registered under this section. Such list and any registration documents submitted pursuant to this subsection shall not be subject to disclosure under section 552 of title 5. Information derived from such list or registration documents shall not be subject to disclosure under section 552 of title 5 to the extent that it discloses the identity or location of a specific registered person.
-  (b) Facility
-     For purposes of this section:
-    (1) The term ””facility““ includes any factory, warehouse, or establishment (including a factory, warehouse, or establishment of an importer) that manufactures, processes, packs, or holds food. Such term does not include farms; restaurants; other retail food establishments; nonprofit food establishments in which food is prepared for or served directly to the consumer; or fishing vessels (except such vessels engaged in processing as defined in section 123.3(k) of title 21, Code of Federal Regulations).
-    (2) The term ””domestic facility““ means a facility located in any of the States or Territories.
-    (3)      (A) The term ””foreign facility““ means a facility that manufacturers, processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
-      (B) A food may not be considered to have undergone further processing or packaging for purposes of subparagraph (A) solely on the basis that labeling was added or that any similar activity of a de minimis nature was carried out with respect to the food.
-  (c) Rule of construction
-     Nothing in this section shall be construed to authorize the Secretary to require an application, review, or licensing process.
+       The Secretary may waive any requirement under this section, with respect to any class of persons, vehicles, food, or nonfood products, if the Secretary determines that the waiver–
+      (A) will not result in the transportation of food under conditions that would be unsafe for human or animal health; and
+      (B) will not be contrary to the public interest.
+    (2) Publication
+       The Secretary shall publish in the Federal Register any waiver and the reasons for the waiver.
+  (e) Preemption
+    (1) In general
+       A requirement of a State or political subdivision of a State that concerns the transportation of food is preempted if–
+      (A) complying with a requirement of the State or political subdivision and a requirement of this section, or a regulation prescribed under this section, is not possible; or
+      (B) the requirement of the State or political subdivision as applied or enforced is an obstacle to accomplishing and carrying out this section or a regulation prescribed under this section.
+    (2) Applicability
+       This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b) of this section.
+  (f) Assistance of other agencies
+     The Secretary of Transportation, the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, and the heads of other Federal agencies, as appropriate, shall provide assistance on request, to the extent resources are available, to the Secretary for the purposes of carrying out this section.

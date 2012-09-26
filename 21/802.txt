@@ -105,11 +105,11 @@
       (i) a domestic lawful distribution in the usual course of business between agents or employees of a single regulated person;
       (ii) a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage or storage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with section 830 of this title;
       (iii) any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II of this chapter;
-      (iv) any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) unless–
-        (I)          (aa) the drug contains ephedrine or its salts, optical isomers, or salts of optical isomers, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996); or
-          (bb) the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
-        (II) the quantity of ephedrine, pseudoephedrine, phenylpropanolamine, or other listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 9 grams of pseudoephedrine or 9 grams of phenylpropanolamine in a single transaction and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base; or
-      (v) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
+      (iv) any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.], subject to clause (v), unless–
+        (I) the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
+        (II) the quantity of the listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General;
+      (v) any transaction in a scheduled listed chemical product that is a sale at retail by a regulated seller or a distributor required to submit reports under section 830(b)(3) of this title; or
+      (vi) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
     (B) a distribution, importation, or exportation of a tableting machine or encapsulating machine.
   (40) The term ””chemical mixture““ means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
   (41)    (A) The term ””anabolic steroid““ means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes–
@@ -138,7 +138,7 @@
       (xiv) fluoxymesterone (9-fluoro-17G6T1aK-methyl-11G6T1bK,17G6T1bK-dihydroxyandrost-4-en-3-one);
       (xv) formebolone (2-formyl-17G6T1aK-methyl-11G6T1aK,17G6T1bK-dihydroxyandrost-1,4-dien-3-one);
       (xvi) furazabol (17G6T1aK-methyl-17G6T1bK-hydroxyandrostano[2,3-c]-furazan);
-      (xvii) 13G6T1bK-ethyl-17G6T1aK-hydroxygon-4-en-3-one;
+      (xvii) 13G6T1bK-ethyl-17G6T1bK-hydroxygon-4-en-3-one;
       (xviii) 4-hydroxytestosterone (4,17G6T1bK-dihydroxy-androst-4-en-3-one);
       (xix) 4-hydroxy-19-nortestosterone (4,17G6T1bK-dihydroxy-estr-4-en-3-one);
       (xx) mestanolone (17G6T1aK-methyl-17G6T1bK-hydroxy-5G6T1aK-androstan-3-one);
@@ -171,7 +171,7 @@
   (xli) oxandrolone (17G6T1aK-methyl-17G6T1bK-hydroxy-2-oxa-[5G6T1aK]-androstan-3-one);
   (xlii) oxymesterone (17G6T1aK-methyl-4,17G6T1bK-dihydroxyandrost-4-en-3-one);
   (xliii) oxymetholone (17G6T1aK-methyl-2-hydroxymethylene-17G6T1bK-hydroxy-[5G6T1aK]-androstan-3-one);
-  (xliv) stanozolol (17G6T1aK-methyl-17G6T1aK-hydroxy-[5G6T1aK]-androst-2-eno[3,2-c]-pyrazole);
+  (xliv) stanozolol (17G6T1aK-methyl-17G6T1bK-hydroxy-[5G6T1aK]-androst-2-eno[3,2-c]-pyrazole);
   (xlv) stenbolone (17G6T1bK-hydroxy-2-methyl-[5G6T1aK]-androst-1-en-3-one);
   (xlvi) testolactone (13-hydroxy-3-oxo-13,17-secoandrosta-1,4-dien-17-oic acid lactone);
   (xlvii) testosterone (17G6T1bK-hydroxyandrost-4-en-3-one);
@@ -187,13 +187,16 @@
     (B) serving as an agent or intermediary; or
     (C) bringing together a buyer and seller, a buyer and transporter, or a seller and transporter.
   (44) The term ””felony drug offense““ means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, anabolic steroids, or depressant or stimulant substances.
-  (45) The term ””ordinary over-the-counter pseudoephedrine or phenylpropanolamine product““ means any product containing pseudoephedrine or phenylpropanolamine that is–
-    (A) regulated pursuant to this subchapter; and
-    (B)      (i) except for liquids, sold in package sizes of not more than 3.0 grams of pseudoephedrine base or 3.0 grams of phenylpropanolamine base, and that is packaged in blister packs, each blister containing not more than two dosage units, or where the use of blister packs is technically infeasible, that is packaged in unit dose packets or pouches; and
-      (ii) for liquids, sold in package sizes of not more than 3.0 grams of pseudoephedrine base or 3.0 grams of phenylpropanolamine base.
-  (46)    (A) The term ””retail distributor““ means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to pseudoephedrine or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
-    (B) For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.
-    (C) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
+  (45)    (A) The term ””scheduled listed chemical product““ means, subject to subparagraph (B), a product that–
+      (i) contains ephedrine, pseudoephedrine, or phenylpropanolamine; and
+      (ii) may be marketed or distributed lawfully in the United States under the Federal, Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] as a nonprescription drug.
+         Each reference in clause (i) to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
+    (B) Such term does not include a product described in subparagraph (A) if the product contains a chemical specified in such subparagraph that the Attorney General has under section 811(a) of this title added to any of the schedules under section 812(c) of this title. In the absence of such scheduling by the Attorney General, a chemical specified in such subparagraph may not be considered to be a controlled substance.
+  (46) The term ””regulated seller““ means a retail distributor (including a pharmacy or a mobile retail vendor), except that such term does not include an employee or agent of such distributor.
+  (47) The term ””mobile retail vendor““ means a person or entity that makes sales at retail from a stand that is intended to be temporary, or is capable of being moved from one location to another, whether the stand is located within or on the premises of a fixed facility (such as a kiosk at a shopping center or an airport) or whether the stand is located on unimproved real estate (such as a lot or field leased for retail purposes).
+  (48) The term ””at retail““, with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
+  (49)    (A) The term ””retail distributor““ means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
+    (B) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
       (i) A grocery store is an entity within SIC code 5411.
       (ii) A general merchandise store is an entity within SIC codes 5300 through 5399 and 5499.
       (iii) A drug store is an entity within SIC code 5912.
