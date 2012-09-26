@@ -1,9 +1,9 @@
   (a) Approved expenditures
-     The Secretary is authorized to expend funds which are appropriated under the authority of subsection (h) of this section, through the Service, for the purposes of–
-    (1) raising the health status of Indians to zero deficiency,
+     The Secretary is authorized to expend funds which are appropriated under the authority of this section, through the Service, for the purposes of–
+    (1) eliminating the deficiencies in health status and resources of all Indian tribes,
     (2) eliminating backlogs in the provision of health care services to Indians,
     (3) meeting the health needs of Indians in an efficient and equitable manner, and
-    (4) augmenting the ability of the Service to meet the following health service responsibilities with respect to those Indian tribes with the highest levels of health resources deficiency:
+    (4) augmenting the ability of the Service to meet the following health service responsibilities, either through direct or contract care or through contracts entered into pursuant to the Indian Self-Determination Act [25 U.S.C. 450f et seq.], with respect to those Indian tribes with the highest levels of health status and resource deficiencies:
       (A) clinical care (direct and indirect) including clinical eye and vision care;
       (B) preventive health, including screening mammography in accordance with section 1621k of this title;
       (C) dental care (direct and indirect);
@@ -15,27 +15,18 @@
       (I) community health representatives; and
       (J) maintenance and repair.
   (b) Effect on other appropriations; allocation to service units
-    (1) Any funds appropriated under the authority of subsection (h) of this section shall not be used to offset or limit any appropriations made to the Service under section 13 of this title, or any other provision of law.
-    (2) Funds which are appropriated under the authority of subsection (h) of this section may be allocated to, or used for the benefit of, any Indian tribe which has a health resources deficiency level at level I or II only if a sufficient amount of funds have been appropriated under the authority of subsection (h) of this section to raise all Indian tribes to health resources deficiency level II.
-    (3)      (A) Funds appropriated under the authority of subsection (h) of this section may be allocated on a service unit basis but such allocation shall be made in a manner which ensures that the requirement of paragraph (2) is met. The funds allocated to each service unit under this subparagraph shall be used by the service unit (in accordance with paragraph (2)) to raise the deficiency level of each tribe served by such service unit.
-      (B) The apportionment of funds allocated to a service unit under subparagraph (A) among the health service responsibilities described in subsection (a)(4) of this section shall be determined by the Service in consultation with the affected Indian tribes.
+    (1) Any funds appropriated under the authority of this section shall not be used to offset or limit any appropriations made to the Service under section 13 of this title, or any other provision of law.
+    (2)      (A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each service unit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
+      (B) The apportionment of funds allocated to a service unit under subparagraph (A) among the health service responsibilities described in subsection (a)(4) of this section shall be determined by the Service in consultation with, and with the active participation of, the affected Indian tribes.
   (c) Health resources deficiency levels
      For purposes of this section–
-    (1) The health resources deficiency levels of an Indian tribe are as follows:
-      (A) level I–0 to 20 percent health resources deficiency;
-      (B) level II–21 to 40 percent health resources deficiency;
-      (C) level III–41 to 60 percent health resources deficiency;
-      (D) level IV–61 to 80 percent health resources deficiency; and
-      (E) level V–81 to 100 percent health resources deficiency.
-    (2) The term ””health resources deficiency““ means a percentage determined by dividing–
-      (A) the excess, if any, of–
-        (i) the value of the health resources that the Indian tribe needs, over
-        (ii) the value of the health resources available to the Indian tribe, by
-      (B) the value of the health resources that the Indian tribe needs.
-    (3) The health resources available to an Indian tribe include health resources provided by the Service as well as health resources used by the Indian tribe, including services and financing systems provided by any Federal programs, private insurance, and programs of State or local governments.
-    (4) Under regulations, the Secretary shall establish procedures which allow any Indian tribe to petition the Secretary for a review of any determination of the health resources deficiency level of such tribe.
+    (1) The term ””health status and resource deficiency““ means the extent to which–
+      (A) the health status objectives set forth in section 1602(b) of this title are not being achieved; and
+      (B) the Indian tribe does not have available to it the health resources it needs, taking into account the actual cost of providing health care services given local geographic, climatic, rural, or other circumstances.
+    (2) The health resources available to an Indian tribe include health resources provided by the Service as well as health resources used by the Indian tribe, including services and financing systems provided by any Federal programs, private insurance, and programs of State or local governments.
+    (3) The Secretary shall establish procedures which allow any Indian tribe to petition the Secretary for a review of any determination of the extent of the health status and resource deficiency of such tribe.
   (d) Programs administered by Indian tribe
-    (1) Programs administered by any Indian tribe or tribal organization under the authority of the Indian Self-Determination Act [25 U.S.C. 450f et seq.] shall be eligible for funds appropriated under the authority of subsection (h) of this section on an equal basis with programs that are administered directly by the Service.
+    (1) Programs administered by any Indian tribe or tribal organization under the authority of the Indian Self-Determination Act [25 U.S.C. 450f et seq.] shall be eligible for funds appropriated under the authority of this section on an equal basis with programs that are administered directly by the Service.
     (2) If any funds allocated to a tribe or service unit under the authority of this section are used for a contract entered into under the Indian Self-Determination Act, a reasonable portion of such funds may be used for health planning, training, technical assistance, and other administrative support functions.
   (e) Report to Congress
      By no later than the date that is 3 years after October 29, 1992, the Secretary shall submit to the Congress the current health status and resource deficiency report of the Service for each Indian tribe or service unit, including newly recognized or acknowledged tribes. Such report shall set out–
@@ -46,9 +37,8 @@
       (A) the amount of health service funds appropriated under the authority of this chapter, or any other Act, including the amount of any funds transferred to the Service, for the preceding fiscal year which is allocated to each service unit, Indian tribe, or comparable entity;
       (B) the number of Indians eligible for health services in each service unit or Indian tribe; and
       (C) the number of Indians using the Service resources made available to each service unit or Indian tribe.
-  (f) Statement for Presidential budget
-    (1) The President shall include with the budget submitted to the Congress under section 1105 of title 31 for each fiscal year a separate statement which specifies the amount of funds requested to carry out the provisions of this section for such fiscal year.
-    (2) Funds appropriated under authority of this section for any fiscal year shall be included in the base budget of the Service for the purpose of determining appropriations under this section in subsequent fiscal years.
+  (f) Appropriated funds included in base budget of Service
+     Funds appropriated under authority of this section for any fiscal year shall be included in the base budget of the Service for the purpose of determining appropriations under this section in subsequent fiscal years.
   (g) Continuation of Service responsibilities for backlogs and parity
      Nothing in this section is intended to diminish the primary responsibility of the Service to eliminate existing backlogs in unmet health care needs, nor are the provisions of this section intended to discourage the Service from undertaking additional efforts to achieve parity among Indian tribes.
   (h) Authorization of appropriations
