@@ -80,7 +80,7 @@
              The term ””blackout period““ means, in connection with an individual account plan, any period for which any ability of participants or beneficiaries under the plan, which is otherwise available under the terms of such plan, to direct or diversify assets credited to their accounts, to obtain loans from the plan, or to obtain distributions from the plan is temporarily suspended, limited, or restricted, if such suspension, limitation, or restriction is for any period of more than 3 consecutive business days.
           (B) Exclusions
              The term ””blackout period““ does not include a suspension, limitation, or restriction–
-            (i) which occurs by reason of the application of the securities laws (as defined in section 78c(a)(47) of title 15,\2\N
+            (i) which occurs by reason of the application of the securities laws (as defined in section 78c(a)(47) of title 15),
             (ii) which is a change to the plan which provides for a regularly scheduled suspension, limitation, or restriction which is disclosed to participants or beneficiaries through any summary of material modifications, any materials describing specific investment alternatives under the plan, or any changes thereto, or
             (iii) which applies only to 1 or more individuals, each of whom is the participant, an alternate payee (as defined in section 1056(d)(3)(K) of this title), or any other beneficiary pursuant to a qualified domestic relations order (as defined in section 1056(d)(3)(B)(i) of this title).
         (8) Individual account plan
@@ -90,7 +90,7 @@
              For purposes of subparagraph (A), the term ””one-participant retirement plan““ means a retirement plan that–
             (i) on the first day of the plan year–
               (I) covered only the employer (and the employer“s spouse) and the employer owned the entire business (whether or not incorporated), or
-              (II) covered only one or more partners (and their spouses) in a business partnership (including partners in an S or C corporation (as defined in section 1361(a) of title 26),\3\N
+              (II) covered only one or more partners (and their spouses) in a business partnership (including partners in an S or C corporation (as defined in section 1361(a) of title 26)),
             (ii) meets the minimum coverage requirements of section 410(b) of title 26 (as in effect on July 30, 2002) without being combined with any other plan of the business that covers the employees of the business,
             (iii) does not provide benefits to anyone except the employer (and the employer“s spouse) or the partners (and their spouses),
             (iv) does not cover a business that is a member of an affiliated service group, a controlled group of corporations, or a group of businesses under common control, and
