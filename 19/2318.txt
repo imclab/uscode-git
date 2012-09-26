@@ -16,7 +16,7 @@
       (B) Individual eligibility
          A worker in a group of workers described in subparagraph (A) may elect to receive benefits described in paragraph (2) under the program established under paragraph (1) if the worker–
         (i) is at least 50 years of age;
-        (ii) earns not more than $55,000 each year in wages from reemployment;
+        (ii) earns not more than $50,000 each year in wages from reemployment;
         (iii)          (I) is employed on a full-time basis as defined by the law of the State in which the worker is employed and is not enrolled in a training program approved under section 2296 of this title; or
           (II) is employed at least 20 hours per week and is enrolled in a training program approved under section 2296 of this title; and
         (iv) is not employed at the firm from which the worker was separated.
@@ -30,11 +30,11 @@
     (5) Total amount of payments
       (A) In general
          The payments described in paragraph (2)(A) made to a worker may not exceed–
-        (i) $12,000 per worker during the eligibility period under paragraph (4)(A); or
+        (i) $10,000 per worker during the eligibility period under paragraph (4)(A); or
         (ii) the amount described in subparagraph (B) per worker during the eligibility period under paragraph (4)(B).
       (B) Amount described
          The amount described in this subparagraph is the amount equal to the product of–
-        (i) $12,000, and
+        (i) $10,000, and
         (ii) the ratio of–
           (I) the total number of weeks in the eligibility period under paragraph (4)(B) with respect to the worker, to
           (II) 104 weeks.
@@ -51,6 +51,6 @@
        A worker described in paragraph (3)(B) may not receive a trade readjustment allowance under division I of subpart B pursuant to the certification described in paragraph (3)(A) during any week for which the worker receives a payment described in paragraph (2)(A).
   (b) Termination
     (1) In general
-       Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after February 12, 2011.
+       Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after December 31, 2013.
     (2) Exception
        Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) of this section on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3) of this section.

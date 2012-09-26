@@ -11,24 +11,33 @@
       (D) The average time for processing such petitions.
     (2) Data on benefits received
       (A) The number of workers receiving benefits under this part.
-      (B) The number of workers receiving each type of benefit, including training, trade readjustment allowances, employment and case management services, and relocation and job search allowances, and, to the extent feasible, credits for health insurance costs under section 35 of title 26.
+      (B) The number of workers receiving each type of benefit, including training, trade readjustment allowances (including such allowances classified by payments under paragraphs (1) and (3) of section 2293(a) of this title, and section 2293(f) of this title, respectively) and payments under section 2318 of this title, employment and case management services, and relocation and job search allowances, and, to the extent feasible, credits for health insurance costs under section 35 of title 26.
       (C) The average time during which such workers receive each such type of benefit.
+      (D) The average number of weeks trade readjustment allowances were paid to workers.
+      (E) The number of workers who report that they have received benefits under a prior certification issued under this part in any of the 10 fiscal years preceding the fiscal year for which the data is collected under this section.
     (3) Data on training
-      (A) The number of workers enrolled in training approved under section 2296 of this title, classified by major types of training, including classroom training, training through distance learning, on-the-job training, and customized training.
-      (B) The number of workers enrolled in full-time training and part-time training.
-      (C) The average duration of training.
+      (A) The number of workers enrolled in training approved under section 2296 of this title, classified by major types of training, including classroom training, training through distance learning, training leading to an associate“s degree, remedial education, prerequisite education, on-the-job training, and customized training.
+      (B) The number of workers who complete training approved under section 2296 of this title who were enrolled in pre-layoff training or part-time training at any time during that training.
+      (C) The average duration of training, and the average duration of training that does not include remedial or prerequisite education.
       (D) The number of training waivers granted under section 2291(c) of this title, classified by type of waiver.
-      (E) The number of workers who complete training and the duration of such training.
-      (F) The number of workers who do not complete training.
+      (E) The number of workers who complete training and the average duration of such training.
+      (F) The number of workers who do not complete training and the average duration of the training that was completed by such workers.
     (4) Data on outcomes
       (A) A summary of the quarterly reports required under section 2311(j) of this title.
-      (B) The sectors in which workers are employed after receiving benefits under this part.
+      (B) A summary of the data on workers in the quarterly reports required under section 2311(j) of this title classified by the age, pre-program educational level, and post-program credential attainment of the workers.
+      (C) The average earnings of workers described in section 2311(j)(2)(A)(i) of this title in the second, third, and fourth calendar quarters following the calendar quarter in which such workers cease receiving benefits under this part, expressed as a percentage of the average earnings of such workers in the 3 calendar quarters before the calendar quarter in which such workers began receiving benefits under this part.
+      (D) The sectors in which workers are employed after receiving benefits under this part.
     (5) Data on rapid response activities
        Whether rapid response activities were provided with respect to each petition filed under section 2271 of this title.
+    (6) Data on spending
+      (A) The total amount of funds used to pay for trade readjustment allowances, in the aggregate and by each State.
+      (B) The total amount of the payments to the States to carry out sections 2295 through 2298 of this title used for training, in the aggregate and for each State.
+      (C) The total amount of payments to the States to carry out sections 2295 through 2298 of this title used for the costs of administration, in the aggregate and for each State.
+      (D) The total amount of payments to the States to carry out sections 2295 through 2298 of this title used for job search and relocation allowances, in the aggregate and for each State.
   (c) Classification of data
      To the extent possible, in collecting and reporting the data described in subsection (b), the Secretary shall classify the data by industry, State, and national totals.
   (d) Report
-     Not later than December 15 of each year, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that includes–
+     Not later than February 15 of each year, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that includes–
     (1) a summary of the information collected under this section for the preceding fiscal year;
     (2) information on the distribution of funds to each State pursuant to section 2296(a)(2) of this title; and
     (3) any recommendations of the Secretary with respect to changes in eligibility requirements, benefits, or training funding under this part based on the data collected under this section.
