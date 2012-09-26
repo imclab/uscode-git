@@ -19,58 +19,136 @@
        A State agency shall provide a description of how the public assistance recipients in the program shall, within a specific period of time, be moved from supplemented or supported employment to employment that is not supplemented or supported.
     (6) Displacement
        A work supplementation or support program shall not displace the employment of individuals who are not supplemented or supported.
-  (c) Payment error improvement system; purposes, establishment, definitions, implementation, etc.
-    (1) The program authorized under this chapter shall include a system that enhances payment accuracy by establishing fiscal incentives that require State agencies with high error rates to share in the cost of payment error and provide enhanced administrative funding to States with the lowest error rates. Under such system–
-      (A) the Secretary shall adjust a State agency“s federally funded share of administrative costs pursuant to subsection (a) of this section, other than the costs already shared in excess of 50 percent under the proviso in the first sentence of subsection (a) of this section or under subsection (g) of this section, by increasing such share of all such administrative costs by one percentage point to a maximum of 60 percent of all such administrative costs for each full one-tenth of a percentage point by which the payment error rate is less than 6 percent, except that only States whose rate of invalid decisions in denying eligibility is less than a nationwide percentage that the Secretary determines to be reasonable shall be entitled to the adjustment prescribed in this subsection;
-      (B) the Secretary shall foster management improvements by the States by requiring State agencies other than those receiving adjustments under subparagraph (A) to develop and implement corrective action plans to reduce payment errors; and
-      (C) for any fiscal year in which a State agency“s payment error rate exceeds the national performance measure for payment error rates announced under paragraph (6), other than for good cause shown, the State agency shall pay to the Secretary an amount equal to–
-        (i) \2\N the product of–
-          (I) the value of all allotments issued by the State agency in the fiscal year; times
-          (II) the lesser of–
-            (aa) the ratio of–
-              (aaa) the amount by which the payment error rate of the State agency for the fiscal year exceeds the national performance measure for the fiscal year; to
-              (bbb) the national performance measure for the fiscal year, or
-            (bb) 1; times
-          (III) the amount by which the payment error rate of the State agency for the fiscal year exceeds the national performance measure for the fiscal year.
-       The amount of liability shall not be affected by corrective action under subparagraph (B).
-    (2) As used in this section–
+  (c) Quality control system
+    (1) In general
+      (A) System
+         In carrying out the food stamp program, the Secretary shall carry out a system that enhances payment accuracy and improves administration by establishing fiscal incentives that require State agencies with high payment error rates to share in the cost of payment error.
+      (B) Adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003
+        (i) In general
+           Subject to clause (ii), with respect to any fiscal year before fiscal year 2003, the Secretary shall adjust a State agency“s federally funded share of administrative costs under subsection (a) of this section, other than the costs already shared in excess of 50 percent under the proviso in the first sentence of subsection (a) of this section or under subsection (g) of this section, by increasing that share of all such administrative costs by 1 percentage point to a maximum of 60 percent of all such administrative costs for each full \1/10\ of a percentage point by which the payment error rate is less than 6 percent.
+        (ii) Limitation
+           Only States with a rate of invalid decisions in denying eligibility that is less than a nationwide percentage that the Secretary determines to be reasonable shall be entitled to the adjustment under clause (i).
+      (C) Establishment of liability amount for fiscal year 2003 and thereafter
+         With respect to fiscal year 2004 and any fiscal year thereafter for which the Secretary determines that, for the second or subsequent consecutive fiscal year, a 95 percent statistical probability exists that the payment error rate of a State agency exceeds 105 percent of the national performance measure for payment error rates announced under paragraph (6), the Secretary shall establish an amount for which the State agency may be liable (referred to in this paragraph as the ””liability amount““) that is equal to the product obtained by multiplying–
+        (i) the value of all allotments issued by the State agency in the fiscal year;
+        (ii) the difference between–
+          (I) the payment error rate of the State agency; and
+          (II) 6 percent; and
+        (iii) 10 percent.
+      (D) Authority of Secretary with respect to liability amount
+         With respect to the liability amount established for a State agency under subparagraph (C) for any fiscal year, the Secretary shall–
+        (i)          (I) waive the responsibility of the State agency to pay all or any portion of the liability amount established for the fiscal year (referred to in this paragraph as the ””waiver amount““);
+          (II) require that a portion, not to exceed 50 percent, of the liability amount established for the fiscal year be used by the State agency for new investment, approved by the Secretary, to improve administration by the State agency of the food stamp program (referred to in this paragraph as the ””new investment amount““), which new investment amount shall not be matched by Federal funds;
+          (III) designate a portion, not to exceed 50 percent, of the amount established for the fiscal year for payment to the Secretary in accordance with subparagraph (E) (referred to in this paragraph as the ””at-risk amount““); or
+          (IV) take any combination of the actions described in subclauses (I) through (III); or
+        (ii) make the determinations described in clause (i) and enter into a settlement with the State agency, only with respect to any waiver amount or new investment amount, before the end of the fiscal year in which the liability amount is determined under subparagraph (C).
+      (E) Payment of at-risk amount for certain States
+        (i) In general
+           A State agency shall pay to the Secretary the at-risk amount designated under subparagraph (D)(i)(III) for any fiscal year in accordance with clause (ii), if, with respect to the immediately following fiscal year, a liability amount has been established for the State agency under subparagraph (C).
+        (ii) Method of payment of at-risk amount
+          (I) Remission to the Secretary
+             In the case of a State agency required to pay an at-risk amount under clause (i), as soon as practicable after completion of all administrative and judicial reviews with respect to that requirement to pay, the chief executive officer of the State shall remit to the Secretary the at-risk amount required to be paid.
+          (II) Alternative method of collection
+            (aa) In general
+               If the chief executive officer of the State fails to make the payment under subclause (I) within a reasonable period of time determined by the Secretary, the Secretary may reduce any amount due to the State agency under any other provision of this section by the amount required to be paid under clause (i).
+            (bb) Accrual of interest
+               During any period of time determined by the Secretary under item (aa), interest on the payment under subclause (I) shall not accrue under section 2022(a)(2) of this title.
+      (F) Use of portion of liability amount for new investment
+        (i) Reduction of other amounts due to State agency
+           In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that has not been used in accordance with that requirement.
+        (ii) Effect of State agency“s wholly prevailing on appeal
+           If a State agency begins required new investment under subparagraph (D)(i)(II), the State agency appeals the liability amount of the State agency, and the determination by the Secretary of the liability amount is reduced to $0 on administrative or judicial review, the Secretary shall pay to the State agency an amount equal to 50 percent of the new investment amount that was included in the liability amount subject to the appeal.
+        (iii) Effect of Secretary“s wholly prevailing on appeal
+           If a State agency does not begin required new investment under subparagraph (D)(i)(II), the State agency appeals the liability amount of the State agency, and the determination by the Secretary of the liability amount is wholly upheld on administrative or judicial review, the Secretary shall–
+          (I) require all or any portion of the new investment amount to be used by the State agency for new investment, approved by the Secretary, to improve administration by the State agency of the food stamp program, which amount shall not be matched by Federal funds; and
+          (II) require payment of any remaining portion of the new investment amount in accordance with subparagraph (E)(ii).
+        (iv) Effect of neither party“s wholly prevailing on appeal
+           The Secretary shall promulgate regulations regarding obligations of the Secretary and the State agency in a case in which the State agency appeals the liability amount of the State agency and neither the Secretary nor the State agency wholly prevails.
+      (G) Corrective action plans
+         The Secretary shall foster management improvements by the States by requiring State agencies, other than State agencies with payment error rates of less than 6 percent, to develop and implement corrective action plans to reduce payment errors.
+    (2) Error rate definitions
+       As used in this section–
       (A) the term ””payment error rate““ means the sum of the point estimates of an overpayment error rate and an underpayment error rate determined by the Secretary from data collected in a probability sample of participating households;
       (B) the term ””overpayment error rate““ means the percentage of the value of all allotments issued in a fiscal year by a State agency that are either–
         (i) issued to households that fail to meet basic program eligibility requirements; or
         (ii) overissued to eligible households; and
       (C) the term ””underpayment error rate““ means the ratio of the value of allotments underissued to recipient households to the total value of allotments issued in a fiscal year by a State agency.
-    (3) The following errors may be measured for management purposes but shall not be included in the payment error rate:
+    (3) Exclusions
+       The following errors may be measured for management purposes but shall not be included in the payment error rate:
       (A) Any errors resulting in the application of new regulations promulgated under this chapter during the first 120 days from the required implementation date for such regulations.
       (B) Errors resulting from the use by a State agency of correctly processed information concerning households or individuals received from Federal agencies or from actions based on policy information approved or disseminated, in writing, by the Secretary or the Secretary“s designee.
-    (4) The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency“s payment error rate, enhanced administrative funding, or claim for payment error, under this subsection. If a State agency fails to meet the reporting requirements established by the Secretary, the Secretary shall base the determination on all pertinent information available to the Secretary.
-    (5) To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year. The Secretary shall initiate efforts to collect the amount owed by the State agency as a claim established under paragraph (1)(C) for a fiscal year, subject to the conclusion of any formal or informal appeal procedure and administrative or judicial review under section 2023 of this title (as provided for in paragraph (7)), before the end of the fiscal year following such fiscal year.
-    (6) At the time the Secretary makes the notification to State agencies of their error rates and incentive payments or claims pursuant to paragraphs (1)(A) and (1)(C), the Secretary shall also announce a national performance measure that shall be the sum of the products of each State agency“s error rate as developed for the notifications under paragraph (5) times that State agency“s proportion of the total value of national allotments issued for the fiscal year using the most recent issuance data available at the time of the notifications issued pursuant to paragraph (5). Where a State fails to meet reporting requirements pursuant to paragraph (4), the Secretary may use another measure of a State“s error developed pursuant to paragraph (5), to develop the national performance measure. The announced national performance measure shall be used in determining the State share of the cost of payment error under paragraph (1)(C) for the fiscal year whose error rates are being announced under paragraph (5).
-    (7) If the Secretary asserts a financial claim against a State agency under paragraph (1)(C), the State may seek administrative and judicial review of the action pursuant to section 2023 of this title.
-    (8)      (A) This paragraph applies to the determination of whether a payment is due by a State agency for a fiscal year under paragraph (1)(C).
-      (B) Not later than 180 days after the end of the fiscal year, the case review and all arbitrations of State-Federal difference cases shall be completed.
-      (C) Not later than 30 days thereafter, the Secretary shall–
-        (i) determine final error rates, the national average payment error rate, and the amounts of payment claimed against State agencies; and
-        (ii) notify State agencies of the payment claims.
-      (D) A State agency desiring to appeal a payment claim determined under subparagraph (C) shall submit to an administrative law judge–
-        (i) a notice of appeal, not later than 10 days after receiving a notice of the claim; and
-        (ii) evidence in support of the appeal of the State agency, not later than 60 days after receiving a notice of the claim.
+    (4) Reporting requirements
+       The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency“s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section. If a State agency fails to meet the reporting requirements established by the Secretary, the Secretary shall base the determination on all pertinent information available to the Secretary.
+    (5) Procedures
+       To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency“s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section. The Secretary shall initiate efforts to collect the amount owed by the State agency as a claim established under paragraph (1) for a fiscal year, subject to the conclusion of any formal or informal appeal procedure and administrative or judicial review under section 2023 of this title (as provided for in paragraph (7)), before the end of the fiscal year following such fiscal year.
+    (6) National performance measure for payment error rates
+      (A) Announcement
+         At the time the Secretary makes the notification to State agencies of their error rates, the Secretary shall also announce a national performance measure that shall be the sum of the products of each State agency“s error rate as developed for the notifications under paragraph (8) times that State agency“s proportion of the total value of national allotments issued for the fiscal year using the most recent issuance data available at the time of the notifications issued pursuant to paragraph (8).
+      (B) Use of alternative measure of State error
+         Where a State fails to meet reporting requirements pursuant to paragraph (4), the Secretary may use another measure of a State“s error developed pursuant to paragraph (5), to develop the national performance measure.
+      (C) Use of national performance measure
+         The announced national performance measure shall be used in determining the liability amount of a State under paragraph (1)(C) for the fiscal year whose error rates are being announced under paragraph (8).
+      (D) No administrative or judicial review
+         The national performance measure announced under this paragraph shall not be subject to administrative or judicial review.
+    (7) Administrative and judicial review
+      (A) In general
+         Except as provided in subparagraphs (B) and (C), if the Secretary asserts a financial claim against or establishes a liability amount with respect to a State agency under paragraph (1), the State may seek administrative and judicial review of the action pursuant to section 2023 of this title.
+      (B) Determination of payment error rate
+         With respect to any fiscal year, a determination of the payment error rate of a State agency or a determination whether the payment error rate exceeds 105 percent of the national performance measure for payment error rates shall be subject to administrative or judicial review only if the Secretary establishes a liability amount with respect to the fiscal year under paragraph (1)(C).
+      (C) Authority of Secretary with respect to liability amount
+         An action by the Secretary under subparagraph (D) or (F)(iii) of paragraph (1) shall not be subject to administrative or judicial review.
+    (8) Criteria for payment by a State agency
+      (A) This paragraph applies to the determination of whether a payment is due by a State agency for a fiscal year under paragraph (1).
+      (B) Not later than the first May 31 after the end of the fiscal year referred to in subparagraph (A), the case review and all arbitrations of State-Federal difference cases shall be completed.
+      (C) Not later than the first June 30 after the end of the fiscal year referred to in subparagraph (A), the Secretary shall–
+        (i) determine final error rates, the national average payment error rate, and the amounts of payment claimed against State agencies or liability amount established with respect to State agencies;
+        (ii) notify State agencies of the payment claims or liability amounts; and
+        (iii) provide a copy of the document providing notification under clause (ii) to the chief executive officer and the legislature of the State.
+      (D) A State agency desiring to appeal a payment claim or liability amount determined under subparagraph (C) shall submit to an administrative law judge–
+        (i) a notice of appeal, not later than 10 days after receiving a notice of the claim or liability amount; and
+        (ii) evidence in support of the appeal of the State agency, not later than 60 days after receiving a notice of the claim or liability amount.
       (E) Not later than 60 days after a State agency submits evidence in support of the appeal, the Secretary shall submit responsive evidence to the administrative law judge to the extent such evidence exists.
       (F) Not later than 30 days after the Secretary submits responsive evidence, the State agency shall submit rebuttal evidence to the administrative law judge to the extent such evidence exists.
       (G) The administrative law judge, after an evidentiary hearing, shall decide the appeal–
         (i) not later than 60 days after receipt of rebuttal evidence submitted by the State agency; or
         (ii) if the State agency does not submit rebuttal evidence, not later than 90 days after the State agency submits the notice of appeal and evidence in support of the appeal.
-      (H) In considering a claim under this paragraph, the administrative law judge shall consider all grounds for denying the claim, in whole or in part, including the contention of a State agency that the claim should be waived, in whole or in part, for good cause.
+      (H) In considering a claim or liability amount under this paragraph, the administrative law judge shall consider all grounds for denying the claim or liability amount, in whole or in part, including the contention of a State agency that the claim or liability amount should be waived, in whole or in part, for good cause.
         (I) The deadlines in subparagraphs (D), (E), (F), and (G) shall be extended by the administrative law judge for cause shown.
-    (9) As used in this subsection, the term ””good cause““ includes–
+    (9) ””Good cause““ defined
+       As used in this subsection, the term ””good cause““ includes–
       (A) a natural disaster or civil disorder that adversely affects food stamp program operations;
       (B) a strike by employees of a State agency who are necessary for the determination of eligibility and processing of case changes under the food stamp program;
       (C) a significant growth in food stamp caseload in a State prior to or during a fiscal year, such as a 15 percent growth in caseload;
       (D) a change in the food stamp program or other Federal or State program that has a substantial adverse impact on the management of the food stamp program of a State; and
       (E) a significant circumstance beyond the control of the State agency.
-  (d) Assessment and evaluation of payment error improvement system
-     The Secretary shall undertake the following studies of the payment error improvement system established under subsection (c) of this section:
-    (1) An assessment of the feasibility of measuring payment errors due to improper denials and terminations of benefits or otherwise developing performance standards with financial consequences for improper denials and terminations, including incorporation in subsection (c) of this section. The Secretary shall report the results of such study and the recommendations of the Secretary to the Congress by July 1, 1990.
-    (2) An evaluation of the effectiveness of the system of program improvement initiated under this section that shall be reported to the Congress along with the Secretary“s recommendations no later than 3 years from September 19, 1988.
+  (d) Bonuses for States that demonstrate high or most improved performance
+    (1) Fiscal years 2003 and 2004
+      (A) Guidance
+         With respect to fiscal years 2003 and 2004, the Secretary shall establish, in guidance issued to State agencies not later than October 1, 2002–
+        (i) performance criteria relating to–
+          (I) actions taken to correct errors, reduce rates of error, and improve eligibility determinations; and
+          (II) other indicators of effective administration determined by the Secretary; and
+        (ii) standards for high and most improved performance to be used in awarding performance bonus payments under subparagraph (B)(ii).
+      (B) Performance bonus payments
+         With respect to each of fiscal years 2003 and 2004, the Secretary shall–
+        (i) measure the performance of each State agency with respect to the criteria established under subparagraph (A)(i); and
+        (ii) subject to paragraph (3), award performance bonus payments in the following fiscal year, in a total amount of $48,000,000 for each fiscal year, to State agencies that meet standards for high or most improved performance established by the Secretary under subparagraph (A)(ii).
+    (2) Fiscal years 2005 and thereafter
+      (A) Regulations
+         With respect to fiscal year 2005 and each fiscal year thereafter, the Secretary shall–
+        (i) establish, by regulation, performance criteria relating to–
+          (I) actions taken to correct errors, reduce rates of error, and improve eligibility determinations; and
+          (II) other indicators of effective administration determined by the Secretary;
+        (ii) establish, by regulation, standards for high and most improved performance to be used in awarding performance bonus payments under subparagraph (B)(ii); and
+        (iii) before issuing proposed regulations to carry out clauses (i) and (ii), solicit ideas for performance criteria and standards for high and most improved performance from State agencies and organizations that represent State interests.
+      (B) Performance bonus payments
+         With respect to fiscal year 2005 and each fiscal year thereafter, the Secretary shall–
+        (i) measure the performance of each State agency with respect to the criteria established under subparagraph (A)(i); and
+        (ii) subject to paragraph (3), award performance bonus payments in the following fiscal year, in a total amount of $48,000,000 for each fiscal year, to State agencies that meet standards for high or most improved performance established by the Secretary under subparagraph (A)(ii).
+    (3) Prohibition on receipt of performance bonus payments
+       A State agency shall not be eligible for a performance bonus payment with respect to any fiscal year for which the State agency has a liability amount established under subsection (c)(1)(C) of this section.
+    (4) Payments not subject to judicial review
+       A determination by the Secretary whether, and in what amount, to award a performance bonus payment under this subsection shall not be subject to administrative or judicial review.
   (e) Use of social security account numbers; access to information
      The Secretary and State agencies shall (1) require, as a condition of eligibility for participation in the food stamp program, that each household member furnish to the State agency their social security account number (or numbers, if they have more than one number), and (2) use such account numbers in the administration of the food stamp program. The Secretary and State agencies shall have access to the information regarding individual food stamp program applicants and participants who receive benefits under title XVI of the Social Security Act [42 U.S.C. 1381 et seq.] that has been provided to the Commissioner of Social Security, but only to the extent that the Secretary and the Commissioner of Social Security determine necessary for purposes of determining or auditing a household“s eligibility to receive assistance or the amount thereof under the food stamp program, or verifying information related thereto.
   (f) Payment of certain legal fees
@@ -94,27 +172,23 @@
         (vi) for fiscal year 2001–
           (I) $88,000,000; and
           (II) an additional amount of $131,000,000; and
-        (vii) for fiscal year 2002–
-          (I) $90,000,000; and
-          (II) an additional amount of $75,000,000.
-      (B) T4Allocation.–
-        (i) T4Allocation formulaK.–The Secretary shall allocate the amounts reserved under subparagraph (A) among the State agencies using a reasonable formula, as determined and adjusted by the Secretary each fiscal year, to reflect–
-          (I) changes in each State“s caseload (as defined in section 2015(T3oK)(6)(A) of this title);
-          (II) for fiscal year 1998, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(T3oK)(3) of this title; and
-          (III) for each of fiscal years 1999 through 2002, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(T3oK)(3) of this title and who–
-            (aa) do not reside in an area subject to a waiver granted by the Secretary under section 2015(T3oK)(4) of this title; or
-            (bb) do reside in an area subject to a waiver granted by the Secretary under section 2015(T3oK)(4) of this title, if the State agency provides employment and training services in the area to food stamp recipients who are not eligible for an exception under section 2015(T3oK)(3) of this title.
-        (ii) T4Estimated factorsK.–The Secretary shall estimate the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(T3oK)(3) of this title based on the survey conducted to carry out subsection (c) of this section for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
-        (iii) T4Reporting requirementK.–A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
+        (vii) for each of fiscal years 2002 through 2007, $90,000,000.
+      (B) T4AllocationK.–Funds made available under subparagraph (A) shall be made available to and reallocated among State agencies under a reasonable formula that–
+        (i) is determined and adjusted by the Secretary; and
+        (ii) takes into account the number of individuals who are not exempt from the work requirement under section 2015(T3oK) of this title.
       (C) T4ReallocationK.–If a State agency will not expend all of the funds allocated to the State agency for a fiscal year under subparagraph (B), the Secretary shall reallocate the unexpended funds to other States (during the fiscal year or the subsequent fiscal year) as the Secretary considers appropriate and equitable.
       (D) T4Minimum allocationK.–Notwithstanding subparagraph (B), the Secretary shall ensure that each State agency operating an employment and training program shall receive not less than $50,000 for each fiscal year.
-      (E) T4Use of fundsK.–Of the amount of funds a State agency receives under subparagraphs (A) through (D) for a fiscal year, not less than 80 percent of the funds shall be used by the State agency during the fiscal year to serve food stamp recipients who–
-        (i) are not eligible for an exception under section 2015(T3oK)(3) of this title; and
-        (ii) are placed in and comply with a program described in subparagraph (B) or (C) of section 2015(T3oK)(2) of this title.
-      (F) T4Maintenance of effortK.–To receive an allocation of an additional amount made available under subclause (II) of each of clauses (iii) through (vii) of subparagraph (A), a State agency shall maintain the expenditures of the State agency for employment and training programs and workfare programs for any fiscal year under paragraph (2), and administrative expenses described in section 2029(g)(1) of this title, at a level that is not less than the level of the expenditures by the State agency to carry out the programs and such expenses for fiscal year 1996.
-      (G) T4Component costsK.–The Secretary shall monitor State agencies“ expenditure of funds for employment and training programs provided under this paragraph, including the costs of individual components of State agencies“ programs. The Secretary may determine the reimbursable costs of employment and training components, and, if the Secretary makes such a determination, the Secretary shall determine that the amounts spent or planned to be spent on the components reflect the reasonable cost of efficiently and economically providing components appropriate to recipient employment and training needs, taking into account, as the Secretary deems appropriate, prior expenditures on the components, the variability of costs among State agencies“ components, the characteristics of the recipients to be served, and such other factors as the Secretary considers necessary.
+      (E) T4Additional allocations for states that ensure availability of work opportunities.–
+        (i) T4In generalK.–In addition to the allocations under subparagraph (A), from funds made available under section 2027(a)(1) of this title, the Secretary shall allocate not more than $20,000,000 for each of fiscal years 2002 through 2007 to reimburse a State agency that is eligible under clause (ii) for the costs incurred in serving food stamp recipients who–
+          (I) are not eligible for an exception under section 2015(T3oK)(3) of this title; and
+          (II) are placed in and comply with a program described in subparagraph (B) or (C) of section 2015(T3oK)(2) of this title.
+        (ii) T4EligibilityK.–To be eligible for an additional allocation under clause (i), a State agency shall make and comply with a commitment to offer a position in a program described in subparagraph (B) or (C) of section 2015(T3oK)(2) of this title to each applicant or recipient who–
+          (I) is in the last month of the 3-month period described in section 2015(T3oK)(2) of this title;
+          (II) is not eligible for an exception under section 2015(T3oK)(3) of this title;
+          (III) is not eligible for a waiver under section 2015(T3oK)(4) of this title; and
+          (IV) is not exempt under section 2015(T3oK)(6) of this title.
     (2) If, in carrying out such program during such fiscal year, a State agency incurs costs that exceed the amount allocated to the State agency under paragraph (1), the Secretary shall pay such State agency an amount equal to 50 per centum of such additional costs, subject to the first limitation in paragraph (3), including the costs for case management and casework to facilitate the transition from economic dependency to self-sufficiency through work.
-    (3) The Secretary shall also reimburse each State agency in an amount equal to 50 per centum of the total amount of payments made or costs incurred by the State agency in connection with transportation costs and other expenses reasonably necessary and directly related to participation in an employment and training program under section 2015(d)(4) of this title, except that such total amount shall not exceed an amount representing $25 per participant per month for costs of transportation and other actual costs (other than dependent care costs) and an amount equal to the payment made under section 2015(d)(4)(I)(i)(II) of this title but not more than the applicable local market rate, and such reimbursement shall not be made out of funds allocated under paragraph (1).
+    (3) The Secretary shall also reimburse each State agency in an amount equal to 50 per centum of the total amount of payments made or costs incurred by the State agency in connection with transportation costs and other expenses reasonably necessary and directly related to participation in an employment and training program under section 2015(d)(4) of this title, except that the amount of the reimbursement for dependent care expenses shall not exceed an amount equal to the payment made under section 2015(d)(4)(I)(i)(II) of this title but not more than the applicable local market rate, and such reimbursement shall not be made out of funds allocated under paragraph (1).
     (4) Funds provided to a State agency under this subsection may be used only for operating an employment and training program under section 2015(d)(4) of this title, and may not be used for carrying out other provisions of this chapter.
     (5) The Secretary shall monitor the employment and training programs carried out by State agencies under section 2015(d)(4) of this title to measure their effectiveness in terms of the increase in the numbers of household members who obtain employment and the numbers of such members who retain such employment as a result of their participation in such employment and training programs.
       (i) Geographical error-prone profiles
@@ -137,11 +211,11 @@
           (B) the annualized amount the State would have received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as so in effect)), section 1903(a)(7) of the Social Security Act (42 U.S.C. 1396b(a)(7) (as so in effect)), and subsection (a) of this section (as so in effect), for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDC program, the food stamp program, and the medicaid program, if those costs had been allocated equally among such programs for which the individual, family, or household was eligible or applied for.
         (3) Reduction in payment
           (A) In general
-             Notwithstanding any other provision of this section, effective for each of fiscal years 1999 through 2002, the Secretary shall reduce, for each fiscal year, the amount paid under subsection (a) of this section to each State by an amount equal to the amount determined for the food stamp program under paragraph (2)(B). The Secretary shall, to the extent practicable, make the reductions required by this paragraph on a quarterly basis.
+             Notwithstanding any other provision of this section, effective for each of fiscal years 1999 through 2007, the Secretary shall reduce, for each fiscal year, the amount paid under subsection (a) of this section to each State by an amount equal to the amount determined for the food stamp program under paragraph (2)(B). The Secretary shall, to the extent practicable, make the reductions required by this paragraph on a quarterly basis.
           (B) Application
              If the Secretary of Health and Human Services does not make the determinations required by paragraph (2) by September 30, 1999–
             (i) during the fiscal year in which the determinations are made, the Secretary shall reduce the amount paid under subsection (a) of this section to each State by an amount equal to the sum of the amounts determined for the food stamp program under paragraph (2)(B) for fiscal year 1999 through the fiscal year during which the determinations are made; and
-            (ii) for each subsequent fiscal year through fiscal year 2002, subparagraph (A) applies.
+            (ii) for each subsequent fiscal year through fiscal year 2007, subparagraph (A) applies.
         (4) Appeal of determinations
           (A) In general
              Not later than 5 days after the date on which the Secretary of Health and Human Services makes any determination required by paragraph (2) with respect to a State, the Secretary shall notify the chief executive officer of the State of the determination.

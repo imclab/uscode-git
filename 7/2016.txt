@@ -28,16 +28,15 @@
             (ii) the need to permit interstate operation and law enforcement monitoring; and
             (iii) the need to permit monitoring and investigations by authorized law enforcement agencies.
         (2) The Secretary shall issue final regulations that establish standards for the approval of such a system. The standards shall include–
-          (A) determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;
-          (B) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
-          (C) the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
-          (D)            (i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
+          (A) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
+          (B) the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
+          (C)            (i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
             (ii) effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;
-          (E) system transaction interchange, reliability, and processing speeds;
-          (F) financial accountability;
-          (G) the required testing of system operations prior to implementation;
-          (H) the analysis of the results of system implementation in a limited project area prior to expansion; and
-            (I) procurement standards.
+          (D) system transaction interchange, reliability, and processing speeds;
+          (E) financial accountability;
+          (F) the required testing of system operations prior to implementation;
+          (G) the analysis of the results of system implementation in a limited project area prior to expansion; and
+          (H) procurement standards.
         (3) In the case of a system described in paragraph (1) in which participation is not optional for households, the Secretary shall not approve such a system unless–
           (A) a sufficient number of eligible retail food stores, including those stores able to serve minority language populations, have agreed to participate in the system throughout the area in which it will operate to ensure that eligible households will not suffer a significant reduction in their choice of retail food stores or a significant increase in the cost of food or transportation to participating food stores; and
           (B) any special equipment necessary to allow households to purchase food with the benefits issued under this chapter is operational–

@@ -29,18 +29,17 @@
     (3) The term ””commission merchant““ means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
     (4) The term ””effective financing statement““ means a statement that–
       (A) is an original or reproduced copy of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
-      (B) other than in the case of an electronically reproduced copy of the statement, is signed and filed with the Secretary of State of a State by the secured party;
-      (C) other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;
-      (D) contains,
+      (B) other than in the case of an electronically reproduced copy of the statement, is signed, authorized, or otherwise authenticated by the debtor, and filed with the Secretary of State of a State by the secured party;
+      (C) contains,
         (i) the name and address of the secured party;
         (ii) the name and address of the person indebted to the secured party;
-        (iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor;
-        (iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable; and a reasonable description of the property, including \3\N county or parish in which the property is located;
-      (E) must be amended in writing, within 3 months, similarly signed and filed, to reflect material changes;
-      (F) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
-      (G) lapses on either the expiration of the effective period of the statement or the filing of a notice signed by the secured party that the statement has lapsed, whichever occurs first;
-      (H) is accompanied by the requisite filing fee set by the Secretary of State; and
-        (I) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
+        (iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+        (iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
+      (D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
+      (E) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
+      (F) lapses on either the expiration of the effective period of the statement or the filing of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first;
+      (G) is accompanied by the requisite filing fee set by the Secretary of State; and
+      (H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
     (5) The term ””farm product““ means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
     (6) The term ””knows““ or ””knowledge““ means actual knowledge.
     (7) The term ””security interest““ means an interest in farm products that secures payment or performance of an obligation.
@@ -57,18 +56,18 @@
         (ii) contains,
           (I) the name and address of the secured party;
           (II) the name and address of the person indebted to the secured party;
-          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor;
-          (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, crop year, county or parish, and a reasonable description of the property; and
-        (iii) must be amended in writing, within 3 months, similarly signed and transmitted, to reflect material changes;
-        (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed by the secured party that the statement has lapsed, whichever occurs first; and
-        (v) any \4\N payment obligations imposed on the buyer by the secured party as conditions for waiver or release of the security interest; and
+          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+          (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
+        (iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
+        (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
+        (v) contains any payment obligations imposed on the buyer by the secured party as conditions for waiver or release of the security interest; and
       (B) the buyer has failed to perform the payment obligations, or
     (2) in the case of a farm product produced in a State that has established a central filing system–
       (A) the buyer has failed to register with the Secretary of State of such State prior to the purchase of farm products; and
       (B) the secured party has filed an effective financing statement or notice that covers the farm products being sold; or
     (3) in the case of a farm product produced in a State that has established a central filing system, the buyer–
-      (A) receives from the Secretary of State of such State written notice as provided in subparagraph \5\N (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm product being sold by such seller as being subject to an effective financing statement or notice; and
-      (B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise; and \6\N
+      (A) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm product being sold by such seller as being subject to an effective financing statement or notice; and
+      (B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
   (f) Law governing ””receipt““
      What constitutes receipt, as used in this section, shall be determined by the law of the State in which the buyer resides.
   (g) Commission merchants or selling agents: sales free of or subject to security interest; law governing ””receipt““
@@ -79,11 +78,11 @@
         (ii) contains,
           (I) the name and address of the secured party;
           (II) the name and address of the person indebted to the secured party;
-          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor;
-          (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, county or parish, and a reasonable description of the property, etc.; and
-        (iii) must be amended in writing, within 3 months, similarly signed and transmitted, to reflect material changes;
-        (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed by the secured party that the statement has lapsed, whichever occurs first; and
-        (v) any \7\N payment obligations imposed on the commission merchant or selling agent by the secured party as conditions for waiver or release of the security interest; and
+          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+          (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
+        (iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
+        (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
+        (v) contains any payment obligations imposed on the commission merchant or selling agent by the secured party as conditions for waiver or release of the security interest; and
       (B) the commission merchant or selling agent has failed to perform the payment obligations;
       (C) in the case of a farm product produced in a State that has established a central filing system–
         (i) the commission merchant or selling agent has failed to register with the Secretary of State of such State prior to the purchase of farm products; and

@@ -26,7 +26,7 @@
           (II)            (aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, will have members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
             (bb) in the case of a loan made to a corporation, has stockholders, all of whom are qualified beginning farmers or ranchers;
       (E) who agrees to participate in such loan assessment, borrower training, and financial management programs as the Secretary may require;
-      (F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 25 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
+      (F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
       (G) who demonstrates that the available resources of the applicant and spouse (if any) of the applicant are not sufficient to enable the applicant to continue farming or ranching on a viable scale.
     (12) T4Debt forgiveness.–
       (A) T4In generalK.–Except as provided in subparagraph (B), the term ””debt forgiveness““ means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through–
@@ -34,7 +34,21 @@
         (ii) compromising, adjusting, reducing, or charging-off a debt or claim under section 1981 of this title;
         (iii) paying a loss on a guaranteed loan under section 2005 of this title; or
         (iv) discharging a debt as a result of bankruptcy.
-      (B) T4Loan restructuringK.–The term ””debt forgiveness““ does not include consolidation, rescheduling, reamortization, or deferral.
+      (B) T4ExceptionsK.–The term ””debt forgiveness““ does not include–
+        (i) consolidation, rescheduling, reamortization, or deferral of a loan; or
+        (ii) any write-down provided as part of a resolution of a discrimination complaint against the Secretary.
+    (13) T4Rural and rural area.–
+      (A) T4In generalK.–Except as otherwise provided in this paragraph, the terms ””rural““ and ””rural area““ mean any area other than–
+        (i) a city or town that has a population of greater than 50,000 inhabitants; and
+        (ii) the urbanized area contiguous and adjacent to such a city or town.
+      (B) T4Water and waste disposal grants and direct and guaranteed loansK.–For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms ””rural““ and ””rural area““ mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
+      (C) T4Community facility loans and grantsK.–For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms ””rural““ and ””rural area““ mean a city, town, or unincorporated area that has a population of not more than 20,000 inhabitants.
+      (D) T4Multijurisdictional regional planning organizations; national rural development partnershipK.–In sections 1926(a)(23) and 2008m of this title, the term ””rural area““ means–
+        (i) all the territory of a State that is not within the boundary of any standard metropolitan statistical area; and
+        (ii) all territory within any standard metropolitan statistical area within a census tract having a population density of less than 20 persons per square mile, as determined by the Secretary according to the most recent census of the United States as of any date.
+      (E) T4Rural business investment programK.–In subchapter VIII of this chapter, the term ””rural area““ means an area that is located–
+        (i) outside a standard metropolitan statistical area; or
+        (ii) within a community that has a population of 50,000 inhabitants or less.
   (b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
     (1) The term ””borrower““ means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
     (2) The term ””loan service program““ means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.

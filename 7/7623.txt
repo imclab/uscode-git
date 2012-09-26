@@ -14,16 +14,18 @@
       (H) a precision agriculture partnership referred to in subsection (g) of this section.
     (3) Precision agriculture
        The term ””precision agriculture““ means an integrated information- and production-based farming system that is designed to increase long-term, site-specific, and whole farm production efficiencies, productivity, and profitability while minimizing unintended impacts on wildlife and the environment by–
-      (A) combining agricultural sciences, agricultural inputs and practices, agronomic production databases, and precision agriculture technologies to efficiently manage agronomic and livestock production systems;
+      (A) combining agricultural sciences, agricultural inputs and practices, agronomic production databases, and precision agriculture technologies to efficiently manage agronomic, horticultural, and livestock production systems;
       (B) gathering on-farm information pertaining to the variation and interaction of site-specific spatial and temporal factors affecting crop and livestock production;
-      (C) integrating such information with appropriate data derived from field scouting, remote sensing, and other precision agriculture technologies in a timely manner in order to facilitate on-farm decisionmaking; or
-      (D) using such information to prescribe and deliver site-specific application of agricultural inputs and management practices in agricultural production systems.
+      (C) integrating such information with appropriate data derived from field scouting, remote sensing, and other precision agriculture technologies in a timely manner in order to facilitate on-farm decisionmaking;
+      (D) using such information to prescribe and deliver site-specific application of agricultural inputs and management practices in agricultural production systems; or
+      (E) using such information to enable intelligent mechanized harvesting and sorting systems for horticultural crops.
     (4) Precision agriculture technologies
        The term ””precision agriculture technologies““ includes–
       (A) instrumentation and techniques ranging from sophisticated sensors and software systems to manual sampling and data collection tools that measure, record, and manage spatial and temporal data;
       (B) technologies for searching out and assembling information necessary for sound agricultural production decisionmaking;
-      (C) open systems technologies for data networking and processing that produce valued systems for farm management decisionmaking; or
-      (D) machines that deliver information-based management practices.
+      (C) open systems technologies for data networking and processing that produce valued systems for farm management decisionmaking;
+      (D) machines that deliver information-based management practices; or
+      (E) robotic and other intelligent machines for use in horticultural cropping systems.
     (5) Systems research
        The term ””systems research““ means an integrated, coordinated, and iterative investigative process that involves–
       (A) the multiple interacting components and aspects of precision agriculture systems, including synthesis of new knowledge regarding the physical-chemical-biological processes and complex interactions of the systems with cropping, livestock production practices, and natural resource systems;
@@ -31,7 +33,7 @@
       (C) data and information collection and interpretation;
       (D) production-scale planning;
       (E) production-scale implementation; and
-      (F) farm production efficiencies, productivity, and profitability.
+      (F) farm production efficiencies (including improved use of energy inputs), productivity, and profitability.
   (b) Grants authorized
     (1) In general
        The Secretary of Agriculture may make competitive grants, for periods not to exceed 5 years, to eligible entities to conduct research, education, or information dissemination projects for the development and advancement of precision agriculture.
@@ -42,7 +44,7 @@
   (c) Purposes of projects
      A research, education, or information dissemination project supported by a grant under this section shall address 1 or more of the following purposes:
     (1) The study and promotion of components of precision agriculture technologies using a systems research approach designed to increase long-term site-specific and whole-farm production efficiencies, productivity, and profitability.
-    (2) The improvement in the understanding of agronomic systems, including, soil, water, land cover (including grazing land), pest management systems, and meteorological variability.
+    (2) The improvement in the understanding of agronomic or horticultural systems, including, soil, water, land cover (including grazing land), pest management systems, product variability, and meteorological variability.
     (3) The provision of training and educational programs for State cooperative extension services agents, and other professionals involved in the production and transfer of integrated precision agriculture technology.
     (4) The development, demonstration, and dissemination of information regarding precision agriculture technologies and systems and the potential costs and benefits of precision agriculture as it relates to–
       (A) increased long-term farm production efficiencies, productivity, and profitability;
@@ -56,8 +58,9 @@
     (1) Evaluate the use of precision agriculture technologies using a systems research approach to increase long-term site-specific and whole-farm production efficiencies, productivity, and profitability.
     (2) Integrate research, education, and information dissemination components in a practical and readily available manner so that the findings of the project will be made readily usable by agricultural producers.
     (3) Demonstrate the efficient use of agricultural inputs, rather than the uniform reduction in the use of agricultural inputs.
-    (4) Maximize the involvement and cooperation of precision agriculture producers, certified crop advisers, State cooperative extension services agents, agricultural input machinery, product and service providers, nonprofit organizations, agribusinesses, veterinarians, land-grant colleges and universities, and Federal agencies in precision agriculture systems research projects involving on-farm research, education, and dissemination of precision agriculture information.
-    (5) Maximize collaboration with multiple agencies and other partners, including through leveraging of funds and resources.
+    (4) Improve farm energy use efficiencies.
+    (5) Maximize the involvement and cooperation of precision agriculture producers, certified crop advisers, State cooperative extension services agents, agricultural input machinery, product and service providers, nonprofit organizations, agribusinesses, veterinarians, land-grant colleges and universities, and Federal agencies in precision agriculture systems research projects involving on-farm research, education, and dissemination of precision agriculture information.
+    (6) Maximize collaboration with multiple agencies and other partners, including through leveraging of funds and resources.
   (e) Matching funds
      The amount of a grant under this section to an eligible entity (other than a Federal agency) may not exceed the amount that the eligible entity makes available out of non-Federal funds for precision agriculture research and for the establishment and maintenance of facilities necessary for conducting precision agriculture research.
   (f) Reservation of funds for education and information dissemination projects
@@ -70,7 +73,7 @@
      A grant made under this section may not be used for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
     (i) Authorization of appropriations
       (1) In general
-         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002, of which, for each fiscal year–
+         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007, of which, for each fiscal year–
         (A) not less than 30 percent shall be available to make grants for research to be conducted by multidisciplinary teams; and
         (B) not less than 40 percent shall be available to make grants for research to be conducted by eligible entities conducting systems research directly applicable to producers and agricultural production systems.
       (2) Availability of funds
