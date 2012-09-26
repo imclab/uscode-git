@@ -26,8 +26,9 @@
   (e) T4Notices of Intent To Enforce a Restored Copyright.–
     (1) T4Notices of intent filed with the copyright officeK.–(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the ””owner““), or by the owner“s agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
   (ii) If a work in which copyright is restored has no formal title, it shall be described in the notice of intent in detail sufficient to identify it.
-  (iii) Minor errors or omissions may be corrected by further notice at any time after the notice of intent is filed. Notices of corrections for such minor errors or omissions shall be accepted after the period established in subsection (d)(2)(A)(i). Notices shall be published in the Federal Register pursuant to subparagraph (B).I12(B)(i) The Register of Copyrights shall publish in the Federal Register, commencing not later than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
-  (ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
+  (iii) Minor errors or omissions may be corrected by further notice at any time after the notice of intent is filed. Notices of corrections for such minor errors or omissions shall be accepted after the period established in subsection (d)(2)(A)(i). Notices shall be published in the Federal Register pursuant to subparagraph (B).
+  (B)    (i) The Register of Copyrights shall publish in the Federal Register, commencing not later than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
+    (ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
   (C) The Register of Copyrights is authorized to fix reasonable fees based on the costs of receipt, processing, recording, and publication of notices of intent to enforce a restored copyright and corrections thereto.
   (D)    (i) Not later than 90 days before the date the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, the Copyright Office shall issue and publish in the Federal Register regulations governing the filing under this subsection of notices of intent to enforce a restored copyright.
     (ii) Such regulations shall permit owners of restored copyrights to file simultaneously for registration of the restored copyright.
@@ -43,16 +44,20 @@
        The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under such a proclamation.
   (h) T4DefinitionsK.–For purposes of this section and section 109(a):
     (1) The term ””date of adherence or proclamation““ means the earlier of the date on which a foreign nation which, as of the date the WTO Agreement enters into force with respect to the United States, is not a nation adhering to the Berne Convention or a WTO member country, becomes–
-      (A) a nation adhering to the Berne Convention or a WTO member country; or
-      (B) subject to a Presidential proclamation under subsection (g).
+      (A) a nation adhering to the Berne Convention;
+      (B) a WTO member country;
+      (C) a nation adhering to the WIPO Copyright Treaty;
+      (D) a nation adhering to the WIPO Performances and Phonograms Treaty; or
+      (E) subject to a Presidential proclamation under subsection (g).
     (2) The ””date of restoration““ of a restored copyright is–
       (A) January 1, 1996, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date, or
       (B) the date of adherence or proclamation, in the case of any other source country of the restored work.
     (3) The term ””eligible country““ means a nation, other than the United States, that–
       (A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
-      (B) on such date of enactment is, or after such date of enactment becomes, a member of the Berne Convention; or
-      (C) after such date of enactment becomes subject to a proclamation under subsection (g).
-     For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.
+      (B) on such date of enactment is, or after such date of enactment becomes, a nation adhering to the Berne Convention;
+      (C) adheres to the WIPO Copyright Treaty;
+      (D) adheres to the WIPO Performances and Phonograms Treaty; or
+      (E) after such date of enactment becomes subject to a proclamation under subsection (g).
     (4) The term ””reliance party““ means any person who–
       (A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if the restored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
       (B) before the source country of a particular work becomes an eligible country, makes or acquires 1 or more copies or phonorecords of that work; or
@@ -72,9 +77,8 @@
     (8) The ””source country““ of a restored work is–
       (A) a nation other than the United States;
       (B) in the case of an unpublished work–
-        (i) the eligible country in which the author or rightholder is a national or domiciliary, or, if a restored work has more than 1 author or rightholder, the majority of foreign authors or rightholders are nationals or domiciliaries of eligible countries; or
+        (i) the eligible country in which the author or rightholder is a national or domiciliary, or, if a restored work has more than 1 author or rightholder, of which the majority of foreign authors or rightholders are nationals or domiciliaries; or
         (ii) if the majority of authors or rightholders are not foreign, the nation other than the United States which has the most significant contacts with the work; and
       (C) in the case of a published work–
         (i) the eligible country in which the work is first published, or
         (ii) if the restored work is published on the same day in 2 or more eligible countries, the eligible country which has the most significant contacts with the work.
-    (9) The terms ””WTO Agreement““ and ””WTO member country““ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
