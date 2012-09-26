@@ -51,10 +51,10 @@
      For purposes of this section–
     (1) Exemption amount for taxpayers other than corporations
        In the case of a taxpayer other than a corporation, the term ””exemption amount““ means–
-      (A) $45,000 ($70,950 in the case of taxable years beginning in 2009) in the case of–
+      (A) $45,000 ($72,450 in the case of taxable years beginning in 2010 and $74,450 in the case of taxable years beginning in 2011) in the case of–
         (i) a joint return, or
         (ii) a surviving spouse,
-      (B) $33,750 ($46,700 in the case of taxable years beginning in 2009) in the case of an individual who–
+      (B) $33,750 ($47,450 in the case of taxable years beginning in 2010 and $48,450 in the case of taxable years beginning in 2011) in the case of an individual who–
         (i) is not a married individual, and
         (ii) is not a surviving spouse,
       (C) 50 percent of the dollar amount applicable under paragraph (1)(A) in the case of a married individual who files a separate return, and
@@ -95,4 +95,4 @@
     (4) Change date
        For purposes of paragraph (2), the change date is the first day of the first taxable year for which the taxpayer ceases to be described in paragraph (1).
     (5) Limitation on use of credit for prior year minimum tax liability
-       In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) \2\N shall apply for purposes of the preceding sentence.
+       In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(6)(B) shall apply for purposes of the preceding sentence.

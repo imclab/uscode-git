@@ -5,47 +5,20 @@
     (1) a tentative tax computed under subsection (c) on the sum of–
       (A) the amount of the taxable estate, and
       (B) the amount of the adjusted taxable gifts, over
-    (2) the aggregate amount of tax which would have been payable under chapter 12 with respect to gifts made by the decedent after December 31, 1976, if the provisions of subsection (c) (as in effect at the decedent“s death) had been applicable at the time of such gifts.
+    (2) the aggregate amount of tax which would have been payable under chapter 12 with respect to gifts made by the decedent after December 31, 1976, if the modifications described in subsection (g) had been applicable at the time of such gifts.
        For purposes of paragraph (1)(B), the term ””adjusted taxable gifts““ means the total amount of the taxable gifts (within the meaning of section 2503) made by the decedent after December 31, 1976, other than gifts which are includible in the gross estate of the decedent.
   (c) Rate schedule
-    (1) In general
-        
-       Not over $10,000 D18 percent of such amount.
-       Over $10,000 but not over $20,000 D$1,800, plus 20 percent of the excess of such amount over $10,000.
-       Over $20,000 but not over $40,000 D$3,800, plus 22 percent of the excess of such amount over $20,000.
-       Over $40,000 but not over $60,000 D$8,200 plus 24 percent of the excess of such amount over $40,000.
-       Over $60,000 but not over $80,000 D$13,000, plus 26 percent of the excess of such amount over $60,000.
-       Over $80,000 but not over $100,000 D$18,200, plus 28 percent of the excess of such amount over $80,000.
-       Over $100,000 but not over $150,000 D$23,800, plus 30 percent of the excess of such amount over $100,000.
-       Over $150,000 but not over $250,000 D$38,800, plus 32 percent of the excess of such amount over $150,000.
-       Over $250,000 but not over $500,000 D$70,800, plus 34 percent of the excess of such amount over $250,000.
-       Over $500,000 but not over $750,000 D$155,800, plus 37 percent of the excess of such amount over $500,000.
-       Over $750,000 but not over $1,000,000 D$248,300, plus 39 percent of the excess of such amount over $750,000.
-       Over $1,000,000 but not over $1,250,000 D$345,800, plus 41 percent of the excess of such amount over $1,000,000.
-       Over $1,250,000 but not over $1,500,000 D$448,300, plus 43 percent of the excess of such amount over $1,250,000.
-       Over $1,500,000 but not over $2,000,000 D$555,800, plus 45 percent of the excess of such amount over $1,500,000.
-       Over $2,000,000 but not over $2,500,000 D$780,800, plus 49 percent of the excess of such amount over $2,000,000.
-       Over $2,500,000 D$1,025,800, plus 50% of the excess over $2,500,000.
-    (2) Phasedown of maximum rate of tax
-      (A) In general
-         In the case of estates of decedents dying, and gifts made, in calendar years after 2002 and before 2010, the tentative tax under this subsection shall be determined by using a table prescribed by the Secretary (in lieu of using the table contained in paragraph (1)) which is the same as such table; except that–
-        (i) the maximum rate of tax for any calendar year shall be determined in the table under subparagraph (B), and
-        (ii) the brackets and the amounts setting forth the tax shall be adjusted to the extent necessary to reflect the adjustments under subparagraph (A).
-      (B) Maximum rate
-          
-         T2The maximum
-         T2In calendar year:
-         T2rate is:
-           2003
-         49 percent  
-           2004
-         48 percent  
-           2005
-         47 percent  
-           2006
-         46 percent  
-           2007, 2008, and 2009
-         45 percent.
+      
+     Not over $10,000 D18 percent of such amount.
+     Over $10,000 but not over $20,000 D$1,800, plus 20 percent of the excess of such amount over $10,000.
+     Over $20,000 but not over $40,000 D$3,800, plus 22 percent of the excess of such amount over $20,000.
+     Over $40,000 but not over $60,000 D$8,200 plus 24 percent of the excess of such amount over $40,000.
+     Over $60,000 but not over $80,000 D$13,000, plus 26 percent of the excess of such amount over $60,000.
+     Over $80,000 but not over $100,000 D$18,200, plus 28 percent of the excess of such amount over $80,000.
+     Over $100,000 but not over $150,000 D$23,800, plus 30 percent of the excess of such amount over $100,000.
+     Over $150,000 but not over $250,000 D$38,800, plus 32 percent of the excess of such amount over $150,000.
+     Over $250,000 but not over $500,000 D$70,800, plus 34 percent of the excess of such amount over $250,000.
+     Over $500,000 D$155,800, plus 35 percent of the excess of such amount over $500,000.
   (d) Adjustment for gift tax paid by spouse
      For purposes of subsection (b)(2), if–
     (1) the decedent was the donor of any gift one-half of which was considered under section 2513 as made by the decedent“s spouse, and
@@ -68,3 +41,9 @@
       (B) in a case not described in subparagraph (A), the value is specified by the Secretary and such value is not timely contested by the taxpayer; or
       (C) the value is determined by a court or pursuant to a settlement agreement with the Secretary.
        For purposes of subparagraph (A), the value of an item shall be treated as shown on a return if the item is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.
+  (g) Modifications to gift tax payable to reflect different tax rates
+     For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent“s death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute–
+    (1) the tax imposed by chapter 12 with respect to such gifts, and
+    (2) the credit allowed against such tax under section 2505, including in computing–
+      (A) the applicable credit amount under section 2505(a)(1), and
+      (B) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).

@@ -1,11 +1,11 @@
   (a) General rule
      For purposes of this chapter, if a regulated investment company–
-    (1) declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and
-    (2) distributes the amount of such dividend to shareholders in the 12-month period following the close of such taxable year and not later than the date of the first regular dividend payment made after such declaration,
-       the amount so declared and distributed shall, to the extent the company elects in such return in accordance with regulations prescribed by the Secretary, be considered as having been paid during such taxable year, except as provided in subsections (b), (c) and (d).
+    (1) declares a dividend before the later of–
+      (A) the 15th day of the 9th month following the close of the taxable year, or
+      (B) in the case of an extension of time for filing the company“s return for the taxable year, the due date for filing such return taking into account such extension, and
+    (2) distributes the amount of such dividend to shareholders in the 12-month period following the close of such taxable year and not later than the date of the first dividend payment of the same type of dividend made after such declaration,
+       the amount so declared and distributed shall, to the extent the company elects in such return in accordance with regulations prescribed by the Secretary, be considered as having been paid during such taxable year, except as provided in subsections (b) and (c). For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company Act of 1940 shall be treated as the same type of dividend as a capital gain dividend.
   (b) Receipt by shareholder
      Except as provided in section 852(b)(7), amounts to which subsection (a) is applicable shall be treated as received by the shareholder in the taxable year in which the distribution is made.
-  (c) Notice to shareholders
-     In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.
-  (d) Foreign tax election
+  (c) Foreign tax election
      If an investment company to which section 853 is applicable for the taxable year makes a distribution as provided in subsection (a) of this section, the shareholders shall consider the amounts described in section 853(b)(2) allocable to such distribution as paid or received, as the case may be, in the taxable year in which the distribution is made.

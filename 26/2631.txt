@@ -3,4 +3,4 @@
   (b) Allocations irrevocable
      Any allocation under subsection (a), once made, shall be irrevocable.
   (c) GST exemption amount
-     For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the applicable exclusion amount under section 2010(c) for such calendar year.
+     For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the basic exclusion amount under section 2010(c) for such calendar year.

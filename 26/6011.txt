@@ -28,6 +28,8 @@
          For purposes of this paragraph, the term ””specified tax return preparer““ means, with respect to any calendar year, any tax return preparer unless such preparer reasonably expects to file 10 or fewer individual income tax returns during such calendar year.
       (C) Individual income tax return
          For purposes of this paragraph, the term ””individual income tax return““ means any return of the tax imposed by subtitle A on individuals, estates, or trusts.
+    (4) Special rule for returns filed by financial institutions with respect to withholding on foreign transfers
+       The numerical limitation under paragraph (2)(A) shall not apply to any return filed by a financial institution (as defined in section 1471(d)(5)) with respect to tax for which such institution is made liable under section 1461 or 1474(a).
   (f) Promotion of electronic filing
     (1) In general
        The Secretary is authorized to promote the benefits of and encourage the use of electronic tax administration programs, as they become available, through the use of mass communications and other means.

@@ -116,6 +116,13 @@
        For purposes of paragraph (4), the term ””independent research and development expenses““ means any expenses incurred in the performance of research or development, except that such term shall not include–
       (A) any expenses which are directly attributable to a long-term contract in existence when such expenses are incurred, or
       (B) any expenses under an agreement to perform research or development.
+    (6) Special rule for allocation of bonus depreciation with respect to certain property
+      (A) In general
+         Solely for purposes of determining the percentage of completion under subsection (b)(1)(A), the cost of qualified property shall be taken into account as a cost allocated to the contract as if subsection (k) of section 168 had not been enacted.
+      (B) Qualified property
+         For purposes of this paragraph, the term ””qualified property““ means property described in section 168(k)(2) which–
+        (i) has a recovery period of 7 years or less, and
+        (ii) is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)).
   (d) Federal long-term contract
      For purposes of this section–
     (1) In general

@@ -4,8 +4,8 @@
      Whether or not the method of collecting any tax imposed by chapter 21, 31, 32, or 33, or by section 4481 is specifically provided for by this title, any such tax may, under regulations prescribed by the Secretary, be collected by means of returns, stamps, coupons, tickets, books, or such other reasonable devices or methods as may be necessary or helpful in securing a complete and proper collection of the tax.
   (c) Use of Government depositaries
      The Secretary may authorize Federal Reserve banks, and incorporated banks, trust companies, domestic building and loan associations, or credit unions which are depositaries or financial agents of the United States, to receive any tax imposed under the internal revenue laws, in such manner, at such times, and under such conditions as he may prescribe; and he shall prescribe the manner, times, and conditions under which the receipt of such tax by such banks, trust companies, domestic building and loan associations, and credit unions is to be treated as payment of such tax to the Secretary.
-  (d) Time for payment of manufacturers“ excise tax on sporting goods
-     The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes on sporting goods) shall be due and payable on the date for filing the return for such taxes.
+  (d) Time for payment of manufacturers“ excise tax on recreational equipment
+     The taxes imposed by subchapter D of chapter 32 of this title (relating to taxes on recreational equipment) shall be due and payable on the date for filing the return for such taxes.
   (e) Time for deposit of taxes on communications services and airline tickets
     (1) In general
        Except as provided in paragraph (2), if, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section 4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.
@@ -76,5 +76,3 @@
          In determining whether the requirements of subparagraph (B) of paragraph (2) are met, taxes required to be paid by electronic fund transfer under sections 5061(e) and 5703(b) shall be disregarded.
       (B) Additional requirement
          Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
-        (i) Cross references
-           T2For treatment of earned income advance amounts as payment of withholding and FICA taxes, see section 3507(d).

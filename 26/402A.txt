@@ -27,6 +27,19 @@
         (ii) a Roth IRA of such individual.
       (B) Coordination with limit
          Any rollover contribution to a designated Roth account under subparagraph (A) shall not be taken into account for purposes of paragraph (1).
+    (4) Taxable rollovers to designated Roth accounts
+      (A) In general
+         Notwithstanding sections 402(c), 403(b)(8), and 457(e)(16), in the case of any distribution to which this paragraph applies–
+        (i) there shall be included in gross income any amount which would be includible were it not part of a qualified rollover contribution,
+        (ii) section 72(t) shall not apply, and
+        (iii) unless the taxpayer elects not to have this clause apply, any amount required to be included in gross income for any taxable year beginning in 2010 by reason of this paragraph shall be so included ratably over the 2-taxable-year period beginning with the first taxable year beginning in 2011.
+         Any election under clause (iii) for any distributions during a taxable year may not be changed after the due date for such taxable year.
+      (B) Distributions to which paragraph applies
+         In the case of an applicable retirement plan which includes a qualified Roth contribution program, this paragraph shall apply to a distribution from such plan other than from a designated Roth account which is contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to the designated Roth account maintained under such plan for the benefit of the individual to whom the distribution is made.
+      (C) Coordination with limit
+         Any distribution to which this paragraph applies shall not be taken into account for purposes of paragraph (1).
+      (D) Other rules
+         The rules of subparagraphs (D), (E), and (F) of section 408A(d)(3) (as in effect for taxable years beginning after 2009) shall apply for purposes of this paragraph.
   (d) Distribution rules
      For purposes of this title–
     (1) Exclusion
@@ -51,7 +64,10 @@
      For purposes of this section–
     (1) Applicable retirement plan
        The term ””applicable retirement plan““ means–
-      (A) an employees“ trust described in section 401(a) which is exempt from tax under section 501(a), and
-      (B) a plan under which amounts are contributed by an individual“s employer for an annuity contract described in section 403(b).
+      (A) an employees“ trust described in section 401(a) which is exempt from tax under section 501(a),
+      (B) a plan under which amounts are contributed by an individual“s employer for an annuity contract described in section 403(b), and
+      (C) an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
     (2) Elective deferral
-       The term ””elective deferral““ means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).
+       The term ””elective deferral““ means–
+      (A) any elective deferral described in subparagraph (A) or (C) of section 402(g)(3), and
+      (B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).

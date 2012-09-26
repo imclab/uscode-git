@@ -66,7 +66,11 @@
           (I) a United States shareholder (within the meaning of section 951(b)) of the acquiring corporation, and
           (II) the transferor or a person who bears a relationship to the transferor described in section 267(b) or 707(b), and
         (ii) which were accumulated during the period or periods such stock was owned by such person while the acquiring corporation was a controlled foreign corporation.
-      (B) Regulations
+      (B) Special rule in case of foreign acquiring corporation
+         In the case of any acquisition to which subsection (a) applies in which the acquiring corporation is a foreign corporation, no earnings and profits shall be taken into account under paragraph (2)(A) (and subparagraph (A) shall not apply) if more than 50 percent of the dividends arising from such acquisition (determined without regard to this subparagraph) would neither–
+        (i) be subject to tax under this chapter for the taxable year in which the dividends arise, nor
+        (ii) be includible in the earnings and profits of a controlled foreign corporation (as defined in section 957 and without regard to section 953(c)).
+      (C) Regulations
          The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of this paragraph.
     (6) Avoidance of multiple inclusions, etc.
        In the case of any acquisition to which subsection (a) applies in which the acquiring corporation or the issuing corporation is a foreign corporation, the Secretary shall prescribe such regulations as are appropriate in order to eliminate a multiple inclusion of any item in income by reason of this subpart and to provide appropriate basis adjustments (including modifications to the application of sections 959 and 961).

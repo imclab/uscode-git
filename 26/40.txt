@@ -71,6 +71,11 @@
           (II) meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545).
         (ii) Exclusion of low-proof alcohol
            Such term shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.
+        (iii) Exclusion of certain fuels
+           The term ””cellulosic biofuel““ shall not include any fuel if–
+          (I) more than 4 percent of such fuel (determined by weight) is any combination of water and sediment,
+          (II) the ash content of such fuel is more than 1 percent (determined by weight), or
+          (III) such fuel has an acid number greater than 25.
       (F) Allocation of cellulosic biofuel producer credit to patrons of cooperative
          Rules similar to the rules under subsection (g)(6) shall apply for purposes of this paragraph.
       (G) Registration requirement
@@ -126,8 +131,8 @@
   (e) Termination
     (1) In general
        This section shall not apply to any sale or use–
-      (A) for any period after December 31, 2010, or
-      (B) for any period before January 1, 2011, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
+      (A) for any period after December 31, 2011, or
+      (B) for any period before January 1, 2012, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
     (2) No carryovers to certain years after expiration
        If this section ceases to apply for any period by reason of paragraph (1) or subsection (b)(6)(H), no amount attributable to any sale or use before the first day of such period may be carried under section 39 by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs.
     (3) Exception for cellulosic biofuel producer credit
@@ -171,7 +176,7 @@
               shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
   (h) Reduced credit for ethanol blenders
     (1) In general
-       In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2010–
+       In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2011–
       (A) subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting ””the blender amount““ for ””60 cents““,
       (B) subsection (b)(3) shall be applied by substituting ””the low-proof blender amount““ for ””45 cents““ and ””the blender amount““ for ””60 cents““, and
       (C) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting ””the blender amount““ for ””60 cents““ and ””the low-proof blender amount““ for ””45 cents““.
@@ -181,7 +186,7 @@
        2001 or 2002D 53 centsD39.26 cents  
        2003 or 2004D 52 centsD38.52 cents  
        2005, 2006, 2007, or 2008D 51 centsD37.78 cents  
-       2009 through 2010D 45 centsD33.33 cents.
+       2009 through 2011D 45 centsD33.33 cents.
     (3) Reduction delayed until annual production or importation of 7,500,000,000 gallons
       (A) In general
          In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in subparagraph (B) with respect to all preceding calendar years beginning after 2007, the last row in the table in paragraph (2) shall be applied by substituting ””51 cents““ for ””45 cents““.

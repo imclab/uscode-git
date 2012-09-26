@@ -11,11 +11,20 @@
          The amount of the unused credit for the unused credit year shall be carried to each of the other 20 taxable years to the extent that such unused credit may not be taken into account under section 38(a) for a prior taxable year because of the limitations of subsections (b) and (c).
     (3) 5-year carryback for marginal oil and gas well production credit
        Notwithstanding subsection (d), in the case of the marginal oil and gas well production credit–
-      (A) this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit),
+      (A) this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit) or the eligible small business credits,
       (B) paragraph (1) shall be applied by substituting ””each of the 5 taxable years““ for ””the taxable year““ in subparagraph (A) thereof, and
       (C) paragraph (2) shall be applied–
         (i) by substituting ””25 taxable years““ for ””21 taxable years““ in subparagraph (A) thereof, and
         (ii) by substituting ””24 taxable years““ for ””20 taxable years““ in subparagraph (B) thereof.
+    (4) 5-year carryback for eligible small business credits
+      (A) In general
+         Notwithstanding subsection (d), in the case of eligible small business credits determined in the first taxable year of the taxpayer beginning in 2010–
+        (i) paragraph (1) shall be applied by substituting ””each of the 5 taxable years““ for ””the taxable year““ in subparagraph (A) thereof, and
+        (ii) paragraph (2) shall be applied–
+          (I) by substituting ””25 taxable years““ for ””21 taxable years““ in subparagraph (A) thereof, and
+          (II) by substituting ””24 taxable years““ for ””20 taxable years““ in subparagraph (B) thereof.
+      (B) Eligible small business credits
+         For purposes of this subsection, the term ””eligible small business credits““ has the meaning given such term by section 38(c)(5)(B).
   (b) Limitation on carrybacks
      The amount of the unused credit which may be taken into account under section 38(a)(3) for any preceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of–
     (1) the amounts determined under paragraphs (1) and (2) of section 38(a) for such taxable year, plus

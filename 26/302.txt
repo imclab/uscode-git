@@ -1,5 +1,5 @@
   (a) General rule
-     If a corporation redeems its stock (within the meaning of section 317(b)), and if paragraph (1), (2), (3), or (4) of subsection (b) applies, such redemption shall be treated as a distribution in part or full payment in exchange for the stock.
+     If a corporation redeems its stock (within the meaning of section 317(b)), and if paragraph (1), (2), (3), (4), or (5) of subsection (b) applies, such redemption shall be treated as a distribution in part or full payment in exchange for the stock.
   (b) Redemptions treated as exchanges
     (1) Redemptions not equivalent to dividends
        Subsection (a) shall apply if the redemption is not essentially equivalent to a dividend.
@@ -22,7 +22,11 @@
        Subsection (a) shall apply to a distribution if such distribution is–
       (A) in redemption of stock held by a shareholder who is not a corporation, and
       (B) in partial liquidation of the distributing corporation.
-    (5) Application of paragraphs
+    (5) Redemptions by certain regulated investment companies
+       Except to the extent provided in regulations prescribed by the Secretary, subsection (a) shall apply to any distribution in redemption of stock of a publicly offered regulated investment company (within the meaning of section 67(c)(2)(B)) if–
+      (A) such redemption is upon the demand of the stockholder, and
+      (B) such company issues only stock which is redeemable upon the demand of the stockholder.
+    (6) Application of paragraphs
        In determining whether a redemption meets the requirements of paragraph (1), the fact that such redemption fails to meet the requirements of paragraph (2), (3), or (4) shall not be taken into account. If a redemption meets the requirements of paragraph (3) and also the requirements of paragraph (1), (2), or (4), then so much of subsection (c)(2) as would (but for this sentence) apply in respect of the acquisition of an interest in the corporation within the 10-year period beginning on the date of the distribution shall not apply.
   (c) Constructive ownership of stock
     (1) In general

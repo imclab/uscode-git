@@ -14,7 +14,7 @@
       (A) any listed transaction, and
       (B) any reportable transaction (other than a listed transaction) if a significant purpose of such transaction is the avoidance or evasion of Federal income tax.
   (c) Higher penalty for nondisclosed listed and other avoidance transactions
-     Subsection (a) shall be applied by substituting ””30 percent““ for ””20 percent““ with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) is not met.
+     Subsection (a) shall be applied by substituting ””30 percent““ for ””20 percent““ with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) \1\N is not met.
   (d) Definitions of reportable and listed transactions
      For purposes of this section, the terms ””reportable transaction““ and ””listed transaction““ have the respective meanings given to such terms by section 6707A(c).
   (e) Special rules
@@ -25,7 +25,7 @@
     (2) Coordination with other penalties
       (A) Coordination with fraud penalty
          This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6663.
-      (B) Coordination with gross valuation misstatement penalty
-         This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662 if the rate of the penalty is determined under section 6662(h).
+      (B) Coordination with certain increased underpayment penalties
+         This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662 if the rate of the penalty is determined under subsections (h) or (i) of section 6662.
     (3) Special rule for amended returns
        Except as provided in regulations, in no event shall any tax treatment included with an amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.

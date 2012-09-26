@@ -7,13 +7,17 @@
       (B) long-term capital gain or loss, to the extent of 60 percent of such gain or loss, and
     (4) if all the offsetting positions making up any straddle consist of section 1256 contracts to which this section applies (and such straddle is not part of a larger straddle), sections 1092 and 263(g) shall not apply with respect to such straddle.
   (b) Section 1256 contract defined
-     For purposes of this section, the term ””section 1256 contract““ means–
-    (1) any regulated futures contract,
-    (2) any foreign currency contract,
-    (3) any nonequity option,
-    (4) any dealer equity option, and
-    (5) any dealer securities futures contract.
-       The term ””section 1256 contract““ shall not include any securities futures contract or option on such a contract unless such contract or option is a dealer securities futures contract.
+    (1) In general
+       For purposes of this section, the term ””section 1256 contract““ means–
+      (A) any regulated futures contract,
+      (B) any foreign currency contract,
+      (C) any nonequity option,
+      (D) any dealer equity option, and
+      (E) any dealer securities futures contract.
+    (2) Exceptions
+       The term ””section 1256 contract““ shall not include–
+      (A) any securities futures contract or option on such a contract unless such contract or option is a dealer securities futures contract, or
+      (B) any interest rate swap, currency swap, basis swap, interest rate cap, interest rate floor, commodity swap, equity swap, equity index swap, credit default swap, or similar agreement.
   (c) Terminations, etc.
     (1) In general
        The rules of paragraphs (1), (2), and (3) of subsection (a) shall also apply to the termination (or transfer) during the taxable year of the taxpayer“s obligation (or rights) with respect to a section 1256 contract by offsetting, by taking or making delivery, by exercise or being exercised, by assignment or being assigned, by lapse, or otherwise.

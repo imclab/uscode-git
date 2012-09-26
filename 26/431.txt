@@ -52,6 +52,47 @@
          Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section and section 412 in such manner as is determined by the Secretary.
       (G) Short-term benefits
          To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for ””15““.
+    (8) Special relief rules
+       Notwithstanding any other provision of this subsection–
+      (A) Amortization of net investment losses
+        (i) In general
+           A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may treat the portion of any experience loss or gain attributable to net investment losses incurred in either or both of the first two plan years ending after August 31, 2008, as an item separate from other experience losses, to be amortized in equal annual installments (until fully amortized) over the period–
+          (I) beginning with the plan year in which such portion is first recognized in the actuarial value of assets, and
+          (II) ending with the last plan year in the 30-plan year period beginning with the plan year in which such net investment loss was incurred.
+        (ii) Coordination with extensions
+           If this subparagraph applies for any plan year–
+          (I) no extension of the amortization period under clause (i) shall be allowed under subsection (d), and
+          (II) if an extension was granted under subsection (d) for any plan year before the election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
+        (iii) Net investment losses
+           For purposes of this subparagraph–
+          (I) In general
+             Net investment losses shall be determined in the manner prescribed by the Secretary on the basis of the difference between actual and expected returns (including any difference attributable to any criminally fraudulent investment arrangement).
+          (II) Criminally fraudulent investment arrangements
+             The determination as to whether an arrangement is a criminally fraudulent investment arrangement shall be made under rules substantially similar to the rules prescribed by the Secretary for purposes of section 165.
+      (B) Expanded smoothing period
+        (i) In general
+           A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may change its asset valuation method in a manner which–
+          (I) spreads the difference between expected and actual returns for either or both of the first 2 plan years ending after August 31, 2008, over a period of not more than 10 years,
+          (II) provides that for either or both of the first 2 plan years beginning after August 31, 2008, the value of plan assets at any time shall not be less than 80 percent or greater than 130 percent of the fair market value of such assets at such time, or
+          (III) makes both changes described in subclauses (I) and (II) to such method.
+        (ii) Asset valuation methods
+           If this subparagraph applies for any plan year–
+          (I) the Secretary shall not treat the asset valuation method of the plan as unreasonable solely because of the changes in such method described in clause (i), and
+          (II) such changes shall be deemed approved by the Secretary under section 302(d)(1) of the Employee Retirement Income Security Act of 1974 and section 412(d)(1).
+        (iii) Amortization of reduction in unfunded accrued liability
+           If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+      (C) Solvency test
+         The solvency test under this paragraph is met only if the plan actuary certifies that the plan is projected to have sufficient assets to timely pay expected benefits and anticipated expenditures over the amortization period, taking into account the changes in the funding standard account under this paragraph.
+      (D) Restriction on benefit increases
+         If subparagraph (A) or (B) apply to a multiemployer plan for any plan year, then, in addition to any other applicable restrictions on benefit increases, a plan amendment increasing benefits may not go into effect during either of the 2 plan years immediately following such plan year unless–
+        (i) the plan actuary certifies that–
+          (I) any such increase is paid for out of additional contributions not allocated to the plan immediately before the application of this paragraph to the plan, and
+          (II) the plan“s funded percentage and projected credit balances for such 2 plan years are reasonably expected to be at least as high as such percentage and balances would have been if the benefit increase had not been adopted, or
+        (ii) the amendment is required as a condition of qualification under part I of subchapter D or to comply with other applicable law.
+      (E) Reporting
+         A plan sponsor of a plan to which this paragraph applies shall–
+        (i) give notice of such application to participants and beneficiaries of the plan, and
+        (ii) inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
   (c) Additional rules
     (1) Determinations to be made under funding method
        For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.

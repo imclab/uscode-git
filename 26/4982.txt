@@ -7,7 +7,7 @@
     (1) In general
        The term ””required distribution““ means, with respect to any calendar year, the sum of–
       (A) 98 percent of the regulated investment company“s ordinary income for such calendar year, plus
-      (B) 98 percent of the regulated investment company“s capital gain net income for the 1-year period ending on October 31 of such calendar year.
+      (B) 98.2 percent of the regulated investment company“s capital gain net income for the 1-year period ending on October 31 of such calendar year.
     (2) Increase by prior year shortfall
        The amount determined under paragraph (1) for any calendar year shall be increased by the excess (if any) of–
       (A) the grossed up required distribution for the preceding calendar year, over
@@ -30,6 +30,13 @@
        The amount of the dividends paid during any calendar year shall be determined without regard to–
       (A) the provisions of section 855, and
       (B) any exempt-interest dividend as defined in section 852(b)(5).
+    (4) Special rule for estimated tax payments
+      (A) In general
+         In the case of a regulated investment company which elects the application of this paragraph for any calendar year–
+        (i) the distributed amount with respect to such company for such calendar year shall be increased by the amount on which qualified estimated tax payments are made by such company during such calendar year, and
+        (ii) the distributed amount with respect to such company for the following calendar year shall be reduced by the amount of such increase.
+      (B) Qualified estimated tax payments
+         For purposes of this paragraph, the term ””qualified estimated tax payments““ means, with respect to any calendar year, payments of estimated tax of a tax described in paragraph (1)(B) for any taxable year which begins (but does not end) in such calendar year.
   (d) Time for payment of tax
      The tax imposed by this section for any calendar year shall be paid on or before March 15 of the following calendar year.
   (e) Definitions and special rules
@@ -62,15 +69,30 @@
          subsection (b)(1)(B) and paragraph (2) of this subsection shall be applied by taking into account the company“s taxable year in lieu of the 1-year period ending on October 31 of the calendar year.
       (B) Election revocable only with consent
          An election under this paragraph, once made, may be revoked only with the consent of the Secretary.
-    (5) Treatment of foreign currency gains and losses after October 31 of calendar year
-       Any foreign currency gain or loss which is attributable to a section 988 transaction and which is properly taken into account for the portion of the calendar year after October 31 shall not be taken into account in determining the amount of the ordinary income of the regulated investment company for such calendar year but shall be taken into account in determining the ordinary income of the investment company for the following calendar year. In the case of any company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company“s taxable year for October 31.
-    (6) Treatment of gain recognized under section 1296
-       For purposes of determining a regulated investment company“s ordinary income–
-      (A) notwithstanding paragraph (1)(C), section 1296 shall be applied as if such company“s taxable year ended on October 31, and
-      (B) any ordinary gain or loss from an actual disposition of stock in a passive foreign investment company during the portion of the calendar year after October 31 shall be taken into account in determining such regulated investment company“s ordinary income for the following calendar year.
-       In the case of a company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company“s taxable year for October 31.
+    (5) Treatment of specified gains and losses after October 31 of calendar year
+      (A) In general
+         Any specified gain or specified loss which (but for this paragraph) would be properly taken into account for the portion of the calendar year after October 31 shall be treated as arising on January 1 of the following calendar year.
+      (B) Specified gains and losses
+         For purposes of this paragraph–
+        (i) Specified gain
+           The term ””specified gain““ means ordinary gain from the sale, exchange, or other disposition of property (including the termination of a position with respect to such property). Such term shall include any foreign currency gain attributable to a section 988 transaction (within the meaning of section 988) and any amount includible in gross income under section 1296(a)(1).
+        (ii) Specified loss
+           The term ””specified loss““ means ordinary loss from the sale, exchange, or other disposition of property (including the termination of a position with respect to such property). Such term shall include any foreign currency loss attributable to a section 988 transaction (within the meaning of section 988) and any amount allowable as a deduction under section 1296(a)(2).
+      (C) Special rule for companies electing to use the taxable year
+         In the case of any company making an election under paragraph (4), subparagraph (A) shall be applied by substituting the last day of the company“s taxable year for October 31.
+    (6) Treatment of mark to market gain
+      (A) In general
+         For purposes of determining a regulated investment company“s ordinary income, notwithstanding paragraph (1)(C), each specified mark to market provision shall be applied as if such company“s taxable year ended on October 31. In the case of a company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company“s taxable year for October 31.
+      (B) Specified mark to market provision
+         For purposes of this paragraph, the term ””specified mark to market provision““ means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year.
+    (7) Elective deferral of certain ordinary losses
+       Except as provided in regulations prescribed by the Secretary, in the case of a regulated investment company which has a taxable year other than the calendar year–
+      (A) such company may elect to determine its ordinary income for the calendar year without regard to any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
+      (B) any amount of net ordinary loss not taken into account for a calendar year by reason of subparagraph (A) shall be treated as arising on the 1st day of the following calendar year.
   (f) Exception for certain regulated investment companies
-     This section shall not apply to any regulated investment company for any calendar year if at all times during such calendar year each shareholder in such company was either–
-    (1) a trust described in section 401(a) and exempt from tax under section 501(a), or
-    (2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)).
+     This section shall not apply to any regulated investment company for any calendar year if at all times during such calendar year each shareholder in such company was–
+    (1) a trust described in section 401(a) and exempt from tax under section 501(a),
+    (2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)) \1\N
+    (3) any other tax-exempt entity whose ownership of beneficial interests in the company would not preclude the application of section 817(h)(4), or
+    (4) another regulated investment company described in this subsection.
        For purposes of the preceding sentence, any shares attributable to an investment in the regulated investment company (not exceeding $250,000) made in connection with the organization of such company shall not be taken into account.

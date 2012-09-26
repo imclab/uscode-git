@@ -7,6 +7,8 @@
     (3) Any substantial valuation misstatement under chapter 1.
     (4) Any substantial overstatement of pension liabilities.
     (5) Any substantial estate or gift tax valuation understatement.
+    (6) Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701(T3oK)) or failing to meet the requirements of any similar rule of law.
+    (7) Any undisclosed foreign financial asset understatement.
        This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
   (c) Negligence
      For purposes of this section, the term ””negligence““ includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term ””disregard““ includes any careless, reckless, or intentional disregard.
@@ -43,7 +45,7 @@
           (III) any other plan or arrangement,
               if a significant purpose of such partnership, entity, plan, or arrangement is the avoidance or evasion of Federal income tax.
     (3) Secretarial list
-       The Secretary may prescribe a list of positions which the Secretary believes do not meet 1 or more of the standards specified in paragraph (2)(B)(i), section 6664(d)(2), and section 6694(a)(1). Such list (and any revisions thereof) shall be published in the Federal Register or the Internal Revenue Bulletin.
+       The Secretary may prescribe a list of positions which the Secretary believes do not meet 1 or more of the standards specified in paragraph (2)(B)(i), section 6664(d)(2),\1\N and section 6694(a)(1). Such list (and any revisions thereof) shall be published in the Federal Register or the Internal Revenue Bulletin.
   (e) Substantial valuation misstatement under chapter 1
     (1) In general
        For purposes of this section, there is a substantial valuation misstatement under chapter 1 if–
@@ -96,3 +98,17 @@
           (II) ””20 percent““ for ””10 percent““.
       (B) any substantial overstatement of pension liabilities as determined under subsection (f) by substituting ””400 percent““ for ””200 percent““, and
       (C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting ””40 percent““ for ””65 percent““.
+  (j) \2\N Undisclosed foreign financial asset understatement
+    (1) In general
+       For purposes of this section, the term ””undisclosed foreign financial asset understatement““ means, for any taxable year, the portion of the understatement for such taxable year which is attributable to any transaction involving an undisclosed foreign financial asset.
+    (2) Undisclosed foreign financial asset
+       For purposes of this subsection, the term ””undisclosed foreign financial asset““ means, with respect to any taxable year, any asset with respect to which information was required to be provided under section 6038, 6038B, 6038D, 6046A, or 6048 for such taxable year but was not provided by the taxpayer as required under the provisions of those sections.
+    (3) Increase in penalty for undisclosed foreign financial asset understatements
+       In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting ””40 percent““ for ””20 percent““.
+      (i) \3\N Increase in penalty in case of nondisclosed noneconomic substance transactions
+        (1) In general
+           In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting ””40 percent““ for ””20 percent““.
+        (2) Nondisclosed noneconomic substance transactions
+           For purposes of this subsection, the term ””nondisclosed noneconomic substance transaction““ means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
+        (3) Special rule for amended returns
+           In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.

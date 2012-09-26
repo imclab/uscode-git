@@ -18,13 +18,39 @@
       (D) the \1\N deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to capital gain dividends and exempt-interest dividends.
       (E) The taxable income shall be computed without regard to section 443(b) (relating to computation of tax on change of annual accounting period).
       (F) The taxable income shall be computed without regard to section 454(b) (relating to short-term obligations issued on a discount basis) if the company so elects in a manner prescribed by the Secretary.
+      (G) There shall be deducted an amount equal to the tax imposed by subsections (d)(2) and (i) of section 851 for the taxable year.
     (3) Capital gains
       (A) Imposition of tax
          There is hereby imposed for each taxable year in the case of every regulated investment company a tax, determined as provided in section 1201(a), on the excess, if any, of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gain dividends only.
       (B) Treatment of capital gain dividends by shareholders
          A capital gain dividend shall be treated by the shareholders as a gain from the sale or exchange of a capital asset held for more than 1 year.
       (C) Definition of capital gain dividend
-         For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the company as a capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year; except that, if there is an increase in the excess described in subparagraph (A) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the company (including capital gains dividends paid after the close of the taxable year described in section 855) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net long-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net long-term capital loss shall be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the regulated investment company.
+         For purposes of this part–
+        (i) In general
+           Except as provided in clause (ii), a capital gain dividend is any dividend, or part thereof, which is reported by the company as a capital gain dividend in written statements furnished to its shareholders.
+        (ii) Excess reported amounts
+           If the aggregate reported amount with respect to the company for any taxable year exceeds the net capital gain of the company for such taxable year, a capital gain dividend is the excess of–
+          (I) the reported capital gain dividend amount, over
+          (II) the excess reported amount which is allocable to such reported capital gain dividend amount.
+        (iii) Allocation of excess reported amount
+          (I) In general
+             Except as provided in subclause (II), the excess reported amount (if any) which is allocable to the reported capital gain dividend amount is that portion of the excess reported amount which bears the same ratio to the excess reported amount as the reported capital gain dividend amount bears to the aggregate reported amount.
+          (II) Special rule for noncalendar year taxpayers
+             In the case of any taxable year which does not begin and end in the same calendar year, if the post-December reported amount equals or exceeds the excess reported amount for such taxable year, subclause (I) shall be applied by substituting ””post-December reported amount““ for ””aggregate reported amount““ and no excess reported amount shall be allocated to any dividend paid on or before December 31 of such taxable year.
+        (iv) Definitions
+           For purposes of this subparagraph–
+          (I) Reported capital gain dividend amount
+             The term ””reported capital gain dividend amount““ means the amount reported to its shareholders under clause (i) as a capital gain dividend.
+          (II) Excess reported amount
+             The term ””excess reported amount““ means the excess of the aggregate reported amount over the net capital gain of the company for the taxable year.
+          (III) Aggregate reported amount
+             The term ””aggregate reported amount““ means the aggregate amount of dividends reported by the company under clause (i) as capital gain dividends for the taxable year (including capital gain dividends paid after the close of the taxable year described in section 855).
+          (IV) Post-December reported amount
+             The term ””post-December reported amount““ means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
+        (v) Adjustment for determinations
+           If there is an increase in the excess described in subparagraph (A) for the taxable year which results from a determination (as defined in section 860(e)), the company may, subject to the limitations of this subparagraph, increase the amount of capital gain dividends reported under clause (i).
+        (vi) Special rule for losses late in the calendar year
+           T2For special rule for certain losses after October 31, see paragraph (8).
       (D) Treatment by shareholders of undistributed capital gains
         (i) Every shareholder of a regulated investment company at the close of the company“s taxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the company“s taxable year falls, such amount as the company shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after close of its taxable year, but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A) which he would have received if all of such amount had been distributed as capital gain dividends by the company to the holders of such shares at the close of its taxable year.
         (ii) For purposes of this title, every such shareholder shall be deemed to have paid, for his taxable year under clause (i), the tax imposed by subparagraph (A) on the amounts required by this subparagraph to be included in respect of such shares in computing his long-term capital gains for that year; and such shareholder shall be allowed credit or refund, as the case may be, for the tax so deemed to have been paid by him.
@@ -52,15 +78,37 @@
         (ii) there shall not be taken into account any day which is more than 6 months after the date on which such share becomes ex-dividend.
       (D) Losses incurred under a periodic liquidation plan
          To the extent provided in regulations, subparagraphs (A) and (B) shall not apply to losses incurred on the sale or exchange of shares of stock in a regulated investment company pursuant to a plan which provides for the periodic liquidation of such shares.
-      (E) Authority to shorten required holding period
-         In the case of a regulated investment company which regularly distributes at least 90 percent of its net tax-exempt interest, the Secretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) to the extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
+      (E) Exception to holding period requirement for certain regularly declared exempt-interest dividends
+        (i) Daily dividend companies
+           Except as otherwise provided by regulations, subparagraph (B) shall not apply with respect to a regular dividend paid by a regulated investment company which declares exempt-interest dividends on a daily basis in an amount equal to at least 90 percent of its net tax-exempt interest and distributes such dividends on a monthly or more frequent basis.
+        (ii) Authority to shorten required holding period with respect to other companies
+           In the case of a regulated investment company (other than a company described in clause (i)) which regularly distributes at least 90 percent of its net tax-exempt interest, the Secretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) to the extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
     (5) Exempt-interest dividends
        If, at the close of each quarter of its taxable year, at least 50 percent of the value (as defined in section 851(c)(4)) of the total assets of the regulated investment company consists of obligations described in section 103(a), such company shall be qualified to pay exempt-interest dividends, as defined herein, to its shareholders.
-      (A) Definition
-         An exempt-interest dividend means any dividend or part thereof (other than a capital gain dividend) paid by a regulated investment company and designated by it as an exempt-interest dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including exempt-interest dividends paid after the close of the taxable year as described in section 855) is greater than the excess of–
-        (i) the amount of interest excludable from gross income under section 103(a), over
-        (ii) the amounts disallowed as deductions under sections 265 and 171(a)(2),
-         the portion of such distribution which shall constitute an exempt-interest dividend shall be only that proportion of the amount so designated as the amount of such excess for such taxable year bears to the amount so designated.
+      (A) Definition of exempt-interest dividend
+        (i) In general
+           Except as provided in clause (ii), an exempt-interest dividend is any dividend or part thereof (other than a capital gain dividend) paid by a regulated investment company and reported by the company as an exempt-interest dividend in written statements furnished to its shareholders.
+        (ii) Excess reported amounts
+           If the aggregate reported amount with respect to the company for any taxable year exceeds the exempt interest of the company for such taxable year, an exempt-interest dividend is the excess of–
+          (I) the reported exempt-interest dividend amount, over
+          (II) the excess reported amount which is allocable to such reported exempt-interest dividend amount.
+        (iii) Allocation of excess reported amount
+          (I) In general
+             Except as provided in subclause (II), the excess reported amount (if any) which is allocable to the reported exempt-interest dividend amount is that portion of the excess reported amount which bears the same ratio to the excess reported amount as the reported exempt-interest dividend amount bears to the aggregate reported amount.
+          (II) Special rule for noncalendar year taxpayers
+             In the case of any taxable year which does not begin and end in the same calendar year, if the post-December reported amount equals or exceeds the excess reported amount for such taxable year, subclause (I) shall be applied by substituting ””post-December reported amount““ for ””aggregate reported amount““ and no excess reported amount shall be allocated to any dividend paid on or before December 31 of such taxable year.
+        (iv) Definitions
+           For purposes of this subparagraph–
+          (I) Reported exempt-interest dividend amount
+             The term ””reported exempt-interest dividend amount““ means the amount reported to its shareholders under clause (i) as an exempt-interest dividend.
+          (II) Excess reported amount
+             The term ””excess reported amount““ means the excess of the aggregate reported amount over the exempt interest of the company for the taxable year.
+          (III) Aggregate reported amount
+             The term ””aggregate reported amount““ means the aggregate amount of dividends reported by the company under clause (i) as exempt-interest dividends for the taxable year (including exempt-interest dividends paid after the close of the taxable year described in section 855).
+          (IV) Post-December reported amount
+             The term ””post-December reported amount““ means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
+          (V) Exempt interest
+             The term ””exempt interest““ means, with respect to any regulated investment company, the excess of the amount of interest excludable from gross income under section 103(a) over the amounts disallowed as deductions under sections 265 and 171(a)(2).
       (B) Treatment of exempt-interest dividends by shareholders
          An exempt-interest dividend shall be treated by the shareholders for all purposes of this subtitle as an item of interest excludable from gross income under section 103(a). Such purposes include but are not limited to–
         (i) the determination of gross income and taxable income,
@@ -74,25 +122,55 @@
       (A) to have been received by each shareholder on December 31 of such calendar year, and
       (B) to have been paid by such company on December 31 of such calendar year (or, if earlier, as provided in section 855).
        The preceding sentence shall apply only if such dividend is actually paid by the company during January of the following calendar year.
-    (8) Special rule for treatment of certain foreign currency losses
-       To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net foreign currency loss attributable to transactions after October 31 of such year, and any such net foreign currency loss shall be treated as arising on the 1st day of the following taxable year.
+    (8) Elective deferral of certain late-year losses
+      (A) In general
+         Except as otherwise provided by the Secretary, a regulated investment company may elect for any taxable year to treat any portion of any qualified late-year loss for such taxable year as arising on the first day of the following taxable year for purposes of this title.
+      (B) Qualified late-year loss
+         For purposes of this paragraph, the term ””qualified late-year loss““ means–
+        (i) any post-October capital loss, and
+        (ii) any late-year ordinary loss.
+      (C) Post-October capital loss
+         For purposes of this paragraph, the term ””post-October capital loss““ means the greatest of–
+        (i) the net capital loss attributable to the portion of the taxable year after October 31,
+        (ii) the net long-term capital loss attributable to such portion of the taxable year, or
+        (iii) the net short-term capital loss attributable to such portion of the taxable year.
+      (D) Late-year ordinary loss
+         For purposes of this paragraph, the term ””late-year ordinary loss““ means the excess (if any) of–
+        (i) the sum of–
+          (I) the specified losses (as defined in section 4982(e)(5)(B)(ii)) attributable to the portion of the taxable year after October 31, plus
+          (II) the ordinary losses not described in subclause (I) attributable to the portion of the taxable year after December 31, over
+        (ii) the sum of–
+          (I) the specified gains (as defined in section 4982(e)(5)(B)(i)) attributable to the portion of the taxable year after October 31, plus
+          (II) the ordinary income not described in subclause (I) attributable to the portion of the taxable year after December 31.
+      (E) Special rule for companies determining required capital gain distributions on taxable year basis
+         In the case of a company to which an election under section 4982(e)(4) applies–
+        (i) if such company“s taxable year ends with the month of November, the amount of qualified late-year losses (if any) shall be computed without regard to any income, gain, or loss described in subparagraphs (C), (D)(i)(I), and (D)(ii)(I), and
+        (ii) if such company“s taxable year ends with the month of December, subparagraph (A) shall not apply.
     (9) Dividends treated as received by company on ex-dividend date
        For purposes of this title, if a regulated investment company is the holder of record of any share of stock on the record date for any dividend payable with respect to such stock, such dividend shall be included in gross income by such company as of the later of–
       (A) the date such share became ex-dividend with respect to such dividend, or
       (B) the date such company acquired such share.
-    (10) Special rule for certain losses on stock in passive foreign investment company
-       To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of the taxable year, and any such reduction shall be treated as occurring on the first day of the following taxable year.
   (c) Earnings and profits
-    (1) In general
-       The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction in computing its taxable income for such taxable year. For purposes of this subsection, the term ””regulated investment company““ includes a domestic corporation which is a regulated investment company determined without regard to the requirements of subsection (a).
+    (1) Treatment of nondeductible items
+      (A) Net capital loss
+         If a regulated investment company has a net capital loss for any taxable year–
+        (i) such net capital loss shall not be taken into account for purposes of determining the company“s earnings and profits, and
+        (ii) any capital loss arising on the first day of the next taxable year by reason of clause (ii) or (iii) of section 1212(a)(3)(A) shall be treated as so arising for purposes of determining earnings and profits.
+      (B) Other nondeductible items
+        (i) In general
+           The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction (other than by reason of section 265 or 171(a)(2)) in computing its taxable income for such taxable year.
+        (ii) Coordination with treatment of net capital losses
+           Clause (i) shall not apply to a net capital loss to which subparagraph (A) applies.
     (2) Coordination with tax on undistributed income
-       For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss (or net foreign currency loss) attributable to transactions after October 31 of such year, without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of such year, and with such other adjustments as the Secretary may by regulations prescribe. The preceding sentence shall apply–
+       For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss attributable to the portion of the taxable year after October 31 and without regard to any late-year ordinary loss (as defined in subsection (b)(8)(D)). The preceding sentence shall apply–
       (A) only to the extent that the amount distributed by the company with respect to the calendar year does not exceed the required distribution for such calendar year (as determined under section 4982 by substituting ””100 percent““ for each percentage set forth in section 4982(b)(1)), and
       (B) except as provided in regulations, only if an election under section 4982(e)(4) is not in effect with respect to such company.
     (3) Distributions to meet requirements of subsection (a)(2)(B)
        Any distribution which is made in order to comply with the requirements of subsection (a)(2)(B)–
       (A) shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from earnings and profits which, but for the distribution, would result in a failure to meet such requirements (and allocated to such earnings on a first-in, first-out basis), and
       (B) to the extent treated under subparagraph (A) as made from accumulated earnings and profits, shall not be treated as a distribution for purposes of subsection (b)(2)(D) and section 855.
+    (4) Regulated investment company
+       For purposes of this subsection, the term ””regulated investment company““ includes a domestic corporation which is a regulated investment company determined without regard to the requirements of subsection (a).
   (d) Distributions in redemption of interests in unit investment trusts
      In the case of a unit investment trust–
     (1) which is registered under the Investment Company Act of 1940 (15 U.S.C. 80a–1 and following) and issues periodic payment plan certificates (as defined in such Act), and
@@ -133,7 +211,7 @@
        If–
       (A) the taxpayer incurs a load charge in acquiring stock in a regulated investment company and, by reason of incurring such charge or making such acquisition, the taxpayer acquires a reinvestment right,
       (B) such stock is disposed of before the 91st day after the date on which such stock was acquired, and
-      (C) the taxpayer subsequently acquires stock in such regulated investment company or in another regulated investment company and the otherwise applicable load charge is reduced by reason of the reinvestment right,
+      (C) the taxpayer acquires, during the period beginning on the date of the disposition referred to in subparagraph (B) and ending on January 31 of the calendar year following the calendar year that includes the date of such disposition, stock in such regulated investment company or in another regulated investment company and the otherwise applicable load charge is reduced by reason of the reinvestment right,
        the load charge referred to in subparagraph (A) (to the extent it does not exceed the reduction referred to in subparagraph (C)) shall not be taken into account for purposes of determining the amount of gain or loss on the disposition referred to in subparagraph (B). To the extent such charge is not taken into account in determining the amount of such gain or loss, such charge shall be treated as incurred in connection with the acquisition referred to in subparagraph (C) (including for purposes of reapplying this paragraph).
     (2) Definitions and special rules
        For purposes of this subsection–
@@ -143,3 +221,10 @@
          The term ””reinvestment right““ means any right to acquire stock of 1 or more regulated investment companies without the payment of a load charge or with the payment of a reduced charge.
       (C) Nonrecognition transactions
          If the taxpayer acquires stock in a regulated investment company from another person in a transaction in which gain or loss is not recognized, the taxpayer shall succeed to the treatment of such other person under this subsection.
+  (g) Special rules for fund of funds
+    (1) In general
+       In the case of a qualified fund of funds–
+      (A) such fund shall be qualified to pay exempt-interest dividends to its shareholders without regard to whether such fund satisfies the requirements of the first sentence of subsection (b)(5), and
+      (B) such fund may elect the application of section 853 (relating to foreign tax credit allowed to shareholders) without regard to the requirement of subsection (a)(1) thereof.
+    (2) Qualified fund of funds
+       For purposes of this subsection, the term ””qualified fund of funds““ means a regulated investment company if (at the close of each quarter of the taxable year) at least 50 percent of the value of its total assets is represented by interests in other regulated investment companies.

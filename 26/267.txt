@@ -103,6 +103,10 @@
         (iv) the transferee or the transferor is a foreign corporation.
       (C) Certain foreign currency losses
          To the extent provided in regulations, subsection (a)(1) shall not apply to any loss sustained by a member of a controlled group on the repayment of a loan made to another member of such group if such loan is payable in a foreign currency or is denominated in such a currency and such loss is attributable to a reduction in value of such foreign currency.
+      (D) Redemptions by fund-of-funds regulated investment companies
+         Except to the extent provided in regulations prescribed by the Secretary, subsection (a)(1) shall not apply to any distribution in redemption of stock of a regulated investment company if–
+        (i) such company issues only stock which is redeemable upon the demand of the stockholder, and
+        (ii) such redemption is upon the demand of another regulated investment company.
     (4) Determination of relationship resulting in disallowance of loss, for purposes of other provisions
        For purposes of any other section of this title which refers to a relationship which would result in a disallowance of losses under this section, deferral under paragraph (2) shall be treated as disallowance.
   (g) Coordination with section 1041

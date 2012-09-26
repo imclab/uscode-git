@@ -2,11 +2,10 @@
      The following items of gross income shall be treated as income from sources within the United States:
     (1) Interest
        Interest from the United States or the District of Columbia, and interest on bonds, notes, or other interest-bearing obligations of noncorporate residents or domestic corporations not including–
-      (A) interest from a resident alien individual or domestic corporation, if such individual or corporation meets the 80-percent foreign business requirements of subsection (c)(1),
-      (B) interest–
+      (A) interest–
         (i) on deposits with a foreign branch of a domestic corporation or a domestic partnership if such branch is engaged in the commercial banking business, and
         (ii) on amounts satisfying the requirements of subparagraph (B) of section 871(i)(3) which are paid by a foreign branch of a domestic corporation or a domestic partnership, and
-      (C) in the case of a foreign partnership, which is predominantly engaged in the active conduct of a trade or business outside the United States, any interest not paid by a trade or business engaged in by the partnership in the United States and not allocable to income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
+      (B) in the case of a foreign partnership, which is predominantly engaged in the active conduct of a trade or business outside the United States, any interest not paid by a trade or business engaged in by the partnership in the United States and not allocable to income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
     (2) Dividends
        The amount received as dividends–
       (A) from a domestic corporation other than a corporation which has an election in effect under section 936, or
@@ -33,31 +32,15 @@
       (B) in connection with risks not described in subparagraph (A) as a result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect to issuing (or reinsuring) any insurance or annuity contract in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of, the United States.
     (8) Social security benefits
        Any social security benefit (as defined in section 86(d)).
+    (9) Guarantees
+       Amounts received, directly or indirectly, from–
+      (A) a noncorporate resident or domestic corporation for the provision of a guarantee of any indebtedness of such resident or corporation, or
+      (B) any foreign person for the provision of a guarantee of any indebtedness of such person, if such amount is connected with income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
   (b) Taxable income from sources within United States
      From the items of gross income specified in subsection (a) as being income from sources within the United States there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
-  (c) Foreign business requirements
-    (1) Foreign business requirements
-      (A) In general
-         An individual or corporation meets the 80-percent foreign business requirements of this paragraph if it is shown to the satisfaction of the Secretary that at least 80 percent of the gross income from all sources of such individual or corporation for the testing period is active foreign business income.
-      (B) Active foreign business income
-         For purposes of subparagraph (A), the term ””active foreign business income““ means gross income which–
-        (i) is derived from sources outside the United States (as determined under this subchapter) or, in the case of a corporation, is attributable to income so derived by a subsidiary of such corporation, and
-        (ii) is attributable to the active conduct of a trade or business in a foreign country or possession of the United States by the individual or corporation (or by a subsidiary.)
-         For purposes of this subparagraph, the term ””subsidiary““ means any corporation in which the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting ””50 percent““ for ””80 percent““ each place it appears).
-      (C) Testing period
-         For purposes of this subsection, the term ””testing period““ means the 3-year period ending with the close of the taxable year of the individual or corporation preceding the payment (or such part of such period as may be applicable). If the individual or corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
-    (2) Look-thru where related person receives interest
-      (A) In general
-         In the case of interest received by a related person from a resident alien individual or domestic corporation meeting the 80-percent foreign business requirements of paragraph (1), subsection (a)(1)(A) shall apply only to a percentage of such interest equal to the percentage which–
-        (i) the gross income of such individual or corporation for the testing period from sources outside the United States (as determined under this subchapter), is of
-        (ii) the total gross income of such individual or corporation for the testing period.
-      (B) Related person
-         For purposes of this paragraph, the term ””related person““ has the meaning given such term by section 954(d)(3), except that–
-        (i) such section shall be applied by substituting ””the individual or corporation making the payment““ for ””controlled foreign corporation““ each place it appears, and
-        (ii) such section shall be applied by substituting ””10 percent or more““ for ””more than 50 percent““ each place it appears.
-  (d) Special rule for application of subsection (a)(2)(B)
+  (c) Special rule for application of subsection (a)(2)(B)
      For purposes of subsection (a)(2)(B), if the foreign corporation has no gross income from any source for the 3-year period (or part thereof) specified, the requirements of such subsection shall be applied with respect to the taxable year of such corporation in which the payment of the dividend is made.
-  (e) Income from certain railroad rolling stock treated as income from sources within the United States
+  (d) Income from certain railroad rolling stock treated as income from sources within the United States
     (1) General rule
        For purposes of subsection (a) and section 862(a), if–
       (A) a taxpayer leases railroad rolling stock which is section 1245 property (as defined in section 1245(a)(3)) to a domestic common carrier by railroad or a corporation which is controlled, directly or indirectly, by one or more such common carriers, and
@@ -67,5 +50,5 @@
        Paragraph (1) shall not apply to a lease between two members of the same controlled group of corporations (as defined in section 1563) if any member of such group is a domestic common carrier by railroad or a switching or terminal company all of whose stock is owned by one or more domestic common carriers by railroad.
     (3) Denial of foreign tax credit
        No credit shall be allowed under section 901 for any payments to foreign countries with respect to any amount received by the taxpayer with respect to railroad rolling stock which is subject to paragraph (1).
-  (f) Cross reference
+  (e) Cross reference
      T2For treatment of interest paid by the branch of a foreign corporation, see section 884(f).

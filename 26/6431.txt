@@ -8,3 +8,25 @@
      For purposes of this subsection, the term ””interest payment date““ means each date on which interest is payable by the issuer under the terms of the bond.
   (e) Qualified bond
      For purposes of this subsection, the term ””qualified bond““ has the meaning given such term in section 54AA(g).
+  (f) Application of section to certain qualified tax credit bonds
+    (1) In general
+       In the case of any specified tax credit bond–
+      (A) such bond shall be treated as a qualified bond for purposes of this section,
+      (B) subsection (a) shall be applied without regard to the requirement that the qualified bond be issued before January 1, 2011,
+      (C) the amount of the payment determined under subsection (b) with respect to any interest payment due under such bond shall be equal to the lesser of–
+        (i) the amount of interest payable under such bond on such date, or
+        (ii) the amount of interest which would have been payable under such bond on such date if such interest were determined at the applicable credit rate determined under section 54A(b)(3),
+      (D) interest on any such bond shall be includible in gross income for purposes of this title,
+      (E) no credit shall be allowed under section 54A with respect to such bond,
+      (F) any payment made under subsection (b) shall not be includible as income for purposes of this title, and
+      (G) the deduction otherwise allowed under this title to the issuer of such bond with respect to interest paid under such bond shall be reduced by the amount of the payment made under this section with respect to such interest.
+    (2) Special rule for new clean renewable energy bonds and qualified energy conservation bonds
+       In the case of any specified tax credit bond described in clause (i) or (ii) of paragraph (3)(A), the amount determined under paragraph (1)(C)(ii) shall be 70 percent of the amount so determined without regard to this paragraph and sections 54C(b) and 54D(b).
+    (3) Specified tax credit bond
+       For purposes of this subsection, the term ””specified tax credit bond““ means any qualified tax credit bond (as defined in section 54A(d)) if–
+      (A) such bond is–
+        (i) a new clean renewable energy bond (as defined in section 54C),
+        (ii) a qualified energy conservation bond (as defined in section 54D),
+        (iii) a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation, or
+        (iv) a qualified school construction bond (as defined in section 54F), and
+      (B) the issuer of such bond makes an irrevocable election to have this subsection apply.

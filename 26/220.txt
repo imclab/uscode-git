@@ -100,7 +100,7 @@
       (E) The interest of an individual in the balance in his account is nonforfeitable.
     (2) Qualified medical expenses
       (A) In general
-         The term ””qualified medical expenses““ means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise.
+         The term ””qualified medical expenses““ means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
       (B) Health insurance may not be purchased from account
         (i) In general
            Subparagraph (A) shall not apply to any payment for insurance.
@@ -140,7 +140,7 @@
          For purposes of subparagraph (A), the term ””excess contribution““ means any contribution (other than a rollover contribution) which is neither excludable from gross income under section 106(b) nor deductible under this section.
     (4) Additional tax on distributions not used for qualified medical expenses
       (A) In general
-         The tax imposed by this chapter on the account holder for any taxable year in which there is a payment or distribution from an Archer MSA of such holder which is includible in gross income under paragraph (2) shall be increased by 15 percent of the amount which is so includible.
+         The tax imposed by this chapter on the account holder for any taxable year in which there is a payment or distribution from an Archer MSA of such holder which is includible in gross income under paragraph (2) shall be increased by 20 percent of the amount which is so includible.
       (B) Exception for disability or death
          Subparagraph (A) shall not apply if the payment or distribution is made after the account holder becomes disabled within the meaning of section 72(m)(7) or dies.
       (C) Exception for distributions after medicare eligibility

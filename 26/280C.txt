@@ -39,3 +39,21 @@
      No deduction shall be allowed for that portion of the expenses otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit determined for the taxable year under section 45N(a).
   (f) Credit for security of agricultural chemicals
      No deduction shall be allowed for that portion of the expenses otherwise allowable as a deduction taken into account in determining the credit under section 45O for the taxable year which is equal to the amount of the credit determined for such taxable year under section 45O(a).
+  (g) \2\N Credit for health insurance premiums
+     No deduction shall be allowed for the portion of the premiums paid by the taxpayer for coverage of 1 or more individuals under a qualified health plan which is equal to the amount of the credit determined for the taxable year under section 36B(a) with respect to such premiums.
+  (h) Credit for employee health insurance expenses of small employers
+     No deduction shall be allowed for that portion of the premiums for qualified health plans (as defined in section 1301(a) of the Patient Protection and Affordable Care Act), or for health insurance coverage in the case of taxable years beginning in 2010, 2011, 2012, or 2013, paid by an employer which is equal to the amount of the credit determined under section 45R(a) with respect to the premiums.
+  (g) \3\N Qualifying therapeutic discovery project credit
+    (1) In general
+       No deduction shall be allowed for that portion of the qualified investment (as defined in section 48D(b)) otherwise allowable as a deduction for the taxable year which–
+      (A) would be qualified research expenses (as defined in section 41(b)), basic research expenses (as defined in section 41(e)(2)), or qualified clinical testing expenses (as defined in section 45C(b)) if the credit under section 41 or section 45C were allowed with respect to such expenses for such taxable year, and
+      (B) is equal to the amount of the credit determined for such taxable year under section 48D(a), reduced by–
+        (i) the amount disallowed as a deduction by reason of section 48D(e)(2)(B), and
+        (ii) the amount of any basis reduction under section 48D(e)(1).
+    (2) Similar rule where taxpayer capitalizes rather than deducts expenses
+       In the case of expenses described in paragraph (1)(A) taken into account in determining the credit under section 48D for the taxable year, if–
+      (A) the amount of the portion of the credit determined under such section with respect to such expenses, exceeds
+      (B) the amount allowable as a deduction for such taxable year for such expenses (determined without regard to paragraph (1)),
+       the amount chargeable to capital account for the taxable year for such expenses shall be reduced by the amount of such excess.
+    (3) Controlled groups
+       Paragraph (3) of subsection (b) shall apply for purposes of this subsection.

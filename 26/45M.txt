@@ -9,20 +9,29 @@
      For purposes of subsection (a)–
     (1) Dishwashers
        The applicable amount is–
-      (A) $45 in the case of a dishwasher which is manufactured in calendar year 2008 or 2009 and which uses no more than 324 kilowatt hours per year and 5.8 gallons per cycle, and
-      (B) $75 in the case of a dishwasher which is manufactured in calendar year 2008, 2009, or 2010 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings).
+      (A) $45 in the case of a dishwasher which is manufactured in calendar year 2008 or 2009 and which uses no more than 324 kilowatt hours per year and 5.8 gallons per cycle,
+      (B) $75 in the case of a dishwasher which is manufactured in calendar year 2008, 2009, or 2010 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),
+      (C) $25 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),
+      (D) $50 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 295 kilowatt hours per year and 4.25 gallons per cycle (4.75 gallons per cycle for dishwashers designed for greater than 12 place settings), and
+      (E) $75 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 280 kilowatt hours per year and 4 gallons per cycle (4.5 gallons per cycle for dishwashers designed for greater than 12 place settings).
     (2) Clothes washers
        The applicable amount is–
       (A) $75 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 which meets or exceeds a 1.72 modified energy factor and does not exceed a 8.0 water consumption factor,
       (B) $125 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 or 2009 which meets or exceeds a 1.8 modified energy factor and does not exceed a 7.5 water consumption factor,
-      (C) $150 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds \1\N 2.0 modified energy factor and does not exceed a 6.0 water consumption factor, and
-      (D) $250 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds \1\ 2.2 modified energy factor and does not exceed a 4.5 water consumption factor.
+      (C) $150 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds \1\N 2.0 modified energy factor and does not exceed a 6.0 water consumption factor,
+      (D) $250 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds \1\ 2.2 modified energy factor and does not exceed a 4.5 water consumption factor,
+      (E) $175 in the case of a top-loading clothes washer manufactured in calendar year 2011 which meets or exceeds a 2.2 modified energy factor and does not exceed a 4.5 water consumption factor, and
+      (F) $225 in the case of a clothes washer manufactured in calendar year 2011–
+        (i) which is a top-loading clothes washer and which meets or exceeds a 2.4 modified energy factor and does not exceed a 4.2 water consumption factor, or
+        (ii) which is a front-loading clothes washer and which meets or exceeds a 2.8 modified energy factor and does not exceed a 3.5 water consumption factor.
     (3) Refrigerators
        The applicable amount is–
       (A) $50 in the case of a refrigerator which is manufactured in calendar year 2008, and consumes at least 20 percent but not more than 22.9 percent less kilowatt hours per year than the 2001 energy conservation standards,
       (B) $75 in the case of a refrigerator which is manufactured in calendar year 2008 or 2009, and consumes at least 23 percent but no more than 24.9 percent less kilowatt hours per year than the 2001 energy conservation standards,
-      (C) $100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009, or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt hours per year than the 2001 energy conservation standards, and
-      (D) $200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010 and which consumes at least 30 percent less energy than the 2001 energy conservation standards.
+      (C) $100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009, or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt hours per year than the 2001 energy conservation standards,
+      (D) $200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010 and which consumes at least 30 percent less energy than the 2001 energy conservation standards,
+      (E) $150 in the case of a refrigerator manufactured in calendar year 2011 which consumes at least 30 percent less energy than the 2001 energy conservation standards, and
+      (F) $200 in the case of a refrigerator manufactured in calendar year 2011 which consumes at least 35 percent less energy than the 2001 energy conservation standards.
   (c) Eligible production
      The eligible production in a calendar year with respect to each type of energy efficient appliance is the excess of–
     (1) the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over
@@ -34,11 +43,11 @@
     (3) refrigerators described in subsection (b)(3).
   (e) Limitations
     (1) Aggregate credit amount allowed
-       The aggregate amount of credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $75,000,000 reduced by the amount of the credit allowed under subsection (a) to the taxpayer (or any predecessor) for all prior taxable years beginning after December 31, 2007.
+       The aggregate amount of credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $25,000,000 reduced by the amount of the credit allowed under subsection (a) to the taxpayer (or any predecessor) for all prior taxable years beginning after December 31, 2010.
     (2) Amount allowed for certain refrigerators and clothes washers
-       Refrigerators described in subsection (b)(3)(D) and clothes washers described in subsection (b)(2)(D) shall not be taken into account under paragraph (1).
+       Refrigerators described in subsection (b)(3)(F) and clothes washers described in subsection (b)(2)(F) shall not be taken into account under paragraph (1).
     (3) Limitation based on gross receipts
-       The credit allowed under subsection (a) with respect to a taxpayer for the taxable year shall not exceed an amount equal to 2 percent of the average annual gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the credit is determined.
+       The credit allowed under subsection (a) with respect to a taxpayer for the taxable year shall not exceed an amount equal to 4 percent of the average annual gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the credit is determined.
     (4) Gross receipts
        For purposes of this subsection, the rules of paragraphs (2) and (3) of section 448(c) shall apply.
   (f) Definitions

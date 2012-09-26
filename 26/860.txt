@@ -41,7 +41,7 @@
         (i) the excess of the amount of increase referred to in subparagraph (A) of paragraph (1) or (2) of subsection (d) (whichever applies) over the amount of any increase in the deduction for dividends paid (computed without regard to capital gain dividends) for such taxable year which results from such determination, and
         (ii) the amount of decreased \1\N referred to in subparagraph (C) of paragraph (1) or (2) of subsection (d) (whichever applies).
       (B) Capital gain dividends
-         The amount of deficiency dividends qualifying as capital gain dividends paid by a qualified investment entity for the taxable year with respect to which the liability for tax resulting from the determination exists shall not exceed the amount by which (i) the increase referred to in subparagraph (B) of paragraph (1) or (2) of subsection (d) (whichever applies), exceeds (ii) the amount of any dividends paid during such taxable year which are designated as capital gain dividends after such determination.
+         The amount of deficiency dividends qualifying as capital gain dividends paid by a qualified investment entity for the taxable year with respect to which the liability for tax resulting from the determination exists shall not exceed the amount by which (i) the increase referred to in subparagraph (B) of paragraph (1) or (2) of subsection (d) (whichever applies), exceeds (ii) the amount of any dividends paid during such taxable year which are designated or reported (as the case may be) as capital gain dividends after such determination.
     (3) Effect on dividends paid deduction
       (A) For taxable year in which paid
          Deficiency dividends paid in any taxable year shall not be included in the amount of dividends paid for such year for purposes of computing the dividends paid deduction for such year.
@@ -58,6 +58,4 @@
       (B) if claim for a deficiency dividend deduction is filed under subsection (g), the collection of such part of the deficiency as is not reduced by the deduction for deficiency dividends provided in subsection (a) shall be stayed until the date the claim is disallowed (in whole or in part), and if disallowed in part collection shall be made only with respect to the part disallowed.
         (i) Deduction denied in case of fraud
            No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull \2\N failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
-        (j) Penalty
-           T2For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.
        No distraint or proceeding in court shall be begun for the collection of an amount the collection of which is stayed under subparagraph (A) or (B) during the period for which the collection of such amount is stayed.

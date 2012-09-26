@@ -1,5 +1,5 @@
   (a) In general
-     The person to whom premiums are payable under COBRA continuation coverage shall be reimbursed as provided in subsection (c) for the amount of premiums not paid by assistance eligible individuals by reason of section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009.\1\N
+     The person to whom premiums are payable under COBRA continuation coverage shall be reimbursed as provided in subsection (c) for the amount of premiums not paid by assistance eligible individuals by reason of section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009.
   (b) Person entitled to reimbursement
      For purposes of subsection (a), except as otherwise provided by the Secretary, the person to whom premiums are payable under COBRA continuation coverage shall be treated as being–
     (1) in the case of any group health plan which is a multiemployer plan (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974), the plan,
@@ -19,7 +19,7 @@
     (2) Overstatements
        Any overstatement of the reimbursement to which a person is entitled under this section (and any amount paid by the Secretary as a result of such overstatement) shall be treated as an underpayment of payroll taxes by such person and may be assessed and collected by the Secretary in the same manner as payroll taxes.
     (3) Reimbursement contingent on payment of remaining premium
-       No reimbursement may be made under this section to a person with respect to any assistance eligible individual until after the reduced premium required under section 3002(a)(1)(A) of such Act \1\ with respect to such individual has been received.
+       No reimbursement may be made under this section to a person with respect to any assistance eligible individual until after the reduced premium required under section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009 with respect to such individual has been received.
   (d) Definitions
      For purposes of this section–
     (1) Payroll taxes
@@ -29,12 +29,17 @@
       (C) amounts of the taxes imposed for the payroll period under section 3111 (relating to FICA employer taxes).
     (2) Person
        The term ””person““ includes any governmental entity.
-  (e) Reporting
+  (e) Employer determination of qualifying event as involuntary termination
+     For purposes of this section, in any case in which–
+    (1) based on a reasonable interpretation of section 3001(a)(3)(C) of division B of the American Recovery and Reinvestment Act of 2009 and administrative guidance thereunder, an employer determines that the qualifying event with respect to COBRA continuation coverage for an individual was involuntary termination of a covered employee“s employment, and
+    (2) the employer maintains supporting documentation of the determination, including an attestation by the employer of involuntary termination with respect to the covered employee,
+       the qualifying event for the individual shall be deemed to be involuntary termination of the covered employee“s employment.
+  (f) Reporting
      Each person entitled to reimbursement under subsection (a) for any period shall submit such reports (at such time and in such manner) as the Secretary may require, including–
     (1) an attestation of involuntary termination of employment for each covered employee on the basis of whose termination entitlement to reimbursement is claimed under subsection (a),
     (2) a report of the amount of payroll taxes offset under subsection (a) for the reporting period and the estimated offsets of such taxes for the subsequent reporting period in connection with reimbursements under subsection (a), and
     (3) a report containing the TINs of all covered employees, the amount of subsidy reimbursed with respect to each covered employee and qualified beneficiaries, and a designation with respect to each covered employee as to whether the subsidy reimbursement is for coverage of 1 individual or 2 or more individuals.
-  (f) Regulations
+  (g) Regulations
      The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out this section, including–
     (1) the requirement to report information or the establishment of other methods for verifying the correct amounts of reimbursements under this section, and
     (2) the application of this section to group health plans that are multiemployer plans (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974).

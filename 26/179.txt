@@ -2,9 +2,15 @@
      A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
   (b) Limitations
     (1) Dollar limitation
-       The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $25,000 ($125,000 in the case of taxable years beginning after 2006 and before 2011).
+       The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed–
+      (A) $250,000 in the case of taxable years beginning after 2007 and before 2010,
+      (B) $500,000 in the case of taxable years beginning in 2010 or 2011, and
+      (C) $25,000 in the case of taxable years beginning after 2011.
     (2) Reduction in limitation
-       The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $200,000 ($500,000 in the case of taxable years beginning after 2006 and before 2011).
+       The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds–
+      (A) $800,000 in the case of taxable years beginning after 2007 and before 2010,
+      (B) $2,000,000 in the case of taxable years beginning in 2010 or 2011, and
+      (C) $200,000 in the case of taxable years beginning after 2011.
     (3) Limitation based on income from trade or business
       (A) In general
          The amount allowed as a deduction under subsection (a) for any taxable year (determined after the application of paragraphs (1) and (2)) shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived from the active conduct by the taxpayer of any trade or business during such taxable year.
@@ -20,17 +26,7 @@
        In the case of a husband and wife filing separate returns for the taxable year–
       (A) such individuals shall be treated as 1 taxpayer for purposes of paragraphs (1) and (2), and
       (B) unless such individuals elect otherwise, 50 percent of the cost which may be taken into account under subsection (a) for such taxable year (before application of paragraph (3)) shall be allocated to each such individual.
-    (5) Inflation adjustments
-      (A) In general
-         In the case of any taxable year beginning in a calendar year after 2007 and before 2011, the $125,000 and $500,000 amounts in paragraphs (1) and (2) shall each be increased by an amount equal to–
-        (i) such dollar amount, multiplied by
-        (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ””calendar year 2006““ for ””calendar year 1992““ in subparagraph (B) thereof.
-      (B) Rounding
-        (i) Dollar limitation
-           If the amount in paragraph (1) as increased under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
-        (ii) Phaseout amount
-           If the amount in paragraph (2) as increased under subparagraph (A) is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.
-    (6) Limitation on cost taken into account for certain passenger vehicles
+    (5) Limitation on cost taken into account for certain passenger vehicles
       (A) In general
          The cost of any sport utility vehicle for any taxable year which may be taken into account under this section shall not exceed $25,000.
       (B) Sport utility vehicle
@@ -45,11 +41,6 @@
           (I) is designed to have a seating capacity of more than 9 persons behind the driver“s seat,
           (II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
           (III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver“s seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
-    (7) Increase in limitations for 2008, and 2009
-       In the case of any taxable year beginning in 2008, or 2009–
-      (A) the dollar limitation under paragraph (1) shall be $250,000,
-      (B) the dollar limitation under paragraph (2) shall be $800,000, and
-      (C) the amounts described in subparagraphs (A) and (B) shall not be adjusted under paragraph (5).
   (c) Election
     (1) In general
        An election under this section for any taxable year shall–
@@ -57,13 +48,13 @@
       (B) be made on the taxpayer“s return of the tax imposed by this chapter for the taxable year.
        Such election shall be made in such manner as the Secretary may by regulations prescribe.
     (2) Election irrevocable
-       Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2011 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
+       Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2012 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
   (d) Definitions and special rules
     (1) Section 179 property
        For purposes of this section, the term ””section 179 property““ means property–
       (A) which is–
         (i) tangible property (to which section 168 applies), or
-        (ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2011,
+        (ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2012,
       (B) which is section 1245 property (as defined in section 1245(a)(3)), and
       (C) which is acquired by purchase for use in the active conduct of a trade or business.
        Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units.
@@ -109,3 +100,28 @@
        For purposes of sections 1397A and 1400J, qualified section 179 disaster assistance property shall not be treated as qualified zone property or qualified renewal property, unless the taxpayer elects not to take such qualified section 179 disaster assistance property into account for purposes of this subsection.
     (4) Recapture
        For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
+  (f) Special rules for qualified real property
+    (1) In general
+       If a taxpayer elects the application of this subsection for any taxable year beginning in 2010 or 2011, the term ””section 179 property““ shall include any qualified real property which is–
+      (A) of a character subject to an allowance for depreciation,
+      (B) acquired by purchase for use in the active conduct of a trade or business, and
+      (C) not described in the last sentence of subsection (d)(1).
+    (2) Qualified real property
+       For purposes of this subsection, the term ””qualified real property““ means–
+      (A) qualified leasehold improvement property described in section 168(e)(6),
+      (B) qualified restaurant property described in section 168(e)(7), and
+      (C) qualified retail improvement property described in section 168(e)(8).
+    (3) Limitation
+       For purposes of applying the limitation under subsection (b)(1)(B), not more than $250,000 of the aggregate cost which is taken into account under subsection (a) for any taxable year may be attributable to qualified real property.
+    (4) Carryover limitation
+      (A) In general
+         Notwithstanding subsection (b)(3)(B), no amount attributable to qualified real property may be carried over to a taxable year beginning after 2011.
+      (B) Treatment of disallowed amounts
+         Except as provided in subparagraph (C), to the extent that any amount is not allowed to be carried over to a taxable year beginning after 2011 by reason of subparagraph (A), this title shall be applied as if no election under this section had been made with respect to such amount.
+      (C) Amounts carried over from 2010
+         If subparagraph (B) applies to any amount (or portion of an amount) which is carried over from a taxable year other than the taxpayer“s last taxable year beginning in 2011, such amount (or portion of an amount) shall be treated for purposes of this title as attributable to property placed in service on the first day of the taxpayer“s last taxable year beginning in 2011.
+      (D) Allocation of amounts
+         For purposes of applying this paragraph and subsection (b)(3)(B) to any taxable year, the amount which is disallowed under subsection (b)(3)(A) for such taxable year which is attributed to qualified real property shall be the amount which bears the same ratio to the total amount so disallowed as–
+        (i) the aggregate amount attributable to qualified real property placed in service during such taxable year, increased by the portion of any amount carried over to such taxable year from a prior taxable year which is attributable to such property, bears to
+        (ii) the total amount of section 179 property placed in service during such taxable year, increased by the aggregate amount carried over to such taxable year from any prior taxable year.
+         For purposes of the preceding sentence, only section 179 property with respect to which an election was made under subsection (c)(1) (determined without regard to subparagraph (B) of this paragraph) shall be taken into account.
