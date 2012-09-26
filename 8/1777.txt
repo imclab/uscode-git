@@ -1,14 +1,37 @@
-  (a) Establishment
-     There is established a Human Smuggling and Trafficking Center (referred to in this section as the ””Center““).
-  (b) Operation
-     The Secretary of State, the Secretary of Homeland Security, and the Attorney General shall operate the Center in accordance with the Memorandum of Understanding entitled, ””Human Smuggling and Trafficking Center (HSTC), Charter““.
-  (c) Functions
-     In addition to such other responsibilities as the President may assign, the Center shall–
-    (1) serve as the focal point for interagency efforts to address terrorist travel;
-    (2) serve as a clearinghouse with respect to all relevant information from all Federal Government agencies in support of the United States strategy to prevent separate, but related, issues of clandestine terrorist travel and facilitation of migrant smuggling and trafficking of persons;
-    (3) ensure cooperation among all relevant policy, law enforcement, diplomatic, and intelligence agencies of the Federal Government to improve effectiveness and to convert all information available to the Federal Government relating to clandestine terrorist travel and facilitation, migrant smuggling, and trafficking of persons into tactical, operational, and strategic intelligence that can be used to combat such illegal activities; and
-    (4) prepare and submit to Congress, on an annual basis, a strategic assessment regarding vulnerabilities in the United States and foreign travel system that may be exploited by international terrorists, human smugglers and traffickers, and their facilitators.
-  (d) Report
-     Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.
-  (e) Relationship to the NCTC
-     As part of its mission to combat terrorist travel, the Center shall work to support the efforts of the National Counterterrorism Center.
+  (1) Review, evaluation, and revision of existing training programs
+     The Secretary of Homeland Security shall–
+    (A) review and evaluate the training regarding travel and identity documents, and techniques, patterns, and trends associated with terrorist travel that is provided to personnel of the Department of Homeland Security;
+    (B) in coordination with the Secretary of State, review and evaluate the training described in subparagraph (A) that is provided to relevant personnel of the Department of State; and
+    (C) in coordination with the Secretary of State, develop and implement an initial training and periodic retraining program–
+      (i) to teach border, immigration, and consular officials (who inspect or review travel or identity documents as part of their official duties) how to effectively detect, intercept, and disrupt terrorist travel; and
+      (ii) to ensure that the officials described in clause (i) regularly receive the most current information on such matters and are periodically retrained on the matters described in paragraph (2).
+  (2) Required topics of revised programs
+     The training program developed under paragraph (1)(C) shall include training in–
+    (A) methods for identifying fraudulent and genuine travel documents;
+    (B) methods for detecting terrorist indicators on travel documents and other relevant identity documents;
+    (C) recognition of travel patterns, tactics, and behaviors exhibited by terrorists;
+    (D) effective utilization of information contained in databases and data systems available to the Department of Homeland Security; and
+    (E) other topics determined to be appropriate by the Secretary of Homeland Security, in consultation with the Secretary of State or the Director of National Intelligence.
+  (3) Implementation
+    (A) Department of Homeland Security
+      (i) In general
+         The Secretary of Homeland Security shall provide all border and immigration officials who inspect or review travel or identity documents as part of their official duties with the training described in paragraph (1)(C).
+      (ii) Report to Congress
+         Not later than 12 months after December 17, 2004, and annually thereafter for a period of 3 years, the Secretary of Homeland Security shall submit a report to Congress that–
+        (I) describes the number of border and immigration officials who inspect or review identity documents as part of their official duties, and the proportion of whom have received the revised training program described in paragraph (1)(C)(i);
+        (II) explains the reasons, if any, for not completing the requisite training described in paragraph (1)(C)(i);
+        (III) provides a timetable for completion of the training described in paragraph (1)(C)(i) for those who have not received such training; and
+        (IV) describes the status of periodic retraining of appropriate personnel described in paragraph (1)(C)(ii).
+    (B) Department of State
+      (i) In general
+         The Secretary of State shall provide all consular officers who inspect or review travel or identity documents as part of their official duties with the training described in paragraph (1)(C).
+      (ii) Report to Congress
+         Not later than 12 months after December 17, 2004, and annually thereafter for a period of 3 years, the Secretary of State shall submit a report to Congress that–
+        (I) describes the number of consular officers who inspect or review travel or identity documents as part of their official duties, and the proportion of whom have received the revised training program described in paragraph (1)(C)(i);
+        (II) explains the reasons, if any, for not completing the requisite training described in paragraph (1)(C)(i);
+        (III) provides a timetable for completion of the training described in paragraph (1)(C)(i) for those who have not received such training; and
+        (IV) describes the status of periodic retraining of appropriate personnel described in paragraph (1)(C)(ii).
+  (4) Assistance to others
+     The Secretary of Homeland Security may assist States, Indian tribes, local governments, and private organizations to establish training programs related to terrorist travel intelligence.
+  (5) Authorization of appropriations
+     There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out the provisions of this section.
