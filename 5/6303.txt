@@ -2,7 +2,7 @@
     (1) one-half day for each full biweekly pay period for an employee with less than 3 years of service;
     (2) three-fourths day for each full biweekly pay period, except that the accrual for the last full biweekly pay period in the year is one and one-fourth days, for an employee with 3 but less than 15 years of service; and
     (3) one day for each full biweekly pay period for an employee with 15 or more years of service.
-       In determining years of service, an employee is entitled to credit for all service of a type that would be creditable under section 8332, regardless of whether or not the employee is covered by subchapter III of chapter 83. However, an employee who is a retired member of a uniformed service as defined by section 3501 of this title is entitled to credit for active military service only if–
+       In determining years of service, an employee is entitled to credit for all service of a type that would be creditable under section 8332, regardless of whether or not the employee is covered by subchapter III of chapter 83, and for all service which is creditable by virtue of subsection (e). However, an employee who is a retired member of a uniformed service as defined by section 3501 of this title is entitled to credit for active military service only if–
       (A) his retirement was based on disability–
         (i) resulting from injury or disease received in line of duty as a direct result of armed conflict; or
         (ii) caused by an instrumentality of war and incurred in line of duty during a period of war as defined by sections 101 and 1101 of title 38;
@@ -16,3 +16,15 @@
     (2) whose post of duty is outside the United States; and
     (3) who returns on leave to the United States, or to his place of residence, which is outside the area of employment, in its territories or possessions including the Commonwealth of Puerto Rico.
        This subsection does not apply to more than one period of leave in a prescribed tour of duty at a post outside the United States.
+  (e)    (1) Not later than 180 days after the date of the enactment of this subsection, the Office of Personnel Management shall prescribe regulations under which, for purposes of determining years of service under subsection (a), credit shall, in the case of a newly appointed employee, be given for any prior service of such employee that would not otherwise be creditable for such purposes, if–
+      (A) such service–
+        (i) was performed in a position the duties of which directly relate to the duties of the position to which such employee is so appointed; and
+        (ii) meets such other requirements as the Office may prescribe; and
+      (B) in the judgment of the head of the appointing agency, the application of this subsection is necessary in order to achieve an important agency mission or performance goal.
+    (2) Service described in paragraph (1)–
+      (A) shall be creditable, for the purposes described in paragraph (1), as of the effective date of the employee“s appointment; and
+      (B) shall not thereafter cease to be so creditable, unless the employee fails to complete a full year of continuous service with the agency.
+    (3) An employee shall not be eligible for the application of paragraph (1) on the basis of any appointment if, within 90 days before the effective date of such appointment, such employee has held any position in the civil service.
+  (f) Notwithstanding any other provision of this section, the rate of accrual of annual leave under subsection (a) shall be 1 day for each full biweekly pay period in the case of any employee who holds a position which is subject to–
+    (1) section 5376 or 5383; or
+    (2) a pay system equivalent to either of the foregoing, as determined by the Office of Personnel Management.

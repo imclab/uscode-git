@@ -1,12 +1,18 @@
-  (a) Any individual described in paragraph (1) or (2) of subsection (b) may elect to continue coverage under this chapter in accordance with the provisions of this section.
+  (a) Any individual described in subsection (b) may elect to continue coverage under this chapter in accordance with the provisions of this section.
   (b) This section applies with respect to–
     (1) any employee who–
       (A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shall not apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
-      (B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract); and
+      (B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
     (2) any individual who–
       (A) ceases to meet the requirements for being considered an unmarried dependent child under this chapter;
       (B) on the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered under a health benefits plan under this chapter as a member of the family of an employee or annuitant; and
-      (C) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract).
+      (C) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract); and
+    (3) any employee who–
+      (A) is enrolled in a health benefits plan under this chapter;
+      (B) is a member of a reserve component of the armed forces;
+      (C) is called or ordered to active duty in support of a contingency operation (as defined in section 101(a)(13) of title 10);
+      (D) is placed on leave without pay or separated from service to perform active duty; and
+      (E) serves on active duty for a period of more than 30 consecutive days.
   (c)    (1) The Office shall prescribe regulations and provide for the inclusion of appropriate terms in contracts with carriers to provide that–
       (A) with respect to an employee who becomes (or will become) eligible for continued coverage under this section as a result of separation from service, the separating agency shall, before the end of the 30-day period beginning on the date as of which coverage (including any temporary extensions of coverage) would otherwise end, notify the individual of such individual“s rights under this section; and
       (B) with respect to a child of an employee or annuitant who becomes eligible for continued coverage under this section as a result of ceasing to meet the requirements for being considered a member of the employee“s or annuitant“s family–
@@ -38,16 +44,17 @@
         (i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
         (ii) the agency which last employed the individual shall pay the remaining portion of the amount required under paragraph (1)(A).
       (B) This paragraph shall apply with respect to any individual whose continued coverage is based on a separation occurring on or after the date of enactment of this paragraph and before–
-        (i) October 1, 2006; or
-        (ii) February 1, 2007, if specific notice of such separation was given to such individual before October 1, 2006.
+        (i) October 1, 2010; or
+        (ii) February 1, 2011, if specific notice of such separation was given to such individual before October 1, 2010.
       (C) For the purpose of this paragraph, ””surplus position““ means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
     (5)      (A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 of the Atomic Energy Defense Act–
         (i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
         (ii) the agency which last employed the individual shall pay the remaining portion of the amount required under paragraph (1)(A).
       (B) This paragraph shall only apply with respect to individuals whose continued coverage is based on a separation occurring on or after the date of the enactment of this paragraph.
   (e)    (1) Continued coverage under this section may not extend beyond–
-      (A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation; or
-      (B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2).
+      (A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation;
+      (B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2); or
+      (C) in the case of an employee described in subsection (b)(3), the date which is 24 months after the employee is placed on leave without pay or separated from service to perform active duty.
     (2) In the case of an individual who–
       (A) ceases to meet the requirements for being considered an unmarried dependent child;
       (B) as of the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered as the child of a former employee receiving continued coverage under this section based on the former employee“s separation from service; and

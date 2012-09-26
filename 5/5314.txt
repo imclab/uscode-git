@@ -14,7 +14,6 @@
    Chairman, Surface Transportation Board.
    Chairman, National Labor Relations Board.
    Chairman, Securities and Exchange Commission.
-   Chairman, Board of Directors of the Tennessee Valley Authority.
    Chairman, National Mediation Board.
    Chairman, Railroad Retirement Board.
    Chairman, Federal Maritime Commission.
@@ -24,6 +23,9 @@
    Under Secretary of Defense (Comptroller).
    Under Secretary of Defense for Personnel and Readiness.
    Under Secretary of Defense for Intelligence.
+   Under Secretary of the Air Force.
+   Under Secretary of the Army.
+   Under Secretary of the Navy.
    Deputy Administrator of the National Aeronautics and Space Administration.
    Deputy Directors of Central Intelligence (2).
    Director of the Office of Emergency Planning.
@@ -47,7 +49,7 @@
    Governor of the Farm Credit Administration.
    Chairman, Equal Employment Opportunity Commission.
    Chairman, Consumer Product Safety Commission.
-   Under Secretaries of Energy (2).
+   Under Secretaries of Energy (3).
    Chairman, Commodity Futures Trading Commission.
    Deputy United States Trade Representatives (3).
    Chief Agricultural Negotiator.
@@ -86,7 +88,7 @@
    Chairperson of the Federal Housing Finance Board.
    Executive Secretary, National Space Council.
    Controller, Office of Federal Financial Management, Office of Management and Budget.
-   Administrator, Research and Special Programs Administration.
+   Administrator, Research and Innovative Technology Administration.
    Deputy Director for Demand Reduction, Office of National Drug Control Policy.
    Deputy Director for Supply Reduction, Office of National Drug Control Policy.
    Deputy Director for State and Local Affairs, Office of National Drug Control Policy.
@@ -95,3 +97,5 @@
    Commissioner of Customs, Department of Homeland Security.
    Under Secretary of Education \1\N
    Administrator of the Centers for Medicare & Medicaid Services.
+   Administrator of the Office of Electronic Government.
+   Administrator, Pipeline and Hazardous Materials Safety Administration.
