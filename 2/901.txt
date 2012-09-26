@@ -27,24 +27,22 @@
   (b) Adjustments to discretionary spending limits
     (1) Preview report
       (A) T4Concepts and definitionsK.–When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the committees \1\N on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
-      (B) T4Adjustment to align highway spending with revenuesK.–(i) When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to the highway category for the budget year and each outyear as provided in clause (ii)(I)(cc).
+      (B) T4Adjustment to align highway spending with revenuesK.–(i) When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall make adjustments to the highway category for the budget year and each outyear as provided in clause (ii)(I)(cc).
   (ii)    (I)      (aa) OMB shall take the actual level of highway receipts for the year before the current year and subtract the sum of the estimated level of highway receipts in subclause (II) plus any amount previously calculated under item (bb) for that year.
-      (bb) OMB shall take the current estimate of highway receipts for the budget year and subtract the estimated level of receipts for that year.
-      (cc) OMB shall take the sum of the amounts calculated under items (aa) and (bb), add that sum to the amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century for the highway category for the budget year, and calculate the outlay change resulting from that change in obligations relative to that amount for the budget year and each outyear using current estimates. After making the calculation under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year by adding the sum of the amounts calculated under items (aa) and (bb).
+      (bb) OMB shall take the current estimate of highway receipts for the current year and subtract the estimated level of receipts for that year.
+      (cc) OMB shall add one-half of the sum of the amount calculated under items (aa) and (bb) to the obligation limitations set forth in the section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and, using current estimates, calculate the outlay change resulting from the change in obligations for the budget year and the first outyear and the outlays flowing therefrom through subsequent fiscal years. After making the calculations under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year and the first outyear by adding one-half of the sum of the amount calculated under items (aa) and (bb) to each such year.
     (II) The estimated level of highway receipts for the purposes of this clause are–
-      (aa) for fiscal year 1998, $22,164,000,000;
-      (bb) for fiscal year 1999, $32,619,000,000;
-      (cc) for fiscal year 2000, $28,066,000,000;
-      (dd) for fiscal year 2001, $28,506,000,000;
-      (ee) for fiscal year 2002, $28,972,000,000; and
-      (ff) for fiscal year 2003, $29,471,000,000.
+      (aa) for fiscal year 2005, $31,562,000,000;
+      (bb) for fiscal year 2006, $33,712,000,000;
+      (cc) for fiscal year 2007, $34,623,000,000 \2\N
+      (dd) for fiscal year 2008, $35,449,000,000; and
+      (ee) for fiscal year 2009, $36,220,000,000.
     (III) In this clause, the term ””highway receipts““ means the governmental receipts credited to the highway account of the Highway Trust Fund.
-  (C)    (i) In addition to the adjustment required by subparagraph (B), when the President submits the budget under section 1105 of title 31 for fiscal years \2\N 2000, 2001, 2002, or 2003, OMB shall calculate and the budget shall include for the budget year and each outyear an adjustment to the limits on outlays for the highway category and the mass transit category equal to–
-      (I) the outlays for the applicable category calculated assuming obligation levels consistent with the estimates prepared pursuant to subparagraph (D), as adjusted, using current technical assumptions; minus
-      (II) the outlays for the applicable category set forth in the subparagraph (D) estimates, as adjusted.
-    (ii) The adjustment made pursuant to clause (i) in the fiscal years 2002 and 2003 budget submissions of the President under section 1105(a) of title 31 shall not exceed 4 percent plus cumulative carryovers. In this clause, the term ””cumulative carryovers““ means the total of each amount by which outlays for the highway and mass transit category for any fiscal year are less than the outlay limit for that category, as adjusted, for that year less any amount of carryover used in the previous year.
-  (D)    (i) When OMB and CBO submit their final sequester report for fiscal year 1999, that report shall include an estimate of the outlays for each of the categories that would result in fiscal years 2000 through 2003 from obligations at the levels specified in section 8103 of the Transportation Equity Act for the 21st Century using current assumptions.
-    (ii) When the President submits the budget under section 1105 of title 31 for fiscal years \2\ 2000, 2001, 2002, or 2003, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
+  (C) In addition to the adjustment required by subparagraph (B), when the President submits the budget under section 1105 of title 31 for fiscal year 2007, 2008, or 2009, OMB shall calculate and the budget shall include for the budget year and each outyear an adjustment to the limits on outlays for the highway category and the mass transit category equal to–
+    (i) the outlays for the applicable category calculated assuming obligation levels consistent with the estimates prepared pursuant to subparagraph (D), as adjusted, using current technical assumptions; minus
+    (ii) the outlays for the applicable category set forth in the subparagraph (D) estimates, as adjusted.
+  (D)    (i) When OMB and CBO submit their final sequester report for fiscal year 2006, that report shall include an estimate of the outlays for each of the categories that would result in fiscal years 2007 through 2010 from obligations at the levels specified in section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users using current assumptions.
+    (ii) When the President submits the budget under section 1105 of title 31 for fiscal year 2007, 2008, 2009, or 2010, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
   (E) OMB shall consult with the Committees on the Budget and include a report on adjustments under subparagraphs (B) and (C) in the preview report.
   (2) Sequestration reports
      When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year, as follows:
@@ -89,16 +87,27 @@
       (iii) The total amount provided for any conservation activity within the conservation spending category may not exceed any authorized ceiling for that activity.
   (c) Discretionary spending limit
      As used in this subchapter, the term ””discretionary spending limit““ means–
-    (1) with respect to fiscal year 2004–
-      (A) for the highway category: $31,834,000,000 in outlays;
-      (B) for the mass transit category: $1,462,000,000 in new budget authority and $6,629,000,000 in outlays; and
-      (C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;
-    (2) with respect to fiscal year 2005 for the conservation spending category: $2,240,000,000, in new budget authority and $2,192,000,000 in outlays;
-    (3) with respect to fiscal year 2006 for the conservation spending category: $2,400,000,000, in new budget authority and $2,352,000,000 in outlays;
-    (4) with respect to each fiscal year 2002 through 2006 for the Federal and State Land and Water Conservation Fund sub-category of the conservation spending category: $540,000,000 in new budget authority and the outlays flowing therefrom;
-    (5) with respect to each fiscal year 2002 through 2006 for the State and Other Conservation sub-category of the conservation spending category: $300,000,000 in new budget authority and the outlays flowing therefrom;
-    (6) with respect to each fiscal year 2002 through 2006 for the Urban and Historic Preservation sub-category of the conservation spending category: $160,000,000 in new budget authority and the outlays flowing therefrom;
-    (7) with respect to each fiscal year 2002 through 2006 for the Payments in Lieu of Taxes sub-category of the conservation spending category: $50,000,000 in new budget authority and the outlays flowing therefrom;
-    (8) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
-    (9) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
+    (1) with respect to fiscal year 2005–
+      (A) for the highway category: $31,277,000,000 in outlays;
+      (B) for the mass transit category: $955,792,000 in new budget authority and $6,674,000,000 in outlays;
+    (2) with respect to fiscal year 2006–
+      (A) for the highway category: $33,942,000,000 in outlays;
+      (B) for the mass transit category: $1,643,000,000 in new budget authority and $7,359,000,000 in outlays;
+    (3) with respect to fiscal year 2007–
+      (A) for the highway category: $36,960,000,000 in outlays;
+      (B) for the mass transit category: $1,712,000,000 in new budget authority and $8,120,000,000 in outlays;
+    (4) with respect to fiscal year 2008–
+      (A) for the highway category: $39,123,000,000 in outlays;
+      (B) for the mass transit category: $1,858,000,000 in new budget authority and $8,742,000,000 in outlays;
+    (5) with respect to fiscal year 2009–
+      (A) for the highway category: $40,660,000,000 in outlays;
+      (B) for the mass transit category: $1,977,500,000 in new budget authority and $9,180,000,000 in outlays;
+    (6) with respect to fiscal year 2005 for the conservation spending category: $2,240,000,000, in new budget authority and $2,192,000,000 in outlays;
+    (7) with respect to fiscal year 2006 for the conservation spending category: $2,400,000,000, in new budget authority and $2,352,000,000 in outlays;
+    (8) with respect to each fiscal year 2002 through 2006 for the Federal and State Land and Water Conservation Fund sub-category of the conservation spending category: $540,000,000 in new budget authority and the outlays flowing therefrom;
+    (9) with respect to each fiscal year 2002 through 2006 for the State and Other Conservation sub-category of the conservation spending category: $300,000,000 in new budget authority and the outlays flowing therefrom;
+    (10) with respect to each fiscal year 2002 through 2006 for the Urban and Historic Preservation sub-category of the conservation spending category: $160,000,000 in new budget authority and the outlays flowing therefrom;
+    (11) with respect to each fiscal year 2002 through 2006 for the Payments in Lieu of Taxes sub-category of the conservation spending category: $50,000,000 in new budget authority and the outlays flowing therefrom;
+    (12) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
+    (13) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
        as adjusted in strict conformance with subsection (b) of this section.
