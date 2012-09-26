@@ -1,0 +1,30 @@
+  (a) Establishment; content; costs and capital requirements
+    (1) There is established on the books of the Treasury and Information Technology Fund (hereinafter referred to as the ””Fund““), which shall be available without fiscal year limitation. There are authorized to be appropriated to the Fund such sums as may be required. For purposes of subsection (b) of this section, the Fund shall consist of–
+      (A) the capital and assets of the Federal telecommunications fund established under this section (as in effect on December 31, 1986), which are in such fund on January 1, 1987;
+      (B) the capital and assets which are in the automatic data processing fund established under section 759 of this title (as in effect on December 31, 1986) which are in such fund on January 1, 1987; and
+      (C) the supplies and equipment transferred to the Administrator under sections 759 and 486(f) of this title, subject to any liabilities assumed with respect to such supplies and equipment.
+    (2) The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall submit plans concerning such requirements and such other information as may be requested for the review and approval of the Director of the Office of Management and Budget. Any change to the cost and capital requirements of the Fund for a fiscal year shall be made in the same manner as provided by this section for the initial fiscal year determination. If approved by the Director, the Administrator shall establish rates to be charged agencies provided, or to be provided, information technology resources through the Fund consistent with such approvals. Such cost and capital requirements may include funds–
+      (A) needed for the purchase (if the Administrator has determined that purchase is the least costly alternative of information processing and transmission equipment, software, systems, and operating facilities necessary for the provision of such services;
+      (B) resulting from operations of the Fund, including the net proceeds of disposal of excess or surplus personal property and receipts from carriers and others for loss or damage to property; and
+      (C) which are appropriated, authorized to be transferred, or otherwise made available to the Fund.
+         These plans fulfill the requirements of sections 1512 and 1513 of title 31.
+  (b) Function and availability of Fund
+     The Fund shall–
+    (1) assume all of the liabilities, obligations, and commitments of the funds described in subparagraphs (A) and (B) of subsection (a)(1) of this section; and
+    (2) be available for expenses, including personal services and other costs, and for procurement (by lease, purchase, transfer, or otherwise) for efficiently providing information technology resources to Federal agencies and for the efficient management, coordination, operation, and utilization of such resources.
+  (c) Contract authority
+    (1) In the operation of the Fund, the Administrator is authorized to enter into multiyear contracts for the provision of information technology hardware, software, or services for periods not in excess of five years, if–
+      (A) funds are available and adequate for payment of the costs of such contract for the first fiscal year and any costs of cancellation or termination;
+      (B) such contract is awarded on a fully competitive basis; and
+      (C) the Administrator determines that–
+        (i) the need for the information technology hardware, software, or services being provided will continue over the period of the contract;
+        (ii) the use of the multiyear contract will yield substantial cost savings when compared with other methods of providing the necessary resources; and
+        (iii) such a method of contracting will not exclude small business participation.
+    (2) Any cancellation costs incurred with respect to a contract entered into under this subsection shall be paid from currently available funds in the Fund.
+    (3) This subsection shall not be construed to limit the authority of the Administrator to procure equipment and services under section 481 of this title.
+  (d) Transfer of uncommitted balances
+     Following the close of each fiscal year, the uncommitted balance of any funds remaining in the Fund, after making provision for anticipated operating needs as determined by the Office of Management and Budget, shall be transferred to the general fund of the Treasury as miscellaneous receipts.
+  (e) Annual report
+     A report on the operation of the Fund shall be made annually by the Administrator to the Director of the Office of Management and Budget. Such report shall identify any proposed increases to the capital of the Fund and shall include a report on information processing equipment inventory, utilization, and acquisition.
+  (f) Information technology resources
+     For purposes of this section, the term ””information technology resources““ includes any service or equipment which had been acquired or provided under this section or section 759 of this title, including other information processing and transmission equipment, software, systems, operating facilities, supplies, and services related thereto, and maintenance and repair thereof.
