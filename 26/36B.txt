@@ -46,7 +46,7 @@
         (ii) a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to cover benefits in addition to the essential health benefits required to be provided by the plan,
          the portion of the premium for the plan properly allocable (under rules prescribed by the Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining either the monthly premium or the adjusted monthly premium under paragraph (2).
       (E) Special rule for pediatric dental coverage
-         For purposes of determining the amount of any monthly premium, if an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan.
+         For purposes of determining the amount of any monthly premium, if an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) \2\N of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan.
   (c) Definition and rules relating to applicable taxpayers, coverage months, and qualified health plan
      For purposes of this section–
     (1) Applicable taxpayer
@@ -85,8 +85,6 @@
            Clauses (i) and (ii) shall not apply if the employee (or any individual described in the last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan.
         (iv) Indexing
            In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent under clause (i)(II) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).
-      (D) Exception for individual receiving free choice vouchers
-         The term ””coverage month““ shall not include any month in which such individual has a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act.
     (3) Definitions and other rules
       (A) Qualified health plan
          The term ””qualified health plan““ has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
@@ -105,8 +103,9 @@
           (II) were required to file a return of tax imposed by section 1 for the taxable year.
       (B) Modified adjusted gross income
          The term ””modified adjusted gross income““ means adjusted gross income increased by–
-        (i) any amount excluded from gross income under section 911, and
-        (ii) any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
+        (i) any amount excluded from gross income under section 911,
+        (ii) any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax, and
+        (iii) an amount equal to the portion of the taxpayer“s social security benefits (as defined in section 86(d)) which is not included in gross income under section 86 for the taxable year.
     (3) Poverty line
       (A) In general
          The term ””poverty line““ has the meaning given that term in section 2110(c)(5) of the Social Security Act (42 U.S.C. 1397jj(c)(5)).
@@ -135,15 +134,11 @@
          If the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable year exceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess.
       (B) Limitation on increase
         (i) In general
-           In the case of a taxpayer whose household income is less than 500 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year):
+           In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year):
            
            Less than 200%
-           At least 200% but less than 250%
-           At least 250% but less than 300%
-           At least 300% but less than 350%
-           At least 350% but less than 400%
-           At least 400% but less than 450%
-           At least 450% but less than 500%
+           At least 200% but less than 300%
+           At least 300% but less than 400%
         (ii) Indexing of amount
            In the case of any calendar year beginning after 2014, each of the dollar amounts in the table contained under clause (i) shall be increased by an amount equal to–
           (I) such dollar amount, multiplied by

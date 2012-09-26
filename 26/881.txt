@@ -32,13 +32,13 @@
     (1) In general
        In the case of any portfolio interest received by a foreign corporation from sources within the United States, no tax shall be imposed under paragraph (1) or (3) of subsection (a).
     (2) Portfolio interest
-       For purposes of this subsection, the term ””portfolio interest““ means any interest (including original issue discount) which would be subject to tax under subsection (a) but for this subsection and which is described in any of the following subparagraphs:
-      (A) Certain obligations which are not registered
-         Interest which is paid on any obligation which is described in section 871(h)(2)(A).
-      (B) Certain registered obligations
-         Interest which is paid on an obligation–
+       For purposes of this subsection, the term ””portfolio interest““ means any interest (including original issue discount) which–
+      (A) would be subject to tax under subsection (a) but for this subsection, and
+      (B) is paid on an obligation–
         (i) which is in registered form, and
-        (ii) with respect to which the person who would otherwise be required to deduct and withhold tax from such interest under section 1442(a) receives a statement which meets the requirements of section 871(h)(5) that the beneficial owner of the obligation is not a United States person.
+        (ii) with respect to which–
+          (I) the person who would otherwise be required to deduct and withhold tax from such interest under section 1442(a) receives a statement which meets the requirements of section 871(h)(5) that the beneficial owner of the obligation is not a United States person, or
+          (II) the Secretary has determined that such a statement is not required in order to carry out the purposes of this subsection.
     (3) Portfolio interest shall not include interest received by certain persons
        For purposes of this subsection, the term ””portfolio interest““ shall not include any portfolio interest which–
       (A) except in the case of interest paid on an obligation of the United States, is received by a bank on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business,

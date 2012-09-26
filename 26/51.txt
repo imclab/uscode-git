@@ -7,7 +7,7 @@
     (2) Qualified first-year wages
        The term ””qualified first-year wages““ means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer.
     (3) Limitation on wages per year taken into account
-       The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)).
+       The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(II)).
   (c) Wages defined
      For purposes of this subpart–
     (1) In general
@@ -25,7 +25,9 @@
     (4) Termination
        The term ””wages““ shall not include any amount paid or incurred to an individual who begins work for the employer–
       (A) after December 31, 1994, and before October 1, 1996, or
-      (B) after December 31, 2011.
+      (B) after–
+        (i) December 31, 2012, in the case of a qualified veteran, and
+        (ii) December 31, 2011, in the case of any other individual.
     (5) Coordination with payroll tax forgiveness
        The term ””wages““ shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) unless such qualified employer makes an election not to have section 3111(d) apply.
   (d) Members of targeted groups
@@ -49,10 +51,12 @@
     (3) Qualified veteran
       (A) In general
          The term ””qualified veteran““ means any veteran who is certified by the designated local agency as–
-        (i) being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date, or
+        (i) being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date,
         (ii) entitled to compensation for a service-connected disability, and–
           (I) having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or
-          (II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months.
+          (II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months \2\N
+        (iii) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or
+        (iv) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months.
       (B) Veteran
          For purposes of subparagraph (A), the term ””veteran““ means any individual who is certified by the designated local agency as–
         (i)          (I) having served on active duty (other than active duty for training) in the Armed Forces of the United States for a period of more than 180 days, or
@@ -97,7 +101,7 @@
          The preceding sentence shall not apply to an individual who, with respect to the same employer, is certified as a member of another targeted group after such individual has been a qualified summer youth employee.
       (C) Youth must continue to reside in zone or community
          Paragraph (5)(B) shall apply for purposes of subparagraph (A)(iv).
-    (8) Qualified food stamp recipient \2\N
+    (8) Qualified food stamp recipient \3\N
       (A) In general
          The term ””qualified supplemental nutrition assistance program benefits recipient““ means any individual who is certified by the designated local agency–
         (i) as having attained age 18 but not age 40 on the hiring date, and
@@ -133,6 +137,13 @@
          the certification shall be revoked and wages paid by the employer after the date on which notice of revocation is received by the employer shall not be treated as qualified wages.
       (C) Explanation of denial of request
          If a designated local agency denies a request for certification of membership in a targeted group, such agency shall provide to the person making such request a written explanation of the reasons for such denial.
+      (D) Credit for unemployed veterans
+        (i) In general
+           Notwithstanding subparagraph (A), for purposes of paragraph (3)(A)–
+          (I) a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause (ii)(II) or (iv) of such paragraph (whichever is applicable) if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 6 months during the 1-year period ending on the hiring date, and
+          (II) a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause (iii) of such paragraph if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks (but less than 6 months) during the 1-year period ending on the hiring date.
+        (ii) Regulatory authority
+           The Secretary may provide alternative methods for certification of a veteran as a qualified veteran described in clause (ii)(II), (iii), or (iv) of paragraph (3)(A), at the Secretary“s discretion.
     (14) Credit allowed for unemployed veterans and disconnected youth hired in 2009 or 2010
       (A) In general
          Any unemployed veteran or disconnected youth who begins work for the employer during 2009 or 2010 shall be treated as a member of a targeted group for purposes of this subpart.
@@ -180,7 +191,7 @@
       (i) Certain individuals ineligible
         (1) Related individuals
            No wages shall be taken into account under subsection (a) with respect to an individual who–
-          (A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,\3\N (determined with the application of section 267(c)),
+          (A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,\4\N (determined with the application of section 267(c)),
           (B) if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to a grantor, beneficiary, or fiduciary of the estate or trust, or
           (C) is a dependent (described in section 152(d)(2)(H)) of the taxpayer, or, if the taxpayer is a corporation, of an individual described in subparagraph (A), or, if the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary of the estate or trust.
         (2) Nonqualifying rehires
