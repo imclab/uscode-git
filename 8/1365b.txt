@@ -1,0 +1,44 @@
+  (a) Requirement
+     The Attorney General shall implement an integrated entry and exit data system.
+  (b) Integrated entry and exit data system defined
+     For purposes of this section, the term ””integrated entry and exit data system““ means an electronic system that–
+    (1) provides access to, and integrates, alien arrival and departure data that are–
+      (A) authorized or required to be created or collected under law;
+      (B) in an electronic format; and
+      (C) in a data base of the Department of Justice or the Department of State, including those created or used at ports of entry and at consular offices;
+    (2) uses available data described in paragraph (1) to produce a report of arriving and departing aliens by country of nationality, classification as an immigrant or nonimmigrant, and date of arrival in, and departure from, the United States;
+    (3) matches an alien“s available arrival data with the alien“s available departure data;
+    (4) assists the Attorney General (and the Secretary of State, to the extent necessary to carry out such Secretary“s obligations under immigration law) to identify, through on-line searching procedures, lawfully admitted nonimmigrants who may have remained in the United States beyond the period authorized by the Attorney General; and
+    (5) otherwise uses available alien arrival and departure data described in paragraph (1) to permit the Attorney General to make the reports required under subsection (e) of this section.
+  (c) Construction
+    (1) No additional authority to impose documentary or data collection requirements
+       Nothing in this section shall be construed to permit the Attorney General or the Secretary of State to impose any new documentary or data collection requirements on any person in order to satisfy the requirements of this section, including–
+      (A) requirements on any alien for whom the documentary requirements in section 1182(a)(7)(B) of this title have been waived by the Attorney General and the Secretary of State under section 1182(d)(4)(B) of this title; or
+      (B) requirements that are inconsistent with the North American Free Trade Agreement.
+    (2) No reduction of authority
+       Nothing in this section shall be construed to reduce or curtail any authority of the Attorney General or the Secretary of State under any other provision of law.
+  (d) Deadlines
+    (1) Airports and seaports
+       Not later than December 31, 2003, the Attorney General shall implement the integrated entry and exit data system using available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at an airport or seaport. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at an airport or seaport, are entered into the system and can be accessed by immigration officers at other airports and seaports.
+    (2) High-traffic land border ports of entry
+       Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
+    (3) Remaining data
+       Not later than December 31, 2005, the Attorney General shall fully implement the integrated entry and exit data system using all data described in subsection (b)(1) of this section. Such implementation shall include ensuring that all such data are available to immigration officers at all ports of entry into the United States.
+  (e) Reports
+    (1) In general
+       Not later than December 31 of each year following the commencement of implementation of the integrated entry and exit data system, the Attorney General shall use the system to prepare an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate.
+    (2) Information
+       Each report shall include the following information with respect to the preceding fiscal year, and an analysis of that information:
+      (A) The number of aliens for whom departure data was collected during the reporting period, with an accounting by country of nationality of the departing alien.
+      (B) The number of departing aliens whose departure data was successfully matched to the alien“s arrival data, with an accounting by the alien“s country of nationality and by the alien“s classification as an immigrant or nonimmigrant.
+      (C) The number of aliens who arrived pursuant to a nonimmigrant visa, or as a visitor under the visa waiver program under section 1187 of this title, for whom no matching departure data have been obtained through the system or through other means as of the end of the alien“s authorized period of stay, with an accounting by the alien“s country of nationality and date of arrival in the United States.
+      (D) The number of lawfully admitted nonimmigrants identified as having remained in the United States beyond the period authorized by the Attorney General, with an accounting by the alien“s country of nationality.
+  (f) Authority to provide access to system
+    (1) In general
+       Subject to subsection (d) of this section, the Attorney General, in consultation with the Secretary of State, shall determine which officers and employees of the Departments of Justice and State may enter data into, and have access to the data contained in, the integrated entry and exit data system.
+    (2) Other law enforcement officials
+       The Attorney General, in the discretion of the Attorney General, may permit other Federal, State, and local law enforcement officials to have access to the data contained in the integrated entry and exit data system for law enforcement purposes.
+  (g) Use of task force recommendations
+     The Attorney General shall continuously update and improve the integrated entry and exit data system as technology improves and using the recommendations of the task force established under section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000.
+  (h) Authorization of appropriations
+     There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2008.

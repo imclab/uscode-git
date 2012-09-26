@@ -4,7 +4,7 @@
       (A) Inadmissible aliens
          Any alien who at the time of entry or adjustment of status was within one or more of the classes of aliens inadmissible by the law existing at such time is deportable.
       (B) Present in violation of law
-         Any alien who is present in the United States in violation of this chapter or any other law of the United States is deportable.
+         Any alien who is present in the United States in violation of this chapter or any other law of the United States, or whose nonimmigrant visa (or other documentation authorizing admission into the United States as a nonimmigrant) has been revoked under section 1201(i) of this title, is deportable.
       (C) Violated nonimmigrant status or condition of entry
         (i) Nonimmigrant status violators
            Any alien who was admitted as a nonimmigrant and who has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status, is deportable.
@@ -100,26 +100,33 @@
            An alien whose presence or activities in the United States the Secretary of State has reasonable ground to believe would have potentially serious adverse foreign policy consequences for the United States is deportable.
         (ii) Exceptions
            The exceptions described in clauses (ii) and (iii) of section 1182(a)(3)(C) of this title shall apply to deportability under clause (i) in the same manner as they apply to inadmissibility under section 1182(a)(3)(C)(i) of this title.
-      (D) Assisted in Nazi persecution or engaged in genocide
-         Any alien described in clause (i) or (ii) of section 1182(a)(3)(E) of this title is deportable.
-    (5) Public charge
-       Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
-    (6) Unlawful voters
-      (A) In general
-         Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
-      (B) Exception
-         In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such violation.
-    (7) Waiver for victims of domestic violence
-      (A) In general
-         The Attorney General is not limited by the criminal court record and may waive the application of paragraph (2)(E)(i) (with respect to crimes of domestic violence and crimes of stalking) and (ii) in the case of an alien who has been battered or subjected to extreme cruelty and who is not and was not the primary perpetrator of violence in the relationship–
-        (i) upon a determination that–
-          (I) the alien was acting is \1\N self-defense;
-          (II) the alien was found to have violated a protection order intended to protect the alien; or
-          (III) the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime–
-            (aa) that did not result in serious bodily injury; and
-            (bb) where there was a connection between the crime and the alien“s having been battered or subjected to extreme cruelty.
-      (B) Credible evidence considered
-         In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
+      (D) Participated in Nazi persecution, genocide, or the commission of any act of torture or extrajudicial killing
+         Any alien described in clause (i), (ii), or (iii) of section 1182(a)(3)(E) of this title is deportable.
+      (E) \1\N Recipient of military-type training
+        (i) In general
+           Any alien who has received military-type training from or on behalf of any organization that, at the time the training was received, was a terrorist organization (as defined in subclause (I) or (II) of section 1182(a)(3)(B)(vi) of this title), is deportable.
+        (ii) Definition
+           As used in this subparagraph, the term ””military-type training““ includes training in means or methods that can cause death or serious bodily injury, destroy or damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm, or other weapon, including any weapon of mass destruction (as defined in section 2332a(c)(2) of title 18).
+  (E) \1\ Participated in the commission of severe violations of religious freedom
+     Any alien described in section 1182(a)(2)(G) of this title is deportable.
+  (5) Public charge
+     Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
+  (6) Unlawful voters
+    (A) In general
+       Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+    (B) Exception
+       In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such violation.
+  (7) Waiver for victims of domestic violence
+    (A) In general
+       The Attorney General is not limited by the criminal court record and may waive the application of paragraph (2)(E)(i) (with respect to crimes of domestic violence and crimes of stalking) and (ii) in the case of an alien who has been battered or subjected to extreme cruelty and who is not and was not the primary perpetrator of violence in the relationship–
+      (i) upon a determination that–
+        (I) the alien was acting is \2\N self-defense;
+        (II) the alien was found to have violated a protection order intended to protect the alien; or
+        (III) the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime–
+          (aa) that did not result in serious bodily injury; and
+          (bb) where there was a connection between the crime and the alien“s having been battered or subjected to extreme cruelty.
+    (B) Credible evidence considered
+       In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
   (b) Deportation of certain nonimmigrants
      An alien, admitted as a nonimmigrant under the provision of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
   (c) Waiver of grounds for deportation
