@@ -1,6 +1,94 @@
-  (a) Escheat to tribe; rebuttable presumption
-     No undivided interest held by a member or nonmember Indian in any tract of trust land or restricted land within a tribe“s reservation or outside of a reservation and subject to such tribe“s jurisdiction shall descend by intestacy or devise but shall escheat to the reservation“s recognized tribal government, or if outside of a reservation, to the recognized tribal government possessing jurisdiction over the land if such interest represents 2 per centum or less of the total acreage in such tract and is incapable of earning $100 in any one of the five years from the date of decedent“s death. Where the fractional interest has earned to its owner less than $100 in any one of the five years before the decedent“s death, there shall be a rebuttable presumption that such interest is incapable of earning $100 in any one of the five years following the death of the decedent.
-  (b) Escheatable fractional interest
-     Nothing in this section shall prohibit the devise of such an escheatable fractional interest to any other owner of an undivided fractional interest in such parcel or tract of trust or restricted land.
-  (c) Adoption of Indian tribal code
-     Notwithstanding the provisions of subsection (a) of this section, any Indian tribe may, subject to the approval of the Secretary, adopt its own code of laws to govern the disposition of interests that are escheatable under this section, and such codes or laws shall take precedence over the escheat provisions of subsection (a) of this section, provided, the Secretary shall not approve any code or law that fails to accomplish the purpose of preventing further descent or fractionation of such escheatable interests.
+  (a) Testamentary disposition
+    (1) In general
+       Interests in trust or restricted land may be devised only to–
+      (A) the decedent“s Indian spouse or any other Indian person; or
+      (B) the Indian tribe with jurisdiction over the land so devised.
+    (2) Life estate
+       Any devise of an interest in trust or restricted land to a non-Indian shall create a life estate with respect to such interest.
+    (3) Remainder
+      (A) In general
+         Except where the remainder from the life estate referred to in paragraph (2) is devised to an Indian, such remainder shall descend to the decedent“s Indian spouse or Indian heirs of the first or second degree pursuant to the applicable law of intestate succession.
+      (B) Descent of interests
+         If a decedent described in subparagraph (A) has no Indian heirs of the first or second degree, the remainder interest described in such subparagraph shall descend to any of the decedent“s collateral heirs of the first or second degree, pursuant to the applicable laws of intestate succession, if on the date of the decedent“s death, such heirs were a co-owner of an interest in the parcel of trust or restricted land involved.
+      (C) Definition
+         For purposes of this section, the term ””collateral heirs of the first or second degree““ means the brothers, sisters, aunts, uncles, nieces, nephews, and first cousins, of a decedent.
+    (4) Descent to tribe
+       If the remainder interest described in paragraph (3)(A) does not descend to an Indian heir or heirs it shall descend to the Indian tribe that exercises jurisdiction over the parcel of trust or restricted lands involved, subject to paragraph (5).
+    (5) Acquisition of interest by Indian co-owners
+       An Indian co-owner of a parcel of trust or restricted land may prevent the descent of an interest in Indian land to an Indian tribe under paragraph (4) by paying into the decedent“s estate the fair market value of the interest in such land. If more than 1 Indian co-owner offers to pay for such an interest, the highest bidder shall obtain the interest. If payment is not received before the close of the probate of the decedent“s estate, the interest shall descend to the tribe that exercises jurisdiction over the parcel.
+    (6) Special rule
+      (A) In general
+         Notwithstanding paragraph (2), an owner of trust or restricted land who does not have an Indian spouse, Indian lineal descendant, an Indian heir of the first or second degree, or an Indian collateral heir of the first or second degree, may devise his or her interests in such land to any of the decedent“s heirs of the first or second degree or collateral heirs of the first or second degree.
+      (B) Acquisition of interest by tribe
+         An Indian tribe that exercises jurisdiction over an interest in trust or restricted land described in subparagraph (A) may acquire any interest devised to a non-Indian as provided for in section 2205(c) of this title.
+  (b) Intestate succession
+    (1) In general
+       An interest in trust or restricted land shall pass by intestate succession only to a decedent“s spouse or heirs of the first or second degree, pursuant to the applicable law of intestate succession.
+    (2) Life estate
+       Notwithstanding paragraph (1), with respect to land described in such paragraph, a non-Indian spouse or non-Indian heirs of the first or second degree shall only receive a life estate in such land.
+    (3) Descent of interests
+       If a decedent described in paragraph (1) has no Indian heirs of the first or second degree, the remainder interest from the life estate referred to in paragraph (2) shall descend to any of the decedent“s collateral Indian heirs of the first or second degree, pursuant to the applicable laws of intestate succession, if on the date of the decedent“s death, such heirs were a co-owner of an interest in the parcel of trust or restricted land involved.
+    (4) Descent to tribe
+       If the remainder interest described in paragraph (3) does not descend to an Indian heir or heirs it shall descend to the Indian tribe that exercises jurisdiction over the parcel of trust or restricted lands involved, subject to paragraph (5).
+    (5) Acquisition of interest by Indian co-owners
+       An Indian co-owner of a parcel of trust or restricted land may prevent the descent of an interest in such land for which there is no heir of the first or second degree by paying into the decedent“s estate the fair market value of the interest in such land. If more than 1 Indian co-owner makes an offer to pay for such an interest, the highest bidder shall obtain the interest. If no such offer is made, the interest shall descend to the Indian tribe that exercises jurisdiction over the parcel of land involved.
+  (c) Joint tenancy; right of survivorship
+    (1) Testate
+       If a testator devises interests in the same parcel of trust or restricted lands to more than 1 person, in the absence of express language in the devise to the contrary, the devise shall be presumed to create joint tenancy with the right of survivorship in the land involved.
+    (2) Intestate
+      (A) In general
+         Any interest in trust or restricted land that–
+        (i) passes by intestate succession to more than 1 person, including a remainder interest under subsection (a) or (b) of this section; and
+        (ii) that constitutes 5 percent or more of the undivided interest in a parcel of trust or restricted land;
+         shall be held as tenancy in common.
+      (B) Limited interest
+         Any interest in trust or restricted land that–
+        (i) passes by intestate succession to more than 1 person, including a remainder interest under subsection (a) or (b) of this section; and
+        (ii) that constitutes less than 5 percent of the undivided interest in a parcel of trust or restricted land;
+         shall be held by such heirs with the right of survivorship.
+    (3) Effective date
+      (A) In general
+         This subsection (other than subparagraph (B)) shall become effective on the later of–
+        (i) the date referred to in subsection (g)(5) of this section; or
+        (ii) the date that is six months after the date on which the Secretary makes the certification required under subparagraph (B).
+      (B) Certification
+         Upon a determination by the Secretary that the Department of the Interior has the capacity, including policies and procedures, to track and manage interests in trust or restricted land held with the right of survivorship, the Secretary shall certify such determination and publish such certification in the Federal Register.
+  (d) Descent of off-reservation lands
+    (1) Indian reservation defined
+       For purposes of this subsection, the term ””Indian reservation““ includes lands located within–
+      (A)        (i) Oklahoma; and
+        (ii) the boundaries of an Indian tribe“s former reservation (as defined and determined by the Secretary);
+      (B) the boundaries of any Indian tribe“s current or former reservation; or
+      (C) any area where the Secretary is required to provide special assistance or consideration of a tribe“s acquisition of land or interests in land.
+    (2) Descent
+       Except in the State of California, upon the death of an individual holding an interest in trust or restricted lands that are located outside the boundaries of an Indian reservation and that are not subject to the jurisdiction of any Indian tribe, that interest shall descend either–
+      (A) by testate or intestate succession in trust to an Indian; or
+      (B) in fee status to any other devises or heirs.
+  (e) Approval of agreements
+     The official authorized to adjudicate the probate of trust or restricted lands shall have the authority to approve agreements between a decedent“s heirs and devisees to consolidate interests in trust or restricted lands. The agreements referred to in the preceding sentence may include trust or restricted lands that are not a part of the decedent“s estate that is the subject of the probate. The Secretary may promulgate regulations for the implementation of this subsection.
+  (f) Estate planning assistance
+    (1) In general
+       The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.
+    (2) Requirements
+       The estate planning assistance provided under paragraph (1) shall be designed to–
+      (A) inform, advise, and assist Indian landowners with respect to estate planning in order to facilitate the transfer of trust or restricted lands to a devisee or devisees selected by the landowners; and
+      (B) assist Indian landowners in accessing information pursuant to section 2216(e) of this title.
+    (3) Contracts
+       In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes.
+  (g) Notification to Indian tribes and owners of trust or restricted lands
+    (1) In general
+       Not later than 180 days after November 7, 2000, the Secretary shall notify Indian tribes and owners of trust or restricted lands of the amendments made by the Indian Land Consolidation Act Amendments of 2000.
+    (2) Specifications
+       The notice required under paragraph (1) shall be designed to inform Indian owners of trust or restricted land of–
+      (A) the effect of this chapter, with emphasis on the effect of the provisions of this section, on the testate disposition and intestate descent of their interests in trust or restricted land; and
+      (B) estate planning options available to the owners, including any opportunities for receiving estate planning assistance or advice.
+    (3) Requirements
+       The Secretary shall provide the notice required under paragraph (1)–
+      (A) by direct mail for those Indians with interests in trust and restricted lands for which the Secretary has an address for the interest holder;
+      (B) through the Federal Register;
+      (C) through local newspapers in areas with significant Indian populations, reservation newspapers, and newspapers that are directed at an Indian audience; and
+      (D) through any other means determined appropriate by the Secretary.
+    (4) Certification
+       After providing notice under this subsection, the Secretary shall certify that the requirements of this subsection have been met and shall publish notice of such certification in the Federal Register.
+    (5) Effective date
+       The provisions of this section shall not apply to the estate of an individual who dies prior to the day that is 365 days after the Secretary makes the certification required under paragraph (4).
