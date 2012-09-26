@@ -1,7 +1,9 @@
-  (a) T4In GeneralK.–Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit an individual described in subsection (b) who is entitled to educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual“s entitlement to such assistance, subject to the limitation under subsection (d).
-  (b) T4Eligible IndividualsK.–An individual referred to in subsection (a) is any member of the Armed Forces who, at the time of the approval of the individual“s request to transfer entitlement to educational assistance under this section, has completed at least–
-    (1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the Armed Forces; or
-    (2) the years of service as determined in regulations pursuant to section (k).\1\N
+  (a) T4In GeneralK.–
+    (1) Subject to the provisions of this section, the Secretary concerned may permit an individual described in subsection (b) who is entitled to educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual“s entitlement to such assistance, subject to the limitation under subsection (d).
+    (2) The purpose of the authority in paragraph (1) is to promote recruitment and retention in the uniformed services. The Secretary concerned may exercise the authority for that purpose when authorized by the Secretary of Defense in the national security interests of the United States.
+  (b) T4Eligible IndividualsK.–An individual referred to in subsection (a) is any member of the uniformed services who, at the time of the approval of the individual“s request to transfer entitlement to educational assistance under this section, has completed at least–
+    (1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
+    (2) the years of service as determined in regulations pursuant to subsection (j).
   (c) T4Eligible DependentsK.–An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual“s entitlement as follows:
     (1) To the individual“s spouse.
     (2) To one or more of the individual“s children.
@@ -37,7 +39,20 @@
       (A) in the case of a spouse, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer; or
       (B) in the case of a child, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer as if the individual were not on active duty.
     (4) T4Death of transferorK.–The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
-    (5) T4Limitation on age of use by child transfereesK.–A child to whom entitlement is transferred under this section may use the benefit without regard to the 15-year delimiting date, but may not use any entitlement so transferred after attaining the age of 26 years.
+    (5) T4Limitation on age of use by child transferees.–
+      (A) T4In generalK.–A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), use any benefits so transferred after attaining the age of 26 years.
+      (B) T4Primary caregivers of seriously injured members of the armed forces and veterans.–
+        (i) T4In generalK.–Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
+        (ii) T4Inapplicability for revocationK.–Clause (i) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual“s designation as such a primary provider under section 1720G(a)(7)(D).
+        (iii) T4Date for commencement of useK.–The date specified in this clause for the beginning of the use of benefits by a child under clause (i) is the later of–
+          (I) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member concerned as described in clause (i);
+          (II) the date on which it is reasonably feasible, as determined under regulations prescribed by the Secretary, for the child to initiate or resume the use of benefits; or
+          (III) the date on which the child attains the age of 26 years.
+        (iv) T4Length of useK.–The length of the period specified in this clause for the use of benefits by a child under clause (i) is the length equal to the length of the period that–
+          (I) begins on the date on which the child begins acting as the primary provider of personal care services for the veteran or member concerned as described in clause (i); and
+          (II) ends on the later of–
+            (aa) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member as described in clause (i); or
+            (bb) the date on which it is reasonably feasible, as so determined, for the child to initiate or resume the use of benefits.
     (6) T4Scope of use by transfereesK.–The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
     (7) T4Additional administrative provisionsK.–The administrative provisions of this chapter shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible individual for purposes of such provisions.
       (i) T4Overpayment.–
@@ -52,8 +67,3 @@
     (A) the manner of authorizing the transfer of entitlements under this section;
     (B) the eligibility criteria in accordance with subsection (b); and
     (C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
-  (k) T4Secretary Concerned DefinedK.–Notwithstanding section 101(25), in this section, the term ””Secretary concerned““ means–
-    (1) the Secretary of the Army with respect to matters concerning the Army;
-    (2) the Secretary of the Navy with respect to matters concerning the Navy or the Marine Corps;
-    (3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
-    (4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.

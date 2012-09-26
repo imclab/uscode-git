@@ -1,9 +1,14 @@
   (a)    (1)      (A) The records of a corporation established under this subchapter shall be available to the Secretary.
       (B) For the purposes of sections 4(a)(1) and 6(a)(1) of the Inspector General Act of 1978, the programs and operations of such a corporation shall be considered to be programs and operations of the Department with respect to which the Inspector General of the Department has responsibilities under such Act.
     (2) Such a corporation shall be considered an agency for the purposes of section 716 of title 31 (relating to availability of information and inspection of records by the Comptroller General).
-  (b) Each such corporation shall submit to the Secretary an annual report providing a detailed statement of its operations, activities, and accomplishments during that year. A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit in the corporation“s report to the Secretary for that year.
-  (c)    (1) Each member of the board of directors of a corporation established under this subchapter, each employee of such a corporation, and each employee of the Department who is involved in the functions of the corporation during any year shall be subject to Federal laws and regulations applicable to Federal employees with respect to conflicts of interest in the performance of official functions.
-    (2) Each corporation established under this subchapter shall each year submit to the Secretary a statement signed by the executive director of the corporation verifying that each director and employee has certified awareness of the laws and regulations referred to in paragraph (1) and of the consequences of violations of those laws and regulations in the same manner as Federal employees are required to so certify.
+  (b)    (1) Each corporation shall submit to the Secretary each year a report providing a detailed statement of the operations, activities, and accomplishments of the corporation during that year.
+    (2)      (A) A corporation with revenues in excess of $500,000 for any year shall obtain an audit of the corporation for that year.
+      (B) A corporation with annual revenues between $100,000 and $500,000 shall obtain an audit of the corporation at least once every three years.
+      (C) Any audit under this paragraph shall be performed by an independent auditor.
+    (3) The corporation shall include in each report to the Secretary under paragraph (1) the following:
+      (A) The most recent audit of the corporation under paragraph (2).
+      (B) The most recent Internal Revenue Service Form 990 ””Return of Organization Exempt from Income Tax““ or equivalent and the applicable schedules under such form.
+  (c) Each director, officer, and employee of a corporation established under this subchapter shall be subject to a conflict of interest policy adopted by that corporation.
   (d) The Secretary shall submit to the Committees on Veterans“ Affairs of the Senate and House of Representatives an annual report on the corporations established under this subchapter. The report shall set forth the following information:
     (1) The location of each corporation.
     (2) The amount received by each corporation during the previous year, including–
@@ -14,5 +19,5 @@
     (3) The amount expended by each corporation during the year, including–
       (A) the amount expended for salary for research staff, the amount expended for salary for education staff, and the amount expended for salary for support staff;
       (B) the amount expended for direct support of research and the amount expended for direct support of education; and
-      (C) if the amount expended with respect to any payee exceeded $35,000, information that identifies the payee.
+      (C) if the amount expended with respect to any payee exceeded $50,000, information that identifies the payee.
     (4) The amount expended by each corporation during the year for travel conducted in conjunction with research and the amount expended for travel in conjunction with education.
