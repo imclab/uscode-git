@@ -5,13 +5,13 @@
    Regional Assistant Administrators, Agency for International Development (4).
    Assistant Secretaries of Agriculture (3).
    Assistant Secretaries of Commerce (11).
-   Assistant Secretaries of Defense (9).
+   Assistant Secretaries of Defense (10).
    Assistant Secretaries of the Air Force (4).
    Assistant Secretaries of the Army (5).
    Assistant Secretaries of the Navy (4).
    Assistant Secretaries of Health and Human Services (6).
    Assistant Secretaries of the Interior (6).
-   Assistant Attorneys General (10).
+   Assistant Attorneys General (11).
    Assistant Secretaries of Labor (10), one of whom shall be the Assistant Secretary of Labor for Veterans“ Employment and Training.
    Assistant Secretaries of State (24) and 4 other State Department officials to be appointed by the President, by and with the advice and consent of the Senate.
    Assistant Secretaries of the Treasury (8).
@@ -66,7 +66,7 @@
    Federal Insurance Administrator, Federal Emergency Management Agency.
    Executive Vice President, Overseas Private Investment Corporation.
    Members, National Credit Union Administration Board (2).
-   Members, Postal Rate Commission (4).
+   Members, Postal Regulatory Commission (4).
    Members, Occupational Safety and Health Review Commission.
    Deputy Under Secretaries of the Treasury (or Assistant Secretaries of the Treasury) (2).
    Members, Consumer Product Safety Commission (4).
@@ -162,6 +162,7 @@
    Inspector General, Central Intelligence Agency \1\
    Deputy Under Secretary of Defense for Policy.
    Deputy Under Secretary of Defense for Personnel and Readiness.
+   Deputy Under Secretary of Defense for Logistics and Materiel Readiness.
    General Counsel of the Department of the Army.
    General Counsel of the Department of the Navy.
    General Counsel of the Department of the Air Force.
@@ -200,3 +201,4 @@
    Additional Deputy Administrators of the National Nuclear Security Administration (3), but if the Deputy Administrator for Naval Reactors is an officer of the Navy on active duty, (2).
    Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office.
    General Counsel of the Office of the National Intelligence Director.
+   Chief Medical Officer, Department of Homeland Security.
