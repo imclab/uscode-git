@@ -3,21 +3,23 @@
       (A) In general
          The Secretary of Defense shall carry out a program to provide for the conservation and rehabilitation of natural resources on military installations.
       (B) Integrated natural resources management plan
-         To facilitate the program, the Secretary of each military department shall prepare and implement an integrated natural resources management plan for each military installation in the United States under the jurisdiction of the Secretary, unless the Secretary determines that the absence of significant natural resources on a particular installation makes preparation of such a plan inappropriate.
+        (i) To facilitate the program, the Secretary of each military department shall prepare and implement an integrated natural resources management plan for each military installation in the United States under the jurisdiction of the Secretary, unless the Secretary determines that the absence of significant natural resources on a particular installation makes preparation of such a plan inappropriate.
+        (ii) The Secretary of a military department may, subject to the availability of appropriations, develop and implement an integrated natural resources management plan for a State-owned National Guard installation. Such a plan shall be developed and implemented in coordination with the chief executive officer of the State in which the State-owned National Guard installation is located. Such a plan is deemed, for purposes of any other provision of law, to be for lands or other geographical areas owned or controlled by the Department of Defense, or designated for its use.
     (2) Cooperative preparation
-       The Secretary of a military department shall prepare each integrated natural resources management plan for which the Secretary is responsible in cooperation with the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, and the head of each appropriate State fish and wildlife agency for the State in which the military installation concerned is located. Consistent with paragraph (4), the resulting plan for the military installation shall reflect the mutual agreement of the parties concerning conservation, protection, and management of fish and wildlife resources.
+       The Secretary of a military department shall prepare each integrated natural resources management plan for which the Secretary is responsible in cooperation with the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, and the head of each appropriate State fish and wildlife agency for the State in which the military installation or State-owned National Guard installation concerned is located. Consistent with paragraph (4), the resulting plan for the military installation or State-owned National Guard installation shall reflect the mutual agreement of the parties concerning conservation, protection, and management of fish and wildlife resources.
     (3) Purposes of program
-       Consistent with the use of military installations to ensure the preparedness of the Armed Forces, the Secretaries of the military departments shall carry out the program required by this subsection to provide for–
-      (A) the conservation and rehabilitation of natural resources on military installations;
-      (B) the sustainable multipurpose use of the resources, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
-      (C) subject to safety requirements and military security, public access to military installations to facilitate the use.
+      (A) Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, the Secretaries of the military departments shall carry out the program required by this subsection to provide for–
+        (i) the conservation and rehabilitation of natural resources on such installations;
+        (ii) the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
+        (iii) subject to safety requirements and military security, public access to military installations to facilitate the use.
+      (B) In the case of a State-owned National Guard installation, such program shall be carried out in coordination with the chief executive officer of the State in which the installation is located.
     (4) Effect on other law
        Nothing in this subchapter–
       (A)        (i) affects any provision of a Federal law governing the conservation or protection of fish and wildlife resources; or
         (ii) enlarges or diminishes the responsibility and authority of any State for the protection and management of fish and resident wildlife; or
       (B) except as specifically provided in the other provisions of this section and in section 670b of this title, authorizes the Secretary of a military department to require a Federal license or permit to hunt, fish, or trap on a military installation.
   (b) Required elements of plans
-     Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section–
+     Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section–
     (1) shall, to the extent appropriate and applicable, provide for–
       (A) fish and wildlife management, land management, forest management, and fish- and wildlife-oriented recreation;
       (B) fish and wildlife habitat enhancement or modifications;
@@ -25,12 +27,12 @@
       (D) integration of, and consistency among, the various activities conducted under the plan;
       (E) establishment of specific natural resource management goals and objectives and time frames for proposed action;
       (F) sustainable use by the public of natural resources to the extent that the use is not inconsistent with the needs of fish and wildlife resources;
-      (G) public access to the military installation that is necessary or appropriate for the use described in subparagraph (F), subject to requirements necessary to ensure safety and military security;
+      (G) public access to the installation that is necessary or appropriate for the use described in subparagraph (F), subject to requirements necessary to ensure safety and military security;
       (H) enforcement of applicable natural resource laws (including regulations);
-      (I) no net loss in the capability of military installation lands to support the military mission of the installation; and
+      (I) no net loss in the capability of installation lands to support the military mission of the installation; and
       (J) such other activities as the Secretary of the military department determines appropriate;
     (2) must be reviewed as to operation and effect by the parties thereto on a regular basis, but not less often than every 5 years; and
-    (3) may stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that–
+    (3) may, in the case of a military installation, stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that–
       (A) the Commanding Officer of the installation or persons designated by that Officer are authorized to enforce such special hunting and fishing permits and to collect, spend, administer, and account for fees for the permits, acting as agent or agents for the State if the integrated natural resources management plan so provides, and
       (B) the fees collected under this paragraph may not be expended with respect to other than the military installation on which collected, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes.
   (c) Prohibitions on sale and lease of lands unless effects compatible with plan
@@ -38,7 +40,7 @@
     (1) no sale of land, or forest products from land, that is within a military installation covered by that plan may be made under section 2665(a) or (b) of title 10; and
     (2) no leasing of land that is within the installation may be made under section 2667 of such title 10;
        unless the effects of that sale or leasing are compatible with the purposes of the plan.
-  (d) Implementation and enforcement of plans
+  (d) Implementation and enforcement of integrated natural resources management plans
      With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a) of this section–
     (1) neither Office of Management and Budget Circular A–76 nor any successor circular thereto applies to the procurement of services that are necessary for that implementation and enforcement; and
     (2) priority shall be given to the entering into of contracts for the procurement of such implementation and enforcement services with Federal and State agencies having responsibility for the conservation or management of fish or wildlife.
