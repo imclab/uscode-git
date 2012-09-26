@@ -5,7 +5,7 @@
      Middle D3  
      Southern D3  
      Alaska D3  
-     Arizona D11  
+     Arizona D12  
      Arkansas:
      Eastern D5  
      Western D3  
@@ -21,7 +21,7 @@
      Florida:
      Northern D4  
      Middle D15  
-     Southern D16  
+     Southern D17  
      Georgia:
      Northern D11  
      Middle D4  
@@ -40,7 +40,7 @@
      Southern D3  
      Kansas D5  
      Kentucky:
-     Eastern D4  
+     Eastern D5  
      Western D4  
      Eastern and Western D1  
      Louisiana:
@@ -63,10 +63,10 @@
      Eastern and Western D2  
      Montana D3  
      Nebraska D3  
-     Nevada D6  
+     Nevada D7  
      New Hampshire D3  
      New Jersey D17  
-     New Mexico D5  
+     New Mexico D6  
      New York:
      Northern D4  
      Southern D28  
@@ -92,7 +92,7 @@
      Western D10  
      Puerto Rico D7  
      Rhode Island D3  
-     South Carolina D9  
+     South Carolina D10  
      South Dakota D3  
      Tennessee:
      Eastern D5  
@@ -100,13 +100,13 @@
      Western D5  
      Texas:
      Northern D12  
-     Southern D18  
+     Southern D19  
      Eastern D7  
-     Western D10  
+     Western D11  
      Utah D5  
      Vermont D2  
      Virginia:
-     Eastern D9  
+     Eastern D10  
      Western D4  
      Washington:
      Eastern D4  
@@ -115,7 +115,7 @@
      Northern D3  
      Southern D5  
      Wisconsin:
-     Eastern D4  
+     Eastern D5  
      Western D2  
      Wyoming D3.
   (b)    (1) In any case in which a judge of the United States (other than a senior judge) assumes the duties of a full-time office of Federal judicial administration, the President shall appoint, by and with the advice and consent of the Senate, an additional judge for the court on which such judge serves. If the judge who assumes the duties of such full-time office leaves that office and resumes the duties as an active judge of the court, then the President shall not appoint a judge to fill the first vacancy which occurs thereafter in that court.
