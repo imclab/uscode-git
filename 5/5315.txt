@@ -8,7 +8,7 @@
    Under Secretary of the Navy.
    Assistant Secretaries of Agriculture (2).
    Assistant Secretaries of Commerce (11).
-   Assistant Secretaries of Defense (9).
+   Assistant Secretaries of Defense (8).
    Assistant Secretaries of the Air Force (4).
    Assistant Secretaries of the Army (5).
    Assistant Secretaries of the Navy (4).
@@ -160,6 +160,7 @@
    Commissioner, Office of Navajo and Hopi Indian Relocation.
    Inspector General, Central Intelligence Agency \1\
    Deputy Under Secretary of Defense for Policy.
+   Deputy Under Secretary of Defense for Personnel and Readiness.
    General Counsel of the Department of the Army.
    General Counsel of the Department of the Navy.
    General Counsel of the Department of the Air Force.
@@ -196,5 +197,6 @@
    Inspector General, United States Postal Service.
    Assistant Directors of Central Intelligence (3).
    General Counsel of the Central Intelligence Agency.
-   Deputy Administrators of the National Nuclear Security Administration (3), but if the Deputy Administrator for Naval Reactors is an officer of the Navy on active duty, (2).
+   Principal Deputy Administrator, National Nuclear Security Administration.
+   Additional Deputy Administrators of the National Nuclear Security Administration (3), but if the Deputy Administrator for Naval Reactors is an officer of the Navy on active duty, (2).
    Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office.
