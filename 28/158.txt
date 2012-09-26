@@ -15,9 +15,21 @@
     (4) If authorized by the Judicial Conference of the United States, the judicial councils of 2 or more circuits may establish a joint bankruptcy appellate panel comprised of bankruptcy judges from the districts within the circuits for which such panel is established, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.
     (5) An appeal to be heard under this subsection shall be heard by a panel of 3 members of the bankruptcy appellate panel service, except that a member of such service may not hear an appeal originating in the district for which such member is appointed or designated under section 152 of this title.
     (6) Appeals may not be heard under this subsection by a panel of the bankruptcy appellate panel service unless the district judges for the district in which the appeals occur, by majority vote, have authorized such service to hear and determine appeals originating in such district.
-  (c)    (1) Subject to subsection (b), each appeal under subsection (a) shall be heard by a 3-judge panel of the bankruptcy appellate panel service established under subsection (b)(1) unless–
+  (c)    (1) Subject to subsections (b) and (d)(2), each appeal under subsection (a) shall be heard by a 3-judge panel of the bankruptcy appellate panel service established under subsection (b)(1) unless–
       (A) the appellant elects at the time of filing the appeal; or
       (B) any other party elects, not later than 30 days after service of notice of the appeal;
          to have such appeal heard by the district court.
     (2) An appeal under subsections (a) and (b) of this section shall be taken in the same manner as appeals in civil proceedings generally are taken to the courts of appeals from the district courts and in the time provided by Rule 8002 of the Bankruptcy Rules.
-  (d) The courts of appeals shall have jurisdiction of appeals from all final decisions, judgments, orders, and decrees entered under subsections (a) and (b) of this section.
+  (d)    (1) The courts of appeals shall have jurisdiction of appeals from all final decisions, judgments, orders, and decrees entered under subsections (a) and (b) of this section.
+    (2)      (A) The appropriate court of appeals shall have jurisdiction of appeals described in the first sentence of subsection (a) if the bankruptcy court, the district court, or the bankruptcy appellate panel involved, acting on its own motion or on the request of a party to the judgment, order, or decree described in such first sentence, or all the appellants and appellees (if any) acting jointly, certify that–
+        (i) the judgment, order, or decree involves a question of law as to which there is no controlling decision of the court of appeals for the circuit or of the Supreme Court of the United States, or involves a matter of public importance;
+        (ii) the judgment, order, or decree involves a question of law requiring resolution of conflicting decisions; or
+        (iii) an immediate appeal from the judgment, order, or decree may materially advance the progress of the case or proceeding in which the appeal is taken;
+           and if the court of appeals authorizes the direct appeal of the judgment, order, or decree.
+      (B) If the bankruptcy court, the district court, or the bankruptcy appellate panel–
+        (i) on its own motion or on the request of a party, determines that a circumstance specified in clause (i), (ii), or (iii) of subparagraph (A) exists; or
+        (ii) receives a request made by a majority of the appellants and a majority of appellees (if any) to make the certification described in subparagraph (A);
+           then the bankruptcy court, the district court, or the bankruptcy appellate panel shall make the certification described in subparagraph (A).
+      (C) The parties may supplement the certification with a short statement of the basis for the certification.
+      (D) An appeal under this paragraph does not stay any proceeding of the bankruptcy court, the district court, or the bankruptcy appellate panel from which the appeal is taken, unless the respective bankruptcy court, district court, or bankruptcy appellate panel, or the court of appeals in which the appeal in \2\N pending, issues a stay of such proceeding pending the appeal.
+      (E) Any request under subparagraph (B) for certification shall be made not later than 60 days after the entry of the judgment, order, or decree.

@@ -1,4 +1,4 @@
-  (a)    (1) The United States court of appeals for the circuit shall appoint bankruptcy judges for the judicial districts established in paragraph (2) in such numbers as are established in such paragraph. Such appointments shall be made after considering the recommendations of the Judicial Conference submitted pursuant to subsection (b). Each bankruptcy judge shall be appointed for a term of fourteen years, subject to the provisions of subsection (e). However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor. Bankruptcy judges shall serve as judicial officers of the United States district court established under Article III of the Constitution.
+  (a)    (1) Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located. Such appointments shall be made after considering the recommendations of the Judicial Conference submitted pursuant to subsection (b). Each bankruptcy judge shall be appointed for a term of fourteen years, subject to the provisions of subsection (e). However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor. Bankruptcy judges shall serve as judicial officers of the United States district court established under Article III of the Constitution.
     (2) The bankruptcy judges appointed pursuant to this section shall be appointed for the several judicial districts as follows:
         
        Alabama:
@@ -24,9 +24,8 @@
        Southern D5
        Georgia:
        Northern D8
-       Middle D2
+       Middle D3
        Southern D2
-       Middle and Southern D1
        Hawaii D1
        Idaho D2
        Illinois:
@@ -121,6 +120,17 @@
   (b)    (1) The Judicial Conference of the United States shall, from time to time, and after considering the recommendations submitted by the Director of the Administrative Office of the United States Courts after such Director has consulted with the judicial council of the circuit involved, determine the official duty stations of bankruptcy judges and places of holding court.
     (2) The Judicial Conference shall, from time to time, submit recommendations to the Congress regarding the number of bankruptcy judges needed and the districts in which such judges are needed.
     (3) Not later than December 31, 1994, and not later than the end of each 2-year period thereafter, the Judicial Conference of the United States shall conduct a comprehensive review of all judicial districts to assess the continuing need for the bankruptcy judges authorized by this section, and shall report to the Congress its findings and any recommendations for the elimination of any authorized position which can be eliminated when a vacancy exists by reason of resignation, retirement, removal, or death.
-  (c) Each bankruptcy judge may hold court at such places within the judicial district, in addition to the official duty station of such judge, as the business of the court may require.
+  (c)    (1) Each bankruptcy judge may hold court at such places within the judicial district, in addition to the official duty station of such judge, as the business of the court may require.
+    (2)      (A) Bankruptcy judges may hold court at such places within the United States outside the judicial district as the nature of the business of the court may require, and upon such notice as the court orders, upon a finding by either the chief judge of the bankruptcy court (or, if the chief judge is unavailable, the most senior available bankruptcy judge) or by the judicial council of the circuit that, because of emergency conditions, no location within the district is reasonably available where the bankruptcy judges could hold court.
+      (B) Bankruptcy judges may transact any business at special sessions of court held outside the district pursuant to this paragraph that might be transacted at a regular session.
+      (C) If a bankruptcy court issues an order exercising its authority under subparagraph (A), the court–
+        (i) through the Administrative Office of the United States Courts, shall–
+          (I) send notice of such order, including the reasons for the issuance of such order, to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives; and
+          (II) not later than 180 days after the expiration of such court order submit a brief report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives describing the impact of such order, including–
+            (aa) the reasons for the issuance of such order;
+            (bb) the duration of such order;
+            (cc) the impact of such order on litigants; and
+            (dd) the costs to the judiciary resulting from such order; and
+        (ii) shall provide reasonable notice to the United States Marshals Service before the commencement of any special session held pursuant to such order.
   (d) With the approval of the Judicial Conference and of each of the judicial councils involved, a bankruptcy judge may be designated to serve in any district adjacent to or near the district for which such bankruptcy judge was appointed.
   (e) A bankruptcy judge may be removed during the term for which such bankruptcy judge is appointed, only for incompetence, misconduct, neglect of duty, or physical or mental disability and only by the judicial council of the circuit in which the judge“s official duty station is located. Removal may not occur unless a majority of all of the judges of such council concur in the order of removal. Before any order of removal may be entered, a full specification of charges shall be furnished to such bankruptcy judge who shall be accorded an opportunity to be heard on such charges.
