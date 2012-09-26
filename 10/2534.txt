@@ -1,11 +1,15 @@
   (a) T4Limitation on Certain ProcurementsK.–The Secretary of Defense may procure any of the following items only if the manufacturer of the item satisfies the requirements of subsection (b):
     (1) T4BusesK.–Multipassenger motor vehicles (buses).
     (2) T4Chemical weapons antidoteK.–Chemical weapons antidote contained in automatic injectors (and components for such injectors).
-    (3) T4Air circuit breakersK.–Air circuit breakers for naval vessels.
-    (4) T4Valves and machine toolsK.–Items in the following categories:
-      (A) Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used in piping for naval surface ships and submarines.
-      (B) Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
-    (5) T4Ball bearings and roller bearingsK.–Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992.
+    (3) T4Components for naval vesselsK.–(A) The following components:
+      (i) Air circuit breakers.
+      (ii) Welded shipboard anchor and mooring chain with a diameter of four inches or less.
+      (iii) Vessel propellers with a diameter of six feet or more.
+  (B) The following components of vessels, to the extent they are unique to marine applications: gyrocompasses, electronic navigation chart systems, steering controls, pumps, propulsion and machinery control systems, and totally enclosed lifeboats.
+  (4) T4Valves and machine toolsK.–Items in the following categories:
+    (A) Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used in piping for naval surface ships and submarines.
+    (B) Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
+  (5) T4Ball bearings and roller bearingsK.–Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992.
   (b) T4Manufacturer in the National Technology and Industrial Base.–
     (1) T4General requirementK.–A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
     (2) T4Manufacturers of chemical weapons antidoteK.–In the case of a procurement of chemical weapons antidote referred to in subsection (a)(2), a manufacturer meets the requirements of this subsection only if the manufacturer–
@@ -13,20 +17,24 @@
       (B) is an existing producer under the industrial preparedness program at the time the contract is awarded;
       (C) has received all required regulatory approvals; and
       (D) when the contract for the procurement is awarded, has in existence in the national technology and industrial base the plant, equipment, and personnel necessary to perform the contract.
-  (c) T4Applicability to certain items.–
-    (1) T4Air circuit breakersK.–Subsection (a) does not apply to a procurement of spares or repair parts needed to support air circuit breakers produced or manufactured outside the United States.
+    (3) T4Manufacturer of vessel propellersK.–In the case of a procurement of vessel propellers referred to in subsection (a)(3)(A)(iii), the manufacturer of the propellers meets the requirements of this subsection only if–
+      (A) the manufacturer meets the requirements set forth in paragraph (1); and
+      (B) all castings incorporated into such propellers are poured and finished in the United States.
+  (c) T4Applicability to Certain Items.–
+    (1) T4Components for naval vesselsK.–Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
     (2) T4Valves and machine toolsK.–(A) Contracts to which subsection (a) applies include the following contracts for the procurement of items described in paragraph (4) of such subsection:
       (i) A contract for procurement of such an item for use in property under the control of the Department of Defense, including any Government-owned, contractor-operated facility.
       (ii) A contract that is entered into by a contractor on behalf of the Department of Defense for the purpose of providing such an item to another contractor as Government-furnished equipment.
   (B) In any case in which a contract for items described in subsection (a)(4) includes the procurement of more than one Federal Supply Class of machine tools or machine tools and accessories, each supply class shall be evaluated separately for purposes of determining whether the limitation in subsection (a) applies.
   (C) Subsection (a)(4) and this paragraph shall cease to be effective on October 1, 1996.
-  (3) T4Ball bearings and roller bearingsK.–Subsection (a)(5) and this paragraph shall cease to be effective on October 1, 1995.
+  (3) T4Ball bearings and roller bearingsK.–Subsection (a)(5) and this paragraph shall cease to be effective on October 1, 2000.
+  (4) T4Vessel propellersK.–Subsection (a)(3)(A)(iii) and this paragraph shall cease to be effective on February 10, 1998.
   (d) T4Waiver AuthorityK.–The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
     (1) Application of the limitation would cause unreasonable costs or delays to be incurred.
     (2) United States producers of the item would not be jeopardized by competition from a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
-    (3) Application of the limitation would impede cooperative programs entered into between the Department of Defense and a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
-    (4) Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 2491(1) of this title) are not available.
-    (5) Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 2491(1) of this title).
+    (3) Application of the limitation would impede cooperative programs entered into between the Department of Defense and a foreign country, or would impede the reciprocal procurement of defense items under a memorandum of understanding providing for reciprocal procurement of defense items that is entered into under section 2531 of this title, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
+    (4) Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 2500(1) of this title) are not available.
+    (5) Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 2500(1) of this title).
     (6) The procurement is for an amount less than the simplified acquisition threshold and simplified purchase procedures are being used.
     (7) Application of the limitation is not in the national security interests of the United States.
     (8) Application of the limitation would adversely affect a United States company.
@@ -38,4 +46,13 @@
     (1) specifically refers to this section;
     (2) specifically states that such provision of law modifies or supersedes the provisions of this section; and
     (3) specifically identifies the particular domestic source involved and states that the contract to be awarded pursuant to such provision of law is being awarded in contravention of this section.
-  (g) T4Inapplicability to Contracts under Simplified Acquisition ThresholdK.–This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
+  (g) T4Inapplicability to Contracts under Simplified Acquisition ThresholdK.–(1) This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
+  (2) Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding section 33 of the Office of Federal Procurement Policy Act (41 U.S.C. 429).
+  (h) T4Implementation of Naval Vessel Component LimitationK.–In implementing subsection (a)(3)(B), the Secretary of Defense–
+    (1) may not use contract clauses or certifications; and
+    (2) shall use management and oversight techniques that achieve the objective of the subsection without imposing a significant management burden on the Government or the contractor involved.
+      (i) T4Implementation of Certain Waiver AuthorityK.–(1) The Secretary of Defense may exercise the waiver authority described in paragraph (2) only if the waiver is made for a particular item listed in subsection (a) and for a particular foreign country.
+  (2) This subsection applies to the waiver authority provided by subsection (d) on the basis of the applicability of paragraph (2) or (3) of that subsection.
+  (3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition and Technology.
+  (4) At least 15 days before the effective date of any waiver made under the waiver authority described in paragraph (2), the Secretary shall publish in the Federal Register and submit to the congressional defense committees a notice of the determination to exercise the waiver authority.
+  (5) Any waiver made by the Secretary under the waiver authority described in paragraph (2) shall be in effect for a period not greater than one year, as determined by the Secretary.

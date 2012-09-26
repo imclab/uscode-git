@@ -1,6 +1,8 @@
-  (a) Except as required by the President or as provided in subsection (b), the Secretary of Defense may not be required to disclose information with respect to–
-    (1) the organization or any function of the Defense Intelligence Agency; or
-    (2) the number of persons employed by or assigned or detailed to such Agency or the name, official title, occupational series, grade, or salary of any such person.
-  (b) This section does not apply–
-    (1) with respect to the provision of information to Congress; or
-    (2) with respect to information required to be disclosed by section 552 or 552a of title 5.
+  (a) T4Exemption From DisclosureK.–Except as required by the President or as provided in subsection (c), no provision of law shall be construed to require the disclosure of–
+    (1) the organization or any function of an organization of the Department of Defense named in subsection (b); or
+    (2) the number of persons employed by or assigned or detailed to any such organization or the name, official title, occupational series, grade, or salary of any such person.
+  (b) T4Covered OrganizationsK.–This section applies to the following organizations of the Department of Defense:
+    (1) The Defense Intelligence Agency.
+    (2) The National Reconnaissance Office.
+    (3) The National Imagery and Mapping Agency.
+  (c) T4Provision of Information to CongressK.–Subsection (a) does not apply with respect to the provision of information to Congress.

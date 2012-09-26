@@ -1,30 +1,31 @@
   (a) There is a Strategic Environmental Research and Development Program Council (hereinafter in this chapter referred to as the ””Council““).
-  (b) The Council is composed of thirteen members as follows:
+  (b) The Council is composed of 12 members as follows:
     (1) The Director of Defense Research and Engineering.
     (2) The Vice Chairman of the Joint Chiefs of Staff.
-    (3) The Assistant Secretary of the Air Force responsible for matters relating to space.
-    (4) The Deputy Under Secretary of Defense responsible for environmental security.
-    (5) The Assistant Secretary of Energy for Defense programs.
-    (6) The Assistant Secretary of Energy responsible for environmental restoration and waste management.
-    (7) The Director of the Department of Energy Office of Energy Research.
-    (8) The Administrator of the Environmental Protection Agency.
-    (9) One representative from each of the Army, Navy, Air Force, and Coast Guard, who shall be nonvoting members.
-    (10) The Executive Director of the Council (appointed pursuant to section 2903 of this title), who shall be a nonvoting member.
+    (3) The Deputy Under Secretary of Defense responsible for environmental security.
+    (4) The Assistant Secretary of Energy for Defense programs.
+    (5) The Assistant Secretary of Energy responsible for environmental restoration and waste management.
+    (6) The Director of the Department of Energy Office of Energy Research.
+    (7) The Administrator of the Environmental Protection Agency.
+    (8) One representative from each of the Army, Navy, Air Force, and Coast Guard.
+    (9) The Executive Director of the Council (appointed pursuant to section 2903 of this title), who shall be a nonvoting member.
   (c) The Secretary of Defense shall designate a member of the Council as chairman for each odd numbered fiscal year. The Secretary of Energy shall designate a member of the Council as chairman for each even-numbered fiscal year.
   (d) The Council shall have the following responsibilities:
     (1) To prescribe policies and procedures to implement the Strategic Environmental Research and Development Program.
     (2) To enter into contracts, grants, and other financial arrangements, in accordance with other applicable law, to carry out the purposes of the Strategic Environmental Research and Development Program.
-    (3) To prepare an annual five-year strategic environmental research and development plan that shall cover the fiscal year in which the plan is prepared and the four fiscal years following such fiscal year.
-    (4) To promote the maximum exchange of information, and to minimize duplication, regarding environmentally related research, development, and demonstration activities through close coordination with the military departments and Defense Agencies, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, other departments and agencies of the Federal Government or any State and local governments, including the Federal Coordinating Council on Science, Engineering, and Technology, and other organizations engaged in such activities.
-    (5) To ensure that research and development activities under the Strategic Environmental Research and Development Program do not duplicate other ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, or any other department or agency of the Federal Government.
-    (6) To ensure that the research and development programs identified for support pursuant to policies and procedures prescribed by the council utilize, to the maximum extent possible, the talents, skills, and abilities residing at the Federal laboratories, including the Department of Energy multiprogram and defense laboratories, the Department of Defense laboratories, and Federal contract research centers. To utilize the research capabilities of institutions of higher education and private industry to the extent practicable.
+    (3) To prepare an annual report that contains the following:
+      (A) A description of activities of the strategic environmental research and development program carried out during the fiscal year before the fiscal year in which the report is prepared.
+      (B) A general outline of the activities planned for the program during the fiscal year in which the report is prepared.
+      (C) A summary of projects continued from the fiscal year before the fiscal year in which the report is prepared and projects expected to be started during the fiscal year in which the report is prepared and during the following fiscal year.
+  (5) To ensure that research and development activities under the Strategic Environmental Research and Development Program do not duplicate other ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, or any other department or agency of the Federal Government.
+  (6) To ensure that the research and development programs identified for support pursuant to policies and procedures prescribed by the council utilize, to the maximum extent possible, the talents, skills, and abilities residing at the Federal laboratories, including the Department of Energy multiprogram and defense laboratories, the Department of Defense laboratories, and Federal contract research centers. To utilize the research capabilities of institutions of higher education and private industry to the extent practicable.
   (e) In carrying out subsection (d)(1), the Council shall prescribe policies and procedures that–
     (1) provide for appropriate access by Federal Government personnel, State and local government personnel, college and university personnel, industry personnel, and the general public to data under the control of, or otherwise available to, the Department of Defense that is relevant to environmental matters by–
       (A) identifying the sources of such data;
       (B) publicizing the availability and sources of such data by appropriately-targeted dissemination of information to such personnel and the general public, and by other means; and
       (C) providing for review of classified data relevant to environmental matters with a view to declassifying or preparing unclassified summaries of such data;
     (2) provide governmental and nongovernmental entities with analytic assistance, consistent with national defense missions, including access to military platforms for sensor deployment and access to computer capabilities, in order to facilitate environmental research;
-    (3) provide for the identification of energy technologies developed for national defense purposes (including electricity generation systems, energy storage systems, alternative fuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs, particularly technologies that have the potential for industrial, commercial, and other governmental applications, and to support programs of research in and development of such applications;
+    (3) provide for the identification of energy technologies developed for national defense purposes (including electricity generation systems, energy storage systems, alternative fuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs;
     (4) provide for the identification and support of programs of basic and applied research, development, and demonstration in technologies useful–
       (A) to facilitate environmental compliance, remediation, and restoration activities of the Department of Defense and at Department of Energy defense facilities;
       (B) to minimize waste generation, including reduction at the source, by such departments; or
@@ -38,29 +39,6 @@
     (8) provide for the identification of, and planning for the demonstration and use of, existing environmentally sound, energy-efficient technologies developed by the private sector that could be used directly by the Department of Defense;
     (9) provide for the identification of military specifications that prevent or limit the use of environmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
     (10) to ensure that the research and development programs identified for support pursuant to the policies and procedures prescribed by the Council are closely coordinated with, and do not duplicate, ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other Federal agencies.
-  (f)    (1) To assist the Council in preparing the five-year strategic environmental research and development plan under subsection (d)(3), the Secretary of Defense and the Secretary of Energy may each submit to the Council a proposal for conducting environmental research under this chapter. The Secretary of each department shall ensure that the environmental research proposal of the department includes–
-      (A) short- and long-term, cooperative, basic, and applied research systems engineering and development programs in environmental research;
-      (B) short- and long-term, basic research in environmental restoration at the respective laboratories of each department; and
-      (C) participation by industry and institutions of higher education.
-    (2) The Secretary of each department shall ensure that, in the development of its environmental research proposal, consideration is given to–
-      (A) the need for increased research in basic science, including basic materials, physics, molecular structures, chemistry, and biology related to environmental research at that department“s defense operations, production, research, and maintenance facilities; and
-      (B) ways to identify and conduct research and development on technologies for environmental restoration, remediation and waste cleanup activities, waste minimization, and hazardous and toxic materials substitution potential in defense production and maintenance activities.
-    (3) The Secretary of each department shall transmit the proposal to the Council not later than July 1 of each year.
-  (g) The Council shall be subject to the authority, direction, and control of the Secretary of Defense in prescribing policies and procedures under subsection (d)(1).
-  (h)    (1) Not later than February 1 of each year, the Council shall submit to the Secretary of Defense an annual report on the annual five-year strategic environmental research and development plan prepared pursuant to subsection (d)(3).
-    (2) The report shall contain the following:
-      (A) A description of the actions to be taken during the five-year period covered by the plan in order to prevent duplication of research and development activities referred to in the policies and procedures prescribed pursuant to subsection (d)(1).
-      (B) A description of the involvement with Federal interagency coordinating entities such as the Federal Coordinating Council on Science, Engineering, and Technology.
-      (C) A description of each project selected or recommended by the Council for support and funding, including the duration of, and the total estimated or (if known) actual cost of–
-        (i) each such project supported during the fiscal year in which the plan is submitted and the preceding fiscal year; and
-        (ii) each such project proposed for funding during the fiscal year in which the annual report is submitted and the following four fiscal years.
-      (D) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the annual report is submitted, for the programs, projects, and activities of the Strategic Environmental Research and Development Program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
-      (E) The amount requested in such budget for each Federal laboratory, including each Department of Defense and Department of Energy laboratory.
-      (F) The amount made available, for the fiscal year in which the annual report is submitted, to each Federal laboratory, including each Department of Defense and Department of Energy laboratory.
-      (G) A description of any changes in military specifications recommended by the Council, actions to be taken to effectuate any such recommended changes on an expedited basis, and the projected date for each such change.
-      (H) A description of all contracts, agreements, or other documents for cooperative research and development activities entered into pursuant to the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.) during the fiscal year preceding the fiscal year in which the annual report is submitted.
-      (I) Plans for transferring technology and information to other governmental agencies and to nongovernmental organizations involved in environmental research and related matters.
-      (J) A description of plans to increase access to data described in subsection (e)(1).
-      (K) Such additional recommendations or proposals, including proposals for legislation, relating to the Strategic Environmental Research and Development Program as the Council considers appropriate.
-    (3) The Council shall make a draft of the five-year strategic environmental research and development plan covered by each report available for public comment for a period of at least 30 days.
-    (4) Not later than March 15 of each year the Secretary of Defense and the Secretary of Energy shall transmit the annual report to the Congress. The Secretary of Defense and the Secretary of Energy may submit such comments on the annual report as each Secretary considers appropriate.
+  (f) The Council shall be subject to the authority, direction, and control of the Secretary of Defense in prescribing policies and procedures under subsection (d)(1).
+  (g)    (1) Not later than February 1 of each year, the Council shall submit to the Secretary of Defense the annual report prepared pursuant to subsection (d)(3).
+    (2) Not later than March 15 of each year, the Secretary of Defense shall submit such annual report to Congress, along with such comments as the Secretary considers appropriate.

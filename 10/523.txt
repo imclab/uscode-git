@@ -1,52 +1,73 @@
   (a)    (1) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Army, Air Force, or Marine Corps at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of major, lieutenant colonel, and colonel may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
-        h1Total number of commissioned officers (excluding officers in categories specified in subsection (b)) on active duty: h1Number of officers who may be serving on active duty in the grade of: h2Major h2Lieutenant colonel h2Colonelj
+        
        Army:
-       60,000 D11,580 D7,941 D3,080
-       65,000 D12,271 D8,330 D3,264
-       70,000 D12,963 D8,718 D3,447
-       75,000 D13,654 D9,107 D3,631
-       80,000 D14,346 D9,495 D3,814
-       85,000 D15,037 D9,884 D3,997
-       90,000 D15,729 D10,272 D4,181
-       95,000 D16,420 D10,661 D4,364
-       100,000 D17,112 D11,049 D4,548
-       110,000 D18,495 D11,826 D4,915
-       120,000 D19,878 D12,603 D5,281
-       130,000 D21,261 D13,380 D5,648
-       170,000 D26,793 D16,488 D7,116
+       20,000 D6,848 D5,253 D1,613
+       25,000 D7,539 D5,642 D1,796
+       30,000 D8,231 D6,030 D1,980
+       35,000 D8,922 D6,419 D2,163
+       40,000 D9,614 D6,807 D2,347
+       45,000 D10,305 D7,196 D2,530
+       50,000 D10,997 D7,584 D2,713
+       55,000 D11,688 D7,973 D2,897
+       60,000 D12,380 D8,361 D3,080
+       65,000 D13,071 D8,750 D3,264
+       70,000 D13,763 D9,138 D3,447
+       75,000 D14,454 D9,527 D3,631
+       80,000 D15,146 D9,915 D3,814
+       85,000 D15,837 D10,304 D3,997
+       90,000 D16,529 D10,692 D4,181
+       95,000 D17,220 D11,081 D4,364
+       100,000 D17,912 D11,469 D4,548
+       110,000 D19,295 D12,246 D4,915
+       120,000 D20,678 D13,023 D5,281
+       130,000 D22,061 D13,800 D5,648
+       170,000 D27,593 D16,908 D7,116
        Air Force:
-       70,000 D13,530 D9,428 D3,392
-       75,000 D14,266 D9,801 D3,573
-       80,000 D15,002 D10,175 D3,754
-       85,000 D15,738 D10,549 D3,935
-       90,000 D16,474 D10,923 D4,115
-       95,000 D17,210 D11,297 D4,296
-       100,000 D17,946 D11,671 D4,477
-       105,000 D18,682 D12,045 D4,658
-       110,000 D19,418 D12,418 D4,838
-       115,000 D20,154 D12,792 D5,019
-       120,000 D20,890 D13,165 D5,200
-       125,000 D21,626 D13,539 D5,381
-       Marine   Corps:
-       12,500 D2,499 D1,388 D592
-       15,000 D2,766 D1,483 D613
-       17,500 D3,085 D1,579 D633
-       20,000 D3,404 D1,674 D654
-       22,500 D3,723 D1,770 D675
-       25,000 D4,042 D1,865 D695
+       35,000 D9,216 D7,090 D2,125
+       40,000 D10,025 D7,478 D2,306
+       45,000 D10,835 D7,866 D2,487
+       50,000 D11,645 D8,253 D2,668
+       55,000 D12,454 D8,641 D2,849
+       60,000 D13,264 D9,029 D3,030
+       65,000 D14,073 D9,417 D3,211
+       70,000 D14,883 D9,805 D3,392
+       75,000 D15,693 D10,193 D3,573
+       80,000 D16,502 D10,582 D3,754
+       85,000 D17,312 D10,971 D3,935
+       90,000 D18,121 D11,360 D4,115
+       95,000 D18,931 D11,749 D4,296
+       100,000 D19,741 D12,138 D4,477
+       105,000 D20,550 D12,527 D4,658
+       110,000 D21,360 D12,915 D4,838
+       115,000 D22,169 D13,304 D5,019
+       120,000 D22,979 D13,692 D5,200
+       125,000 D23,789 D14,081 D5,381
+       Marine Corps:
+       10,000 D2,525 D1,480 D571
+       12,500 D2,900 D1,600 D592
+       15,000 D3,275 D1,720 D613
+       17,500 D3,650 D1,840 D633
+       20,000 D4,025 D1,960 D654
+       22,500 D4,400 D2,080 D675
+       25,000 D4,775 D2,200 D695.
     (2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
-        h1Total number of commissioned officers (excluding officers in categories specified in subsection (b)) on active duty: h1Number of officers who may be serving on active duty in grade of: h2Lieutenant commanderh2Commander h2Captainj
+        
        Navy:
-       45,000 D9,124 D5,776 D2,501
-       48,000 D9,565 D5,984 D2,602
-       51,000 D10,006 D6,190 D2,702
-       54,000 D10,447 D6,398 D2,803
-       57,000 D10,888 D6,606 D2,904
-       60,000 D11,329 D6,813 D3,005
-       63,000 D11,770 D7,020 D3,106
-       66,000 D12,211 D7,227 D3,206
-       70,000 D12,799 D7,504 D3,341
-       90,000 D15,739 D8,886 D4,013
+       30,000 D7,331 D5,018 D2,116
+       33,000 D7,799 D5,239 D2,223
+       36,000 D8,267 D5,460 D2,330
+       39,000 D8,735 D5,681 D2,437
+       42,000 D9,203 D5,902 D2,544
+       45,000 D9,671 D6,123 D2,651
+       48,000 D10,139 D6,343 D2,758
+       51,000 D10,606 D6,561 D2,864
+       54,000 D11,074 D6,782 D2,971
+       57,000 D11,541 D7,002 D3,078
+       60,000 D12,009 D7,222 D3,185
+       63,000 D12,476 D7,441 D3,292
+       66,000 D12,944 D7,661 D3,398
+       70,000 D13,567 D7,954 D3,541
+       90,000 D16,683 D9,419 D4,254.
     (3) If the total number of commissioned officers serving on active duty in an armed force (excluding officers in categories specified in subsection (b)) is between any two consecutive figures listed in the first column of the appropriate table in paragraph (1) or (2), the corresponding authorized strengths for each of the grades shown in that table for that armed force are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of commissioned officers serving on active duty in an armed force (excluding officers in categories specified in subsection (b)) is greater or less than the figures listed in the first column of the appropriate table in paragraph (1) or (2), the Secretary concerned shall fix the corresponding strengths for the grades shown in that table in the same proportion as reflected in the nearest limit shown in the table.
   (b) Officers in the following categories shall be excluded in computing and determining authorized strengths under this section:
     (1) Reserve officers–

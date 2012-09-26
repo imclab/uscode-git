@@ -1,7 +1,38 @@
-  (a) T4Disability, Non-Regular Service, Warrant Officer, and DOPMA RetirementK.–The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed ””For sections““, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4, as modified by the applicable footnotes.
-      h1Formula No. h1For sections h1          Column 1                                        Take          h1      Column 2                                           Multiply by      h1       Column 3                                          Add         h1    Column 4                          Subtract    j
-     1D1201
-     2D1202
-     4D580
-     5D633
-  (b) T4Use of Most Favorable FormulaK.–If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
+  (a) T4Prohibition on Recomputation To Reflect Increases in Basic PayK.–Unless otherwise specifically provided by law, the retired pay of a member or former member of an armed force may not be recomputed to reflect any increase in the rates of basic pay for members of the armed forces.
+  (b) T4Cost-of-Living Adjustments Based on CPI Increases.–
+    (1) T4In generalK.–Effective on December 1 of each year, the Secretary of Defense shall increase the retired pay of members and former members entitled to that pay in accordance with paragraphs (2) and (3).
+    (2) T4Pre-august 1, 1986 members.–
+      (A) T4General ruleK.–The Secretary shall increase the retired pay of each member and former member who first became a member of a uniformed service before August 1, 1986, by the percent (adjusted to the nearest one-tenth of 1 percent) by which–
+        (i) the price index for the base quarter of that year, exceeds
+        (ii) the base index.
+      (B) T4Special rule for fiscal year 1996K.–In the case of the increase in retired pay that, pursuant to paragraph (1), becomes effective on December 1, 1995, the initial month for which such increase is payable as part of such retired pay shall (notwithstanding such December 1 effective date) be March 1996.
+      (C) T4Inapplicability to disability retireesK.–Subparagraph (B) does not apply with respect to the retired pay of a member retired under chapter 61 of this title.
+    (3) T4Post-august 1, 1986 membersK.–If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member who first became a member on or after August 1, 1986, by the difference between–
+      (A) the percent determined under paragraph (2); and
+      (B) 1 percent.
+    (4) T4Special rule for paragraph (3)K.–If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other than any provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
+    (5) T4RegulationsK.–Any increase in retired pay under this subsection shall be made in accordance with regulations prescribed by the Secretary of Defense.
+  (c) T4First COLA Adjustment for Members With Retired Pay Computed Using Final Basic Pay.–
+    (1) T4First adjustment with intervening increase in basic payK.–Notwithstanding subsection (b), if a person described in paragraph (3) becomes entitled to retired pay based on rates of monthly basic pay that became effective after the last day of the calendar quarter of the base index, the retired pay of the member or former member shall be increased on the effective date of the next adjustment of retired pay under subsection (b) only by the percent (adjusted to the nearest one-tenth of 1 percent) by which–
+      (A) the price index for the base quarter of that year, exceeds
+      (B) the price index for the calendar quarter immediately before the calendar quarter in which the rates of monthly basic pay on which the retired pay is based became effective.
+    (2) T4First adjustment with no intervening increase in basic payK.–If a person described in paragraph (3) becomes entitled to retired pay on or after the effective date of an adjustment in retired pay under subsection (b) but before the effective date of the next increase in the rates of monthly basic pay, the retired pay of the member or former member shall be increased, effective on the date the member becomes entitled to that pay, by the percent (adjusted to the nearest one-tenth of 1 percent) by which–
+      (A) the base index, exceeds
+      (B) the price index for the calendar quarter immediately before the calendar quarter in which the rates of monthly basic pay on which the retired pay is based became effective.
+    (3) T4Members coveredK.–Paragraphs (1) and (2) apply to a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, and whose retired pay base is determined under section 1406 of this title.
+  (d) T4First COLA Adjustment for Members With Retired Pay Computed Using High-ThreeK.–Notwithstanding subsection (b), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, and whose retired pay base is determined under section 1407 of this title shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which–
+    (1) the price index for the base quarter of that year, exceeds
+    (2) the price index for the calendar quarter immediately before the calendar quarter during which the member became entitled to retired pay.
+  (e) T4Pro Rating of Initial AdjustmentK.–Notwithstanding subsection (b), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between–
+    (1) the percent by which–
+      (A) the price index for the base quarter of that year, exceeds
+      (B) the price index for the calendar quarter immediately before the calendar quarter during which the member became entitled to retired pay; and
+    (2) one-fourth of 1 percent for each calendar quarter from the quarter described in paragraph (1)(B) to the quarter described in paragraph (1)(A).
+       If in any case the percent described in paragraph (2) exceeds the percent determined under paragraph (1), such an increase shall not be made.
+  (f) T4Prevention of Pay InversionsK.–Notwithstanding any other provision of law, the monthly retired pay of a member or a former member of an armed force who initially became entitled to that pay on or after January 1, 1971, may not be less than the monthly retired pay to which he would be entitled if he had become entitled to retired pay at an earlier date based on the grade in which the member is retired, adjusted to reflect any applicable increases in such pay under this section. In computing the amount of retired pay to which such a member or former member would have been entitled on that earlier date, the computation shall be based on his grade, length of service, and the rate of basic pay applicable to him at that time, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired. This subsection does not authorize any increase in the monthly retired pay to which a member was entitled for any period before October 7, 1975.
+  (g) T4DefinitionsK.–In this section:
+    (1) The term ””price index““ means the Consumer Price Index (all items, United States city average) published by the Bureau of Labor Statistics.
+    (2) The term ””base quarter““ means the calendar quarter ending on September 30 of each year.
+    (3) The term ””base index““ means the price index for the base quarter for the most recent adjustment under subsection (b).
+    (4) The term ””retired pay““ includes retainer pay.
+  (h) T4Price Index for a QuarterK.–For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.

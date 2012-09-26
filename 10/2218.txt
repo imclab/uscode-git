@@ -1,10 +1,11 @@
   (a) T4EstablishmentK.–There is established in the Treasury of the United States a fund to be known as the ””National Defense Sealift Fund““.
   (b) T4Administration of FundK.–The Secretary of Defense shall administer the Fund consistent with the provisions of this section.
-  (c) T4Fund PurposesK.–(1) Funds in the National Defense Sealift Fund shall be available for obligation and expenditure only for–
-    (A) construction (including design of vessels), purchase, alteration, and conversion of Department of Defense sealift vessels;
-    (B) operation, maintenance, and lease or charter of Department of Defense vessels for national defense purposes;
-    (C) installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States; and
-    (D) research and development relating to national defense sealift.
+  (c) T4Fund PurposesK.–(1) Funds in the National Defense Sealift Fund shall be available for obligation and expenditure only for the following purposes:
+    (A) Construction (including design of vessels), purchase, alteration, and conversion of Department of Defense sealift vessels.
+    (B) Operation, maintenance, and lease or charter of Department of Defense vessels for national defense purposes.
+    (C) Installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States.
+    (D) Research and development relating to national defense sealift.
+    (E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
   (2) Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
   (3) Funds obligated and expended for a purpose set forth in subparagraph (B) or (D) of paragraph (1) may be derived only from funds deposited in the National Defense Sealift Fund pursuant to subsection (d)(1).
   (d) T4DepositsK.–There shall be deposited in the Fund the following:
@@ -26,8 +27,8 @@
     (2) the amount requested for programs, projects, and activities for operation, maintenance, and lease or charter of national defense sealift vessels;
     (3) the amount requested for programs, projects, and activities for installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States; and
     (4) the amount requested for programs, projects, and activities for research and development relating to national defense sealift.
-      (i) T4Title or Management of VesselsK.–Nothing in this section shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
-      (j) T4Authority for Certain Use of FundsK.–Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).
+      (i) T4Title or Management of VesselsK.–Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+      (j) T4Authority for Certain Use of FundsK.–Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).
       (k) T4DefinitionsK.–In this section:
         (1) The term ””Fund““ means the National Defense Sealift Fund established by subsection (a).
         (2) The term ””Department of Defense sealift vessel““ means any ship owned, operated, controlled, or chartered by the Department of Defense that is–
@@ -39,3 +40,5 @@
         (3) The term ””national defense sealift vessel““ means–
           (A) a Department of Defense sealift vessel; and
           (B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+            (A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+            (B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.

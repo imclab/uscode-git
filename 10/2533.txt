@@ -1,11 +1,16 @@
-  (a) T4Establishment of Offset PolicyK.–The President shall establish, consistent with the requirements of this section, a comprehensive policy with respect to contractual offset arrangements in connection with the purchase of defense equipment or supplies which addresses the following:
-    (1) Transfer of technology in connection with offset arrangements.
-    (2) Application of offset arrangements, including cases in which United States funds are used to finance the purchase by a foreign government.
-    (3) Effects of offset arrangements on specific subsectors of the industrial base of the United States and for preventing or ameliorating any serious adverse effects on such subsectors.
-  (b) T4Technology TransferK.–(1) No official of the United States may enter into a memorandum of understanding or other agreement with a foreign government that would require the transfer of United States defense technology to a foreign country or a foreign firm in connection with a contract that is subject to an offset arrangement if the implementation of such memorandum or agreement would significantly and adversely affect the defense industrial base of the United States and would result in a substantial financial loss to a United States firm.
-  (2) Paragraph (1) shall not apply in the case of a memorandum of understanding or agreement described in paragraph (1) if the Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, determines that a transfer of United States defense technology pursuant to such understanding or agreement will result in strengthening the national security of the United States and so certifies to Congress.
-  (3) If a United States firm is required under the terms of a memorandum of understanding, or other agreement entered into by the United States with a foreign country, to transfer defense technology to a foreign country, the United States firm may protest the determination to the Secretary of Defense on the grounds that the transfer of such technology would adversely affect the defense industrial base of the United States and would result in substantial financial loss to the protesting firm. The Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, shall make the final determination of the validity of the protesting firm“s claim.
-  (c) T4Notification Regarding OffsetsK.–If at any time a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset arrangement exceeding $50,000,000 in value, such firm shall notify the Secretary of Defense of the proposed sale. Notification shall be made under this subsection in accordance with regulations prescribed by the Secretary of Defense in consultation with the Secretary of Commerce.
-  (d) T4DefinitionsK.–In this section:
-    (1) The term ””United States firm““ means a business entity that performs substantially all of its manufacturing, production, and research and development activities in the United States.
-    (2) The term ””foreign firm““ means a business entity other than a United States firm.
+  (a) In determining under section 2 of the Buy American Act (41 U.S.C. 10a) whether application of such Act is inconsistent with the public interest, the Secretary of Defense shall consider the following:
+    (1) The bids or proposals of small business firms in the United States which have offered to furnish American goods.
+    (2) The bids or proposals of all other firms in the United States which have offered to furnish American goods.
+    (3) The United States balance of payments.
+    (4) The cost of shipping goods which are other than American goods.
+    (5) Any duty, tariff, or surcharge which may enter into the cost of using goods which are other than American goods.
+    (6) A need to ensure that the Department of Defense has access to advanced, state-of-the-art commercial technology.
+    (7) The need to protect the national technology and industrial base, to preserve and enhance the national technology employment base, and to provide for a defense mobilization base.
+    (8) A need to ensure that application of different rules of origin for United States end items and foreign end items does not result in an award to a firm other than a firm providing a product produced in the United States.
+    (9) Any need–
+      (A) to maintain the same source of supply for spare and replacement parts for an end item that qualifies as an American good; or
+      (B) to maintain the same source of supply for spare and replacement parts in order not to impair integration of the military and commercial industrial base.
+    (10) The national security interests of the United States.
+  (b) In this section, the term ””goods which are other than American goods““ means–
+    (1) an end product that is not mined, produced, or manufactured in the United States; or
+    (2) an end product that is manufactured in the United States but which includes components mined, produced, or manufactured outside the United States the aggregate cost of which exceeds the aggregate cost of the components of such end product that are mined, produced, or manufactured in the United States.
