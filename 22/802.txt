@@ -112,43 +112,81 @@
       (v) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
     (B) a distribution, importation, or exportation of a tableting machine or encapsulating machine.
   (40) The term ””chemical mixture““ means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
-  (41)    (A) The term ””anabolic steroid““ means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, and corticosteroids) that promotes muscle growth, and includes–
-      (i) boldenone,
-      (ii) chlorotestosterone,
-      (iii) clostebol,
-      (iv) dehydrochlormethyltestosterone,
-      (v) dihydrotestosterone,
-      (vi) drostanolone,
-      (vii) ethylestrenol,
-      (viii) fluoxymesterone,
-      (ix) formebulone,
-      (x) mesterolone,
-      (xi) methandienone,
-      (xii) methandranone,
-      (xiii) methandriol,
-      (xiv) methandrostenolone,
-      (xv) methenolone,
-      (xvi) methyltestosterone,
-      (xvii) mibolerone,
-      (xviii) nandrolone,
-      (xix) norethandrolone,
-      (xx) oxandrolone,
-      (xxi) oxymesterone,
-      (xxii) oxymetholone,
-      (xxiii) stanolone,
-      (xxiv) stanozolol,
-      (xxv) testolactone,
-      (xxvi) testosterone,
-      (xxvii) trenbolone, and
-      (xxviii) any salt, ester, or isomer of a drug or substance described or listed in this paragraph, if that salt, ester, or isomer promotes muscle growth.
-    (B)      (i) Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
-      (ii) If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
+  (41)    (A) The term ””anabolic steroid““ means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes–
+      (i) androstanediol–
+        (I) 3G6T1bK,17G6T1bK-dihydroxy-5G6T1aK-androstane; and
+        (II) 3G6T1aK,17G6T1bK-dihydroxy-5G6T1aK-androstane;
+      (ii) androstanedione (5G6T1aK-androstan-3,17-dione);
+      (iii) androstenediol–
+        (I) 1-androstenediol (3G6T1bK,17G6T1bK-dihydroxy-5G6T1aK-androst-1-ene);
+        (II) 1-androstenediol (3G6T1aK,17G6T1bK-dihydroxy-5G6T1aK-androst-1-ene);
+        (III) 4-androstenediol (3G6T1bK,17G6T1bK-dihydroxy-androst-4-ene); and
+        (IV) 5-androstenediol (3G6T1bK,17G6T1bK-dihydroxy-androst-5-ene);
+      (iv) androstenedione–
+        (I) 1-androstenedione ([5G6T1aK]-androst-1-en-3,17-dione);
+        (II) 4-androstenedione (androst-4-en-3,17-dione); and
+        (III) 5-androstenedione (androst-5-en-3,17-dione);
+      (v) bolasterone (7G6T1aK,17G6T1aK-dimethyl-17G6T1bK-hydroxyandrost-4-en-3-one);
+      (vi) boldenone (17G6T1bK-hydroxyandrost-1,4,-diene-3-one);
+      (vii) calusterone (7G6T1bK,17G6T1aK-dimethyl-17G6T1bK-hydroxyandrost-4-en-3-one);
+      (viii) clostebol (4-chloro-17G6T1bK-hydroxyandrost-4-en-3-one);
+      (ix) dehydrochloromethyltestosterone (4-chloro-17G6T1bK-hydroxy-17G6T1aK-methyl-androst-1,4-dien-3-one);
+      (x) G7T3*K1-dihydrotestosterone (a.k.a. ””1-testosterone““) (17G6T1bK-hydroxy-5G6T1aK-androst-1-en-3-one);
+      (xi) 4-dihydrotestosterone (17G6T1bK-hydroxy-androstan-3-one);
+      (xii) drostanolone (17G6T1bK-hydroxy-2G6T1aK-methyl-5G6T1aK-androstan-3-one);
+      (xiii) ethylestrenol (17G6T1aK-ethyl-17G6T1bK-hydroxyestr-4-ene);
+      (xiv) fluoxymesterone (9-fluoro-17G6T1aK-methyl-11G6T1bK,17G6T1bK-dihydroxyandrost-4-en-3-one);
+      (xv) formebolone (2-formyl-17G6T1aK-methyl-11G6T1aK,17G6T1bK-dihydroxyandrost-1,4-dien-3-one);
+      (xvi) furazabol (17G6T1aK-methyl-17G6T1bK-hydroxyandrostano[2,3-c]-furazan);
+      (xvii) 13G6T1bK-ethyl-17G6T1aK-hydroxygon-4-en-3-one;
+      (xviii) 4-hydroxytestosterone (4,17G6T1bK-dihydroxy-androst-4-en-3-one);
+      (xix) 4-hydroxy-19-nortestosterone (4,17G6T1bK-dihydroxy-estr-4-en-3-one);
+      (xx) mestanolone (17G6T1aK-methyl-17G6T1bK-hydroxy-5G6T1aK-androstan-3-one);
+      (xxi) mesterolone (1G6T1aK-methyl-17G6T1bK-hydroxy-[5G6T1aK]-androstan-3-one);
+      (xxii) methandienone (17G6T1aK-methyl-17G6T1bK-hydroxyandrost-1,4-dien-3-one);
+      (xxiii) methandriol (17G6T1aK-methyl-3G6T1bK,17G6T1bK-dihydroxyandrost-5-ene);
+      (xxiv) methenolone (1-methyl-17G6T1bK-hydroxy-5G6T1aK-androst-1-en-3-one);
+      (xxv) 17G6T1aK-methyl-3G6T1bK, 17G6T1bK-dihydroxy-5G6T1aK-androstane;
+      (xxvi) 17G6T1aK-methyl-3G6T1aK,17G6T1bK-dihydroxy-5G6T1aK-androstane;
+      (xxvii) 17G6T1aK-methyl-3G6T1bK,17G6T1bK-dihydroxyandrost-4-ene.
+      (xxviii) 17G6T1aK-methyl-4-hydroxynandrolone (17G6T1aK-methyl-4-hydroxy-17G6T1bK-hydroxyestr-4-en-3-one);
+      (xxix) methyldienolone (17G6T1aK-methyl-17G6T1bK-hydroxyestra-4,9(10)-dien-3-one);
+      (xxx) methyltrienolone (17G6T1aK-methyl-17G6T1bK-hydroxyestra-4,9-11-trien-3-one);
+      (xxxi) methyltestosterone (17G6T1aK-methyl-17G6T1bK-hydroxyandrost-4-en-3-one);
+      (xxxii) mibolerone (7G6T1aK,17G6T1aK-dimethyl-17G6T1bK-hydroxyestr-4-en-3-one);
+      (xxxiii) 17G6T1aK-methyl-G7T3*K1-dihydrotestosterone (17G6T1bK-hydroxy-17G6T1aK-methyl-5G6T1aK-androst-1-en-3-one) (a.k.a. ””17-G6T1aK-methyl-1-testosterone““);
+      (xxxiv) nandrolone (17G6T1bK-hydroxyestr-4-en-3-one);
+      (xxxv) norandrostenediol–
+        (I) 19-nor-4-androstenediol (3G6T1bK, 17G6T1bK-dihydroxyestr-4-ene);
+        (II) 19-nor-4-androstenediol (3G6T1aK, 17G6T1bK-dihydroxyestr-4-ene);
+        (III) 19-nor-5-androstenediol (3G6T1bK, 17G6T1bK-dihydroxyestr-5-ene); and
+        (IV) 19-nor-5-androstenediol (3G6T1aK, 17G6T1bK-dihydroxyestr-5-ene);
+      (xxxvi) norandrostenedione–
+        (I) 19-nor-4-androstenedione (estr-4-en-3,17-dione); and
+        (II) 19-nor-5-androstenedione (estr-5-en-3,17-dione;
+      (xxxvii) norbolethone (13G6T1bK,17G6T1aK-diethyl-17G6T1bK-hydroxygon-4-en-3-one);
+      (xxxviii) norclostebol (4-chloro-17G6T1bK-hydroxyestr-4-en-3-one);
+      (xxxix) norethandrolone (17G6T1aK-ethyl-17G6T1bK-hydroxyestr-4-en-3-one);
+  (xl) normethandrolone (17G6T1aK-methyl-17G6T1bK-hydroxyestr-4-en-3-one);
+  (xli) oxandrolone (17G6T1aK-methyl-17G6T1bK-hydroxy-2-oxa-[5G6T1aK]-androstan-3-one);
+  (xlii) oxymesterone (17G6T1aK-methyl-4,17G6T1bK-dihydroxyandrost-4-en-3-one);
+  (xliii) oxymetholone (17G6T1aK-methyl-2-hydroxymethylene-17G6T1bK-hydroxy-[5G6T1aK]-androstan-3-one);
+  (xliv) stanozolol (17G6T1aK-methyl-17G6T1aK-hydroxy-[5G6T1aK]-androst-2-eno[3,2-c]-pyrazole);
+  (xlv) stenbolone (17G6T1bK-hydroxy-2-methyl-[5G6T1aK]-androst-1-en-3-one);
+  (xlvi) testolactone (13-hydroxy-3-oxo-13,17-secoandrosta-1,4-dien-17-oic acid lactone);
+  (xlvii) testosterone (17G6T1bK-hydroxyandrost-4-en-3-one);
+  (xlviii) tetrahydrogestrinone (13G6T1bK,17G6T1aK-diethyl-17G6T1bK-hydroxygon-4,9,11-trien-3-one);
+  (xlix) trenbolone (17G6T1bK-hydroxyestr-4,9,11-trien-3-one); and
+  (xlx) \1\N any salt, ester, or ether of a drug or substance described in this paragraph.
+     The substances excluded under this subparagraph may at any time be scheduled by the Attorney General in accordance with the authority and requirements of subsections (a) through (c) of section 811 of this title.
+  (B)    (i) Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
+    (ii) If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
   (42) The term ””international transaction““ means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
   (43) The terms ””broker““ and ””trader““ mean a person that assists in arranging an international transaction in a listed chemical by–
     (A) negotiating contracts;
     (B) serving as an agent or intermediary; or
     (C) bringing together a buyer and seller, a buyer and transporter, or a seller and transporter.
-  (44) The term ””felony drug offense““ means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.
+  (44) The term ””felony drug offense““ means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, anabolic steroids, or depressant or stimulant substances.
   (45) The term ””ordinary over-the-counter pseudoephedrine or phenylpropanolamine product““ means any product containing pseudoephedrine or phenylpropanolamine that is–
     (A) regulated pursuant to this subchapter; and
     (B)      (i) except for liquids, sold in package sizes of not more than 3.0 grams of pseudoephedrine base or 3.0 grams of phenylpropanolamine base, and that is packaged in blister packs, each blister containing not more than two dosage units, or where the use of blister packs is technically infeasible, that is packaged in unit dose packets or pouches; and

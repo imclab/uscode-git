@@ -59,7 +59,7 @@
   (f) Veterinary prescription drugs
     (1)      (A) A drug intended for use by animals other than man, other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug, which–
         (i) because of its toxicity or other potentiality for harmful effect, or the method of its use, or the collateral measures necessary for its use, is not safe for animal use except under the professional supervision of a licensed veterinarian, or
-        (ii) is limited by an approved application under subsection (b) of section 360b of this title to use under the professional supervision of a licensed veterinarian,
+        (ii) is limited by an approved application under subsection (b) of section 360b of this title, a conditionally-approved application under section 360ccc of this title, or an index listing under section 360ccc–1 of this title to use under the professional supervision of a licensed veterinarian,
            shall be dispensed only by or upon the lawful written or oral order of a licensed veterinarian in the course of the veterinarian“s professional practice.
       (B) For purposes of subparagraph (A), an order is lawful if the order–
         (i) is a prescription or other order authorized by law,
@@ -72,7 +72,7 @@
         (i) when dispensed by a licensed veterinarian, the drug bears a label containing the name and address of the practitioner and any directions for use and cautionary statements specified by the practitioner, or
         (ii) when dispensed by filling the lawful order of a licensed veterinarian, the drug bears a label containing the name and address of the dispenser, the serial number and date of the order or of its filling, the name of the licensed veterinarian, and the directions for use and cautionary statements, if any, contained in such order.
            The preceding sentence shall not apply to any drug dispensed in the course of the conduct of a business of dispensing drugs pursuant to diagnosis by mail.
-    (3) The Secretary may by regulation exempt drugs for animals other than man subject to section 360b of this title from the requirements of paragraph (1) when such requirements are not necessary for the protection of the public health.
+    (3) The Secretary may by regulation exempt drugs for animals other than man subject to section 360b, 360ccc, or 360ccc–1 of this title from the requirements of paragraph (1) when such requirements are not necessary for the protection of the public health.
     (4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement ””Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.““. A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
   (g) Regulation of combination products
     (1) The Secretary shall in accordance with this subsection assign an agency center to regulate products that constitute a combination of a drug, device, or biological product. The Secretary shall determine the primary mode of action of the combination product. If the Secretary determines that the primary mode of action is that of–
