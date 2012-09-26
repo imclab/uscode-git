@@ -1,23 +1,42 @@
-  (a) Submission by Federal officer; approval of Attorney General; contents
-     Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General“s finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include–
-    (1) the identity of the Federal officer making the application;
-    (2) the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;
-    (3) the identity, if known, or a description of the target of the search, and a detailed description of the premises or property to be searched and of the information, material, or property to be seized, reproduced, or altered;
-    (4) a statement of the facts and circumstances relied upon by the applicant to justify the applicant“s belief that–
-      (A) the target of the physical search is a foreign power or an agent of a foreign power;
-      (B) the premises or property to be searched contains foreign intelligence information; and
-      (C) the premises or property to be searched is owned, used, possessed by, or is in transit to or from a foreign power or an agent of a foreign power;
-    (5) a statement of the proposed minimization procedures;
-    (6) a statement of the nature of the foreign intelligence sought and the manner in which the physical search is to be conducted;
-    (7) a certification or certifications by the Assistant to the President for National Security Affairs or an executive branch official or officials designated by the President from among those executive branch officers employed in the area of national security or defense and appointed by the President, by and with the advice and consent of the Senate–
-      (A) that the certifying official deems the information sought to be foreign intelligence information;
-      (B) that the purpose of the search is to obtain foreign intelligence information;
-      (C) that such information cannot reasonably be obtained by normal investigative techniques;
-      (D) that designates the type of foreign intelligence information being sought according to the categories described in section 1801(e) of this title; and
-      (E) includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D);
-    (8) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
-    (9) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
-  (b) Additional affidavits or certifications
-     The Attorney General may require any other affidavit or certification from any other officer in connection with the application.
-  (c) Additional information
-     The judge may require the applicant to furnish such other information as may be necessary to make the determinations required by section 1824 of this title.
+  (a) Necessary findings
+     Upon an application made pursuant to section 1823 of this title, the judge shall enter an ex parte order as requested or as modified approving the physical search if the judge finds that–
+    (1) the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;
+    (2) the application has been made by a Federal officer and approved by the Attorney General;
+    (3) on the basis of the facts submitted by the applicant there is probable cause to believe that–
+      (A) the target of the physical search is a foreign power or an agent of a foreign power, except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
+      (B) the premises or property to be searched is owned, used, possessed by, or is in transit to or from an agent of a foreign power or a foreign power;
+    (4) the proposed minimization procedures meet the definition of minimization contained in this subchapter; and
+    (5) the application which has been filed contains all statements and certifications required by section 1823 of this title, and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1823(a)(7)(E) of this title and any other information furnished under section 1823(c) of this title.
+  (b) Specifications and directions of orders
+     An order approving a physical search under this section shall–
+    (1) specify–
+      (A) the identity, if known, or a description of the target of the physical search;
+      (B) the nature and location of each of the premises or property to be searched;
+      (C) the type of information, material, or property to be seized, altered, or reproduced;
+      (D) a statement of the manner in which the physical search is to be conducted and, whenever more than one physical search is authorized under the order, the authorized scope of each search and what minimization procedures shall apply to the information acquired by each search; and
+      (E) the period of time during which physical searches are approved; and
+    (2) direct–
+      (A) that the minimization procedures be followed;
+      (B) that, upon the request of the applicant, a specified landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or assistance necessary to accomplish the physical search in such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search;
+      (C) that such landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the search or the aid furnished that such person wishes to retain;
+      (D) that the applicant compensate, at the prevailing rate, such landlord, custodian, or other person for furnishing such aid; and
+      (E) that the Federal officer conducting the physical search promptly report to the court the circumstances and results of the physical search.
+  (c) Duration of order; extensions; assessment of compliance
+    (1) An order issued under this section may approve a physical search for the period necessary to achieve its purpose, or for forty-five days, whichever is less, except that an order under this section shall approve a physical search targeted against a foreign power, as defined in paragraph (1), (2), or (3) of section 1801(a) of this title, for the period specified in the application or for one year, whichever is less.
+    (2) Extensions of an order issued under this subchapter may be granted on the same basis as the original order upon an application for an extension and new findings made in the same manner as required for the original order, except that an extension of an order under this chapter for a physical search targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power, as defined in section 1801(a)(4) of this title, that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no property of any individual United States person will be acquired during the period.
+    (3) At or before the end of the period of time for which a physical search is approved by an order or an extension, or at any time after a physical search is carried out, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
+  (d) Emergency orders
+    (1)      (A) Notwithstanding any other provision of this subchapter, whenever the Attorney General reasonably makes the determination specified in subparagraph (B), the Attorney General may authorize the execution of an emergency physical search if–
+        (i) a judge having jurisdiction under section 1803 of this title is informed by the Attorney General or the Attorney General“s designee at the time of such authorization that the decision has been made to execute an emergency search, and
+        (ii) an application in accordance with this subchapter is made to that judge as soon as practicable but not more than 24 hours after the Attorney General authorizes such search.
+      (B) The determination referred to in subparagraph (A) is a determination that–
+        (i) an emergency situation exists with respect to the execution of a physical search to obtain foreign intelligence information before an order authorizing such search can with due diligence be obtained, and
+        (ii) the factual basis for issuance of an order under this subchapter to approve such a search exists.
+    (2) If the Attorney General authorizes an emergency search under paragraph (1), the Attorney General shall require that the minimization procedures required by this subchapter for the issuance of a judicial order be followed.
+    (3) In the absence of a judicial order approving such a physical search, the search shall terminate the earlier of–
+      (A) the date on which the information sought is obtained;
+      (B) the date on which the application for the order is denied; or
+      (C) the expiration of 24 hours from the time of authorization by the Attorney General.
+    (4) In the event that such application for approval is denied, or in any other case where the physical search is terminated and no order is issued approving the search, no information obtained or evidence derived from such search shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such search shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General, if the information indicates a threat of death or serious bodily harm to any person. A denial of the application made under this subsection may be reviewed as provided in section 1822 of this title.
+  (e) Retention of applications and orders
+     Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
