@@ -1,0 +1,49 @@
+  (a) Covered executive agency activities; publication of notice; time limitations
+    (1) Except as provided in subsection (c) of this section–
+      (A) an executive agency intending to–
+        (i) solicit bids or proposals for a contract for property or services for a price expected to exceed $25,000; or
+        (ii) place an order, expected to exceed $25,000, under a basic agreement, basic ordering agreement, or similar arrangement,
+       shall furnish for publication by the Secretary of Commerce a notice of solicitation described in subsection (b) of this section;
+      (B) an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f) \1\N of this section–
+        (i) in the case of an executive agency other than the Department of Defense, if the contract is for a price expected to exceed $10,000, but not to exceed $25,000; and
+        (ii) in the case of the Department of Defense, if the contract is for a price expected to exceed $5,000, but not to exceed $25,000; and
+      (C) an executive agency awarding a contract for property or services for a price exceeding $25,000, or placing an order referred to in clause (A)(ii) exceeding $25,000, shall furnish for publication by the Secretary of Commerce a notice announcing the award or order if there is likely to be any subcontract under such contract or order.
+    (2) The Secretary of Commerce shall publish promptly in the Commerce Business Daily each notice required by paragraph (1).
+    (3) Whenever an executive agency is required by paragraph (1)(A) to furnish a notice to the Secretary of Commerce, such executive agency may not–
+      (A) issue the solicitation earlier than 15 days after the date on which the notice is published by the Secretary of Commerce; or
+      (B) in the case of a contract or order expected to be greater than the simplified acquisition threshold, establish a deadline for the submission of all bids or proposals in response to the notice required by paragraph (1)(A) that–
+        (i) in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than the date 30 days after the date the notice required by paragraph (1)(A)(ii) is published;
+        (ii) in the case of a solicitation for research and development, is earlier than the date 45 days after the date the notice required by paragraph (1)(A)(i) is published; or
+        (iii) in any other case, is earlier than the date 30 days after the date the solicitation is issued.
+    (4) An executive agency intending to solicit offers for a contract for which a notice of solicitation is required to be posted under paragraph (1)(B) shall ensure that contracting officers consider each responsive offer timely received from an offeror.
+    (5) An executive agency shall establish a deadline for the submission of all bids or proposals in response to a solicitation with respect to which no such deadline is provided by statute. Each deadline for the submission of offers shall afford potential offerors a reasonable opportunity to respond.
+    (6) The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (3) for the submission of bids or proposals for the procurement of commercial items.
+  (b) Contents of notice
+     Each notice of solicitation required by subparagraph (A) or (B) of subsection (a)(1) shall include–
+    (1) an accurate description of the property or services to be contracted for, which description (A) shall not be unnecessarily restrictive of competition, and (B) shall include, as appropriate, the agency nomenclature, National Stock Number or other part number, and a brief description of the item“s form, fit, or function, physical dimensions, predominant material of manufacture, or similar information that will assist a prospective contractor to make an informed business judgment as to whether a copy of the solicitation should be requested;
+    (2) provisions that–
+      (A) state whether the technical data required to respond to the solicitation will not be furnished as part of such solicitation, and identify the source in the Government, if any, from which the technical data may be obtained; and
+      (B) state whether an offeror, its product, or service must meet a qualification requirement in order to be eligible for award, and, if so, identify the office from which the qualification requirement may be obtained;
+    (3) the name, business address, and telephone number of the contracting officer;
+    (4) a statement that all responsible sources may submit a bid, proposal, or quotation (as appropriate) which shall be considered by the agency;
+    (5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of such procedures and the identity of the intended source; \2\N
+    (6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold–
+      (A) a description of the procedures to be used in awarding the contract; and
+      (B) a statement specifying the periods for prospective offerors and the contracting officer to take the necessary preaward and award actions.
+  (c) Exempted, etc., activities of executive agency
+    (1) A notice is not required under subsection (a)(1) of this section if–
+      (A) the proposed procurement is for an amount not greater than the simplified acquisition threshold and is to be made through a system with interim FACNET capability certified pursuant to section 426a(a)(1) of this title or with full FACNET capability certified pursuant to section 426a(a)(2) of this title;
+      (B)        (i) the proposed procurement is for an amount not greater than $250,000 and is to be made through a system with full FACNET capability certified pursuant to section 426a(a)(2) of this title; and
+        (ii) a certification has been made pursuant to section 426a(b) of this title that Government-wide FACNET capability has been implemented;
+      (C) the notice would disclose the executive agency“s needs and the disclosure of such needs would compromise the national security;
+      (D) the proposed procurement would result from acceptance of–
+        (i) any unsolicited proposal that demonstrates a unique and innovative research concept and the publication of any notice of such unsolicited research proposal would disclose the originality of thought or innovativeness of the proposal or would disclose proprietary information associated with the proposal; or
+        (ii) a proposal submitted under section 638 of title 15;
+      (E) the procurement is made against an order placed under a requirements contract;
+      (F) the procurement is made for perishable subsistence supplies;
+      (G) the procurement is for utility services, other than telecommunication services, and only one source is available; or
+      (H) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
+    (2) The requirements of subsection (a)(1)(A) of this section do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 253(c) of this title or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10.
+    (3) The requirements of subsection (a)(1)(A) of this section shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
+  (d) Availability of complete solicitation package; payment of fee
+     An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
