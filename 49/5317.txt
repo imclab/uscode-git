@@ -1,30 +1,47 @@
-  (a) T4Grants for Regional Transportation CentersK.–(1) The Secretary of Transportation shall make grants to nonprofit institutions of higher learning to establish and operate regional transportation centers in each of the 10 United States Government regions that comprise the Standard Federal Regional Boundary System.
-  (2) A nonprofit institution of higher learning interested in receiving a grant under this subsection shall submit an application to the Secretary in the way and containing the information the Secretary prescribes. The Secretary shall select each recipient on the basis of the following:
-    (A) the regional transportation center is located in a State that is representative of the needs of the Government region for improved transportation and facilities.
-    (B) the demonstrated research and extension resources available to the recipient to carry out this subsection.
-    (C) the capability of the recipient to provide leadership in making national and regional contributions to the solution of immediate and long-range transportation problems.
-    (D) the recipient has an established transportation program encompassing several modes of transportation.
-    (E) the recipient has a demonstrated commitment of at least $200,000 in regularly budgeted institutional amounts each year to support ongoing transportation research programs.
-    (F) the recipient has a demonstrated ability to disseminate results of transportation research and educational programs through a statewide or regionwide continuing educational program.
-    (G) the projects the recipient proposes to carry out under the grant.
-  (3)    (A) At each regional transportation center, the following shall be carried out:
-      (i) infrastructure research on transportation.
-      (ii) research and training on transportation safety and the transportation of passengers and property and the interpretation, publication, and dissemination of the results of the research.
-    (B) Each transportation center–
-      (i) should carry out research on more than one mode of transportation; and
-      (ii) should consider the proportion of amounts for this subsection from amounts available to carry out urban mass transportation projects under this chapter and from the Highway Trust Fund.
-    (C) At one of the transportation centers, research may be carried out on the testing of new bus models.
-  (4) Before making a grant under this subsection, the Secretary may require the recipient to make an agreement with the Secretary to ensure that the recipient will maintain total expenditures from all other sources to establish and operate a regional transportation center and related research activities at a level at least equal to the average level of those expenditures in its 2 fiscal years prior to April 2, 1987.
-  (5) A grant under this subsection is for 50 percent of the cost of establishing and operating the regional transportation center and related research activities the recipient carries out.
-  (b) T4Grants for University Transportation CentersK.–(1) To accelerate the involvement and participation of minority individuals and women in transportation-related professions, particularly in the science, technology, and engineering disciplines, the Secretary shall make grants to Morgan State University to establish a national center for transportation management, research, and development. The center shall give special attention to designing, developing, and carrying out research, training, and technology transfer activities to increase the number of highly skilled minority individuals and women entering the transportation workforce.
-  (2) The Secretary shall make grants to the New Jersey Institute of Technology to establish and operate a center for transportation and industrial productivity. The center shall conduct research and development activities that focus on ways to increase surface transportation capacity, reduce congestion, and reduce costs for transportation system users and providers through the use of transportation management systems.
-  (3) The Secretary shall make a grant to Monmouth College, West Long Branch, New Jersey, to modify and rebuild Building Number 500 at Monmouth College. Before making the grant, the Secretary shall receive assurances from Monmouth College that the building will be known and designated as the James and Marlene Howard Transportation Information Center and that transportation-related instruction and research in computer science, electronic engineering, mathematics, and software engineering conducted at the building will be coordinated with the Center for Transportation and Industrial Productivity at the New Jersey Institute of Technology.
-  (4) The Secretary shall make grants to the University of Arkansas to establish a national rural transportation center. The center shall conduct research, training, and technology transfer activities in the development, management, and operation of intermodal transportation systems in rural areas.
-  (5)    (A) The Secretary shall make grants to the University of Idaho to establish a National Center for Advanced Transportation Technology. The Center shall be established and operated in partnership with private industry and shall conduct industry-driven research and development activities that focus on transportation-related manufacturing and engineering processes, materials, and equipment.
-    (B) The Secretary shall make grants to the University of Idaho to plan, design, and construct a building in which to conduct the research and development activities of the Center.
-    (C) Amounts authorized by section 5338(e)(2) of this title may be obligated in the same way as amounts apportioned under chapter 1 of title 23 (except that the Government share of the cost of the activities conducted under subparagraph (B) of this paragraph is 80 percent and the amounts remain available until expended) and are not subject to an obligational limitation.
-    (D) A grant made under this paragraph is not subject to the requirements of this section.
-  (c) T4Program CoordinationK.–The Secretary shall provide for coordinating research, education, training, and technology transfer activities that grant recipients carry out under this section, the dissemination of the results of the research, and the establishment and operation of a clearinghouse between the centers and the transportation industry. At least annually, the Secretary shall review and evaluate programs the grant recipients carry out. The Secretary may use not more than one percent of amounts made available from Government sources to carry out this section to carry out this subsection.
-  (d) T4Obligation CeilingK.–Amounts authorized to carry out this section (except subsection (b)(3)) are subject to obligational limitations established under section 1002 of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 1916).
-  (e) T4Amounts Available for Technology Transfer ActivitiesK.–At least 5 percent of the amounts made available to carry out this section in a fiscal year are available to carry out technology transfer activities.
-  (f) T4Allocation Among Government RegionsK.–The Secretary shall allocate amounts available to carry out this section equitably among the Government regions.
+  (a) T4DefinitionsK.–In this section, the following definitions apply:
+    (1) T4RecipientK.–The term ””recipient““ means a designated recipient (as defined in section 5307(a)(2)) and a State that receives a grant under this section directly.
+    (2) T4SubrecipientK.–The term ””subrecipient““ means a State or local governmental authority, nonprofit organization, or operator of public transportation services that receives a grant under this section indirectly through a recipient.
+  (b) T4General Authority.–
+    (1) T4GrantsK.–The Secretary may make grants under this section to a recipient for new public transportation services and public transportation alternatives beyond those required by the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) that assist individuals with disabilities with transportation, including transportation to and from jobs and employment support services.
+    (2) T4Administrative expensesK.–A recipient may use not more than 10 percent of the amounts apportioned to the recipient under this section to administer, plan, and provide technical assistance for a project funded under this section.
+  (c) T4Apportionments.–
+    (1) T4FormulaK.–The Secretary shall apportion amounts made available to carry out this section as follows:
+      (A) 60 percent of the funds shall be apportioned among designated recipients (as defined in section 5307(a)(2)) for urbanized areas with a population of 200,000 or more in the ratio that–
+        (i) the number of individuals with disabilities in each such urbanized area; bears to
+        (ii) the number of individuals with disabilities in all such urbanized areas.
+      (B) 20 percent of the funds shall be apportioned among the States in the ratio that–
+        (i) the number of individuals with disabilities in urbanized areas with a population of less than 200,000 in each State; bears to
+        (ii) the number of individuals with disabilities in urbanized areas with a population of less than 200,000 in all States.
+      (C) 20 percent of the funds shall be apportioned among the States in the ratio that–
+        (i) the number of individuals with disabilities in other than urbanized areas in each State; bears to
+        (ii) the number of individuals with disabilities in other than urbanized areas in all States.
+    (2) T4Use of apportioned fundsK.–Funds apportioned under paragraph (1) shall be used for projects as follows:
+      (A) Funds apportioned under paragraph (1)(A) shall be used for projects serving urbanized areas with a population of 200,000 or more.
+      (B) Funds apportioned under paragraph (1)(B) shall be used for projects serving urbanized areas with a population of less than 200,000.
+      (C) Funds apportioned under paragraph (1)(C) shall be used for projects serving other than urbanized areas.
+    (3) T4Transfers.–
+      (A) T4In generalK.–A State may transfer any funds apportioned to it under paragraph (1)(B) or (1)(C), or both, to an apportionment under section 5311(c) or 5336, or both.
+      (B) T4Limited to eligible projectsK.–Any funds transferred pursuant to this paragraph shall be made available only for eligible projects selected under this section.
+      (C) T4ConsultationK.–A State may make a transfer of an amount under this subsection only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was awarded under subsection (d)(4).
+  (d) T4Competitive Process for Grants to Subrecipients.–
+    (1) T4Areawide solicitationsK.–A recipient of funds apportioned under subsection (c)(1)(A) shall conduct, in cooperation with the appropriate metropolitan planning organization, an areawide solicitation for applications for grants to the recipient and subrecipients under this section.
+    (2) T4Statewide solicitationK.–A recipient of funds apportioned under subsection (c)(1)(B) or (c)(1)(C) shall conduct a statewide solicitation for applications for grants to the recipient and subrecipients under this section.
+    (3) T4ApplicationK.–Recipients and subrecipients seeking to receive a grant from funds apportioned under subsection (c) shall submit to the recipient an application in the form and in accordance with such requirements as the recipient shall establish.
+    (4) T4Grant awardsK.–The recipient shall award grants under paragraphs (1) and (2) on a competitive basis.
+  (e) T4Grant Requirements.–
+    (1) T4In generalK.–A grant under this section shall be subject to all the requirements of section 5310 to the extent the Secretary considers appropriate.
+    (2) T4Fair and equitable distributionK.–A recipient of a grant under this section shall certify that allocations of the grant to subrecipients are distributed on a fair and equitable basis.
+  (f) T4Coordination.–
+    (1) T4In generalK.–The Secretary shall coordinate activities under this section with related activities under programs of other Federal departments and agencies.
+    (2) T4With nonprofit providersK.–A recipient that transfers funds to an apportionment under section 5336 pursuant to subsection (c)(2) shall certify that the project for which the funds are requested under this section has been coordinated with nonprofit providers of services.
+    (3) T4Project selection and planningK.–Beginning in fiscal year 2007, a recipient of funds under this section shall certify that–
+      (A) the projects selected were derived from a locally developed, coordinated public transit-human services transportation plan; and
+      (B) the plan was developed through a process that included representatives of public, private, and nonprofit transportation and human services providers and participation by the public.
+  (g) T4Government“s Share of Costs.–
+    (1) T4Capital projectsK.–A grant for a capital project under this section may not exceed 80 percent of the net capital costs of the project, as determined by the Secretary.
+    (2) T4Operating assistanceK.–A grant made under this section for operating assistance may not exceed 50 percent of the net operating costs of the project, as determined by the Secretary.
+    (3) T4RemainderK.–The remainder of the net project costs–
+      (A) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital; and
+      (B) may be derived from amounts appropriated to or made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation.
+    (4) T4Use of certain fundsK.–For purposes of paragraph (3)(B), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
+    (5) T4Limitation on operating assistanceK.–A recipient carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses.

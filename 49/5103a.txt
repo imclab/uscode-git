@@ -1,18 +1,43 @@
   (a) T4Limitation.–
-    (1) T4Issuance of licensesK.–A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary of Transportation has first determined, upon receipt of a notification under subsection (c)(1)(B), that the individual does not pose a security risk warranting denial of the license.
+    (1) T4Issuance of licensesK.–A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
     (2) T4Renewals includedK.–For the purposes of this section, the term ””issue““, with respect to a license, includes renewal of the license.
-  (b) T4Hazardous Materials DescribedK.–The limitation in subsection (a) shall apply with respect to–
-    (1) any material defined as a hazardous material by the Secretary of Transportation; and
-    (2) any chemical or biological material or agent determined by the Secretary of Health and Human Services or the Attorney General as being a threat to the national security of the United States.
-  (c) T4Background Records Check.–
+  (b) T4Hazardous Materials DescribedK.–The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce.
+  (c) T4Recommendations on Chemical and Biological MaterialsK.–The Secretary of Health and Human Services shall recommend to the Secretary of Transportation any chemical or biological material or agent for regulation as a hazardous material under section 5103(a) if the Secretary of Health and Human Services determines that such material or agent poses a significant risk to the health of individuals.
+  (d) T4Background Records Check.–
     (1) T4In generalK.–Upon the request of a State regarding issuance of a license described in subsection (a)(1) to an individual, the Attorney General–
       (A) shall carry out a background records check regarding the individual; and
-      (B) upon completing the background records check, shall notify the Secretary of Transportation of the completion and results of the background records check.
+      (B) upon completing the background records check, shall notify the Secretary of the completion and results of the background records check.
     (2) T4ScopeK.–A background records check regarding an individual under this subsection shall consist of the following:
       (A) A check of the relevant criminal history data bases.
       (B) In the case of an alien, a check of the relevant data bases to determine the status of the alien under the immigration laws of the United States.
       (C) As appropriate, a check of the relevant international data bases through Interpol–U.S. National Central Bureau or other appropriate means.
-  (d) T4Reporting RequirementK.–Each State shall submit to the Secretary of Transportation, at such time and in such manner as the Secretary may prescribe, the name, address, and such other information as the Secretary may require, concerning–
+  (e) T4Reporting RequirementK.–Each State shall submit to the Secretary, at such time and in such manner as the Secretary may prescribe, the name, address, and such other information as the Secretary may require, concerning–
     (1) each alien to whom the State issues a license described in subsection (a); and
     (2) each other individual to whom such a license is issued, as the Secretary may require.
-  (e) T4Alien DefinedK.–In this section, the term ””alien““ has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act.
+  (f) T4Alien DefinedK.–In this section, the term ””alien““ has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act.
+  (g) T4Background Checks for Drivers Hauling Hazardous Materials.–
+    (1) T4In general.–
+      (A) T4Employer notificationK.–Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant“s background record check, if–
+        (i) such notification is appropriate considering the potential security implications; and
+        (ii) the Director, in a final notification of threat assessment,\1\N served on the applicant \1\ determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
+      (B) T4Relationship to other background records checks.–
+        (i) T4Elimination of redundant checksK.–An individual with respect to whom the Transportation Security Administration–
+          (I) has performed a security threat assessment under this section; and
+          (II) has issued a final notification of no security threat,
+              is deemed to have met the requirements of any other background check that is required for purposes of any Federal law applicable to transportation workers if that background check is equivalent to, or less stringent than, the background check required under this section.
+        (ii) T4Determination by directorK.–Not later than 60 days after the date of issuance of the report under paragraph (5), but no later than 120 days after the date of enactment of this Act, the Director shall initiate a rulemaking proceeding, including notice and opportunity for comment, to determine which background checks required for purposes of Federal laws applicable to transportation workers are equivalent to, or less stringent than, those required under this section.
+        (iii) T4Future rulemakingsK.–The Director shall make a determination under the criteria established under clause (ii) with respect to any rulemaking proceeding to establish or modify required background checks for transportation workers initiated after the date of enactment of this subsection.
+    (2) T4Appeals process for more stringent state proceduresK.–If a State establishes its own standards for applicants for a hazardous materials endorsement to a commercial driver“s license, the State shall also provide–
+      (A) an appeals process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver“s license by that State may appeal that denial; and
+      (B) a waiver process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver“s license by that State may apply for a waiver.
+    (3) T4Clarification of term defined in regulationsK.–The term ””transportation security incident““, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
+    (4) T4Background check capacityK.–Not later than October 1, 2005, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives a report on the implementation of fingerprint-based security threat assessments and the adequacy of fingerprinting locations, personnel, and resources to accomplish the timely processing of fingerprint-based security threat assessments for individuals holding commercial driver“s licenses who are applying to renew hazardous materials endorsements.
+    (5) T4Report.–
+      (A) T4In generalK.–Not later than 60 days after the date of enactment of this subsection, the Director shall transmit to the committees referred to in paragraph (4) a report on the Director“s plans to reduce or eliminate redundant background checks for holders of hazardous materials endorsements performed under this section.
+      (B) T4ContentsK.–The report shall–
+        (i) include a list of background checks and other security or threat assessment requirements applicable to transportation workers under Federal laws for which the Department of Homeland Security is responsible and the process by which the Secretary of Homeland Security will determine whether such checks or assessments are equivalent to, or less stringent than, the background check performed under this section; and
+        (ii) provide an analysis of how the Director plans to reduce or eliminate redundant background checks in a manner that will continue to ensure the highest level of safety and security.
+  (h) T4Commercial Motor Vehicle Operators Registered to Operate in Mexico or Canada.–
+    (1) T4In generalK.–Beginning on the date that is 6 months after the date of enactment of this subsection, a commercial motor vehicle operator registered to operate in Mexico or Canada shall not operate a commercial motor vehicle transporting a hazardous material in commerce in the United States until the operator has undergone a background records check similar to the background records check required for commercial motor vehicle operators licensed in the United States to transport hazardous materials in commerce.
+    (2) T4ExtensionK.–The Director of the Transportation Security Administration may extend the deadline established by paragraph (1) for a period not to exceed 6 months if the Director determines that such an extension is necessary.
+    (3) T4Commercial motor vehicle definedK.–In this subsection, the term ””commercial motor vehicle““ has the meaning given that term by section 31101.

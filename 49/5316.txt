@@ -1,11 +1,68 @@
-  (a) T4Institute for National Surface Transportation PolicyK.–The Secretary of Transportation shall make grants to San Jose State University to establish and operate an institute for national surface transportation policy studies. The institute shall–
-    (1) include male and female students of diverse socioeconomic and ethnic backgrounds who are seeking careers in developing and operating surface transportation programs; and
-    (2) conduct research and development activities to analyze ways of improving aspects of developing and operating surface transportation programs of the United States.
-  (b) T4Infrastructure Technology InstituteK.–The Secretary shall make grants to Northwestern University to establish and operate an institute to study techniques–
-    (1) to evaluate and monitor infrastructure conditions;
-    (2) to improve information systems for infrastructure construction and management; and
-    (3) to study advanced materials and automated processes for constructing and rehabilitating public works facilities.
-  (c) T4Urban Transit InstituteK.–The Secretary shall make grants to North Carolina A. and T. State University through the Institute for Transportation Research and Education, the University of South Florida, and a consortium of Florida A. and M., Florida State University, and Florida International University to establish and operate an interdisciplinary institute to study and disseminate techniques on the diverse transportation problems of urban areas experiencing significant and rapid growth.
-  (d) T4Institute for Intelligent Transportation ConceptsK.–The Secretary shall make grants to the University of Minnesota, Center for Transportation Studies, to establish and operate a national institute for intelligent transportation concepts. The institute shall conduct research and recommend development activities that focus on methods to increase roadway capacity, enhance safety, and reduce negative environmental effects of transportation facilities by using intelligent transportation systems technologies.
-  (e) T4Institute for Transportation Research and EducationK.–The Secretary shall make grants to the University of North Carolina to conduct research and development and to direct technology transfer and training for State and local transportation authorities to improve the overall surface transportation infrastructure.
-  (f) T4Applicability of TitleK 23.–Amounts authorized by section 5338(d) of this title may be obligated in the same way as amounts are apportioned under chapter 1 of title 23.
+  (a) T4DefinitionsK.–In this section, the following definitions apply:
+    (1) T4Access to jobs projectK.–The term ””access to jobs project““ means a project relating to the development and maintenance of transportation services designed to transport welfare recipients and eligible low-income individuals to and from jobs and activities related to their employment, including–
+      (A) transportation projects to finance planning, capital, and operating costs of providing access to jobs under this chapter;
+      (B) promoting public transportation by low-income workers, including the use of public transportation by workers with nontraditional work schedules;
+      (C) promoting the use of transit vouchers for welfare recipients and eligible low-income individuals; and
+      (D) promoting the use of employer-provided transportation, including the transit pass benefit program under section 132 of the Internal Revenue Code of 1986.
+    (2) T4Eligible low-income individualK.–The term ””eligible low-income individual““ means an individual whose family income is at or below 150 percent of the poverty line (as that term is defined in section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2)), including any revision required by that section) for a family of the size involved.
+    (3) T4RecipientK.–The term ””recipient““ means a designated recipient (as defined in section 5307(a)(2)) and a State that receives a grant under this section directly.
+    (4) T4Reverse commute projectK.–The term ””reverse commute project““ means a public transportation project designed to transport residents of urbanized areas and other than urbanized areas to suburban employment opportunities, including any projects to–
+      (A) subsidize the costs associated with adding reverse commute bus, train, carpool, van routes, or service from urbanized areas and other than urbanized areas to suburban workplaces;
+      (B) subsidize the purchase or lease by a nonprofit organization or public agency of a van or bus dedicated to shuttling employees from their residences to a suburban workplace; or
+      (C) otherwise facilitate the provision of public transportation services to suburban employment opportunities.
+    (5) T4SubrecipientK.–The term ””subrecipient““ means a State or local governmental authority, nonprofit organization, or operator of public transportation services that receives a grant under this section indirectly through a recipient.
+    (6) T4Welfare recipientK.–The term ””welfare recipient““ means an individual who has received assistance under a State or tribal program funded under part A of title IV of the Social Security Act at any time during the 3-year period before the date on which the applicant applies for a grant under this section.
+  (b) T4General Authority.–
+    (1) T4GrantsK.–The Secretary may make grants under this section to a recipient for access to jobs and reverse commute projects carried out by the recipient or a subrecipient.
+    (2) T4Administrative expensesK.–A recipient may use not more than 10 percent of the amounts apportioned to the recipient under this section to administer, plan, and provide technical assistance for a project funded under this section.
+  (c) T4Apportionments.–
+    (1) T4FormulaK.–The Secretary shall apportion amounts made available for a fiscal year to carry out this section as follows:
+      (A) 60 percent of the funds shall be apportioned among designated recipients (as defined in section 5307(a)(2)) for urbanized areas with a population of 200,000 or more in the ratio that–
+        (i) the number of eligible low-income individuals and welfare recipients in each such urbanized area; bears to
+        (ii) the number of eligible low-income individuals and welfare recipients in all such urbanized areas.
+      (B) 20 percent of the funds shall be apportioned among the States in the ratio that–
+        (i) the number of eligible low-income individuals and welfare recipients in urbanized areas with a population of less than 200,000 in each State; bears to
+        (ii) the number of eligible low-income individuals and welfare recipients in urbanized areas with a population of less than 200,000 in all States.
+      (C) 20 percent of the funds shall be apportioned among the States in the ratio that–
+        (i) the number of eligible low-income individuals and welfare recipients in other than urbanized areas in each State; bears to
+        (ii) the number of eligible low-income individuals and welfare recipients in other than urbanized areas in all States.
+    (2) T4Use of apportioned fundsK.–Except as provided in paragraph (3)–
+      (A) funds apportioned under paragraph (1)(A) shall be used for projects serving urbanized areas with a population of 200,000 or more;
+      (B) funds apportioned under paragraph (1)(B) shall be used for projects serving urbanized areas with a population of less than 200,000; and
+      (C) funds apportioned under paragraph (1)(C) shall be used for projects serving other than urbanized areas.
+    (3) T4ExceptionsK.–A State may use funds apportioned under paragraphs (1)(B) and (1)(C)–
+      (A) for projects serving areas other than the area specified in paragraph (2)(B) or (2)(C), as the case may be, if the Governor of the State certifies that all of the objectives of this section are being met in the specified area; or
+      (B) for projects anywhere in the State if the State has established a statewide program for meeting the objectives of this section.
+  (d) T4Competitive Process for Grants to Subrecipients.–
+    (1) T4Areawide solicitationsK.–A recipient of funds apportioned under subsection (c)(1)(A) shall conduct, in cooperation with the appropriate metropolitan planning organization, an areawide solicitation for applications for grants to the recipient and subrecipients under this section.
+    (2) T4Statewide solicitationK.–A recipient of funds apportioned under subsection (c)(1)(B) or (c)(1)(C) shall conduct a statewide solicitation for applications for grants to the recipient and subrecipients under this section.
+    (3) T4ApplicationK.–Recipients and subrecipients seeking to receive a grant from funds apportioned under subsection (c) shall submit to the recipient an application in the form and in accordance with such requirements as the recipient shall establish.
+    (4) T4Grant awardsK.–The recipient shall award grants under paragraphs (1) and (2) on a competitive basis.
+  (e) T4Transfers.–
+    (1) T4In generalK.–A State may transfer any funds apportioned to it under subsection (c)(1)(B) or (c)(1)(C), or both, to an apportionment under section 5311(c) or 5336, or both.
+    (2) T4Limited to eligible projectsK.–Any apportionment transferred under this subsection shall be made available only for eligible job access and reverse commute projects as described in this section.
+    (3) T4ConsultationK.–A State may make a transfer of an amount under this subsection only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was awarded under subsection (d)(4).
+  (f) T4Grant Requirements.–
+    (1) T4In generalK.–A grant under this section shall be subject to the requirements of section 5307.
+    (2) T4Fair and equitable distributionK.–A recipient of a grant under this section shall certify to the Secretary that allocations of the grant to subrecipients are distributed on a fair and equitable basis.
+  (g) T4Coordination.–
+    (1) T4In generalK.–The Secretary shall coordinate activities under this section with related activities under programs of other Federal departments and agencies.
+    (2) T4With nonprofit providersK.–A State that transfers funds to an apportionment under section 5336 pursuant to subsection (e) shall certify to the Secretary that any project for which the funds are requested under this section has been coordinated with nonprofit providers of services.
+    (3) T4Project selection and planningK.–A recipient of funds under this section shall certify to the Secretary that–
+      (A) the projects selected were derived from a locally developed, coordinated public transit-human services transportation plan; and
+      (B) the plan was developed through a process that included representatives of public, private, and nonprofit transportation and human services providers and participation by the public.
+  (h) T4Government“s Share of Costs.–
+    (1) T4Capital projectsK.–A grant for a capital project under this section may not exceed 80 percent of the net capital costs of the project, as determined by the Secretary.
+    (2) T4Operating assistanceK.–A grant made under this section for operating assistance may not exceed 50 percent of the net operating costs of the project, as determined by the Secretary.
+    (3) T4RemainderK.–The remainder of the net project costs–
+      (A) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital; and
+      (B) may be derived from amounts appropriated to or made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation.
+    (4) T4Use of certain fundsK.–For purposes of paragraph (3)(B), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
+    (5) T4Limitation on operating assistanceK.–A recipient carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses.
+      (i) T4Program Evaluation.–
+        (1) T4Comptroller generalK.–Beginning one year after the date of enactment of the Federal Public Transportation Act of 2005, and every 2 years thereafter, the Comptroller General shall–
+          (A) conduct a study to evaluate the grant program authorized by this section; and
+          (B) transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the results of the study under subparagraph (A).
+        (2) T4Department of transportationK.–Not later than 3 years after the date of enactment of \1\N Federal Public Transportation Act of 2005, the Secretary shall–
+          (A) conduct a study to evaluate the effectiveness of the grant program authorized by this section and the effectiveness of recipients making grants to subrecipients under this section; and
+          (B) transmit to the committees referred to in paragraph (1)(B) a report describing the results of the study under subparagraph (A).

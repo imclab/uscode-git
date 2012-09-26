@@ -3,9 +3,25 @@
     (A) information the Secretary considers appropriate to ensure identification of the operator;
     (B) the name, address, and physical description of the operator;
     (C) the social security account number of the operator or other number or information the Secretary considers appropriate to identify the operator;
-    (D) the name of the State that issued the license to the operator;
-    (E) the dates between which the license is valid; and
-    (F) whether the operator had a commercial motor vehicle driver“s license revoked, suspended, or canceled by a State, lost the right to operate a commercial motor vehicle in a State for any period, or has been disqualified from operating a commercial motor vehicle.
-  (2) The information system under this section must accommodate any unique identifiers required to minimize fraud or duplication of a commercial driver“s license under section 31308(2).
+    (D) the name of the State that issued the license or learner“s permit to the operator;
+    (E) the dates between which the license or learner“s permit is valid; and
+    (F) whether the operator had a commercial motor vehicle driver“s license or learner“s permit revoked, suspended, or canceled by a State, lost the right to operate a commercial motor vehicle in a State for any period, or has been disqualified from operating a commercial motor vehicle.
+  (2) The information system under this section must accommodate any unique identifiers required to minimize fraud or duplication of a commercial driver“s license or learner“s permit under section 31308(2).\1\N
   (c) T4Availability of InformationK.–Information in the information system shall be made available and subject to review and correction in accordance with the policy developed under section 31106(e).
   (d) T4Fee SystemK.–The Secretary may establish a fee system for using the information system. Fees collected under this subsection in a fiscal year shall equal as nearly as possible the costs of operating the information system in that fiscal year. The Secretary shall deposit fees collected under this subsection in the Highway Trust Fund (except the Mass Transit Account).
+  (e) T4Modernization Plan.–
+    (1) T4In generalK.–Not later than 120 days after the date of enactment of this subsection, the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that–
+      (A) complies with applicable Federal information technology security standards;
+      (B) provides for the electronic exchange of all information including the posting of convictions;
+      (C) contains self auditing features to ensure that data is being posted correctly and consistently by the States;
+      (D) integrates the commercial driver“s license and the medical certificate; and
+      (E) provides a schedule for modernization of the system.
+    (2) T4ConsultationK.–The plan shall be developed in consultation with representatives of the motor carrier industry, State safety enforcement agencies, and State licensing agencies designated by the Secretary.
+    (3) T4State funding of future effortsK.–The plan shall specify that States will fund future efforts to modernize the commercial driver“s information system.
+    (4) T4Deadline for state participation.–
+      (A) T4In generalK.–The Secretary shall establish in the plan a date by which all States must be operating commercial driver“s license information systems that are compatible with the modernized information system under this section.
+      (B) T4Factors to considerK.–In establishing the date under subparagraph (A), the Secretary shall consider the following:
+        (i) Availability and cost of technology and equipment needed to comply with subparagraph (A).
+        (ii) Time necessary to install, and test the operation of, such technology and equipment.
+    (5) T4ImplementationK.–The Secretary shall implement the plan developed under subsection (a) and modernize the information system under this section to meet the requirements of the plan.
+  (f) T4FundingK.–At the Secretary“s discretion, a State may use the funds made available to the State under section 31318 \2\N to modernize its commercial driver“s license information system to be compatible with the modernized information system under this section.

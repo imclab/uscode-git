@@ -11,11 +11,11 @@
   (6) T4Foreign motor carrierK.–The term ””foreign motor carrier““ means a person (including a motor carrier of property but excluding a motor private carrier)–
     (A)      (i) that is domiciled in a contiguous foreign country; or
       (ii) that is owned or controlled by persons of a contiguous foreign country; and
-    (B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
+    (B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
   (7) T4Foreign motor private carrierK.–The term ””foreign motor private carrier““ means a person (including a motor private carrier but excluding a motor carrier of property)–
     (A)      (i) that is domiciled in a contiguous foreign country; or
       (ii) that is owned or controlled by persons of a contiguous foreign country; and
-    (B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
+    (B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
   (8) T4Freight forwarderK.–The term ””freight forwarder““ means a person holding itself out to the general public (other than as a pipeline, rail, motor, or water carrier) to provide transportation of property for compensation and in the ordinary course of its business–
     (A) assembles and consolidates, or provides for assembling and consolidating, shipments and performs or provides for break-bulk and distribution operations of the shipments;
     (B) assumes responsibility for the transportation from the place of receipt to the place of destination; and
@@ -26,25 +26,38 @@
     (A) arranged and paid for by the householder, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder; or
     (B) arranged and paid for by another party.
   (11) T4Household goods freight forwarderK.–The term ””household goods freight forwarder““ means a freight forwarder of one or more of the following items: household goods, unaccompanied baggage, or used automobiles.
-  (12) T4Motor carrierK.–The term ””motor carrier““ means a person providing motor vehicle transportation for compensation.
-  (13) T4Motor private carrierK.–The term ””motor private carrier““ means a person, other than a motor carrier, transporting property by motor vehicle when–
+  (12) T4Household goods motor carrier.–
+    (A) T4In generalK.–The term ””household goods motor carrier““ means a motor carrier that, in the ordinary course of its business of providing transportation of household goods, offers some or all of the following additional services:
+      (i) Binding and nonbinding estimates.
+      (ii) Inventorying.
+      (iii) Protective packing and unpacking of individual items at personal residences.
+      (iv) Loading and unloading at personal residences.
+    (B) T4InclusionK.–The term includes any person that is considered to be a household goods motor carrier under regulations, determinations, and decisions of the Federal Motor Carrier Safety Administration that are in effect on the date of enactment of the Household Goods Mover Oversight Enforcement and Reform Act of 2005.
+    (C) T4Limited service exclusionK.–The term does not include a motor carrier when the motor carrier provides transportation of household goods in containers or trailers that are entirely loaded and unloaded by an individual (other than an employee or agent of the motor carrier).
+  (13) T4Individual shipperK.–The term ””individual shipper““ means any person who–
+    (A) is the shipper, consignor, or consignee of a household goods shipment;
+    (B) is identified as the shipper, consignor, or consignee on the face of the bill of lading;
+    (C) owns the goods being transported; and
+    (D) pays his or her own tariff transportation charges.
+  (14) T4Motor carrierK.–The term ””motor carrier““ means a person providing commercial motor vehicle (as defined in section 31132) transportation for compensation.
+  (15) T4Motor private carrierK.–The term ””motor private carrier““ means a person, other than a motor carrier, transporting property by commercial motor vehicle (as defined in section 31132) when–
     (A) the transportation is as provided in section 13501 of this title;
     (B) the person is the owner, lessee, or bailee of the property being transported; and
     (C) the property is being transported for sale, lease, rent, or bailment or to further a commercial enterprise.
-  (14) T4Motor vehicleK.–The term ””motor vehicle““ means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on a highway in transportation, or a combination determined by the Secretary, but does not include a vehicle, locomotive, or car operated only on a rail, or a trolley bus operated by electric power from a fixed overhead wire, and providing local passenger transportation similar to street-railway service.
-  (15) T4Noncontiguous domestic tradeK.–The term ””noncontiguous domestic trade““ means transportation subject to jurisdiction under chapter 135 involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States.
-  (16) T4PersonK.–The term ””person““, in addition to its meaning under section 1 of title 1, includes a trustee, receiver, assignee, or personal representative of a person.
-  (17) T4Pre-arranged ground transportation serviceK.–The term ””pre-arranged ground transportation service““ means transportation for a passenger (or a group of passengers) that is arranged in advance (or is operated on a regular route or between specified points) and is provided in a motor vehicle with a seating capacity not exceeding 15 passengers (including the driver).
-  (18) T4SecretaryK.–The term ””Secretary““ means the Secretary of Transportation.
-  (19) T4StateK.–The term ””State““ means the 50 States of the United States and the District of Columbia.
-  (20) T4Taxicab serviceK.–The term ””taxicab service““ means passenger transportation in a motor vehicle having a capacity of not more than 8 passengers (including the driver), not operated on a regular route or between specified places, and that–
+  (16) T4Motor vehicleK.–The term ””motor vehicle““ means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on a highway in transportation, or a combination determined by the Secretary, but does not include a vehicle, locomotive, or car operated only on a rail, or a trolley bus operated by electric power from a fixed overhead wire, and providing local passenger transportation similar to street-railway service.
+  (17) T4Noncontiguous domestic tradeK.–The term ””noncontiguous domestic trade““ means transportation subject to jurisdiction under chapter 135 involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States.
+  (18) T4PersonK.–The term ””person““, in addition to its meaning under section 1 of title 1, includes a trustee, receiver, assignee, or personal representative of a person.
+  (19) T4Pre-arranged ground transportation serviceK.–The term ””pre-arranged ground transportation service““ means transportation for a passenger (or a group of passengers) that is arranged in advance (or is operated on a regular route or between specified points) and is provided in a motor vehicle with a seating capacity not exceeding 15 passengers (including the driver).
+  (20) T4SecretaryK.–The term ””Secretary““ means the Secretary of Transportation.
+  (21) T4StateK.–The term ””State““ means the 50 States of the United States and the District of Columbia.
+  (22) T4Taxicab serviceK.–The term ””taxicab service““ means passenger transportation in a motor vehicle having a capacity of not more than 8 passengers (including the driver), not operated on a regular route or between specified places, and that–
     (A) is licensed as a taxicab by a State or a local jurisdiction; or
     (B) is offered by a person that–
       (i) provides local transportation for a fare determined (except with respect to transportation to or from airports) primarily on the basis of the distance traveled; and
       (ii) does not primarily provide transportation to or from airports.
-  (21) T4TransportationK.–The term ””transportation““ includes–
+  (23) T4TransportationK.–The term ””transportation““ includes–
     (A) a motor vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, regardless of ownership or an agreement concerning use; and
     (B) services related to that movement, including arranging for, receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, packing, unpacking, and interchange of passengers and property.
-  (22) T4United statesK.–The term ””United States““ means the States of the United States and the District of Columbia.
-  (23) T4VesselK.–The term ””vessel““ means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
-  (24) T4Water carrierK.–The term ””water carrier““ means a person providing water transportation for compensation.
+  (24) T4United statesK.–The term ””United States““ means the States of the United States and the District of Columbia.
+  (25) T4VesselK.–The term ””vessel““ means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
+  (26) T4Water carrierK.–The term ””water carrier““ means a person providing water transportation for compensation.

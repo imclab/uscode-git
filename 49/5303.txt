@@ -1,98 +1,63 @@
-  (a) T4General Requirements.–
-    (1) T4Development of plans and programsK.–To carry out section 5301(a), metropolitan planning organizations designated under subsection (c), in cooperation with the States and mass transportation operators, shall develop transportation plans and programs for urbanized areas of the State.
-    (2) T4ContentsK.–The plans and programs developed under paragraph (1) for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the metropolitan area and as an integral part of an intermodal transportation system for the State and the United States.
-    (3) T4ProcessK.–The process for developing the plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems to be addressed.
-  (b) T4Scope of Planning Process.–
-    (1) T4In generalK.–The metropolitan transportation planning process for a metropolitan area under this section shall provide for consideration of projects and strategies that will–
-      (A) support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency;
-      (B) increase the safety and security of the transportation system for motorized and nonmotorized users;
-      (C) increase the accessibility and mobility options available to people and for freight;
-      (D) protect and enhance the environment, promote energy conservation, and improve quality of life;
-      (E) enhance the integration and connectivity of the transportation system, across and between modes, for people and freight;
-      (F) promote efficient system management and operation; and
-      (G) emphasize the preservation of the existing transportation system.
-    (2) T4Failure to consider factorsK.–The failure to consider any factor specified in paragraph (1) shall not be reviewable by any court under this title, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a transportation plan, a transportation improvement plan, a project or strategy, or the certification of a planning process.
-  (c) T4Designating Metropolitan Planning OrganizationsK.–(1) To carry out the planning process required by this section and sections 5304–5306 of this title, a metropolitan planning organization shall be designated for each urbanized area with a population of more than 50,000–
-    (A) by agreement of the chief executive officer of a State and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities, as defined by the Bureau of the Census); or
-    (B) under procedures established by State or local law.
-  (2) Each policy board of a metropolitan planning organization that serves an area designated as a transportation management area when designated or redesignated under this subsection shall consist of local elected officials, officials of public agencies that administer or operate major modes of transportation in the metropolitan area (including all transportation authorities included in the organization on June 1, 1991), and appropriate State officials.
-  (3) More than one metropolitan planning organization may be designated within an existing metropolitan planning area only if the chief executive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area make designation of more than one organization appropriate.
-  (4) A designation is effective until–
-    (A) the organization is redesignated under paragraph (5) of this subsection; or
-    (B) revoked–
-      (i) by agreement of the chief executive officer and units of general local government representing at least 75 percent of the affected population; or
-      (ii) as otherwise provided by State or local procedures.
-  (5)    (A) The chief executive officer and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city as defined by the Secretary of Commerce) may redesignate by agreement a metropolitan planning organization when appropriate to carry out this section and sections 5304–5306 of this title.
-    (B) A metropolitan planning organization shall be redesignated on request of one or more units of general local government representing at least 25 percent of the affected population (including the central city or cities, as defined by the Bureau of the Census) in an urbanized area with a population of more than 5,000,000, but less than 10,000,000 or that is an extreme nonattainment area for ozone or carbon monoxide (as defined in the Clean Air Act (42 U.S.C. 7401 et seq.)).
-    (C) A metropolitan planning organization shall be redesignated using procedures established to carry out this paragraph.
-    (D) Designations of metropolitan planning organizations, whether made under this section or under any other provision of law, shall remain in effect until redesignation under this paragraph.
-  (6) This subsection does not affect the authority, under State law in effect on December 18, 1991, of a public authority with multimodal transportation responsibilities–
-    (A) to develop plans and programs for a metropolitan planning organization to adopt; and
-    (B) to develop long-range capital plans, coordinate mass transportation services and projects, and carry out other activities under State law.
-  (d) T4Metropolitan Planning Area Boundaries.–
-    (1) T4In generalK.–To carry out this section, the metropolitan planning organization and the chief executive officer shall decide by agreement on the boundaries of a metropolitan planning area.
-    (2) T4Included areaK.–Each metropolitan planning area–
-      (A) shall encompass at least the existing urbanized area and the contiguous area expected to become urbanized within a 20-year forecast period; and
-      (B) may encompass the entire metropolitan statistical area or consolidated metropolitan statistical area, as defined by the Bureau of the Census.
-    (3) T4Existing metropolitan planning areas in nonattainmentK.–Notwithstanding paragraph (2), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), the boundaries of the metropolitan planning area in existence as of the date of enactment of this paragraph shall be retained, except that the boundaries may be adjusted by agreement of the chief executive officer of the State and any affected metropolitan planning organizations, in the manner described in subsection (c)(5).
-    (4) T4New metropolitan planning areas in nonattainmentK.–In the case of an urbanized area designated after the date of enactment of this paragraph as a nonattainment area for ozone or carbon monoxide under the Clean Air Act, the boundaries of the metropolitan planning area–
-      (A) shall be established in the manner described in subsection (c)(1);
-      (B) shall encompass the areas described in paragraph (2)(A);
-      (C) may encompass the areas described in paragraph (2)(B); and
-      (D) may address any nonattainment area identified under the Clean Air Act for ozone or carbon monoxide.
-  (e) T4CoordinationK.–(1) The Secretary of Transportation shall establish requirements the Secretary considers appropriate to encourage chief executive officers and metropolitan planning organizations with responsibility for part of a multi-State metropolitan area to provide coordinated transportation planning for the entire area.
-  (2) Congress consents to at least 2 States making an agreement or compact, not in conflict with a law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section related to interstate areas and localities in the States and establishing authorities the States consider desirable for making the agreements and compacts effective.
-  (3) If more than one metropolitan planning organization has authority in a metropolitan area or an area designated a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each organization shall consult with the other organizations designated for the area and the State to coordinate plans and projects required by this section and sections 5304–5306 of this title.
-  (4) The Secretary shall encourage each metropolitan planning organization to coordinate, to the maximum extent practicable, the design and delivery of transportation services within the metropolitan planning area that are provided–
-    (A) by recipients of assistance under this chapter; and
-    (B) by governmental agencies and non-profit organizations (including representatives of the agencies and organizations) that receive Governmental \1\N assistance from a source other than the Department of Transportation to provide non-emergency transportation services.
-  (5) T4CoordinationK.–If a project is located within the boundaries of more than one metropolitan planning organization, the metropolitan planning organizations shall coordinate plans regarding the project.
-  (6) T4Lake tahoe region.–
-    (A) T4DefinitionK.–In this paragraph, the term ””Lake Tahoe region““ has the meaning given the term ””region““ in subdivision (a) of article II of the Tahoe Regional Planning Compact, as set forth in the first section of Public Law 96–551 (94 Stat. 3234).
-    (B) T4Transportation planning processK.–The Secretary shall–
-      (i) establish with the Federal land management agencies that have jurisdiction over land in the Lake Tahoe region a transportation planning process for the region; and
-      (ii) coordinate the transportation planning process with the planning process required of State and local governments under this chapter and sections 134 and 135 of title 23, United States Code.
-    (C) T4Interstate compact.–
-      (i) T4In generalK.–Subject to clause (ii) and notwithstanding subsection (b), to carry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, by agreement between the Governors of the States of California and Nevada and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
-      (ii) T4Involvement of federal land management agencies.–
-        (I) T4RepresentationK.–The policy board of a metropolitan planning organization designated under clause (i) shall include a representative of each Federal land management agency that has jurisdiction over land in the Lake Tahoe region.
-        (II) T4FundingK.–In addition to funds made available to the metropolitan planning organization under other provisions of this chapter and under title 23, not more than 1 percent of the funds allocated under section 202 of title 23 may be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.
-    (D) T4ActivitiesK.–Highway projects included in transportation plans developed under this paragraph–
-      (i) shall be selected for funding in a manner that facilitates the participation of the Federal land management agencies that have jurisdiction over land in the Lake Tahoe region; and
-      (ii) may, in accordance with chapter 2 of title 23, be funded using funds allocated under section 202 of title 23, United States Code.
-  (f) T4Developing Long-Range Transportation PlansK.–(1) Each metropolitan planning organization shall prepare and update periodically, according to a schedule the Secretary of Transportation decides is appropriate, a long-range plan for its metropolitan area under the requirements of this section. The plan shall be in the form the Secretary considers appropriate and at least shall–
-    (A) identify transportation facilities (including major roadways, mass transportation, and multimodal and intermodal facilities) that should function as an integrated metropolitan transportation system, emphasizing transportation facilities that serve important national, regional, and metropolitan transportation functions;
-    (B) include a financial plan that–
-      (i) demonstrates how the long-range plan can be carried out;
-      (ii) indicates resources from public and private sources reasonably expected to be made available to carry out the plan; and
-      (iii) recommends any additional financing strategies for needed projects and programs;
-    (C) identify transportation strategies necessary–
-      (i) to ensure preservation, including requirements for management, operation, modernization, and rehabilitation, of the existing and future transportation system; and
-      (ii) to use existing transportation facilities most efficiently to relieve congestion, to efficiently serve the mobility needs of people and goods, and to enhance access within the metropolitan planning area;
-    (D) indicate appropriate proposed transportation enhancement activities; and
-    (E) the financial plan may include, for illustrative purposes, additional projects that would be included in the adopted long-range plan if reasonable additional resources beyond those identified in the financial plan were available, except that, for the purpose of developing the long-range plan, the metropolitan planning organization and the State shall cooperatively develop estimates of funds that will be available to support plan implementation.
-  (2) When formulating a long-range plan, the metropolitan planning organization shall consider the factors described in subsection (b) of this section and any State or local goals developed within the cooperative metropolitan planning process as they relate to a 20-year forecast period and to other forecast periods as determined by the participants in the planning process.
-  (3) In a metropolitan area that is in a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), the metropolitan planning organization shall coordinate the development of the long-range plan with the development of the transportation control measures of the State Implementation Plan required by the Act.
-  (4) Before approving a long-range plan, each metropolitan planning organization shall provide citizens, affected public agencies, representatives of mass transportation authority employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with a reasonable opportunity to comment on the plan in a way the Secretary of Transportation considers appropriate.
-  (5) A long-range plan shall be–
-    (A) published or otherwise made readily available for public review; and
-    (B) submitted for information purposes to the chief executive officer of the State at the time and in the way the Secretary of Transportation establishes.
-  (6) T4Selection of projects from illustrative listK.–Notwithstanding paragraph (1)(E), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (1)(B).
-  (g) T4GrantsK.–Under criteria the Secretary of Transportation establishes, the Secretary may make contracts for, and grants to, States, local governmental authorities, and authorities of the States and governmental authorities, or may make agreements with other departments, agencies, and instrumentalities of the Government, to plan, engineer, design, and evaluate a mass transportation project and for other technical studies, including–
-    (1) studies related to management, operations, capital requirements, and economic feasibility;
-    (2) evaluating previously financed projects; and
-    (3) other similar and related activities preliminary to and in preparation for constructing, acquiring, or improving the operation of facilities and equipment.
-  (h) T4Balanced and Comprehensive PlanningK.–(1) To the extent practicable, the Secretary of Transportation shall ensure that amounts made available under subsection (c) or (h)(1) of section 5338 of this title to carry out this section and sections 5304 and 5305 of this title are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
-  (2)    (A) The Secretary of Transportation shall apportion 80 percent of the amount made available under subsection (c) or (h)(1) of section 5338 of this title to States in a ratio equal to the population in urbanized areas in each State divided by the total population in urbanized areas in all States, as shown by the latest available decennial census. A State may not receive less than .5 percent of the amount apportioned under this subparagraph.
-    (B) Amounts apportioned to a State under subparagraph (A) of this paragraph shall be allocated to metropolitan planning organizations in the State designated under this section under a formula–
-      (i) the State develops in cooperation with the metropolitan planning organizations;
-      (ii) the Secretary of Transportation approves; and
-      (iii) that considers population in urbanized areas and provides an appropriate distribution for urbanized areas to carry out the cooperative processes described in this section.
-    (C) A State shall make amounts available promptly to eligible metropolitan planning organizations according to procedures the Secretary of Transportation approves.
-  (3)    (A) The Secretary of Transportation shall apportion 20 percent of the amount made available under subsection (c) or (h)(1) of section 5338 of this title to States to supplement allocations made under paragraph (2)(B) of this subsection for metropolitan planning organizations.
-    (B) Amounts under this paragraph shall be allocated under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under this section and sections 5304–5306 of this title in those areas.
-  (4) To the maximum extent practicable, the Secretary of Transportation shall ensure that no metropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out subsection (c) or (h)(1) of section 5338 of this title.
-  (5) Amounts available for an activity under this subsection are for 80 percent of the cost of the activity unless the Secretary of Transportation decides it is in the interests of the Government not to require a State or local match.
-  (6) An amount apportioned under this subsection–
-    (A) remains available for 3 years after the fiscal year in which the amount is apportioned, and
-    (B) that is unobligated at the end of the 3-year period shall be reapportioned among the States for the next fiscal year.
+  (a) T4In GeneralK.–Except as otherwise specifically provided, in this chapter, the following definitions apply:
+    (1) T4Capital projectK.–The term ””capital project““ means a project for–
+      (A) acquiring, constructing, supervising, or inspecting equipment or a facility for use in public transportation, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, transit-related intelligent transportation systems, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing;
+      (B) rehabilitating a bus;
+      (C) remanufacturing a bus;
+      (D) overhauling rail rolling stock;
+      (E) preventive maintenance;
+      (F) leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;
+      (G) a public transportation improvement that enhances economic development or incorporates private investment, including commercial and residential development, pedestrian and bicycle access to a public transportation facility, construction, renovation, and improvement of intercity bus and intercity rail stations and terminals, and the renovation and improvement of historic transportation facilities, because the improvement enhances the effectiveness of a public transportation project and is related physically or functionally to that public transportation project, or establishes new or enhanced coordination between public transportation and other transportation, and provides a fair share of revenue for public transportation that will be used for public transportation–
+        (i) including property acquisition, demolition of existing structures, site preparation, utilities, building foundations, walkways, open space, safety and security equipment and facilities (including lighting, surveillance and related intelligent transportation system applications), facilities that incorporate community services such as daycare or health care, and a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall, except that a person making an agreement to occupy space in a facility under this subparagraph shall pay a reasonable share of the costs of the facility through rental payments and other means; and
+        (ii) excluding construction of a commercial revenue-producing facility (other than an intercity bus station or terminal) or a part of a public facility not related to public transportation;
+      (H) the introduction of new technology, through innovative and improved products, into public transportation;
+      (I) the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12143), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient“s annual formula apportionment under sections 5307 and 5311;
+      (J) crime prevention and security–
+        (i) including–
+          (I) projects to refine and develop security and emergency response plans;
+          (II) projects aimed at detecting chemical and biological agents in public transportation;
+          (III) the conduct of emergency response drills with public transportation agencies and local first response agencies; and
+          (IV) security training for public transportation employees; but
+        (ii) excluding all expenses related to operations, other than such expenses incurred in conducting activities described in clauses (i)(III) and (i)(IV);
+      (K) establishing a debt service reserve, made up of deposits with a bondholder“s trustee, to ensure the timely payment of principal and interest on bonds issued by a grant recipient to finance an eligible project under this chapter; or
+      (L) mobility management–
+        (i) consisting of short-range planning and management activities and projects for improving coordination among public transportation and other transportation service providers carried out by a recipient or subrecipient through an agreement entered into with a person, including a governmental entity, under this chapter (other than section 5309); but
+        (ii) excluding operating public transportation services.
+    (2) T4Chief executive officer of a stateK.–The term ””chief executive officer of a State““ includes the designee of the chief executive officer.
+    (3) T4Emergency regulationK.–The term ””emergency regulation““ means a regulation–
+      (A) that is effective temporarily before the expiration of the otherwise specified periods of time for public notice and comment under section 5334(b); \1\N and
+      (B) prescribed by the Secretary as the result of a finding that a delay in the effective date of the regulation–
+        (i) would injure seriously an important public interest;
+        (ii) would frustrate substantially legislative policy and intent; or
+        (iii) would damage seriously a person or class without serving an important public interest.
+    (4) T4Fixed guidewayK.–The term ””fixed guideway““ means a public transportation facility–
+      (A) using and occupying a separate right-of-way or rail for the exclusive use of public transportation and other high occupancy vehicles; or
+      (B) using a fixed catenary system and a right-of-way usable by other forms of transportation.
+    (5) T4Individual with a disabilityK.–The term ””individual with a disability““ means an individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use effectively, without special facilities, planning, or design, public transportation service or a public transportation facility.
+    (6) T4Local governmental authorityK.–The term ””local governmental authority““ includes–
+      (A) a political subdivision of a State;
+      (B) an authority of at least 1 State or political subdivision of a State;
+      (C) an Indian tribe; and
+      (D) a public corporation, board, or commission established under the laws of a State.
+    (7) T4Mass transportationK.–The term ””mass transportation““ means public transportation.
+    (8) T4Net project costK.–The term ””net project cost““ means the part of a project that reasonably cannot be financed from revenues.
+    (9) T4New bus modelK.–The term ””new bus model““ means a bus model (including a model using alternative fuel)–
+      (A) that has not been used in public transportation in the United States before the date of production of the model; or
+      (B) used in public transportation in the United States, but being produced with a major change in configuration or components.
+    (10) T4Public transportationK.–The term ””public transportation““ means transportation by a conveyance that provides regular and continuing general or special transportation to the public, but does not include schoolbus, charter, or intercity bus transportation or intercity passenger rail transportation provided by the entity described in chapter 243 (or a successor to such entity).
+    (11) T4RegulationK.–The term ””regulation““ means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this chapter.
+    (12) T4SecretaryK.–The term ””Secretary““ means the Secretary of Transportation.
+    (13) T4StateK.–The term ””State““ means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+    (14) T4TransitK.–The term ””transit““ means public transportation.
+    (15) T4Transit enhancementK.–The term ””transit enhancement““ means, with respect to any project or an area to be served by a project, projects that are designed to enhance public transportation service or use and that are physically or functionally related to transit facilities. Eligible projects are–
+      (A) historic preservation, rehabilitation, and operation of historic public transportation buildings, structures, and facilities (including historic bus and railroad facilities);
+      (B) bus shelters;
+      (C) landscaping and other scenic beautification, including tables, benches, trash receptacles, and street lights;
+      (D) public art;
+      (E) pedestrian access and walkways;
+      (F) bicycle access, including bicycle storage facilities and installing equipment for transporting bicycles on public transportation vehicles;
+      (G) transit connections to parks within the recipient“s transit service area;
+      (H) signage; and
+        (I) enhanced access for persons with disabilities to public transportation.
+    (16) T4Urban areaK.–The term ””urban area““ means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
+    (17) T4Urbanized areaK.–The term ””urbanized area““ means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an ””urbanized area““ by the Secretary of Commerce.
+  (b) T4Authority To Modify ””Individual With a Disability““K.–The Secretary may by regulation modify the definition of the term ””individual with a disability““ in subsection (a)(5) as it applies to section 5307(d)(1)(D).

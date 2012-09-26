@@ -5,21 +5,24 @@
       (A) identify and collect necessary motor carrier, commercial motor vehicle, and driver data;
       (B) evaluate the safety fitness of motor carriers and drivers;
       (C) develop strategies to mitigate safety problems and to use data analysis to address and measure the effectiveness of such strategies and related programs;
-      (D) determine the cost-effectiveness of Federal and State safety compliance and enforcement programs and other countermeasures; and
-      (E) adapt, improve, and incorporate other information and information systems as the Secretary determines appropriate.
+      (D) determine the cost-effectiveness of Federal and State safety compliance and enforcement programs and other countermeasures;
+      (E) adapt, improve, and incorporate other information and information systems as the Secretary determines appropriate;
+      (F) ensure, to the maximum extent practical, all the data is complete, timely, and accurate across all information systems and initiatives; and
+      (G) establish and implement a national motor carrier safety data correction system.
     (4) T4StandardsK.–To implement this section, the Secretary shall prescribe technical and operational standards to ensure–
       (A) uniform, timely, and accurate information collection and reporting by the States and other entities as determined appropriate by the Secretary;
       (B) uniform Federal, State, and local policies and procedures necessary to operate the information system; and
       (C) the reliability and availability of the information to the Secretary and States.
   (b) T4Performance and Registration Information Program.–
     (1) T4Information clearinghouseK.–The Secretary shall include, as part of the motor carrier information system authorized by this section, a program to establish and maintain a clearinghouse and repository of information related to State registration and licensing of commercial motor vehicles, the registrants of such vehicles, and the motor carriers operating such vehicles. The clearinghouse and repository may include information on the safety fitness of each of the motor carriers and registrants and other information the Secretary considers appropriate, including information on motor carrier, commercial motor vehicle, and driver safety performance.
-    (2) T4DesignK.–The program shall link Federal motor carrier safety information systems with State driver and commercial vehicle registration and licensing systems and shall be designed to enable a State to–
+    (2) T4DesignK.–The program shall link Federal motor carrier safety information systems with State commercial vehicle registration and licensing systems and shall be designed to enable a State to–
       (A) determine the safety fitness of a motor carrier or registrant when licensing or registering the registrant or motor carrier or while the license or registration is in effect; and
-      (B) decide, in cooperation with the Secretary, whether and what types of sanctions or operating limitations to impose on the motor carrier or registrant to ensure safety.
+      (B) deny, suspend, or revoke the commercial motor vehicle registrations of a motor carrier or registrant that has been issued an operations out-of-service order by the Secretary.
     (3) T4Conditions for participationK.–The Secretary shall require States, as a condition of participation in the program, to–
-      (A) comply with the uniform policies, procedures, and technical and operational standards prescribed by the Secretary under subsection (a)(4); and
-      (B) possess or seek authority to impose commercial motor vehicle registration sanctions on the basis of a Federal safety fitness determination.
-    (4) T4FundingK.–The Secretary may make available up to 50 percent of the amounts available to carry out this section by section 31107 in each of fiscal years 1998, 1999, 2000, 2001, 2002, and 2003 to carry out this subsection. The Secretary is encouraged to direct no less than 80 percent of amounts made available to carry out this subsection to States that have not previously received financial assistance to develop or implement the information systems authorized by this section.
+      (A) comply with the uniform policies, procedures, and technical and operational standards prescribed by the Secretary under subsection (a)(4);
+      (B) possess or seek the authority to possess for a time period no longer than determined reasonable by the Secretary, to impose sanctions relating to commercial motor vehicle registration on the basis of a Federal safety fitness determination; and
+      (C) establish and implement a process to cancel the motor vehicle registration and seize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order.
+    (4) T4GrantsK.–From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.
   (c) T4Commercial Motor Vehicle Driver Safety ProgramK.–In coordination with the information system under section 31309, the Secretary is authorized to establish a program to improve commercial motor vehicle driver safety. The objectives of the program shall include–
     (1) enhancing the exchange of driver licensing information among the States, the Federal Government, and foreign countries;
     (2) providing information to the judicial system on commercial motor vehicle drivers;
