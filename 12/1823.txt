@@ -110,8 +110,13 @@
       (B) was executed by the depository institution and any person claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the depository institution,
       (C) was approved by the board of directors of the depository institution or its loan committee, which approval shall be reflected in the minutes of said board or committee, and
       (D) has been, continuously, from the time of its execution, an official record of the depository institution.
-    (2) Public deposits
-       An agreement to provide for the lawful collateralization of deposits of a Federal, State, or local governmental entity or of any depositor referred to in section 1821(a)(2) of this title shall not be deemed to be invalid pursuant to paragraph (1)(B) solely because such agreement was not executed contemporaneously with the acquisition of the collateral or with any changes in the collateral made in accordance with such agreement.
+    (2) Exemptions from contemporaneous execution requirement
+       An agreement to provide for the lawful collateralization of–
+      (A) deposits of, or other credit extension by, a Federal, State, or local governmental entity, or of any depositor referred to in section 1821(a)(2) of this title, including an agreement to provide collateral in lieu of a surety bond;
+      (B) bankruptcy estate funds pursuant to section 345(b)(2) of title 11;
+      (C) extensions of credit, including any overdraft, from a Federal reserve bank or Federal home loan bank; or
+      (D) one or more qualified financial contracts, as defined in section 1821(e)(8)(D) of this title,
+       shall not be deemed invalid pursuant to paragraph (1)(B) solely because such agreement was not executed contemporaneously with the acquisition of the collateral or because of pledges, delivery, or substitution of the collateral made in accordance with such agreement.
   (f) Assisted emergency interstate acquisitions
     (1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank \2\N savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c) of this section.
     (2)      (A) Whenever an insured bank with total assets of $500,000,000 or more (as determined from its most recent report of condition) is in default, the Corporation, as receiver, may, in its discretion and upon such terms and conditions as the Corporation may determine, arrange the sale of assets of the bank in default and the assumption of the liabilities of the bank in default, including the sale of such assets to and the assumption of such liabilities by an insured depository institution located in the State where the bank in default was chartered but established by an out-of-State bank or holding company. Where otherwise lawfully required, a transaction under this subsection must be approved by the primary Federal or State supervisor of all parties thereto.
