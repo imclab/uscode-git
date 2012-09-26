@@ -1,24 +1,37 @@
-  (a) Automatic spending increases
-     Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
-    (1) Special milk program; and
-    (2) Vocational rehabilitation basic State grants.
-       In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter.
+  (a) Repealed. Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21
   (b) Student loans
-     For all student loans under part B or D of title IV of the Higher Education Act of 1965 [20 U.S.C. 1071 et seq., 1087a et seq.] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and 455(c) of that Act [20 U.S.C. 1087–1(c)(2), 1087e(c)] shall each be increased by 0.50 percentage point.
-  (c) Treatment of foster care and adoption assistance programs
-     Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act [42 U.S.C. 670 et seq.]) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act [42 U.S.C. 674] (for such fiscal year) for that portion of the State“s payments which is attributable to the increases taking effect during that year. No State“s matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made.
+     For all student loans under part B or D of title IV of the Higher Education Act of 1965 [20 U.S.C. 1071 et seq., 1087a et seq.] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and (6) and 455(c) [20 U.S.C. 1087–1(c)(2), (6), 1087e(c)] and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act [20 U.S.C. 1078(f)(1)(A)(ii)] shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act [20 U.S.C. 1087–1(b)] accruing during the period of the sequestration shall be reduced by the uniform percentage specified in that sequestration order.
+  (c) Repealed. Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22
   (d) Special rules for Medicare program
-    (1) Calculation of reduction in individual payment amounts
-       To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act [42 U.S.C. 911], OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.
-    (2) Timing of application of reductions
+    (1) Calculation of reduction in payment amounts
+       To achieve the total percentage reduction in those programs required by section 902 or 903 of this title, subject to paragraph (2), and notwithstanding section 710 of the Social Security Act [42 U.S.C. 911], OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply, with respect to the health insurance programs under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]–
+      (A) in the case of parts A and B of such title [42 U.S.C. 1395c et seq., 1395j et seq.], to individual payments for services furnished during the one-year period beginning on the first day of the first month beginning after the date the order is issued (or, if later, the date specified in paragraph (4)); and
+      (B) in the case of parts C and D [42 U.S.C. 1395w–21 et seq., 1395w–101 et seq.], to monthly payments under contracts under such parts for the same one-year period;
+       such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that period.
+    (2) Uniform reduction rate; maximum permissible reduction
+       Reductions in payments for programs and activities under such title XVIII [42 U.S.C. 1395 et seq.] pursuant to a sequestration order under section 904 of this title shall be at a uniform rate, which shall not exceed 4 percent, across all such programs and activities subject to such order.
+    (3) Timing of application of reductions
       (A) In general
          Except as provided in subparagraph (B), if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for services furnished during the effective period of the order. For purposes of the previous sentence, in the case of inpatient services furnished for an individual, the services shall be considered to be furnished on the date of the individual“s discharge from the inpatient facility.
       (B) Payment on the basis of cost reporting periods
          In the case in which payment for services of a provider of services is made under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) in the same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
-    (3) No increase in beneficiary charges in assignment-related cases
+    (4) Timing of subsequent sequestration order
+       A sequestration order required by section 902 or 903 of this title with respect to programs under such title XVIII [42 U.S.C. 1395 et seq.] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
+    (5) No increase in beneficiary charges in assignment-related cases
        If a reduction in payment amounts is made under paragraph (1) for services for which payment under part B of title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] is made on the basis of an assignment described in section 1842(b)(3)(B)(ii) [42 U.S.C. 1395u(b)(3)(B)(ii)], in accordance with section 1842(b)(6)(B) [42 U.S.C. 1395u(b)(6)(B)], or under the procedure described in section 1870(f)(1) [42 U.S.C. 1395gg(f)(1)], of such Act, the person furnishing the services shall be considered to have accepted payment of the reasonable charge for the services, less any reduction in payment amount made pursuant to a sequestration order, as payment in full.
-    (4) No effect on computation of AAPCC
-       In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act [42 U.S.C. 1395mm(a)(4)], the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.
+    (6) Sequestration disregarded in computing payment amounts
+       The Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter, for purposes of computing any adjustments to payment rates under such title XVIII [42 U.S.C. 1395 et seq.], specifically including–
+      (A) the part C growth percentage under section 1853(c)(6) [42 U.S.C. 1395w–23(c)(6)];
+      (B) the part D annual growth rate under section 1860D–2(b)(6) [42 U.S.C. 1395w–102(b)(6)]; and
+      (C) application of risk corridors to part D payment rates under section 1860D–15(e) [42 U.S.C. 1395w–115(e)].
+    (7) Exemptions from sequestration
+       In addition to the programs and activities specified in section 905 of this title, the following shall be exempt from sequestration under this subchapter:
+      (A) Part D low-income subsidies
+         Premium and cost-sharing subsidies under section 1860D–14 of the Social Security Act [42 U.S.C. 1395w–114].
+      (B) Part D catastrophic subsidy
+         Payments under section 1860D–15(b) and (e)(2)(B) of the Social Security Act [42 U.S.C. 1395w–115(b), (e)(2)(B)].
+      (C) Qualified individual (QI) premiums
+         Payments to States for coverage of Medicare cost-sharing for certain low-income Medicare beneficiaries under section 1933 of the Social Security Act [42 U.S.C. 1396u–3].
   (e) Community and migrant health centers, Indian health services and facilities, and veterans“ medical care
     (1) The maximum permissible reduction in budget authority for any account listed in paragraph (2) for any fiscal year, pursuant to an order issued under section 904 of this title, shall be 2 percent.
     (2) The accounts referred to in paragraph (1) are as follows:
@@ -81,7 +94,7 @@
              Nothing in this joint resolution shall limit or reduce, in any way, any appropriation that provides the Commodity Credit Corporation with budget authority to cover the Corporation“s net realized losses.
         (k) Effects of sequestration
            The effects of sequestration shall be as follows:
-          (1) Budgetary resources sequestered from any account shall be permanently cancelled, except as provided in paragraph (5).
+          (1) Budgetary resources sequestered from any account shall be permanently cancelled, except as provided in paragraph (6).
           (2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President“s budget).
           (3) Administrative regulations or similar actions implementing a sequestration shall be made within 120 days of the sequestration order. To the extent that formula allocations differ at different levels of budgetary resources within an account, program, project, or activity, the sequestration shall be interpreted as producing a lower total appropriation, with the remaining amount of the appropriation being obligated in a manner consistent with program allocation formulas in substantive law.
           (4) Except as otherwise provided, obligations in sequestered accounts shall be reduced only in the fiscal year in which a sequester occurs.
