@@ -51,9 +51,8 @@
       (B) the General Counsel of the Department;
       (C) the President of the Government National Mortgage Association;
       (D) the Assistant Secretary for Administration;
-      (E) the Assistant Secretary for Fair Housing Enforcement (in cases involving violations of nondiscrimination requirements);
-      (F) the Chief Financial Officer of the Department; and
-      (G) the Director of the Enforcement Center; or their designees.
+      (E) the Assistant Secretary for Fair Housing Enforcement (in cases involving violations of nondiscrimination requirements); and
+      (F) the Chief Financial Officer of the Department or their designees.
     (3) Actions authorized
        When any report, audit, investigation, or other information before the Board discloses that a basis for an administrative action against a mortgagee exists, the Board shall take one of the following administrative actions:
       (A) Letter of reprimand
@@ -92,16 +91,34 @@
       (D) a director, officer, employee, agent, or other person participating in the conduct of the affairs of the mortgagee, lender, or loan correspondent.
     (8) Report required
        The Board, in consultation with the Federal Housing Administration Advisory Board, shall annually recommend to the Secretary such amendments to statute or regulation as the Board determines to be appropriate to ensure the long term financial strength of the Federal Housing Administration fund and the adequate support for home mortgage credit.
-  (d) Coordination of GNMA and FHA withdrawal action
+    (9) Prohibition against limitations on mortgagee review board“s power to take action against mortgagees
+       No State or local law, and no Federal law (except a Federal law enacted expressly in limitation of this subsection after the effective date of this sentence), shall preclude or limit the exercise by the Board of its power to take any action authorized under paragraphs (3) and (6) of this subsection against any mortgagee.
+  (d) Limitations on participation in origination and mortgagee approval
+    (1) Requirement
+       Any person or entity that is not approved by the Secretary to serve as a mortgagee, as such term is defined in subsection (c)(7), shall not participate in the origination of an FHA-insured loan except as authorized by the Secretary.
+    (2) Eligibility for approval
+       In order to be eligible for approval by the Secretary, an applicant mortgagee shall not be, and shall not have any officer, partner, director, principal, manager, supervisor, loan processor, loan underwriter, or loan originator of the applicant mortgagee who is–
+      (A) currently suspended, debarred, under a limited denial of participation (LDP), or otherwise restricted under part 25 of title 24 of the Code of Federal Regulations, 2 Code of Federal Regulations, part 180 as implemented by part 2424, or any successor regulations to such parts, or under similar provisions of any other Federal agency;
+      (B) under indictment for, or has been convicted of, an offense that reflects adversely upon the applicant“s integrity, competence or fitness to meet the responsibilities of an approved mortgagee;
+      (C) subject to unresolved findings contained in a Department of Housing and Urban Development or other governmental audit, investigation, or review;
+      (D) engaged in business practices that do not conform to generally accepted practices of prudent mortgagees or that demonstrate irresponsibility;
+      (E) convicted of, or who has pled guilty or nolo contendre \3\N to, a felony related to participation in the real estate or mortgage loan industry–
+        (i) during the 7-year period preceding the date of the application for licensing and registration; or
+        (ii) at any time preceding such date of application, if such felony involved an act of fraud, dishonesty, or a breach of trust, or money laundering;
+      (F) in violation of provisions of the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.) or any applicable provision of State law; or
+      (G) in violation of any other requirement as established by the Secretary.
+    (3) Rulemaking and implementation
+       The Secretary shall conduct a rulemaking to carry out this subsection. The Secretary shall implement this subsection not later than the expiration of the 60-day period beginning upon May 20, 2009, by notice, mortgagee letter, or interim final regulations, which shall take effect upon issuance.
+  (e) Coordination of GNMA and FHA withdrawal action
     (1) Whenever the Federal Housing Administration or Government National Mortgage Association initiates proceedings that could lead to withdrawing the mortgagee from participating in the program, the initiating agency shall–
       (A) within 24 hours notify the other agency in writing of the action taken;
       (B) provide to the other agency the factual basis for the action taken; and
       (C) if a mortgagee is withdrawn, publish its decision in the Federal Register.
-    (2) Within 60 days of receipt of a notification of action that could lead to withdrawal under subsection \3\N (1), the Federal Housing Administration or the Government National Mortgage Association shall–
+    (2) Within 60 days of receipt of a notification of action that could lead to withdrawal under subsection \4\N (1), the Federal Housing Administration or the Government National Mortgage Association shall–
       (A) conduct and complete its own investigation;
       (B) provide written notification to the other agency of its decision, including the factual basis for its decision; and
       (C) if a mortgagee is withdrawn, publish its decision in the Federal Register.
-  (e) Suspension or revocation of approval of mortgagee; notice and statement of reasons
+  (f) Suspension or revocation of approval of mortgagee; notice and statement of reasons
      Whenever the Secretary has taken any discretionary action to suspend or revoke the approval of any mortgagee to participate in any mortgage insurance program under this subchapter, the Secretary shall provide prompt notice of the action and a statement of the reasons for the action to–
     (1) the Secretary of Veterans Affairs;
     (2) the chief executive officer of the Federal National Mortgage Association;
@@ -111,10 +128,10 @@
     (6) if the mortgagee is a State bank that is a member of the Federal Reserve System or a subsidiary or affiliate of such a bank, or a bank holding company or a subsidiary or affiliate of such a company, the Board of Governors of the Federal Reserve System;
     (7) if the mortgagee is a State bank that is not a member of the Federal Reserve System or is a subsidiary or affiliate of such a bank, the Board of Directors of the Federal Deposit Insurance Corporation; and
     (8) if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision.
-  (f) Appraisal standards
+  (g) Appraisal standards
     (1) The Secretary shall prescribe standards for the appraisal of all property to be insured by the Federal Housing Administration. Such appraisals shall be performed in accordance with uniform standards, by individuals who have demonstrated competence and whose professional conduct is subject to effective supervision. These standards shall require at a minimum–
       (A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as the appraisal standards promulgated by the Appraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
-      (B) that each appraisal be a written statement used in connection with a real estate transaction that is independently an \4\N impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
+      (B) that each appraisal be a written statement used in connection with a real estate transaction that is independently an \5\N impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
     (2) The Appraisal Subcommittee of the Federal Financial Institutions Examination Council shall include the Secretary or his designee.
     (3) T4Direct Endorsement Program.–
       (A) Any mortgagee that is authorized by the Secretary to process mortgages as a direct endorsement mortgagee (pursuant to the single-family home mortgage direct endorsement program established by the Secretary) may contract with an appraiser chosen at the discretion of the mortgagee for the performance of appraisals in connection with such mortgages. Such appraisers may include appraisal companies organized as corporations, partnerships, or sole proprietorships.
@@ -128,3 +145,7 @@
         (i) by the State in which the property to be appraised is located; or
         (ii) by a nationally recognized professional appraisal organization; and
       (B) have demonstrated verifiable education in the appraisal requirements established by the Federal Housing Administration under this subsection.
+  (h) Use of name
+     The Secretary shall, by regulation, require each mortgagee approved by the Secretary for participation in the FHA mortgage insurance programs of the Secretary–
+    (1) to use the business name of the mortgagee that is registered with the Secretary in connection with such approval in all advertisements and promotional materials, as such terms are defined by the Secretary, relating to the business of such mortgagee in such mortgage insurance programs; and
+    (2) to maintain copies of all such advertisements and promotional materials, in such form and for such period as the Secretary requires.
