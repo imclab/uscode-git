@@ -5,7 +5,7 @@
       (B) a commercial bank or trust company;
       (C) a private banker;
       (D) an agency or branch of a foreign bank in the United States;
-      (E) an insured institution (as defined in section 401(a) \1\N of the National Housing Act (12 U.S.C. 1724(a)));
+      (E) any credit union;
       (F) a thrift institution;
       (G) a broker or dealer registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
       (H) a broker or dealer in securities or commodities;
@@ -18,7 +18,7 @@
       (O) a pawnbroker;
       (P) a loan or finance company;
       (Q) a travel agency;
-      (R) a licensed sender of money;
+      (R) a licensed sender of money or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
       (S) a telegraph company;
       (T) a business engaged in vehicle sales, including automobile, airplane, and boat sales;
       (U) persons involved in real estate closings and settlements;
@@ -32,9 +32,13 @@
     (3) ””monetary instruments““ means–
       (A) United States coins and currency;
       (B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers“ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
-      (C) as the Secretary of the Treasury shall provide by regulation for purposes of section 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
-    (4) ””person““, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
-    (5) ””United States““ means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
+      (C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5333 \1\N and 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+    (4) T4Nonfinancial trade or businessK.–The term ””nonfinancial trade or business““ means any trade or business other than a financial institution that is subject to the reporting requirements of section 5313 and regulations prescribed under such section.
+    (5) ””person““, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
+    (6) ””United States““ means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
   (b) In this subchapter–
     (1) ””domestic financial agency““ and ””domestic financial institution““ apply to an action in the United States of a financial agency or institution.
     (2) ””foreign financial agency““ and ””foreign financial institution““ apply to an action outside the United States of a financial agency or institution.
+  (c) T4Additional DefinitionsK.–For purposes of this subchapter, the following definitions shall apply:
+    (1) \2\N T4Certain institutions included in definitionK.–The term ””financial institution““ (as defined in subsection (a)) includes the following:
+      (A) \3\N Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.

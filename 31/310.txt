@@ -1,1 +1,35 @@
-   When the term of office of an officer of the Department of the Treasury ends, the officer may continue to serve until a successor is appointed and qualified.
+  (a) T4In GeneralK.–The Financial Crimes Enforcement Network established by order of the Secretary of the Treasury (Treasury Order Numbered 105–08, in this section referred to as ””FinCEN““) on April 25, 1990, shall be a bureau in the Department of the Treasury.
+  (b) T4Director.–
+    (1) T4AppointmentK.–The head of FinCEN shall be the Director, who shall be appointed by the Secretary of the Treasury.
+    (2) T4Duties and powersK.–The duties and powers of the Director are as follows:
+      (A) Advise and make recommendations on matters relating to financial intelligence, financial criminal activities, and other financial activities to the Under Secretary of the Treasury for Enforcement.
+      (B) Maintain a government-wide data access service, with access, in accordance with applicable legal requirements, to the following:
+        (i) Information collected by the Department of the Treasury, including report information filed under subchapter II of chapter 53 of this title (such as reports on cash transactions, foreign financial agency transactions and relationships, foreign currency transactions, exporting and importing monetary instruments, and suspicious activities), chapter 2 of title I of Public Law 91–508, and section 21 of the Federal Deposit Insurance Act.
+        (ii) Information regarding national and international currency flows.
+        (iii) Other records and data maintained by other Federal, State, local, and foreign agencies, including financial and other records developed in specific cases.
+        (iv) Other privately and publicly available information.
+      (C) Analyze and disseminate the available data in accordance with applicable legal requirements and policies and guidelines established by the Secretary of the Treasury and the Under Secretary of the Treasury for Enforcement to–
+        (i) identify possible criminal activity to appropriate Federal, State, local, and foreign law enforcement agencies;
+        (ii) support ongoing criminal financial investigations and prosecutions and related proceedings, including civil and criminal tax and forfeiture proceedings;
+        (iii) identify possible instances of noncompliance with subchapter II of chapter 53 of this title, chapter 2 of title I of Public Law 91–508, and section 21 of the Federal Deposit Insurance Act to Federal agencies with statutory responsibility for enforcing compliance with such provisions and other appropriate Federal regulatory agencies;
+        (iv) evaluate and recommend possible uses of special currency reporting requirements under section 5326;
+        (v) determine emerging trends and methods in money laundering and other financial crimes;
+        (vi) support the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism; and
+        (vii) support government initiatives against money laundering.
+      (D) Establish and maintain a financial crimes communications center to furnish law enforcement authorities with intelligence information related to emerging or ongoing investigations and undercover operations.
+      (E) Furnish research, analytical, and informational services to financial institutions, appropriate Federal regulatory agencies with regard to financial institutions, and appropriate Federal, State, local, and foreign law enforcement authorities, in accordance with policies and guidelines established by the Secretary of the Treasury or the Under Secretary of the Treasury for Enforcement, in the interest of detection, prevention, and prosecution of terrorism, organized crime, money laundering, and other financial crimes.
+      (F) Assist Federal, State, local, and foreign law enforcement and regulatory authorities in combatting the use of informal, nonbank networks and payment and barter system mechanisms that permit the transfer of funds or the equivalent of funds without records and without compliance with criminal and tax laws.
+      (G) Provide computer and data support and data analysis to the Secretary of the Treasury for tracking and controlling foreign assets.
+      (H) Coordinate with financial intelligence units in other countries on anti-terrorism and anti-money laundering initiatives, and similar efforts.
+      (I) Administer the requirements of subchapter II of chapter 53 of this title, chapter 2 of title I of Public Law 91–508, and section 21 of the Federal Deposit Insurance Act, to the extent delegated such authority by the Secretary of the Treasury.
+      (J) Such other duties and powers as the Secretary of the Treasury may delegate or prescribe.
+  (c) T4Requirements Relating to Maintenance and Use of Data BanksK.–The Secretary of the Treasury shall establish and maintain operating procedures with respect to the government-wide data access service and the financial crimes communications center maintained by FinCEN which provide–
+    (1) for the coordinated and efficient transmittal of information to, entry of information into, and withdrawal of information from, the data maintenance system maintained by the Network, including–
+      (A) the submission of reports through the Internet or other secure network, whenever possible;
+      (B) the cataloguing of information in a manner that facilitates rapid retrieval by law enforcement personnel of meaningful data; and
+      (C) a procedure that provides for a prompt initial review of suspicious activity reports and other reports, or such other means as the Secretary may provide, to identify information that warrants immediate action; and
+    (2) in accordance with section 552a of title 5 and the Right to Financial Privacy Act of 1978, appropriate standards and guidelines for determining–
+      (A) who is to be given access to the information maintained by the Network;
+      (B) what limits are to be imposed on the use of such information; and
+      (C) how information about activities or relationships which involve or are closely associated with the exercise of constitutional rights is to be screened out of the data maintenance system.
+  (d) T4Authorization of AppropriationsK.–There are authorized to be appropriated for FinCEN such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005.
