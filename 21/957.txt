@@ -1,4 +1,11 @@
-  (a) Individual possessing controlled substance
-     The Attorney General may by regulation exempt from sections 952(a) and (b), 953, 954, and 955 of this title any individual who has a controlled substance (except a substance in schedule I) in his possession for his personal medical use, or for administration to an animal accompanying him, if he lawfully obtained such substance and he makes such declaration (or gives such other notification) as the Attorney General may by regulation require.
-  (b) Compound, mixture, or preparation
-     The Attorney General may by regulation except any compound, mixture, or preparation containing any depressant or stimulant substance listed in paragraph (a) or (b) of schedule III or in schedule IV or V from the application of all or any part of this subchapter if (1) the compound, mixture, or preparation contains one or more active medicinal ingredients not having a depressant or stimulant effect on the central nervous system, and (2) such ingredients are included therein in such combinations, quantity, proportion, or concentration as to vitiate the potential for abuse of the substances which do have a depressant or stimulant effect on the central nervous system.
+  (a) Coverage
+     No person may–
+    (1) import into the customs territory of the United States from any place outside thereof (but within the United States), or import into the United States from any place outside thereof, any controlled substance or list I chemical, or
+    (2) export from the United States any controlled substance or list I chemical,
+       unless there is in effect with respect to such person a registration issued by the Attorney General under section 958 of this title, or unless such person is exempt from registration under subsection (b) of this section.
+  (b) Exemptions
+    (1) The following persons shall not be required to register under the provisions of this section and may lawfully possess a controlled substance or list I chemical:
+      (A) An agent or an employee of any importer or exporter registered under section 958 of this title if such agent or employee is acting in the usual course of his business or employment.
+      (B) A common or contract carrier or warehouseman, or an employee thereof, whose possession of any controlled substance or list I chemical is in the usual course of his business or employment.
+      (C) An ultimate user who possesses such substance for a purpose specified in section 802(25) \1\N of this title and in conformity with an exemption granted under section 956(a) of this title.
+    (2) The Attorney General may, by regulation, waive the requirement for registration of certain importers and exporters if he finds it consistent with the public health and safety; and may authorize any such importer or exporter to possess controlled substances or list I chemicals for purposes of importation and exportation.

@@ -72,39 +72,39 @@
         (2) The Secretary may by regulation–
           (A) revise the list of nutrients in the table in this subsection, and
           (B) revise the required level for any nutrient required by the table.
-             NUTRIENTS h1Nutrient h1  h1Minimum G2aG1h1Maximum G2aG1j
-             Protein (gm)D1.8 G2bG1DD 4.5.
+             NUTRIENTS
+             Protein (gm)D1.8 G2bDD 4.5.
              Fat:
              gmD3.3DD 6.0.
              percent calD30.0DD 54.0.
-             Essential fatty   acids   (linoeate):
+             Essential fatty acids   (linoeate):
              percent calD2.7DD
              mgD300.0DD
              Vitamins:
-             A (IU)D250.0 D(75 g)G2cG1D750.0 (225 g).G2cG1
+             A (IU)D250.0 D(75 G6T1mKg)G2cD750.0 (225 G6T1mKg).G2c
              D (IU)D40.0DD100.0.
-             K (g)D4.0DD
+             K (G6T1mKg)D4.0DD
              E (IU)D0.7 D(with 0.7 IU/gm linoleic acid)D
              C (ascorbic acid) (mg)D8.0DD
-             BG2T21G1 T1(thiamine) (g)D40.0DD
-             BG2T22G1 T1(riboflavin) (g)D60.0DD
-             BG2T26G1 T1(pyridoxine) (g)D35.0 D(with 15 g/gm of protein in formula)D
-             BG2T212G1 T1(g)D0.15DD
-             Niacin (g)D250.0DD
-             Folic acid (g)D4.0DD
-             Pantothenic acid (g)D300.0DD
-             Biotin (g)D1.5 G2dG1DD
-             Choline (mg)D7.0 G2dG1DD
-             Inositol (mg)D4.0 G2dG1DD
+             BG2T21K (thiamine) (G6T1mKg)D40.0DD
+             BG2T22K (riboflavin) (G6T1mKg)D60.0DD
+             BG2T26K (pyridoxine) (G6T1mKg)D35.0 D(with 15 G6T1mKg/gm of protein in formula)D
+             BG2T212K (G6T1mKg)D0.15DD
+             Niacin (G6T1mKg)D250.0DD
+             Folic acid (G6T1mKg)D4.0DD
+             Pantothenic acid (G6T1mKg)D300.0DD
+             Biotin (G6T1mKg)D1.5 G2dDD
+             Choline (mg)D7.0 G2dDD
+             Inositol (mg)D4.0 G2dDD
              Minerals:
-             Calcium (mg)D50.0 G2eG1DD
-             Phosphorus (mg)D25.0 G2eG1DD
+             Calcium (mg)D50.0 G2eDD
+             Phosphorus (mg)D25.0 G2eDD
              Magnesium (mg)D6.0DD
              Iron (mg)D0.15DD
-             Iodine (g)D5.0DD
+             Iodine (G6T1mKg)D5.0DD
              Zinc (mg)D0.5DD
-             Copper (g)D60.0DD
-             Manganese (g)D5.0DD
+             Copper (G6T1mKg)D60.0DD
+             Manganese (G6T1mKg)D5.0DD
              Sodium (mg)D20.0DD 60.0.
              Potassium (mg)D80.0DD200.0.
              Chloride (mg)D55.0DD150.0.

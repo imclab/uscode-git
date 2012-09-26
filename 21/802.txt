@@ -43,7 +43,7 @@
     (A) a substantial risk of death;
     (B) protracted and obvious disfigurement; or
     (C) protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
-  (26) The term ””State““ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.
+  (26) The term ””State““ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
   (27) The term ””ultimate user““ means a person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.
   (28) The term ””United States““, when used in a geographic sense, means all places and waters, continental or insular, subject to the jurisdiction of the United States.
   (29) The term ””maintenance treatment““ means the dispensing, for a period in excess of twenty-one days, of a narcotic drug in the treatment of an individual for dependence upon heroin or other morphine-like drugs.
@@ -75,12 +75,12 @@
     (M) Methylamine.
     (N) Ethylamine.
     (O) Propionic anhydride.
-    (P) Insosafrole.
+    (P) Isosafrole.
     (Q) Safrole.
     (R) Piperonal.
-    (S) N-Methylepherdrine.\1\N
+    (S) N-Methylephedrine.
     (T) N-methylpseudoephedrine.
-    (U) Hydriotic \2\N acid.
+    (U) Hydriodic acid.
     (V) Benzaldehyde.
     (W) Nitroethane.
     (X) Any salt, optical isomer, or salt of an optical isomer of the chemicals listed in subparagraphs (M) through (U) of this paragraph.
@@ -91,8 +91,10 @@
     (D) Ethyl ether.
     (E) Repealed. Pub. L. 101–647, title XXIII, § 2301(b), Nov. 29, 1990, 104 Stat. 4858.
     (F) Potassium permanganate.
-    (G) 2-Butanone.
+    (G) 2-Butanone (or Methyl Ethyl Ketone).
     (H) Toluene.
+    (I) Iodine.
+    (J) Hydrochloric gas.
   (36) The term ””regular customer““ means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
   (37) The term ””regular importer““ means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
   (38) The term ””regulated person““ means a person who manufactures, distributes, imports, or exports a listed chemical, a tableting machine, or an encapsulating machine or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine.
@@ -102,9 +104,9 @@
       (ii) a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage or storage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with section 830 of this title;
       (iii) any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II of this chapter;
       (iv) any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) unless–
-        (I)          (aa) the drug contains ephedrine or its salts, optical isomers, or salts of optical isomers as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient; or
+        (I)          (aa) the drug contains ephedrine or its salts, optical isomers, or salts of optical isomers, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996); or
           (bb) the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
-        (II) the quantity of ephedrine or other listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General; or
+        (II) the quantity of ephedrine, pseudoephedrine, phenylpropanolamine, or other listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction; or
       (v) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
     (B) a distribution, importation, or exportation of a tableting machine or encapsulating machine.
   (40) The term ””chemical mixture““ means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
@@ -144,4 +146,14 @@
     (A) negotiating contracts;
     (B) serving as an agent or intermediary; or
     (C) bringing together a buyer and seller, a buyer and transporter, or a seller and transporter.
-  (43) \3\N The term ””felony drug offense““ means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.
+  (44) The term ””felony drug offense““ means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.
+  (45) The term ””ordinary over-the-counter pseudoephedrine or phenylpropanolamine product““ means any product containing pseudoephedrine or phenylpropanolamine that is–
+    (A) regulated pursuant to this subchapter; and
+    (B)      (i) except for liquids, sold in package sizes of not more than 3.0 grams of pseudoephedrine base or 3.0 grams of phenylpropanolamine base, and that is packaged in blister packs, each blister containing not more than two dosage units, or where the use of blister packs is technically infeasible, that is packaged in unit dose packets or pouches; and
+      (ii) for liquids, sold in package sizes of not more than 3.0 grams of pseudoephedrine base or 3.0 grams of phenylpropanolamine base.
+  (46)    (A) The term ””retail distributor““ means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to pseudoephedrine or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
+    (B) For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.
+    (C) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
+      (i) A grocery store is an entity within SIC code 5411.
+      (ii) A general merchandise store is an entity within SIC codes 5300 through 5399 and 5499.
+      (iii) A drug store is an entity within SIC code 5912.
