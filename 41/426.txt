@@ -14,11 +14,11 @@
     (2) ensure that the head of each executive agency complies with the requirements of subsection (c) of this section with respect to the agency systems, technologies, procedures, and processes established pursuant to this section; and
     (3) consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
   (e) Report
-     Not later than March 1, 1998, and every year afterward through 2003, the Administrator shall submit to Congress a report setting forth in detail the progress made in implementing the requirements of this section. The report shall include the following:
+     Not later than March 1 of each even-numbered year through 2004, the Administrator shall submit to Congress a report setting forth in detail the progress made in implementing the requirements of this section. The report shall include the following:
     (1) A strategic plan for the implementation of a Government-wide electronic commerce capability.
     (2) An agency-by-agency summary of implementation of the requirements of subsection (c) of this section, including timetables, as appropriate, addressing when individual agencies will come into full compliance.
     (3) A specific assessment of compliance with the requirement in subsection (c) of this section to provide universal public access through a single, Government-wide point of entry.
-    (4) Beginning with the report submitted on March 1, 1999, an agency-by-agency summary of the volume and dollar value of transactions that were conducted using electronic commerce methods during the previous calendar year.
+    (4) An agency-by-agency summary of the volume and dollar value of transactions that were conducted using electronic commerce methods during the previous two fiscal years.
     (5) A discussion of possible incremental changes to the electronic commerce capability referred to in subsection (c)(4) of this section to increase the level of government contract information available to the private sector, including an assessment of the advisability of including contract award information in the electronic commerce functional standard.
   (f) ””Electronic commerce““ defined
      For the purposes of this section, the term ””electronic commerce““ means electronic techniques for accomplishing business transactions, including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
