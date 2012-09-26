@@ -1,5 +1,11 @@
   (a) Establishment
-     The Survey shall establish a national geologic-map data base. Such data base shall be a national archive that includes all maps developed pursuant to sections 31a to 31h of this title, the data bases developed pursuant to the investigations under sections 31c(d)(2)(C), (D), (E), and (F) of this title, and other maps and data as the Survey deems appropriate.
+    (1) In general
+       The Survey shall establish a national geologic map database.
+    (2) Function
+       The database shall serve as a national catalog and archive, distributed through links to Federal and State geologic map holdings, that includes–
+      (A) all maps developed under the Federal component and the education component;
+      (B) the databases developed in connection with investigations under subclauses (III), (IV), and (V) of section 31c(d)(1)(C)(ii) of this title; and
+      (C) other maps and data that the Survey and the Association consider appropriate.
   (b) Standardization
     (1) In general
        Geologic maps contributed to the national archives shall have format, symbols, and technical attributes that adhere to standards so that archival information can be accessed, exchanged, and compared efficiently and accurately, as required by Executive Order 12906 (59 Fed. Reg. 17,671 (1994)), which established the National Spatial Data Infrastructure.
