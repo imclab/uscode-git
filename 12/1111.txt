@@ -1,2 +1,8 @@
-   Section, act July 17, 1916, ch. 245, title II, § 210, as added Mar. 4, 1923, ch. 252, title I, § 2, 42 Stat. 1459, set out a tax exemption for capital and income of intermediate credit banks and provided that their debentures be deemed instrumentalities of the government. See section 2079 of this title.
-   T4Penalty Provisions
+  (a) A proof of claim or interest is deemed filed under section 501 of this title for any claim or interest that appears in the schedules filed under section 521(1) or 1106(a)(2) of this title, except a claim or interest that is scheduled as disputed, contingent, or unliquidated.
+  (b)    (1)      (A) A claim secured by a lien on property of the estate shall be allowed or disallowed under section 502 of this title the same as if the holder of such claim had recourse against the debtor on account of such claim, whether or not such holder has such recourse, unless–
+        (i) the class of which such claim is a part elects, by at least two-thirds in amount and more than half in number of allowed claims of such class, application of paragraph (2) of this subsection; or
+        (ii) such holder does not have such recourse and such property is sold under section 363 of this title or is to be sold under the plan.
+      (B) A class of claims may not elect application of paragraph (2) of this subsection if–
+        (i) the interest on account of such claims of the holders of such claims in such property is of inconsequential value; or
+        (ii) the holder of a claim of such class has recourse against the debtor on account of such claim and such property is sold under section 363 of this title or is to be sold under the plan.
+    (2) If such an election is made, then notwithstanding section 506(a) of this title, such claim is a secured claim to the extent that such claim is allowed.
