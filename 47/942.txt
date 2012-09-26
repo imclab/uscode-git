@@ -16,7 +16,7 @@
        The Assistant Secretary and the Administrator shall provide a joint annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of E–911 services.
   (b) Phase II E–911 implementation grants
     (1) Matching grants
-       The Assistant Secretary and the Administrator, after consultation with the Secretary of Homeland Security and the Chairman of the Federal Communications Commission, and acting through the Office, shall provide grants to eligible entities for the implementation and operation of Phase II E–911 services.
+       The Assistant Secretary and the Administrator, after consultation with the Secretary of Homeland Security and the Chairman of the Federal Communications Commission, and acting through the Office, shall provide grants to eligible entities for the implementation and operation of Phase II E–911 services and for migration to an IP-enabled emergency network.
     (2) Matching requirement
        The Federal share of the cost of a project eligible for a grant under this section shall not exceed 50 percent. The non-Federal share of the cost shall be provided from non-Federal sources.
     (3) Coordination required
@@ -41,12 +41,29 @@
       (A) not be eligible to receive the grant under subsection (b) of this section;
       (B) return any grant awarded under subsection (b) of this section during the time that the certification was not valid; and
       (C) not be eligible to receive any subsequent grants under subsection (b) of this section.
-  (d) Authorization; termination
+  (d) Migration plan required
+    (1) National plan required
+       No more than 270 days after July 23, 2008, the Office shall develop and report to Congress on a national plan for migrating to a national IP-enabled emergency network capable of receiving and responding to all citizen-activated emergency communications and improving information sharing among all emergency response entities.
+    (2) Contents of plan
+       The plan required by paragraph (1) shall–
+      (A) outline the potential benefits of such a migration;
+      (B) identify barriers that must be overcome and funding mechanisms to address those barriers;
+      (C) provide specific mechanisms for ensuring the IP-enabled emergency network is available in every community and is coordinated on a local, regional, and statewide basis;
+      (D) identify location technology for nomadic devices and for office buildings and multi-dwelling units;
+      (E) include a proposed timetable, an outline of costs, and potential savings;
+      (F) provide specific legislative language, if necessary, for achieving the plan;
+      (G) provide recommendations on any legislative changes, including updating definitions, that are necessary to facilitate a national IP-enabled emergency network;
+      (H) assess, collect, and analyze the experiences of the public safety answering points and related public safety authorities who are conducting trial deployments of IP-enabled emergency networks as of July 23, 2008;
+      (I) identify solutions for providing 9–1–1 and enhanced 9–1–1 access to those with disabilities and needed steps to implement such solutions, including a recommended timeline; and
+      (J) analyze efforts to provide automatic location for enhanced 9–1–1 services and provide recommendations on regulatory or legislative changes that are necessary to achieve automatic location for enhanced 9–1–1 services.
+    (3) Consultation
+       In developing the plan required by paragraph (1), the Office shall consult with representatives of the public safety community, groups representing those with disabilities, technology and telecommunications providers, IP-enabled voice service providers, Telecommunications Relay Service providers, and other emergency communications providers and others it deems appropriate.
+  (e) Authorization; termination
     (1) Authorization
        There are authorized to be appropriated to the Department of Transportation, for the purposes of grants under the joint program operated under this section with the Department of Commerce, not more than $250,000,000 for each of the fiscal years 2005 through 2009, not more than 5 percent of which for any fiscal year may be obligated or expended for administrative costs.
     (2) Termination
        The provisions of this section shall cease to be effective on October 1, 2009.
-  (e) Definitions
+  (f) Definitions
      As used in this section:
     (1) Office
        The term ””Office““ means the E–911 Implementation Coordination Office.
