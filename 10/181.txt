@@ -1,11 +1,13 @@
   (a) T4EstablishmentK.–The Secretary of Defense shall establish a Joint Requirements Oversight Council in the Department of Defense.
   (b) T4MissionK.–In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall–
     (1) assist the Chairman of the Joint Chiefs of Staff–
-      (A) in identifying, assessing, and approving joint military requirements (including existing systems and equipment) to meet the national military strategy; and
-      (B) in identifying the core mission area associated with each such requirement;
+      (A) in identifying, assessing, and approving joint military requirements (including existing systems and equipment) to meet the national military strategy;
+      (B) in identifying the core mission area associated with each such requirement; and
+      (C) in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements in consultation with the advisors specified in subsection (d);
     (2) assist the Chairman in establishing and assigning priority levels for joint military requirements;
-    (3) assist the Chairman in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that such resource level is consistent with the level of priority assigned to such requirement; and
-    (4) assist acquisition officials in identifying alternatives to any acquisition program that meet joint military requirements for the purposes of section 2366a(b), section 2366b(a)(4), and section 2433(e)(2) of this title.
+    (3) assist the Chairman, in consultation with the Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance \1\N Evaluation, in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that such resource level is consistent with the level of priority assigned to such requirement;
+    (4) assist acquisition officials in identifying alternatives to any acquisition program that meet joint military requirements for the purposes of section 2366a(b), section 2366b(a)(4), and section 2433(e)(2) of this title; and
+    (5) assist the Chairman, in consultation with the commanders of the combatant commands and the Under Secretary of Defense for Acquisition, Technology, and Logistics, in establishing an objective for the overall period of time within which an initial operational capability should be delivered to meet each joint military requirement.
   (c) T4CompositionK.–(1) The Joint Requirements Oversight Council is composed of–
     (A) the Chairman of the Joint Chiefs of Staff, who is the chairman of the Council;
     (B) an Army officer in the grade of general;
@@ -14,7 +16,8 @@
     (E) a Marine Corps officer in the grade of general.
   (2) Members of the Council, other than the Chairman of the Joint Chiefs of Staff, shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for such selection by the Secretary of the military department concerned.
   (3) The functions of the Chairman of the Joint Chiefs of Staff as chairman of the Council may only be delegated to the Vice Chairman of the Joint Chiefs of Staff.
-  (d) T4AdvisorsK.–The Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the Director of the Office of Program Analysis and Evaluation shall serve as advisors to the Council on matters within their authority and expertise.
+  (d) T4AdvisorsK.–(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the Director of Cost Assessment and Program Evaluation shall serve as advisors to the Council on matters within their authority and expertise.
+  (2) The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
   (e) T4OrganizationK.–The Joint Requirements Oversight Council shall conduct periodic reviews of joint military requirements within a core mission area of the Department of Defense. In any such review of a core mission area, the officer or official assigned to lead the review shall have a deputy from a different military department.
   (f) T4Availability of Oversight Information to Congressional Defense CommitteesK.–(1) The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
   (2) In this subsection, the term ””oversight information““ means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.

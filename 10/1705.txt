@@ -1,22 +1,24 @@
-  (a) T4EstablishmentK.–The Secretary of Defense shall establish a fund to be known as the ””Department of Defense Acquisition Workforce Fund““ (in this section referred to as the ””Fund““) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
+  (a) T4EstablishmentK.–The Secretary of Defense shall establish a fund to be known as the ””Department of Defense Acquisition Workforce Development Fund““ (in this section referred to as the ””Fund““) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
   (b) T4PurposeK.–The purpose of the Fund is to ensure that the Department of Defense acquisition workforce has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate oversight of contractor performance, and ensure that the Department receives the best value for the expenditure of public resources.
   (c) T4ManagementK.–The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
   (d) T4Elements.–
     (1) T4In generalK.–The Fund shall consist of amounts as follows:
       (A) Amounts credited to the Fund under paragraph (2).
-      (B) Any other amounts appropriated to, credited to, or deposited into the Fund by law.
-    (2) T4Credits to the fundK.–(A) There shall be credited to the Fund an amount equal to the applicable percentage for a fiscal year of all amounts expended by the Department of Defense in such fiscal year for contract services, other than services relating to research and development and services relating to military construction.
-  (B) Not later than 30 days after the end of the third fiscal year quarter of fiscal year 2008, and 30 days after the end of each fiscal year quarter thereafter, the head of each military department and Defense Agency shall remit to the Secretary of Defense an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year quarter for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
-  (C) For purposes of this paragraph, the applicable percentage for a fiscal year is a percentage as follows:
-    (i) For fiscal year 2008, 0.5 percent.
-    (ii) For fiscal year 2009, 1 percent.
-    (iii) For fiscal year 2010, 1.5 percent.
-    (iv) For any fiscal year after fiscal year 2010, 2 percent.
-  (D) The Secretary of Defense may reduce a percentage established in subparagraph (C) for any fiscal year, if he determines that the application of such percentage would result in the crediting of an amount greater than is reasonably needed for the purpose of the Fund. In no event may the Secretary reduce a percentage for any fiscal year below a percentage that results in the deposit in a fiscal year of an amount equal to the following:
-    (i) For fiscal year 2008, $300,000,000.
-    (ii) For fiscal year 2009, $400,000,000.
-    (iii) For fiscal year 2010, $500,000,000.
-    (iv) For any fiscal year after fiscal year 2010, $600,000,000.
+      (B) Amounts transferred to the Fund pursuant to paragraph (3).
+      (C) Any other amounts appropriated to, credited to, or deposited into the Fund by law.
+    (2) T4Credits to the fundK.–(A) There shall be credited to the Fund an amount equal to the applicable percentage for a fiscal year of all amounts expended by the Department of Defense in such fiscal year for contract services from amounts available for contract services for operation and maintenance.
+  (B) Subject to paragraph (4), not later than 30 days after the end of the first quarter of each fiscal year, the head of each military department and Defense Agency shall remit to the Secretary of Defense, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance, an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
+  (C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund in such fiscal year of an amount as follows:
+    (i) For fiscal year 2010, $100,000,000.
+    (ii) For fiscal year 2011, $770,000,000.
+    (iii) For fiscal year 2012, $900,000,000.
+    (iv) For fiscal year 2013, $1,180,000,000.
+    (v) For fiscal year 2014, $1,330,000,000.
+    (vi) For fiscal year 2015, $1,470,000,000.
+  (D) The Secretary of Defense may reduce an amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.
+  (3) T4Transfer of certain unobligated balancesK.–To the extent provided in appropriations Acts, the Secretary of Defense may, during the 24-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
+  (4) T4Additional requirements and limitations on remittancesK.–(A) In the event amounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
+  (B) Any remittance of amounts to the Fund for a fiscal year under paragraph (2) shall be subject to the availability of appropriations for that purpose.
   (e) T4Availability of Funds.–
     (1) T4In generalK.–Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department.
     (2) T4ProhibitionK.–Amounts in the Fund may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
@@ -29,9 +31,9 @@
       (C) describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Fund in any fiscal year; and
       (D) describing measurable objectives of performance for determining whether amounts in the Fund are being used in compliance with this section.
     (4) T4Limitation on payments to or for contractorsK.–Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purpose of providing advanced training to Department of Defense employees.
-    (5) T4Prohibition on payment of base salary of current employeesK.–Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.
+    (5) T4Prohibition on payment of base salary of current employeesK.–Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008.
     (6) T4Duration of availabilityK.–Amounts credited to the Fund under subsection (d)(2) shall remain available for expenditure in the fiscal year for which credited and the two succeeding fiscal years.
-  (f) T4Annual ReportK.–Not later than 60 days after the end of each fiscal year beginning with fiscal year 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+  (f) T4Annual ReportK.–Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
     (1) A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
     (2) A description of the expenditures made from the Fund (including expenditures following a transfer of amounts in the Fund to a military department or Defense Agency) in such fiscal year, including the purpose of such expenditures.
     (3) A description and assessment of improvements in the Department of Defense acquisition workforce resulting from such expenditures.
@@ -39,7 +41,7 @@
     (5) A statement of the balance remaining in the Fund at the end of such fiscal year.
   (g) T4Acquisition Workforce DefinedK.–In this section, the term ””acquisition workforce““ means personnel in positions designated under section 1721 of this title as acquisition positions for purposes of this chapter.
   (h) T4Expedited Hiring Authority.–
-    (1) For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the Secretary of Defense may–
-      (A) designate any category of acquisition positions within the Department of Defense as shortage category positions; and
-      (B) utilize the authorities in such sections to recruit and appoint highly qualified persons directly to positions so designated.
-    (2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2012.
+    (1) For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may–
+      (A) designate any category of acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need; and
+      (B) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
+    (2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2015.

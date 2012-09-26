@@ -1,4 +1,4 @@
-  (a) The Secretary of Defense shall submit to Congress an annual manpower requirements report. The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report shall contain the Secretary“s recommendations for–
+  (a) The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report shall contain the Secretary“s recommendations for–
     (1) the annual active-duty end-strength level for each component of the armed forces for the next fiscal year; and
     (2) the annual civilian personnel end-strength level for each component of the Department of Defense for the next fiscal year.
   (b)    (1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
@@ -27,8 +27,12 @@
       (C) in the case of the Air Force, members designated as medical officers, dental officers, Air Force nurses, medical service officers, and biomedical science officers;
       (D) enlisted members engaged in or supporting medically related activities; and
       (E) such other personnel as the Secretary considers appropriate.
-         [(f) Repealed. Pub. L. 104–106, div. A, title X, § 1061(d)(4), Feb. 10, 1996, 110 Stat. 442.]
-         [(g) Redesignated (e)]
+  (f) The Secretary shall also include in each such report the following information with respect to personnel assigned to or supporting major Department of Defense headquarters activities:
+    (1) The military end strength and civilian full-time equivalents assigned to major Department of Defense headquarters activities for the preceding fiscal year and estimates of such numbers for the current fiscal year and subsequent fiscal years.
+    (2) A summary of the replacement during the preceding fiscal year of contract workyears providing support to major Department of Defense headquarters activities with military end strength or civilian full-time equivalents, including an estimate of the number of contract workyears associated with the replacement of contracts performing inherently governmental or exempt functions.
+    (3) The plan for the continued review of contract personnel supporting major Department of Defense headquarters activities for possible conversion to military or civilian performance in accordance with section 2463 of this title.
+    (4) The amount of any adjustment in the limitation on personnel made by the Secretary of Defense or the Secretary of a military department, and, for each adjustment made pursuant to section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (10 U.S.C. 143 note), the purpose of the adjustment.
+       [(g) Redesignated (e)]
   (h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
     (1) The number of military technicians required to be employed (as specified in accordance with Department of Defense procedures), the number authorized to be employed under Department of Defense personnel procedures, and the number actually employed.
     (2) Within each of the numbers under paragraph (1)–

@@ -1,10 +1,7 @@
-  (a) T4Exclusive Appellate JurisdictionK.–(1)(A) Except as provided in subparagraph (B), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of a final judgment rendered by a military commission (as approved by the convening authority) under this chapter.
-  (B) The Court of Appeals may not review the final judgment until all other appeals under this chapter have been waived or exhausted.
-  (2) A petition for review must be filed by the accused in the Court of Appeals not later than 20 days after the date on which–
-    (A) written notice of the final decision of the Court of Military Commission Review is served on the accused or on defense counsel; or
-    (B) the accused submits, in the form prescribed by section 950c of this title, a written notice waiving the right of the accused to review by the Court of Military Commission Review under section 950f of this title.
-  (b) T4Standard for ReviewK.–In a case reviewed by it under this section, the Court of Appeals may act only with respect to matters of law.
-  (c) T4Scope of ReviewK.–The jurisdiction of the Court of Appeals on an appeal under subsection (a) shall be limited to the consideration of–
-    (1) whether the final decision was consistent with the standards and procedures specified in this chapter; and
-    (2) to the extent applicable, the Constitution and the laws of the United States.
-  (d) T4Supreme CourtK.–The Supreme Court may review by writ of certiorari the final judgment of the Court of Appeals pursuant to section 1257 of title 28.
+  (a) T4Exclusive Appellate JurisdictionK.–Except as provided in subsection (b), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of a final judgment rendered by a military commission (as approved by the convening authority and, where applicable, the United States Court of Military Commission Review) under this chapter.
+  (b) T4Exhaustion of Other AppealsK.–The United States Court of Appeals for the District of Columbia Circuit may not review a final judgment described in subsection (a) until all other appeals under this chapter have been waived or exhausted.
+  (c) T4Time for Seeking ReviewK.–A petition for review by the United States Court of Appeals for the District of Columbia Circuit must be filed by the accused in the Court of Appeals not later than 20 days after the date on which–
+    (1) written notice of the final decision of the United States Court of Military Commission Review is served on the accused or on defense counsel; or
+    (2) the accused submits, in the form prescribed by section 950c of this title, a written notice waiving the right of the accused to review by the United States Court of Military Commission Review.
+  (d) T4Scope and Nature of ReviewK.–The United States Court of Appeals for the District of Columbia Circuit may act under this section only with respect to the findings and sentence as approved by the convening authority and as affirmed or set aside as incorrect in law by the United States Court of Military Commission Review, and shall take action only with respect to matters of law, including the sufficiency of the evidence to support the verdict.
+  (e) T4Review by Supreme CourtK.–The Supreme Court may review by writ of certiorari pursuant to section 1254 of title 28 the final judgment of the United States Court of Appeals for the District of Columbia Circuit under this section.

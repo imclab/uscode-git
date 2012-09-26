@@ -48,6 +48,8 @@
    Dental insurance plan: certain retirees and their surviving spouses and other dependents.
    1076d.
    TRICARE program: TRICARE Standard coverage for members of the Selected Reserve.
+   1076e.
+   TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60.
    1077.
    Medical care for dependents: authorized care in facilities of uniformed services.
    1078.
@@ -150,3 +152,5 @@
    Organ and tissue donor program.
    1110.
    Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions.
+   1110a.
+   Notification of certain individuals regarding options for enrollment under Medicare part B.

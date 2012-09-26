@@ -1,7 +1,7 @@
   (a) T4Submittal of Cost, Schedule, and Performance InformationK.–The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits to Congress the budget for a fiscal year under section 1105 of title 31, budget justification documents regarding cost, schedule, and performance for each major automated information system program and each other major information technology investment program for which funds are requested by the President in the budget.
   (b) T4Elements Regarding Major Automated Information System ProgramsK.–The documents submitted under subsection (a) with respect to a major automated information system program shall include detailed and summarized information with respect to the automated information system to be acquired under the program, and shall specifically include each of the following:
     (1) The development schedule, including major milestones.
-    (2) The implementation schedule, including estimates of milestone dates, initial operational capability, and full operational capability.
+    (2) The implementation schedule, including estimates of milestone dates, full deployment decision, and full deployment.
     (3) Estimates of development costs and full life-cycle costs.
     (4) A summary of key performance parameters.
   (c) T4BaselineK.–(1) For purposes of this chapter, the initial submittal to Congress of the documents required by subsection (a) with respect to a major automated information system program shall constitute the original estimate or information originally submitted on such program for purposes of the reports and determinations on program changes in section 2445c of this title.
