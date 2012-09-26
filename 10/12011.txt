@@ -1,0 +1,6 @@
+  (a) The number of reserve officers of the Army, Air Force, and Marine Corps who may be on active duty or full-time National Guard duty in each of the grades of major, lieutenant colonel, and colonel, and of the Navy who may be on active duty in each of the grades of lieutenant commander, commander, and captain, as of the end of any fiscal year for duty described in subclauses (B) and (C) of section 523(b)(1) of this title or full-time National Guard duty (other than for training) under section 502(f) of title 32 may not exceed the number for that grade and armed force in the following table:
+      h1Gradeh1Armyh1Navyh1Air Forceh1Marine Corpsj
+     Major or Lieutenant CommanderD3,219D1,071D575D110
+     Lieutenant Colonel or CommanderD1,524D520D636D75
+     Colonel or Navy CaptainD372D188D274D25
+  (b) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
