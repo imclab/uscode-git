@@ -1,13 +1,11 @@
   (a)    (1) For the purpose of this section–
       (A) the term ””agency““ means an agency under subparagraph (A), (B), (C), (D), or (E) of section 4101(1) of this title; and
       (B) the term ””student loan““ means–
-        (i) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965;
-        (ii) a loan made under part E of title IV of the Higher Education Act of 1965; and
-        (iii) a health education assistance loan made or insured under part C \1\N of title VII of Public Health Service Act or under part B of title VIII of such Act.
-    (2) An employee shall be ineligible for benefits under this section if such employee occupies a position which–
-      (A) is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
-      (B) is not subject to subchapter III of this chapter.
-  (b)    (1) The head of an agency may, in order to recruit or retain highly qualified professional, technical, or administrative personnel, establish a program under which the agency may agree to repay (by direct payments on behalf of the employee) any student loan previously taken out by such employee.
+        (i) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.);
+        (ii) a loan made under part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.); and
+        (iii) a health education assistance loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.).
+    (2) An employee shall be ineligible for benefits under this section if the employee occupies a position that is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character.
+  (b)    (1) The head of an agency may, in order to recruit or retain highly qualified personnel, establish a program under which the agency may agree to repay (by direct payments on behalf of the employee) any student loan previously taken out by such employee.
     (2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency and employee concerned, except that the amount paid by an agency under this section may not exceed–
       (A) $6,000 for any employee in any calendar year; or
       (B) a total of $40,000 in the case of any employee.
@@ -27,3 +25,8 @@
   (e) In selecting employees to receive benefits under this section, an agency shall, consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of this title, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
   (f) Any benefit under this section shall be in addition to basic pay and any other form of compensation otherwise payable to the employee involved.
   (g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agencies and any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary to provide for reasonable uniformity among programs under this section.
+  (h)    (1) Each head of an agency shall maintain, and annually submit to the Director of the Office of Personnel Management, information with respect to the agency on–
+      (A) the number of Federal employees selected to receive benefits under this section;
+      (B) the job classifications for the recipients; and
+      (C) the cost to the Federal Government of providing the benefits.
+    (2) The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.

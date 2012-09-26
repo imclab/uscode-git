@@ -7,25 +7,22 @@
        Employee D7 DJanuary 1, 1987, to December 31, 1998.
          D7.25 DJanuary 1, 1999, to December 31, 1999.
          D7.4 DJanuary 1, 2000, to December 31, 2000.
-         D7.5 DJanuary 1, 2001, to December 31, 2002.
-         D7 DAfter December 31, 2002.
+         D7 DAfter December 31, 2000.
        Congressional employee D7.5 DJanuary 1, 1987, to December 31, 1998.
          D7.75 DJanuary 1, 1999, to December 31, 1999.
          D7.9 DJanuary 1, 2000, to December 31, 2000.
-         D8 DJanuary 1, 2001, to December 31, 2002.
-         D7.5 DAfter December 31, 2002.
+         D7.5 DAfter December 31, 2000.
        Member D7.5 DJanuary 1, 1987, to December 31, 1998.
          D7.75 DJanuary 1, 1999, to December 31, 1999.
          D7.9 DJanuary 1, 2000, to December 31, 2000.
          D8 DJanuary 1, 2001, to December 31, 2002.
          D7.5 DAfter December 31, 2002.
-       Law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller D7.5
-       Nuclear materials courier D7 DJanuary 1, 1987 to October 16, 1998.
-         D7.5 DOctober 17, 1998 to December 31, 1998.
-         D7.75 DJanuary 1, 1999 to December 31, 1999.
-         D7.9 DJanuary 1, 2000 to December 31, 2000.
-         D8 DJanuary 1, 2001 to December 31, 2001.
-         D7.5 DAfter December 31, 2002.
+       Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller D7.5
+       Nuclear materials courier D7 DJanuary 1, 1987, to October 16, 1998.
+         D7.5 DOctober 17, 1998, to December 31, 1998.
+         D7.75 DJanuary 1, 1999, to December 31, 1999.
+         D7.9 DJanuary 1, 2000, to December 31, 2000.
+         D7.5 DAfter December 31, 2000.
   (b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
   (c) The amounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe.
   (d) Under such regulations as the Office may prescribe, amounts deducted under subsection (a) shall be entered on individual retirement records.
@@ -39,9 +36,8 @@
     (4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
     (5) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
     (6) The percentage of basic pay under section 204 of title 37 payable under paragraph (1), with respect to any period of military service performed during–
-      (A) January 1, 1999, through December 31, 1999, shall be 3.25 percent;
-      (B) January 1, 2000, through December 31, 2000, shall be 3.4 percent; and
-      (C) January 1, 2001, through December 31, 2002, shall be 3.5 percent.
+      (A) January 1, 1999, through December 31, 1999, shall be 3.25 percent; and
+      (B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
   (f)    (1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year“s duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
     (2) Any deposit made under paragraph (1) more than 2 years after the later of–
       (A) October 1, 1993, or
@@ -49,7 +45,6 @@
          shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the 2-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
     (3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
     (4) The percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1), with respect to any period of volunteer service performed during–
-      (A) January 1, 1999, through December 31, 1999, shall be 3.25 percent;
-      (B) January 1, 2000, through December 31, 2000, shall be 3.4 percent; and
-      (C) January 1, 2001, through December 31, 2002, shall be 3.5 percent.
+      (A) January 1, 1999, through December 31, 1999, shall be 3.25 percent; and
+      (B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
   (g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
