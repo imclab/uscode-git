@@ -1,9 +1,9 @@
-  (a) T4Beyond-Perimeter ExemptionsK.–The Secretary shall grant, by order, 12 exemptions from the application of sections 49104(a)(5), 49109, 49111(e), and 41714 of this title to air carriers to operate limited frequencies and aircraft on select routes between Ronald Reagan Washington National Airport and domestic hub airports and exemptions from the requirements of subparts K and S of part 93, Code of Federal Regulations, if the Secretary finds that the exemptions will–
+  (a) T4Beyond-Perimeter ExemptionsK.–The Secretary shall grant, by order, 24 exemptions from the application of sections 49104(a)(5), 49109, 49111(e), and 41714 of this title to air carriers to operate limited frequencies and aircraft on select routes between Ronald Reagan Washington National Airport and domestic hub airports and exemptions from the requirements of subparts K and S of part 93, Code of Federal Regulations, if the Secretary finds that the exemptions will–
     (1) provide air transportation with domestic network benefits in areas beyond the perimeter described in that section;
     (2) increase competition by new entrant air carriers or in multiple markets;
     (3) not reduce travel options for communities served by small hub airports and medium hub airports within the perimeter described in section 49109; and
     (4) not result in meaningfully increased travel delays.
-  (b) T4Within-Perimeter ExemptionsK.–The Secretary shall grant, by order, 12 exemptions from the requirements of sections 49104(a)(5), 49111(e), and 41714 of this title and subparts K and S of part 93 of title 14, Code of Federal Regulations, to air carriers for providing air transportation to airports that were designated as medium hub or smaller airports within the perimeter established for civil aircraft operations at Ronald Reagan Washington National Airport under section 49109. The Secretary shall develop criteria for distributing slot exemptions for flights within the perimeter to such airports under this paragraph in a manner that promotes air transportation–
+  (b) T4Within-Perimeter ExemptionsK.–The Secretary shall grant, by order, 20 exemptions from the requirements of sections 49104(a)(5), 49111(e), and 41714 of this title and subparts K and S of part 93 of title 14, Code of Federal Regulations, to air carriers for providing air transportation to airports within the perimeter established for civil aircraft operations at Ronald Reagan Washington National Airport under section 49109. The Secretary shall develop criteria for distributing slot exemptions for flights within the perimeter to such airports under this paragraph in a manner that promotes air transportation–
     (1) by new entrant air carriers and limited incumbent air carriers;
     (2) to communities without existing nonstop air transportation to Ronald Reagan Washington National Airport;
     (3) to small communities;
@@ -11,13 +11,12 @@
     (5) that will produce the maximum competitive benefits, including low fares.
   (c) T4Limitations.–
     (1) T4Stage 3 aircraft requiredK.–An exemption may not be granted under this section with respect to any aircraft that is not a Stage 3 aircraft (as defined by the Secretary).
-    (2) T4General exemptionsK.–The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than two operations.
+    (2) T4General exemptionsK.–The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.
     (3) T4Allocation of within-perimeter exemptionsK.–Of the exemptions granted under subsection (b)–
-      (A) four shall be for air transportation to small hub airports and nonhub airports; and
-      (B) eight shall be for air transportation to medium hub and smaller airports.
+      (A) without regard to the criteria contained in subsection (b)(1), six shall be for air transportation to small hub airports and nonhub airports;
+      (B) ten shall be for air transportation to medium hub and smaller airports; and
+      (C) four shall be for air transportation to airports without regard to their size.
     (4) T4Applicability to exemption no. 5133K.–Nothing in this section affects Exemption No. 5133, as from time-to-time amended and extended.
-  (d) T4Application Process.–
-    (1) T4Deadline for submissionK.–All requests for exemptions under this section must be submitted to the Secretary not later than the 30th day following the date of the enactment of this subsection.
-    (2) T4Deadline for commentsK.–All comments with respect to any request for an exemption under this section must be submitted to the Secretary not later than the 45th day following the date of the enactment of this subsection.
-    (3) T4Deadline for final decisionK.–Not later than the 90th day following the date of the enactment of this Act, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).
+  (d) T4Application ProceduresK.–The Secretary shall establish procedures to ensure that all requests for exemptions under this section are granted or denied within 90 days after the date on which the request is made.
   (e) T4Applicability of Certain LawsK.–Neither the request for, nor the granting of an exemption, under this section shall be considered for purposes of any Federal law a major Federal action significantly affecting the quality of the human environment.
+  (f) T4Commuters DefinedK.–For purposes of aircraft operations at Ronald Reagan Washington National Airport under subpart K of part 93 of title 14, Code of Federal Regulations, the term ””commuters““ means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.

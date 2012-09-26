@@ -11,14 +11,12 @@
   (8) T4Line of creditK.–The term ””line of credit““ means an agreement entered into by the Secretary with an obligor under section 41763(d) to provide a direct loan at a future date upon the occurrence of certain events.
   (9) T4Loan guaranteeK.–The term ””loan guarantee““ means any guarantee or other pledge by the Secretary under section 41763(c) to pay all or part of any of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
   (10) T4New entrant air carrierK.–The term ””new entrant air carrier““ means an air carrier that has been providing air transportation according to a published schedule for less than 5 years, including any person that has received authority from the Secretary to provide air transportation but is not providing air transportation.
-  (11) T4Nonhub airportK.–The term ””nonhub airport““ means an airport that each year has less than .05 percent of the total annual boardings in the United States.
-  (12) T4ObligorK.–The term ””obligor““ means a party primarily liable for payment of the principal of or interest on a Federal credit instrument, which party may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
-  (13) T4Regional jet aircraftK.–The term ””regional jet aircraft““ means a civil aircraft–
+  (11) T4ObligorK.–The term ””obligor““ means a party primarily liable for payment of the principal of or interest on a Federal credit instrument, which party may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
+  (12) T4Regional jet aircraftK.–The term ””regional jet aircraft““ means a civil aircraft–
     (A) powered by jet propulsion; and
     (B) designed to have a maximum passenger seating capacity of not less than 30 nor more than 75.
-  (14) T4Secured loanK.–The term ””secured loan““ means a direct loan funded by the Secretary in connection with the financing of an aircraft purchase under section 41763(b).
-  (15) T4Small hub airportK.–The term ””small hub airport““ means an airport that each year has at least .05 percent, but less than .25 percent, of the total annual boardings in the United States.
-  (16) T4Underserved marketK.–The term ””underserved market““ means a passenger air transportation market (as defined by the Secretary) that–
+  (13) T4Secured loanK.–The term ””secured loan““ means a direct loan funded by the Secretary in connection with the financing of an aircraft purchase under section 41763(b).
+  (14) T4Underserved marketK.–The term ””underserved market““ means a passenger air transportation market (as defined by the Secretary) that–
     (A) is served (as determined by the Secretary) by a nonhub airport or a small hub airport;
     (B) is not within a 40-mile radius of an airport that each year has at least .25 percent of the total annual boardings in the United States; and
     (C) the Secretary determines does not have sufficient air service.

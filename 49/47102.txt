@@ -24,7 +24,7 @@
       (vii) windshear detection equipment that is certified by the Administrator of the Federal Aviation Administration;
       (viii) stainless steel adjustable lighting extensions approved by the Administrator;
       (ix) engineered materials arresting systems as described in the Advisory Circular No. 150/5220–22 published by the Federal Aviation Administration on August 21, 1998, including any revision to the circular; and
-      (x) replacement of baggage conveyor systems, and reconfiguration of terminal baggage areas, that the Secretary determines are necessary to install bulk explosive detection devices.
+      (x) replacement of baggage conveyor systems, and reconfiguration of terminal baggage areas, that the Secretary determines are necessary to install bulk explosive detection devices; except that such activities shall be eligible for funding under this subchapter only using amounts apportioned under section 47114.
     (C) acquiring an interest in land or airspace, including land for future airport development, that is needed–
       (i) to carry out airport development described in subclause (A) or (B) of this clause; or
       (ii) to remove or mitigate an existing airport hazard or prevent or limit the creation of a new airport hazard.
@@ -32,14 +32,14 @@
     (E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approved by the Secretary under this subchapter or under section 40117.
     (F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
     (G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
-    (H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
+    (H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
     (I) constructing, reconstructing, or improving an airport, or purchasing nonrevenue generating capital equipment to be owned by an airport, for the purpose of transferring passengers, cargo, or baggage between the aeronautical and ground transportation modes on airport property.
-    (J) in fiscal year 2002, any additional security related activity required by law or by the Secretary after September 11, 2001, and before October 1, 2002.
-    (K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity was carried out when any restriction in the Notice is in effect.
-    (L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness.
+    (J) constructing an air traffic control tower or acquiring and installing air traffic control, communications, and related equipment at an air traffic control tower under the terms specified in section 47124(b)(4).
+    (K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
+    (L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
   (4) ””airport hazard““ means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
   (5) ””airport planning““ means planning as defined by regulations the Secretary prescribes and includes integrated airport system planning.
-  (6) ””amount made available under section 48103 of this title““ means the amount authorized for grants under section 48103 of this title as reduced by any law enacted after September 3, 1982.
+  (6) ””amount made available under section 48103““ or ””amount newly made available““ means the amount authorized for grants under section 48103 as that amount may be limited in that year by a subsequent law, but as determined without regard to grant obligation recoveries made in that year or amounts covered by section 47107(f).
   (7) ””commercial service airport““ means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
   (8) ””integrated airport system planning““ means developing for planning purposes information and guidance to decide the extent, kind, location, and timing of airport development needed in a specific area to establish a viable, balanced, and integrated system of public-use airports, including–
     (A) identifying system needs;
@@ -47,27 +47,32 @@
     (C) conducting studies, surveys, and other planning actions, including those related to airport access, needed to decide which aeronautical needs should be met by a system of airports; and
     (D) standards prescribed by a State, except standards for safety of approaches, for airport development at nonprimary public-use airports.
   (9) ””landed weight““ means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
-  (10) ””passenger boardings““–
-    (A) means revenue passenger boardings on an aircraft in service in air commerce as the Secretary determines under regulations the Secretary prescribes; and
+  (10) ””large hub airport““ means a commercial service airport that has at least 1.0 percent of the passenger boardings.
+  (11) ””low-emission technology““ means technology for vehicles and equipment whose emission performance is the best achievable under emission standards established by the Environmental Protection Agency and that relies exclusively on alternative fuels that are substantially nonpetroleum based, as defined by the Department of Energy, but not excluding hybrid systems or natural gas powered vehicles.
+  (12) ””medium hub airport““ means a commercial service airport that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
+  (13) ””nonhub airport““ means a commercial service airport that has less than 0.05 percent of the passenger boardings.
+  (14) ””passenger boardings““–
+    (A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
     (B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
-  (11) ””primary airport““ means a commercial service airport the Secretary determines to have more than 10,000 passenger boardings each year.
-  (12) ””project““ means a project, separate projects included in one project grant application, or all projects to be undertaken at an airport in a fiscal year, to achieve airport development or airport planning.
-  (13) ””project cost““ means a cost involved in carrying out a project.
-  (14) ””project grant““ means a grant of money the Secretary makes to a sponsor to carry out at least one project.
-  (15) ””public agency““ means–
+  (15) ””primary airport““ means a commercial service airport the Secretary determines to have more than 10,000 passenger boardings each year.
+  (16) ””project““ means a project, separate projects included in one project grant application, or all projects to be undertaken at an airport in a fiscal year, to achieve airport development or airport planning.
+  (17) ””project cost““ means a cost involved in carrying out a project.
+  (18) ””project grant““ means a grant of money the Secretary makes to a sponsor to carry out at least one project.
+  (19) ””public agency““ means–
     (A) a State or political subdivision of a State;
     (B) a tax-supported organization; or
     (C) an Indian tribe or pueblo.
-  (16) ””public airport““ means an airport used or intended to be used for public purposes–
+  (20) ””public airport““ means an airport used or intended to be used for public purposes–
     (A) that is under the control of a public agency; and
     (B) of which the area used or intended to be used for the landing, taking off, or surface maneuvering of aircraft is publicly owned.
-  (17) ””public-use airport““ means–
+  (21) ””public-use airport““ means–
     (A) a public airport; or
     (B) a privately-owned airport used or intended to be used for public purposes that is–
       (i) a reliever airport; or
       (ii) determined by the Secretary to have at least 2,500 passenger boardings each year and to receive scheduled passenger aircraft service.
-  (18) ””reliever airport““ means an airport the Secretary designates to relieve congestion at a commercial service airport and to provide more general aviation access to the overall community.
-  (19) ””sponsor““ means–
+  (22) ””reliever airport““ means an airport the Secretary designates to relieve congestion at a commercial service airport and to provide more general aviation access to the overall community.
+  (23) ””small hub airport““ means a commercial service airport that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
+  (24) ””sponsor““ means–
     (A) a public agency that submits to the Secretary under this subchapter an application for financial assistance; and
     (B) a private owner of a public-use airport that submits to the Secretary under this subchapter an application for financial assistance for the airport.
-  (20) ””State““ means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
+  (25) ””State““ means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.

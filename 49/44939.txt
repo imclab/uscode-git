@@ -1,6 +1,17 @@
-  (a) T4Waiting PeriodK.–A person subject to regulation under this part may provide training in the operation of any aircraft having a maximum certificated takeoff weight of 12,500 pounds or more to an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))) or to any other individual specified by the Under Secretary of Transportation for Security only if–
-    (1) that person has first notified the Attorney General that the individual has requested such training and furnished the Attorney General with that individual“s identification in such form as the Attorney General may require; and
-    (2) the Attorney General has not directed, within 45 days after being notified under paragraph (1), that person not to provide the requested training because the Attorney General has determined that the individual presents a risk to aviation or national security.
-  (b) T4Interruption of TrainingK.–If the Attorney General, more than 45 days after receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Attorney General shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
-  (c) T4Covered TrainingK.–For the purposes of subsection (a), training includes in-flight training, training in a simulator, and any other form or aspect of training.
-  (d) T4Security Awareness Training for EmployeesK.–The Under Secretary shall require flight schools to conduct a security awareness program for flight school employees to increase their awareness of suspicious circumstances and activities of individuals enrolling in or attending flight school.
+  (a) T4Transportation SecurityK.–Not later than March 31 of each year, the Secretary of Transportation shall submit to Congress a report on transportation security with recommendations the Secretary considers appropriate. The report shall be prepared in conjunction with the biennial report the Under Secretary of Transportation for Security submits under subsection (b) of this section in each year the Under Secretary submits the biennial report, but may not duplicate the information submitted under subsection (b) or section 44907(a)(3) of this title. The Secretary may submit the report in classified and unclassified parts. The report shall include–
+    (1) an assessment of trends and developments in terrorist activities, methods, and other threats to transportation;
+    (2) an evaluation of deployment of explosive detection devices;
+    (3) recommendations for research, engineering, and development activities related to transportation security, except research engineering and development activities related to aviation security to the extent those activities are covered by the national aviation research plan required under section 44501(c) of this title;
+    (4) identification and evaluation of cooperative efforts with other departments, agencies, and instrumentalities of the United States Government;
+    (5) an evaluation of cooperation with foreign transportation and security authorities;
+    (6) the status of the extent to which the recommendations of the President“s Commission on Aviation Security and Terrorism have been carried out and the reasons for any delay in carrying out those recommendations;
+    (7) a summary of the activities of the Director of Intelligence and Security in the 12-month period ending on the date of the report;
+    (8) financial and staffing requirements of the Director;
+    (9) an assessment of financial and staffing requirements, and attainment of existing staffing goals, for carrying out duties and powers of the Under Secretary related to security; and
+    (10) appropriate legislative and regulatory recommendations.
+  (b) T4Screening and Foreign Air Carrier and Airport SecurityK.–The Under Secretary shall submit biennially to Congress a report–
+    (1) on the effectiveness of procedures under section 44901 of this title;
+    (2) that includes a summary of the assessments conducted under section 44907(a)(1) and (2) of this title; and
+    (3) that includes an assessment of the steps being taken, and the progress being made, in ensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States–
+      (A) at which the Under Secretary decides that Foreign Security Liaison Officers are necessary for air transportation security; and
+      (B) for which extraordinary security measures are in place.

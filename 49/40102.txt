@@ -23,7 +23,7 @@
     (15) ””citizen of the United States““ means–
       (A) an individual who is a citizen of the United States;
       (B) a partnership each of whose partners is an individual who is a citizen of the United States; or
-      (C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+      (C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
     (16) ””civil aircraft““ means an aircraft except a public aircraft.
     (17) ””civil aircraft of the United States““ means an aircraft registered under chapter 441 of this title.
     (18) ””conditional sales contract““ means a contract–
@@ -56,29 +56,36 @@
     (26) ””intrastate air carrier““ means a citizen of the United States undertaking by any means to provide only intrastate air transportation.
     (27) ””intrastate air transportation““ means the transportation by a common carrier of passengers or property for compensation, entirely in the same State, by turbojet-powered aircraft capable of carrying at least 30 passengers.
     (28) ””landing area““ means a place on land or water, including an airport or intermediate landing field, used, or intended to be used, for the takeoff and landing of aircraft, even when facilities are not provided for sheltering, servicing, or repairing aircraft, or for receiving or discharging passengers or cargo.
-    (29) ””mail““ means United States mail and foreign transit mail.
-    (30) ””navigable airspace““ means airspace above the minimum altitudes of flight prescribed by regulations under this subpart and subpart III of this part, including airspace needed to ensure safety in the takeoff and landing of aircraft.
-    (31) ””navigate aircraft““ and ””navigation of aircraft““ include piloting aircraft.
-    (32) ””operate aircraft““ and ””operation of aircraft““ mean using aircraft for the purposes of air navigation, including–
+    (29) ””large hub airport““ means a commercial service airport (as defined in section 47102) that has at least 1.0 percent of the passenger boardings.
+    (30) ””mail““ means United States mail and foreign transit mail.
+    (31) ””medium hub airport““ means a commercial service airport (as defined in section 47102) that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
+    (32) ””navigable airspace““ means airspace above the minimum altitudes of flight prescribed by regulations under this subpart and subpart III of this part, including airspace needed to ensure safety in the takeoff and landing of aircraft.
+    (33) ””navigate aircraft““ and ””navigation of aircraft““ include piloting aircraft.
+    (34) ””nonhub airport““ means a commercial service airport (as defined in section 47102) that has less than 0.05 percent of the passenger boardings.
+    (35) ””operate aircraft““ and ””operation of aircraft““ mean using aircraft for the purposes of air navigation, including–
       (A) the navigation of aircraft; and
       (B) causing or authorizing the operation of aircraft with or without the right of legal control of the aircraft.
-    (33) ””person““, in addition to its meaning under section 1 of title 1, includes a governmental authority and a trustee, receiver, assignee, and other similar representative.
-    (34) ””predatory““ means a practice that violates the antitrust laws as defined in the first section of the Clayton Act (15 U.S.C. 12).
-    (35) ””price““ means a rate, fare, or charge.
-    (36) ””propeller““ includes a part, appurtenance, and accessory of a propeller.
-    (37) ””public aircraft““ means any of the following:
+    (36) ””passenger boardings““–
+      (A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
+      (B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
+    (37) ””person““, in addition to its meaning under section 1 of title 1, includes a governmental authority and a trustee, receiver, assignee, and other similar representative.
+    (38) ””predatory““ means a practice that violates the antitrust laws as defined in the first section of the Clayton Act (15 U.S.C. 12).
+    (39) ””price““ means a rate, fare, or charge.
+    (40) ””propeller““ includes a part, appurtenance, and accessory of a propeller.
+    (41) ””public aircraft““ means any of the following:
       (A) Except with respect to an aircraft described in subparagraph (E), an aircraft used only for the United States Government, except as provided in section 40125(b).
       (B) An aircraft owned by the Government and operated by any person for purposes related to crew training, equipment development, or demonstration, except as provided in section 40125(b).
       (C) An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
       (D) An aircraft exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
       (E) An aircraft owned or operated by the armed forces or chartered to provide transportation to the armed forces under the conditions specified by section 40125(c).
-    (38) ””spare part““ means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
-    (39) ””State authority““ means an authority of a State designated under State law–
+    (42) ””small hub airport““ means a commercial service airport (as defined in section 47102) that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
+    (43) ””spare part““ means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
+    (44) ””State authority““ means an authority of a State designated under State law–
       (A) to receive notice required to be given a State authority under subpart II of this part; or
       (B) as the representative of the State before the Secretary of Transportation in any matter about which the Secretary is required to consult with or consider the views of a State authority under subpart II of this part.
-    (40) ””ticket agent““ means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
-    (41) ””United States““ means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
-    (42) ””air traffic control system““ means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including–
+    (45) ””ticket agent““ means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
+    (46) ””United States““ means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
+    (47) ””air traffic control system““ means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including–
       (A) allocated electromagnetic spectrum and physical, real, personal, and intellectual property assets making up facilities, equipment, and systems employed to detect, track, and guide aircraft movement;
       (B) laws, regulations, orders, directives, agreements, and licenses;
       (C) published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation; and
