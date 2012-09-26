@@ -1,21 +1,113 @@
-  (a) Office
-     The Administrator shall continue the Chesapeake Bay Program and shall establish and maintain in the Environmental Protection Agency an office, division, or branch of Chesapeake Bay Programs to–
-    (1) collect and make available, through publications and other appropriate means, information pertaining to the environmental quality of the Chesapeake Bay (hereinafter in this subsection referred to as the ””Bay““);
-    (2) coordinate Federal and State efforts to improve the water quality of the Bay;
-    (3) determine the impact of sediment deposition in the Bay and identify the sources, rates, routes, and distribution patterns of such sediment deposition; and
-    (4) determine the impact of natural and man-induced environmental changes on the living resources of the Bay and the relationships among such changes, with particular emphasis placed on the impact of pollutant loadings of nutrients, chlorine, acid precipitation, dissolved oxygen, and toxic pollutants, including organic chemicals and heavy metals, and with special attention given to the impact of such changes on striped bass.
-  (b) Interstate development plan grants
-    (1) Authority
-       The Administrator shall, at the request of the Governor of a State affected by the interstate management plan developed pursuant to the Chesapeake Bay Program (hereinafter in this section referred to as the ””plan““), make a grant for the purpose of implementing the management mechanisms contained in the plan if such State has, within 1 year after February 4, 1987, approved and committed to implement all or substantially all aspects of the plan. Such grants shall be made subject to such terms and conditions as the Administrator considers appropriate.
-    (2) Submission of proposal
-       A State or combination of States may elect to avail itself of the benefits of this subsection by submitting to the Administrator a comprehensive proposal to implement management mechanisms contained in the plan which shall include (A) a description of proposed abatement actions which the State or combination of States commits to take within a specified time period to reduce pollution in the Bay and to meet applicable water quality standards, and (B) the estimated cost of the abatement actions proposed to be taken during the next fiscal year. If the Administrator finds that such proposal is consistent with the national policies set forth in section 1251(a) of this title and will contribute to the achievement of the national goals set forth in such section, the Administrator shall approve such proposal and shall finance the costs of implementing segments of such proposal.
-    (3) Federal share
-       Grants under this subsection shall not exceed 50 percent of the costs of implementing the management mechanisms contained in the plan in any fiscal year and shall be made on condition that non-Federal sources provide the remainder of the cost of implementing the management mechanisms contained in the plan during such fiscal year.
+  (a) Definitions
+     In this section, the following definitions apply:
+    (1) Administrative cost
+       The term ””administrative cost““ means the cost of salaries and fringe benefits incurred in administering a grant under this section.
+    (2) Chesapeake Bay Agreement
+       The term ””Chesapeake Bay Agreement““ means the formal, voluntary agreements executed to achieve the goal of restoring and protecting the Chesapeake Bay ecosystem and the living resources of the Chesapeake Bay ecosystem and signed by the Chesapeake Executive Council.
+    (3) Chesapeake Bay ecosystem
+       The term ””Chesapeake Bay ecosystem““ means the ecosystem of the Chesapeake Bay and its watershed.
+    (4) Chesapeake Bay Program
+       The term ””Chesapeake Bay Program““ means the program directed by the Chesapeake Executive Council in accordance with the Chesapeake Bay Agreement.
+    (5) Chesapeake Executive Council
+       The term ””Chesapeake Executive Council““ means the signatories to the Chesapeake Bay Agreement.
+    (6) Signatory jurisdiction
+       The term ””signatory jurisdiction““ means a jurisdiction of a signatory to the Chesapeake Bay Agreement.
+  (b) Continuation of Chesapeake Bay Program
+    (1) In general
+       In cooperation with the Chesapeake Executive Council (and as a member of the Council), the Administrator shall continue the Chesapeake Bay Program.
+    (2) Program Office
+      (A) In general
+         The Administrator shall maintain in the Environmental Protection Agency a Chesapeake Bay Program Office.
+      (B) Function
+         The Chesapeake Bay Program Office shall provide support to the Chesapeake Executive Council by–
+        (i) implementing and coordinating science, research, modeling, support services, monitoring, data collection, and other activities that support the Chesapeake Bay Program;
+        (ii) developing and making available, through publications, technical assistance, and other appropriate means, information pertaining to the environmental quality and living resources of the Chesapeake Bay ecosystem;
+        (iii) in cooperation with appropriate Federal, State, and local authorities, assisting the signatories to the Chesapeake Bay Agreement in developing and implementing specific action plans to carry out the responsibilities of the signatories to the Chesapeake Bay Agreement;
+        (iv) coordinating the actions of the Environmental Protection Agency with the actions of the appropriate officials of other Federal agencies and State and local authorities in developing strategies to–
+          (I) improve the water quality and living resources in the Chesapeake Bay ecosystem; and
+          (II) obtain the support of the appropriate officials of the agencies and authorities in achieving the objectives of the Chesapeake Bay Agreement; and
+        (v) implementing outreach programs for public information, education, and participation to foster stewardship of the resources of the Chesapeake Bay.
+  (c) Interagency agreements
+     The Administrator may enter into an interagency agreement with a Federal agency to carry out this section.
+  (d) Technical assistance and assistance grants
+    (1) In general
+       In cooperation with the Chesapeake Executive Council, the Administrator may provide technical assistance, and assistance grants, to nonprofit organizations, State and local governments, colleges, universities, and interstate agencies to carry out this section, subject to such terms and conditions as the Administrator considers appropriate.
+    (2) Federal share
+      (A) In general
+         Except as provided in subparagraph (B), the Federal share of an assistance grant provided under paragraph (1) shall be determined by the Administrator in accordance with guidance issued by the Administrator.
+      (B) Small watershed grants program
+         The Federal share of an assistance grant provided under paragraph (1) to carry out an implementing activity under subsection (g)(2) of this section shall not exceed 75 percent of eligible project costs, as determined by the Administrator.
+    (3) Non-Federal share
+       An assistance grant under paragraph (1) shall be provided on the condition that non-Federal sources provide the remainder of eligible project costs, as determined by the Administrator.
     (4) Administrative costs
-       Administrative costs in the form of salaries, overhead, or indirect costs for services provided and charged against programs or projects supported by funds made available under this subsection shall not exceed in any one fiscal year 10 percent of the annual Federal grant made to a State under this subsection.
-  (c) Reports
-     Any State or combination of States that receives a grant under subsection (b) of this section shall, within 18 months after the date of receipt of such grant and biennially thereafter, report to the Administrator on the progress made in implementing the interstate management plan developed pursuant to the Chesapeake Bay Program. The Administrator shall transmit each such report along with the comments of the Administrator on such report to Congress.
-  (d) Authorization of appropriations
-     There are hereby authorized to be appropriated the following sums, to remain available until expended, to carry out the purposes of this section:
-    (1) $3,000,000 per fiscal year for each of the fiscal years 1987, 1988, 1989, and 1990, to carry out subsection (a) of this section; and
-    (2) $10,000,000 per fiscal year for each of the fiscal years 1987, 1988, 1989, and 1990, for grants to States under subsection (b) of this section.
+       Administrative costs shall not exceed 10 percent of the annual grant award.
+  (e) Implementation and monitoring grants
+    (1) In general
+       If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator–
+      (A) shall make a grant to the jurisdiction for the purpose of implementing the management mechanisms established under the Chesapeake Bay Agreement, subject to such terms and conditions as the Administrator considers appropriate; and
+      (B) may make a grant to a signatory jurisdiction for the purpose of monitoring the Chesapeake Bay ecosystem.
+    (2) Proposals
+      (A) In general
+         A signatory jurisdiction described in paragraph (1) may apply for a grant under this subsection for a fiscal year by submitting to the Administrator a comprehensive proposal to implement management mechanisms established under the Chesapeake Bay Agreement.
+      (B) Contents
+         A proposal under subparagraph (A) shall include–
+        (i) a description of proposed management mechanisms that the jurisdiction commits to take within a specified time period, such as reducing or preventing pollution in the Chesapeake Bay and its watershed or meeting applicable water quality standards or established goals and objectives under the Chesapeake Bay Agreement; and
+        (ii) the estimated cost of the actions proposed to be taken during the fiscal year.
+    (3) Approval
+       If the Administrator finds that the proposal is consistent with the Chesapeake Bay Agreement and the national goals established under section 1251(a) of this title, the Administrator may approve the proposal for an award.
+    (4) Federal share
+       The Federal share of a grant under this subsection shall not exceed 50 percent of the cost of implementing the management mechanisms during the fiscal year.
+    (5) Non-Federal share
+       A grant under this subsection shall be made on the condition that non-Federal sources provide the remainder of the costs of implementing the management mechanisms during the fiscal year.
+    (6) Administrative costs
+       Administrative costs shall not exceed 10 percent of the annual grant award.
+    (7) Reporting
+       On or before October 1 of each fiscal year, the Administrator shall make available to the public a document that lists and describes, in the greatest practicable degree of detail–
+      (A) all projects and activities funded for the fiscal year;
+      (B) the goals and objectives of projects funded for the previous fiscal year; and
+      (C) the net benefits of projects funded for previous fiscal years.
+  (f) Federal facilities and budget coordination
+    (1) Subwatershed planning and restoration
+       A Federal agency that owns or operates a facility (as defined by the Administrator) within the Chesapeake Bay watershed shall participate in regional and subwatershed planning and restoration programs.
+    (2) Compliance with agreement
+       The head of each Federal agency that owns or occupies real property in the Chesapeake Bay watershed shall ensure that the property, and actions taken by the agency with respect to the property, comply with the Chesapeake Bay Agreement, the Federal Agencies Chesapeake Ecosystem Unified Plan, and any subsequent agreements and plans.
+    (3) Budget coordination
+      (A) In general
+         As part of the annual budget submission of each Federal agency with projects or grants related to restoration, planning, monitoring, or scientific investigation of the Chesapeake Bay ecosystem, the head of the agency shall submit to the President a report that describes plans for the expenditure of the funds under this section.
+      (B) Disclosure to the Council
+         The head of each agency referred to in subparagraph (A) shall disclose the report under that subparagraph with the Chesapeake Executive Council as appropriate.
+  (g) Chesapeake Bay Program
+    (1) Management strategies
+       The Administrator, in coordination with other members of the Chesapeake Executive Council, shall ensure that management plans are developed and implementation is begun by signatories to the Chesapeake Bay Agreement to achieve and maintain–
+      (A) the nutrient goals of the Chesapeake Bay Agreement for the quantity of nitrogen and phosphorus entering the Chesapeake Bay and its watershed;
+      (B) the water quality requirements necessary to restore living resources in the Chesapeake Bay ecosystem;
+      (C) the Chesapeake Bay Basinwide Toxins Reduction and Prevention Strategy goal of reducing or eliminating the input of chemical contaminants from all controllable sources to levels that result in no toxic or bioaccumulative impact on the living resources of the Chesapeake Bay ecosystem or on human health;
+      (D) habitat restoration, protection, creation, and enhancement goals established by Chesapeake Bay Agreement signatories for wetlands, riparian forests, and other types of habitat associated with the Chesapeake Bay ecosystem; and
+      (E) the restoration, protection, creation, and enhancement goals established by the Chesapeake Bay Agreement signatories for living resources associated with the Chesapeake Bay ecosystem.
+    (2) Small watershed grants program
+       The Administrator, in cooperation with the Chesapeake Executive Council, shall–
+      (A) establish a small watershed grants program as part of the Chesapeake Bay Program; and
+      (B) offer technical assistance and assistance grants under subsection (d) of this section to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement–
+        (i) cooperative tributary basin strategies that address the water quality and living resource needs in the Chesapeake Bay ecosystem; and
+        (ii) locally based protection and restoration programs or projects within a watershed that complement the tributary basin strategies, including the creation, restoration, protection, or enhancement of habitat associated with the Chesapeake Bay ecosystem.
+  (h) Study of Chesapeake Bay Program
+    (1) In general
+       Not later than April 22, 2003, and every 5 years thereafter, the Administrator, in coordination with the Chesapeake Executive Council, shall complete a study and submit to Congress a comprehensive report on the results of the study.
+    (2) Requirements
+       The study and report shall–
+      (A) assess the state of the Chesapeake Bay ecosystem;
+      (B) compare the current state of the Chesapeake Bay ecosystem with its state in 1975, 1985, and 1995;
+      (C) assess the effectiveness of management strategies being implemented on November 7, 2000, and the extent to which the priority needs are being met;
+      (D) make recommendations for the improved management of the Chesapeake Bay Program either by strengthening strategies being implemented on November 7, 2000, or by adopting new strategies; and
+      (E) be presented in such a format as to be readily transferable to and usable by other watershed restoration programs.
+        (i) Special study of living resource response
+          (1) In general
+             Not later than 180 days after November 7, 2000, the Administrator shall commence a 5-year special study with full participation of the scientific community of the Chesapeake Bay to establish and expand understanding of the response of the living resources of the Chesapeake Bay ecosystem to improvements in water quality that have resulted from investments made through the Chesapeake Bay Program.
+          (2) Requirements
+             The study shall–
+            (A) determine the current status and trends of living resources, including grasses, benthos, phytoplankton, zooplankton, fish, and shellfish;
+            (B) establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
+            (C) evaluate and assess interactions of species, with particular attention to the impact of changes within and among trophic levels; and
+            (D) recommend management actions to optimize the return of a healthy and balanced ecosystem in response to improvements in the quality and character of the waters of the Chesapeake Bay.
+        (j) Authorization of appropriations
+           There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.
