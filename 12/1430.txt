@@ -1,45 +1,34 @@
-  (a) Authorization to make secured advances
-     Each Federal Home Loan Bank is authorized to make secured advances to its members upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:
-    (1) Fully disbursed, whole first mortgages on improved residential property (not more than 90 days delinquent), or securities representing a whole interest in such mortgages.
-    (2) Securities issued, insured, or guaranteed by the United States Government or any agency thereof (including without limitation, mortgage-backed securities issued or guaranteed by the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Corporation, and the Government National Mortgage Association).
-    (3) Deposits of a Federal Home Loan Bank.
-    (4) Other real estate related collateral acceptable to the Bank if such collateral has a readily ascertainable value and the Bank can perfect its interest in the collateral. The aggregate amount of outstanding advances secured by such other real estate related collateral shall not exceed 30 percent of such member“s capital.
-    (5) Paragraphs (1) through (4) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank and the Board determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Board.
+  (a) In general
+    (1) All advances
+       Each Federal Home Loan Bank is authorized to make secured advances to its members upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title.
+    (2) Purposes of advances
+       A long-term advance may only be made for the purposes of–
+      (A) providing funds to any member for residential housing finance; and
+      (B) providing funds to any community financial institution for small businesses, small farms, and small agri-businesses.
+    (3) Collateral
+       A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:
+      (A) Fully disbursed, whole first mortgages on improved residential property (not more than 90 days delinquent), or securities representing a whole interest in such mortgages.
+      (B) Securities issued, insured, or guaranteed by the United States Government or any agency thereof (including without limitation, mortgage-backed securities issued or guaranteed by the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Corporation, and the Government National Mortgage Association).
+      (C) Cash or deposits of a Federal Home Loan Bank.
+      (D) Other real estate related collateral acceptable to the Bank if such collateral has a readily ascertainable value and the Bank can perfect its interest in the collateral.
+      (E) Secured loans for small business, agriculture, or securities representing a whole interest in such secured loans, in the case of any community financial institution.
+    (4) Additional bank authority
+       Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
+    (5) Review of certain collateral standards
+       The Board may review the collateral standards applicable to each Federal home loan bank for the classes of collateral described in subparagraphs (D) and (E) of paragraph (3), and may, if necessary for safety and soundness purposes, require an increase in the collateral standards for any or all of those classes of collateral.
+    (6) Definitions
+       For purposes of this subsection, the terms ””small business““, ””agriculture““, ””small farm““, and ””small agri-business““ shall have the meanings given those terms by regulation of the Finance Board.
   (b) Appraisals and other investigations; acceptance of home mortgages as collateral security only by formal Board resolution
      For the purposes of this section, each Home Loan Bank shall have power to make, or to cause or require to be made, such appraisals and other investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Board has specifically approved by formal resolution such acceptance.
-  (c) Notes of borrowing members; interest rate; limitations on loans; lien on stock
-     Such advances shall be made upon the note or obligation of the member secured as provided in this section, bearing such rate of interest as the Board may approve or determine, and the Federal Home Loan Bank shall have a lien upon and shall hold the stock of such member as further collateral security for all indebtedness of the member to the Federal Home Loan Bank. At no time shall the aggregate outstanding advances made by any Federal Home Loan Bank to any member exceed twenty times the amounts paid in by such member for outstanding capital stock held by it \1\N exceed twenty times the value of the security required to be deposited under subsection (e) of section 1426 \2\N of this title.
+  (c) Notes of borrowing members; interest rate; lien on stock
+     Such advances shall be made upon the note or obligation of the member secured as provided in this section, bearing such rate of interest as the Federal home loan bank may approve or determine, and the Federal Home Loan Bank shall have a lien upon and shall hold the stock of such member as further collateral security for all indebtedness of the member to the Federal Home Loan Bank.
   (d) Obligation to repay; additional security; sale of advances to other banks
-     The institution applying for an advance shall enter into a primary and unconditional obligation to pay off all advances, together with interest and any unpaid costs and expenses in connection therewith according to the terms under which they were made, in such form as shall meet the requirements of the bank and the approval of the Board. The bank shall reserve the right to require at any time, when deemed necessary for its protection, deposits of additional collateral security or substitutions of security by the borrowing institution, and each borrowing institution shall assign additional or substituted security when and as so required. Subject to the approval of the Board, any Federal Home Loan Bank shall have power to sell to any other Federal Home Loan Bank, with or without recourse, any advance made under the provisions of this chapter, or to allow to such bank a participation therein, and any other Federal Home Loan Bank shall have power to purchase such advance or to accept a participation therein, together with an appropriate assignment of security therefor.
-  (e) Qualified thrift lender status
-    (1) In general
-       A member that is not a qualified thrift lender may only receive an advance if it holds stock in its Federal Home Loan Bank at the time it receives that advance in an amount equal to at least–
-      (A) 5 percent of that member“s total advances, divided by
-      (B) such member“s actual thrift investment percentage.
-       Such members that are not qualified thrift lenders may only apply for advances under this section for the purpose of obtaining funds for housing finance.
-    (2) Priority
-       The Board, by regulation, shall establish a priority for advances to members that are qualified thrift lenders. The aggregate amount of the advances by the Federal Home Loan Bank System to members that are not qualified thrift lenders shall not exceed 30 percent of the total advances of the Federal Home Loan Bank System.
-    (3) Minimum stock purchase requirement for membership
-       Each member of a Federal Home Loan Bank shall, at a minimum, purchase and maintain stock in its Federal Home Loan Bank in the amount that would be required under section 1426(b) of this title if at least 30 percent of such member“s assets were home mortgage loans.
-    (4) Exceptions
-       Paragraphs (1) and (2) of this subsection do not apply to–
-      (A) a savings bank as defined in section 1813 of this title; or
-      (B) a Federal savings association in existence as a Federal savings association on August 9, 1989–
-        (i) that was chartered as a savings bank or cooperative bank prior to October 15, 1982; or
-        (ii) that acquired its principal assets from an institution which was chartered prior to October 15, 1982, as a savings bank or cooperative bank under State law.
-    (5) Definitions
-       As used in this subsection–
-      (A) Savings association
-         The term ””savings association““ has the same meaning as in section 1467a(a)(1)(A) of this title.
-      (B) Qualified thrift lender
-         The term ””qualified thrift lender““ has the same meaning as in section 1467a(m) of this title.
-      (C) Actual thrift investment percentage
-         The term ””actual thrift investment percentage““ has the same meaning as in section 1467a(m) of this title.
-  (e) \3\N Priority of certain secured interests
+     The institution applying for an advance shall enter into a primary and unconditional obligation to pay off all advances, together with interest and any unpaid costs and expenses in connection therewith according to the terms under which they were made, in such form as shall meet the requirements of the bank. The bank shall reserve the right to require at any time, when deemed necessary for its protection, deposits of additional collateral security or substitutions of security by the borrowing institution, and each borrowing institution shall assign additional or substituted security when and as so required. Any Federal Home Loan Bank shall have power to sell to any other Federal Home Loan Bank, with or without recourse, any advance made under the provisions of this chapter, or to allow to such bank a participation therein, and any other Federal Home Loan Bank shall have power to purchase such advance or to accept a participation therein, together with an appropriate assignment of security therefor.
+  (e) Priority of certain secured interests
      Notwithstanding any other provision of law, any security interest granted to a Federal Home Loan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims and rights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that–
     (1) would be entitled to priority under otherwise applicable law; and
     (2) are held by actual bona fide purchasers for value or by actual secured parties that are secured by actual perfected security interests.
-  (g) Community support requirements
+  (g) \1\N Community support requirements
     (1) In general
        Before the end of the 2-year period beginning on August 9, 1989, the Board shall adopt regulations establishing standards of community investment or service for members of Banks to maintain continued access to long-term advances.
     (2) Factors to be included

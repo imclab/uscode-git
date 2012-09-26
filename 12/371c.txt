@@ -43,6 +43,7 @@
       (B) an asset in a nonaccrual status;
       (C) an asset on which principal or interest payments are more than thirty days past due; or
       (D) an asset whose terms have been renegotiated or compromised due to the deteriorating financial condition of the obligor.
+    (11) T4Rebuttable presumption of control of portfolio companiesK.–In addition to paragraph (3), a company or shareholder shall be presumed to control any other company if the company or shareholder, directly or indirectly, or acting through 1 or more other persons, owns or controls 15 percent or more of the equity capital of the other company pursuant to subparagraph (H) or (I) of section 1843(k)(4) of this title or rules adopted under section 122 of the Gramm-Leach-Bliley Act, if any, unless the company or shareholder provides information acceptable to the Board to rebut this presumption of control.
   (c) Collateral for certain transactions with affiliates
     (1) Each loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of, an affiliate by a member bank or its subsidiary shall be secured at the time of the transaction by collateral having a market value equal to–
       (A) 100 per centum of the amount of such loan or extension of credit, guarantee, acceptance, or letter of credit, if the collateral is composed of–
@@ -72,6 +73,25 @@
     (5) purchasing securities issued by any company of the kinds described in section 1843(c)(1) of this title;
     (6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
     (7) purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
-  (e) Rulemaking and additional exemptions
+  (e) Rules relating to banks with financial subsidiaries
+    (1) Financial subsidiary defined
+       For purposes of this section and section 371c–1 of this title, the term ””financial subsidiary““ means any company that is a subsidiary of a bank that would be a financial subsidiary of a national bank under section 24a of this title.
+    (2) Financial subsidiary treated as an affiliate
+       For purposes of applying this section and section 371c–1 of this title, and notwithstanding subsection (b)(2) of this section or section 371c–1(d)(1) of this title, a financial subsidiary of a bank–
+      (A) shall be deemed to be an affiliate of the bank; and
+      (B) shall not be deemed to be a subsidiary of the bank.
+    (3) Exceptions for transactions with financial subsidiaries
+      (A) Exception from limit on covered transactions with any individual financial subsidiary
+         Notwithstanding paragraph (2), the restriction contained in subsection (a)(1)(A) of this section shall not apply with respect to covered transactions between a bank and any individual financial subsidiary of the bank.
+      (B) Exception for earnings retained by financial subsidiaries
+         Notwithstanding paragraph (2) or subsection (b)(7) of this section, a bank“s investment in a financial subsidiary of the bank shall not include retained earnings of the financial subsidiary.
+    (4) Anti-evasion provision
+       For purposes of this section and section 371c–1 of this title–
+      (A) any purchase of, or investment in, the securities of a financial subsidiary of a bank by an affiliate of the bank shall be considered to be a purchase of or investment in such securities by the bank; and
+      (B) any extension of credit by an affiliate of a bank to a financial subsidiary of the bank shall be considered to be an extension of credit by the bank to the financial subsidiary if the Board determines that such treatment is necessary or appropriate to prevent evasions of this chapter and the Gramm-Leach-Bliley Act.
+  (f) Rulemaking and additional exemptions
     (1) The Board may issue such further regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purposes of this section and to prevent evasions thereof.
     (2) The Board may, at its discretion, by regulation or order exempt transactions or relationships from the requirements of this section if it finds such exemptions to be in the public interest and consistent with the purposes of this section.
+    (3) T4Rulemaking required concerning derivative transactions and intraday credit.–
+      (A) T4In generalK.–Not later than 18 months after November 12, 1999, the Board shall adopt final rules under this section to address as covered transactions credit exposure arising out of derivative transactions between member banks and their affiliates and intraday extensions of credit by member banks to their affiliates.
+      (B) T4Effective dateK.–The effective date of any final rule adopted by the Board pursuant to subparagraph (A) shall be delayed for such period as the Board deems necessary or appropriate to permit banks to conform their activities to the requirements of the final rule without undue hardship.
