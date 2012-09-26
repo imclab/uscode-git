@@ -3,14 +3,14 @@
   (b) T4Determination of FeeK.–(1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
   (2) The loan fee table referred to in paragraph (1) is as follows:
      LOAN FEE TABLE
-    (A)      (i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before October 1, 2008) D2.00 D2.75 DNA
-        (A)          (ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2008) D1.25 D2.00 DNA
-        (B)          (i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2008) D3.00 D3.00 DNA
-    (B)      (ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2008) D1.25 D2.00 DNA
-    (C)      (i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2008) D1.50 D2.25 DNA
-  (C)    (ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2008) D0.75 D1.50 DNA
-  (D)    (i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2008) D1.25 D2.00 DNA
-  (D)    (ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2008) D0.50 D1.25 DNA
+    (A)      (i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before October 1, 2011) D2.00 D2.75 DNA
+        (A)          (ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) D1.25 D2.00 DNA
+        (B)          (i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2011) D3.00 D3.00 DNA
+    (B)      (ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2011) D1.25 D2.00 DNA
+    (C)      (i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2011) D1.50 D2.25 DNA
+  (C)    (ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2011) D0.75 D1.50 DNA
+  (D)    (i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2011) D1.25 D2.00 DNA
+  (D)    (ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) D0.50 D1.25 DNA
   (E) Interest rate reduction refinancing loan D0.50 D0.50 DNA
   (F) Direct loan under section 3711 D1.00 D1.00 DNA
   (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) D1.00 D1.00 DNA
@@ -20,7 +20,7 @@
   (3) Any reference to a section in the ””Type of loan““ column in the loan fee table in paragraph (2) refers to a section of this title.
   (4) For the purposes of paragraph (2):
     (A) The term ””active duty veteran““ means any veteran eligible for the benefits of this chapter other than a Reservist.
-    (B) The term ””Reservist““ means a veteran described in section 3701(b)(5)(A) of this title.
+    (B) The term ””Reservist““ means a veteran described in section 3701(b)(5)(A) of this title who is eligible under section 3702(a)(2)(E) of this title.
     (C) The term ””other obligor““ means a person who is not a veteran, as defined in section 101 of this title or other provision of this chapter.
     (D) The term ””initial loan““ means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
     (E) The term ””subsequent loan““ means a loan to a veteran, other than an interest rate reduction refinancing loan, guaranteed under section 3710 or made under section 3711 of this title if the veteran has previously obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
