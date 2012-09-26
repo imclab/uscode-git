@@ -66,3 +66,50 @@
       (F) Notwithstanding subsections (b) and (c) of section 2622 of this title, each State regulatory authority shall, not later than 18 months after August 8, 2005, conduct an investigation in accordance with section 2625(i) of this title and issue a decision whether it is appropriate to implement the standards set out in subparagraphs (A) and (C).
     (15) Interconnection
        Each electric utility shall make available, upon request, interconnection service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term ””interconnection service““ means service to an electric consumer under which an on-site generating facility on the consumer“s premises shall be connected to the local distribution facilities. Interconnection services shall be offered based upon the standards developed by the Institute of Electrical and Electronics Engineers: IEEE Standard 1547 for Interconnecting Distributed Resources with Electric Power Systems, as they may be amended from time to time. In addition, agreements and procedures shall be established whereby the services are offered shall promote current best practices of interconnection for distributed generation, including but not limited to practices stipulated in model codes adopted by associations of state regulatory agencies. All such agreements and procedures shall be just and reasonable, and not unduly discriminatory or preferential.
+    (16) Integrated resource planning
+       Each electric utility shall–
+      (A) integrate energy efficiency resources into utility, State, and regional plans; and
+      (B) adopt policies establishing cost-effective energy efficiency as a priority resource.
+    (17) Rate design modifications to promote energy efficiency investments
+      (A) In general
+         The rates allowed to be charged by any electric utility shall–
+        (i) align utility incentives with the delivery of cost-effective energy efficiency; and
+        (ii) promote energy efficiency investments.
+      (B) Policy options
+         In complying with subparagraph (A), each State regulatory authority and each nonregulated utility shall consider–
+        (i) removing the throughput incentive and other regulatory and management disincentives to energy efficiency;
+        (ii) providing utility incentives for the successful management of energy efficiency programs;
+        (iii) including the impact on adoption of energy efficiency as 1 of the goals of retail rate design, recognizing that energy efficiency must be balanced with other objectives;
+        (iv) adopting rate designs that encourage energy efficiency for each customer class;
+        (v) allowing timely recovery of energy efficiency-related costs; and
+        (vi) offering home energy audits, offering demand response programs, publicizing the financial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.
+  (16) \2\N Consideration of smart grid investments
+    (A) In general
+       Each State shall consider requiring that, prior to undertaking investments in nonadvanced grid technologies, an electric utility of the State demonstrate to the State that the electric utility considered an investment in a qualified smart grid system based on appropriate factors, including–
+      (i) total costs;
+      (ii) cost-effectiveness;
+      (iii) improved reliability;
+      (iv) security;
+      (v) system performance; and
+      (vi) societal benefit.
+    (B) Rate recovery
+       Each State shall consider authorizing each electric utility of the State to recover from ratepayers any capital, operating expenditure, or other costs of the electric utility relating to the deployment of a qualified smart grid system, including a reasonable rate of return on the capital expenditures of the electric utility for the deployment of the qualified smart grid system.
+    (C) Obsolete equipment
+       Each State shall consider authorizing any electric utility or other party of the State to deploy a qualified smart grid system to recover in a timely manner the remaining book-value costs of any equipment rendered obsolete by the deployment of the qualified smart grid system, based on the remaining depreciable life of the obsolete equipment.
+  (17) \3\N Smart grid information
+    (A) Standard
+       All electricity purchasers shall be provided direct access, in written or electronic machine-readable form as appropriate, to information from their electricity provider as provided in subparagraph (B).
+    (B) Information
+       Information provided under this section, to the extent practicable, shall include:
+      (i) Prices
+         Purchasers and other interested persons shall be provided with information on–
+        (I) time-based electricity prices in the wholesale electricity market; and
+        (II) time-based electricity retail prices or rates that are available to the purchasers.
+      (ii) Usage
+         Purchasers shall be provided with the number of electricity units, expressed in kwh, purchased by them.
+      (iii) Intervals and projections
+         Updates of information on prices and usage shall be offered on not less than a daily basis, shall include hourly price and use information, where available, and shall include a day-ahead projection of such price information to the extent available.
+      (iv) Sources
+         Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associated with each type of generation, for intervals during which such information is available on a cost-effective basis.
+    (C) Access
+       Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
