@@ -1,20 +1,11 @@
-  (a) Administrative functions; agency coordination; use for general governmental purposes; separate systems; spectrum and orbital space use; compatibility with domestic and foreign facilities; interests and needs of ultimate users; Federal views on utilization and user needs
+  (a) Administrative functions; agency coordination; spectrum and orbital space use; compatibility with domestic and foreign facilities
      The Secretary of Commerce shall–
     (1) coordinate the activities of Federal agencies with responsibilities in the field of telecommunications (other than the Commission), so as to ensure that there is full and effective compliance with the provisions of this subchapter;
-    (2) take all necessary steps to ensure the availability and appropriate utilization of the maritime satellite telecommunications services provided by INMARSAT for general governmental purposes, except in any case in which a separate telecommunications system is required to meet unique governmental needs or is otherwise required in the national interest;
+    (2) omitted;
     (3) exercise his authority in a manner which seeks to obtain coordinated and efficient use of the electromagnetic spectrum and orbital space, and to ensure the technical compatibility of the space segment with existing communications facilities in the United States and in foreign countries; and
-    (4) take all necessary steps to determine the interests and needs of the ultimate users of the maritime satellite telecommunications system and to communicate the views of the Federal Government on utilization and user needs to INMARSAT.
+    (4) omitted;
   (b) Executive functions; supervision and instructions for foreign relationships and activities
      The President shall exercise such supervision over, and issue such instructions to, the corporation in connection with its relationships and activities with foreign governments, international entities, and INMARSAT as may be necessary to ensure that such relationships and activities are consistent with the national interest and foreign policy of the United States.
-  (c) Commission functions; institution of proceedings; recommendations for issuance of executive instructions; public space segment channel, construction, operation and other authorizations; review; rules
-     The Commission shall–
-    (1) institute such proceedings as may be necessary to carry out the provisions of section 752 of this title;
-    (2) make recommendations to the President for the purpose of assisting him in his issuance of instructions to the corporation;
-    (3) grant such authorizations as may be necessary under title II and title III of the Communications Act of 1934 [47 U.S.C. 201 et seq., 301 et seq.] to enable the corporation–
-      (A) to provide to the public, in accordance with section 752(c)(2) \1\N of this title, space segment channels of communication obtained from INMARSAT; and
-      (B) to construct and operate such satellite earth terminal stations in the United States as may be necessary to provide sufficient access to the space segment;
-    (4) grant such other authorizations as may be necessary under title II and title III of the Communications Act of 1934 to carry out to the provisions of this subchapter;
-    (5) establish procedures to provide for the continuing review of the telecommunications activities of the corporation as the United States signatory to the operating agreement or other pertinent instruments; and
-    (6) prescribe such rules as may be necessary to carry out the provisions of this subchapter.
+  (c) Omitted
   (d) Commission regulatory instructions; conflicting and prevailing instructions of President
      The Commission is authorized to issue instructions to the corporation with respect to regulatory matters within the jurisdiction of the Commission. In the event an instruction of the Commission conflicts with an instruction of the President pursuant to subsection (b) of this section, the instructions issued by the President shall prevail.
