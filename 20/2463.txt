@@ -25,7 +25,7 @@
   (b) Articles that may not be designated as eligible articles
     (1) Import-sensitive articles
        The President may not designate any article as an eligible article under subsection (a) of this section if such article is within one of the following categories of import-sensitive articles:
-      (A) Textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
+      (A) Except as provided in paragraph (4), textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
       (B) Watches, except those watches entered after June 30, 1989, that the President specifically determines, after public notice and comment, will not cause material injury to watch or watch band, strap, or bracelet manufacturing and assembly operations in the United States or the United States insular possessions.
       (C) Import-sensitive electronic articles.
       (D) Import-sensitive steel articles.
@@ -36,6 +36,8 @@
        An article shall not be an eligible article for purposes of this subchapter for any period during which such article is the subject of any action proclaimed pursuant to section 2253 of this title or section 1862 or 1981 of this title.
     (3) Agricultural products
        No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this subchapter.
+    (4) Certain hand-knotted or hand-woven carpets
+       Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) of this section carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20, 5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
   (c) Withdrawal, suspension, or limitation of duty-free treatment; competitive need limitation
     (1) In general
        The President may withdraw, suspend, or limit the application of the duty-free treatment accorded under this subchapter with respect to any article, except that no rate of duty may be established with respect to any article pursuant to this subsection other than the rate which would apply but for this subchapter. In taking any action under this subsection, the President shall consider the factors set forth in sections 2461 and 2462(c) of this title.

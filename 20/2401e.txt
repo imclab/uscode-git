@@ -1,6 +1,6 @@
   (a) In general
     (1) Requirements
-       Payment of a trade adjustment allowance shall be made to an adversely affected agricultural commodity producer covered by a certification under this part who files an application for such allowance within 90 days after the date on which the Secretary makes a determination and issues a certification of eligibility under section 2401b of this title, if the following conditions are met:
+       Payment of a \1\N adjustment assistance under this part shall be made to an adversely affected agricultural commodity producer covered by a certification under this part who files an application for such assistance within 90 days after the date on which the Secretary makes a determination and issues a certification of eligibility under section 2401b of this title, if the following conditions are met:
       (A) The producer submits to the Secretary sufficient information to establish the amount of agricultural commodity covered by the application filed under this subsection that was produced by the producer in the most recent year.
       (B) The producer certifies that the producer has not received cash benefits under any provision of this subchapter other than this part.
       (C) The producer“s net farm income (as determined by the Secretary) for the most recent year is less than the producer“s net farm income for the latest year in which no adjustment assistance was received by the producer under this part.
@@ -12,7 +12,7 @@
         (i) In general
            Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income of the producer exceeds the level set forth in section 1308–3a of title 7.
         (ii) Certification
-           To comply with the limitation under subparagraph (A),\1\N an individual or entity shall provide to the Secretary–
+           To comply with the limitation under subparagraph (A),\2\N an individual or entity shall provide to the Secretary–
           (I) a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income of the producer does not exceed the level set forth in section 1308–3a of title 7; or
           (II) information and documentation regarding the adjusted gross income of the producer through other procedures established by the Secretary.
       (B) Counter-cyclical payments
@@ -36,7 +36,7 @@
         (ii) the national average price of the agricultural commodity for the most recent marketing year, and
       (B) the amount of the agricultural commodity produced by the agricultural commodity producer in the most recent marketing year.
     (2) Special rule for subsequent qualified years
-       The amount of cash benefits for a qualified year shall be determined in the same manner as cash benefits are determined under paragraph (1) except that the average national price of the agricultural commodity shall be determined under paragraph (1)(A)(i) by using the 5-marketing-year period used to determine the amount of cash benefits for the first certification.
+       The amount of cash benefits for a qualified year shall be determined in the same manner as cash benefits are determined under paragraph (1), except that the average national price of the agricultural commodity shall be determined under paragraph (1)(A)(i) by using the 5-marketing-year period used to determine the amount of cash benefits for the first certification.
   (c) Maximum amount of cash assistance
      The maximum amount of cash benefits an agricultural commodity producer may receive in any 12-month period shall not exceed $10,000.
   (d) Limitations on other assistance
