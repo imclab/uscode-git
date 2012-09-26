@@ -1,4 +1,12 @@
-  (a) T4In GeneralK.–Notwithstanding any other provision of law, neither the Administrator of the Federal Aviation Administration, nor any agency receiving information from the Administrator, shall disclose voluntarily-provided safety or security related information if the Administrator finds that–
-    (1) the disclosure of the information would inhibit the voluntary provision of that type of information and that the receipt of that type of information aids in fulfilling the Administrator“s safety and security responsibilities; and
-    (2) withholding such information from disclosure would be consistent with the Administrator“s safety and security responsibilities.
-  (b) T4RegulationsK.–The Administrator shall issue regulations to carry out this section.
+  (a) T4Required Terminations of AcquisitionsK.–The Administrator of the Federal Aviation Administration shall terminate any acquisition program initiated after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996 and funded under the Facilities and Equipment account that–
+    (1) is more than 50 percent over the cost goal established for the program;
+    (2) fails to achieve at least 50 percent of the performance goals established for the program; or
+    (3) is more than 50 percent behind schedule as determined in accordance with the schedule goal established for the program.
+  (b) T4Authorized Termination of Acquisition ProgramsK.–The Administrator shall consider terminating, under the authority of subsection (a), any substantial acquisition program that–
+    (1) is more than 10 percent over the cost goal established for the program;
+    (2) fails to achieve at least 90 percent of the performance goals established for the program; or
+    (3) is more than 10 percent behind schedule as determined in accordance with the schedule goal established for the program.
+  (c) T4Exceptions and Report.–
+    (1) T4Continuance of program, etcK.–Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
+    (2) T4Department of defenseK.–The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 348(b) of Public Law 104–50 when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
+    (3) T4ReportK.–If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
