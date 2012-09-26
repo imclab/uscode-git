@@ -1,0 +1,43 @@
+  (a) When a domestic financial institution is involved in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes), in an amount, denomination, or amount and denomination, or under circumstances the Secretary prescribes by regulation, the institution and any other participant in the transaction the Secretary may prescribe shall file a report on the transaction at the time and in the way the Secretary prescribes. A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made.
+  (b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 \1\N of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
+  (c)    (1) A person (except a domestic financial institution designated under subsection (b) of this section) required to file a report under this section shall file the report–
+      (A) with the institution involved in the transaction if the institution was designated;
+      (B) in the way the Secretary prescribes when the institution was not designated; or
+      (C) with the Secretary.
+    (2) The Secretary shall prescribe–
+      (A) the filing procedure for a domestic financial institution designated under subsection (b) of this section; and
+      (B) the way the institution shall submit reports filed with it.
+  (d) T4Mandatory Exemptions From Reporting Requirements.–
+    (1) T4In generalK.–The Secretary of the Treasury shall exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
+      (A) Another depository institution.
+      (B) A department or agency of the United States, any State, or any political subdivision of any State.
+      (C) Any entity established under the laws of the United States, any State, or any political subdivision of any State, or under an interstate compact between 2 or more States, which exercises governmental authority on behalf of the United States or any such State or political subdivision.
+      (D) Any business or category of business the reports on which have little or no value for law enforcement purposes.
+    (2) T4Notice of exemptionK.–The Secretary of the Treasury shall publish in the Federal Register at such times as the Secretary determines to be appropriate (but not less frequently than once each year) a list of all the entities whose transactions with a depository institution are exempt under this subsection from the reporting requirements of subsection (a).
+  (e) T4Discretionary Exemptions From Reporting Requirements.–
+    (1) T4In generalK.–The Secretary of the Treasury may exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and a qualified business customer of the institution on the basis of information submitted to the Secretary by the institution in accordance with procedures which the Secretary shall establish.
+    (2) T4Qualified business customer definedK.–For purposes of this subsection, the term ””qualified business customer““ means a business which–
+      (A) maintains a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act) at the depository institution;
+      (B) frequently engages in transactions with the depository institution which are subject to the reporting requirements of subsection (a); and
+      (C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried out without requiring a report with respect to such transactions.
+    (3) T4Criteria for exemptionK.–The Secretary of the Treasury shall establish, by regulation, the criteria for granting and maintaining an exemption under paragraph (1).
+    (4) T4Guidelines.–
+      (A) T4In generalK.–The Secretary of the Treasury shall establish guidelines for depository institutions to follow in selecting customers for an exemption under this subsection.
+      (B) T4ContentsK.–The guidelines may include a description of the types of businesses or an itemization of specific businesses for which no exemption will be granted under this subsection to any depository institution.
+    (5) T4Annual reviewK.–The Secretary of the Treasury shall prescribe regulations requiring each depository institution to–
+      (A) review, at least once each year, the qualified business customers of such institution with respect to whom an exemption has been granted under this subsection; and
+      (B) upon the completion of such review, resubmit information about such customers, with such modifications as the institution determines to be appropriate, to the Secretary for the Secretary“s approval.
+    (6) 2-T4year phase-in provisionK.–During the 2-year period beginning on the date of enactment of the Money Laundering Suppression Act of 1994, this subsection shall be applied by the Secretary on the basis of such criteria as the Secretary determines to be appropriate to achieve an orderly implementation of the requirements of this subsection.
+  (f) T4Provisions Applicable to Mandatory and Discretionary Exemptions.–
+    (1) T4Limitation on liability of depository institutionsK.–No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect to a transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution–
+      (A) knowingly files false or incomplete information to the Secretary with respect to the transaction or the customer engaging in the transaction; or
+      (B) has reason to believe at the time the exemption is granted or the transaction is entered into that the customer or the transaction does not meet the criteria established for granting such exemption.
+    (2) T4Coordination with other provisionsK.–Any exemption granted by the Secretary of the Treasury under section 5318(a) in accordance with this section, and any transaction which is subject to such exemption, shall be subject to any other provision of law applicable to such exemption, including–
+      (A) the authority of the Secretary, under section 5318(a)(6), to revoke such exemption at any time; and
+      (B) any requirement to report, or any authority to require a report on, any possible violation of any law or regulation or any suspected criminal activity.
+  (g) T4Depository Institution DefinedK.–For purposes of this section, the term ””depository institution““–
+    (1) has the meaning given to such term in section 19(b)(1)(A) of the Federal Reserve Act; and
+    (2) includes–
+      (A) any branch, agency, or commercial lending company (as such terms are defined in section 1(b) of the International Banking Act of 1978);
+      (B) any corporation chartered under section 25A of the Federal Reserve Act; and
+      (C) any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
