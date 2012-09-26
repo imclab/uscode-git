@@ -1,0 +1,89 @@
+  (a) In general
+     In lieu of compliance with the contract market designation requirements of sections 6(a) and 7 of this title, a board of trade may elect to operate as a registered derivatives transaction execution facility if the facility is–
+    (1) designated as a contract market and meets the requirements of this section; or
+    (2) registered as a derivatives transaction execution facility under subsection (c) of this section.
+  (b) Requirements for trading
+    (1) In general
+       A registered derivatives transaction execution facility under subsection (a) of this section may trade any contract of sale of a commodity for future delivery (or option on such a contract) on or through the facility only by satisfying the requirements of this section.
+    (2) Requirements for underlying commodities
+       A registered derivatives transaction execution facility may trade any contract of sale of a commodity for future delivery (or option on such a contract) only if–
+      (A) the underlying commodity has a nearly inexhaustible deliverable supply;
+      (B) the underlying commodity has a deliverable supply that is sufficiently large that the contract is highly unlikely to be susceptible to the threat of manipulation;
+      (C) the underlying commodity has no cash market;
+      (D)        (i) the contract is a security futures product, and (ii) the registered derivatives transaction execution facility is a national securities exchange registered under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.];
+      (E) the Commission determines, based on the market characteristics, surveillance history, self-regulatory record, and capacity of the facility that trading in the contract (or option) is highly unlikely to be susceptible to the threat of manipulation; or
+      (F) except as provided in section 7(e)(2) of this title, the underlying commodity is a commodity other than an agricultural commodity enumerated in section 1a(4) of this title, and trading access to the facility is limited to eligible commercial entities trading for their own account.
+    (3) Eligible traders
+       To trade on a registered derivatives transaction execution facility, a person shall–
+      (A) be an eligible contract participant; or
+      (B) be a person trading through a futures commission merchant that–
+        (i) is registered with the Commission;
+        (ii) is a member of a futures self-regulatory organization or, if the person trades only security futures products on the facility, a national securities association registered under section 15A(a) of the Securities Exchange Act of 1934 [15 U.S.C. 78T3oK–3(a)];
+        (iii) is a clearing member of a derivatives clearing organization; and
+        (iv) has net capital of at least $20,000,000.
+    (4) Trading by contract markets
+       A board of trade that is designated as a contract market shall, to the extent that the contract market also operates a registered derivatives transaction execution facility–
+      (A) provide a physical location for the contract market trading of the board of trade that is separate from trading on the derivatives transaction execution facility of the board of trade; or
+      (B) if the board of trade uses the same electronic trading system for trading on the contract market and derivatives transaction execution facility of the board of trade, identify whether the electronic trading is taking place on the contract market or the derivatives transaction execution facility.
+  (c) Criteria for registration
+    (1) In general
+       To be registered as a registered derivatives transaction execution facility, the board of trade shall be required to demonstrate to the Commission only that the board of trade meets the criteria specified in subsection (b) of this section and this subsection.
+    (2) Deterrence of abuses
+       The board of trade shall establish and enforce trading and participation rules that will deter abuses and has the capacity to detect, investigate, and enforce those rules, including means to–
+      (A) obtain information necessary to perform the functions required under this section; or
+      (B) use technological means to–
+        (i) provide market participants with impartial access to the market; and
+        (ii) capture information that may be used in establishing whether rule violations have occurred.
+    (3) Trading procedures
+       The board of trade shall establish and enforce rules or terms and conditions defining, or specifications detailing, trading procedures to be used in entering and executing orders traded on the facilities of the board of trade. The rules may authorize–
+      (A) transfer trades or office trades;
+      (B) an exchange of–
+        (i) futures in connection with a cash commodity transaction;
+        (ii) futures for cash commodities; or
+        (iii) futures for swaps; or
+      (C) a futures commission merchant, acting as principal or agent, to enter into or confirm the execution of a contract for the purchase or sale of a commodity for future delivery if the contract is reported, recorded, or cleared in accordance with the rules of the registered derivatives transaction execution facility or a derivatives clearing organization.
+    (4) Financial integrity of transactions
+       The board of trade shall establish and enforce rules or terms and conditions providing for the financial integrity of transactions entered on or through the facilities of the board of trade, and rules or terms and conditions to ensure the financial integrity of any futures commission merchants and introducing brokers and the protection of customer funds.
+  (d) Core principles for registered derivatives transaction execution facilities
+    (1) In general
+       To maintain the registration of a board of trade as a derivatives transaction execution facility, a board of trade shall comply with the core principles specified in this subsection. The board of trade shall have reasonable discretion in establishing the manner in which the board of trade complies with the core principles.
+    (2) Compliance with rules
+       The board of trade shall monitor and enforce the rules of the facility, including any terms and conditions of any contracts traded on or through the facility and any limitations on access to the facility.
+    (3) Monitoring of trading
+       The board of trade shall monitor trading in the contracts of the facility to ensure orderly trading in the contract and to maintain an orderly market while providing any necessary trading information to the Commission to allow the Commission to discharge the responsibilities of the Commission under the \1\N chapter.
+    (4) Disclosure of general information
+       The board of trade shall disclose publicly and to the Commission information concerning–
+      (A) contract terms and conditions;
+      (B) trading conventions, mechanisms, and practices;
+      (C) financial integrity protections; and
+      (D) other information relevant to participation in trading on the facility.
+    (5) Daily publication of trading information
+       The board of trade shall make public daily information on settlement prices, volume, open interest, and opening and closing ranges for contracts traded on the facility if the Commission determines that the contracts perform a significant price discovery function for transactions in the cash market for the commodity underlying the contracts.
+    (6) Fitness standards
+       The board of trade shall establish and enforce appropriate fitness standards for directors, members of any disciplinary committee, members, and any other persons with direct access to the facility, including any parties affiliated with any of the persons described in this paragraph.
+    (7) Conflicts of interest
+       The board of trade shall establish and enforce rules to minimize conflicts of interest in the decision making process of the derivatives transaction execution facility and establish a process for resolving such conflicts of interest.
+    (8) Recordkeeping
+       The board of trade shall maintain records of all activities related to the business of the derivatives transaction execution facility in a form and manner acceptable to the Commission for a period of 5 years.
+    (9) Antitrust considerations
+       Unless necessary or appropriate to achieve the purposes of this chapter, the board of trade shall endeavor to avoid–
+      (A) adopting any rules or taking any actions that result in any unreasonable restraint of trade; or
+      (B) imposing any material anticompetitive burden on trading on the derivatives transaction execution facility.
+  (e) Use of broker-dealers, depository institutions, and farm credit system institutions as intermediaries
+    (1) In general
+       With respect to transactions other than transactions in security futures products, a registered derivatives transaction execution facility may by rule allow a broker-dealer, depository institution, or institution of the Farm Credit System that meets the requirements of paragraph (2) to–
+      (A) act as an intermediary in transactions executed on the facility on behalf of customers of the broker-dealer, depository institution, or institution of the Farm Credit System; and
+      (B) receive funds of customers to serve as margin or security for the transactions.
+    (2) Requirements
+       The requirements referred to in paragraph (1) are that–
+      (A) the broker-dealer be in good standing with the Securities and Exchange Commission, or the depository institution or institution of the Farm Credit System be in good standing with Federal bank regulatory agencies (including the Farm Credit Administration), as applicable; and
+      (B) if the broker-dealer, depository institution, or institution of the Farm Credit System carries or holds customer accounts or funds for transactions on the derivatives transaction execution facility for more than 1 business day, the broker-dealer, depository institution, or institution of the Farm Credit System is registered as a futures commission merchant and is a member of a registered futures association.
+    (3) Implementation
+       The Commission shall cooperate and coordinate with the Securities and Exchange Commission, the Secretary of the Treasury, and Federal banking regulatory agencies (including the Farm Credit Administration) in adopting rules and taking any other appropriate action to facilitate the implementation of this subsection.
+  (f) Segregation of customer funds
+     Not later than 180 days after December 21, 2000, consistent with regulations adopted by the Commission, a registered derivatives transaction execution facility may authorize a futures commission merchant to offer any customer of the futures commission merchant that is an eligible contract participant the right to not segregate the customer funds of the customer that are carried with the futures commission merchant for purposes of trading on or through the facilities of the registered derivatives transaction execution facility.
+  (g) Election to trade excluded and exempt commodities
+    (1) In general
+       Notwithstanding subsection (b)(2) of this section, a board of trade that is or elects to become a registered derivatives transaction execution facility may trade on the facility any agreements, contracts, or transactions involving excluded or exempt commodities other than securities, except contracts of sale for future delivery of exempt securities under section 3(a)(12) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(12)] as in effect on January 11, 1983, that are otherwise excluded from this chapter under section 2(c), 2(d), or 2(g) of this title, or exempt under section 2(h) of this title.
+    (2) Exclusive jurisdiction of the Commission
+       The Commission shall have exclusive jurisdiction over agreements, contracts, or transactions described in paragraph (1) to the extent that the agreements, contracts, or transactions are traded on a derivatives transaction execution facility.

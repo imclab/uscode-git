@@ -1,40 +1,15 @@
-  (a) Authority in Attorney General
-     The sole authority to naturalize persons as citizens of the United States is conferred upon the Attorney General.
-  (b) Court authority to administer oaths
-    (1) Jurisdiction
-       Subject to section 1448(c) of this title–
-      (A) General jurisdiction
-         Except as provided in subparagraph (B), each applicant for naturalization may choose to have the oath of allegiance under section 1448(a) of this title administered by the Attorney General or by an eligible court described in paragraph (5). Each such eligible court shall have authority to administer such oath of allegiance to persons residing within the jurisdiction of the court.
-      (B) Exclusive authority
-         An eligible court described in paragraph (5) that wishes to have exclusive authority to administer the oath of allegiance under section 1448(a) of this title to persons residing within the jurisdiction of the court during the period described in paragraph (3)(A)(i) shall notify the Attorney General of such wish and, subject to this subsection, shall have such exclusive authority with respect to such persons during such period.
-    (2) Information
-      (A) General information
-         In the case of a court exercising authority under paragraph (1), in accordance with procedures established by the Attorney General–
-        (i) the applicant for naturalization shall notify the Attorney General of the intent to be naturalized before the court, and
-        (ii) the Attorney General–
-          (I) shall forward to the court (not later than 10 days after the date of approval of an application for naturalization in the case of a court which has provided notice under paragraph (1)(B)) such information as may be necessary to administer the oath of allegiance under section 1448(a) of this title, and
-          (II) shall promptly forward to the court a certificate of naturalization (prepared by the Attorney General).
-      (B) Assignment of individuals in the case of exclusive authority
-         If an eligible court has provided notice under paragraph (1)(B), the Attorney General shall inform each person (residing within the jurisdiction of the court), at the time of the approval of the person“s application for naturalization, of–
-        (i) the court“s exclusive authority to administer the oath of allegiance under section 1448(a) of this title to such a person during the period specified in paragraph (3)(A)(i), and
-        (ii) the date or dates (if any) under paragraph (3)(B) on which the court has scheduled oath administration ceremonies.
-         If more than one eligible court in an area has provided notice under paragraph (1)(B), the Attorney General shall permit the person, at the time of the approval, to choose the court to which the information will be forwarded for administration of the oath of allegiance under this section.
-    (3) Scope of exclusive authority
-      (A) Limited period and advance notice required
-         The exclusive authority of a court to administer the oath of allegiance under paragraph (1)(B) shall apply with respect to a person–
-        (i) only during the 45-day period beginning on the date on which the Attorney General certifies to the court that an applicant is eligible for naturalization, and
-        (ii) only if the court has notified the Attorney General, prior to the date of certification of eligibility, of the day or days (during such 45-day period) on which the court has scheduled oath administration ceremonies.
-      (B) Authority of Attorney General
-         Subject to subparagraph (C), the Attorney General shall not administer the oath of allegiance to a person under subsection (a) of this section during the period in which exclusive authority to administer the oath of allegiance may be exercised by an eligible court under this subsection with respect to that person.
-      (C) Waiver of exclusive authority
-         Notwithstanding the previous provisions of this paragraph, a court may waive exclusive authority to administer the oath of allegiance under section 1448(a) of this title to a person under this subsection if the Attorney General has not provided the court with the certification described in subparagraph (A)(i) within a reasonable time before the date scheduled by the court for oath administration ceremonies. Upon notification of a court“s waiver of jurisdiction, the Attorney General shall promptly notify the applicant.
-    (4) Issuance of certificates
-       The Attorney General shall provide for the issuance of certificates of naturalization at the time of administration of the oath of allegiance.
-    (5) Eligible courts
-       For purposes of this section, the term ””eligible court““ means–
-      (A) a district court of the United States in any State, or
-      (B) any court of record in any State having a seal, a clerk, and jurisdiction in actions in law or equity, or law and equity, in which the amount in controversy is unlimited.
-  (c) Judicial review
-     A person whose application for naturalization under this subchapter is denied, after a hearing before an immigration officer under section 1447(a) of this title, may seek review of such denial before the United States district court for the district in which such person resides in accordance with chapter 7 of title 5. Such review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.
-  (d) Sole procedure
-     A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
+  (a) Source
+     The Secretary shall provide the price support authorized or required herein through the Commodity Credit Corporation and other means available to him.
+  (b) Authority of Secretary; factors considered
+     Except as otherwise provided in this Act, the amounts, terms, and conditions of price support operations and the extent to which such operations are carried out, shall be determined or approved by the Secretary. The following factors shall be taken into consideration in determining, in the case of any commodity for which price support is discretionary, whether a price-support operation shall be undertaken and the level of such support and, in the case of any commodity for which price support is mandatory, the level of support in excess of the minimum level prescribed for such commodity: (1) the supply of the commodity in relation to the demand therefor, (2) the price levels at which other commodities are being supported and, in the case of feed grains, the feed values of such grains in relation to corn, (3) the availability of funds, (4) the perishability of the commodity, (5) the importance of the commodity to agriculture and the national economy, (6) the ability to dispose of stocks acquired through a price-support operation, (7) the need for offsetting temporary losses of export markets, (8) the ability and willingness of producers to keep supplies in line with demand and (9), in the case of upland cotton, changes in the cost of producing such cotton.
+  (c) Compliance by producer; program for diverted acres
+     Compliance by the producer with acreage allotments, production goals and marketing practices (including marketing quotas when authorized by law), prescribed by the Secretary, may be required as a condition of eligibility for price support. In administering any program for diverted acres the Secretary may make his regulations applicable on an appropriate geographical basis. Such regulations shall be administered (1) in semiarid or other areas where good husbandry requires maintenance of a prudent feed reserve in such manner as to permit, to the extent so required by good husbandry, the production of forage crops for storage and subsequent use either on the farm or in feeding operations of the farm operator, and (2) in areas declared to be disaster areas by the President under the Disaster Relief and Emergency Assistance Act [42 U.S.C. 5121 et seq.], in such manner as will most quickly restore the normal pattern of their agriculture.
+  (d) Time of determining levels
+     The level of price support for any commodity shall be determined upon the basis of its parity price as of the beginning of the marketing year or season in the case of any commodity marketed on a marketing year or season basis and as of January 1 in the case of any other commodity.
+  (e) Processors“ assurances; payment if assurances inadequate
+    (1) Whenever any price support or surplus removal operation for any agricultural commodity is carried out through purchases from or loans or payments to processors, the Secretary shall, to the extent practicable, obtain from the processors such assurances as he deems adequate that the producers of the agricultural commodity involved have received or will receive maximum benefits from the price support or surplus removal operation.
+    (2)      (A) If the assurances under paragraph (1) are not adequate to cause the producers of sugar beets and sugarcane, because of the bankruptcy or other insolvency of the processor, to receive maximum benefits from the price support program within 30 days after the final settlement date provided for in the contract between such producers and processor, the Secretary, on demand made by such producers and on such assurances as to nonpayment as the Secretary shall require, shall pay such producers such maximum benefits less benefits previously received by such producers.
+      (B) On such payment, the Secretary shall–
+        (i) be subrogated to all claims of such producers against the processor and other persons responsible for nonpayment; and
+        (ii) have authority to pursue such claims as necessary to recover the benefits not paid to the producers.
+      (C) The Secretary shall carry out this paragraph through the Commodity Credit Corporation.
