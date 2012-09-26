@@ -18,8 +18,8 @@
         (iii) that is not subject to regulation by the Commission under section 6c or 23 of this title; or
       (C) the application of any Federal or State statute, including any rule or regulation thereunder, to any person required to be registered or designated under this chapter who shall fail or refuse to obtain such registration or designation.
     (2) This chapter shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of–
-      (A) an electronic trading facility excluded under section 2(e) of this title; and
-      (B) an agreement, contract, or transaction that is excluded from this chapter under section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title (regardless of whether any such agreement, contract, or transaction is otherwise subject to this chapter).
+      (A) an electronic trading facility excluded under section 2(e) \1\N of this title; and
+      (B) an agreement, contract, or transaction that is excluded from this chapter under section 2(c) or 2(f) of this title or sections 27 to 27f of this title, or exempted under section 6(c) of this title (regardless of whether any such agreement, contract, or transaction is otherwise subject to this chapter).
   (f) Investigative assistance to foreign futures authorities
     (1) On request from a foreign futures authority, the Commission may, in its discretion, provide assistance in accordance with this section if the requesting authority states that the requesting authority is conducting an investigation which it deems necessary to determine whether any person has violated, is violating, or is about to violate any laws, rules or regulations relating to futures or options matters that the requesting authority administers or enforces. The Commission may conduct such investigation as the Commission deems necessary to collect information and evidence pertinent to the request for assistance. Such assistance may be provided without regard to whether the facts stated in the request would also constitute a violation of the laws of the United States.
     (2) In deciding whether to provide assistance under this subsection, the Commission shall consider whether–
@@ -28,3 +28,7 @@
     (3) Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign futures authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation, or in providing any other assistance to a foreign futures authority, pursuant to this section. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
   (g) Computerized futures trading
      Consistent with its responsibilities under section 22 of this title, the Commission is directed to facilitate the development and operation of computerized trading as an adjunct to the open outcry auction system. The Commission is further directed to cooperate with the Office of the United States Trade Representative, the Department of the Treasury, the Department of Commerce, and the Department of State in order to remove any trade barriers that may be imposed by a foreign nation on the international use of electronic trading systems.
+  (h) Regulation of swaps as insurance under State law
+     A swap–
+    (1) shall not be considered to be insurance; and
+    (2) may not be regulated as an insurance contract under the law of any State.
