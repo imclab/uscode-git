@@ -5,10 +5,7 @@
   (c) Definitions
      In this section:
     (1) The term ””compensation““, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer“s cost accounting records for the fiscal year.
-    (2) The term ””senior executive““, with respect to a corporation, means–
-      (A) the chief executive officer of the corporation or any individual acting in a similar capacity for the corporation;
-      (B) the four most highly compensated employees in management positions of the corporation other than the chief executive officer; and
-      (C) in the case of a corporation that has components which report directly to the corporate headquarters, the five most highly compensated individuals in management positions at each such component.
+    (2) The term ””senior executives““, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
     (3) The term ””benchmark corporation““, with respect to a fiscal year, means a publicly-owned United States corporation that has annual sales in excess of $50,000,000 for the fiscal year.
     (4) The term ””publicly-owned United States corporation““ means a corporation organized under the laws of a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a possession of the United States the voting stock of which is publicly traded.
     (5) The term ””fiscal year““ means a fiscal year established by a contractor for accounting purposes.
