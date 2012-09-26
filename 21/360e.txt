@@ -23,8 +23,9 @@
       (C) a full description of the methods used in, and the facilities and controls used for, the manufacture, processing, and, when relevant, packing and installation of, such device;
       (D) an identifying reference to any performance standard under section 360d of this title which would be applicable to any aspect of such device if it were a class II device, and either adequate information to show that such aspect of such device fully meets such performance standard or adequate information to justify any deviation from such standard;
       (E) such samples of such device and of components thereof as the Secretary may reasonably require, except that where the submission of such samples is impracticable or unduly burdensome, the requirement of this subparagraph may be met by the submission of complete information concerning the location of one or more such devices readily available for examination and testing;
-      (F) specimens of the labeling proposed to be used for such device; and
-      (G) such other information relevant to the subject matter of the application as the Secretary, with the concurrence of the appropriate panel under section 360c of this title, may require.
+      (F) specimens of the labeling proposed to be used for such device;
+      (G) the certification required under section 282(j)(5)(B) of title 42 (which shall not be considered an element of such application); and
+      (H) such other information relevant to the subject matter of the application as the Secretary, with the concurrence of the appropriate panel under section 360c of this title, may require.
     (2)      (A) Any person may file with the Secretary a report seeking premarket approval for a class III device referred to in subsection (a) of this section that is a reprocessed single-use device. Such a report shall contain the following:
         (i) The device name, including both the trade or proprietary name and the common or usual name.
         (ii) The establishment registration number of the owner or operator submitting the report.

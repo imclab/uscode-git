@@ -1,16 +1,19 @@
   (a) Types of fees
     (1) In general
-       Beginning on October 26, 2002, the Secretary shall assess and collect fees in accordance with this section.
-    (2) Premarket application, premarket report, supplement, and submission fee
+       Beginning in fiscal year 2008, the Secretary shall assess and collect fees in accordance with this section.
+    (2) Premarket application, premarket report, supplement, and submission fee, and annual fee for periodic reporting concerning a class III device
       (A) In general
          Except as provided in subparagraph (B) and subsections (d) and (e) of this section, each person who submits any of the following, on or after October 1, 2002, shall be subject to a fee established under subsection (c)(1) of this section for the fiscal year involved in accordance with the following:
         (i) A premarket application.
         (ii) For a premarket report, a fee equal to the fee that applies under clause (i).
-        (iii) For a panel track supplement, a fee equal to the fee that applies under clause (i).
-        (iv) For a 180-day supplement, a fee equal to 21.5 percent of the fee that applies under clause (i).
-        (v) For a real-time supplement, a fee equal to 7.2 percent of the fee that applies under clause (i).
-        (vi) For an efficacy supplement, a fee equal to the fee that applies under clause (i).
-        (vii) For a premarket notification submission, a fee equal to 1.42 percent of the fee that applies under clause (i), subject to any adjustment under subsection (e)(2)(C)(ii) of this section.
+        (iii) For a panel track supplement, a fee equal to 75 percent of the fee that applies under clause (i).
+        (iv) For a 180-day supplement, a fee equal to 15 percent of the fee that applies under clause (i).
+        (v) For a real-time supplement, a fee equal to 7 percent of the fee that applies under clause (i).
+        (vi) For a 30-day notice, a fee equal to 1.6 percent of the fee that applies under clause (i).
+        (vii) For an efficacy supplement, a fee equal to the fee that applies under clause (i).
+        (viii) For a premarket notification submission, a fee equal to 1.84 percent of the fee that applies under clause (i).
+        (ix) For a request for classification information, a fee equal to 1.35 percent of the fee that applies under clause (i).
+        (x) For periodic reporting concerning a class III device, an annual fee equal to 3.5 percent of the fee that applies under clause (i).
       (B) Exceptions
         (i) Humanitarian device exemption
            An application under section 360j(m) of this title is not subject to any fee under subparagraph (A).
@@ -26,74 +29,95 @@
           (II) Subsequent proposal of adult conditions of use
              In the case of a person who submits a premarket application or premarket report for which, under subclause (I), a fee under subparagraph (A) is not required, any supplement to such application that proposes conditions of use for any adult population is subject to the fee that applies under such subparagraph for a premarket application.
       (C) Payment
-         The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002, shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) \1\N of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.
+         The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device. Applicants submitting portions of applications pursuant to section 360e(c)(4) of this title shall pay such fees upon submission of the first portion of such applications.
       (D) Refunds
         (i) Application refused for filing
            The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application, report, or supplement that is refused for filing.
         (ii) Application withdrawn before filing
            The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application, report, or supplement that is withdrawn prior to the filing decision of the Secretary.
         (iii) Application withdrawn before first action
-           After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of such application, report, or supplement. The Secretary shall have sole discretion to refund a fee or portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
-  (b) Fee revenue amounts
-     Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; and $29,785,000 in fiscal year 2005. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
+           After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of such application, report, or supplement.
+        (iv) Modular applications withdrawn before first action
+           The Secretary shall refund 75 percent of the application fee paid for an application submitted under section 360e(c)(4) of this title that is withdrawn before a second portion is submitted and before a first action on the first portion.
+        (v) Later withdrawn modular applications
+           If an application submitted under section 360e(c)(4) of this title is withdrawn after a second or subsequent portion is submitted but before any first action, the Secretary may return a portion of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of the portions submitted.
+        (vi) Sole discretion to refund
+           The Secretary shall have sole discretion to refund a fee or portion of the fee under clause (iii) or (v). A determination by the Secretary concerning a refund under clause (iii) or (v) shall not be reviewable.
+    (3) Annual establishment registration fee
+      (A) In general
+         Except as provided in subparagraph (B), each establishment subject to a registration fee shall be subject to a fee for each initial or annual registration under section 360 of this title beginning with its registration for fiscal year 2008.
+      (B) Exception
+         No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act \1\N [25 U.S.C. 450 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
+      (C) Payment
+         The fee required under subparagraph (A) shall be due once each fiscal year, upon the initial registration of the establishment or upon the annual registration under section 360 of this title.
+  (b) Fee amounts
+     Except as provided in subsections (c), (d), (e), and (h) the fees under subsection (a) shall be based on the following fee amounts:
+      
+     Premarket ApplicationD$185,000D$200,725D$217,787D$236,298D$256,38419
+     Establishment RegistrationD$1,706D$1,851D$2,008D$2,179D$2,364.
   (c) Annual fee setting
     (1) In general
-       The Secretary shall, 60 days before the start of each fiscal year after September 30, 2002, publish in the Federal Register fees under subsection (a) of this section. The fees established for fiscal year 2006 shall be based on a premarket application fee of $259,600, and the fees established for fiscal year 2007 shall be based on a premarket application fee of $281,600.
-    (2) Limit
-       The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of device applications.
-    (3) Supplement
+       The Secretary shall, 60 days before the start of each fiscal year after September 30, 2002, publish in the Federal Register fees under subsection (a) of this section.
+    (2) Adjustment
       (A) In general
-         For fiscal years 2006 and 2007, the Secretary may use unobligated carryover balances from fees collected in previous fiscal years to ensure that sufficient fee revenues are available in that fiscal year, so long as the Secretary maintains unobligated carryover balances of not less than 1 month of operating reserves for the first month of fiscal year 2008.
+         When setting fees for fiscal year 2010, the Secretary may increase the fee under subsection (a)(3)(A) (applicable to establishments subject to registration) only if the Secretary estimates that the number of establishments submitting fees for fiscal year 2009 is fewer than 12,250. The percentage increase shall be the percentage by which the estimate of establishments submitting fees in fiscal year 2009 is fewer than 12,750, but in no case may the percentage increase be more than 8.5 percent over that specified in subsection (b) for fiscal year 2010. If the Secretary makes any adjustment to the fee under subsection (a)(3)(A) for fiscal year 2010, then such fee for fiscal years 2011 and 2012 shall be adjusted so that such fee for fiscal year 2011 is equal to the adjusted fee for fiscal year 2010 increased by 8.5 percent, and such fee for fiscal year 2012 is equal to the adjusted fee for fiscal year 2011 increased by 8.5 percent.
+      (B) Publication
+         For any adjustment made under subparagraph (A), the Secretary shall publish in the Federal Register the Secretary“s determination to make the adjustment and the rationale for the determination.
+    (3) Limit
+       The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of device applications.
+    (4) Supplement
+      (A) In general
+         The Secretary may use unobligated carryover balances from fees collected in previous fiscal years to ensure that sufficient fee revenues are available in that fiscal year, so long as the Secretary maintains unobligated carryover balances of not less than 1 month of operating reserves for the first month of the next fiscal year.
       (B) Notice to Congress
          Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives.
   (d) Small businesses; fee waiver and fee reduction regarding premarket approval fees
     (1) In general
-       The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term ””small business““ means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vi) of subsection (a)(2)(A) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+       The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term ””small business““ means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
     (2) Rules relating to premarket approval fees
       (A) Definition
-         For purposes of this paragraph, the term ””small business““ means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
+         For purposes of this paragraph, the term ””small business““ means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
       (B) Evidence of qualification
-         An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
+        (i) In general
+           An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate.
+        (ii) Firms submitting tax returns to the United States Internal Revenue Service
+           The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
+        (iii) Firms not submitting tax returns to the United States Internal Revenue Service
+           In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant“s or affiliate“s gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant“s firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
       (C) Reduced fees
-         Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) of this section may be paid at a reduced rate of 38 percent of the fee established under such subsection for a premarket application, a premarket report, or a supplement.
+         Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) may be paid at a reduced rate of–
+        (i) 25 percent of the fee established under such subsection for a premarket application, a premarket report, a supplement, or periodic reporting concerning a class III device; and
+        (ii) 50 percent of the fee established under such subsection for a 30-day notice or a request for classification information.
       (D) Request for fee waiver or reduction
          An applicant seeking a fee waiver or reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a) of this section. The decision of the Secretary regarding whether an entity qualifies for such a waiver or reduction is not reviewable.
   (e) Small businesses; fee reduction regarding premarket notification submissions
     (1) In general
-       For fiscal year 2004 and each subsequent fiscal year, where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(2)(A)(vii) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+       For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(2)(A)(viii) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
     (2) Rules relating to premarket notification submissions
       (A) Definition
-         For purposes of this subsection, the term ””small business““ means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
+         For purposes of this subsection, the term ””small business““ means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
       (B) Evidence of qualification
-         An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
-      (C) Reduced fees
         (i) In general
-           For fiscal year 2004 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 80 percent of the fee that applies under subsection (a)(2)(A)(vii) of this section, as adjusted under clause (ii) and as established under subsection (c)(1) of this section.
-        (ii) Adjustment per fee revenue amount
-           For fiscal year 2004 and each subsequent fiscal year, the Secretary, in setting the revenue amount under subsection (c)(1) of this section for premarket notification submissions, shall determine the revenue amount that would apply if all such submissions for the fiscal year involved paid a fee equal to 1.42 percent of the amount that applies under subsection (a)(2)(A)(i) of this section for premarket applications, and shall adjust the fee under subsection (a)(2)(A)(vii) of this section for premarket notification submissions such that the reduced fees collected under clause (i) of this subparagraph, when added to fees for such submissions that are not paid at the reduced rate, will equal such revenue amount for the fiscal year.
+           An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for the lower fee rate.
+        (ii) Firms submitting tax returns to the United States Internal Revenue Service
+           The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
+        (iii) Firms not submitting tax returns to the United States Internal Revenue Service
+           In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant“s or affiliate“s gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant“s firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+      (C) Reduced fees
+         For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 50 percent of the fee that applies under subsection (a)(2)(A)(viii), and as established under subsection (c)(1).
       (D) Request for reduction
          An applicant seeking a fee reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a) of this section. The decision of the Secretary regarding whether an entity qualifies for such a reduction is not reviewable.
   (f) Effect of failure to pay fees
-     A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.
+    (1) No acceptance of submissions
+       A premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device submitted by a person subject to fees under subsections (a)(2) and (a)(3) shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.
+    (2) No registration
+       Registration information submitted under section 360 of this title by an establishment subject to a registration fee shall be considered incomplete and shall not be accepted by the Secretary until the registration fee under subsection (a)(3) owed for the establishment has been paid. Until the fee is paid and the registration is complete, the establishment is deemed to have failed to register in accordance with section 360 of this title.
   (g) Conditions
-    (1) Performance goals through fiscal year 2005; termination of program after fiscal year 2005
-       With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products:
-      (A)        (i) For each of the fiscal years 2003 and 2004, the Secretary is expected to meet all of the goals identified for the fiscal year involved in any letter referred to in section 101(3) of the Medical Device User Fee and Modernization Act of 2002 (referred to in this paragraph as ””performance goals““) if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is equal to or greater than $205,720,000 multiplied by the adjustment factor applicable to the fiscal year.
-        (ii) For each of the fiscal years 2003 and 2004, if the amount so appropriated for the fiscal year involved, excluding the amount of fees appropriated for such fiscal year, is less than the amount that applies under clause (i) for such fiscal year, the following applies:
-          (I) The Secretary is expected to meet such goals to the extent practicable, taking into account the amounts that are available to the Secretary for such purpose, whether from fees under subsection (a) of this section or otherwise.
-          (II) The Comptroller General of the United States shall submit to the Congress a report describing whether and to what extent the Secretary is meeting the performance goals identified for such fiscal year, and whether the Secretary will be able to meet all performance goals identified for fiscal year 2005. A report under the preceding sentence shall be submitted to the Congress not later than July 1 of the fiscal year with which the report is concerned.
-      (B)        (i) For fiscal year 2005, the Secretary is expected to meet all of the performance goals identified for the fiscal year if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is equal to or greater than $205,720,000 multiplied by the adjustment factor applicable to the fiscal year.
-        (ii) For fiscal year 2005, if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is more than 1 percent less than the amount that applies under clause (i), the following applies:
-          (I) The Secretary is expected to meet such goals to the extent practicable, taking into account the amounts that are available to the Secretary for such purpose, whether from fees under subsection (a) of this section or otherwise.
-          (II) The Comptroller General of the United States shall submit to the Congress a report describing whether and to what extent the Secretary is meeting the performance goals identified for such fiscal year, and whether the Secretary will be able to meet all performance goals identified for fiscal year 2006. The report under the preceding sentence shall be submitted to the Congress not later than July 1, 2005.
-      (C) For fiscal year 2006, fees may not be assessed under subsection (a) of this section for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if the total of the amounts so appropriated for fiscal years 2005 and 2006, excluding the amount of fees appropriated for such fiscal years, is more than 1 percent less than the sum of–
-        (i) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2006; and
-        (ii) an amount equal to the amount that applies for purposes of subparagraph (B)(i).
-      (D) For fiscal year 2007, fees may not be assessed under subsection (a) of this section for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if–
-        (i) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2007; or
-        (ii) pursuant to subparagraph (C), fees were not assessed under subsection (a) of this section for fiscal year 2006.
+    (1) Performance goals; termination of program
+       With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products, fees may not be assessed under subsection (a) for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if–
+      (A) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $205,720,000 multiplied by the adjustment factor applicable to such fiscal year; or
+      (B) fees were not assessed under subsection (a) for the previous fiscal year.
     (2) Authority
-       If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid.
+       If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
   (h) Crediting and availability of fees
     (1) In general
        Fees authorized under subsection (a) of this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
@@ -110,15 +134,15 @@
             (bb) such costs are not more than 5 percent below the level specified in such subparagraph.
         (ii) More than 5 percent
            To the extent such costs are more than 5 percent below the specified level in subparagraph (A)(ii), fees may not be collected under this section for that fiscal year.
-    (3) Authorization of appropriations
+    (3) Authorizations of appropriations
        There are authorized to be appropriated for fees under this section–
-      (A) $25,125,000 for fiscal year 2003;
-      (B) $27,255,000 for fiscal year 2004;
-      (C) $29,785,000 for fiscal year 2005; and
-      (D) such sums as may be necessary for each of fiscal years 2006 and 2007.\2\N
-       as adjusted to reflect adjustments in the total fee revenues made under this section and changes in the total amounts collected by application fees.
+      (A) $48,431,000 for fiscal year 2008;
+      (B) $52,547,000 for fiscal year 2009;
+      (C) $57,014,000 for fiscal year 2010;
+      (D) $61,860,000 for fiscal year 2011; and
+      (E) $67,118,000 for fiscal year 2012.
     (4) Offset
-       Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.
+       If the cumulative amount of fees collected during fiscal years 2008, 2009, and 2010, added to the amount estimated to be collected for fiscal year 2011, which estimate shall be based upon the amount of fees received by the Secretary through June 30, 2011, exceeds the amount of fees specified in aggregate in paragraph (3) for these four fiscal years, the aggregate amount in excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2012.
       (i) Collection of unpaid fees
          In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
       (j) Written requests for refunds

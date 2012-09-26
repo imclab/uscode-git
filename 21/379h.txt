@@ -1,19 +1,15 @@
-   For purposes of this part:
+   For purposes of this subpart:
   (1) The term ””human drug application““ means an application for–
-    (A) approval of a new drug submitted under section 355(b)(1) of this title,
-    (B) approval of a new drug submitted under section 355(b)(2) of this title after September 30, 1992, which requests approval of–
-      (i) a molecular entity which is an active ingredient (including any salt or ester of an active ingredient), or
-      (ii) an indication for a use,
-     that had not been approved under an application submitted under section 355(b) of this title, or
-    (C) licensure of a biological product under section 262 of title 42.
-   Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (C), of a large volume biological product intended for single dose injection for intravenous use or infusion.
+    (A) approval of a new drug submitted under section 355(b) of this title, or
+    (B) licensure of a biological product under section 262 of title 42.
+   Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (B), of a large volume biological product intended for single dose injection for intravenous use or infusion.
   (2) The term ””supplement““ means a request to the Secretary to approve a change in a human drug application which has been approved.
   (3) The term ””prescription drug product““ means a specific strength or potency of a drug in final dosage form–
     (A) for which a human drug application has been approved,
     (B) which may be dispensed only under prescription pursuant to section 353(b) of this title, and
-    (C) which is on the list of products described in section 355(j)(7)(A) of this title or is on a list created and maintained by the Secretary of products approved under human drug applications under section 262 of title 42.
+    (C) which is on the list of products described in section 355(j)(7)(A) of this title (not including the discontinued section of such list) or is on a list created and maintained by the Secretary of products approved under human drug applications under section 262 of title 42 (not including the discontinued section of such list).
    Such term does not include whole blood or a blood component for transfusion, does not include a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42. Such term does not include a biological product that is licensed for further manufacturing use only, and does not include a drug that is not distributed commercially and is the subject of an application or supplement submitted by a State or Federal Government entity. Such term does include a large volume biological product intended for single dose injection for intravenous use or infusion.
-  (4) The term ””final dosage form““ means, with respect to a prescription drug product, a finished dosage form which is approved for administration to a patient without substantial further manufacturing.
+  (4) The term ””final dosage form““ means, with respect to a prescription drug product, a finished dosage form which is approved for administration to a patient without substantial further manufacturing (such as capsules, tablets, or lyophilized products before reconstitution).
   (5) The term ””prescription drug establishment““ means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form. For purposes of this paragraph, the term ””manufactured““ does not include packaging.
   (6) The term ””process for the review of human drug applications““ means the following activities of the Secretary with respect to the review of human drug applications and supplements:
     (A) The activities necessary for the review of human drug applications and supplements.
@@ -21,13 +17,20 @@
     (C) The inspection of prescription drug establishments and other facilities undertaken as part of the Secretary“s review of pending human drug applications and supplements.
     (D) Activities necessary for the review of applications for licensure of establishments subject to section 262 of title 42 and for the release of lots of biologics under such section.
     (E) Monitoring of research conducted in connection with the review of human drug applications.
-    (F) In the case of drugs approved after October 1, 2002, under human drug applications or supplements: collecting, developing, and reviewing safety information on the drugs, including adverse event reports, during a period of time after approval of such applications or supplements, not to exceed three years.
+    (F) Postmarket safety activities with respect to drugs approved under human drug applications or supplements, including the following activities:
+      (i) Collecting, developing, and reviewing safety information on approved drugs, including adverse event reports.
+      (ii) Developing and using improved adverse-event data-collection systems, including information technology systems.
+      (iii) Developing and using improved analytical tools to assess potential safety problems, including access to external data bases.
+      (iv) Implementing and enforcing section 355(T3oK) of this title (relating to postapproval studies and clinical trials and labeling changes) and section 355(p) of this title (relating to risk evaluation and mitigation strategies).
+      (v) Carrying out section 355(k)(5) of this title (relating to adverse event reports and postmarket safety activities).
   (7) The term ””costs of resources allocated for the process for the review of human drug applications““ means the expenses incurred in connection with the process for the review of human drug applications for–
     (A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees and to contracts with such contractors,
     (B) management of information, and the acquisition, maintenance, and repair of computer resources,
     (C) leasing, maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, scientific equipment, and other necessary materials and supplies, and
     (D) collecting fees under section 379h of this title and accounting for resources allocated for the review of human drug applications and supplements.
-  (8) The term ””adjustment factor““ applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for April of the preceding fiscal year divided by such Index for April 1997.
-  (9) The term ””affiliate““ means a business entity that has a relationship with a second business entity if, directly or indirectly–
+  (8) The term ””adjustment factor““ applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 1996.
+  (9) The term ””person““ includes an affiliate thereof.
+  (10) The term ””active““, with respect to a commercial investigational new drug application, means such an application to which information was submitted during the relevant period.
+  (11) The term ””affiliate““ means a business entity that has a relationship with a second business entity if, directly or indirectly–
     (A) one business entity controls, or has the power to control, the other business entity; or
     (B) a third party controls, or has power to control, both of the business entities.
