@@ -1,17 +1,35 @@
-  (a) Not later than 150 days after the end of an agency“s fiscal year, the head of each agency shall prepare and submit to the President and the Congress, a report on program performance for the previous fiscal year.
-  (b)    (1) Each program performance report shall set forth the performance indicators established in the agency performance plan under section 1115, along with the actual program performance achieved compared with the performance goals expressed in the plan for that fiscal year.
-    (2) If performance goals are specified in an alternative form under section 1115(b), the results of such program shall be described in relation to such specifications, including whether the performance failed to meet the criteria of a minimally effective or successful program.
-  (c) The report for fiscal year 2000 shall include actual results for the preceding fiscal year, the report for fiscal year 2001 shall include actual results for the two preceding fiscal years, and the report for fiscal year 2002 and all subsequent reports shall include actual results for the three preceding fiscal years.
-  (d) Each report shall–
-    (1) review the success of achieving the performance goals of the fiscal year;
-    (2) evaluate the performance plan for the current fiscal year relative to the performance achieved toward the performance goals in the fiscal year covered by the report;
-    (3) explain and describe, where a performance goal has not been met (including when a program activity“s performance is determined not to have met the criteria of a successful program activity under section 1115(b)(1)(A)(ii) or a corresponding level of achievement if another alternative form is used)–
+  (a) The head of each agency shall make available on a public website of the agency and to the Office of Management and Budget an update on agency performance.
+  (b)    (1) Each update shall compare actual performance achieved with the performance goals established in the agency performance plan under section 1115(b) and shall occur no less than 150 days after the end of each fiscal year, with more frequent updates of actual performance on indicators that provide data of significant value to the Government, Congress, or program partners at a reasonable level of administrative burden.
+    (2) If performance goals are specified in an alternative form under section 1115(c), the results shall be described in relation to such specifications, including whether the performance failed to meet the criteria of a minimally effective or successful program.
+  (c) Each update shall–
+    (1) review the success of achieving the performance goals and include actual results for the 5 preceding fiscal years;
+    (2) evaluate the performance plan for the current fiscal year relative to the performance achieved toward the performance goals during the period covered by the update;
+    (3) explain and describe where a performance goal has not been met (including when a program activity“s performance is determined not to have met the criteria of a successful program activity under section 1115(c)(1)(A)(ii) or a corresponding level of achievement if another alternative form is used)–
       (A) why the goal was not met;
       (B) those plans and schedules for achieving the established performance goal; and
       (C) if the performance goal is impractical or infeasible, why that is the case and what action is recommended;
     (4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 \1\N of this title;
-    (5) include a review of the performance goals and evaluation of the performance plan relative to the agency“s strategic human capital management; and
-    (6) include the summary findings of those program evaluations completed during the fiscal year covered by the report.
-  (e)    (1) Except as provided in paragraph (2), each program performance report shall contain an assessment by the agency head of the completeness and reliability of the performance data included in the report. The assessment shall describe any material inadequacies in the completeness and reliability of the performance data, and the actions the agency can take and is taking to resolve such inadequacies.
-    (2) If a program performance report is incorporated into a report submitted under section 3516, the requirements of section 3516(e) shall apply in lieu of paragraph (1).
-  (f) The functions and activities of this section shall be considered to be inherently Governmental functions. The drafting of program performance reports under this section shall be performed only by Federal employees.
+    (5) include a review of the performance goals and evaluation of the performance plan relative to the agency“s strategic human capital management;
+    (6) describe how the agency ensures the accuracy and reliability of the data used to measure progress towards its performance goals, including an identification of–
+      (A) the means used to verify and validate measured values;
+      (B) the sources for the data;
+      (C) the level of accuracy required for the intended use of the data;
+      (D) any limitations to the data at the required level of accuracy; and
+      (E) how the agency has compensated for such limitations if needed to reach the required level of accuracy; and
+    (7) include the summary findings of those program evaluations completed during the period covered by the update.
+  (d) If an agency performance update includes any program activity or information that is specifically authorized under criteria established by an Executive Order to be kept secret in the interest of national defense or foreign policy and is properly classified pursuant to such Executive Order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
+  (e) The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of agency performance updates under this section shall be performed only by Federal employees.
+  (f) Each fiscal year, the Office of Management and Budget shall determine whether the agency programs or activities meet performance goals and objectives outlined in the agency performance plans and submit a report on unmet goals to–
+    (1) the head of the agency;
+    (2) the Committee on Homeland Security and Governmental Affairs of the Senate;
+    (3) the Committee on Oversight and Governmental Reform of the House of Representatives; and
+    (4) the Government Accountability Office.
+  (g) If an agency“s programs or activities have not met performance goals as determined by the Office of Management and Budget for 1 fiscal year, the head of the agency shall submit a performance improvement plan to the Office of Management and Budget to increase program effectiveness for each unmet goal with measurable milestones. The agency shall designate a senior official who shall oversee the performance improvement strategies for each unmet goal.
+  (h)    (1) If the Office of Management and Budget determines that agency programs or activities have unmet performance goals for 2 consecutive fiscal years, the head of the agency shall–
+      (A) submit to Congress a description of the actions the Administration will take to improve performance, including proposed statutory changes or planned executive actions; and
+      (B) describe any additional funding the agency will obligate to achieve the goal, if such an action is determined appropriate in consultation with the Director of the Office of Management and Budget, for an amount determined appropriate by the Director.
+    (2) In providing additional funding described under paragraph (1)(B), the head of the agency shall use any reprogramming or transfer authority available to the agency. If after exercising such authority additional funding is necessary to achieve the level determined appropriate by the Director of the Office of Management and Budget, the head of the agency shall submit a request to Congress for additional reprogramming or transfer authority.
+      (i) If an agency“s programs or activities have not met performance goals as determined by the Office of Management and Budget for 3 consecutive fiscal years, the Director of the Office of Management and Budget shall submit recommendations to Congress on actions to improve performance not later than 60 days after that determination, including–
+        (1) reauthorization proposals for each program or activity that has not met performance goals;
+        (2) proposed statutory changes necessary for the program activities to achieve the proposed level of performance on each performance goal; and
+        (3) planned executive actions or identification of the program for termination or reduction in the President“s budget.

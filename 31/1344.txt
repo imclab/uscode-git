@@ -39,7 +39,9 @@
   (h) As used in this section–
     (1) the term ””passenger carrier““ means a passenger motor vehicle, aircraft, boat, ship, or other similar means of transportation that is owned or leased by the United States Government; and
     (2) the term ””Federal agency““ means–
-      (A) a department (as such term is defined in section 18 of the Act of August 2, 1946 (41 U.S.C. 5a));
+      (A) a department–
+        (i) including independent establishments, other agencies, and wholly owned Government corporations; but
+        (ii) not including the Senate, House of Representatives, or Architect of the Capitol, or the officers or employees thereof;
       (B) an Executive department (as such term is defined in section 101 of title 5);
       (C) a military department (as such term is defined in section 102 of title 5);
       (D) a Government corporation (as such term is defined in section 103(1) of title 5);
