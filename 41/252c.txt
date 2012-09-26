@@ -1,0 +1,5 @@
+  (a) Implementation of FACNET capability
+    (1) The head of each executive agency shall implement the Federal acquisition computer network (””FACNET““) capability required by section 426 of this title.
+    (2) In implementing the FACNET capability pursuant to paragraph (1), the head of an executive agency shall consult with the Administrator for Federal Procurement Policy.
+  (b) Designation of agency official
+     The head of each executive agency shall designate a program manager to have responsibility for implementation of FACNET capability for that agency and otherwise to implement this section. Such program manager shall report directly to the senior procurement executive designated for the executive agency under section 414(3) of this title.

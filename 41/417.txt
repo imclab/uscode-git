@@ -1,0 +1,17 @@
+  (a) Establishment and maintenance of computer file by executive agency; time period coverage
+     Each executive agency shall establish and maintain for a period of five years a computer file, by fiscal year, containing unclassified records of all procurements greater than the simplified acquisition threshold in such fiscal year.
+  (b) Contents
+     The record established under subsection (a) of this section shall include–
+    (1) with respect to each procurement carried out using competitive procedures–
+      (A) the date of contract award;
+      (B) information identifying the source to whom the contract was awarded;
+      (C) the property or services obtained by the Government under the procurement; and
+      (D) the total cost of the procurement;
+    (2) with respect to each procurement carried out using procedures other than competitive procedures–
+      (A) the information described in clauses (1)(A), (1)(B), (1)(C), and (1)(D);
+      (B) the reason under section 253(c) of this title or section 2304(c) of title 10, as the case may be, for the use of such procedures; and
+      (C) the identity of the organization or activity which conducted the procurement.
+  (c) Record categories
+     The information that is included in such record pursuant to subsection (b)(1) of this section and relates to procurements resulting in the submission of a bid or proposal by only one responsible source shall be separately categorized from the information relating to other procurements included in such record. The record of such information shall be designated ””noncompetitive procurements using competitive procedures““.
+  (d) Transmission and data system entry of information
+     The information included in the record established and maintained under subsection (a) of this section shall be transmitted to the General Services Administration and shall be entered in the Federal Procurement Data System referred to in section 405(d)(4) of this section.
