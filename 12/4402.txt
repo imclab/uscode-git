@@ -35,7 +35,7 @@
      The term ””failed member““ means any member that–
     (A) fails to satisfy a covered clearing obligation when due,
     (B) has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings, or
-    (C) has generally ceased to meet its obligations when dud.
+    (C) has generally ceased to meet its obligations when due.
   (9) Financial institution
      The term ””financial institution““ means a broker or dealer, a depository institution, a futures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.
   (10) Futures commission merchant
