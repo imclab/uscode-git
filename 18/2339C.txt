@@ -32,9 +32,9 @@
   (c) T4ConcealmentK.–Whoever–
     (1)      (A) is in the United States; or
       (B) is outside the United States and is a national of the United States or a legal entity organized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
-    (2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support, resources, or funds–
-      (A) knowing or intending that the support or resources were provided in violation of section 2339B of this title; or
-      (B) knowing or intending that any such funds or any proceeds of such funds were provided or collected in violation of subsection (a),
+    (2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support or resources, or any funds or proceeds of such funds–
+      (A) knowing or intending that the support or resources are to be provided, or knowing that the support or resources were provided, in violation of section 2339B of this title; or
+      (B) knowing or intending that any such funds are to be provided or collected, or knowing that the funds were provided or collected, in violation of subsection (a),
          shall be punished as prescribed in subsection (d)(2).
   (d) T4Penalties.–
     (1) T4SubsectionK (a).–Whoever violates subsection (a) shall be fined under this title, imprisoned for not more than 20 years, or both.
@@ -60,6 +60,7 @@
     (9) the term ””international organization““ has the same meaning as in section 1116(b)(5) of this title;
     (10) the term ””armed conflict““ does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
     (11) the term ””serious bodily injury““ has the same meaning as in section 1365(g)(3) of this title; \1\N
-    (12) the term ””national of the United States““ has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); and
-    (13) the term ””state““ has the same meaning as that term has under international law, and includes all political subdivisions thereof.
+    (12) the term ””national of the United States““ has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+    (13) the term ””material support or resources““ has the same meaning given that term in section 2339B(g)(4) of this title; and
+    (14) the term ””state““ has the same meaning as that term has under international law, and includes all political subdivisions thereof.
   (f) T4Civil PenaltyK.–In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).

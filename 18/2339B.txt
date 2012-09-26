@@ -1,5 +1,5 @@
   (a) T4Prohibited Activities.–
-    (1) T4Unlawful conductK.–Whoever, within the United States or subject to the jurisdiction of the United States, knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life.
+    (1) T4Unlawful conductK.–Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
     (2) T4Financial institutionsK.–Except as authorized by the Secretary, any financial institution that becomes aware that it has possession of, or control over, any funds in which a foreign terrorist organization, or its agent, has an interest, shall–
       (A) retain possession of, or maintain control over, such funds; and
       (B) report to the Secretary the existence of such funds in accordance with regulations issued by the Secretary.
@@ -7,7 +7,15 @@
     (A) $50,000 per violation; or
     (B) twice the amount of which the financial institution was required under subsection (a)(2) to retain possession or control.
   (c) T4InjunctionK.–Whenever it appears to the Secretary or the Attorney General that any person is engaged in, or is about to engage in, any act that constitutes, or would constitute, a violation of this section, the Attorney General may initiate civil action in a district court of the United States to enjoin such violation.
-  (d) T4Extraterritorial JurisdictionK.–There is extraterritorial Federal jurisdiction over an offense under this section.
+  (d) T4Extraterritorial JurisdictionK.–
+    (1) T4In generalK.–There is jurisdiction over an offense under subsection (a) if–
+      (A) an offender is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)));
+      (B) an offender is a stateless person whose habitual residence is in the United States;
+      (C) after the conduct required for the offense occurs an offender is brought into or found in the United States, even if the conduct required for the offense occurs outside the United States;
+      (D) the offense occurs in whole or in part within the United States;
+      (E) the offense occurs in or affects interstate or foreign commerce; or
+      (F) an offender aids or abets any person over whom jurisdiction exists under this paragraph in committing an offense under subsection (a) or conspires with any person over whom jurisdiction exists under this paragraph to commit an offense under subsection (a).
+    (2) T4Extraterritorial jurisdictionK.–There is extraterritorial Federal jurisdiction over an offense under this section.
   (e) T4Investigations.–
     (1) T4In generalK.–The Attorney General shall conduct any investigation of a possible violation of this section, or of any license, order, or regulation issued pursuant to this section.
     (2) T4Coordination with the department of the treasuryK.–The Attorney General shall work in coordination with the Secretary in investigations relating to–
@@ -54,6 +62,9 @@
     (1) the term ””classified information““ has the meaning given that term in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.);
     (2) the term ””financial institution““ has the same meaning as in section 5312(a)(2) of title 31, United States Code;
     (3) the term ””funds““ includes coin or currency of the United States or any other country, traveler“s checks, personal checks, bank checks, money orders, stocks, bonds, debentures, drafts, letters of credit, any other negotiable instrument, and any electronic representation of any of the foregoing;
-    (4) the term ””material support or resources““ has the same meaning as in section 2339A;
+    (4) the term ””material support or resources““ has the same meaning given that term in section 2339A (including the definitions of ””training““ and ””expert advice or assistance““ in that section);
     (5) the term ””Secretary““ means the Secretary of the Treasury; and
     (6) the term ””terrorist organization““ means an organization designated as a terrorist organization under section 219 of the Immigration and Nationality Act.
+  (h) T4Provision of PersonnelK.–No person may be prosecuted under this section in connection with the term ””personnel““ unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization“s direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization“s direction and control.
+  (i) T4Rule of ConstructionK.–Nothing in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+  (j) T4ExceptionK.–No person may be prosecuted under this section in connection with the term ””personnel““, ””training““, or ””expert advice or assistance““ if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
