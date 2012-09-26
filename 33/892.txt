@@ -4,10 +4,10 @@
   (2) Administration
      The term ””Administration““ means the National Oceanic and Atmospheric Administration.
   (3) Hydrographic data
-     The term ””hydrographic data““ means information acquired through hydrographic or bathymetric surveying, photogrammetry, geodetic measurements, tide and current observations, or other methods, that is used in providing hydrographic services.
+     The term ””hydrographic data““ means information acquired through hydrographic or bathymetric surveying, photogrammetry, geodetic, geospatial, or geomagnetic measurements, tide and current observations, or other methods, that is used in providing hydrographic services.
   (4) Hydrographic services
      The term ””hydrographic services““ means–
-    (A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, geodetic, and tide and current information, including the production of nautical charts, nautical information databases, and other products derived from hydrographic data;
+    (A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, geodetic, geospatial, geomagnetic, and tide and current information, including the production of nautical charts, nautical information databases, and other products derived from hydrographic data;
     (B) the development of nautical information systems; and
     (C) related activities.
   (5) Act of 1947
