@@ -1,9 +1,19 @@
-  (a) In general
-     A dietary supplement which contains a new dietary ingredient shall be deemed adulterated under section 342(f) of this title unless it meets one of the following requirements:
-    (1) The dietary supplement contains only dietary ingredients which have been present in the food supply as an article used for food in a form in which the food has not been chemically altered.
-    (2) There is a history of use or other evidence of safety establishing that the dietary ingredient when used under the conditions recommended or suggested in the labeling of the dietary supplement will reasonably be expected to be safe and, at least 75 days before being introduced or delivered for introduction into interstate commerce, the manufacturer or distributor of the dietary ingredient or dietary supplement provides the Secretary with information, including any citation to published articles, which is the basis on which the manufacturer or distributor has concluded that a dietary supplement containing such dietary ingredient will reasonably be expected to be safe.
-       The Secretary shall keep confidential any information provided under paragraph (2) for 90 days following its receipt. After the expiration of such 90 days, the Secretary shall place such information on public display, except matters in the information which are trade secrets or otherwise confidential, commercial information.
-  (b) Petition
-     Any person may file with the Secretary a petition proposing the issuance of an order prescribing the conditions under which a new dietary ingredient under its intended conditions of use will reasonably be expected to be safe. The Secretary shall make a decision on such petition within 180 days of the date the petition is filed with the Secretary. For purposes of chapter 7 of title 5, the decision of the Secretary shall be considered final agency action.
-  (c) ””New dietary ingredient““ defined
-     For purposes of this section, the term ””new dietary ingredient““ means a dietary ingredient that was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
+  (a) Registration
+    (1) In general
+       The Secretary shall by regulation require that any facility engaged in manufacturing, processing, packing, or holding food for consumption in the United States be registered with the Secretary. To be registered–
+      (A) for a domestic facility, the owner, operator, or agent in charge of the facility shall submit a registration to the Secretary; and
+      (B) for a foreign facility, the owner, operator, or agent in charge of the facility shall submit a registration to the Secretary and shall include with the registration the name of the United States agent for the facility.
+    (2) Registration
+       An entity (referred to in this section as the ””registrant““) shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations) of any food manufactured, processed, packed, or held at such facility. The registrant shall notify the Secretary in a timely manner of changes to such information.
+    (3) Procedure
+       Upon receipt of a completed registration described in paragraph (1), the Secretary shall notify the registrant of the receipt of such registration and assign a registration number to each registered facility.
+    (4) List
+       The Secretary shall compile and maintain an up-to-date list of facilities that are registered under this section. Such list and any registration documents submitted pursuant to this subsection shall not be subject to disclosure under section 552 of title 5. Information derived from such list or registration documents shall not be subject to disclosure under section 552 of title 5 to the extent that it discloses the identity or location of a specific registered person.
+  (b) Facility
+     For purposes of this section:
+    (1) The term ””facility““ includes any factory, warehouse, or establishment (including a factory, warehouse, or establishment of an importer) that manufactures, processes, packs, or holds food. Such term does not include farms; restaurants; other retail food establishments; nonprofit food establishments in which food is prepared for or served directly to the consumer; or fishing vessels (except such vessels engaged in processing as defined in section 123.3(k) of title 21, Code of Federal Regulations).
+    (2) The term ””domestic facility““ means a facility located in any of the States or Territories.
+    (3)      (A) The term ””foreign facility““ means a facility that manufacturers, processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
+      (B) A food may not be considered to have undergone further processing or packaging for purposes of subparagraph (A) solely on the basis that labeling was added or that any similar activity of a de minimis nature was carried out with respect to the food.
+  (c) Rule of construction
+     Nothing in this section shall be construed to authorize the Secretary to require an application, review, or licensing process.

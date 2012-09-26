@@ -25,7 +25,8 @@
   (c) Animal inspection and veterinary diagnostics
     (1) Animal inspection
        The Secretary may prescribe and collect fees to reimburse the Secretary for the cost of carrying out the provisions of the Federal Animal Quarantine Laws that relate to the importation, entry, and exportation of animals, articles, or means of conveyance.
-    (2) Omitted
+    (2) Veterinary diagnostics
+       The Secretary may prescribe and collect fees to recover the costs of carrying out the provisions of the Animal Health Protection Act [7 U.S.C. 8301 et seq.] that relate to veterinary diagnostics.
     (3) Fees
        All fees collected pursuant to this subsection and any late payment penalties or accrued interest collected pursuant to this subsection shall be credited to the accounts that incur the cost and shall remain available until expended without fiscal year limitation.
     (4) Liability
@@ -47,21 +48,10 @@
   (f) Definitions
     (1) Animal quarantine laws
        For purposes of this section, the term ””animal quarantine laws““ means–
-      (A) section 306 of the Tariff Act of 1930 (19 U.S.C. 1306);
-      (B) sections 6 through 10 of the Act of August 30, 1890 (26 Stat. 416, chapter 839; 21 U.S.C. 101–105);
-      (C) section 2 of the Act of February 2, 1903 (32 Stat. 792, chapter 349; 21 U.S.C. 111);
-      (D) the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 112 to 114a–1, 115, 117–119, and 130) (commonly known as the ””Animal Industry Act““);
-      (E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, [114d,] and 114d–1);
-      (F) the Act of June 16, 1948 (62 Stat. 458, chapter 477; 21 U.S.C. 114e and 114f);
-      (G) Public Law 87–209 (21 U.S.C. 114g and 114h);
-      (H) the Act of May 31, 1920 (41 Stat. 699, chapter 217; 21 U.S.C. 116);
-      (I) the Act of February 2, 1903 (32 Stat. 791, chapter 349; 21 U.S.C. 112 and 120–122) (commonly known as the ””Cattle Contagious Diseases Act of 1903““);
-      (J) the Act of March 3, 1905 (33 Stat. 1264, chapter 1496; 21 U.S.C. 123–127) (commonly known as the ””Cattle Contagious Diseases Act of 1905““);
-      (K) the matter under the heading ””Bureau of Animal Industry““ of the Act of June 30, 1914 (38 Stat. 419, chapter 131; 21 U.S.C. 128);
-      (L) section 101 of Public Law 92–73 (21 U.S.C. 129);
-      (M) the matter under the heading ””Miscellaneous““ of the Act of May 26, 1910 (36 Stat. 440, chapter 256; 21 U.S.C. 131);
-      (N) sections 1 through 6 and 11 through 13 of Public Law 87–518 (21 U.S.C. 134–134h); or
-      (O) any other Act administered by the Secretary relating to plant or animal diseases or pests, other than the first section of Public Law 91–239 (21 U.S.C. 135).
+      (A) section 306 of the Tariff Act of 1930 \3\N (19 U.S.C. 1306);
+      (B) section 9 of the Act of August 30, 1890 (21 U.S.C. 101);
+      (C) the Animal Health Protection Act [7 U.S.C. 8301 et seq.]; or
+      (D) any other Act administered by the Secretary relating to plant or animal diseases or pests.
     (2) Customs territory
        For the purposes of subsection (a) of this section, the term ””customs territory of the United States““ means the 50 States, the District of Columbia, and Puerto Rico.
     (3) Person

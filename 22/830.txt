@@ -10,14 +10,25 @@
       (D) any regulated transaction in a tableting machine or an encapsulating machine.
          Each report under subparagraph (A) shall be made at the earliest practicable opportunity after the regulated person becomes aware of the circumstance involved. A regulated person may not complete a transaction with a person whose description or identifying characteristic is furnished to the regulated person under subparagraph (B) unless the transaction is approved by the Attorney General. The Attorney General shall make available to regulated persons guidance documents describing transactions and circumstances for which reports are required under subparagraph (A) and subparagraph (C).
     (2) A regulated person that manufactures a listed chemical shall report annually to the Attorney General, in such form and manner and containing such specific data as the Attorney General shall prescribe by regulation, information concerning listed chemicals manufactured by the person. The requirement of the preceding sentence shall not apply to the manufacture of a drug product that is exempted under section 802(39)(A)(iv) of this title.
-    (3) T4Mail order reportingK.–(A) Each regulated person who engages in a transaction with a nonregulated person which–
-      (i) involves ephedrine, pseudoephedrine, or phenylpropanolamine (including drug products containing these chemicals); and
-      (ii) uses or attempts to use the Postal Service or any private or commercial carrier;
-         shall, on a monthly basis, submit a report of each such transaction conducted during the previous month to the Attorney General in such form, containing such data, and at such times as the Attorney General shall establish by regulation.
-  (B) The data required for such reports shall include–
+    (3) T4Mail order reportingK.–(A) As used in this paragraph:
+      (i) The term ””drug product““ means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] for distribution in the United States.
+      (ii) The term ””valid prescription““ means a prescription which is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner“s professional practice.
+  (B) Each regulated person who engages in a transaction with a nonregulated person or who engages in an export transaction which–
+    (i) involves ephedrine, pseudoephedrine, or phenylpropanolamine (including drug products containing these chemicals); and
+    (ii) uses or attempts to use the Postal Service or any private or commercial carrier;
+       shall, on a monthly basis, submit a report of each such transaction conducted during the previous month to the Attorney General in such form, containing such data, and at such times as the Attorney General shall establish by regulation.
+  (C) The data required for such reports shall include–
     (i) the name of the purchaser;
     (ii) the quantity and form of the ephedrine, pseudoephedrine, or phenylpropanolamine purchased; and
     (iii) the address to which such ephedrine, pseudoephedrine, or phenylpropanolamine was sent.
+  (D) Except as provided in subparagraph (E), the following distributions to a nonregulated person, and the following export transactions, shall not be subject to the reporting requirement in subparagraph (B):
+    (i) Distributions of sample packages of drug products when such packages contain not more than two solid dosage units or the equivalent of two dosage units in liquid form, not to exceed 10 milliliters of liquid per package, and not more than one package is distributed to an individual or residential address in any 30-day period.
+    (ii) Distributions of drug products by retail distributors that may not include face-to-face transactions to the extent that such distributions are consistent with the activities authorized for a retail distributor as specified in section 802(46) of this title.
+    (iii) Distributions of drug products to a resident of a long term care facility (as that term is defined in regulations prescribed by the Attorney General) or distributions of drug products to a long term care facility for dispensing to or for use by a resident of that facility.
+    (iv) Distributions of drug products pursuant to a valid prescription.
+    (v) Exports which have been reported to the Attorney General pursuant to section 954 or 971 of this title or which are subject to a waiver granted under section 971(e)(2) of this title.
+    (vi) Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II of this chapter.
+  (E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II of this chapter. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
   (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
     (1) Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5, by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
     (2) Information referred to in paragraph (1) may be disclosed only–
