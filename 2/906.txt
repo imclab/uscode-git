@@ -1,52 +1,106 @@
-  (a) Sequestration
-     Within 15 calendar days after Congress adjourns to end a session (other than of the One Hundred First Congress) and on the same day as a sequestration (if any) under section 901 of this title and section 902 of this title, but after any sequestration required by section 901 of this title (enforcing discretionary spending limits) or section 902 of this title (enforcing pay-as-you-go), there shall be a sequestration to eliminate the excess deficit (if any remains) if it exceeds the margin.
-  (b) Excess deficit; margin
-     The excess deficit is, if greater than zero, the estimated deficit for the budget year, minus–
-    (1) the maximum deficit amount for that year;
-    (2) the amounts for that year designated as emergency direct spending or receipts legislation under section 902(e) of this title; and
-    (3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h) of this section.
-       The ””margin““ for fiscal year 1992 or 1993 is zero and for fiscal year 1994 or 1995 is $15,000,000,000.
-  (c) Dividing sequestration
-     To eliminate the excess deficit in a budget year, half of the required outlay reductions shall be obtained from non-exempt defense accounts (accounts designated as function 050 in the President“s fiscal year 1991 budget submission) and half from non-exempt, non-defense accounts (all other non-exempt accounts).
-  (d) Defense
-     Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c) of this section, except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in section 901(a)(3) of this title.
-  (e) Non-defense
-     Actions to reduce non-defense accounts shall be taken in the following order:
-    (1) First
-       All reductions in automatic spending increases under section 906(a) of this title shall be made.
-    (2) Second
-       If additional reductions in non-defense accounts are required to be made, the maximum reduction permissible under sections 906(b) of this title (guaranteed student loans) and 906(c) of this title (foster care and adoption assistance) shall be made.
-    (3) Third
-      (A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that–
-        (i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
-        (ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
-       and the uniform percent applicable to all other programs under this subsection shall be increased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
-      (B) For purposes of determining reductions under subparagraph (A), outlay reduction (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
-  (f) Baseline assumptions; part-year appropriations
-    (1) Budget assumptions
-       For purposes of subsections (b), (c), (d), and (e) of this section, accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
-    (2) Part-year appropriations
-       If, on the date specified in subsection (a) of this section, there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e) of this section, as applicable, shall be subtracted from–
-      (A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
-      (B) when a full-year appropriation for that account is enacted, from the amount otherwise provided by the full-year appropriation; except that the amount to be sequestered from that account shall be reduced (but not below zero) by the savings achieved by that appropriation when the enacted amount is less than the baseline for that account.
-       Each adjustment shall be made by increasing or decreasing the maximum deficit amounts set forth in section 665 of this title.
-  (g) Adjustments to maximum deficit amounts
-    (1) Adjustments
-      (A) When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
-      (B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) and 901(b)(2)(E) of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
-      (C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
-      (D) For each fiscal year the adjustments required to be made with the submission of the President“s budget for that year shall also be made when OMB submits the sequestration update report and the final sequestration report for that year, but OMB shall continue to use the economic and technical assumptions in the President“s budget for that year.
-    (2) Calculations of adjustments
-       The required increase or decrease shall be calculated as follows:
-      (A) The baseline deficit or surplus shall be calculated using up-to-date economic and technical assumptions, using up-to-date concepts and definitions, and, in lieu of the baseline levels of discretionary appropriations, using the discretionary spending limits set forth in section 665 of this title as adjusted under section 901 of this title.
-      (B) The net deficit increase or decrease caused by all direct spending and receipts legislation enacted after November 5, 1990 (after adjusting for any sequestration of direct spending accounts) shall be calculated for each fiscal year by adding–
-        (i) the estimates of direct spending and receipts legislation transmitted under section 902(d) of this title applicable to each such fiscal year; and
-        (ii) the estimated amount of savings in direct spending programs applicable to each such fiscal year resulting from the prior year“s sequestration under this section or section 902 of this title of direct spending, if any, as contained in OMB“s final sequestration report for that year.
-      (C) The amount calculated under subparagraph (B) shall be subtracted from the amount calculated under subparagraph (A).
-      (D) The maximum deficit amount set forth in section 665 of this title shall be subtracted from the amount calculated under subparagraph (C).
-      (E) The amount calculated under subparagraph (D) shall be the amount of the adjustment required by paragraph (1).
-  (h) Treatment of deposit insurance
-    (1) Initial estimates
-       The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
-    (2) Reestimates
-       For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurance costs shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
+  (a) Automatic spending increases
+     Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
+    (1) National Wool Act;
+    (2) Special milk program; and
+    (3) Vocational rehabilitation basic State grants.
+       In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter.
+  (b) Effect of orders on guaranteed student loan program
+    (1) Any reductions which are required to be achieved from the student loan programs operated pursuant to part B of title IV of the Higher Education Act of 1965 [20 U.S.C. 1071 et seq.], as a consequence of an order issued pursuant to section 904 of this title, shall be achieved only from loans described in paragraphs (2) and (3) by the application of the measures described in such paragraphs.
+    (2) For any loan made during the period beginning on the date that an order issued under section 904 of this title takes effect with respect to a fiscal year and ending at the close of such fiscal year, the rate used in computing the special allowance payment pursuant to section 438(b)(2)(A)(iii) of such Act [20 U.S.C. 1087–1(b)(2)(A)(iii)] for each of the first four special allowance payments for such loan shall be adjusted by reducing such rate by the lesser of–
+      (A) 0.40 percent, or
+      (B) the percentage by which the rate specified in such section exceeds 3 percent.
+    (3) For any loan made during the period beginning on the date that an order issued under section 904 of this title takes effect with respect to a fiscal year and ending at the close of such fiscal year, the origination fee which is authorized to be collected pursuant to section 438(c)(2) of such Act [20 U.S.C. 1087–1(c)(2)] shall be increased by 0.50 percent.
+  (c) Treatment of foster care and adoption assistance programs
+     Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act [42 U.S.C. 670 et seq.]) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act [42 U.S.C. 674] (for such fiscal year) for that portion of the State“s payments which is attributable to the increases taking effect during that year. No State“s matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made.
+  (d) Special rules for Medicare program
+    (1) Calculation of reduction in individual payment amounts
+       To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act [42 U.S.C. 911], OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.
+    (2) Timing of application of reductions
+      (A) In general
+         Except as provided in subparagraph (B), if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for services furnished during the effective period of the order. For purposes of the previous sentence, in the case of inpatient services furnished for an individual, the services shall be considered to be furnished on the date of the individual“s discharge from the inpatient facility.
+      (B) Payment on the basis of cost reporting periods
+         In the case in which payment for services of a provider of services is made under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) in the same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
+    (3) No increase in beneficiary charges in assignment-related cases
+       If a reduction in payment amounts is made under paragraph (1) for services for which payment under part B of title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] is made on the basis of an assignment described in section 1842(b)(3)(B)(ii) [42 U.S.C. 1395u(b)(3)(B)(ii)], in accordance with section 1842(b)(6)(B) [42 U.S.C. 1395u(b)(6)(B)], or under the procedure described in section 1870(f)(1) [42 U.S.C. 1395gg(f)(1)], of such Act, the person furnishing the services shall be considered to have accepted payment of the reasonable charge for the services, less any reduction in payment amount made pursuant to a sequestration order, as payment in full.
+    (4) No effect on computation of AAPCC
+       In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act [42 U.S.C. 1395mm(a)(4)], the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.
+  (e) Community and migrant health centers, Indian health services and facilities, and veterans“ medical care
+    (1) The maximum permissible reduction in budget authority for any account listed in paragraph (2) for any fiscal year, pursuant to an order issued under section 904 of this title, shall be–
+      (A) 1 percent in the case of the fiscal year 1986, and
+      (B) 2 percent in the case of any subsequent fiscal year.
+    (2) The accounts referred to in paragraph (1) are as follows:
+      (A) Community health centers (75-0350-0-1-550).
+      (B) Migrant health centers (75-0350-0-1-550).
+      (C) Indian health facilities (75-0391-0-1-551).
+      (D) Indian health services (75-0390-0-1-551).
+      (E) Veterans“ medical care (36-0160-0-1-703).
+         For purposes of the preceding provisions of this paragraph, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government–Appendix.
+  (f) Treatment of child support enforcement program
+     Notwithstanding any change in the display of budget accounts, any order issued by the President under section 904 of this title shall accomplish the full amount of any required reduction in expenditures under sections 455 and 458 of the Social Security Act [42 U.S.C. 655, 658] by reducing the Federal matching rate for State administrative costs under such program, as specified (for the fiscal year involved) in section 455(a) of such Act, to the extent necessary to reduce such expenditures by that amount.
+  (g) Federal pay
+    (1) In general
+       For purposes of any order issued under section 904 of this title–
+      (A) Federal pay under a statutory pay system, and
+      (B) elements of military pay,
+       shall be subject to reduction under an order in the same manner as other administrative expense components of the Federal budget; except that no such order may reduce or have the effect of reducing the rate of pay to which any individual is entitled under any such statutory pay system (as increased by any amount payable under section 5304 of title 5 or section 302 of the Federal Employees Pay Comparability Act of 1990) or the rate of any element of military pay to which any individual is entitled under title 37, or any increase in rates of pay which is scheduled to take effect under section 5303 of title 5, section 1009 of title 37, or any other provision of law.
+    (2) Definitions
+       For purposes of this subsection:
+      (A) The term ””statutory pay system““ shall have the meaning given that term in section 5302(1) of title 5.
+      (B) The term ””elements of military pay““ means–
+        (i) the elements of compensation of members of the uniformed services specified in section 1009 of title 37,
+        (ii) allowances provided members of the uniformed services under sections 403a and 405 of such title, and
+        (iii) cadet pay and midshipman pay under section 203(c) of such title.
+      (C) The term ””uniformed services““ shall have the meaning given that term in section 101(3) of title 37.
+  (h) Treatment of Federal administrative expenses
+    (1) Notwithstanding any other provision of this title,\1\N administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
+    (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this joint resolution.
+    (3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) \1\ of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
+    (4) Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
+      (A) Comptroller of the Currency.
+      (B) Federal Deposit Insurance Corporation.
+      (C) Office of Thrift Supervision.\2\N
+      (D) Office of Thrift Supervision.\2\
+      (E) National Credit Union Administration.
+      (F) National Credit Union Administration, central liquidity facility.
+      (G) Federal Retirement Thrift Investment Board.
+      (H) Resolution Funding Corporation.
+        (I) Resolution Trust Corporation.
+          (i) Treatment of payments and advances made with respect to unemployment compensation programs
+            (1) For purposes of section 904 of this title–
+              (A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [42 U.S.C. 1104(a)]),
+              (B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [42 U.S.C. 1104(g)]) under title XII of such Act [42 U.S.C. 1321 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [42 U.S.C. 1323], and
+              (C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [42 U.S.C. 1109]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+                 shall not be subject to reduction.
+            (2)              (A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970 for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
+              (B) A reduction by a State in accordance with subparagraph (A) shall not be considered as a failure to fulfill the requirements of section 3304(a)(11) of title 26.
+          (j) Commodity Credit Corporation
+            (1) Powers and authorities of the Commodity Credit Corporation
+               This title \3\N shall not restrict the Commodity Credit Corporation in the discharge of its authority and responsibility as a corporation to buy and sell commodities in world trade, to use the proceeds as a revolving fund to meet other obligations and otherwise operate as a corporation, the purpose for which it was created.
+            (2) Reduction in payments made under contracts
+              (A) Payments and loan eligibility under any contract entered into with a person by the Commodity Credit Corporation prior to the time an order has been issued under section 904 of this title shall not be reduced by an order subsequently issued. Subject to subparagraph (B), after an order is issued under such section for a fiscal year, any cash payments made by the Commodity Credit Corporation–
+                (i) under the terms of any one-year contract entered into in such fiscal year and after the issuance of the order; and
+                (ii) out of an entitlement account,
+               to any person (including any producer, lender, or guarantee entity) shall be subject to reduction under the order.
+              (B) Each contract entered into with producers or producer cooperatives with respect to a particular crop of a commodity and subject to reduction under subparagraph (A) shall be reduced in accordance with the same terms and conditions. If some, but not all, contracts applicable to a crop of a commodity have been entered into prior to the issuance of an order under section 904 of this title, the order shall provide that the necessary reduction in payments under contracts applicable to the commodity be uniformly applied to all contracts for the next succeeding crop of the commodity, under the authority provided in paragraph (3).
+            (3) Delayed reduction in outlays permissible
+               Notwithstanding any other provision of this joint resolution, if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies. No other account, or other program, project, or activity, shall bear an increased reduction for the fiscal year to which the order applies as a result of the operation of the preceding sentence.
+            (4) Uniform percentage rate of reduction and other limitations
+               All reductions described in paragraph (2) which are required to be made in connection with an order issued under section 904 of this title with respect to a fiscal year–
+              (A) shall be made so as to ensure that outlays for each program, project, activity, or account involved are reduced by a percentage rate that is uniform for all such programs, projects, activities, and accounts, and may not be made so as to achieve a percentage rate of reduction in any such item exceeding the rate specified in the order; and
+              (B) with respect to commodity price support and income protection programs, shall be made in such manner and under such procedures as will attempt to ensure that–
+                (i) uncertainty as to the scope of benefits under any such program is minimized;
+                (ii) any instability in market prices for agricultural commodities resulting from the reduction is minimized; and
+                (iii) normal production and marketing relationships among agricultural commodities (including both contract and non-contract commodities) are not distorted.
+               In meeting the criterion set out in clause (iii) of subparagraph (B) of the preceding sentence, the President shall take into consideration that reductions under an order may apply to programs for two or more agricultural commodities that use the same type of production or marketing resources or that are alternative commodities among which a producer could choose in making annual production decisions.
+            (5) No double reduction
+               No agricultural price support or income protection program that is subject to reduction under an order issued under section 904 of this title for a fiscal year may be subject, as well, to modification or suspension under such order as an automatic spending increase.
+            (6) Certain authority not to be limited
+               Nothing in this joint resolution shall limit or reduce, in any way, any appropriation that provides the Commodity Credit Corporation with budget authority to cover the Corporation“s net realized losses.
+          (k) Effects of sequestration
+             The effects of sequestration shall be as follows:
+            (1) Budgetary resources sequestered from any account other than a trust or special fund account shall be permanently cancelled.
+            (2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President“s budget).
+            (3) Administrative regulations or similar actions implementing a sequestration shall be made within 120 days of the sequestration order. To the extent that formula allocations differ at different levels of budgetary resources within an account, program, project, or activity, the sequestration shall be interpreted as producing a lower total appropriation, with the remaining amount of the appropriation being obligated in a manner consistent with program allocation formulas in substantive law.
+            (4) Except as otherwise provided, obligations in sequestered accounts shall be reduced only in the fiscal year in which a sequester occurs.
+            (5) If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
+            (6) Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.
