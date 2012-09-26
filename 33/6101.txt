@@ -1,27 +1,31 @@
-   In this chapter–
-  (1) ””administering office““ means the lowest unit of an agency responsible for managing a domestic assistance program.
-  (2) ””agency““ has the same meaning given that term in section 551(1) of title 5.
-  (3) ””assistance““–
-    (A) means the transfer of anything of value for a public purpose of support or stimulation authorized by a law of the United States, including–
-      (i) financial assistance;
-      (ii) United States Government facilities, services, and property; and
-      (iii) expert and technical information; and
-    (B) does not include conventional public information services or procurement of property or services for the direct benefit or use of the Government.
-  (4) ””domestic assistance program““–
-    (A) means assistance from an agency for–
-      (i) a State;
-      (ii) the District of Columbia;
-      (iii) a territory or possession of the United States;
-      (iv) a county;
-      (v) a city;
-      (vi) a political subdivision or instrumentality of a governmental authority listed in subclauses (i)–(v) of this clause (A);
-      (vii) a domestic corporation;
-      (viii) a domestic institution; and
-      (ix) an individual of the United States; and
-    (B) does not include assistance from an agency for an agency.
-  (5) ””Director““ means the Director of the Office of Management and Budget.
-  (6) ””Administrator““ means the Administrator of General Services.
-  (7) ””formula““ means any prescribed method employing objective data or statistical estimates for making individual determinations among recipients of Federal funds, either in terms of eligibility or actual funding allocations, that can be written in the form of either–
-    (A) a closed mathematical statement; or
-    (B) an iterative procedure or algorithm which can be written as a computer program;
-   and from which the results can be objectively replicated, within reasonable limits due to rounding error, through independent application of such statement, procedures, or algorithm, by different qualified individuals.
+  (a) T4Registration With Secretary of the Treasury Required.–
+    (1) T4In generalK.–Any person who owns or controls a money transmitting business shall register the business (whether or not the business is licensed as a money transmitting business in any State) with the Secretary of the Treasury not later than the end of the 180-day period beginning on the later of–
+      (A) the date of enactment of the Money Laundering Suppression Act of 1994; or
+      (B) the date on which the business is established.
+    (2) T4Form and manner of registrationK.–Subject to the requirements of subsection (b), the Secretary of the Treasury shall prescribe, by regulation, the form and manner for registering a money transmitting business pursuant to paragraph (1).
+    (3) T4Businesses remain subject to state lawK.–This section shall not be construed as superseding any requirement of State law relating to money transmitting businesses operating in such State.
+    (4) T4False and incomplete informationK.–The filing of false or materially incomplete information in connection with the registration of a money transmitting business shall be considered as a failure to comply with the requirements of this subchapter.
+  (b) T4Contents of RegistrationK.–The registration of a money transmitting business under subsection (a) shall include the following information:
+    (1) The name and location of the business.
+    (2) The name and address of each person who–
+      (A) owns or controls the business;
+      (B) is a director or officer of the business; or
+      (C) otherwise participates in the conduct of the affairs of the business.
+    (3) The name and address of any depository institution at which the business maintains a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act).
+    (4) An estimate of the volume of business in the coming year (which shall be reported annually to the Secretary).
+    (5) Such other information as the Secretary of the Treasury may require.
+  (c) T4Agents of Money Transmitting Businesses.–
+    (1) T4Maintenance of lists of agents of money transmitting businessesK.–Pursuant to regulations which the Secretary of the Treasury shall prescribe, each money transmitting business shall–
+      (A) maintain a list containing the names and addresses of all persons authorized to act as an agent for such business in connection with activities described in subsection (d)(1)(A) and such other information about such agents as the Secretary may require; and
+      (B) make the list and other information available on request to any appropriate law enforcement agency.
+    (2) T4Treatment of agent as money transmitting businessK.–The Secretary of the Treasury shall prescribe regulations establishing, on the basis of such criteria as the Secretary determines to be appropriate, a threshold point for treating an agent of a money transmitting business as a money transmitting business for purposes of this section.
+  (d) T4DefinitionsK.–For purposes of this section, the following definitions shall apply:
+    (1) T4Money transmitting businessK.–The term ””money transmitting business““ means any business other than the United States Postal Service which–
+      (A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers“ checks, and other similar instruments;
+      (B) is required to file reports under section 5313; and
+      (C) is not a depository institution (as defined in section 5313(g)).
+    (2) T4Money transmitting serviceK.–The term ””money transmitting service““ includes accepting currency or funds denominated in the currency of any country and transmitting the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
+  (e) T4Civil Penalty for Failure To Comply With Registration Requirements.–
+    (1) T4In generalK.–Any person who fails to comply with any requirement of this section or any regulation prescribed under this section shall be liable to the United States for a civil penalty of $5,000 for each such violation.
+    (2) T4Continuing violationK.–Each day a violation described in paragraph (1) continues shall constitute a separate violation for purposes of such paragraph.
+    (3) T4AssessmentsK.–Any penalty imposed under this subsection shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.
