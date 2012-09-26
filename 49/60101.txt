@@ -10,11 +10,9 @@
       (A) petroleum or a petroleum product; and
       (B) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
     (5) ””hazardous liquid pipeline facility““ includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
-    (6) ””interstate gas pipeline facility““–
-      (A) means a gas pipeline facility–
-        (i) used to transport gas; and
-        (ii) subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); but
-      (B) does not include a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption;
+    (6) ””interstate gas pipeline facility““ means a gas pipeline facility–
+      (A) used to transport gas; and
+      (B) subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.);
     (7) ””interstate hazardous liquid pipeline facility““ means a hazardous liquid pipeline facility used to transport hazardous liquid in interstate or foreign commerce;
     (8) ””interstate or foreign commerce““–
       (A) related to gas, means commerce–
@@ -23,9 +21,7 @@
       (B) related to hazardous liquid, means commerce between–
         (i) a place in a State and a place outside that State; or
         (ii) places in the same State through a place outside the State;
-    (9) ””intrastate gas pipeline facility““ means–
-      (A) a gas pipeline facility and transportation of gas within a State not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); and
-      (B) a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption;
+    (9) ””intrastate gas pipeline facility““ means a gas pipeline facility and transportation of gas within a State not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.);
     (10) ””intrastate hazardous liquid pipeline facility““ means a hazardous liquid pipeline facility that is not an interstate hazardous liquid pipeline facility;
     (11) ””liquefied natural gas““ means natural gas in a liquid or semisolid state;
     (12) ””liquefied natural gas accident““ means a release, burning, or explosion of liquefied natural gas from any cause, except a release, burning, or explosion that, under regulations prescribed by the Secretary, does not pose a threat to public health or safety, property, or the environment;
