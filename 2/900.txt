@@ -6,70 +6,32 @@
     (1) The terms ””budget authority““, ””new budget authority““, ””outlays““, and ””deficit““ have the meanings given to such terms in section 3 of the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 622] and ””discretionary spending limit““ shall mean the amounts specified in section 901 of this title.
     (2) The terms ””sequester““ and ””sequestration““ refer to or mean the cancellation of budgetary resources provided by discretionary appropriations or direct spending law.
     (3) The term ””breach““ means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category“s discretionary spending limit for new budget authority or outlays for that year, as the case may be.
-    (4)      (A) The term ””category““ means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the committees \1\N on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
-      (B) The term ””highway category““ refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users:
-        (i) 69–8083–0–7–401 (Federal-Aid Highways).
-        (ii) 69–8020–0–7–401 (Highway Traffic Safety Grants).
-        (iii) 69–8048–0–7–401 (National Motor Carrier Safety Program).
-        (iv) 69–8016–0–7–401 (Operations and Research NHTSA).
-        (v) 69–8362–0–7–401 (National Driver Registry).
-        (vi) 69–8159–0–7–401 (Motor Carrier Safety Operations and Programs).
-        (vii) 06–8158–0–7–401 (Motor Carrier Safety Grants).
-      (C) T4Mass transit categoryK.–The term ””mass transit category““ means the following budget accounts, or portions of the accounts, that are subject to the obligation limitations on contract authority provided in the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users or for which appropriations are provided in accordance with authorizations contained in that Act:
-        (i) 69–1120–0–1–401 (Administrative Expenses).
-        (ii) 69–1134–0–1–401 (Capital Investment Grants).
-        (iii) 69–8191–0–7–401 (Discretionary Grants).
-        (iv) 69–1129–0–1–401 (Formula Grants).
-        (v) 69–1127–0–1–401 (Interstate Transfer Grants–Transit).
-        (vi) 69–1125–0–1–401 (Job Access and Reverse Commute).
-        (vii) 69–1122–0–1–401 (Miscellaneous Expired Accounts).
-        (viii) 69–1121–0–1–401 (Research, Training and Human Resources).
-        (ix) 69–8350–0–7–401 (Trust Fund Share of Expenses).
-        (x) 69–1137–0–1–401 (Transit Planning and Research).
-        (xi) 69–1136–0–1–401 (University Transportation Research).
-        (xii) 69–1128–0–1–401 (Washington Metropolitan Area Transit Authority).
-      (D) T4Special ruleK.–(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefense category outlays or discretionary category outlays.
-  (ii) If the obligation limitations for accounts in the highway or mass transit category provided in an appropriation Act for a fiscal year exceed the obligation limitations set forth in section 8103 of the Transportation Equity Act for the 21st Century for that year, as adjusted, the estimated outlays flowing for each outyear from such excess obligations calculated pursuant to clause (iii) shall be attributed to the discretionary category in that outyear.
-  (iii) For purposes of clause (ii), outlays from excess obligations shall be determined using the average of the spendout rates for that category in the baseline.
-  (E) The term ””conservation spending category““ means discretionary appropriations for conservation activities in the following budget accounts or portions thereof providing appropriations to preserve and protect lands, habitat, wildlife, and other natural resources, to provide recreational opportunities, and for related purposes:
-    (i) 14–5033 Bureau of Land Management Land Acquisition.
-    (ii) 14–5020 Fish and Wildlife Service Land Acquisition.
-    (iii) 14–5035 National Park Service Land Acquisition and State Assistance.
-    (iv) 12–9923 Forest Service Land Acquisition.
-    (v) 14–5143 Fish and Wildlife Service Cooperative Endangered Species Conservation Fund.
-    (vi) 14–5241 Fish and Wildlife Service North American Wetlands Conservation Fund.
-    (vii) 14–1694 Fish and Wildlife Service State Wildlife Grants.
-    (viii) 14–0804 United States Geological Survey Surveys, Investigations, and Research, the State Planning Partnership programs: Community/Federal Information Partnership, Urban Dynamics, and Decision Support for Resource Management.
-    (ix) 12–1105 Forest Service State and Private Forestry, the Forest Legacy Program, Urban and Community Forestry, and Smart Growth Partnerships.
-    (x) 14–1031 National Park Service Urban Park and Recreation Recovery program.
-    (xi) 14–5140 National Park Service Historic Preservation Fund.
-    (xii) Youth Conservation Corps.
-    (xiii) 14–1114 Bureau of Land Management Payments in Lieu of Taxes.
-    (xiv) Federal Infrastructure Improvement (as established in title VIII of the Department of the Interior and Related Agencies Appropriations Act, 2001).
-    (xv) 13–1460 NOAA Procurement Acquisition and Construction, the National Marine Sanctuaries and the National Estuarine Research Reserve Systems.
-    (xvi) 13–1450 NOAA Operations, Research, and Facilities, the Coastal Zone Management Act programs, the National Marine Sanctuaries, the National Estuarine Research Reserve Systems, and Coral Restoration programs.
-    (xvii) 13–1451 NOAA Pacific Coastal Salmon Recovery.
-  (F) The term ””Federal and State Land and Water Conservation Fund sub-category““ means discretionary appropriations for activities in the accounts described in (E)(i)–(E)(iv) \2\N or portions thereof.
-  (G) The term ””State and Other Conservation sub-category““ means discretionary appropriations for activities in the accounts described in (E)(v)–(E)(ix),\2\ with the exception of Urban and Community Forestry as described in (E)(ix),\2\ or portions thereof.
-  (H) The term ””Urban and Historic Preservation sub-category““ means discretionary appropriations for activities in the accounts described in (E)(ix)–(E)(xii),\2\ with the exception of Forest Legacy and Smart Growth Partnerships as described in (E)(ix),\2\ or portions thereof.
-  (I) The term ””Payments in Lieu of Taxes sub-category““ means discretionary appropriations for activities in the account described in (E)(xiii) \2\ or portions thereof.
-  (J) The term ””Federal Deferred Maintenance sub-category““ means discretionary appropriations for activities in the account described in (E)(xiv) \2\ or portions thereof.
-  (K) The term ””Coastal Assistance sub-category““ means discretionary appropriations for activities in the accounts described in (E)(xv)–(E)(xvii) \2\ or portions thereof.
-  (5) The term ””baseline““ means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
-  (6) The term ””budgetary resources““ means new budget authority, unobligated balances, direct spending authority, and obligation limitations.
-  (7) The term ””discretionary appropriations““ means budgetary resources (except to fund direct-spending programs) provided in appropriation Acts.
-  (8) The term ””direct spending““ means–
-    (A) budget authority provided by law other than appropriation Acts;
-    (B) entitlement authority; and
-    (C) the food stamp program.
-  (9) The term ””current““ means, with respect to OMB estimates included with a budget submission under section 1105(a) of title 31, the estimates consistent with the economic and technical assumptions underlying that budget and with respect to estimates made after that budget submission that are not included with it, estimates consistent with the economic and technical assumptions underlying the most recently submitted President“s budget.
-  (10) The term ””real economic growth““, with respect to any fiscal year, means the growth in the gross national product during such fiscal year, adjusted for inflation, consistent with Department of Commerce definitions.
-  (11) The term ””account““ means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget account identification code number in the President“s budget.
-  (12) The term ””budget year““ means, with respect to a session of Congress, the fiscal year of the Government that starts on October 1 of the calendar year in which that session begins.
-  (13) The term ””current year““ means, with respect to a budget year, the fiscal year that immediately precedes that budget year.
-  (14) The term ””outyear““ means, with respect to a budget year, any of the first 4 fiscal years that follow the budget year.
-  (15) The term ””OMB““ means the Director of the Office of Management and Budget.
-  (16) The term ””CBO““ means the Director of the Congressional Budget Office.
-  (17) As used in this subchapter, all references to entitlement authority shall include the list of mandatory appropriations included in the joint explanatory statement of managers accompanying the conference report on the Balanced Budget Act of 1997.
-  (18) The term ””deposit insurance““ refers to the expenses of the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
-  (19) The term ””asset sale““ means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 [2 U.S.C. 661 et seq.]), whether physical or financial, owned in whole or in part by the United States.
+    (4)      (A) The term ””nonsecurity category““ means all discretionary appropriations not included in the security category defined in subparagraph (B).
+      (B) The term ””security category““ includes discretionary appropriations associated with agency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the National Nuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
+      (C) The term ””discretionary category““ includes all discretionary appropriations.
+    (5) The term ””baseline““ means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
+    (6) The term ””budgetary resources““ means new budget authority, unobligated balances, direct spending authority, and obligation limitations.
+    (7) The term ””discretionary appropriations““ means budgetary resources (except to fund direct-spending programs) provided in appropriation Acts.
+    (8) The term ””direct spending““ means–
+      (A) budget authority provided by law other than appropriation Acts;
+      (B) entitlement authority; and
+      (C) the Supplemental Nutrition Assistance Program.
+    (9) The term ””current““ means, with respect to OMB estimates included with a budget submission under section 1105(a) of title 31, the estimates consistent with the economic and technical assumptions underlying that budget and with respect to estimates made after that budget submission that are not included with it, estimates consistent with the economic and technical assumptions underlying the most recently submitted President“s budget.
+    (10) The term ””real economic growth““, with respect to any fiscal year, means the growth in the gross national product during such fiscal year, adjusted for inflation, consistent with Department of Commerce definitions.
+    (11) The term ””account““ means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget account identification code number in the President“s budget.
+    (12) The term ””budget year““ means, with respect to a session of Congress, the fiscal year of the Government that starts on October 1 of the calendar year in which that session begins.
+    (13) The term ””current year““ means, with respect to a budget year, the fiscal year that immediately precedes that budget year.
+    (14) The term ””outyear““ means a fiscal year one or more years after the budget year.
+    (15) The term ””OMB““ means the Director of the Office of Management and Budget.
+    (16) The term ””CBO““ means the Director of the Congressional Budget Office.
+    (17) As used in this subchapter, all references to entitlement authority shall include the list of mandatory appropriations included in the joint explanatory statement of managers accompanying the conference report on the Balanced Budget Act of 1997.
+    (18) The term ””deposit insurance““ refers to the expenses of the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
+    (19) The term ””asset sale““ means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 [2 U.S.C. 661 et seq.]), whether physical or financial, owned in whole or in part by the United States.
+    (20) The term ””emergency““ means a situation that–
+      (A) requires new budget authority and outlays (or new budget authority and the outlays flowing therefrom) for the prevention or mitigation of, or response to, loss of life or property, or a threat to national security; and
+      (B) is unanticipated.
+    (21) The term ””unanticipated““ means that the underlying situation is–
+      (A) sudden, which means quickly coming into being or not building up over time;
+      (B) urgent, which means a pressing and compelling need requiring immediate action;
+      (C) unforeseen, which means not predicted or anticipated as an emerging need; and
+      (D) temporary, which means not of a permanent duration.

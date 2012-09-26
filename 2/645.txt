@@ -1,34 +1,30 @@
   (a) Adjustments
-    (1) In general
-       After the reporting of a bill or joint resolution, the offering of an amendment thereto, or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments set forth in paragraph (2) for the amount of new budget authority in that measure (if that measure meets the requirements set forth in subsection (b) of this section) and the outlays flowing from that budget authority.
-    (2) Matters to be adjusted
-       The adjustments referred to in paragraph (1) are to be made to–
-      (A) the discretionary spending limits, if any, set forth in the appropriate concurrent resolution on the budget;
-      (B) the allocations made pursuant to the appropriate concurrent resolution on the budget pursuant to section 633(a) of this title; and
-      (C) the budgetary aggregates as set forth in the appropriate concurrent resolution on the budget.
-  (b) Amounts of adjustments
-     The adjustment referred to in subsection (a) of this section shall be–
-    (1) an amount provided and designated as an emergency requirement pursuant to section 901(b)(2)(A) or 902(e) of this title;
-    (2) an amount provided for continuing disability reviews subject to the limitations in section 901(b)(2)(C) of this title;
-    (3) for any fiscal year through 2002, an amount provided that is the dollar equivalent of the Special Drawing Rights with respect to–
-      (A) an increase in the United States quota as part of the International Monetary Fund Eleventh General Review of Quotas (United States Quota); or
-      (B) any increase in the maximum amount available to the Secretary of the Treasury pursuant to section 286e–2 of title 22, as amended from time to time (New Arrangements to Borrow);
-    (4) an amount provided not to exceed $1,884,000,000 for the period of fiscal years 1998 through 2000 for arrearages for international organizations, international peacekeeping, and multilateral development banks;
-    (5) an amount provided for an earned income tax credit compliance initiative but not to exceed–
-      (A) with respect to fiscal year 1998, $138,000,000 in new budget authority;
-      (B) with respect to fiscal year 1999, $143,000,000 in new budget authority;
-      (C) with respect to fiscal year 2000, $144,000,000 in new budget authority;
-      (D) with respect to fiscal year 2001, $145,000,000 in new budget authority; and
-      (E) with respect to fiscal year 2002, $146,000,000 in new budget authority; or
-    (6) in the case of an amount for adoption incentive payments (as defined in section 901(b)(2)(G) of this title) for fiscal year 1999, 2000, 2001, 2002, or 2003 for the Department of Health and Human Services, an amount not to exceed $20,000,000.
-  (c) Application of adjustments
+     After the reporting of a bill or joint resolution or the offering of an amendment thereto or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by section 901(b) of this title.
+  (b) Application of adjustments
      The adjustments made pursuant to subsection (a) of this section for legislation shall–
     (1) apply while that legislation is under consideration;
     (2) take effect upon the enactment of that legislation; and
     (3) be published in the Congressional Record as soon as practicable.
-  (d) Reporting revised suballocations
+  (c) Reporting revised suballocations
      Following any adjustment made under subsection (a) of this section, the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under section 633(b) of this title to carry out this section.
-  (e) Definitions for CDRs
-     As used in subsection (b)(2) of this section–
-    (1) the term ””continuing disability reviews““ shall have the same meaning as provided in section 901(b)(2)(C)(ii) of this title; and
-    (2) the term ””new budget authority““ shall have the same meaning as the term ””additional new budget authority““ and the term ””outlays““ shall have the same meaning as ””additional outlays““ in that section.
+  (d) Emergencies in the House of Representatives
+    (1) In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency requirement pursuant to 901(b)(2)(A) \1\N of this title, the chair of the Committee on the Budget of the House of Representatives shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
+    (2)      (A) In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
+      (B) In the House of Representatives, a proposal to strike a designation under subparagraph (A) shall be excluded from an evaluation of budgetary effects for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
+      (C) An amendment offered under subparagraph (B) that also proposes to reduce each amount appropriated or otherwise made available by the pending measure that is not required to be appropriated or otherwise made available shall be in order at any point in the reading of the pending measure.
+  (e) Senate point of order against an emergency designation
+    (1) In general
+       When the Senate is considering a bill, resolution, amendment, motion, amendment between the Houses, or conference report, if a point of order is made by a Senator against an emergency designation in that measure, that provision making such a designation shall be stricken from the measure and may not be offered as an amendment from the floor.
+    (2) Supermajority waiver and appeals
+      (A) Waiver
+         Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote of three-fifths of the Members, duly chosen and sworn.
+      (B) Appeals
+         Appeals in the Senate from the decisions of the Chair relating to any provision of this subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
+    (3) Definition of an emergency designation
+       For purposes of paragraph (1), a provision shall be considered an emergency designation if it designates any item pursuant to section 901(b)(2)(A)(i) of this title.
+    (4) Form of the point of order
+       A point of order under paragraph (1) may be raised by a Senator as provided in section 644(e) of this title.
+    (5) Conference reports
+       When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a bill, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
+  (f) Enforcement of discretionary spending caps
+     It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in section 901 of this title to be exceeded.

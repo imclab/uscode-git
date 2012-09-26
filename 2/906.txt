@@ -54,7 +54,7 @@
       (A) The term ””statutory pay system““ shall have the meaning given that term in section 5302(1) of title 5.
       (B) The term ””elements of military pay““ means–
         (i) the elements of compensation of members of the uniformed services specified in section 1009 of title 37,
-        (ii) allowances provided members of the uniformed services under sections 403a and 405 of such title, and
+        (ii) allowances provided members of the uniformed services under sections 403a and 475 of such title, and
         (iii) cadet pay and midshipman pay under section 203(c) of such title.
       (C) The term ””uniformed services““ shall have the meaning given that term in section 101(3) of title 37.
   (h) Treatment of Federal administrative expenses
@@ -64,12 +64,10 @@
     (4) Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
       (A) Comptroller of the Currency.
       (B) Federal Deposit Insurance Corporation.
-      (C) Office of Thrift Supervision.
-      (D) National Credit Union Administration.
-      (E) National Credit Union Administration, central liquidity facility.
-      (F) Federal Retirement Thrift Investment Board.
-      (G) Resolution Trust Corporation.
-      (H) Farm Credit Administration.
+      (C) National Credit Union Administration.
+      (D) National Credit Union Administration, central liquidity facility.
+      (E) Federal Retirement Thrift Investment Board.
+      (F) Farm Credit Administration.
         (i) Treatment of payments and advances made with respect to unemployment compensation programs
           (1) For purposes of section 904 of this title–
             (A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [42 U.S.C. 1104(a)]),

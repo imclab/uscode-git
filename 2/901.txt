@@ -1,113 +1,87 @@
   (a) Enforcement
     (1) Sequestration
-       Within 15 calendar days after Congress adjourns to end a session and on the same day as a sequestration (if any) under section 902 of this title and section 903 of this title, there shall be a sequestration to eliminate a budget-year breach, if any, within any category.
+       Within 15 calendar days after Congress adjourns to end a session there shall be a sequestration to eliminate a budget-year breach, if any, within any category.
     (2) Eliminating a breach
-       Each non-exempt account within a category shall be reduced by a dollar amount calculated by multiplying the baseline level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to eliminate a breach within that category; except that the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent and the uniform percent applicable to all other programs under this paragraph shall be increased (if necessary) to a level sufficient to eliminate that breach. If, within a category, the discretionary spending limits for both new budget authority and outlays are breached, the uniform percentage shall be calculated by–
-      (A) first, calculating the uniform percentage necessary to eliminate the breach in new budget authority, and
-      (B) second, if any breach in outlays remains, increasing the uniform percentage to a level sufficient to eliminate that breach.
+       Each non-exempt account within a category shall be reduced by a dollar amount calculated by multiplying the enacted level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to eliminate a breach within that category.
     (3) Military personnel
-       If the President uses the authority to exempt any military personnel from sequestration under section 905(f) of this title, each account within subfunctional category 051 (other than those military personnel accounts for which the authority provided under section 905(f) of this title has been exercised) shall be further reduced by a dollar amount calculated by multiplying the enacted level of non-exempt budgetary resources in that account at that time by the uniform percentage necessary to offset the total dollar amount by which outlays are not reduced in military personnel accounts by reason of the use of such authority.
+       If the President uses the authority to exempt any personnel account from sequestration under section 905(f) of this title, each account within subfunctional category 051 (other than those military personnel accounts for which the authority provided under section 905(f) of this title has been exercised) shall be further reduced by a dollar amount calculated by multiplying the enacted level of non-exempt budgetary resources in that account at that time by the uniform percentage necessary to offset the total dollar amount by which outlays are not reduced in military personnel accounts by reason of the use of such authority.
     (4) Part-year appropriations
        If, on the date specified in paragraph (1), there is in effect an Act making or continuing appropriations for part of a fiscal year for any budget account, then the dollar sequestration calculated for that account under paragraphs (2) and (3) shall be subtracted from–
       (A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
-      (B) when a full-year appropriation for that account is enacted, from the amount otherwise provided by the full-year appropriation.
+      (B) when a full-year appropriation for that account is enacted, from the amount otherwise provided by the full-year appropriation for that account.
     (5) Look-back
        If, after June 30, an appropriation for the fiscal year in progress is enacted that causes a breach within a category for that year (after taking into account any sequestration of amounts within that category), the discretionary spending limits for that category for the next fiscal year shall be reduced by the amount or amounts of that breach.
     (6) Within-session sequestration
        If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
     (7) Estimates
       (A) CBO estimates
-         As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation.
+         As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation.
       (B) OMB estimates and explanation of differences
-         Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+         Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
       (C) Assumptions and guidelines
-         OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.
+         OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the Committees on the Budget of the House of Representatives and the Senate, CBO, and OMB.
       (D) Annual appropriations
-         For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for the current year (if any) and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
+         For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
   (b) Adjustments to discretionary spending limits
-    (1) Preview report
-      (A) T4Concepts and definitionsK.–When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the committees \1\N on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
-      (B) T4Adjustment to align highway spending with revenuesK.–(i) When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall make adjustments to the highway category for the budget year and each outyear as provided in clause (ii)(I)(cc).
-  (ii)    (I)      (aa) OMB shall take the actual level of highway receipts for the year before the current year and subtract the sum of the estimated level of highway receipts in subclause (II) plus any amount previously calculated under item (bb) for that year.
-      (bb) OMB shall take the current estimate of highway receipts for the current year and subtract the estimated level of receipts for that year.
-      (cc) OMB shall add one-half of the sum of the amount calculated under items (aa) and (bb) to the obligation limitations set forth in the section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and, using current estimates, calculate the outlay change resulting from the change in obligations for the budget year and the first outyear and the outlays flowing therefrom through subsequent fiscal years. After making the calculations under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year and the first outyear by adding one-half of the sum of the amount calculated under items (aa) and (bb) to each such year.
-    (II) The estimated level of highway receipts for the purposes of this clause are–
-      (aa) for fiscal year 2005, $31,562,000,000;
-      (bb) for fiscal year 2006, $33,712,000,000;
-      (cc) for fiscal year 2007, $34,623,000,000 \2\N
-      (dd) for fiscal year 2008, $35,449,000,000; and
-      (ee) for fiscal year 2009, $36,220,000,000.
-    (III) In this clause, the term ””highway receipts““ means the governmental receipts credited to the highway account of the Highway Trust Fund.
-  (C) In addition to the adjustment required by subparagraph (B), when the President submits the budget under section 1105 of title 31 for fiscal year 2007, 2008, or 2009, OMB shall calculate and the budget shall include for the budget year and each outyear an adjustment to the limits on outlays for the highway category and the mass transit category equal to–
-    (i) the outlays for the applicable category calculated assuming obligation levels consistent with the estimates prepared pursuant to subparagraph (D), as adjusted, using current technical assumptions; minus
-    (ii) the outlays for the applicable category set forth in the subparagraph (D) estimates, as adjusted.
-  (D)    (i) When OMB and CBO submit their final sequester report for fiscal year 2006, that report shall include an estimate of the outlays for each of the categories that would result in fiscal years 2007 through 2010 from obligations at the levels specified in section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users using current assumptions.
-    (ii) When the President submits the budget under section 1105 of title 31 for fiscal year 2007, 2008, 2009, or 2010, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
-  (E) OMB shall consult with the Committees on the Budget and include a report on adjustments under subparagraphs (B) and (C) in the preview report.
-  (2) Sequestration reports
-     When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year, as follows:
-    (A) Emergency appropriations
-       If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates in statute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all fiscal years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
-    (B) Special outlay allowance
-       If, in any fiscal year, outlays for a category exceed the discretionary spending limit for that category but new budget authority does not exceed its limit for that category (after application of the first step of a sequestration described in subsection (a)(2) of this section, if necessary), the adjustment in outlays for a fiscal year is the amount of the excess but not to exceed 0.5 percent of the sum of the adjusted discretionary spending limits on outlays for that fiscal year.
-    (C) Continuing disability reviews
-      (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed–
-        (I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
-        (II) for fiscal year 1999, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
-        (III) for fiscal year 2000, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
-        (IV) for fiscal year 2001, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays; and
-        (V) for fiscal year 2002, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays.
-      (ii) As used in this subparagraph–
-        (I) the term ””continuing disability reviews““ means reviews or redeterminations as defined under section 401(g)(1)(A) of title 42 and reviews and redeterminations authorized under section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996;
-        (II) the term ””additional new budget authority““ means the amount provided for a fiscal year, in excess of $200,000,000, in an appropriations Act and specified to pay for the costs of continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration; and
-        (III) the term ””additional outlays““ means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, including outlays in that fiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
-    (D) Allowance for IMF
-       If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 that includes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to–
-      (i) an increase in the United States quota as part of the International Monetary Fund Eleventh General Review of Quotas (United States Quota); or
-      (ii) any increase in the maximum amount available to the Secretary of the Treasury pursuant to section 286e–2 of title 22, as amended from time to time (New Arrangements to Borrow).
-    (E) Allowance for international arrearages
-      (i) Adjustments
-         If an appropriation bill or joint resolution is enacted for fiscal year 1998, 1999, or 2000 that includes an appropriation for arrearages for international organizations, international peacekeeping, and multilateral development banks for that fiscal year, the adjustment shall be the amount of budget authority in that measure and the outlays flowing in all fiscal years from that budget authority.
-      (ii) Limitations
-         The total amount of adjustments made pursuant to this subparagraph for the period of fiscal years 1998 through 2000 shall not exceed $1,884,000,000 in budget authority.
-    (F) EITC compliance initiative
-       If an appropriation bill or joint resolution is enacted for a fiscal year that includes an appropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed–
-      (i) with respect to fiscal year 1998, $138,000,000 in new budget authority and $131,000,000 in outlays;
-      (ii) with respect to fiscal year 1999, $143,000,000 in new budget authority and $143,000,000 in outlays;
-      (iii) with respect to fiscal year 2000, $144,000,000 in new budget authority and $144,000,000 in outlays;
-      (iv) with respect to fiscal year 2001, $145,000,000 in new budget authority and $145,000,000 in outlays; and
-      (v) with respect to fiscal year 2002, $146,000,000 in new budget authority and $146,000,000 in outlays.
-    (G) Adoption incentive payments
-       Whenever a bill or joint resolution making appropriations for fiscal year 1999, 2000, 2001, 2002, or 2003 is enacted that specifies an amount for adoption incentive payments pursuant to this subchapter for the Department of Health and Human Services–
-      (i) the adjustments for new budget authority shall be the amounts of new budget authority provided in that measure for adoption incentive payments, but not to exceed $20,000,000; and
-      (ii) the adjustment for outlays shall be the additional outlays flowing from such amount.
-    (H) Conservation spending
-      (i) If a bill or resolution making appropriations for any fiscal year appropriates an amount for the conservation spending category that is less than the limit for the conservation spending category as specified in subsection (c) of this section, then the adjustment for new budget authority and outlays for the following fiscal year for that category shall be the amount of new budget authority and outlays that equals the difference between the amount appropriated and the amount of that category specified in subsection (c) of this section.
-      (ii) If a bill or resolution making appropriations for any fiscal year appropriates an amount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) \3\N of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) \3\ of this section.
-      (iii) The total amount provided for any conservation activity within the conservation spending category may not exceed any authorized ceiling for that activity.
+    (1) Concepts and definitions
+       When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions, minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate, and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
+    (2) Sequestration reports
+       When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include \1\N adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year, as follows:
+      (A) Emergency appropriations; overseas contingency operations/global war on terrorism
+         If, for any fiscal year, appropriations for discretionary accounts are enacted that–
+        (i) the Congress designates as emergency requirements in statute on an account by account basis and the President subsequently so designates, or
+        (ii) the Congress designates for Overseas Contingency Operations/Global War on Terrorism in statute on an account by account basis and the President subsequently so designates,
+         the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements or for Overseas Contingency Operations/Global War on Terrorism, as applicable.
+      (B) Continuing disability reviews and redeterminations
+        (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act [42 U.S.C. 401 et seq., 1381 et seq.] and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed–
+          (I) for fiscal year 2012, $623,000,000 in additional new budget authority;
+          (II) for fiscal year 2013, $751,000,000 in additional new budget authority;
+          (III) for fiscal year 2014, $924,000,000 in additional new budget authority;
+          (IV) for fiscal year 2015, $1,123,000,000 in additional new budget authority;
+          (V) for fiscal year 2016, $1,166,000,000 in additional new budget authority;
+          (VI) for fiscal year 2017, $1,309,000,000 in additional new budget authority;
+          (VII) for fiscal year 2018, $1,309,000,000 in additional new budget authority;
+          (VIII) for fiscal year 2019, $1,309,000,000 in additional new budget authority;
+          (IX) for fiscal year 2020, $1,309,000,000 in additional new budget authority; and
+          (X) for fiscal year 2021, $1,309,000,000 in additional new budget authority.
+        (ii) As used in this subparagraph–
+          (I) the term ””continuing disability reviews““ means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act [42 U.S.C. 421(i), 1382c(a)(4)];
+          (II) the term ””redetermination““ means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act [42 U.S.C. 1382(c)(1), 1382c(a)(3)(H)]; and
+          (III) the term ””additional new budget authority““ means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews and redeterminations under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration.
+      (C) Health care fraud and abuse control
+        (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for the health care fraud abuse control program at the Department of Health and Human Services (75–8393–0–7–571), then the adjustments for that fiscal year shall be the amount of additional new budget authority provided in that Act for such program for that fiscal year, but shall not exceed–
+          (I) for fiscal year 2012, $270,000,000 in additional new budget authority;
+          (II) for fiscal year 2013, $299,000,000 in additional new budget authority;
+          (III) for fiscal year 2014, $329,000,000 in additional new budget authority;
+          (IV) for fiscal year 2015, $361,000,000 in additional new budget authority;
+          (V) for fiscal year 2016, $395,000,000 in additional new budget authority;
+          (VI) for fiscal year 2017, $414,000,000 in additional new budget authority;
+          (VII) for fiscal year 2018, $434,000,000 in additional new budget authority;
+          (VIII) for fiscal year 2019, $454,000,000 in additional new budget authority;
+          (IX) for fiscal year 2020, $475,000,000 in additional new budget authority; and
+          (X) for fiscal year 2021, $496,000,000 in additional new budget authority.
+        (ii) As used in this subparagraph, the term ””additional new budget authority““ means the amount provided for a fiscal year, in excess of $311,000,000, in an appropriation Act and specified to pay for the costs of the health care fraud and abuse control program.
+      (D) Disaster funding
+        (i) If, for fiscal years 2012 through 2021, appropriations for discretionary accounts are enacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of–
+          (I) the average funding provided for disaster relief over the previous 10 years, excluding the highest and lowest years; and
+          (II) the amount, for years when the enacted new discretionary budget authority designated as being for disaster relief for the preceding fiscal year was less than the average as calculated in subclause (I) for that fiscal year, that is the difference between the enacted amount and the allowable adjustment as calculated in such subclause for that fiscal year.
+        (ii) OMB shall report to the Committees on Appropriations and Budget in each House the average calculated pursuant to clause (i)(II), not later than 30 days after August 2, 2011.
+        (iii) For the purposes of this subparagraph, the term ””disaster relief““ means activities carried out pursuant to a determination under section 5122(2) of title 42.
+        (iv) Appropriations considered disaster relief under this subparagraph in a fiscal year shall not be eligible for adjustments under subparagraph (A) for the fiscal year.
   (c) Discretionary spending limit
      As used in this subchapter, the term ””discretionary spending limit““ means–
-    (1) with respect to fiscal year 2005–
-      (A) for the highway category: $31,277,000,000 in outlays;
-      (B) for the mass transit category: $955,792,000 in new budget authority and $6,674,000,000 in outlays;
-    (2) with respect to fiscal year 2006–
-      (A) for the highway category: $33,942,000,000 in outlays;
-      (B) for the mass transit category: $1,643,000,000 in new budget authority and $7,359,000,000 in outlays;
-    (3) with respect to fiscal year 2007–
-      (A) for the highway category: $36,960,000,000 in outlays;
-      (B) for the mass transit category: $1,712,000,000 in new budget authority and $8,120,000,000 in outlays;
-    (4) with respect to fiscal year 2008–
-      (A) for the highway category: $39,123,000,000 in outlays;
-      (B) for the mass transit category: $1,858,000,000 in new budget authority and $8,742,000,000 in outlays;
-    (5) with respect to fiscal year 2009–
-      (A) for the highway category: $40,660,000,000 in outlays;
-      (B) for the mass transit category: $1,977,500,000 in new budget authority and $9,180,000,000 in outlays;
-    (6) with respect to fiscal year 2005 for the conservation spending category: $2,240,000,000, in new budget authority and $2,192,000,000 in outlays;
-    (7) with respect to fiscal year 2006 for the conservation spending category: $2,400,000,000, in new budget authority and $2,352,000,000 in outlays;
-    (8) with respect to each fiscal year 2002 through 2006 for the Federal and State Land and Water Conservation Fund sub-category of the conservation spending category: $540,000,000 in new budget authority and the outlays flowing therefrom;
-    (9) with respect to each fiscal year 2002 through 2006 for the State and Other Conservation sub-category of the conservation spending category: $300,000,000 in new budget authority and the outlays flowing therefrom;
-    (10) with respect to each fiscal year 2002 through 2006 for the Urban and Historic Preservation sub-category of the conservation spending category: $160,000,000 in new budget authority and the outlays flowing therefrom;
-    (11) with respect to each fiscal year 2002 through 2006 for the Payments in Lieu of Taxes sub-category of the conservation spending category: $50,000,000 in new budget authority and the outlays flowing therefrom;
-    (12) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
-    (13) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
-       as adjusted in strict conformance with subsection (b) of this section.
+    (1) with respect to fiscal year 2012–
+      (A) for the security category, $684,000,000,000 in new budget authority; and
+      (B) for the nonsecurity category, $359,000,000,000 in new budget authority;
+    (2) with respect to fiscal year 2013–
+      (A) for the security category, $686,000,000,000 in new budget authority; and
+      (B) for the nonsecurity category, $361,000,000,000 in new budget authority;
+    (3) with respect to fiscal year 2014, for the discretionary category, $1,066,000,000,000 in new budget authority;
+    (4) with respect to fiscal year 2015, for the discretionary category, $1,086,000,000,000 in new budget authority;
+    (5) with respect to fiscal year 2016, for the discretionary category, $1,107,000,000,000 in new budget authority;
+    (6) with respect to fiscal year 2017, for the discretionary category, $1,131,000,000,000 in new budget authority;
+    (7) with respect to fiscal year 2018, for the discretionary category, $1,156,000,000,000 in new budget authority;
+    (8) with respect to fiscal year 2019, for the discretionary category, $1,182,000,000,000 in new budget authority;
+    (9) with respect to fiscal year 2020, for the discretionary category, $1,208,000,000,000 in new budget authority; and
+    (10) with respect to fiscal year 2021, for the discretionary category, $1,234,000,000,000 in new budget authority;
+       as adjusted in strict conformance with subsection (b).
