@@ -1,1 +1,15 @@
-   This charter shall take effect upon its being accepted by a majority vote of the incorporators named herein who shall be present at the first meeting of the corporation, due notice of which meeting shall be given to each of the incorporators named herein, and a notice of such acceptance shall be given by said corporation, causing a certificate to that effect, signed by its president and secretary, to be filed in the office of the recorder of deeds of the District of Columbia.
+  (a) A patent may not be obtained though the invention is not identically disclosed or described as set forth in section 102 of this title, if the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains. Patentability shall not be negatived by the manner in which the invention was made.
+  (b)    (1) Notwithstanding subsection (a), and upon timely election by the applicant for patent to proceed under this subsection, a biotechnological process using or resulting in a composition of matter that is novel under section 102 and nonobvious under subsection (a) of this section shall be considered nonobvious if–
+      (A) claims to the process and the composition of matter are contained in either the same application for patent or in separate applications having the same effective filing date; and
+      (B) the composition of matter, and the process at the time it was invented, were owned by the same person or subject to an obligation of assignment to the same person.
+    (2) A patent issued on a process under paragraph (1)–
+      (A) shall also contain the claims to the composition of matter used in or made by that process, or
+      (B) shall, if such composition of matter is claimed in another patent, be set to expire on the same date as such other patent, notwithstanding section 154.
+    (3) For purposes of paragraph (1), the term ””biotechnological process““ means–
+      (A) a process of genetically altering or otherwise inducing a single- or multi-celled organism to–
+        (i) express an exogenous nucleotide sequence,
+        (ii) inhibit, eliminate, augment, or alter expression of an endogenous nucleotide sequence, or
+        (iii) express a specific physiological characteristic not naturally associated with said organism;
+      (B) cell fusion procedures yielding a cell line that expresses a specific protein, such as a monoclonal antibody; and
+      (C) a method of using a product produced by a process defined by subparagraph (A) or (B), or a combination of subparagraphs (A) and (B).
+  (c) Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
