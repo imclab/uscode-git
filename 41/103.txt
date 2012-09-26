@@ -1,2 +1,17 @@
-  (a) To assist the Congress in appraising the administration of this chapter and in developing such amendments or related legislation as may further be necessary to accomplish the objectives of this chapter, the appropriate committees of the Senate and the House of Representatives shall study each report submitted to the Congress under this chapter and shall otherwise maintain continuous surveillance of the operations of the Government agencies under this chapter.
-  (b) Repealed. Oct. 31, 1951, ch. 654, § 1(110), 65 Stat. 705.
+   In this subtitle, the term ””commercial item““ means–
+  (1) an item, other than real property, that–
+    (A) is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes; and
+    (B) has been sold, leased, or licensed, or offered for sale, lease, or license, to the general public;
+  (2) an item that–
+    (A) evolved from an item described in paragraph (1) through advances in technology or performance; and
+    (B) is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation;
+  (3) an item that would satisfy the criteria in paragraph (1) or (2) were it not for–
+    (A) modifications of a type customarily available in the commercial marketplace; or
+    (B) minor modifications made to meet Federal Government requirements;
+  (4) any combination of items meeting the requirements of paragraph (1), (2), (3), or (5) that are of a type customarily combined and sold in combination to the general public;
+  (5) installation services, maintenance services, repair services, training services, and other services if–
+    (A) those services are procured for support of an item referred to in paragraph (1), (2), (3), or (4), regardless of whether the services are provided by the same source or at the same time as the item; and
+    (B) the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government;
+  (6) services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions;
+  (7) any item, combination of items, or service referred to in paragraphs (1) to (6) even though the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor; or
+  (8) a nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
