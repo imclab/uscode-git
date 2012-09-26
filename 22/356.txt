@@ -1,6 +1,31 @@
-  (a) Standards for certification
-     The Secretary, pursuant to regulations promulgated by him, shall provide for the certification of batches of drugs composed wholly or partly of insulin. A batch of any such drug shall be certified if such drug has such characteristics of identity and such batch has such characteristics of strength, quality, and purity, as the Secretary prescribes in such regulations as necessary to adequately insure safety and efficacy of use, but shall not otherwise be certified. Prior to the effective date of such regulations the Secretary, in lieu of certification, shall issue a release for any batch which, in his judgment, may be released without risk as to the safety and efficacy of its use. Such release shall prescribe the date of its expiration and other conditions under which it shall cease to be effective as to such batch and as to portions thereof.
-  (b) Regulations
-     Regulations providing for such certification shall contain such provisions as are necessary to carry out the purposes of this section, including provisions prescribing (1) standards of identity and of strength, quality, and purity; (2) tests and methods of assay to determine compliance with such standards; (3) effective periods for certificates, and other conditions under which they shall cease to be effective as to certified batches and as to portions thereof; (4) administration and procedure; and (5) such fees, specified in such regulations, as are necessary to provide, equip, and maintain an adequate certification service. Such regulations shall prescribe no standard of identity or of strength, quality, or purity for any drug different from the standard of identity, strength, quality, or purity set forth for such drug in an official compendium.
-  (c) Tests or methods of assay; revision
-     Such regulations, insofar as they prescribe tests or methods of assay to determine strength, quality, or purity of any drug, different from the tests or methods of assay set forth for such drug in an official compendium, shall be prescribed, after notice and opportunity for revision of such compendium, in the manner provided in the second sentence of section 351(b) of this title. The provisions of subsections (e), (f), and (g) of section 371 of this title shall be applicable to such portion of any regulation as prescribes any such different test or method, but shall not be applicable to any other portion of any such regulation.
+  (a) Designation of drug as fast track product
+    (1) In general
+       The Secretary shall, at the request of the sponsor of a new drug, facilitate the development and expedite the review of such drug if it is intended for the treatment of a serious or life-threatening condition and it demonstrates the potential to address unmet medical needs for such a condition. (In this section, such a drug is referred to as a ””fast track product““.)
+    (2) Request for designation
+       The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may be made concurrently with, or at any time after, submission of an application for the investigation of the drug under section 355(i) of this title or section 262(a)(3) of title 42.
+    (3) Designation
+       Within 60 calendar days after the receipt of a request under paragraph (2), the Secretary shall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary finds that the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
+  (b) Approval of application for fast track product
+    (1) In general
+       The Secretary may approve an application for approval of a fast track product under section 355(c) of this title or section 262 of title 42 upon a determination that the product has an effect on a clinical endpoint or on a surrogate endpoint that is reasonably likely to predict clinical benefit.
+    (2) Limitation
+       Approval of a fast track product under this subsection may be subject to the requirements–
+      (A) that the sponsor conduct appropriate post-approval studies to validate the surrogate endpoint or otherwise confirm the effect on the clinical endpoint; and
+      (B) that the sponsor submit copies of all promotional materials related to the fast track product during the preapproval review period and, following approval and for such period thereafter as the Secretary determines to be appropriate, at least 30 days prior to dissemination of the materials.
+    (3) Expedited withdrawal of approval
+       The Secretary may withdraw approval of a fast track product using expedited procedures (as prescribed by the Secretary in regulations which shall include an opportunity for an informal hearing) if–
+      (A) the sponsor fails to conduct any required post-approval study of the fast track drug with due diligence;
+      (B) a post-approval study of the fast track product fails to verify clinical benefit of the product;
+      (C) other evidence demonstrates that the fast track product is not safe or effective under the conditions of use; or
+      (D) the sponsor disseminates false or misleading promotional materials with respect to the product.
+  (c) Review of incomplete applications for approval of fast track product
+    (1) In general
+       If the Secretary determines, after preliminary evaluation of clinical data submitted by the sponsor, that a fast track product may be effective, the Secretary shall evaluate for filing, and may commence review of portions of, an application for the approval of the product before the sponsor submits a complete application. The Secretary shall commence such review only if the applicant–
+      (A) provides a schedule for submission of information necessary to make the application complete; and
+      (B) pays any fee that may be required under section 379h of this title.
+    (2) Exception
+       Any time period for review of human drug applications that has been agreed to by the Secretary and that has been set forth in goals identified in letters of the Secretary (relating to the use of fees collected under section 379h of this title to expedite the drug development process and the review of human drug applications) shall not apply to an application submitted under paragraph (1) until the date on which the application is complete.
+  (d) Awareness efforts
+     The Secretary shall–
+    (1) develop and disseminate to physicians, patient organizations, pharmaceutical and biotechnology companies, and other appropriate persons a description of the provisions of this section applicable to fast track products; and
+    (2) establish a program to encourage the development of surrogate endpoints that are reasonably likely to predict clinical benefit for serious or life-threatening conditions for which there exist significant unmet medical needs.
