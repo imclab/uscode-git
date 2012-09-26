@@ -1,15 +1,14 @@
   (a) Deputy Secretary; Under Secretaries
      There are the following officers, appointed by the President, by and with the advice and consent of the Senate:
     (1) A Deputy Secretary of Homeland Security, who shall be the Secretary“s first assistant for purposes of subchapter III of chapter 33 of title 5.
-    (2) An Under Secretary for Information Analysis and Infrastructure Protection.
-    (3) An Under Secretary for Science and Technology.
-    (4) An Under Secretary for Border and Transportation Security.
-    (5) An Under Secretary for Emergency Preparedness and Response.
-    (6) A Director of the Bureau of Citizenship and Immigration Services.
-    (7) An Under Secretary for Management.
-    (8) A Director of the Office of Counternarcotics Enforcement.
-    (9) Not more than 12 Assistant Secretaries.
-    (10) A General Counsel, who shall be the chief legal officer of the Department.
+    (2) An Under Secretary for Science and Technology.
+    (3) An Under Secretary for Border and Transportation Security.
+    (4) An Administrator of the Federal Emergency Management Agency.
+    (5) A Director of the Bureau of Citizenship and Immigration Services.
+    (6) An Under Secretary for Management.
+    (7) A Director of the Office of Counternarcotics Enforcement.
+    (8) Not more than 12 Assistant Secretaries.
+    (9) A General Counsel, who shall be the chief legal officer of the Department.
   (b) Inspector General
      There shall be in the Department an Office of Inspector General and an Inspector General at the head of such office, as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
   (c) Commandant of the Coast Guard
@@ -20,6 +19,7 @@
     (2) A Chief Information Officer.
     (3) A Chief Human Capital Officer.
     (4) An Officer for Civil Rights and Civil Liberties.
+    (5) A Director for Domestic Nuclear Detection.
   (e) Chief Financial Officer
      There shall be in the Department a Chief Financial Officer, as provided in chapter 9 of title 31.
   (f) Performance of specific functions

@@ -1,6 +1,17 @@
-  (a) In general
-     The Secretary, in consultation with the Federal Communications Commission and the Secretary of Defense, and with appropriate governors, mayors, and other State and local government officials, shall provide technical guidance, training, and other assistance, as appropriate, to support the rapid establishment of consistent, secure, and effective interoperable communications capabilities in the event of an emergency in urban and other areas determined by the Secretary to be at consistently high levels of risk from terrorist attack.
-  (b) Minimum capabilities
-     The interoperable communications capabilities established under subsection (a) of this section shall ensure the ability of all levels of government agencies, emergency response providers (as defined in section 101 of this title), and other organizations with emergency response capabilities–
-    (1) to communicate with each other in the event of an emergency; and
-    (2) to have appropriate and timely access to the Information Sharing Environment described in section 485 of this title.
+  (a) Definition
+     In this section, the term ””National Infrastructure Simulation and Analysis Center““ means the National Infrastructure Simulation and Analysis Center established under section 5195c(d) of title 42.
+  (b) Authority
+    (1) In general
+       There is in the Department the National Infrastructure Simulation and Analysis Center which shall serve as a source of national expertise to address critical infrastructure protection and continuity through support for activities related to–
+      (A) counterterrorism, threat assessment, and risk mitigation; and
+      (B) a natural disaster, act of terrorism, or other man-made disaster.
+    (2) Infrastructure modeling
+      (A) Particular support
+         The support provided under paragraph (1) shall include modeling, simulation, and analysis of the systems and assets comprising critical infrastructure, in order to enhance preparedness, protection, response, recovery, and mitigation activities.
+      (B) Relationship with other agencies
+         Each Federal agency and department with critical infrastructure responsibilities under Homeland Security Presidential Directive 7, or any successor to such directive, shall establish a formal relationship, including an agreement regarding information sharing, between the elements of such agency or department and the National Infrastructure Simulation and Analysis Center, through the Department.
+      (C) Purpose
+        (i) In general
+           The purpose of the relationship under subparagraph (B) shall be to permit each Federal agency and department described in subparagraph (B) to take full advantage of the capabilities of the National Infrastructure Simulation and Analysis Center (particularly vulnerability and consequence analysis), consistent with its work load capacity and priorities, for real-time response to reported and projected natural disasters, acts of terrorism, and other man-made disasters.
+        (ii) Recipient of certain support
+           Modeling, simulation, and analysis provided under this subsection shall be provided to relevant Federal agencies and departments, including Federal agencies and departments with critical infrastructure responsibilities under Homeland Security Presidential Directive 7, or any successor to such directive.
