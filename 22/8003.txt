@@ -78,7 +78,7 @@
          The measures described in subparagraph (B) shall be implemented to provide reasonable assurances that the recipient is complying with the relevant requirements, terms, and conditions of any licenses issued by the United States regarding such exports, including those relating to the use, retransfer, safe handling, secure transit, and storage of such exports.
   (e) Omitted
   (f) Sunset
-     The authority provided under subsection (a)(1) to exempt an agreement shall terminate upon the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement.
+     The authority provided under subsection (a)(1) to exempt an agreement shall terminate upon October 8, 2008.
   (g) Reporting to Congress
     (1) Information on nuclear activities of India
        The President shall keep the appropriate congressional committees fully and currently informed of the facts and implications of any significant nuclear activities of India, including–
@@ -90,9 +90,10 @@
         (v) an agreement for cooperation between the Government of India and the United States Government arranged pursuant to section 2153 of title 42 or any subsequent arrangement under section 2160 of title 42;
         (vi) the terms and conditions of any approved licenses regarding the export or reexport of nuclear material or dual-use material, equipment, or technology; and
         (vii) United States laws and regulations regarding such licenses;
-      (B) the construction of a nuclear facility in India after December 18, 2006;
-      (C) significant changes in the production by India of nuclear weapons or in the types or amounts of fissile material produced; and
-      (D) changes in the purpose or operational status of any unsafeguarded nuclear fuel cycle activities in India.
+      (B) any material inconsistencies between the content or timeliness of notifications by the Government of India pursuant to paragraph 14(a) of the Safeguards Agreement and the facilities and schedule described in paragraph (14) of the separation plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the separation plan;
+      (C) the construction of a nuclear facility in India after December 18, 2006;
+      (D) significant changes in the production by India of nuclear weapons or in the types or amounts of fissile material produced; and
+      (E) changes in the purpose or operational status of any unsafeguarded nuclear fuel cycle activities in India.
     (2) Implementation and compliance report
        Not later than 180 days after the date on which an agreement for cooperation with India arranged pursuant to section 2153 of title 42 enters into force, and annually thereafter, the President shall submit to the appropriate congressional committees a report including–
       (A) a description of any additional nuclear facilities and nuclear materials that the Government of India has placed or intends to place under IAEA safeguards;
@@ -142,8 +143,26 @@
               (i) full participation in the Proliferation Security Initiative;
               (ii) formal commitment to the Statement of Interdiction Principles of such Initiative;
               (iii) public announcement of its decision to conform its export control laws, regulations, and policies with the Australia Group and with the Guidelines, Procedures, Criteria, and Controls List of the Wassenaar Arrangement; and
-              (iv) effective implementation of the decision described in clause (iii); and
-            (L) the disposal during the previous year of spent nuclear fuel from India“s civilian nuclear program, and any plans or activities relating to future disposal of such spent nuclear fuel.
+              (iv) effective implementation of the decision described in clause (iii);
+            (L) the disposal during the previous year of spent nuclear fuel from India“s civilian nuclear program, and any plans or activities relating to future disposal of such spent nuclear fuel; and
+            (M) with respect to the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy (hereinafter in this subparagraph referred to as the ””Agreement““) approved under section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act–
+              (i) a listing of–
+                (I) all provision of sensitive nuclear technology to India, and other such information as may be so designated by the United States or India under Article 1(Q); and
+                (II) all facilities in India notified pursuant to Article 7(1) of the Agreement;
+              (ii) a description of–
+                (I) any agreed safeguards or any other form of verification for by-product material decided by mutual agreement pursuant to the terms of Article 1(A) of the Agreement;
+                (II) research and development undertaken in such areas as may be agreed between the United States and India as detailed in Article 2(2)(a.) of the Agreement;
+                (III) the civil nuclear cooperation activities undertaken under Article 2(2)(d.) of the Agreement;
+                (IV) any United States efforts to help India develop a strategic reserve of nuclear fuel as called for in Article 2(2)(e.) of the Agreement;
+                (V) any United States efforts to fulfill political commitments made in Article 5(6) of the Agreement;
+                (VI) any negotiations that have occurred or are ongoing under Article 6(iii.) of the Agreement; and
+                (VII) any transfers beyond the territorial jurisdiction of India pursuant to Article 7(2) of the Agreement, including a listing of the receiving country of each such transfer;
+              (iii) an analysis of–
+                (I) any instances in which the United States or India requested consultations arising from concerns over compliance with the provisions of Article 7(1) of the Agreement, and the results of such consultations; and
+                (II) any matters not otherwise identified in this report that have become the subject of consultations pursuant to Article 13(2) of the Agreement, and a statement as to whether such matters were resolved by the end of the reporting period; and
+              (iv) a statement as to whether–
+                (I) any consultations are expected to occur under Article 16(5) of the Agreement; and
+                (II) any enrichment is being carried out pursuant to Article 6 of the Agreement.
     (3) Submittal with other annual reports
       (A) Report on proliferation prevention
          Each annual report submitted under paragraph (2) after the initial report may be submitted together with the annual report on proliferation prevention required under section 3281(a) of this title.
