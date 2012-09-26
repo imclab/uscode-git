@@ -1,4 +1,6 @@
-  (a)    (1) For the purpose of this title, ””prohibited personnel practice““ means any action described in subsection (b) of this section.
+  (a)    (1) For purposes of this title, ””prohibited personnel practice““ means the following:
+      (A) Any action described in subsection (b) of this section.
+      (B) Any action or failure to act that is designated as a prohibited personnel action under section 1599c(a) of title 10.
     (2) For the purpose of this section–
       (A) ””personnel action““ means–
         (i) an appointment;
@@ -18,7 +20,7 @@
         (ii) excluded from the coverage of this section by the President based on a determination by the President that it is necessary and warranted by conditions of good administration; and
       (C) ””agency““ means an Executive agency and the Government Printing Office, but does not include–
         (i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
-        (ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the Central Imagery Office, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+        (ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
         (iii) the General Accounting Office.
   (b) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority–
     (1) discriminate for or against any employee or applicant for employment–
@@ -27,7 +29,9 @@
       (C) on the basis of sex, as prohibited under section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d));
       (D) on the basis of handicapping condition, as prohibited under section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791); or
       (E) on the basis of marital status or political affiliation, as prohibited under any law, rule, or regulation;
-    (2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action except as provided under section 3303(f);
+    (2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of–
+      (A) an evaluation of the work performance, ability, aptitude, or general qualifications of such individual; or
+      (B) an evaluation of the character, loyalty, or suitability of such individual;
     (3) coerce the political activity of any person (including the providing of any political contribution or service), or take any action against any employee or applicant for employment as a reprisal for the refusal of any person to engage in such political activity;
     (4) deceive or willfully obstruct any person with respect to such person“s right to compete for employment;
     (5) influence any person to withdraw from competition for any position for the purpose of improving or injuring the prospects of any other person for employment;

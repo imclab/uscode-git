@@ -1,11 +1,10 @@
   (a) A claim of the United States against a person arising out of an erroneous payment of pay or allowances made on or after July 1, 1960, or arising out of an erroneous payment of travel, transportation or relocation expenses and allowances, to an employee of an agency, the collection of which would be against equity and good conscience and not in the best interests of the United States, may be waived in whole or in part by–
-    (1) the Comptroller General of the United States;
+    (1) the authorized official;
     (2) the head of an agency when–
-      (A) the claim is in an amount aggregating not more than $1,500;
-      (B) the claim is not the subject of an exception made by the Comptroller General in the account of any accountable official; and
-      (C) the waiver is made in accordance with standards which the Comptroller General shall prescribe; or
+      (A) the claim is in an amount aggregating not more than $1,500; and
+      (B) the waiver is made in accordance with standards which the authorized official shall prescribe; or
     (3) the Director of the Administrative Office of the United States Courts when the claim is in an amount aggregating not more than $10,000 and involves an officer or employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or any of the courts set forth in section 610 of title 28.
-  (b) The Comptroller General or the head of the agency, as the case may be, may not exercise his authority under this section to waive any claim–
+  (b) The authorized official or the head of the agency, as the case may be, may not exercise his authority under this section to waive any claim–
     (1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
     (2) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
     (3) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
@@ -23,3 +22,6 @@
     (5) the Botanic Garden; and
     (6) the Administrative Office of the United States Courts, the Federal Judicial Center, and any of the courts set forth in section 610 of title 28.
        For purposes of this section, the Director of the Administrative Office of the United States Courts shall be the head of the agency in the case of those entities set forth in paragraph (6) of this subsection.
+  (g) \1\N For the purpose of this section, the term ””authorized official““ means–
+    (1) the head of an agency, with respect to an agency or employee in the legislative branch; or
+    (2) the Director of the Office of Management and Budget, with respect to any other agency or employee.
