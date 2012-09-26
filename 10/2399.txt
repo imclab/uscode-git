@@ -18,11 +18,7 @@
     (B) The limitation in subparagraph (A) does not apply to a contractor that has participated in such development, production, or testing solely in testing for the Federal Government.
   (f) T4Source of Funds for TestingK.–The costs for all tests required under subsection (a) shall be paid from funds available for the system being tested.
   (g) T4Director“s Annual ReportK.–As part of the annual report of the Director under section 139 of this title, the Director shall describe for each program covered in the report the status of test and evaluation activities in comparison with the test and evaluation master plan for that program, as approved by the Director. The Director shall include in such annual report a description of each waiver granted under subsection (e)(2) since the last such report.
-  (h) T4DefinitionsK.–In this section:
-    (1) The term ””operational test and evaluation““ has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on–
-      (A) computer modeling;
-      (B) simulation; or
-      (C) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
-    (2) The term ””congressional defense committees““ means–
-      (A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-      (B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
+  (h) T4Operational Test and Evaluation DefinedK.–In this section, the term ””operational test and evaluation““ has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on–
+    (1) computer modeling;
+    (2) simulation; or
+    (3) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.

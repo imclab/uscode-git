@@ -1,18 +1,56 @@
-  (a) T4Payment of Both Retired Pay and CompensationK.–Subject to subsection (b), a member or former member of the uniformed services who is entitled to retired pay (other than as specified in subsection (c)) and who is also entitled to veterans“ disability compensation is entitled to be paid both without regard to sections 5304 and 5305 of title 38, subject to the enactment of qualifying offsetting legislation as specified in subsection (f).
-  (b) T4Special Rule for ChapterK 61 T4Career RetireesK.–The retired pay of a member retired under chapter 61 of this title with 20 years or more of service otherwise creditable under section 1405 of this title at the time of the member“s retirement is subject to reduction under sections 5304 and 5305 of title 38, but only to the extent that the amount of the member“s retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member“s service in the uniformed services if the member had not been retired under chapter 61 of this title.
-  (c) T4ExceptionK.–Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of service otherwise creditable under section 1405 of this title at the time of the member“s retirement.
-  (d) T4DefinitionsK.–In this section:
-    (1) The term ””retired pay““ includes retainer pay, emergency officers“ retirement pay, and naval pension.
-    (2) The term ””veterans“ disability compensation““ has the meaning given the term ””compensation““ in section 101(12) of title 38.
-  (e) T4Effective DateK.–If qualifying offsetting legislation (as defined in subsection (f)) is enacted, the provisions of subsection (a) shall take effect on–
-    (1) the first day of the first month beginning after the date of the enactment of such qualifying offsetting legislation; or
-    (2) the first day of the fiscal year that begins in the calendar year in which such legislation is enacted, if that date is later than the date specified in paragraph (1).
-  (f) T4Effectiveness Contingent on Enactment of Offsetting LegislationK.–(1) The provisions of subsection (a) shall be effective only if–
-    (A) the President, in the budget for any fiscal year, proposes the enactment of legislation that, if enacted, would be qualifying offsetting legislation; and
-    (B) after that budget is submitted to Congress, there is enacted qualifying offsetting legislation.
-  (2) In this subsection:
-    (A) The term ””qualifying offsetting legislation““ means legislation (other than an appropriations Act) that includes provisions that–
-      (i) offset fully the increased outlays to be made by reason of the provisions of subsection (a) for each of the first 10 fiscal years beginning after the date of the enactment of such legislation;
-      (ii) expressly state that they are enacted for the purpose of the offset described in clause (i); and
-      (iii) are included in full on the PayGo scorecard.
-    (B) The term ””PayGo scorecard““ means the estimates that are made by the Director of the Congressional Budget Office and the Director of the Office of Management and Budget under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 902(d)) with respect to the ten fiscal years following the date of the enactment of the legislation that is qualifying offsetting legislation for purposes of this section.
+  (a) T4Payment of Both Retired Pay and Compensation.–
+    (1) T4In generalK.–Subject to subsection (b), a member or former member of the uniformed services who is entitled for any month to retired pay and who is also entitled for that month to veterans“ disability compensation for a qualifying service-connected disability (hereinafter in this section referred to as a ””qualified retiree““) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38. During the period beginning on January 1, 2004, and ending on December 31, 2013, payment of retired pay to such a qualified retiree is subject to subsection (c).
+    (2) T4Qualifying service-connected disabilityK.–In this section, the term ””qualifying service-connected disability““ means a service-connected disability or combination of service-connected disabilities that is rated as not less than 50 percent disabling by the Secretary of Veterans Affairs.
+  (b) T4Special Rules for ChapterK 61 T4Disability Retirees.–
+    (1) T4Career retireesK.–The retired pay of a member retired under chapter 61 of this title with 20 years or more of service otherwise creditable under section 1405 of this title, or at least 20 years of service computed under section 12732 of this title, at the time of the member“s retirement is subject to reduction under sections 5304 and 5305 of title 38, but only to the extent that the amount of the member“s retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member“s service in the uniformed services if the member had not been retired under chapter 61 of this title.
+    (2) T4Disability retirees with less than 20 years of serviceK.–Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of service otherwise creditable under section 1405 of this title, or with less than 20 years of service computed under section 12732 of this title, at the time of the member“s retirement.
+  (c) T4Phase-in of Full Concurrent ReceiptK.–During the period beginning on January 1, 2004, and ending on December 31, 2013, retired pay payable to a qualified retiree shall be determined as follows:
+    (1) T4Calendar year 2004K.–For a month during 2004, the amount of retired pay payable to a qualified retiree is the amount (if any) of retired pay in excess of the current baseline offset plus the following:
+      (A) For a month for which the retiree receives veterans“ disability compensation for a disability rated as total, $750.
+      (B) For a month for which the retiree receives veterans“ disability compensation for a disability rated as 90 percent, $500.
+      (C) For a month for which the retiree receives veterans“ disability compensation for a disability rated as 80 percent, $350.
+      (D) For a month for which the retiree receives veterans“ disability compensation for a disability rated as 70 percent, $250.
+      (E) For a month for which the retiree receives veterans“ disability compensation for a disability rated as 60 percent, $125.
+      (F) For a month for which the retiree receives veterans“ disability compensation for a disability rated as 50 percent, $100.
+    (2) T4Calendar year 2005K.–For a month during 2005, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount specified in paragraph (1) for that qualified retiree; and
+      (B) 10 percent of the difference between (i) the current baseline offset, and (ii) the amount specified in paragraph (1) for that member“s disability.
+    (3) T4Calendar year 2006K.–For a month during 2006, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (2) for that qualified retiree; and
+      (B) 20 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (2) for that qualified retiree.
+    (4) T4Calendar year 2007K.–For a month during 2007, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (3) for that qualified retiree; and
+      (B) 30 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (3) for that qualified retiree.
+    (5) T4Calendar year 2008K.–For a month during 2008, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (4) for that qualified retiree; and
+      (B) 40 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (4) for that qualified retiree.
+    (6) T4Calendar year 2009K.–For a month during 2009, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (5) for that qualified retiree; and
+      (B) 50 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (5) for that qualified retiree.
+    (7) T4Calendar year 2010K.–For a month during 2010, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (6) for that qualified retiree; and
+      (B) 60 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (6) for that qualified retiree.
+    (8) T4Calendar year 2011K.–For a month during 2011, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (7) for that qualified retiree; and
+      (B) 70 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (7) for that qualified retiree.
+    (9) T4Calendar year 2012K.–For a month during 2012, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (8) for that qualified retiree; and
+      (B) 80 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (8) for that qualified retiree.
+    (10) T4Calendar year 2013K.–For a month during 2013, the amount of retired pay payable to a qualified retiree is the sum of–
+      (A) the amount determined under paragraph (9) for that qualified retiree; and
+      (B) 90 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (9) for that qualified retiree.
+    (11) T4General limitationK.–Retired pay determined under this subsection for a qualified retiree, if greater than the amount of retired pay otherwise applicable to that qualified retiree, shall be reduced to the amount of retired pay otherwise applicable to that qualified retiree.
+  (d) T4Coordination With Combat-Related Special Compensation Program.–
+    (1) T4In generalK.–A person who is a qualified retiree under this section and is also an eligible combat-related disabled uniformed services retiree under section 1413a of this title may receive special compensation in accordance with that section or retired pay in accordance with this section, but not both.
+    (2) T4Annual open seasonK.–The Secretary concerned shall provide for an annual period (referred to as an ””open season““) during which a person described in paragraph (1) shall have the right to make an election to change from receipt of special compensation in accordance with section 1413a of this title to receipt of retired pay in accordance with this section, or the reverse, as the case may be. Any such election shall be made under regulations prescribed by the Secretary concerned. Such regulations shall provide for the form and manner for making such an election and shall provide for the date as of when such an election shall become effective. In the case of the Secretary of a military department, such regulations shall be subject to approval by the Secretary of Defense.
+  (e) T4DefinitionsK.–In this section:
+    (1) T4Retired payK.–The term ””retired pay““ includes retainer pay, emergency officers“ retirement pay, and naval pension.
+    (2) T4Veterans“ disability compensationK.–The term ””veterans“ disability compensation““ has the meaning given the term ””compensation““ in section 101(13) of title 38.
+    (3) T4Disability rated as totalK.–The term ””disability rated as total““ means–
+      (A) a disability, or combination of disabilities, that is rated as total under the standard schedule of rating disabilities in use by the Department of Veterans Affairs; or
+      (B) a disability, or combination of disabilities, for which the scheduled rating is less than total but for which a rating of total is assigned by reason of inability of the disabled person concerned to secure or follow a substantially gainful occupation as a result of disabilities for which veterans“ disability compensation may be paid.
+    (4) T4Current baseline offset.–
+      (A) T4In generalK.–The term ””current baseline offset““ for any qualified retiree means the amount for any month that is the lesser of–
+        (i) the amount of the applicable monthly retired pay of the qualified retiree for that month; and
+        (ii) the amount of monthly veterans“ disability compensation to which the qualified retiree is entitled for that month.
+      (B) T4Applicable retired payK.–In subparagraph (A), the term ””applicable retired pay““ for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member“s service in the uniformed services if the member had not been retired under chapter 61 of this title.

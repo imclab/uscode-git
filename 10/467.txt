@@ -8,3 +8,4 @@
   (4) The term ””geospatial information““ means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth and includes–
     (A) statistical data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
     (B) mapping, charting, geodetic data, and related products.
+  (5) The term ””geospatial intelligence““ means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
