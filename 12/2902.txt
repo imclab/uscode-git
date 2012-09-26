@@ -1,9 +1,8 @@
    For the purposes of this chapter–
   (1) the term ””appropriate Federal financial supervisory agency““ means–
-    (A) the Comptroller of the Currency with respect to national banks;
-    (B) the Board of Governors of the Federal Reserve System with respect to State chartered banks which are members of the Federal Reserve System and bank holding companies;
-    (C) the Federal Deposit Insurance Corporation with respect to State chartered banks and savings banks which are not members of the Federal Reserve System and the deposits of which are insured by the Corporation; and
-  (2) \1\N section 1818 of this title, by the Director of the Office of Thrift Supervision, in the case of a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and a savings and loan holding company;
+    (A) the Comptroller of the Currency with respect to national banks and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation);
+    (B) the Board of Governors of the Federal Reserve System with respect to State chartered banks which are members of the Federal Reserve System, bank holding companies, and savings and loan holding companies;
+    (C) the Federal Deposit Insurance Corporation with respect to State chartered banks and savings banks which are not members of the Federal Reserve System and the deposits of which are insured by the Corporation, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).\1\N
   (2) the term ””regulated financial institution““ means an insured depository institution (as defined in section 1813 of this title); and
   (3) the term ””application for a deposit facility““ means an application to the appropriate Federal financial supervisory agency otherwise required under Federal law or regulations thereunder for–
     (A) a charter for a national bank or Federal savings and loan association;

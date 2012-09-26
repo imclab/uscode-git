@@ -8,7 +8,7 @@
     (A) that provides clearing, netting, or settlement services for its members and–
       (i) in which all members other than the clearing organization itself are financial institutions or other clearing organizations; or
       (ii) which is registered as a clearing agency under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], or is exempt from such registration by order of the Securities and Exchange Commission; or
-    (B) that is registered as a derivatives clearing organization under section 7a–1 of title 7, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title).
+    (B) that is registered as a derivatives clearing organization under section 7a–1 of title 7, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 \1\ of this title).
   (3) Covered clearing obligation
      The term ””covered clearing obligation““ means an obligation of a member of a clearing organization to make payment to another member of a clearing organization, subject to a netting contract.
   (4) Covered contractual payment entitlement

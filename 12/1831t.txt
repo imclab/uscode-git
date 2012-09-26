@@ -50,9 +50,9 @@
           (II) Second notice
              Make a second transmission described in clause (i) via mail not less than 30 days and not more than three months after a transmission to the depositor in accordance with subclause (I), if the institution has not, by the date of such mailing, received from the depositor a card referred to in clause (i) which has been signed by the depositor.
   (c) Manner and content of disclosure
-     To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
+     To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Bureau, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
   (d) Exceptions for institutions not receiving retail deposits
-     The Federal Trade Commission may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+     The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
   (e) Definitions
      For purposes of this section:
     (1) Appropriate supervisor
@@ -60,7 +60,7 @@
     (2) Depository institution
        The term ””depository institution““ includes–
       (A) any entity described in section 461(b)(1)(A)(iv) of this title; and
-      (B) any entity that, as determined by the Federal Trade Commission–
+      (B) any entity that, as determined by the Bureau–
         (i) is engaged in the business of receiving deposits; and
         (ii) could reasonably be mistaken for a depository institution by the entity“s current or prospective customers.
     (3) Lacking Federal deposit insurance
@@ -69,13 +69,15 @@
       (B) an insured credit union, as defined in section 101 of the Federal Credit Union Act [12 U.S.C. 1752].
     (4) Private deposit insurer
        The term ””private deposit insurer““ means any entity insuring the deposits of any depository institution lacking Federal deposit insurance.
+    (5) Bureau
+       The term ””Bureau““ means the Bureau of Consumer Financial Protection.
   (f) Enforcement
-    (1) Limited FTC enforcement authority
-       Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act [15 U.S.C. 41 et seq.] by the Federal Trade Commission.
+    (1) Limited enforcement authority
+       Compliance with the requirements of subsections (b), (c), and (e), and any regulation prescribed or order issued under such subsection, shall be enforced under the Consumer Financial Protection Act of 2010, by the Bureau, subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], and under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade Commission.
     (2) Broad State enforcement authority
       (A) In general
          Subject to subparagraph (C), an appropriate State supervisor of a depository institution lacking Federal deposit insurance may examine and enforce compliance with the requirements of this section, and any regulation prescribed under this section.
       (B) State powers
          For purposes of bringing any action to enforce compliance with this section, no provision of this section shall be construed as preventing an appropriate State supervisor of a depository institution lacking Federal deposit insurance from exercising any powers conferred on such official by the laws of such State.
       (C) Limitation on State action while Federal action pending
-         If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint.
+         If the Bureau or Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisory agency may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Bureau or Federal Trade Commission for any violation of this section that is alleged in that complaint.

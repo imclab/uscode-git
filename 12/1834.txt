@@ -1,9 +1,9 @@
-  (a) Qualification of lifeline accounts by Federal Reserve Board
+  (a) Qualification of lifeline accounts
     (1) In general
-       The Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation shall establish minimum requirements for accounts providing basic transaction services for consumers at insured depository institutions in order for such accounts to qualify as lifeline accounts for purposes of this section and section 1817(b)(2)(H) \1\N of this title.
+       The Comptroller of the Currency and the Federal Deposit Insurance Corporation shall establish minimum requirements for accounts providing basic transaction services for consumers at insured depository institutions in order for such accounts to qualify as lifeline accounts for purposes of this section and section 1817(b)(2)(E) of this title.
     (2) Factors to be considered
        In determining the minimum requirements under paragraph (1) for lifeline accounts at insured depository institutions, the Corporation shall consider the following factors:
-      (A) Whether the account is available to provide basic transaction services for individuals who maintain a balance of less than $1,000 or such other amount which the Board may determine to be appropriate.
+      (A) Whether the account is available to provide basic transaction services for individuals who maintain a balance of less than $1,000 or such other amount which the Comptroller may determine to be appropriate.
       (B) Whether any service charges or fees to which the account is subject, if any, for routine transactions do not exceed a minimal amount.
       (C) Whether any minimum balance or minimum opening requirement to which the account is subject, if any, is not more than a minimal amount.
       (D) Whether checks, negotiable orders of withdrawal, or similar instruments for making payments or other transfers to third parties may be drawn on the account.
@@ -15,11 +15,13 @@
       (J) Such other factors as the Corporation may determine to be appropriate.
     (3) Definitions
        For purposes of this subsection–
-      (A) Corporation
+      (A) Comptroller
+         The term ””Comptroller““ means the Comptroller of the Currency.
+      (B) Corporation
          The term ””Corporation““ means the Federal Deposit Insurance Corporation.
-      (B) Insured depository institution
+      (C) Insured depository institution
          The term ””insured depository institution““ has the meaning given to such term in section 1813(c)(2) of this title.
-      (C) Lifeline account
+      (D) Lifeline account
          The term ””lifeline account““ means any transaction account (as defined in section 461(b)(1)(C) of this title) which meets the minimum requirements established by the Corporation under this subsection.
   (b) Omitted
   (c) Availability of funds
