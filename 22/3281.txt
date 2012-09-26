@@ -18,7 +18,7 @@
       (A) all transactions for which–
         (i) an export license was issued for any good controlled under section 2139a(c) of title 42;
         (ii) an export license was issued under section 2139(b) of title 42;
-        (iii) approvals were issued under the Export Administration Act of 1979 [50 App. U.S.C. 2401 et seq.], or section 2139(b)(3) of title 42, for the retransfer of any item, technical data, component, or substance; or
+        (iii) approvals were issued under the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.], or section 2139(b)(3) of title 42, for the retransfer of any item, technical data, component, or substance; or
         (iv) authorizations were made as required by section 2077(b)(2) of title 42 to engage, directly or indirectly, in the production of special nuclear material;
       (B) each instance in which–
         (i) a sanction has been imposed under section 6301(a) of this title or section 6303 of this title or section 2799aa–1(b)(1) of this title;
@@ -30,6 +30,6 @@
           (III) section 2780(g) of this title with respect to the last sentence of section 2780(d) of this title, or
           (IV) section 2364 of this title with respect to section 2375 of this title or section 2753(f) of this title, the last sentence of section 2780(d) of this title, or 2799aa–1(b)(1) \2\N of this title; and
       (C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
-         Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 [50 App. U.S.C. 2411(c)(1)] shall be submitted as confidential.
+         Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 [50 U.S.C. App. 2411(c)(1)] shall be submitted as confidential.
   (b) Analysis of civil agreements for cooperation
      In the first report required by this section, the President shall analyze each civil agreement for cooperation negotiated pursuant to section 2153 of title 42, and shall discuss the scope and adequacy of the requirements and obligations relating to safeguards and other controls therein.
