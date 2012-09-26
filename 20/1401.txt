@@ -1,68 +1,107 @@
-  (a) As used in this chapter–
-    (1)      (A) The term ””children with disabilities““ means children–
-        (i) with mental retardation, hearing impairments including deafness, speech or language impairments, visual impairments including blindness, serious emotional disturbance, orthopedic impairments, autism, traumatic brain injury, other health impairments, or specific learning disabilities; and
-        (ii) who, by reason thereof, need special education and related services.
-      (B) The term ””children with disabilities““ for children aged 3 to 5, inclusive, may, at a State“s discretion, include children–
-        (i) experiencing developmental delays, as defined by the State and as measured by appropriate diagnostic instruments and procedures, in one or more of the following areas: physical development, cognitive development, communication development, social or emotional development, or adaptive development; and
-        (ii) who, by reason thereof, need special education and related services.
-    (2) Repealed. Pub. L. 98–199, § 2(2), Dec. 2, 1983, 97 Stat. 1357.
-    (3) Repealed. Pub. L. 100–630, title I, § 101(a)(2), Nov. 7, 1988, 102 Stat. 3289.
-    (4) The term ””construction““, except where otherwise specified, means (A) erection of new or expansion of existing structures, and the acquisition and installation of equipment therefor; or (B) acquisition of existing structures not owned by any agency or institution making application for assistance under this chapter; or (C) remodeling or alteration (including the acquisition, installation, modernization, or replacement of equipment) of existing structures; or (D) acquisition of land in connection with activities in clauses (A), (B), and (C); or (E) a combination of any two or more of the foregoing.
-    (5) The term ””equipment““ includes machinery, utilities, and built-in equipment and any necessary enclosures or structures to house them, and includes all other items necessary for the functioning of a particular facility as a facility for the provision of educational services, including items such as instructional equipment and necessary furniture, printed, published, and audio-visual instructional materials, telecommunications, sensory, and other technological aids and devices, and books, periodicals, documents, and other related materials.
-    (6) The term ””State““ means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or Palau (until the Compact of Free Association with Palau takes effect pursuant to section 1931(a) of title 48).
-    (7) The term ””State educational agency““ means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
-    (8) The term ””local educational agency““ means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, or other political subdivision of a State, or such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools. Such term also includes any other public institution or agency having administrative control and direction of a public elementary or secondary school.
-    (9) The term ””elementary school““ means a day or residential school which provides elementary education, as determined under State law.
-    (10) The term ””secondary school““ means a day or residential school which provides secondary education, as determined under State law, except that it does not include any education provided beyond grade 12.
-    (11) The term ””institution of higher education““ means an educational institution in any State which–
-      (A) admits as regular students only individuals having a certificate of graduation from a high school, or the recognized equivalent of such a certificate;
-      (B) is legally authorized within such State to provide a program of education beyond high school;
-      (C) provides an educational program for which it awards a bachelor“s degree, or provides not less than a two-year program which is acceptable for full credit toward such a degree, or offers a two-year program in engineering, mathematics, or the physical or biological sciences which is designed to prepare the student to work as a technician and at a semiprofessional level in engineering, scientific, or other technological fields which require the understanding and application of basic engineering, scientific, or mathematical principles or knowledge;
-      (D) is a public or other nonprofit institution; and
-      (E) is accredited by a nationally recognized accrediting agency or association listed by the Secretary pursuant to this paragraph or, if not so accredited, is an institution whose credits are accepted, on transfer, by not less than three institutions which are so accredited, for credit on the same basis as if transferred from an institution so accredited: T3Provided, howeverK, That in the case of an institution offering a two-year program in engineering, mathematics, or the physical or biological sciences which is designed to prepare the student to work as a technician and at a semi-professional level in engineering, scientific, or technological fields which require the understanding and application of basic engineering, scientific, or mathematical principles or knowledge, if the Secretary determines that there is no nationally recognized accrediting agency or association qualified to accredit such institutions, the Secretary shall appoint an advisory committee, composed of persons specially qualified to evaluate training provided by such institutions, which shall prescribe the standards of content, scope, and quality which must be met in order to qualify such institutions to participate under this title and shall also determine whether particular institutions meet such standards. For the purposes of this paragraph the Secretary shall publish a list of nationally recognized accrediting agencies or associations which the Secretary determines to be reliable authority as to the quality of education or training offered.
-     The term includes community colleges receiving funding from the Secretary of the Interior under the Tribally Controlled Community College Assistance Act of 1978 [20 U.S.C. 1801 et seq.].
-    (12) The term ””nonprofit““ as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
-    (13) The term ””research and related purposes““ means research, research training (including the payment of stipends and allowances), surveys, or demonstrations in the field of education of children with disabilities, or the dissemination of information derived therefrom, including (but without limitation) experimental schools.
-    (14) The term ””Secretary““ means the Secretary of Education.
-    (15) The term ””children with specific learning disabilities““ means those children who have a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, which disorder may manifest itself in imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations. Such disorders include such conditions as perceptual disabilities, brain injury, minimal brain dysfunction, dyslexia, and developmental aphasia. Such term does not include children who have learning problems which are primarily the result of visual, hearing, or motor disabilities, of mental retardation, of emotional disturbance, or of environmental, cultural, or economic disadvantage.
-    (16) The term ””special education““ means specially designed instruction, at no cost to parents or guardians, to meet the unique needs of a child with a disability, including–
-      (A) instruction conducted in the classroom, in the home, in hospitals and institutions, and in other settings; and
-      (B) instruction in physical education.
-    (17) The term ””related services““ means transportation, and such developmental, corrective, and other supportive services (including speech pathology and audiology, psychological services, physical and occupational therapy, recreation, including therapeutic recreation, social work services, counseling services, including rehabilitation counseling, and medical services, except that such medical services shall be for diagnostic and evaluation purposes only) as may be required to assist a child with a disability to benefit from special education, and includes the early identification and assessment of disabling conditions in children.
-    (18) The term ””free appropriate public education““ means special education and related services that–
-      (A) have been provided at public expense, under public supervision and direction, and without charge,
-      (B) meet the standards of the State educational agency,
-      (C) include an appropriate preschool, elementary, or secondary school education in the State involved, and
-      (D) are provided in conformity with the individualized education program required under section 1414(a)(5) of this title.
-    (19) The term ””transition services““ means a coordinated set of activities for a student, designed within an outcome-oriented process, which promotes movement from school to post-school activities, including post-secondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student“s needs, taking into account the student“s preferences and interests, and shall include instruction, community experiences, the development of employment and other post-school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
-    (20) The term ””individualized education program““ means a written statement for each child with a disability developed in any meeting by a representative of the local educational agency or an intermediate educational unit who shall be qualified to provide, or supervise the provision of, specially designed instruction to meet the unique needs of children with disabilities, the teacher, the parents or guardian of such child, and, whenever appropriate, such child, which statement shall include–
-      (A) a statement of the present levels of educational performance of such child,
-      (B) a statement of annual goals, including short-term instructional objectives,
-      (C) a statement of the specific educational services to be provided to such child, and the extent to which such child will be able to participate in regular educational programs,
-      (D) a statement of the needed transition services for students beginning no later than age 16 and annually thereafter (and, when determined appropriate for the individual, beginning at age 14 or younger), including, when appropriate, a statement of the interagency reponsibilities \1\N or linkages (or both) before the student leaves the school setting,
-      (E) the projected date for initiation and anticipated duration of such services, and
-      (F) appropriate objective criteria and evaluation procedures and schedules for determining, on at least an annual basis, whether instructional objectives are being achieved.
-     In the case where a participating agency, other than the educational agency, fails to provide agreed upon services, the educational agency shall reconvene the IEP team to identify alternative strategies to meet the transition objectives.
-    (21) The term ””excess costs““ means those costs which are in excess of the average annual per student expenditure in a local educational agency during the preceding school year for an elementary or secondary school student, as may be appropriate, and which shall be computed after deducting–
-      (A) amounts received–
-        (i) under this subchapter,
-        (ii) under title I of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6301 et seq.], or
-        (iii) under title VII of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7401 et seq.], and
-      (B) any State or local funds expended for programs that would qualify for assistance under such subchapter, chapter, or title.
-    (22) The term ””native language““ has the meaning given that term by section 7003(a)(2) \2\N of the Bilingual Education Act.
-    (23) The term ””intermediate educational unit““ means any public authority, other than a local educational agency, which is under the general supervision of a State educational agency, which is established by State law for the purpose of providing free public education on a regional basis, and which provides special education and related services to children with disabilities within that State.
-    (24)      (A) The term ””public or private nonprofit agency or organization““ includes an Indian tribe and the Bureau of Indian Affairs of the Department of the Interior (when acting on behalf of schools operated by the Bureau for children and students on Indian reservations) and tribally controlled schools funded by the Department of the Interior.
-      (B) The terms ””Indian““, ””American Indian““, and ””Indian American““ mean an individual who is a member of an Indian tribe.
-      (C) The term ””Indian tribe““ means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established under the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.]).
-    (25) The term ””assistive technology device““ means any item, piece of equipment, or product system, whether acquired commercially off the shelf, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities.
-    (26) The term ””assistive technology service““ means any service that directly assists an individual with a disability in the selection, acquisition, or use of an assistive technology device. Such term includes–
-      (A) the evaluation of the needs of an individual with a disability, including a functional evaluation of the individual in the individual“s customary environment;
-      (B) purchasing, leasing, or otherwise providing for the acquisition of assistive technology devices by individuals with disabilities;
-      (C) selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing of assistive technology devices;
-      (D) coordinating and using other therapies, interventions, or services with assistive technology devices, such as those associated with existing education and rehabilitation plans and programs;
-      (E) training or technical assistance for an individual with disabilities, or, where appropriate, the family of an individual with disabilities; and
-      (F) training or technical assistance for professionals (including individuals providing education and rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of individuals with disabilities.
-    (27) The term ””underrepresented““ means populations such as minorities, the poor, the limited English proficient, and individuals with disabilities.
-  (b) For purposes of subchapter III of this chapter, ””youth with a disability““ means any child with a disability (as defined in subsection (a)(1) of this section) who–
-    (1) is twelve years of age or older; or
-    (2) is enrolled in the seventh or higher grade in school.
+   Except as otherwise provided, as used in this chapter:
+  (1) Assistive technology device
+     The term ””assistive technology device““ means any item, piece of equipment, or product system, whether acquired commercially off the shelf, modified, or customized, that is used to increase, maintain, or improve functional capabilities of a child with a disability.
+  (2) Assistive technology service
+     The term ””assistive technology service““ means any service that directly assists a child with a disability in the selection, acquisition, or use of an assistive technology device. Such term includes–
+    (A) the evaluation of the needs of such child, including a functional evaluation of the child in the child“s customary environment;
+    (B) purchasing, leasing, or otherwise providing for the acquisition of assistive technology devices by such child;
+    (C) selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing of assistive technology devices;
+    (D) coordinating and using other therapies, interventions, or services with assistive technology devices, such as those associated with existing education and rehabilitation plans and programs;
+    (E) training or technical assistance for such child, or, where appropriate, the family of such child; and
+    (F) training or technical assistance for professionals (including individuals providing education and rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of such child.
+  (3) Child with a disability
+    (A) In general
+       The term ””child with a disability““ means a child–
+      (i) with mental retardation, hearing impairments (including deafness), speech or language impairments, visual impairments (including blindness), serious emotional disturbance (hereinafter referred to as ””emotional disturbance““), orthopedic impairments, autism, traumatic brain injury, other health impairments, or specific learning disabilities; and
+      (ii) who, by reason thereof, needs special education and related services.
+    (B) Child aged 3 through 9
+       The term ””child with a disability““ for a child aged 3 through 9 may, at the discretion of the State and the local educational agency, include a child–
+      (i) experiencing developmental delays, as defined by the State and as measured by appropriate diagnostic instruments and procedures, in one or more of the following areas: physical development, cognitive development, communication development, social or emotional development, or adaptive development; and
+      (ii) who, by reason thereof, needs special education and related services.
+  (4) Educational service agency
+     The term ””educational service agency““–
+    (A) means a regional public multiservice agency–
+      (i) authorized by State law to develop, manage, and provide services or programs to local educational agencies; and
+      (ii) recognized as an administrative agency for purposes of the provision of special education and related services provided within public elementary and secondary schools of the State; and
+    (B) includes any other public institution or agency having administrative control and direction over a public elementary or secondary school.
+  (5) Elementary school
+     The term ””elementary school““ means a nonprofit institutional day or residential school that provides elementary education, as determined under State law.
+  (6) Equipment
+     The term ””equipment““ includes–
+    (A) machinery, utilities, and built-in equipment and any necessary enclosures or structures to house such machinery, utilities, or equipment; and
+    (B) all other items necessary for the functioning of a particular facility as a facility for the provision of educational services, including items such as instructional equipment and necessary furniture; printed, published, and audio-visual instructional materials; telecommunications, sensory, and other technological aids and devices; and books, periodicals, documents, and other related materials.
+  (7) Excess costs
+     The term ””excess costs““ means those costs that are in excess of the average annual per-student expenditure in a local educational agency during the preceding school year for an elementary or secondary school student, as may be appropriate, and which shall be computed after deducting–
+    (A) amounts received–
+      (i) under subchapter II of this chapter;
+      (ii) under part A of title I of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6311 et seq.]; or
+      (iii) under part A of title VII of that Act [20 U.S.C. 7401 et seq.]; and
+    (B) any State or local funds expended for programs that would qualify for assistance under any of those parts.
+  (8) Free appropriate public education
+     The term ””free appropriate public education““ means special education and related services that–
+    (A) have been provided at public expense, under public supervision and direction, and without charge;
+    (B) meet the standards of the State educational agency;
+    (C) include an appropriate preschool, elementary, or secondary school education in the State involved; and
+    (D) are provided in conformity with the individualized education program required under section 1414(d) of this title.
+  (9) Indian
+     The term ””Indian““ means an individual who is a member of an Indian tribe.
+  (10) Indian tribe
+     The term ””Indian tribe““ means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaska Native village or regional village corporation (as defined in or established under the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.]).
+  (11) Individualized education program
+     The term ””individualized education program““ or ””IEP““ means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with section 1414(d) of this title.
+  (12) Individualized family service plan
+     The term ””individualized family service plan““ has the meaning given such term in section 1436 of this title.
+  (13) Infant or toddler with a disability
+     The term ””infant or toddler with a disability““ has the meaning given such term in section 1432 of this title.
+  (14) Institution of higher education
+     The term ””institution of higher education““–
+    (A) has the meaning given that term in section 1141(a) of this title; and
+    (B) also includes any community college receiving funding from the Secretary of the Interior under the Tribally Controlled Community College Assistance Act of 1978 [25 U.S.C. 1801 et seq.].
+  (15) Local educational agency
+    (A) The term ””local educational agency““ means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools.
+    (B) The term includes–
+      (i) an educational service agency, as defined in paragraph (4); and
+      (ii) any other public institution or agency having administrative control and direction of a public elementary or secondary school.
+    (C) The term includes an elementary or secondary school funded by the Bureau of Indian Affairs, but only to the extent that such inclusion makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than the student population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
+  (16) Native language
+     The term ””native language““, when used with reference to an individual of limited English proficiency, means the language normally used by the individual, or in the case of a child, the language normally used by the parents of the child.
+  (17) Nonprofit
+     The term ””nonprofit““, as applied to a school, agency, organization, or institution, means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+  (18) Outlying area
+     The term ””outlying area““ means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+  (19) Parent
+     The term ””parent““–
+    (A) includes a legal guardian; and
+    (B) except as used in sections 1415(b)(2) and 1439(a)(5) of this title, includes an individual assigned under either of those sections to be a surrogate parent.
+  (20) Parent organization
+     The term ””parent organization““ has the meaning given that term in section 1482(g) of this title.
+  (21) Parent training and information center
+     The term ””parent training and information center““ means a center assisted under section 1482 or 1483 of this title.
+  (22) Related services
+     The term ””related services““ means transportation, and such developmental, corrective, and other supportive services (including speech-language pathology and audiology services, psychological services, physical and occupational therapy, recreation, including therapeutic recreation, social work services, counseling services, including rehabilitation counseling, orientation and mobility services, and medical services, except that such medical services shall be for diagnostic and evaluation purposes only) as may be required to assist a child with a disability to benefit from special education, and includes the early identification and assessment of disabling conditions in children.
+  (23) Secondary school
+     The term ””secondary school““ means a nonprofit institutional day or residential school that provides secondary education, as determined under State law, except that it does not include any education beyond grade 12.
+  (24) Secretary
+     The term ””Secretary““ means the Secretary of Education.
+  (25) Special education
+     The term ””special education““ means specially designed instruction, at no cost to parents, to meet the unique needs of a child with a disability, including–
+    (A) instruction conducted in the classroom, in the home, in hospitals and institutions, and in other settings; and
+    (B) instruction in physical education.
+  (26) Specific learning disability
+    (A) In general
+       The term ””specific learning disability““ means a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, which disorder may manifest itself in imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations.
+    (B) Disorders included
+       Such term includes such conditions as perceptual disabilities, brain injury, minimal brain dysfunction, dyslexia, and developmental aphasia.
+    (C) Disorders not included
+       Such term does not include a learning problem that is primarily the result of visual, hearing, or motor disabilities, of mental retardation, of emotional disturbance, or of environmental, cultural, or economic disadvantage.
+  (27) State
+     The term ””State““ means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the outlying areas.
+  (28) State educational agency
+     The term ””State educational agency““ means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
+  (29) Supplementary aids and services
+     The term ””supplementary aids and services““ means,\1\N aids, services, and other supports that are provided in regular education classes or other education-related settings to enable children with disabilities to be educated with nondisabled children to the maximum extent appropriate in accordance with section 1412(a)(5) of this title.
+  (30) Transition services
+     The term ””transition services““ means a coordinated set of activities for a student with a disability that–
+    (A) is designed within an outcome-oriented process, which promotes movement from school to post-school activities, including post-secondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation;
+    (B) is based upon the individual student“s needs, taking into account the student“s preferences and interests; and
+    (C) includes instruction, related services, community experiences, the development of employment and other post-school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.

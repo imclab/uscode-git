@@ -9,7 +9,9 @@
     (1) State expenditures
       (A) Requirement
         (i) In general
-           The amount otherwise payable to a State for a fiscal year pursuant to an allotment under this part shall be reduced if the level of State expenditures, as described in paragraph (2), for the previous fiscal year is less than the average of the total of such expenditures for the 3 fiscal years preceding that previous fiscal year. The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.
+           The amount otherwise payable to a State for a fiscal year pursuant to an allotment under this part shall be reduced if the level of State expenditures, as described in paragraph (2), for the previous fiscal year is less than the average of the total of such expenditures for the 3 fiscal years preceding that previous fiscal year. The amount of the reduction in the allotment for any fiscal year shall be equal to the allotment multiplied by a fraction–
+          (I) the numerator of which is the result obtained by subtracting the level of such State expenditures for the fiscal year for which the determination is made, from the average of the total level of such State expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made; and
+          (II) the denominator of which is the average of the total level of such State expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.
         (ii) Calculation
            Any decrease in State expenditures resulting from the application of subparagraph (B) shall be excluded from the calculation of the average level of State expenditures for any 3-year period described in clause (i).
       (B) Decrease in Federal support

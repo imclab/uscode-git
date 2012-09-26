@@ -1,13 +1,232 @@
-   In order to qualify for assistance under this subchapter in any fiscal year, a State shall demonstrate to the Secretary that the following conditions are met:
-  (1) The State has in effect a policy that assures all children with disabilities the right to a free appropriate public education.
-  (2) The State has developed a plan pursuant to section 1413(b) of this title in effect prior to November 29, 1975, and submitted not later than August 21, 1975, which will be amended so as to comply with the provisions of this paragraph. Each such amended plan shall set forth in detail the policies and procedures which the State will undertake or has undertaken in order to assure that–
-    (A) there is established (i) a goal of providing full educational opportunity to all children with disabilities, (ii) a detailed timetable for accomplishing such a goal, and (iii) a description of the kind and number of facilities, personnel, and services necessary throughout the State to meet such a goal;
-    (B) a free appropriate public education will be available for all children with disabilities between the ages of three and eighteen within the State not later than September 1, 1978, and for all children with disabilities between the ages of three and twenty-one within the State not later than September 1, 1980, except that, with respect to children with disabilities aged three to five and aged eighteen to twenty-one, inclusive, the requirements of this clause shall not be applied in any State if the application of such requirements would be inconsistent with State law or practice, or the order of any court, respecting public education within such age groups in the State;
-    (C) all children residing in the State who are disabled, regardless of the severity of their disability, and who are in need of special education and related services are identified, located, and evaluated, and that a practical method is developed and implemented to determine which children are currently receiving needed special education and related services and which children are not currently receiving needed special education and related services;
-    (D) policies and procedures are established in accordance with detailed criteria prescribed under section 1417(c) of this title; and
-    (E) any amendment to the plan submitted by the State required by this section shall be available to parents, guardians, and other members of the general public at least thirty days prior to the date of submission of the amendment to the Secretary.
-  (3) The State has established priorities for providing a free appropriate public education to all children with disabilities, which priorities shall meet the timetables set forth in clause (B) of paragraph (2) of this section, first with respect to children with disabilities who are not receiving an education, and second with respect to children with disabilities, within each disability category, with the most severe disabilities who are receiving an inadequate education, and has made adequate progress in meeting the timetables set forth in clause (B) of paragraph (2) of this section.
-  (4) Each local educational agency in the State will maintain records of the individualized education program for each child with a disability, and such program shall be established, reviewed, and revised as provided in section 1414(a)(5) of this title.
-  (5) The State has established (A) procedural safeguards as required by section 1415 of this title, (B) procedures to assure that, to the maximum extent appropriate, children with disabilities, including children in public or private institutions or other care facilities, are educated with children who are not disabled, and that special classes, separate schooling, or other removal of children with disabilities from the regular educational environment occurs only when the nature or severity of the disability is such that education in regular classes with the use of supplementary aids and services cannot be achieved satisfactorily, and (C) procedures to assure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child“s native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
-  (6) The State educational agency shall be responsible for assuring that the requirements of this subchapter are carried out and that all educational programs for children with disabilities within the State, including all such programs administered by any other State or local agency, will be under the general supervision of the persons responsible for educational programs for children with disabilities in the State educational agency and shall meet education standards of the State educational agency. This paragraph shall not be construed to limit the responsibility of agencies other than educational agencies in a State from providing or paying for some or all of the costs of a free appropriate public education to be provided children with disabilities in the State.
-  (7) The State shall assure that (A) in carrying out the requirements of this section procedures are established for consultation with individuals involved in or concerned with the education of children with disabilities, including individuals with disabilities and parents or guardians of children with disabilities, and (B) there are public hearings, adequate notice of such hearings, and an opportunity for comment available to the general public prior to adoption of the policies, programs, and procedures required pursuant to the provisions of this section and section 1413 of this title.
+  (a) In general
+     A State is eligible for assistance under this subchapter for a fiscal year if the State demonstrates to the satisfaction of the Secretary that the State has in effect policies and procedures to ensure that it meets each of the following conditions:
+    (1) Free appropriate public education
+      (A) In general
+         A free appropriate public education is available to all children with disabilities residing in the State between the ages of 3 and 21, inclusive, including children with disabilities who have been suspended or expelled from school.
+      (B) Limitation
+         The obligation to make a free appropriate public education available to all children with disabilities does not apply with respect to children:
+        (i) aged 3 through 5 and 18 through 21 in a State to the extent that its application to those children would be inconsistent with State law or practice, or the order of any court, respecting the provision of public education to children in those age ranges; and
+        (ii) aged 18 through 21 to the extent that State law does not require that special education and related services under this subchapter be provided to children with disabilities who, in the educational placement prior to their incarceration in an adult correctional facility:
+          (I) were not actually identified as being a child with a disability under section 1401(3) of this title; or
+          (II) did not have an individualized education program under this subchapter.
+    (2) Full educational opportunity goal
+       The State has established a goal of providing full educational opportunity to all children with disabilities and a detailed timetable for accomplishing that goal.
+    (3) Child find
+      (A) In general
+         All children with disabilities residing in the State, including children with disabilities attending private schools, regardless of the severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated and a practical method is developed and implemented to determine which children with disabilities are currently receiving needed special education and related services.
+      (B) Construction
+         Nothing in this chapter requires that children be classified by their disability so long as each child who has a disability listed in section 1401 of this title and who, by reason of that disability, needs special education and related services is regarded as a child with a disability under this subchapter.
+    (4) Individualized education program
+       An individualized education program, or an individualized family service plan that meets the requirements of section 1436(d) of this title, is developed, reviewed, and revised for each child with a disability in accordance with section 1414(d) of this title.
+    (5) Least restrictive environment
+      (A) In general
+         To the maximum extent appropriate, children with disabilities, including children in public or private institutions or other care facilities, are educated with children who are not disabled, and special classes, separate schooling, or other removal of children with disabilities from the regular educational environment occurs only when the nature or severity of the disability of a child is such that education in regular classes with the use of supplementary aids and services cannot be achieved satisfactorily.
+      (B) Additional requirement
+        (i) In general
+           If the State uses a funding mechanism by which the State distributes State funds on the basis of the type of setting in which a child is served, the funding mechanism does not result in placements that violate the requirements of subparagraph (A).
+        (ii) Assurance
+           If the State does not have policies and procedures to ensure compliance with clause (i), the State shall provide the Secretary an assurance that it will revise the funding mechanism as soon as feasible to ensure that such mechanism does not result in such placements.
+    (6) Procedural safeguards
+      (A) In general
+         Children with disabilities and their parents are afforded the procedural safeguards required by section 1415 of this title.
+      (B) Additional procedural safeguards
+         Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child“s native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
+    (7) Evaluation
+       Children with disabilities are evaluated in accordance with subsections (a) through (c) of section 1414 of this title.
+    (8) Confidentiality
+       Agencies in the State comply with section 1417(c) of this title (relating to the confidentiality of records and information).
+    (9) Transition from subchapter III to preschool programs
+       Children participating in early-intervention programs assisted under subchapter III of this chapter, and who will participate in preschool programs assisted under this subchapter, experience a smooth and effective transition to those preschool programs in a manner consistent with section 1437(a)(8) of this title. By the third birthday of such a child, an individualized education program or, if consistent with sections 1414(d)(2)(B) and 1436(d) of this title, an individualized family service plan, has been developed and is being implemented for the child. The local educational agency will participate in transition planning conferences arranged by the designated lead agency under section 1437(a)(8) of this title.
+    (10) Children in private schools
+      (A) Children enrolled in private schools by their parents
+        (i) In general
+           To the extent consistent with the number and location of children with disabilities in the State who are enrolled by their parents in private elementary and secondary schools, provision is made for the participation of those children in the program assisted or carried out under this subchapter by providing for such children special education and related services in accordance with the following requirements, unless the Secretary has arranged for services to those children under subsection (f) of this section:
+          (I) Amounts expended for the provision of those services by a local educational agency shall be equal to a proportionate amount of Federal funds made available under this subchapter.
+          (II) Such services may be provided to children with disabilities on the premises of private, including parochial, schools, to the extent consistent with law.
+        (ii) Child-find requirement
+           The requirements of paragraph (3) of this subsection (relating to child find) shall apply with respect to children with disabilities in the State who are enrolled in private, including parochial, elementary and secondary schools.
+      (B) Children placed in, or referred to, private schools by public agencies
+        (i) In general
+           Children with disabilities in private schools and facilities are provided special education and related services, in accordance with an individualized education program, at no cost to their parents, if such children are placed in, or referred to, such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements of this subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State.
+        (ii) Standards
+           In all cases described in clause (i), the State educational agency shall determine whether such schools and facilities meet standards that apply to State and local educational agencies and that children so served have all the rights they would have if served by such agencies.
+      (C) Payment for education of children enrolled in private schools without consent of or referral by the public agency
+        (i) In general
+           Subject to subparagraph (A), this subchapter does not require a local educational agency to pay for the cost of education, including special education and related services, of a child with a disability at a private school or facility if that agency made a free appropriate public education available to the child and the parents elected to place the child in such private school or facility.
+        (ii) Reimbursement for private school placement
+           If the parents of a child with a disability, who previously received special education and related services under the authority of a public agency, enroll the child in a private elementary or secondary school without the consent of or referral by the public agency, a court or a hearing officer may require the agency to reimburse the parents for the cost of that enrollment if the court or hearing officer finds that the agency had not made a free appropriate public education available to the child in a timely manner prior to that enrollment.
+        (iii) Limitation on reimbursement
+           The cost of reimbursement described in clause (ii) may be reduced or denied–
+          (I) if–
+            (aa) at the most recent IEP meeting that the parents attended prior to removal of the child from the public school, the parents did not inform the IEP Team that they were rejecting the placement proposed by the public agency to provide a free appropriate public education to their child, including stating their concerns and their intent to enroll their child in a private school at public expense; or
+            (bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in division (aa);
+          (II) if, prior to the parents“ removal of the child from the public school, the public agency informed the parents, through the notice requirements described in section 1415(b)(7) of this title, of its intent to evaluate the child (including a statement of the purpose of the evaluation that was appropriate and reasonable), but the parents did not make the child available for such evaluation; or
+          (III) upon a judicial finding of unreasonableness with respect to actions taken by the parents.
+        (iv) Exception
+           Notwithstanding the notice requirement in clause (iii)(I), the cost of reimbursement may not be reduced or denied for failure to provide such notice if–
+          (I) the parent is illiterate and cannot write in English;
+          (II) compliance with clause (iii)(I) would likely result in physical or serious emotional harm to the child;
+          (III) the school prevented the parent from providing such notice; or
+          (IV) the parents had not received notice, pursuant to section 1415 of this title, of the notice requirement in clause (iii)(I).
+    (11) State educational agency responsible for general supervision
+      (A) In general
+         The State educational agency is responsible for ensuring that–
+        (i) the requirements of this subchapter are met; and
+        (ii) all educational programs for children with disabilities in the State, including all such programs administered by any other State or local agency–
+          (I) are under the general supervision of individuals in the State who are responsible for educational programs for children with disabilities; and
+          (II) meet the educational standards of the State educational agency.
+      (B) Limitation
+         Subparagraph (A) shall not limit the responsibility of agencies in the State other than the State educational agency to provide, or pay for some or all of the costs of, a free appropriate public education for any child with a disability in the State.
+      (C) Exception
+         Notwithstanding subparagraphs (A) and (B), the Governor (or another individual pursuant to State law), consistent with State law, may assign to any public agency in the State the responsibility of ensuring that the requirements of this subchapter are met with respect to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons.
+    (12) Obligations related to and methods of ensuring services
+      (A) Establishing responsibility for services
+         The Chief Executive Officer or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
+        (i) Agency financial responsibility
+           An identification of, or a method for defining, the financial responsibility of each agency for providing services described in subparagraph (B)(i) to ensure a free appropriate public education to children with disabilities, provided that the financial responsibility of each public agency described in subparagraph (B), including the State Medicaid agency and other public insurers of children with disabilities, shall precede the financial responsibility of the local educational agency (or the State agency responsible for developing the child“s IEP).
+        (ii) Conditions and terms of reimbursement
+           The conditions, terms, and procedures under which a local educational agency shall be reimbursed by other agencies.
+        (iii) Interagency disputes
+           Procedures for resolving interagency disputes (including procedures under which local educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise implement the provisions of the agreement or mechanism.
+        (iv) Coordination of services procedures
+           Policies and procedures for agencies to determine and identify the interagency coordination responsibilities of each agency to promote the coordination and timely and appropriate delivery of services described in subparagraph (B)(i).
+      (B) Obligation of public agency
+        (i) In general
+           If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy or pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in sections 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(22) relating to related services, 1401(29) relating to supplementary aids and services, and 1401(30) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement.
+        (ii) Reimbursement for services by public agency
+           If a public agency other than an educational agency fails to provide or pay for the special education and related services described in clause (i), the local educational agency (or State agency responsible for developing the child“s IEP) shall provide or pay for such services to the child. Such local educational agency or State agency may then claim reimbursement for the services from the public agency that failed to provide or pay for such services and such public agency shall reimburse the local educational agency or State agency pursuant to the terms of the interagency agreement or other mechanism described in subparagraph (A)(i) according to the procedures established in such agreement pursuant to subparagraph (A)(ii).
+      (C) Special rule
+         The requirements of subparagraph (A) may be met through–
+        (i) state \1\N statute or regulation;
+        (ii) signed agreements between respective agency officials that clearly identify the responsibilities of each agency relating to the provision of services; or
+        (iii) other appropriate written methods as determined by the Chief Executive Officer of the State or designee of the officer.
+    (13) Procedural requirements relating to local educational agency eligibility
+       The State educational agency will not make a final determination that a local educational agency is not eligible for assistance under this subchapter without first affording that agency reasonable notice and an opportunity for a hearing.
+    (14) Comprehensive system of personnel development
+       The State has in effect, consistent with the purposes of this chapter and with section 1435(a)(8) of this title, a comprehensive system of personnel development that is designed to ensure an adequate supply of qualified special education, regular education, and related services personnel that meets the requirements for a State improvement plan relating to personnel development in subsections (b)(2)(B) and (c)(3)(D) of section 1453 of this title.
+    (15) Personnel standards
+      (A) In general
+         The State educational agency has established and maintains standards to ensure that personnel necessary to carry out this subchapter are appropriately and adequately prepared and trained.
+      (B) Standards described
+         Such standards shall–
+        (i) be consistent with any State-approved or State-recognized certification, licensing, registration, or other comparable requirements that apply to the professional discipline in which those personnel are providing special education or related services;
+        (ii) to the extent the standards described in subparagraph (A) are not based on the highest requirements in the State applicable to a specific profession or discipline, the State is taking steps to require retraining or hiring of personnel that meet appropriate professional requirements in the State; and
+        (iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulations, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of special education and related services to children with disabilities under this subchapter.
+      (C) Policy
+         In implementing this paragraph, a State may adopt a policy that includes a requirement that local educational agencies in the State make an ongoing good-faith effort to recruit and hire appropriately and adequately trained personnel to provide special education and related services to children with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subparagraph (B)(i), consistent with State law, and the steps described in subparagraph (B)(ii) within three years.
+    (16) Performance goals and indicators
+       The State–
+      (A) has established goals for the performance of children with disabilities in the State that–
+        (i) will promote the purposes of this chapter, as stated in section 1400(d) of this title; and
+        (ii) are consistent, to the maximum extent appropriate, with other goals and standards for children established by the State;
+      (B) has established performance indicators the State will use to assess progress toward achieving those goals that, at a minimum, address the performance of children with disabilities on assessments, drop-out rates, and graduation rates;
+      (C) will, every two years, report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A); and
+      (D) based on its assessment of that progress, will revise its State improvement plan under part A of subchapter IV of this chapter as may be needed to improve its performance, if the State receives assistance under that part.
+    (17) Participation in assessments
+      (A) In general
+         Children with disabilities are included in general State and district-wide assessment programs, with appropriate accommodations, where necessary. As appropriate, the State or local educational agency–
+        (i) develops guidelines for the participation of children with disabilities in alternate assessments for those children who cannot participate in State and district-wide assessment programs; and
+        (ii) develops and, beginning not later than July 1, 2000, conducts those alternate assessments.
+      (B) Reports
+         The State educational agency makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
+        (i) The number of children with disabilities participating in regular assessments.
+        (ii) The number of those children participating in alternate assessments.
+        (iii)          (I) The performance of those children on regular assessments (beginning not later than July 1, 1998) and on alternate assessments (not later than July 1, 2000), if doing so would be statistically sound and would not result in the disclosure of performance results identifiable to individual children.
+          (II) Data relating to the performance of children described under subclause (I) shall be disaggregated–
+            (aa) for assessments conducted after July 1, 1998; and
+            (bb) for assessments conducted before July 1, 1998, if the State is required to disaggregate such data prior to July 1, 1998.
+    (18) Supplementation of State, local, and other Federal funds
+      (A) Expenditures
+         Funds paid to a State under this subchapter will be expended in accordance with all the provisions of this subchapter.
+      (B) Prohibition against commingling
+         Funds paid to a State under this subchapter will not be commingled with State funds.
+      (C) Prohibition against supplantation and conditions for waiver by Secretary
+         Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the level of Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case to supplant such Federal, State, and local funds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
+    (19) Maintenance of State financial support
+      (A) In general
+         The State does not reduce the amount of State financial support for special education and related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
+      (B) Reduction of funds for failure to maintain support
+         The Secretary shall reduce the allocation of funds under section 1411 of this title for any fiscal year following the fiscal year in which the State fails to comply with the requirement of subparagraph (A) by the same amount by which the State fails to meet the requirement.
+      (C) Waivers for exceptional or uncontrollable circumstances
+         The Secretary may waive the requirement of subparagraph (A) for a State, for one fiscal year at a time, if the Secretary determines that–
+        (i) granting a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State; or
+        (ii) the State meets the standard in paragraph (18)(C) of this section for a waiver of the requirement to supplement, and not to supplant, funds received under this subchapter.
+      (D) Subsequent years
+         If, for any year, a State fails to meet the requirement of subparagraph (A), including any year for which the State is granted a waiver under subparagraph (C), the financial support required of the State in future years under subparagraph (A) shall be the amount that would have been required in the absence of that failure and not the reduced level of the State“s support.
+      (E) Regulations
+        (i) The Secretary shall, by regulation, establish procedures (including objective criteria and consideration of the results of compliance reviews of the State conducted by the Secretary) for determining whether to grant a waiver under subparagraph (C)(ii).
+        (ii) The Secretary shall publish proposed regulations under clause (i) not later than 6 months after June 4, 1997, and shall issue final regulations under clause (i) not later than 1 year after June 4, 1997.
+    (20) Public participation
+       Prior to the adoption of any policies and procedures needed to comply with this section (including any amendments to such policies and procedures), the State ensures that there are public hearings, adequate notice of the hearings, and an opportunity for comment available to the general public, including individuals with disabilities and parents of children with disabilities.
+    (21) State advisory panel
+      (A) In general
+         The State has established and maintains an advisory panel for the purpose of providing policy guidance with respect to special education and related services for children with disabilities in the State.
+      (B) Membership
+         Such advisory panel shall consist of members appointed by the Governor, or any other official authorized under State law to make such appointments, that is representative of the State population and that is composed of individuals involved in, or concerned with, the education of children with disabilities, including–
+        (i) parents of children with disabilities;
+        (ii) individuals with disabilities;
+        (iii) teachers;
+        (iv) representatives of institutions of higher education that prepare special education and related services personnel;
+        (v) State and local education officials;
+        (vi) administrators of programs for children with disabilities;
+        (vii) representatives of other State agencies involved in the financing or delivery of related services to children with disabilities;
+        (viii) representatives of private schools and public charter schools;
+        (ix) at least one representative of a vocational, community, or business organization concerned with the provision of transition services to children with disabilities; and
+        (x) representatives from the State juvenile and adult corrections agencies.
+      (C) Special rule
+         A majority of the members of the panel shall be individuals with disabilities or parents of children with disabilities.
+      (D) Duties
+         The advisory panel shall–
+        (i) advise the State educational agency of unmet needs within the State in the education of children with disabilities;
+        (ii) comment publicly on any rules or regulations proposed by the State regarding the education of children with disabilities;
+        (iii) advise the State educational agency in developing evaluations and reporting on data to the Secretary under section 1418 of this title;
+        (iv) advise the State educational agency in developing corrective action plans to address findings identified in Federal monitoring reports under this subchapter; and
+        (v) advise the State educational agency in developing and implementing policies relating to the coordination of services for children with disabilities.
+    (22) Suspension and expulsion rates
+      (A) In general
+         The State educational agency examines data to determine if significant discrepancies are occurring in the rate of long-term suspensions and expulsions of children with disabilities–
+        (i) among local educational agencies in the State; or
+        (ii) compared to such rates for nondisabled children within such agencies.
+      (B) Review and revision of policies
+         If such discrepancies are occurring, the State educational agency reviews and, if appropriate, revises (or requires the affected State or local educational agency to revise) its policies, procedures, and practices relating to the development and implementation of IEPs, the use of behavioral interventions, and procedural safeguards, to ensure that such policies, procedures, and practices comply with this chapter.
+  (b) State educational agency as provider of free appropriate public education or direct services
+     If the State educational agency provides free appropriate public education to children with disabilities, or provides direct services to such children, such agency–
+    (1) shall comply with any additional requirements of section 1413(a) of this title, as if such agency were a local educational agency; and
+    (2) may use amounts that are otherwise available to such agency under this subchapter to serve those children without regard to section 1413(a)(2)(A)(i) of this title (relating to excess costs).
+  (c) Exception for prior State plans
+    (1) In general
+       If a State has on file with the Secretary policies and procedures that demonstrate that such State meets any requirement of subsection (a) of this section, including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
+    (2) Modifications made by State
+       Subject to paragraph (3), an application submitted by a State in accordance with this section shall remain in effect until the State submits to the Secretary such modifications as the State deems necessary. This section shall apply to a modification to an application to the same extent and in the same manner as this section applies to the original plan.
+    (3) Modifications required by Secretary
+       If, after the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), or there is a new interpretation of this chapter by a Federal court or a State“s highest court, or there is an official finding of noncompliance with Federal law or regulations, the Secretary may require a State to modify its application only to the extent necessary to ensure the State“s compliance with this subchapter.
+  (d) Approval by Secretary
+    (1) In general
+       If the Secretary determines that a State is eligible to receive a grant under this subchapter, the Secretary shall notify the State of that determination.
+    (2) Notice and hearing
+       The Secretary shall not make a final determination that a State is not eligible to receive a grant under this subchapter until after providing the State–
+      (A) with reasonable notice; and
+      (B) with an opportunity for a hearing.
+  (e) Assistance under other Federal programs
+     Nothing in this chapter permits a State to reduce medical and other assistance available, or to alter eligibility, under titles V and XIX of the Social Security Act [42 U.S.C. 701 et seq., 1396 et seq.] with respect to the provision of a free appropriate public education for children with disabilities in the State.
+  (f) By-pass for children in private schools
+    (1) In general
+       If, on December 2, 1983, a State educational agency is prohibited by law from providing for the participation in special programs of children with disabilities enrolled in private elementary and secondary schools as required by subsection (a)(10)(A) of this section, the Secretary shall, notwithstanding such provision of law, arrange for the provision of services to such children through arrangements which shall be subject to the requirements of such subsection.
+    (2) Payments
+      (A) Determination of amounts
+         If the Secretary arranges for services pursuant to this subsection, the Secretary, after consultation with the appropriate public and private school officials, shall pay to the provider of such services for a fiscal year an amount per child that does not exceed the amount determined by dividing–
+        (i) the total amount received by the State under this subchapter for such fiscal year; by
+        (ii) the number of children with disabilities served in the prior year, as reported to the Secretary by the State under section 1418 of this title.
+      (B) Withholding of certain amounts
+         Pending final resolution of any investigation or complaint that could result in a determination under this subsection, the Secretary may withhold from the allocation of the affected State educational agency the amount the Secretary estimates would be necessary to pay the cost of services described in subparagraph (A).
+      (C) Period of payments
+         The period under which payments are made under subparagraph (A) shall continue until the Secretary determines that there will no longer be any failure or inability on the part of the State educational agency to meet the requirements of subsection (a)(10)(A) of this section.
+    (3) Notice and hearing
+      (A) In general
+         The Secretary shall not take any final action under this subsection until the State educational agency affected by such action has had an opportunity, for at least 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary or the Secretary“s designee to show cause why such action should not be taken.
+      (B) Review of action
+         If a State educational agency is dissatisfied with the Secretary“s final action after a proceeding under subparagraph (A), such agency may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based the Secretary“s action, as provided in section 2112 of title 28.
+      (C) Review of findings of fact
+         The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary“s previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+      (D) Jurisdiction of court of appeals; review by United States Supreme Court
+         Upon the filing of a petition under subparagraph (B), the United States court of appeals shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
