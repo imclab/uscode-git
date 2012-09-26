@@ -6,9 +6,9 @@
    Under Secretary of the Air Force.
    Under Secretary of the Army.
    Under Secretary of the Navy.
-   Assistant Secretaries of Agriculture (3).
+   Assistant Secretaries of Agriculture (2).
    Assistant Secretaries of Commerce (11).
-   Assistant Secretaries of Defense (10).
+   Assistant Secretaries of Defense (9).
    Assistant Secretaries of the Air Force (4).
    Assistant Secretaries of the Army (5).
    Assistant Secretaries of the Navy (4).
@@ -16,7 +16,7 @@
    Assistant Secretaries of the Interior (6).
    Assistant Attorneys General (10).
    Assistant Secretaries of Labor (10), one of whom shall be the Assistant Secretary of Labor for Veterans“ Employment and Training.
-   20 Assistant Secretaries of State and 4 other State Department officials to be appointed by the President, by and with the advice and consent of the Senate.
+   Assistant Secretaries of State (24) and 4 other State Department officials to be appointed by the President, by and with the advice and consent of the Senate.
    Assistant Secretaries of the Treasury (7).
    Members, United States International Trade Commission (5).
    Assistant Secretaries of Education (10).
@@ -26,7 +26,6 @@
    Deputy Director of the Office of Emergency Planning.
    Deputy Director of the Office of Science and Technology.
    Deputy Director of the Peace Corps.
-   Deputy Director of the United States Information Agency.
    Assistant Directors of the Office of Management and Budget (3).
    General Counsel of the Department of Agriculture.
    General Counsel of the Department of Commerce.
@@ -84,12 +83,12 @@
    Assistant Secretary of Commerce for Oceans and Atmosphere, the incumbent of which also serves as Deputy Administrator of the National Oceanic and Atmospheric Administration.
    Commissioner of Immigration and Naturalization, Department of Justice.
    Director, Bureau of Prisons, Department of Justice.
-   Assistant Secretaries of Energy (8).
+   Assistant Secretaries of Energy (6).
    General Counsel of the Department of Energy.
    Administrator, Economic Regulatory Administration, Department of Energy.
    Administrator, Energy Information Administration, Department of Energy.
    Inspector General, Department of Energy.
-   Director, Office of Energy Research, Department of Energy.
+   Director, Office of Science, Department of Energy.
    Assistant Secretary of Labor for Mine Safety and Health.
    Members, Federal Mine Safety and Health Review Commission.
    President, National Consumer Cooperative Bank.
@@ -110,11 +109,9 @@
    Assistant Administrator, Office of Solid Waste, Environmental Protection Agency.
    Assistant Administrators, Environmental Protection Agency (8).
    Director of Operational Test and Evaluation, Department of Defense.
-   Special Representatives of the President for arms control, nonproliferation, and disarmament matters, United States Arms Control and Disarmament Agency.
+   Special Representatives of the President for arms control, nonproliferation, and disarmament matters, Department of State.
    Administrator of the Health Care Financing Administration.
    Director, National Institute of Standards and Technology, Department of Commerce.
-   Assistant Directors, United States Arms Control and Disarmament Agency (4).
-   Inspector General, United States Information Agency.
    Inspector General, Department of State.
    Director of Defense Research and Engineering.
    Ambassadors at Large.
@@ -136,10 +133,8 @@
    Inspector General, Federal Deposit Insurance Corporation.
    Assistant Secretaries, Department of Veterans Affairs (6).
    General Counsel, Department of Veterans Affairs.
-   Director of the National Cemetery System.
    Commissioner of Food and Drugs, Department of Health and Human Services \1\N
    Chairman, Board of Veterans“ Appeals.
-   Associate Director for National Drug Control Policy, Office of National Drug Control Policy.
    Administrator, Office of Juvenile Justice and Delinquency Prevention.
    Director, United States Marshals Service.
    Inspector General, Resolution Trust Corporation.
@@ -167,10 +162,9 @@
    General Counsel of the Department of the Army.
    General Counsel of the Department of the Navy.
    General Counsel of the Department of the Air Force.
-   Liaison for Community and Junior Colleges, Department of Education \1\
-   Commissioner of Customs, Department of the Treasury.
+   Liaison for Community and Junior Colleges, Department of Education.
    Director of the Office of Educational Technology.
-   Director of the International Broadcasting Bureau, the United States Information Agency.
+   Director of the International Broadcasting Bureau.
    Inspector General, Social Security Administration.
    The \2\N Commissioner of Labor Statistics, Department of Labor.
    Administrator, Rural Utilities Service, Department of Agriculture.
@@ -201,3 +195,5 @@
    Inspector General, United States Postal Service.
    Assistant Directors of Central Intelligence (3).
    General Counsel of the Central Intelligence Agency.
+   Deputy Administrators of the National Nuclear Security Administration (3), but if the Deputy Administrator for Naval Reactors is an officer of the Navy on active duty, (2).
+   Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office.

@@ -1,6 +1,4 @@
-  (a)    (1) For purposes of this title, ””prohibited personnel practice““ means the following:
-      (A) Any action described in subsection (b) of this section.
-      (B) Any action or failure to act that is designated as a prohibited personnel action under section 1599c(a) of title 10.
+  (a)    (1) For the purpose of this title, ””prohibited personnel practice““ means any action described in subsection (b).
     (2) For the purpose of this section–
       (A) ””personnel action““ means–
         (i) an appointment;
@@ -50,8 +48,10 @@
       (B) testifying for or otherwise lawfully assisting any individual in the exercise of any right referred to in subparagraph (A);
       (C) cooperating with or disclosing information to the Inspector General of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
       (D) for refusing to obey an order that would require the individual to violate a law;
-    (10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States; or
-    (11) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
+    (10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
+    (11)      (A) knowingly take, recommend, or approve any personnel action if the taking of such action would violate a veterans“ preference requirement; or
+      (B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans“ preference requirement; or
+    (12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
        This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
   (c) The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
   (d) This section shall not be construed to extinguish or lessen any effort to achieve equal employment opportunity through affirmative action or any right or remedy available to any employee or applicant for employment in the civil service under–
@@ -60,3 +60,13 @@
     (3) under section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)), prohibiting discrimination on the basis of sex;
     (4) section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), prohibiting discrimination on the basis of handicapping condition; or
     (5) the provisions of any law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
+  (e)    (1) For the purpose of this section, the term ””veterans“ preference requirement““ means any of the following provisions of law:
+      (A) Sections 2108, 3305(b), 3309, 3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317(b), 3318, 3320, 3351, 3352, 3363, 3501, 3502(b), 3504, and 4303(e) and (with respect to a preference eligible referred to in section 7511(a)(1)(B)) subchapter II of chapter 75 and section 7701.
+      (B) Sections 943(c)(2) and 1784(c) of title 10.
+      (C) Section 1308(b) of the Alaska National Interest Lands Conservation Act.
+      (D) Section 301(c) of the Foreign Service Act of 1980.
+      (E) Sections 106(f), 7281(e), and 7802(5) of title 38.
+      (F) Section 1005(a) of title 39.
+      (G) Any other provision of law that the Director of the Office of Personnel Management designates in regulations as being a veterans“ preference requirement for the purposes of this subsection.
+      (H) Any regulation prescribed under subsection (b) or (c) of section 1302 and any other regulation that implements a provision of law referred to in any of the preceding subparagraphs.
+    (2) Notwithstanding any other provision of this title, no authority to order corrective action shall be available in connection with a prohibited personnel practice described in subsection (b)(11). Nothing in this paragraph shall be considered to affect any authority under section 1215 (relating to disciplinary action).
