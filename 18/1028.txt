@@ -29,19 +29,23 @@
     (1) the identification document or false identification document is or appears to be issued by or under the authority of the United States or the document-making implement is designed or suited for making such an identification document or false identification document;
     (2) the offense is an offense under subsection (a)(4) of this section; or
     (3) either–
-      (A) the production, transfer, possession, or use prohibited by this section is in or affects interstate or foreign commerce; or
+      (A) the production, transfer, possession, or use prohibited by this section is in or affects interstate or foreign commerce, including the transfer of a document by electronic means; or
       (B) the means of identification, identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, possession, or use prohibited by this section.
   (d) In this section–
-    (1) the term ””document-making implement““ means any implement, impression, electronic device, or computer hardware or software, that is specifically configured or primarily used for making an identification document, a false identification document, or another document-making implement;
+    (1) the term ””document-making implement““ means any implement, impression, template, computer file, computer disc, electronic device, or computer hardware or software, that is specifically configured or primarily used for making an identification document, a false identification document, or another document-making implement;
     (2) the term ””identification document““ means a document made or issued by or under the authority of the United States Government, a State, political subdivision of a State, a foreign government, political subdivision of a foreign government, an international governmental or an international quasi-governmental organization which, when completed with information concerning a particular individual, is of a type intended or commonly accepted for the purpose of identification of individuals;
-    (3) the term ””means of identification““ means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any–
+    (3) the term ””false identification document““ means a document of a type intended or commonly accepted for the purposes of identification of individuals that–
+      (A) is not issued by or under the authority of a governmental entity; and
+      (B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a foreign government, a political subdivision of a foreign government, or an international governmental or quasi-governmental organization;
+    (4) the term ””means of identification““ means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any–
       (A) name, social security number, date of birth, official State or government issued driver“s license or identification number, alien registration number, government passport number, employer or taxpayer identification number;
       (B) unique biometric data, such as fingerprint, voice print, retina or iris image, or other unique physical representation;
       (C) unique electronic identification number, address, or routing code; or
       (D) telecommunication identifying information or access device (as defined in section 1029(e));
-    (4) the term ””personal identification card““ means an identification document issued by a State or local government solely for the purpose of identification;
-    (5) the term ””produce““ includes alter, authenticate, or assemble; and
-    (6) the term ””State““ includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States.
+    (5) the term ””personal identification card““ means an identification document issued by a State or local government solely for the purpose of identification;
+    (6) the term ””produce““ includes alter, authenticate, or assemble;
+    (7) the term ””transfer““ includes selecting an identification document, false identification document, or document-making implement and placing or directing the placement of such identification document, false identification document, or document-making implement on an online location where it is available to others; and
+    (8) the term ””State““ includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States.
   (e) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title.
   (f) T4Attempt and ConspiracyK.–Any person who attempts or conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
   (g) T4Forfeiture ProceduresK.–The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
