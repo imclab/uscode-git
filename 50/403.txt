@@ -1,62 +1,10 @@
-  (a) Director of Central Intelligence
-     There is a Director of Central Intelligence who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall–
-    (1) serve as head of the United States intelligence community;
-    (2) act as the principal adviser to the President for intelligence matters related to the national security; and
-    (3) serve as head of the Central Intelligence Agency.
-  (b) Deputy Directors of Central Intelligence
-    (1) There is a Deputy Director of Central Intelligence who shall be appointed by the President, by and with the advice and consent of the Senate.
-    (2) There is a Deputy Director of Central Intelligence for Community Management who shall be appointed by the President, by and with the advice and consent of the Senate.
-    (3) Each Deputy Director of Central Intelligence shall have extensive national security expertise.
-  (c) Military status of Director and Deputy Directors
-    (1)      (A) Not more than one of the individuals serving in the positions specified in subparagraph (B) may be a commissioned officer of the Armed Forces, whether in active or retired status.
-      (B) The positions referred to in subparagraph (A) are the following:
-        (i) The Director of Central Intelligence.
-        (ii) The Deputy Director of Central Intelligence.
-        (iii) The Deputy Director of Central Intelligence for Community Management.
-    (2) It is the sense of Congress that, under ordinary circumstances, it is desirable that one of the individuals serving in the positions specified in paragraph (1)(B)–
-      (A) be a commissioned officer of the Armed Forces, whether in active or retired status; or
-      (B) have, by training or experience, an appreciation of military intelligence activities and requirements.
-    (3) A commissioned officer of the Armed Forces, while serving in a position specified in paragraph (1)(B)–
-      (A) shall not be subject to supervision or control by the Secretary of Defense or by any officer or employee of the Department of Defense;
-      (B) shall not exercise, by reason of the officer“s status as a commissioned officer, any supervision or control with respect to any of the military or civilian personnel of the Department of Defense except as otherwise authorized by law; and
-      (C) shall not be counted against the numbers and percentages of commissioned officers of the rank and grade of such officer authorized for the military department of that officer.
-    (4) Except as provided in subparagraph (A) or (B) of paragraph (3), the appointment of an officer of the Armed Forces to a position specified in paragraph (1)(B) shall not affect the status, position, rank, or grade of such officer in the Armed Forces, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, position, rank, or grade.
-    (5) A commissioned officer of the Armed Forces on active duty who is appointed to a position specified in paragraph (1)(B), while serving in such position and while remaining on active duty, shall continue to receive military pay and allowances and shall not receive the pay prescribed for such position. Funds from which such pay and allowances are paid shall be reimbursed from funds available to the Director of Central Intelligence.
-  (d) Duties of Deputy Directors
-    (1)      (A) The Deputy Director of Central Intelligence shall assist the Director of Central Intelligence in carrying out the Director“s responsibilities under this Act.
-      (B) The Deputy Director of Central Intelligence shall act for, and exercise the powers of, the Director of Central Intelligence during the Director“s absence or disability or during a vacancy in the position of the Director of Central Intelligence.
-    (2) The Deputy Director of Central Intelligence for Community Management shall, subject to the direction of the Director of Central Intelligence, be responsible for the following:
-      (A) Directing the operations of the Community Management Staff.
-      (B) Through the Assistant Director of Central Intelligence for Collection, ensuring the efficient and effective collection of national intelligence using technical means and human sources.
-      (C) Through the Assistant Director of Central Intelligence for Analysis and Production, conducting oversight of the analysis and production of intelligence by elements of the intelligence community.
-      (D) Through the Assistant Director of Central Intelligence for Administration, performing community-wide management functions of the intelligence community, including the management of personnel and resources.
-    (3)      (A) The Deputy Director of Central Intelligence takes precedence in the Office of the Director of Central Intelligence immediately after the Director of Central Intelligence.
-      (B) The Deputy Director of Central Intelligence for Community Management takes precedence in the Office of the Director of Central Intelligence immediately after the Deputy Director of Central Intelligence.
-  (e) Office of the Director of Central Intelligence
-    (1) There is an Office of the Director of Central Intelligence. The function of the Office is to assist the Director of Central Intelligence in carrying out the duties and responsibilities of the Director under this Act and to carry out such other duties as may be prescribed by law.
-    (2) The Office of the Director of Central Intelligence is composed of the following:
-      (A) The Director of Central Intelligence.
-      (B) The Deputy Director of Central Intelligence.
-      (C) The Deputy Director of Central Intelligence for Community Management.
-      (D) The National Intelligence Council.
-      (E) The Assistant Director of Central Intelligence for Collection.
-      (F) The Assistant Director of Central Intelligence for Analysis and Production.
-      (G) The Assistant Director of Central Intelligence for Administration.
-      (H) Such other offices and officials as may be established by law or the Director of Central Intelligence may establish or designate in the Office.
-    (3) To assist the Director in fulfilling the responsibilities of the Director as head of the intelligence community, the Director shall employ and utilize in the Office of the Director of Central Intelligence a professional staff having an expertise in matters relating to such responsibilities and may establish permanent positions and appropriate rates of pay with respect to that staff.
-    (4) The Office of the Director of Central Intelligence shall, for administrative purposes, be within the Central Intelligence Agency.
-  (f) Assistant Director of Central Intelligence for Collection
-    (1) To assist the Director of Central Intelligence in carrying out the Director“s responsibilities under this Act, there shall be an Assistant Director of Central Intelligence for Collection who shall be appointed by the President, by and with the advice and consent of the Senate.
-    (2) The Assistant Director for Collection shall assist the Director of Central Intelligence in carrying out the Director“s collection responsibilities in order to ensure the efficient and effective collection of national intelligence.
-  (g) Assistant Director of Central Intelligence for Analysis and Production
-    (1) To assist the Director of Central Intelligence in carrying out the Director“s responsibilities under this Act, there shall be an Assistant Director of Central Intelligence for Analysis and Production who shall be appointed by the President, by and with the advice and consent of the Senate.
-    (2) The Assistant Director for Analysis and Production shall–
-      (A) oversee the analysis and production of intelligence by the elements of the intelligence community;
-      (B) establish standards and priorities relating to such analysis and production;
-      (C) monitor the allocation of resources for the analysis and production of intelligence in order to identify unnecessary duplication in the analysis and production of intelligence;
-      (D) direct competitive analysis of analytical products having National \1\N importance;
-      (E) identify intelligence to be collected for purposes of the Assistant Director of Central Intelligence for Collection; and
-      (F) provide such additional analysis and production of intelligence as the President and the National Security Council may require.
-  (h) Assistant Director of Central Intelligence for Administration
-    (1) To assist the Director of Central Intelligence in carrying out the Director“s responsibilities under this Act, there shall be an Assistant Director of Central Intelligence for Administration who shall be appointed by the President, by and with the advice and consent of the Senate.
-    (2) The Assistant Director for Administration shall manage such activities relating to the administration of the intelligence community as the Director of Central Intelligence shall require.
+  (a) Director of National Intelligence
+    (1) There is a Director of National Intelligence who shall be appointed by the President, by and with the advice and consent of the Senate. Any individual nominated for appointment as Director of National Intelligence shall have extensive national security expertise.
+    (2) The Director of National Intelligence shall not be located within the Executive Office of the President.
+  (b) Principal responsibility
+     Subject to the authority, direction, and control of the President, the Director of National Intelligence shall–
+    (1) serve as head of the intelligence community;
+    (2) act as the principal adviser to the President, to the National Security Council, and the Homeland Security Council for intelligence matters related to the national security; and
+    (3) consistent with section 1018 of the National Security Intelligence Reform Act of 2004, oversee and direct the implementation of the National Intelligence Program.
+  (c) Prohibition on dual service
+     The individual serving in the position of Director of National Intelligence shall not, while so serving, also serve as the Director of the Central Intelligence Agency or as the head of any other element of the intelligence community.
