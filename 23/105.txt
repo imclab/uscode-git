@@ -1,66 +1,52 @@
-  (a) T4General RuleK.–For each of fiscal years 1998 through 2003, the Secretary shall allocate among the States amounts sufficient to ensure that each State“s percentage of the total apportionments for such fiscal year of Interstate maintenance, national highway system, bridge, congestion mitigation and air quality improvement, surface transportation, metropolitan planning, minimum guarantee, high priority projects, Appalachian development highway system, and recreational trails programs shall equal the percentage listed for each State in subsection (b). The minimum amount allocated to a State under this section for a fiscal year shall be $1,000,000.
-  (b) T4State PercentagesK.–The percentage for each State referred to in subsection (a) shall be determined in accordance with the following table:
-      
-     Alabama D2.0269
-     Alaska D1.1915
-     Arizona D1.5581
-     Arkansas D1.3214
-     California D9.1962
-     Colorado D1.1673
-     Connecticut D1.5186
-     Delaware D0.4424
-     District of Columbia D0.3956
-     Florida D4.6176
-     Georgia D3.5104
-     Hawaii D0.5177
-     Idaho D0.7718
-     Illinois D3.3819
-     Indiana D2.3588
-     Iowa D1.2020
-     Kansas D1.1717
-     Kentucky D1.7365
-     Louisiana D1.5900
-     Maine D0.5263
-     Maryland D1.5087
-     Massachusetts D1.8638
-     Michigan D3.1535
-     Minnesota D1.4993
-     Mississippi D1.2186
-     Missouri D2.3615
-     Montana D0.9929
-     Nebraska D0.7768
-     Nevada D0.7248
-     New Hampshire D0.5163
-     New Jersey D2.5816
-     New Mexico D0.9884
-     New York D5.1628
-     North Carolina D2.8298
-     North Dakota D0.6553
-     Ohio D3.4257
-     Oklahoma D1.5419
-     Oregon D1.2183
-     Pennsylvania D4.9887
-     Rhode Island D0.5958
-     South Carolina D1.5910
-     South Dakota D0.7149
-     Tennessee D2.2646
-     Texas D7.2131
-     Utah D0.7831
-     Vermont D0.4573
-     Virginia D2.5627
-     Washington D1.7875
-     West Virginia D1.1319
-     Wisconsin D1.9916
-     Wyoming D0.6951
-  (c) T4Treatment of Funds.–
-    (1) T4Programmatic distributionK.–The Secretary shall apportion the amounts made available under this section that exceed $2,800,000,000 so that the amount apportioned to each State under this paragraph for each program referred to in subsection (a) (other than metropolitan planning, minimum guarantee, high priority projects, Appalachian development highway system, and recreational trails programs) is equal to the amount determined by multiplying the amount to be apportioned under this paragraph by the ratio that–
-      (A) the amount of funds apportioned to each State for each program referred to in subsection (a) (other than metropolitan planning, minimum guarantee, high priority projects, Appalachian development highway system, and recreational trails programs) for a fiscal year; bears to
-      (B) the total amount of funds apportioned to each State for such program for such fiscal year.
-    (2) T4Remaining distributionK.–The Secretary shall administer the remainder of funds made available under this section to the States in accordance with section 104(b)(3); except that requirements of paragraphs (1), (2), and (3) of section 133(d) shall not apply to amounts administered pursuant to this paragraph.
-  (d) T4AuthorizationK.–There are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) such sums as may be necessary to carry out this section for each of fiscal years 1998 through 2003.
-  (e) T4Special RuleK.–If in any of fiscal years 1999 through 2003, the amount authorized under subsection (d) is more than 30 percent higher than the amount authorized under subsection (d) in fiscal year 1998, the Secretary shall use the apportionment factors under sections 104 and 144 as in effect on the date of enactment of this section.
-  (f) T4Guarantee ofK 90.5 T4Return.–
-    (1) T4In generalK.–Before making any apportionment under this title for each of fiscal years 1999 through 2003, the Secretary, subject to paragraph (2), shall adjust the percentages in the table in subsection (b) to reflect the estimated percentage of estimated tax payments attributable to highway users in each State paid into the Highway Trust Fund (other than the Mass Transit Account) in the latest fiscal year for which data is available, to ensure that no State“s percentage return from such Trust Fund is less than 90.5 percent.
-    (2) T4Eligibility threshold for initial adjustmentK.–The Secretary may make an adjustment under paragraph (1) for a State for a fiscal year only if the State“s percentage return from the Highway Trust Fund (other than the Mass Transit Account) in the table in subsection (b) was equal to 90.5 percent.
-    (3) T4Conforming adjustmentsK.–After making any adjustments under paragraph (1) for a fiscal year, the Secretary shall proportionately adjust the remaining percentages in the table in subsection (b) to ensure that the total of the percentages in the table is equal to 100 percent for such fiscal year.
-    (4) T4Limitation on adjustmentsK.–After making any adjustments under paragraph (3) for a fiscal year, the Secretary shall determine whether or not any State“s percentage return from the Highway Trust Fund (other than the Mass Transit Account) is less than 90.5 percent as a result of such adjustments and shall adjust the percentages in the table for such fiscal year accordingly. Adjustments of the percentages in the table under this paragraph may not result in the total of such percentages exceeding 100 percent.
+  (a) T4Program.–
+    (1) T4In generalK.–Subject to subsections (c) and (d), for each of fiscal years 2005 through 2009, the Secretary shall allocate among the States amounts sufficient to ensure that no State receives a percentage of the total apportionments for the fiscal year for the programs specified in paragraph (2) that is less than the percentage calculated under subsection (b).
+    (2) T4Specific programsK.–The programs referred to in subsection (a) are–
+      (A) the Interstate maintenance program under section 119;
+      (B) the national highway system program under section 103;
+      (C) the highway bridge replacement and rehabilitation program under section 144;
+      (D) the surface transportation program under section 133;
+      (E) the highway safety improvement program under section 148;
+      (F) the congestion mitigation and air quality improvement program under section 149;
+      (G) metropolitan planning programs under section 104(f);
+      (H) the high priority projects program under section 117;
+      (I) the equity bonus program under this section;
+      (J) the Appalachian development highway system program under subtitle IV of title 40;
+      (K) the recreational trails program under section 206;
+      (L) the safe routes to school program under section 1404 of the SAFETEA–LU;
+      (M) the rail-highway grade crossing program under section 130; and
+      (N) the coordinated border infrastructure program under section 1303 of the SAFETEA–LU.
+  (b) T4State Percentage.–
+    (1) T4In generalK.–The percentage referred to in subsection (a) for each State shall be–
+      (A) for each of fiscal years 2005 and 2006, 90.5 percent, for fiscal year 2007, 91.5 percent, and for each of fiscal years 2008 and 2009, 92 percent, of the quotient obtained by dividing–
+        (i) the estimated tax payments attributable to highway users in the State paid into the Highway Trust Fund (other than the Mass Transit Account) in the most recent fiscal year for which data are available; by
+        (ii) the estimated tax payments attributable to highway users in all States paid into the Highway Trust Fund (other than the Mass Transit Account) for the fiscal year; or
+      (B) for a State with a total population density of less than 40 persons per square mile (as reported in the decennial census conducted by the Federal Government in 2000) and of which at least 1.25 percent of the total acreage is under Federal jurisdiction, based on the report of the General Services Administration entitled ””Federal Real Property Profile““ and dated September 30, 2004, a State with a total population of less than 1,000,000 (as reported in that decennial census), a State with a median household income of less than $35,000 (as reported in that decennial census), a State with a fatality rate during 2002 on Interstate highways that is greater than one fatality for each 100,000,000 vehicle miles traveled on Interstate highways, or a State with an indexed, State motor fuels excise tax rate higher than 150 percent of the Federal motor fuels excise tax rate as of the date of enactment of the SAFETEA–LU, the greater of–
+        (i) the applicable percentage under subparagraph (A); or
+        (ii) the average percentage of the State“s share of total apportionments for the period of fiscal years 1998 through 2003 for the programs specified in paragraph (2).
+    (2) T4Specific programsK.–The programs referred to in paragraph (1)(B)(ii) are (as in effect on the day before the date of enactment of the SAFETEA–LU)–
+      (A) the Interstate maintenance program under section 119;
+      (B) the national highway system program under section 103;
+      (C) the highway bridge replacement and rehabilitation program under section 144;
+      (D) the surface transportation program under section 133;
+      (E) the recreational trails program under section 206;
+      (F) the high priority projects program under section 117;
+      (G) the minimum guarantee provided under this section;
+      (H) revenue aligned budget authority amounts provided under section 110;
+      (I) the congestion mitigation and air quality improvement program under section 149;
+      (J) the Appalachian development highway system program under subtitle IV of title 40; and
+      (K) metropolitan planning programs under section 104(f).
+  (c) T4Special Rules.–
+    (1) T4Minimum combined allocationK.–For each fiscal year, before making the allocations under subsection (a)(1), the Secretary shall allocate among the States amounts sufficient to ensure that no State receives a combined total of amounts allocated under subsection (a)(1), apportionments for the programs specified in subsection (a)(2), and amounts allocated under this subsection, that is less than the following percentages of the average for fiscal years 1998 through 2003 of the annual apportionments for the State for all programs specified in subsection (b)(2):
+      (A) For fiscal year 2005, 117 percent.
+      (B) For fiscal year 2006, 118 percent.
+      (C) For fiscal year 2007, 119 percent.
+      (D) For fiscal year 2008, 120 percent.
+      (E) For fiscal year 2009, 121 percent.
+    (2) T4No negative adjustmentK.–No negative adjustment shall be made under subsection (a)(1) to the apportionment of any State.
+  (d) T4Treatment of Funds.–
+    (1) T4Programmatic distributionK.–The Secretary shall apportion the amounts made available under this section that exceed $2,639,000,000 so that the amount apportioned to each State under this paragraph for each program referred to in subparagraphs (A) through (F) of subsection (a)(2) is equal to the amount determined by multiplying the amount to be apportioned under this paragraph by the ratio that–
+      (A) the amount of funds apportioned to each State for each program referred to in subparagraphs (A) through (F) of subsection (a)(2) for a fiscal year; bears to
+      (B) the total amount of funds apportioned to such State for all such programs for such fiscal year.
+    (2) T4Remaining distributionK.–The Secretary shall administer the remainder of funds made available under this section to the States in accordance with section 104(b)(3), except that paragraphs (1) through (3) of section 133(d) shall not apply to amounts administered pursuant to this paragraph.
+  (e) T4Metro Planning Set AsideK.–Notwithstanding section 104(f), no set aside provided for under that section shall apply to funds allocated under this section.
+  (f) T4Authorization of AppropriationsK.–There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as are necessary to carry out this section for each of fiscal years 2005 through 2009.

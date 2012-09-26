@@ -14,11 +14,52 @@
   (d) T4Responsibilities of the SecretaryK.–Nothing in this section, section 133, or section 149 shall affect or discharge any responsibility or obligation of the Secretary under–
     (1) section 113 or 114; or
     (2) any Federal law other than this title (including section 5333 of title 49).
-  (e) T4Value Engineering AnalysisK.–For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis.
+  (e) T4Value Engineering Analysis.–
+    (1) T4Definition of value engineering analysis.–
+      (A) T4In generalK.–In this subsection, the term ””value engineering analysis““ means a systematic process of review and analysis of a project, during the concept and design phases, by a multidisciplined team of persons not involved in the project, that is conducted to provide recommendations such as those described in subparagraph (B) for–
+        (i) providing the needed functions safely, reliably, and at the lowest overall cost;
+        (ii) improving the value and quality of the project; and
+        (iii) reducing the time to complete the project.
+      (B) T4InclusionsK.–The recommendations referred to in subparagraph (A) include, with respect to a project–
+        (i) combining or eliminating otherwise inefficient use of costly parts of the original proposed design for the project; and
+        (ii) completely redesigning the project using different technologies, materials, or methods so as to accomplish the original purpose of the project.
+    (2) T4AnalysisK.–The State shall provide a value engineering analysis or other cost-reduction analysis for–
+      (A) each project on the Federal-aid system with an estimated total cost of $25,000,000 or more;
+      (B) a bridge project with an estimated total cost of $20,000,000 or more; and
+      (C) any other project the Secretary determines to be appropriate.
+    (3) T4Major projectsK.–The Secretary may require more than 1 analysis described in paragraph (2) for a major project described in subsection (h).
+    (4) T4RequirementsK.–Analyses described in paragraph (1) for a bridge project shall–
+      (A) include bridge substructure requirements based on construction material; and
+      (B) be evaluated–
+        (i) on engineering and economic bases, taking into consideration acceptable designs for bridges; and
+        (ii) using an analysis of life-cycle costs and duration of project construction.
   (f) T4Life-Cycle Cost Analysis.–
     (1) T4Use of life-cycle cost analysisK.–The Secretary shall develop recommendations for the States to conduct life-cycle cost analyses. The recommendations shall be based on the principles contained in section 2 of Executive Order No. 12893 and shall be developed in consultation with the American Association of State Highway and Transportation Officials. The Secretary shall not require a State to conduct a life-cycle cost analysis for any project as a result of the recommendations required under this subsection.
     (2) T4Life-cycle cost analysis definedK.–In this subsection, the term ””life-cycle cost analysis““ means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
-  (g) T4Value Engineering for NHS.–
-    (1) T4RequirementK.–The Secretary shall establish a program to require States to carry out a value engineering analysis for all projects on the National Highway System with an estimated total cost of $25,000,000 or more.
-    (2) T4Value engineering definedK.–In this subsection, the term ””value engineering analysis““ means a systematic process of review and analysis of a project during its design phase by a multidisciplined team of persons not involved in the project in order to provide suggestions for reducing the total cost of the project and providing a project of equal or better quality. Such suggestions may include combining or eliminating otherwise inefficient or expensive parts of the original proposed design for the project and total redesign of the proposed project using different technologies, materials, or methods so as to accomplish the original purpose of the project.
-  (h) T4Financial PlanK.–A recipient of Federal financial assistance for a project under this title with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
+  (g) T4Oversight Program.–
+    (1) T4Establishment.–
+      (A) T4In generalK.–The Secretary shall establish an oversight program to monitor the effective and efficient use of funds authorized to carry out this title.
+      (B) T4Minimum requirementK.–At a minimum, the program shall be responsive to all areas relating to financial integrity and project delivery.
+    (2) T4Financial integrity.–
+      (A) T4Financial management systemsK.–The Secretary shall perform annual reviews that address elements of the State transportation departments“ financial management systems that affect projects approved under subsection (a).
+      (B) T4Project costsK.–The Secretary shall develop minimum standards for estimating project costs and shall periodically evaluate the practices of States for estimating project costs, awarding contracts, and reducing project costs.
+    (3) T4Project deliveryK.–The Secretary shall perform annual reviews that address elements of the project delivery system of a State, which elements include one or more activities that are involved in the life cycle of a project from conception to completion of the project.
+    (4) T4Responsibility of the states.–
+      (A) T4In generalK.–The States shall be responsible for determining that subrecipients of Federal funds under this title have–
+        (i) adequate project delivery systems for projects approved under this section; and
+        (ii) sufficient accounting controls to properly manage such Federal funds.
+      (B) T4Periodic reviewK.–The Secretary shall periodically review the monitoring of subrecipients by the States.
+    (5) T4Specific oversight responsibilities.–
+      (A) T4Effect of sectionK.–Nothing in this section shall affect or discharge any oversight responsibility of the Secretary specifically provided for under this title or other Federal law.
+      (B) T4Appalachian development highwaysK.–The Secretary shall retain full oversight responsibilities for the design and construction of all Appalachian development highways under section 14501 of title 40.
+  (h) T4Major Projects.–
+    (1) T4In generalK.–Notwithstanding any other provision of this section, a recipient of Federal financial assistance for a project under this title with an estimated total cost of $500,000,000 or more, and recipients for such other projects as may be identified by the Secretary, shall submit to the Secretary for each project–
+      (A) a project management plan; and
+      (B) an annual financial plan.
+    (2) T4Project management planK.–A project management plan shall document–
+      (A) the procedures and processes that are in effect to provide timely information to the project decisionmakers to effectively manage the scope, costs, schedules, and quality of, and the Federal requirements applicable to, the project; and
+      (B) the role of the agency leadership and management team in the delivery of the project.
+    (3) T4Financial planK.–A financial plan shall–
+      (A) be based on detailed estimates of the cost to complete the project; and
+      (B) provide for the annual submission of updates to the Secretary that are based on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
+        (i) T4Other ProjectsK.–A recipient of Federal financial assistance for a project under this title with an estimated total cost of $100,000,000 or more that is not covered by subsection (h) shall prepare an annual financial plan. Annual financial plans prepared under this subsection shall be made available to the Secretary for review upon the request of the Secretary.

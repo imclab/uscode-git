@@ -1,13 +1,117 @@
-  (a) As soon as possible after the date of enactment of this section, the Secretary shall establish criteria for the location and construction or reconstruction of the Great River Road by the ten States bordering the Mississippi River. Such criteria shall include requirements that–
-    (1) priority be given in the location of the Great River Road near or easily accessible to the larger population centers of the State \1\N and further priority be given to the construction and improvement of the Great River Road in the proximity of the confluence of the Mississippi River and the Wisconsin River;
-    (2) the Great River Road be connected with other Federal-aid highways and preferably with the Interstate System;
-    (3) the Great River Road be marked with uniform identifying signs;
-    (4) effective control, as defined in section 131 of this title, of signs, displays, and devices will be provided along the Great River Road;
-    (5) the provisions of section 129(a) of this title shall not apply to any bridge or tunnel on the Great River Road and no fees shall be charged for the use of any facility constructed with assistance under this section, except for parks, recreational areas, and historical sites operated by State or local governments where admission fees may be charged to cover operational costs.
-  (b) For the purpose of this section, the term ””construction““ includes the acquisition of areas of historical, archeological, or scientific interest, necessary easements for scenic purposes, and the construction or reconstruction of roadside rest areas (including appropriate recreational facilities), scenic viewing areas, and other appropriate facilities as determined by the Secretary.
-  (c) Highways constructed or reconstructed pursuant to this section (except subsection (f)) shall be part of the Federal-aid system.
-  (d) Funds appropriated for each fiscal year pursuant to subsection (g) shall be apportioned among the ten States bordering the Mississippi River on the basis of their relative needs as determined by the Secretary for payments to carry out this section.
-  (e) The Federal share of the cost of any project for any construction or reconstruction pursuant to the preceding subsections of this section shall be that provided in section 120 of this title for the Federal-aid system on which such project is located, and if such project is not on such a system, such share shall be 75 per centum of such cost.
-  (f) The Secretary is authorized to consult with the heads of other Federal departments and agencies having jurisdiction over Federal lands open to the public in order to enter into appropriate arrangements for necessary construction or reconstruction of highways on such lands to carry out this section. Highways constructed or reconstructed by a State pursuant to this section which are not on a Federal-aid system, and highways constructed or reconstructed under this subsection, shall be subject to the criteria applicable to highways constructed or reconstructed pursuant to subsection (c) of this section. Funds authorized pursuant to subsection (g) shall be used to pay the entire cost of construction or reconstruction pursuant to the first sentence of this subsection.
-  (g) There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund, for construction or reconstruction of roads on a Federal-aid highway system, not to exceed $10,000,000 for the fiscal year ending June 30, 1974, $25,000,000 for the fiscal year ending June 30, 1975, and $25,000,000 for the fiscal year ending June 30, 1976, for allocations to the States pursuant to this section, and there is authorized to be appropriated to carry out this section out of any money in the Treasury not otherwise appropriated, not to exceed $10,000,000 for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976, for construction and reconstruction of roads not on a Federal-aid highway system.
-  (h) The Secretary is authorized to provide for the construction of such spur highways as he determines necessary to connect the Great River Road, by the most direct feasible routes, with existing bridges across the Mississippi for the purpose of providing persons traveling such road with access to significant scenic, historical, recreational, or archeological features on the opposite side of the Mississippi River from the Great River Road.
+  (a) T4DefinitionsK.–In this section, the following definitions apply:
+    (1) T4High risk rural roadK.–The term ””high risk rural road““ means any roadway functionally classified as a rural major or minor collector or a rural local road–
+      (A) on which the accident rate for fatalities and incapacitating injuries exceeds the statewide average for those functional classes of roadway; or
+      (B) that will likely have increases in traffic volume that are likely to create an accident rate for fatalities and incapacitating injuries that exceeds the statewide average for those functional classes of roadway.
+    (2) T4Highway safety improvement programK.–The term ””highway safety improvement program““ means the program carried out under this section.
+    (3) T4Highway safety improvement project.–
+      (A) T4In generalK.–The term ””highway safety improvement project““ means a project described in the State strategic highway safety plan that–
+        (i) corrects or improves a hazardous road location or feature; or
+        (ii) addresses a highway safety problem.
+      (B) T4InclusionsK.–The term ””highway safety improvement project““ includes a project for one or more of the following:
+        (i) An intersection safety improvement.
+        (ii) Pavement and shoulder widening (including addition of a passing lane to remedy an unsafe condition).
+        (iii) Installation of rumble strips or another warning device, if the rumble strips or other warning devices do not adversely affect the safety or mobility of bicyclists, pedestrians, and the disabled.
+        (iv) Installation of a skid-resistant surface at an intersection or other location with a high frequency of accidents.
+        (v) An improvement for pedestrian or bicyclist safety or safety of the disabled.
+        (vi) Construction of any project for the elimination of hazards at a railway-highway crossing that is eligible for funding under section 130, including the separation or protection of grades at railway-highway crossings.
+        (vii) Construction of a railway-highway crossing safety feature, including installation of protective devices.
+        (viii) The conduct of a model traffic enforcement activity at a railway-highway crossing.
+        (ix) Construction of a traffic calming feature.
+        (x) Elimination of a roadside obstacle.
+        (xi) Improvement of highway signage and pavement markings.
+        (xii) Installation of a priority control system for emergency vehicles at signalized intersections.
+        (xiii) Installation of a traffic control or other warning device at a location with high accident potential.
+        (xiv) Safety-conscious planning.
+        (xv) Improvement in the collection and analysis of crash data.
+        (xvi) Planning integrated interoperable emergency communications equipment, operational activities, or traffic enforcement activities (including police assistance) relating to workzone safety.
+        (xvii) Installation of guardrails, barriers (including barriers between construction work zones and traffic lanes for the safety of motorists and workers), and crash attenuators.
+        (xviii) The addition or retrofitting of structures or other measures to eliminate or reduce accidents involving vehicles and wildlife.
+        (xix) Installation and maintenance of signs (including fluorescent, yellow-green signs) at pedestrian-bicycle crossings and in school zones.
+        (xx) Construction and yellow-green signs at pedestrian-bicycle crossings and in school zones.
+        (xxi) Construction and operational improvements on high risk rural roads.
+    (4) T4Safety project under any other section.–
+      (A) T4In generalK.–The term ””safety project under any other section““ means a project carried out for the purpose of safety under any other section of this title.
+      (B) T4InclusionK.–The term ””safety project under any other section““ includes a project to promote the awareness of the public and educate the public concerning highway safety matters (including motorcyclist safety) and a project to enforce highway safety laws.
+    (5) T4State highway safety improvement programK.–The term ””State highway safety improvement program““ means projects or strategies included in the State strategic highway safety plan carried out as part of the State transportation improvement program under section 135(g).
+    (6) T4State strategic highway safety planK.–The term ””State strategic highway safety plan““ means a plan developed by the State transportation department that–
+      (A) is developed after consultation with–
+        (i) a highway safety representative of the Governor of the State;
+        (ii) regional transportation planning organizations and metropolitan planning organizations, if any;
+        (iii) representatives of major modes of transportation;
+        (iv) State and local traffic enforcement officials;
+        (v) persons responsible for administering section 130 at the State level;
+        (vi) representatives conducting Operation Lifesaver;
+        (vii) representatives conducting a motor carrier safety program under section 31102, 31106, or 31309 of title 49;
+        (viii) motor vehicle administration agencies; and
+        (ix) other major State and local safety stakeholders;
+      (B) analyzes and makes effective use of State, regional, or local crash data;
+      (C) addresses engineering, management, operation, education, enforcement, and emergency services elements (including integrated, interoperable emergency communications) of highway safety as key factors in evaluating highway projects;
+      (D) considers safety needs of, and high-fatality segments of, public roads;
+      (E) considers the results of State, regional, or local transportation and highway safety planning processes;
+      (F) describes a program of projects or strategies to reduce or eliminate safety hazards;
+      (G) is approved by the Governor of the State or a responsible State agency; and
+      (H) is consistent with the requirements of section 135(g).
+  (b) T4Program.–
+    (1) T4In generalK.–The Secretary shall carry out a highway safety improvement program.
+    (2) T4PurposeK.–The purpose of the highway safety improvement program shall be to achieve a significant reduction in traffic fatalities and serious injuries on public roads.
+  (c) T4Eligibility.–
+    (1) T4In generalK.–To obligate funds apportioned under section 104(b)(5) to carry out this section, a State shall have in effect a State highway safety improvement program under which the State–
+      (A) develops and implements a State strategic highway safety plan that identifies and analyzes highway safety problems and opportunities as provided in paragraph (2);
+      (B) produces a program of projects or strategies to reduce identified safety problems;
+      (C) evaluates the plan on a regular basis to ensure the accuracy of the data and priority of proposed improvements; and
+      (D) submits to the Secretary an annual report that–
+        (i) describes, in a clearly understandable fashion, not less than 5 percent of locations determined by the State, using criteria established in accordance with paragraph (2)(B)(ii), as exhibiting the most severe safety needs; and
+        (ii) contains an assessment of–
+          (I) potential remedies to hazardous locations identified;
+          (II) estimated costs associated with those remedies; and
+          (III) impediments to implementation other than cost associated with those remedies.
+    (2) T4Identification and analysis of highway safety problems and opportunitiesK.–As part of the State strategic highway safety plan, a State shall–
+      (A) have in place a crash data system with the ability to perform safety problem identification and countermeasure analysis;
+      (B) based on the analysis required by subparagraph (A)–
+        (i) identify hazardous locations, sections, and elements (including roadside obstacles, railway-highway crossing needs, and unmarked or poorly marked roads) that constitute a danger to motorists (including motorcyclists), bicyclists, pedestrians, and other highway users; and
+        (ii) using such criteria as the State determines to be appropriate, establish the relative severity of those locations, in terms of accidents, injuries, deaths, traffic volume levels, and other relevant data;
+      (C) adopt strategic and performance-based goals that–
+        (i) address traffic safety, including behavioral and infrastructure problems and opportunities on all public roads;
+        (ii) focus resources on areas of greatest need; and
+        (iii) are coordinated with other State highway safety programs;
+      (D) advance the capabilities of the State for traffic records data collection, analysis, and integration with other sources of safety data (such as road inventories) in a manner that–
+        (i) complements the State highway safety program under chapter 4 and the commercial vehicle safety plan under section 31102 of title 49;
+        (ii) includes all public roads;
+        (iii) identifies hazardous locations, sections, and elements on public roads that constitute a danger to motorists (including motorcyclists), bicyclists, pedestrians, the disabled, and other highway users; and
+        (iv) includes a means of identifying the relative severity of hazardous locations described in clause (iii) in terms of accidents, injuries, deaths, and traffic volume levels;
+      (E)        (i) determine priorities for the correction of hazardous road locations, sections, and elements (including railway-highway crossing improvements), as identified through crash data analysis;
+        (ii) identify opportunities for preventing the development of such hazardous conditions; and
+        (iii) establish and implement a schedule of highway safety improvement projects for hazard correction and hazard prevention; and
+      (F)        (i) establish an evaluation process to analyze and assess results achieved by highway safety improvement projects carried out in accordance with procedures and criteria established by this section; and
+        (ii) use the information obtained under clause (i) in setting priorities for highway safety improvement projects.
+  (d) T4Eligible Projects.–
+    (1) T4In generalK.–A State may obligate funds apportioned to the State under section 104(b)(5) to carry out–
+      (A) any highway safety improvement project on any public road or publicly owned bicycle or pedestrian pathway or trail; or
+      (B) as provided in subsection (e), other safety projects.
+    (2) T4Use of other funding for safety.–
+      (A) T4Effect of sectionK.–Nothing in this section prohibits the use of funds made available under other provisions of this title for highway safety improvement projects.
+      (B) T4Use of other fundsK.–States are encouraged to address the full scope of their safety needs and opportunities by using funds made available under other provisions of this title (except a provision that specifically prohibits that use).
+  (e) T4Flexible Funding for States With a Strategic Highway Safety Plan.–
+    (1) T4In generalK.–To further the implementation of a State strategic highway safety plan, a State may use up to 10 percent of the amount of funds apportioned to the State under section 104(b)(5) for a fiscal year to carry out safety projects under any other section as provided in the State strategic highway safety plan if the State certifies that–
+      (A) the State has met needs in the State relating to railway-highway crossings; and
+      (B) the State has met the State“s infrastructure safety needs relating to highway safety improvement projects.
+    (2) T4Other transportation and highway safety plansK.–Nothing in this subsection requires a State to revise any State process, plan, or program in effect on the date of enactment of this section.
+  (f) T4High Risk Rural Roads.–
+    (1) T4In generalK.–After making an apportionment under section 104(b)(5) for a fiscal year beginning after September 30, 2005, the Secretary shall ensure, from amounts made available to carry out this section for such fiscal year, that a total of $90,000,000 of such apportionment is set aside by the States, proportionally according to the share of each State of the total amount so apportioned, for use only for construction and operational improvements on high risk rural roads.
+    (2) T4Special ruleK.–A State may use funds apportioned to the State pursuant to this subsection for any project under this section if the State certifies to the Secretary that the State has met all of State needs for construction and operational improvements on high risk rural roads.
+  (g) T4Reports.–
+    (1) T4In generalK.–A State shall submit to the Secretary a report that–
+      (A) describes progress being made to implement highway safety improvement projects under this section;
+      (B) assesses the effectiveness of those improvements; and
+      (C) describes the extent to which the improvements funded under this section contribute to the goals of–
+        (i) reducing the number of fatalities on roadways;
+        (ii) reducing the number of roadway-related injuries;
+        (iii) reducing the occurrences of roadway-related crashes;
+        (iv) mitigating the consequences of roadway-related crashes; and
+        (v) reducing the occurrences of crashes at railway-highway crossings.
+    (2) T4Contents; scheduleK.–The Secretary shall establish the content and schedule for a report under paragraph (1).
+    (3) T4TransparencyK.–The Secretary shall make reports submitted under subsection (c)(1)(D) available to the public through–
+      (A) the Web site of the Department; and
+      (B) such other means as the Secretary determines to be appropriate.
+    (4) T4Discovery and admission into evidence of certain reports, surveys, and informationK.–Notwithstanding any other provision of law, reports, surveys, schedules, lists, or data compiled or collected for any purpose directly relating to paragraph (1) or subsection (c)(1)(D), or published by the Secretary in accordance with paragraph (3), shall not be subject to discovery or admitted into evidence in a Federal or State court proceeding or considered for other purposes in any action for damages arising from any occurrence at a location identified or addressed in such reports, surveys, schedules, lists, or other data.
+  (h) T4Federal Share of Highway Safety Improvement ProjectsK.–Except as provided in sections 120 and 130, the Federal share of the cost of a highway safety improvement project carried out with funds apportioned to a State under section 104(b)(5) shall be 90 percent.

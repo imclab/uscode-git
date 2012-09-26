@@ -5,7 +5,24 @@
       (B) regional, State, and metropolitan planning organizations;
       (C) State and local police, public safety, and motor vehicle employees; and
       (D) United States citizens and foreign nationals engaged or to be engaged in surface transportation work of interest to the United States.
-    (3) T4CoursesK.–The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance.
+    (3) T4Courses.–
+      (A) T4In generalK.–The Institute shall–
+        (i) develop or update existing courses in asset management, including courses that include such components as–
+          (I) the determination of life-cycle costs;
+          (II) the valuation of assets;
+          (III) benefit-to-cost ratio calculations; and
+          (IV) objective decisionmaking processes for project selection; and
+        (ii) continually develop courses relating to the application of emerging technologies for–
+          (I) transportation infrastructure applications and asset management;
+          (II) intelligent transportation systems;
+          (III) operations (including security operations);
+          (IV) the collection and archiving of data;
+          (V) expediting the planning and development of transportation projects; and
+          (VI) the intermodal movement of individuals and freight.
+      (B) T4Additional coursesK.–In addition to the courses developed under subparagraph (A), the Institute, in consultation with State transportation departments, metropolitan planning organizations, and the American Association of State Highway and Transportation Officials, may develop courses relating to technology, methods, techniques, engineering, construction, safety, maintenance, environmental mitigation and compliance, regulations, management, inspection, and finance.
+      (C) T4Revision of courses offeredK.–The Institute shall periodically–
+        (i) review the course inventory of the Institute; and
+        (ii) revise or cease to offer courses based on course content, applicability, and need.
     (4) T4Set-aside; federal shareK.–Not to exceed \1/2\ of 1 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
     (5) T4Federal responsibility.–
       (A) T4In generalK.–Except as provided in subparagraph (B), education and training of employees of Federal, State, and local transportation (including highway) agencies authorized under this subsection may be provided–
@@ -26,23 +43,72 @@
     (8) T4Relation to feesK.–The funds made available to carry out this subsection may be combined with or held separate from the fees collected under paragraph (7).
   (b) T4Local Technical Assistance Program.–
     (1) T4AuthorityK.–The Secretary shall carry out a local technical assistance program that will provide access to surface transportation technology to–
-      (A) highway and transportation agencies in urbanized areas with populations of between 50,000 and 1,000,000 individuals;
-      (B) highway and transportation agencies in rural areas; and
-      (C) contractors that do work for the agencies.
+      (A) highway and transportation agencies in urbanized and rural areas;
+      (B) contractors that perform work for the agencies; and
+      (C) infrastructure security staff.
     (2) T4Grants, cooperative agreements, and contractsK.–The Secretary may make grants and enter into cooperative agreements and contracts to provide education and training, technical assistance, and related support services to–
       (A) assist rural, local transportation agencies and tribal governments, and the consultants and construction personnel working for the agencies and governments, to–
-        (i) develop and expand their expertise in road and transportation areas (including pavement, bridge, concrete structures, safety management systems, and traffic safety countermeasures);
+        (i) develop and expand expertise in road and transportation areas (including pavement, bridge, concrete structures, intermodal connections, safety management systems, intelligent transportation systems, incident response, operations, and traffic safety countermeasures);
         (ii) improve roads and bridges;
         (iii) enhance–
           (I) programs for the movement of passengers and freight; and
           (II) intergovernmental transportation planning and project selection; and
         (iv) deal effectively with special transportation-related problems by preparing and providing training packages, manuals, guidelines, and technical resource materials;
       (B) develop technical assistance for tourism and recreational travel;
-      (C) identify, package, and deliver transportation technology and traffic safety information to local jurisdictions to assist urban transportation agencies in developing and expanding their ability to deal effectively with transportation-related problems;
+      (C) identify, package, and deliver transportation technology and traffic safety information to local jurisdictions to assist urban transportation agencies in developing and expanding their ability to deal effectively with transportation-related problems (particularly the promotion of regional cooperation);
       (D) operate, in cooperation with State transportation departments and universities–
-        (i) local technical assistance program centers designated to provide transportation technology transfer services to rural areas and to urbanized areas with populations of between 50,000 and 1,000,000 individuals; and
-        (ii) local technical assistance program centers designated to provide transportation technical assistance to Indian tribal governments; and
+        (i) local technical assistance program centers designated to provide transportation technology transfer services to rural areas and to urbanized areas; and
+        (ii) local technical assistance program centers designated to provide transportation technical assistance to tribal governments; and
       (E) allow local transportation agencies and tribal governments, in cooperation with the private sector, to enhance new technology implementation.
+    (3) T4Federal shareK.–The Federal share of the cost of activities carried out by the tribal technical assistance centers under paragraph (2)(D)(ii) shall be 100 percent.
   (c) T4Research Fellowships.–
     (1) T4General authorityK.–The Secretary, acting either independently or in cooperation with other Federal departments, agencies, and instrumentalities, may make grants for research fellowships for any purpose for which research is authorized by this chapter.
     (2) T4Dwight david eisenhower transportation fellowship programK.–The Secretary shall establish and implement a transportation research fellowship program for the purpose of attracting qualified students to the field of transportation. The program shall be known as the ””Dwight David Eisenhower Transportation Fellowship Program““.
+  (d) T4Garrett A. Morgan Technology and Transportation Education Program.–
+    (1) T4In generalK.–The Secretary shall establish the Garrett A. Morgan Technology and Transportation Education Program to improve the preparation of students, particularly women and minorities, in science, technology, engineering, and mathematics through curriculum development and other activities related to transportation.
+    (2) T4Authorized activitiesK.–The Secretary shall award grants under this subsection on the basis of competitive peer review. Grants awarded under this subsection may be used for enhancing science, technology, engineering, and mathematics at the elementary and secondary school level through such means as–
+      (A) internships that offer students experience in the transportation field;
+      (B) programs that allow students to spend time observing scientists and engineers in the transportation field; and
+      (C) developing relevant curriculum that uses examples and problems related to transportation.
+    (3) T4Application and review procedures.–
+      (A) T4In generalK.–An entity described in subparagraph (C) seeking funding under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. Such application, at a minimum, shall include a description of how the funds will be used to serve the purposes described in paragraph (2).
+      (B) T4PriorityK.–In making awards under this subsection, the Secretary shall give priority to applicants that will encourage the participation of women and minorities.
+      (C) T4EligibilityK.–Local educational agencies and State educational agencies, which may enter into a partnership agreement with institutions of higher education, businesses, or other entities, shall be eligible to apply for grants under this subsection.
+    (4) T4DefinitionsK.–In this subsection, the following definitions apply:
+      (A) T4Institution of higher educationK.–The term ””institution of higher education““ has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+      (B) T4Local educational agencyK.–The term ””local educational agency““ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+      (C) T4State educational agencyK.–The term ””State educational agency““ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+  (e) T4Surface Transportation Workforce Development, Training, and Education.–
+    (1) T4FundingK.–Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under sections 104(b)(1), 104(b)(2), 104(b)(3), 104(b)(4), and 144(e) for surface transportation workforce development, training, and education, including–
+      (A) tuition and direct educational expenses, excluding salaries, in connection with the education and training of employees of State and local transportation agencies;
+      (B) employee professional development;
+      (C) student internships;
+      (D) university or community college support; and
+      (E) education activities, including outreach, to develop interest and promote participation in surface transportation careers.
+    (2) T4Federal shareK.–The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent.
+    (3) T4Surface transportation workforce development, training, and education definedK.–In this subsection, the term ””surface transportation workforce development, training, and education““ means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including activities for women and minorities.
+  (f) T4Transportation Education Development Pilot Program.–
+    (1) T4EstablishmentK.–The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.
+    (2) T4Selection of grant recipientsK.–In selecting applications for awards under this subsection, the Secretary shall consider–
+      (A) the degree to which the new curricula or education program meets the specific needs of a segment of the transportation industry, States, or regions;
+      (B) providing for practical experience and on-the-job training;
+      (C) proposals oriented toward practitioners in the field rather than the support and growth of the research community;
+      (D) the degree to which the new curricula or program will provide training in areas other than engineering, such as business administration, economics, information technology, environmental science, and law;
+      (E) programs or curricula in nontraditional departments that train professionals for work in the transportation field, such as materials, information technology, environmental science, urban planning, and industrial technology; and
+      (F) the commitment of industry or a State“s department of transportation to the program.
+    (3) T4LimitationsK.–The amount of a grant under this subsection shall not exceed $300,000 per year. After a recipient has received 3 years of Federal funding under this subsection, Federal funding may equal not more than 75 percent of a grantee“s program costs.
+  (g) T4Freight Capacity Building Program.–
+    (1) T4EstablishmentK.–The Secretary shall establish a freight planning capacity building initiative to support enhancements in freight transportation planning in order to–
+      (A) better target investments in freight transportation systems to maintain efficiency and productivity; and
+      (B) strengthen the decisionmaking capacity of State transportation departments and local transportation agencies with respect to freight transportation planning and systems.
+    (2) T4AgreementsK.–The Secretary shall enter into agreements to support and carry out administrative and management activities relating to the governance of the freight planning capacity initiative.
+    (3) T4Stakeholder involvementK.–In carrying out this section, the Secretary shall consult with the Association of Metropolitan Planning Organizations, the American Association of State Highway and Transportation Officials, and other freight planning stakeholders, including the other Federal agencies, State transportation departments, local governments, nonprofit entities, academia, and the private sector.
+    (4) T4Eligible activitiesK.–The freight planning capacity building initiative shall include research, training, and education in the following areas:
+      (A) The identification and dissemination of best practices in freight transportation.
+      (B) Providing opportunities for freight transportation staff to engage in peer exchange.
+      (C) Refinement of data and analysis tools used in conjunction with assessing freight transportation needs.
+      (D) Technical assistance to State transportation departments and local transportation agencies reorganizing to address freight transportation issues.
+      (E) Facilitating relationship building between governmental and private entities involved in freight transportation.
+      (F) Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmental excellence in connection with long-range multimodal transportation planning and project implementation.
+    (5) T4Federal shareK.–The Federal share of the cost of an activity carried out under this section shall be up to 100 percent, and such funds shall remain available until expended.
+    (6) T4Use of fundsK.–Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to \1\N and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
