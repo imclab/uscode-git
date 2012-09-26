@@ -9,10 +9,11 @@
     (1) The location of each corporation.
     (2) The amount received by each corporation during the previous year, including–
       (A) the total amount received;
-      (B) the amount received from governmental entities;
-      (C) the amount received from all other sources; and
-      (D) if the amount received from a source referred to in subparagraph (C) exceeded $25,000, information that identifies the source.
+      (B) the amount received from governmental entities for research and the amount received from governmental entities for education;
+      (C) the amount received from all other sources for research and the amount received from all other sources for education; and
+      (D) if the amount received from a source referred to in subparagraph (C) exceeded $25,000, information that identifies a source.
     (3) The amount expended by each corporation during the year, including–
-      (A) the amount expended for salary for research staff and for salary for support staff;
-      (B) the amount expended for direct support of research; and
+      (A) the amount expended for salary for research staff, the amount expended for salary for education staff, and the amount expended for salary for support staff;
+      (B) the amount expended for direct support of research and the amount expended for direct support of education; and
       (C) if the amount expended with respect to any payee exceeded $35,000, information that identifies the payee.
+    (4) The amount expended by each corporation during the year for travel conducted in conjunction with research and the amount expended for travel in conjunction with education.
