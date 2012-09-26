@@ -2,41 +2,42 @@
     (1) In general
        The Secretary is authorized to designate an organization as a foreign terrorist organization in accordance with this subsection if the Secretary finds that–
       (A) the organization is a foreign organization;
-      (B) the organization engages in terrorist activity (as defined in section 1182(a)(3)(B) of this title); and
-      (C) the terrorist activity of the organization threatens the security of United States nationals or the national security of the United States.
+      (B) the organization engages in terrorist activity (as defined in section 1182(a)(3)(B) of this title or terrorism (as defined in section 2656f(d)(2) of title 22), or retains the capability and intent to engage in terrorist activity or terrorism) \1\N; and
+      (C) the terrorist activity or terrorism of the organization threatens the security of United States nationals or the national security of the United States.
     (2) Procedure
       (A) Notice
-         Seven days before making a designation under this subsection, the Secretary shall, by classified communication–
-        (i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
-        (ii) seven days after such notification, publish the designation in the Federal Register.
+        (i) To congressional leaders
+           Seven days before making a designation under this subsection, the Secretary shall, by classified communication, notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees of the House of Representatives and the Senate, in writing, of the intent to designate an organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor.
+        (ii) Publication in Federal Register
+           The Secretary shall publish the designation in the Federal Register seven days after providing the notification under clause (i).
       (B) Effect of designation
-        (i) For purposes of section 2339B of title 18, a designation under this subsection shall take effect upon publication under subparagraph (A).
+        (i) For purposes of section 2339B of title 18, a designation under this subsection shall take effect upon publication under subparagraph (A)(ii).
         (ii) Any designation under this subsection shall cease to have effect upon an Act of Congress disapproving such designation.
       (C) Freezing of assets
-         Upon notification under paragraph (2), the Secretary of the Treasury may require United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
+         Upon notification under paragraph (2)(A)(i), the Secretary of the Treasury may require United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
     (3) Record
       (A) In general
          In making a designation under this subsection, the Secretary shall create an administrative record.
       (B) Classified information
-         The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+         The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (b) of this section.
     (4) Period of designation
       (A) In general
          Subject to paragraphs (5) and (6), a designation under this subsection shall be effective for all purposes for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B).
       (B) Redesignation
-         The Secretary may redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subparagraph (A) (but not sooner than 60 days prior to the termination of such period) upon a finding that the relevant circumstances described in paragraph (1) still exist. The procedural requirements of paragraphs (2) and (3) shall apply to a redesignation under this subparagraph.
+         The Secretary may redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subparagraph (A) (but not sooner than 60 days prior to the termination of such period) upon a finding that the relevant circumstances described in paragraph (1) still exist. The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation. The procedural requirements of paragraphs (2) and (3) shall apply to a redesignation under this subparagraph.
     (5) Revocation by Act of Congress
        The Congress, by an Act of Congress, may block or revoke a designation made under paragraph (1).
     (6) Revocation based on change in circumstances
       (A) In general
-         The Secretary may revoke a designation made under paragraph (1) if the Secretary finds that–
-        (i) the circumstances that were the basis for the designation have changed in such a manner as to warrant revocation of the designation; or
-        (ii) the national security of the United States warrants a revocation of the designation.
+         The Secretary may revoke a designation made under paragraph (1) or a redesignation made under paragraph (4)(B) if the Secretary finds that–
+        (i) the circumstances that were the basis for the designation or redesignation have changed in such a manner as to warrant revocation; or
+        (ii) the national security of the United States warrants a revocation.
       (B) Procedure
-         The procedural requirements of paragraphs (2) through (4) shall apply to a revocation under this paragraph.
+         The procedural requirements of paragraphs (2) and (3) shall apply to a revocation under this paragraph. Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.
     (7) Effect of revocation
-       The revocation of a designation under paragraph (5) or (6) shall not affect any action or proceeding based on conduct committed prior to the effective date of such revocation.
+       The revocation of a designation under paragraph (5) or (6), or the revocation of a redesignation under paragraph (6), shall not affect any action or proceeding based on conduct committed prior to the effective date of such revocation.
     (8) Use of designation in trial or hearing
-       If a designation under this subsection has become effective under paragraph (1)(B), a defendant in a criminal action shall not be permitted to raise any question concerning the validity of the issuance of such designation as a defense or an objection at any trial or hearing.
+       If a designation under this subsection has become effective under paragraph (2)(B), or if a redesignation under this subsection has become effective under paragraph (4)(B), a defendant in a criminal action or an alien in a removal proceeding shall not be permitted to raise any question concerning the validity of the issuance of such designation or redesignation as a defense or an objection at any trial or hearing.
   (b) Judicial review of designation
     (1) In general
        Not later than 30 days after publication of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation in the United States Court of Appeals for the District of Columbia Circuit.
@@ -47,7 +48,7 @@
       (A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
       (B) contrary to constitutional right, power, privilege, or immunity;
       (C) in excess of statutory jurisdiction, authority, or limitation, or short of statutory right;
-      (D) lacking substantial support in the administrative record taken as a whole or in classified information submitted to the court under paragraph (2),\1\N or
+      (D) lacking substantial support in the administrative record taken as a whole or in classified information submitted to the court under paragraph (2),\2\N or
       (E) not in accord with the procedures required by law.
     (4) Judicial review invoked
        The pendency of an action for judicial review of a designation shall not affect the application of this section, unless the court issues a final order setting aside the designation.
