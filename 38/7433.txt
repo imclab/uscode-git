@@ -2,7 +2,7 @@
   (b) The special pay factors, and the annual rates, applicable to full-time physicians are as follows:
     (1) For full-time status, $9,000.
     (2)      (A) For length of service as a physician within the Veterans Health Administration–
-          h1Length of Serviceh1Rateh2Minimumh2Maximumj
+          
          2 years but less than 4 yearsD$4,000D$ 6,000
          4 years but less than 8 yearsD6,000D12,000
          8 years but less than 12 yearsD12,000D18,000
@@ -11,27 +11,19 @@
     (3)      (A) For service in a medical specialty with respect to which there are extraordinary difficulties (on a nationwide basis or on the basis of the needs of a specific medical facility) in the recruitment or retention of qualified physicians, an annual rate of not more than $40,000.
       (B) For service by a physician who serves only a portion of a year in a medical specialty for which special pay is paid under subparagraph (A), the annual rate shall be calculated on the basis of the proportion of time served in the specialty for which the special pay is paid.
     (4)      (A) For service in any of the following executive positions, an annual rate not to exceed the rate applicable to that position as follows:
-          h1Positionh1Rateh2Minimumh2Maximumj
+          
          Service Chief (or in a comparable position as determined by the Secretary)D$4,500D$15,000
          Chief of Staff or in an Executive GradeD14,500D25,000
          Director GradeD0D25,000
       (B) For service in any of the following executive positions, the annual rate applicable to that position as follows:
-           Position
-         Rate
-          Deputy Service Director
-         $20,000
-          Service Director
-         25,000
-          Deputy Assistant Under Secretary for   Health
-         27,500
-          Assistant Under Secretary for Health
-         30,000
-          Associate Deputy Under Secretary for   Health
-         35,000
-          Deputy Under Secretary for Health
-         40,000
-          Under Secretary for Health
-         45,000
+          
+          Deputy Service DirectorD$20,000
+          Service DirectorD25,000
+          Deputy Assistant Under Secretary for   HealthD27,500
+          Assistant Under Secretary for HealthD30,000
+          Associate Deputy Under Secretary for   HealthD35,000
+          Deputy Under Secretary for HealthD40,000
+          Under Secretary for HealthD45,000
       (C) For service by a physician who serves only a portion of a year in an executive position listed in subparagraph (A) or (B) or who serves a portion of a year in such a position and also serves a portion of that year in another position or grade for which special pay is provided under this section, the annual rate shall be calculated on the basis of the proportion of time served in the position or positions for which special pay is provided.
     (5) For specialty certification or first board certification, $2,000, and for subspecialty certification or secondary board certification, an additional $500.
     (6) For service in a specific geographic location with respect to which there are extraordinary difficulties in the recruitment or retention of qualified physicians in a specific category of physicians, an annual rate of not more than $17,000.
