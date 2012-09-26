@@ -1,5 +1,5 @@
   (a) T4General PenaltyK.–(1) A person is liable to the United States Government for a civil penalty of not more than $1,000 for violating–
-    (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section 46302, 46303, or 47107(b) (including any assurance made under such section) of this title;
+    (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section 47107(b) (including any assurance made under such section) of this title;
     (B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
     (C) any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title; or
     (D) a regulation of the United States Postal Service under this part.
@@ -7,11 +7,15 @@
     (A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
     (B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
   (3) A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to–
-    (A) the transportation of hazardous material; or
-    (B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation.
-  (4) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41715) continues or, if applicable, for each flight involving the violation (other than a violation of section 41715).
+    (A) the transportation of hazardous material;
+    (B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation;
+    (C) a violation of section 44718(d), relating to the limitation on construction or establishment of landfills;
+    (D) a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
+    (E) a violation of section 41705, relating to discrimination against handicapped individuals.
+  (4) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41715) \1\N continues or, if applicable, for each flight involving the violation (other than a violation of section 41715).\1\
   (5) T4Penalty for diversion of aviation revenuesK.–The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
-  (6) Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.
+  (6) T4Air service termination noticeK.–Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 \1\ shall be $5,000 instead of $1,000.
+  (7) T4Consumer protectionK.–Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.
   (b) T4Smoke Alarm Device PenaltyK.–(1) A passenger may not tamper with, disable, or destroy a smoke alarm device located in a lavatory on an aircraft providing air transportation or intrastate air transportation.
   (2) An individual violating this subsection is liable to the Government for a civil penalty of not more than $2,000.
   (c) T4Procedural RequirementsK.–(1) The Secretary of Transportation may impose a civil penalty for the following violations only after notice and an opportunity for a hearing:
@@ -25,7 +29,7 @@
     (B) ””mechanic““ means an individual who holds a mechanic certificate issued under part 65 of title 14, Code of Federal Regulations.
     (C) ””pilot““ means an individual who holds a pilot certificate issued under part 61 of title 14, Code of Federal Regulations.
     (D) ””repairman““ means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
-  (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46302, 46303, or 47107(b) (as further defined by the Secretary under section 47107(T3lK) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
+  (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46301(b), 46302, 46303, 46318, or 47107(b) (as further defined by the Secretary under section 47107(T3lK) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
   (3) In a civil action to collect a civil penalty imposed by the Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
   (4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Administrator initiates if–
     (A) the amount in controversy is more than $50,000;
@@ -37,7 +41,7 @@
     (C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
     (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
   (6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
-  (7)    (A) The Administrator may impose a penalty on an individual (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
+  (7)    (A) The Administrator may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
     (B) In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator shall consider only whether–
       (i) each finding of fact is supported by a preponderance of reliable, probative, and substantial evidence;
       (ii) each conclusion of law is made according to applicable law, precedent, and public policy; and
@@ -58,7 +62,7 @@
     (ii) a regulation prescribed or order issued under any provision to which clause (i) of this subparagraph applies.
   (B) The Postal Service may compromise the amount of a civil penalty imposed under subsection (a)(1)(D) of this section.
   (2) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
-  (g) T4Judicial ReviewK.–An order of the Secretary imposing a civil penalty may be reviewed judicially only under section 46110 of this title.
+  (g) T4Judicial ReviewK.–An order of the Secretary or the Administrator imposing a civil penalty may be reviewed judicially only under section 46110 of this title.
   (h) T4NonapplicationK.–(1) This section does not apply to the following when performing official duties:
     (A) a member of the armed forces of the United States.
     (B) a civilian employee of the Department of Defense subject to the Uniform Code of Military Justice.

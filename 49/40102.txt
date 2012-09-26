@@ -66,21 +66,21 @@
     (34) ””predatory““ means a practice that violates the antitrust laws as defined in the first section of the Clayton Act (15 U.S.C. 12).
     (35) ””price““ means a rate, fare, or charge.
     (36) ””propeller““ includes a part, appurtenance, and accessory of a propeller.
-    (37) ””public aircraft““–
-      (A) means an aircraft–
-        (i) used only for the United States Government;
-        (ii) owned by the United States Government and operated by any person for purposes related to crew training, equipment development, or demonstration; or
-        (iii) owned and operated (except for commercial purposes), or exclusively leased for at least 90 continuous days, by a government (except the United States Government), including a State, the District of Columbia, or a territory or possession of the United States, or political subdivision of that government; but
-      (B) does not include a government-owned aircraft–
-        (i) transporting property for commercial purposes; or
-        (ii) transporting passengers other than–
-          (I) transporting (for other than commercial purposes) crewmembers or other persons aboard the aircraft whose presence is required to perform, or is associated with the performance of, a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management; or
-          (II) transporting (for other than commercial purposes) persons aboard the aircraft if the aircraft is operated by the Armed Forces or an intelligence agency of the United States.
-       An aircraft described in the preceding sentence shall, notwithstanding any limitation relating to use of the aircraft for commercial purposes, be considered to be a public aircraft for the purposes of this part without regard to whether the aircraft is operated by a unit of government on behalf of another unit of government, pursuant to a cost reimbursement agreement between such units of government, if the unit of government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation was necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator was reasonably available to meet the threat.
+    (37) ””public aircraft““ means any of the following:
+      (A) Except with respect to an aircraft described in subparagraph (E), an aircraft used only for the United States Government, except as provided in section 40125(b).
+      (B) An aircraft owned by the Government and operated by any person for purposes related to crew training, equipment development, or demonstration, except as provided in section 40125(b).
+      (C) An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
+      (D) An aircraft exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
+      (E) An aircraft owned or operated by the armed forces or chartered to provide transportation to the armed forces under the conditions specified by section 40125(c).
     (38) ””spare part““ means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
     (39) ””State authority““ means an authority of a State designated under State law–
       (A) to receive notice required to be given a State authority under subpart II of this part; or
       (B) as the representative of the State before the Secretary of Transportation in any matter about which the Secretary is required to consult with or consider the views of a State authority under subpart II of this part.
     (40) ””ticket agent““ means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
     (41) ””United States““ means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
+    (42) ””air traffic control system““ means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including–
+      (A) allocated electromagnetic spectrum and physical, real, personal, and intellectual property assets making up facilities, equipment, and systems employed to detect, track, and guide aircraft movement;
+      (B) laws, regulations, orders, directives, agreements, and licenses;
+      (C) published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation; and
+      (D) trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control.
   (b) T4Limited DefinitionK.–In subpart II of this part, ””control““ means control by any means.

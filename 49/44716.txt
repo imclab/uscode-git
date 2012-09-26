@@ -10,3 +10,11 @@
   (e) T4Deadline for Development and CertificationK.–(1) The Administrator shall complete developing and certifying TCAS–III as soon as possible.
   (2) Necessary amounts may be appropriated from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to carry out this subsection.
   (f) T4Installing and Using TranspondersK.–The Administrator shall prescribe regulations requiring that, not later than December 30, 1990, operating transponders with automatic altitude reporting capability be installed and used for aircraft operating in designated terminal airspace where radar service is provided for separation of aircraft. The Administrator may provide for access to that airspace (except terminal control areas and airport radar service areas) by nonequipped aircraft if the Administrator finds the access will not interfere with the normal traffic flow.
+  (g) T4Cargo Collision Avoidance Systems.–
+    (1) T4In generalK.–The Administrator shall require by regulation that, no later than December 31, 2002, collision avoidance equipment be installed on each cargo aircraft with a maximum certificated takeoff weight in excess of 15,000 kilograms.
+    (2) T4Extension of deadlineK.–The Administrator may extend the deadline established by paragraph (1) by not more than 2 years if the Administrator finds that the extension is needed to promote–
+      (A) a safe and orderly transition to the operation of a fleet of cargo aircraft equipped with collision avoidance equipment; or
+      (B) other safety or public interest objectives.
+    (3) T4Collision avoidance equipment definedK.–In this subsection, the term ””collision avoidance equipment““ means equipment that provides protection from mid-air collisions using technology that provides–
+      (A) cockpit-based collision detection and conflict resolution guidance, including display of traffic; and
+      (B) a margin of safety of at least the same level as provided by the collision avoidance system known as TCAS–II.
