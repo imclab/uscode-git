@@ -7,8 +7,14 @@
        A tribal probate code referred to in paragraph (1) may include–
       (A) rules of intestate succession; and
       (B) other tribal probate code provisions that are consistent with Federal law and that promote the policies set forth in section 102 of the Indian Land Consolidation Act Amendments of 2000.
-    (3) Limitations
-       The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.
+    (3) Tribal probate codes
+       Except as provided in any applicable Federal law, the Secretary shall not approve a tribal probate code, or an amendment to such a code, that prohibits the devise of an interest in trust or restricted land to–
+      (A) an Indian lineal descendant of the original allottee; or
+      (B) an Indian who is not a member of the Indian tribe with jurisdiction over such an interest;
+        (i) the renouncing of interests to eligible devisees in accordance with the code;
+        (ii) the opportunity for a devisee who is the spouse or lineal descendant of a testator to reserve a life estate without regard to waste; and
+        (iii) payment of fair market value in the manner prescribed under subsection (c)(2) of this section.
+       unless the code provides for–
   (b) Secretarial approval
     (1) In general
        Any tribal probate code enacted under subsection (a) of this section, and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
@@ -28,7 +34,7 @@
            If the Secretary fails to approve or disapprove an amendment submitted under clause (i), the amendment shall be deemed to have been approved by the Secretary, but only to the extent that the amendment is consistent with Federal law and promotes the policies set forth in section 102 of the Indian Land Consolidation Act \1\N of 2000.
     (3) Effective dates
        A tribal probate code approved under paragraph (2) shall become effective on the later of–
-      (A) the date specified in section 2206(g)(5) of this title; or
+      (A) the date specified in section 2206(g)(5) \2\N of this title; or
       (B) 180 days after the date of approval.
     (4) Limitations
       (A) Tribal probate codes
@@ -40,13 +46,32 @@
       (A) not become effective earlier than the date that is 180 days after the Secretary receives notice of the repeal; and
       (B) apply only to the estate of a decedent who dies on or after the effective date of the repeal.
   (c) Authority available to Indian tribes
-    (1) In general
-       If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(a)(6)(A) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent“s death. The Secretary shall transfer such payment to the devisee.
-    (2) Limitation
+    (1) Authority
       (A) In general
-         Paragraph (1) shall not apply to an interest in trust or restricted land if, while the decedent“s estate is pending before the Secretary, the non-Indian devisee renounces the interest in favor of an Indian person.
+         If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent“s death.
+      (B) Transfer
+         The Secretary shall transfer payments received under subparagraph (A) to any person or persons who would have received an interest in land if the interest had not been acquired by the Indian tribe in accordance with this paragraph.
+    (2) Limitation
+      (A) Inapplicability to certain interests
+        (i) In general
+           Paragraph (1) shall not apply to an interest in trust or restricted land if–
+          (I) while the decedent“s estate is pending before the Secretary, the non-Indian devisee renounces the interest in favor of an Indian person; or
+          (II)            (aa) the interest is part of a family farm that is devised to a member of the family of the decedent; and
+            (bb) the devisee agrees that the Indian tribe with jurisdiction over the land will have the opportunity to acquire the interest for fair market value if the interest is offered for sale to a person or entity that is not a member of the family of the owner of the land.
+        (ii) Recording of interest
+           On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
+        (iii) Mortgage and foreclosure
+           Nothing in clause (i)(II) limits–
+          (I) the ability of an owner of land to which that clause applies to mortgage the land; or
+          (II) the right of the entity holding such a mortgage to foreclose or otherwise enforce such a mortgage agreement in accordance with applicable law.
+        (iv) Definition of ””member of the family““
+           In this paragraph, the term ””member of the family““, with respect to a decedent or landowner, means–
+          (I) a lineal descendant of a decedent or landowner;
+          (II) a lineal descendant of the grandparent of a decedent or landowner;
+          (III) the spouse of a descendant or landowner described in subclause (I) or (II); and
+          (IV) the spouse of a decedent or landowner.
       (B) Reservation of life estate
-         A non-Indian devisee described in subparagraph (A) or a non-Indian devisee described in section 2206(a)(6)(B) of this title, may retain a life estate in the interest involved, including a life estate to the revenue produced from the interest. The amount of any payment required under paragraph (1) shall be reduced to reflect the value of any life estate reserved by a non-Indian devisee under this subparagraph.
+         A non-Indian devisee described in paragraph (1), may retain a life estate in the interest involved, including a life estate to the revenue produced from the interest. The amount of any payment required under paragraph (1) shall be reduced to reflect the value of any life estate reserved by a non-Indian devisee under this subparagraph.
     (3) Payments
        With respect to payments by an Indian tribe under paragraph (1), the Secretary shall–
       (A) upon the request of the tribe, allow a reasonable period of time, not to exceed 2 years, for the tribe to make payments of amounts due pursuant to paragraph (1); or
