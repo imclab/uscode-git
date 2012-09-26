@@ -1,45 +1,35 @@
   (a) Definitions
      In this section:
-    (1) Bioenergy
-       The term ””bioenergy““ means–
-      (A) biodiesel; and
-      (B) fuel grade ethanol.
-    (2) Biodiesel
-       The term ””biodiesel““ means a monoalkyl ester that meets the requirements of an appropriate American Society for Testing and Materials standard.
-    (3) Eligible commodity
-       The term ””eligible commodity““ means–
-      (A) wheat, corn, grain sorghum, barley, oats, rice, soybeans, sunflower seed, rapeseed, canola, safflower, flaxseed, mustard, crambe, sesame seed, and cottonseed;
-      (B) a cellulosic commodity (such as hybrid poplar and switch grass);
-      (C) fats, oils, and greases (including recycled fats, oils, and greases) derived from an agricultural product; and
-      (D) any animal byproduct (in addition to oils, fats, and greases) that may be used to produce bioenergy, as determined by the Secretary.
-    (4) Eligible producer
-       The term ””eligible producer““ means a producer that uses an eligible commodity to produce bioenergy.
-  (b) Bioenergy Program
-    (1) Continuation
-       The Secretary shall continue the program under part 1424 of title 7, Code of Federal Regulations (or any successor regulation), under which the Secretary makes payments to eligible producers to encourage increased purchases of eligible commodities for the purpose of expanding production of such bioenergy and supporting new production capacity for such bioenergy.
-    (2) Contracts
-       To be eligible to receive a payment, an eligible producer shall–
-      (A) enter into a contract with the Secretary to increase bioenergy production for 1 or more fiscal years; and
-      (B) submit to the Secretary such records as the Secretary may require as evidence of increased purchase and use of eligible commodities for the production of bioenergy.
-    (3) Payment
-      (A) In general
-         Under the program, the Secretary shall make payments to eligible producers, based on the quantity of bioenergy produced by the eligible producer during a fiscal year that exceeds the quantity of bioenergy produced by the eligible producer during the preceding fiscal year.
-      (B) Payment rate
-        (i) Producers of less than 65,000,000 gallons
-           An eligible producer that produces less than 65,000,000 gallons of bioenergy shall be reimbursed 1 feedstock unit for every 2.5 feedstock units of eligible commodity used for increased production.
-        (ii) Producers of 65,000,000 or more gallons
-           An eligible producer that produces 65,000,000 or more gallons of bioenergy shall be reimbursed 1 feedstock unit for every 3.5 feedstock units of eligible commodity used for increased production.
-      (C) Quarterly payments
-         The Secretary shall make payments to an eligible producer for each quarter of the fiscal year.
-    (4) Proration
-       If the amount made available for a fiscal year under subsection (c) of this section is insufficient to allow the payment of the amount of the payments that eligible producers (that apply for the payments) otherwise would receive under this subsection, the Secretary shall prorate the amount of the funds among all such eligible producers.
-    (5) Overpayments
-       If the total amount of payments that an eligible producer receives for a fiscal year under this section exceeds the amount that the eligible producer should have received under this subsection, the eligible producer shall repay the amount of the overpayment to the Secretary, with interest (as determined by the Secretary).
-    (6) Limitation
-       No eligible producer shall receive more than 5 percent of the total amount made available under subsection (c) of this section for a fiscal year.
-    (7) Other requirements
-       To be eligible to receive a payment under this subsection, an eligible producer shall meet other requirements of Federal law (including regulations) applicable to the production of bioenergy.
-  (c) Funding
-     Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section–
-    (1) not more than $150,000,000 for each of fiscal years 2003 through 2006; and
-    (2) $0 for fiscal year 2007.
+    (1) Eligible rural community
+       The term ””eligible rural community““ means a community located in a rural area (as defined in section 1991(a)(13)(A) of this title).
+    (2) Initiative
+       The term ””Initiative““ means the Rural Energy Self-Sufficiency Initiative established under this section.
+    (3) Integrated renewable energy system
+       The term ””integrated renewable energy system““ means a community-wide energy system that–
+      (A) reduces conventional energy use; and
+      (B) increases the use of energy from renewable sources.
+  (b) Establishment
+     The Secretary shall establish a Rural Energy Self-Sufficiency Initiative to provide financial assistance for the purpose of enabling eligible rural communities to substantially increase the energy self-sufficiency of the eligible rural communities.
+  (c) Grant assistance
+    (1) In general
+       The Secretary shall make grants available under the Initiative to eligible rural communities to carry out an activity described in paragraph (2).
+    (2) Use of grant funds
+       An eligible rural community may use a grant–
+      (A) to conduct an energy assessment that assesses the total energy use of all energy users in the eligible rural community;
+      (B) to formulate and analyze ideas for reducing energy usage by the eligible rural community from conventional sources; and
+      (C) to develop and install an integrated renewable energy system.
+    (3) Grant selection
+      (A) Application
+         To be considered for a grant, an eligible rural community shall submit an application to the Secretary that describes the ways in which the community would use the grant to carry out an activity described in paragraph (2).
+      (B) Preference
+         The Secretary shall give preference to those applications that propose to carry out an activity in coordination with–
+        (i) institutions of higher education or nonprofit foundations of institutions of higher education;
+        (ii) Federal, State, or local government agencies;
+        (iii) public or private power generation entities; or
+        (iv) government entities with responsibility for water or natural resources.
+    (4) Report
+       An eligible rural community receiving a grant under the Initiative shall submit to the Secretary a report on the project of the eligible rural community.
+    (5) Cost-sharing
+       The amount of a grant under the Initiative shall not exceed 50 percent of the cost of the activities described in the application.
+  (d) Authorization of appropriations
+     There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2012.

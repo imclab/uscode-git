@@ -1,60 +1,119 @@
-  (a) Application of section
-     Except as provided in subsection (c) of this section, each procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
-  (b) Procurement subject to other law
-     Any procurement, by any procuring agency, which is subject to regulations of the Administrator under section 6962 of title 42, shall not be subject to the requirements of this section to the extent that such requirements are inconsistent with such regulations.
-  (c) Procurement preference
-    (1) Except as provided in paragraph (2), after the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall, in making procurement decisions, give preference to such items composed of the highest percentage of biobased products practicable or such items that comply with the regulations issued under section 6914b–1 of title 42, consistent with maintaining a satisfactory level of competition, considering such guidelines.
-    (2) T4FlexibilityK.–Notwithstanding paragraph (1), a procuring agency may decide not to procure such items if the procuring agency determines that the items–
-      (A) are not reasonably available within a reasonable period of time;
-      (B) fail to meet the performance standards set forth in the applicable specifications or fail to meet the reasonable performance standards of the procuring agencies; or
-      (C) are available only at an unreasonable price.
-    (3) After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section, contracting offices shall require that, with respect to biobased products, vendors certify that the biobased products to be used in the performance of the contract will comply with the applicable specifications or other contractual requirements.
-  (d) Specifications
-     All Federal agencies that have the responsibility for drafting or reviewing specifications for procurement items procured by procuring agencies shall, within one year after the date of publication of applicable guidelines under subsection (e) of this section, or as otherwise specified in such guidelines, assure that such specifications require the use of biobased products consistent with the requirements of this section.
-  (e) Guidelines
+  (a) Federal procurement of biobased products
+    (1) Definition of procuring agency
+       In this subsection, the term ””procuring agency““ means–
+      (A) any Federal agency that is using Federal funds for procurement; or
+      (B) a person that is a party to a contract with any Federal agency, with respect to work performed under such a contract.
+    (2) Procurement preference
+      (A) In general
+        (i) Procuring agency duties
+           Except as provided in clause (ii) and subparagraph (B), after the date specified in applicable guidelines prepared pursuant to paragraph (3), each procuring agency shall–
+          (I) establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section; and
+          (II) with respect to items described in the guidelines, give a procurement preference to those items that–
+            (aa) are composed of the highest percentage of biobased products practicable; or
+            (bb) comply with the regulations issued under section 6914b–1 of title 42.
+        (ii) Exception
+           The requirements of clause (i)(I) to establish a procurement program and develop procurement specifications shall not apply to a person described in paragraph (1)(B).
+      (B) Flexibility
+         Notwithstanding subparagraph (A), a procuring agency may decide not to procure items described in that subparagraph if the procuring agency determines that the items–
+        (i) are not reasonably available within a reasonable period of time;
+        (ii) fail to meet–
+          (I) the performance standards set forth in the applicable specifications; or
+          (II) the reasonable performance standards of the procuring agencies; or
+        (iii) are available only at an unreasonable price.
+      (C) Minimum requirements
+         Each procurement program required under this subsection shall, at a minimum–
+        (i) be consistent with applicable provisions of Federal procurement law;
+        (ii) ensure that items composed of biobased products will be purchased to the maximum extent practicable;
+        (iii) include a component to promote the procurement program;
+        (iv) provide for an annual review and monitoring of the effectiveness of the procurement program; and
+        (v) adopt 1 of the 2 polices described in subparagraph (D) or (E), or a policy substantially equivalent to either of those policies.
+      (D) Case-by-case policy
+        (i) In general
+           Subject to subparagraph (B) and except as provided in clause (ii), a procuring agency adopting the case-by-case policy shall award a contract to the vendor offering an item composed of the highest percentage of biobased products practicable.
+        (ii) Exception
+           Subject to subparagraph (B), an agency adopting the policy described in clause (i) may make an award to a vendor offering items with less than the maximum biobased products content.
+      (E) Minimum content standards
+         Subject to subparagraph (B), a procuring agency adopting the minimum content standards policy shall establish minimum biobased products content specifications for awarding contracts in a manner that ensures that the biobased products content required is consistent with this subsection.
+      (F) Certification
+         After the date specified in any applicable guidelines prepared pursuant to paragraph (3), contracting offices shall require that vendors certify that the biobased products to be used in the performance of the contract will comply with the applicable specifications or other contractual requirements.
+    (3) Guidelines
+      (A) In general
+         The Secretary, after consultation with the Administrator, the Administrator of General Services, and the Secretary of Commerce (acting through the Director of the National Institute of Standards and Technology), shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this subsection.
+      (B) Requirements
+         The guidelines under this paragraph shall–
+        (i) designate those items (including finished products) that are or can be produced with biobased products (including biobased products for which there is only a single product or manufacturer in the category) that will be subject to the preference described in paragraph (2);
+        (ii) designate those intermediate ingredients and feedstocks that are or can be used to produce items that will be subject to the preference described in paragraph (2);
+        (iii) automatically designate items composed of intermediate ingredients and feedstocks designated under clause (ii), if the content of the designated intermediate ingredients and feedstocks exceeds 50 percent of the item (unless the Secretary determines a different composition percentage is appropriate);
+        (iv) set forth recommended practices with respect to the procurement of biobased products and items containing such materials;
+        (v) provide information as to the availability, relative price, performance, and environmental and public health benefits of such materials and items; and
+        (vi) take effect on the date established in the guidelines, which may not exceed 1 year after publication.
+      (C) Information provided
+         Information provided pursuant to subparagraph (B)(v) with respect to a material or item shall be considered to be provided for another item made with the same material or item.
+      (D) Prohibition
+         Guidelines issued under this paragraph may not require a manufacturer or vendor of biobased products, as a condition of the purchase of biobased products from the manufacturer or vendor, to provide to procuring agencies more data than would be required to be provided by other manufacturers or vendors offering products for sale to a procuring agency, other than data confirming the biobased content of a product.
+      (E) Qualifying purchases
+         The guidelines shall apply with respect to any purchase or acquisition of a procurement item for which–
+        (i) the purchase price of the item exceeds $10,000; or
+        (ii) the quantity of the items or of functionally-equivalent items purchased or acquired during the preceding fiscal year was at least $10,000.
+    (4) Administration
+      (A) Office of Federal Procurement Policy
+         The Office of Federal Procurement Policy, in cooperation with the Secretary, shall–
+        (i) coordinate the implementation of this subsection with other policies for Federal procurement;
+        (ii) annually collect the information required to be reported under subparagraph (B) and make the information publicly available;
+        (iii) take a leading role in informing Federal agencies concerning, and promoting the adoption of and compliance with, procurement requirements for biobased products by Federal agencies; and
+        (iv) not less than once every 2 years, submit to Congress a report that–
+          (I) describes the progress made in carrying out this subsection; and
+          (II) contains a summary of the information reported pursuant to subparagraph (B).
+      (B) Other agencies
+         To assist the Office of Federal Procurement Policy in carrying out subparagraph (A)–
+        (i) each procuring agency shall submit each year to the Office of Federal Procurement Policy, to the maximum extent practicable, information concerning–
+          (I) actions taken to implement paragraph (2);
+          (II) the results of the annual review and monitoring program established under paragraph (2)(C)(iv);
+          (III) the number and dollar value of contracts entered into during the year that include the direct procurement of biobased products;
+          (IV) the number of service and construction (including renovations) contracts entered into during the year that include language on the use of biobased products; and
+          (V) the types and dollar value of biobased products actually used by contractors in carrying out service and construction (including renovations) contracts during the previous year; and
+        (ii) the General Services Administration and the Defense Logistics Agency shall submit each year to the Office of Federal Procurement Policy information concerning, to the maximum extent practicable, the types and dollar value of biobased products purchased by procuring agencies.
+      (C) Procurement subject to other law
+         Any procurement by any Federal agency that is subject to regulations of the Administrator under section 6962 of title 42 shall not be subject to the requirements of this section to the extent that the requirements are inconsistent with the regulations.
+  (b) Labeling
     (1) In general
-       The Secretary, after consultation with the Administrator, the Administrator of General Services, and the Secretary of Commerce (acting through the Director of the National Institute of Standards and Technology), shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall–
-      (A) designate those items which are or can be produced with biobased products and whose procurement by procuring agencies will carry out the objectives of this section;
-      (B) set forth recommended practices with respect to the procurement of biobased products and items containing such materials and with respect to certification by vendors of the percentage of biobased products used; and
-      (C) provide information as to the availability, relative price, performance, and environmental and public health benefits, of such materials and items and where appropriate shall recommend the level of biobased material to be contained in the procured product.
-    (2) Considerations
-       In making the designation under paragraph (1)(A), the Secretary shall, at a minimum, consider–
-      (A) the availability of such items; and
-      (B) the economic and technological feasibility of using such items, including life cycle costs.
-    (3) Final guidelines
-       The Secretary shall prepare final guidelines under this section within 180 days after May 13, 2002.
-  (f) Office of Federal Procurement Policy
-     The Office of Federal Procurement Policy, in cooperation with the Secretary, shall implement the requirements of this section. It shall be the responsibility of the Office of Federal Procurement Policy to coordinate this policy with other policies for Federal procurement to implement the requirements of this section, and, every two years beginning in 2003, to report to the Congress on actions taken by procuring agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
-  (g) Procurement program
-    (1) Within one year after the date of publication of applicable guidelines under subsection (e) of this section, each Federal agency shall develop a procurement program which will assure that items composed of biobased products will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
-    (2) Each procurement program required under this subsection shall, at a minimum, contain–
-      (A) a biobased products preference program;
-      (B) an agency promotion program to promote the preference program adopted under subparagraph (A); and
-      (C) annual review and monitoring of the effectiveness of an agency“s procurement program.
-    (3) In developing the preference program, the following options shall be considered for adoption:
-      (A) T4Case-by-case policy developmentK.–Subject to the limitations of subsection (c)(2)(A) through (C) of this section, a policy of awarding contracts to the vendor offering an item composed of the highest percentage of biobased products practicable. Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum biobased products content.
-      (B) T4Minimum content standardsK.–Minimum biobased products content specifications which are set in such a way as to assure that the biobased products content required is consistent with the requirements of this section, without violating the limitations of subsection (c)(2) (A) through (C) of this section.
-         Federal agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the procurement program.
-  (h) Labeling
-    (1) In general
-       The Secretary, in consultation with the Administrator, shall establish a voluntary program under which the Secretary authorizes producers of biobased products to use the label ””U.S.D.A. Certified Biobased Product““.
+       The Secretary, in consultation with the Administrator, shall establish a voluntary program under which the Secretary authorizes producers of biobased products to use the label ””USDA Certified Biobased Product““.
     (2) Eligibility criteria
-       Within one year after May 13, 2002, the Secretary, in consultation with the Administrator, shall issue criteria for determining which products may qualify to receive the label under paragraph (1). The criteria shall encourage the purchase of products with the maximum biobased content, and should, to the maximum extent possible, be consistent with the guidelines issued under subsection (e) of this section.
-    (3) Use of the label
+      (A) Criteria
+        (i) In general
+           Not later than 90 days after the date of the enactment of the Food, Conservation, and Energy Act of 2008 and except as provided in clause (ii), the Secretary, in consultation with the Administrator and representatives from small and large businesses, academia, other Federal agencies, and such other persons as the Secretary considers appropriate, shall issue criteria (as of the date of enactment of that Act) for determining which products may qualify to receive the label under paragraph (1).
+        (ii) Exception
+           Clause (i) shall not apply to final criteria that have been issued (as of the date of enactment of that Act) by the Secretary.
+      (B) Requirements
+         Criteria issued under subparagraph (A) shall–
+        (i) encourage the purchase of products with the maximum biobased content;
+        (ii) provide that the Secretary may designate as biobased for the purposes of the voluntary program established under this subsection finished products that contain significant portions of biobased materials or components; and
+        (iii) to the maximum extent practicable, be consistent with the guidelines issued under subsection (a)(3).
+    (3) Use of label
        The Secretary shall ensure that the label referred to in paragraph (1) is used only on products that meet the criteria issued pursuant to paragraph (2).
-    (4) Recognition
-       The Secretary shall establish a voluntary program to recognize Federal agencies and private entities that use a substantial amount of biobased products.
-      (i) Limitation
-         Nothing in this section shall apply to the procurement of motor vehicle fuels or electricity.
-      (j) Inclusion
-         Not later than 90 days after August 8, 2005, the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Chief Administrative Officer of the House of Representatives shall establish procedures that apply the requirements of this section to procurement for the Capitol Complex.
-      (k) Funding
-        (1) Authorization of appropriations
-           There are authorized to be appropriated such sums as may be necessary to carry out this section.
-        (2) Funding for testing of biobased products
-          (A) In general
-             Of the funds of the Commodity Credit Corporation, the Secretary shall use $1,000,000 for each of fiscal years 2002 through 2007 to support testing of biobased products to carry out this section.
-          (B) Use of funds
-             Amounts made available under subparagraph (A) may be used to support contracts or cooperative agreements with entities that have experience and special skills to conduct such testing.
-          (C) Priority
-             At the discretion of the Secretary, the Secretary may give priority to the testing of products for which private sector firms provide cost sharing for the testing.
+  (c) Recognition
+     The Secretary shall–
+    (1) establish a program to recognize Federal agencies and private entities that use a substantial amount of biobased products; and
+    (2) encourage Federal agencies to establish incentives programs to recognize Federal employees or contractors that make exceptional contributions to the expanded use of biobased products.
+  (d) Limitation
+     Nothing in this section shall apply to the procurement of motor vehicle fuels, heating oil, or electricity.
+  (e) Inclusion
+     Effective beginning on the date that is 90 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Chief Administrative Officer of the House of Representatives shall consider the biobased product designations made under this section in making procurement decisions for the Capitol Complex.
+  (f) National testing center registry
+     The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
+  (g) Reports
+    (1) In general
+       Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each year thereafter, the Secretary shall submit to Congress a report on the implementation of this section.
+    (2) Contents
+       The report shall include–
+      (A) a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section; and
+      (B) information on the status of implementation of–
+        (i) item designations (including designation of intermediate ingredients and feedstocks); and
+        (ii) the voluntary labeling program established under subsection (b).
+  (h) Funding
+    (1) Mandatory funding
+       Of the funds of the Commodity Credit Corporation, the Secretary shall use to provide mandatory funding for biobased products testing and labeling as required to carry out this section–
+      (A) $1,000,000 for fiscal year 2008; and
+      (B) $2,000,000 for each of fiscal years 2009 through 2012.
+    (2) Discretionary funding
+       In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2009 through 2012.

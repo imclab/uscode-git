@@ -7,11 +7,25 @@
         (i) for which catastrophic risk protection under section 1508(b) of this title is not available; and
         (ii) that is produced for food or fiber.
       (B) Crops specifically included
-         The term ””eligible crop““ shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), sea grass and sea oats, and industrial crops.
+         The term ””eligible crop““ shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, and industrial crops.
       (C) Combination of similar types or varieties
          At the option of the Secretary, all types or varieties of a crop or commodity, described in subparagraphs (A) and (B), may be considered to be a single eligible crop under this section.
     (3) Cause of loss
        To qualify for assistance under this section, the losses of the noninsured commodity shall be due to drought, flood, or other natural disaster, as determined by the Secretary.
+    (4) Program ineligibility relating to crop production on native sod
+      (A) Definition of native sod
+         In this paragraph, the term ””native sod““ means land–
+        (i) on which the plant cover is composed principally of native grasses, grasslike plants, forbs, or shrubs suitable for grazing and browsing; and
+        (ii) that has never been tilled for the production of an annual crop as of the date of enactment of this paragraph.
+      (B) Ineligibility for benefits
+        (i) In general
+           Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under–
+          (I) this section; and
+          (II) the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+        (ii) De minimis acreage exemption
+           The Secretary shall exempt areas of 5 acres or less from clause (i).
+      (C) Application
+         Subparagraph (B) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.
   (b) Application for noninsured crop disaster assistance
     (1) Timely application
        To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
@@ -23,7 +37,10 @@
     (1) Cause
        To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
     (2) Assistance
-       On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+      (A) In general
+         On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+      (B) Aquaculture producers
+         On making a determination described in subsection (a)(3) for aquaculture producers, the Secretary shall provide assistance under this section to aquaculture producers from all losses related to drought.
     (3) Prevented planting
        Subject to paragraph (1), the Secretary shall make a prevented planting noninsured crop disaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
     (4) Area trigger
@@ -72,30 +89,26 @@
     (3) the failure of the producer to follow good farming practices, as determined by the Secretary.
       (i) Payment and income limitations
         (1) Definitions
-           In this subsection:
-          (A) Person
-             The term ””person““ has the meaning provided the term in regulations issued by the Secretary. The regulations shall conform, to the extent practicable, to the regulations defining the term ””person““ issued under section 1308 of this title.
-          (B) Qualifying gross revenues
-             The term ””qualifying gross revenues““ means–
-            (i) if a majority of the gross revenue of the person is received from farming, ranching, and forestry operations, the gross revenue from the farming, ranching, and forestry operations of the person; and
-            (ii) if less than a majority of the gross revenue of the person is received from farming, ranching, and forestry operations, the gross revenue of the person from all sources.
+           In this subsection, the terms ””legal entity““ and ””person““ have the meanings given those terms in section 1308(a) of this title.
         (2) Payment limitation
-           The total amount of payments that a person shall be entitled to receive annually under this section may not exceed $100,000.
+           The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) for any crop year may not exceed $100,000.
         (3) Limitation on multiple benefits for same loss
           (A) In general
              Except as provided in subparagraph (B), if a producer who is eligible to receive benefits under this section is also eligible to receive assistance for the same loss under any other program administered by the Secretary, the producer shall be required to elect whether to receive benefits under this section or under the other program, but not both.
           (B) Exception
              Subparagraph (A) shall not apply to emergency loans under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.).
-        (4) Income limitation
-           A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 1421 note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section.
+        (4) Adjusted gross income limitation
+           A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
         (5) Regulations
-           The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection.
+           The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary–
+          (A) to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection; and
+          (B) to ensure that payments under this section are attributed to a person or legal entity (excluding a joint venture or general partnership) in accordance with the terms and conditions of sections 1308 through 1308–3a of this title, as determined by the Secretary.
       (j) Omitted
       (k) Service fee
         (1) In general
            To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1) of this section) a service fee for the eligible crop in an amount that is equal to the lesser of–
-          (A) $100 per crop per county; or
-          (B) $300 per producer per county, but not to exceed a total of $900 per producer.
+          (A) $250 per crop per county; or
+          (B) $750 per producer per county, but not to exceed a total of $1,875 per producer.
         (2) Waiver
            The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource farmer, as defined by the Secretary.
         (3) Use

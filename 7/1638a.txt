@@ -1,17 +1,45 @@
   (a) In general
     (1) Requirement
        Except as provided in subsection (b) of this section, a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
-    (2) United States country of origin
-       A retailer of a covered commodity may designate the covered commodity as having a United States country of origin only if the covered commodity–
-      (A) in the case of beef, is exclusively from an animal that is exclusively born, raised, and slaughtered in the United States (including from an animal exclusively born and raised in Alaska or Hawaii and transported for a period not to exceed 60 days through Canada to the United States and slaughtered in the United States);
-      (B) in the case of lamb and pork, is exclusively from an animal that is exclusively born, raised, and slaughtered in the United States;
-      (C) in the case of farm-raised fish, is hatched, raised, harvested, and processed in the United States;
-      (D) in the case of wild fish, is–
-        (i) harvested in the United States, a territory of the United States, or a State, or by a vessel that is documented under chapter 121 of title 46 or registered in the United States; and
-        (ii) processed in the United States, a territory of the United States, or a State, including the waters thereof, or aboard a vessel that is documented under chapter 121 of title 46 or registered in the United States; and
-      (E) in the case of a perishable agricultural commodity or peanuts, is exclusively produced in the United States.
-    (3) Wild fish and farm-raised fish
-       The notice of country of origin for wild fish and farm-raised fish shall distinguish between wild fish and farm-raised fish.
+    (2) Designation of country of origin for beef, lamb, pork, chicken, and goat meat
+      (A) United States country of origin
+         A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was–
+        (i) exclusively born, raised, and slaughtered in the United States;
+        (ii) born and raised in Alaska or Hawaii and transported for a period of not more than 60 days through Canada to the United States and slaughtered in the United States; or
+        (iii) present in the United States on or before July 15, 2008, and once present in the United States, remained continuously in the United States.
+      (B) Multiple countries of origin
+        (i) In general
+           A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat that is derived from an animal that is–
+          (I) not exclusively born, raised, and slaughtered in the United States,
+          (II) born, raised, or slaughtered in the United States, and
+          (III) not imported into the United States for immediate slaughter,
+              may designate the country of origin of such covered commodity as all of the countries in which the animal may have been born, raised, or slaughtered.
+        (ii) Relation to general requirement
+           Nothing in this subparagraph alters the mandatory requirement to inform consumers of the country of origin of covered commodities under paragraph (1).
+      (C) Imported for immediate slaughter
+         A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as–
+        (i) the country from which the animal was imported; and
+        (ii) the United States.
+      (D) Foreign country of origin
+         A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
+      (E) Ground beef, pork, lamb, chicken, and goat
+         The notice of country of origin for ground beef, ground pork, ground lamb, ground chicken, or ground goat shall include–
+        (i) a list of all countries of origin of such ground beef, ground pork, ground lamb, ground chicken, or ground goat; or
+        (ii) a list of all reasonably possible countries of origin of such ground beef, ground pork, ground lamb, ground chicken, or ground goat.
+    (3) Designation of country of origin for fish
+      (A) In general
+         A retailer of a covered commodity that is farm-raised fish or wild fish may designate the covered commodity as having a United States country of origin only if the covered commodity–
+        (i) in the case of farm-raised fish, is hatched, raised, harvested, and processed in the United States; and
+        (ii) in the case of wild fish, is–
+          (I) harvested in the United States, a territory of the United States, or a State, or by a vessel that is documented under chapter 121 of title 46 or registered in the United States; and
+          (II) processed in the United States, a territory of the United States, or a State, including the waters thereof, or aboard a vessel that is documented under chapter 121 of title 46 or registered in the United States.
+      (B) Designation of wild fish and farm-raised fish
+         The notice of country of origin for wild fish and farm-raised fish shall distinguish between wild fish and farm-raised fish.
+    (4) Designation of country of origin for perishable agricultural commodities, ginseng, peanuts, pecans, and macadamia nuts
+      (A) In general
+         A retailer of a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut may designate the covered commodity as having a United States country of origin only if the covered commodity is exclusively produced in the United States.
+      (B) State, region, locality of the United States
+         With respect to a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut produced exclusively in the United States, designation by a retailer of the State, region, or locality of the United States where such commodity was produced shall be sufficient to identify the United States as the country of origin.
   (b) Exemption for food service establishments
      Subsection (a) of this section shall not apply to a covered commodity if the covered commodity is–
     (1) prepared or served in a food service establishment; and
@@ -23,7 +51,13 @@
     (2) Labeled commodities
        If the covered commodity is already individually labeled for retail sale regarding country of origin, the retailer shall not be required to provide any additional information to comply with this section.
   (d) Audit verification system
-     The Secretary may require that any person that prepares, stores, handles, or distributes a covered commodity for retail sale maintain a verifiable recordkeeping audit trail that will permit the Secretary to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b)) of this title.
+    (1) In general
+       The Secretary may conduct an audit of any person that prepares, stores, handles, or distributes a covered commodity for retail sale to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title).
+    (2) Record requirements
+      (A) In general
+         A person subject to an audit under paragraph (1) shall provide the Secretary with verification of the country of origin of covered commodities. Records maintained in the course of the normal conduct of the business of such person, including animal health papers, import or customs documents, or producer affidavits, may serve as such verification.
+      (B) Prohibition on requirement of additional records
+         The Secretary may not require a person that prepares, stores, handles, or distributes a covered commodity to maintain a record of the country of origin of a covered commodity other than those maintained in the course of the normal conduct of the business of such person.
   (e) Information
      Any person engaged in the business of supplying a covered commodity to a retailer shall provide information to the retailer indicating the country of origin of the covered commodity.
   (f) Certification of origin
@@ -31,8 +65,8 @@
        The Secretary shall not use a mandatory identification system to verify the country of origin of a covered commodity.
     (2) Existing certification programs
        To certify the country of origin of a covered commodity, the Secretary may use as a model certification programs in existence on May 13, 2002, including–
-      (A) the carcass grading and certification system carried out under this chapter;
-      (B) the voluntary country of origin beef labeling system carried out under this chapter;
+      (A) the carcass grading and certification system carried out under this Act;
+      (B) the voluntary country of origin beef labeling system carried out under this Act;
       (C) voluntary programs established to certify certain premium beef cuts;
       (D) the origin verification system established to carry out the child and adult care food program established under section 1766 of title 42; or
       (E) the origin verification system established to carry out the market access program under section 5623 of this title.

@@ -1,134 +1,156 @@
-  (a) Printing
-     Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
-  (b) Approved food stores; receipt of cash in change for coupons used to purchase food
-     Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: T3ProvidedK, That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: T3Provided furtherK, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
-  (c) Design of coupons
-     Coupons issued to eligible households shall be simple in design and shall include only such words or illustrations as are required to explain their purpose and define their denomination. The name of any public official shall not appear on such coupons.
-  (d) Coupon level inventories; monitorship; monthly operations report
-     The Secretary shall develop an appropriate procedure for determining and monitoring the level of coupon inventories in the hands of coupon issuers for the purpose of providing that such inventories are at proper levels (taking into consideration the historical and projected volume of coupon distribution by such issuers). Such procedures shall provide that coupon inventories in the hands of such issuers are not in excess of the reasonable needs of such issuers taking into consideration the ease with which such coupon inventories may be resupplied. The Secretary shall require each coupon issuer at intervals prescribed by the Secretary, but not less often than monthly, to send to the Secretary or the Secretary“s designee, which may include the State agency, a written report of the issuer“s operations during such period. In addition to other information deemed by the Secretary to be appropriate, the Secretary shall require that the report contain an oath, or affirmation, signed by the coupon issuer, or in the case of a corporation or other entity not a natural person, by an appropriate official of the coupon issuer, certifying that the information contained in the report is true and correct to the best of such person“s knowledge and belief.
-  (e) Delivery and control procedures
-     The Secretary shall prescribe appropriate procedures for the delivery of coupons to coupon issuers and for the subsequent controls to be placed over such coupons by coupon issuers in order to ensure adequate accountability.
-  (f) State issuance liability
-     Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of coupons, including any losses involving failure of a coupon issuer to comply with the requirements specified in section 2020(e)(20) \1\N of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
-  (g) Alternative system or documents; costs
-    (1) If the Secretary determines, in consultation with the Inspector General of the Department of Agriculture, that it would improve the integrity of the food stamp program, the Secretary shall require a State agency–
-      (A) to issue or deliver coupons using alternative methods, including an automatic data processing and information retrieval system; or
-      (B) to issue, in lieu of coupons, reusable documents to be used as part of an automatic data processing and information retrieval system and to be presented by, and returned to, recipients at retail food stores for the purpose of purchasing food.
-    (2) The cost of documents or systems that may be required pursuant to this subsection may not be imposed upon a retail food store participating in the food stamp program.
-  (h) Staggered issuance procedures
-    (1) The State agency may establish a procedure for staggering the issuance of coupons to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
-    (2) Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household“s benefits in more than one issuance.
-      (i) Electronic benefit transfers
-        (1) T4In general.–
-          (A) T4ImplementationK.–Not later than October 1, 2002, each State agency shall implement an electronic benefit transfer system under which household benefits determined under section 2017(a) or 2035 of this title are issued from and stored in a central databank, unless the Secretary provides a waiver for a State agency that faces unusual barriers to implementing an electronic benefit transfer system.
-          (B) T4Timely implementationK.–Each State agency is encouraged to implement an electronic benefit transfer system under subparagraph (A) as soon as practicable.
-          (C) T4State flexibilityK.–Subject to paragraph (2), a State agency may procure and implement an electronic benefit transfer system under the terms, conditions, and design that the State agency considers appropriate.
-          (D) T4OperationK.–An electronic benefit transfer system should take into account generally accepted standard operating rules based on–
-            (i) commercial electronic funds transfer technology;
-            (ii) the need to permit interstate operation and law enforcement monitoring; and
-            (iii) the need to permit monitoring and investigations by authorized law enforcement agencies.
-        (2) The Secretary shall issue final regulations that establish standards for the approval of such a system. The standards shall include–
-          (A) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
-          (B) the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
-          (C)            (i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
-            (ii) effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;
-          (D) system transaction interchange, reliability, and processing speeds;
-          (E) financial accountability;
-          (F) the required testing of system operations prior to implementation;
-          (G) the analysis of the results of system implementation in a limited project area prior to expansion; and
-          (H) procurement standards.
-        (3) In the case of a system described in paragraph (1) in which participation is not optional for households, the Secretary shall not approve such a system unless–
-          (A) a sufficient number of eligible retail food stores, including those stores able to serve minority language populations, have agreed to participate in the system throughout the area in which it will operate to ensure that eligible households will not suffer a significant reduction in their choice of retail food stores or a significant increase in the cost of food or transportation to participating food stores; and
-          (B) any special equipment necessary to allow households to purchase food with the benefits issued under this chapter is operational–
-            (i) in the case of a participating retail food store in which coupons are used to purchase 15 percent or more of the total dollar amount of food sold by the store (as determined by the Secretary), at all registers in the store; and
-            (ii) in the case of other participating stores, at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of food stamp households, as determined by the Secretary.
-        (4) Administrative costs incurred in connection with activities under this subsection shall be eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
-        (5) The Secretary shall periodically inform State agencies of the advantages of using electronic benefit systems to issue benefits in accordance with this subsection in lieu of issuing coupons to households.
-        (6) This subsection shall not diminish the authority of the Secretary to conduct projects to test automated or electronic benefit delivery systems under section 2026(f) of this title.
-        (7) T4Replacement of benefitsK.–Regulations issued by the Secretary regarding the replacement of benefits and liability for replacement of benefits under an electronic benefit transfer system shall be similar to the regulations in effect for a paper-based food stamp issuance system.
-        (8) T4Replacement card feeK.–A State agency may collect a charge for replacement of an electronic benefit transfer card by reducing the monthly allotment of the household receiving the replacement card.
-        (9) T4Optional photographic identification.–
-          (A) T4In generalK.–A State agency may require that an electronic benefit card contain a photograph of 1 or more members of a household.
-          (B) T4Other authorized usersK.–If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the State agency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
-        (10) T4Applicable lawK.–Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.
-        (11) T4Application of anti-tying restrictions to electronic benefit transfer systems.–
-          (A) T4DefinitionsK.–In this paragraph:
-            (i) T4AffiliateK.–The term ””affiliate““ has the meaning provided the term in section 1841(k) of title 12.
-            (ii) T4CompanyK.–The term ””company““ has the meaning provided the term in section 1971 of title 12, but shall not include a bank, a bank holding company, or any subsidiary of a bank holding company.
-            (iii) T4Electronic benefit transfer serviceK.–The term ””electronic benefit transfer service““ means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are–
-              (I) issued from and stored in a central databank;
-              (II) electronically accessed by household members at the point of sale; and
-              (III) provided by a Federal or State government.
-            (iv) T4Point-of-sale serviceK.–The term ””point-of-sale service““ means any product or service related to the electronic authorization and processing of payments for merchandise at a retail food store, including credit or debit card services, automated teller machines, point-of-sale terminals, or access to on-line systems.
-          (B) T4RestrictionsK.–A company may not sell or provide electronic benefit transfer services, or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer–
-            (i) obtain some additional point-of-sale service from the company or an affiliate of the company; or
-            (ii) not obtain some additional point-of-sale service from a competitor of the company or competitor of any affiliate of the company.
-          (C) T4Consultation with the federal reserve boardK.–Before promulgating regulations or interpretations of regulations to carry out this paragraph, the Secretary shall consult with the Board of Governors of the Federal Reserve System.
-      (j) State option to issue benefits to certain individuals made ineligible by welfare reform
-        (1) In general
-           Notwithstanding any other provision of law, a State agency may, with the approval of the Secretary, issue benefits under this chapter to an individual who is ineligible to participate in the food stamp program solely as a result of section 2015(T3oK)(2) of this title or section 1612 or 1613 of title 8.
-        (2) State payments to Secretary
-          (A) In general
-             Not later than the date the State agency issues benefits to individuals under this subsection, the State agency shall pay the Secretary, in accordance with procedures established by the Secretary, an amount that is equal to–
-            (i) the value of the benefits; and
-            (ii) the costs of printing, shipping, and redeeming coupons, and other Federal costs, incurred in providing the benefits, as determined by the Secretary.
-          (B) Crediting
-             Notwithstanding section 3302(b) of title 31, payments received under subparagraph (A) shall be credited to the food stamp program appropriation account or the account from which the costs were drawn, as appropriate, for the fiscal year in which the payment is received.
-        (3) Reporting
-           To be eligible to issue benefits under this subsection, a State agency shall comply with reporting requirements established by the Secretary to carry out this subsection.
-        (4) Plan
-           To be eligible to issue benefits under this subsection, a State agency shall–
-          (A) submit a plan to the Secretary that describes the conditions and procedures under which the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
-          (B) obtain the approval of the Secretary for the plan.
-        (5) Violations
-           A sanction, disqualification, fine, or other penalty prescribed under Federal law (including sections 2021 and 2024 of this title) shall apply to a violation committed in connection with a coupon issued under this subsection.
-        (6) Ineligibility for administrative reimbursement
-           Administrative and other costs incurred in issuing a benefit under this subsection shall not be eligible for Federal funding under this chapter.
-        (7) Exclusion from enhanced payment accuracy systems
-           Section 2025(c) of this title shall not apply to benefits issued under this subsection.
-      (k) Interoperability and portability of electronic benefit transfer transactions
-        (1) Definitions
-           In this subsection:
-          (A) Electronic benefit transfer card
-             The term ””electronic benefit transfer card““ means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (i)(11)(A) of this section).
-          (B) Electronic benefit transfer contract
-             The term ””electronic benefit transfer contract““ means a contract that provides for the issuance, use, or redemption of coupons in the form of electronic benefit transfer cards.
-          (C) Interoperability
-             The term ””interoperability““ means a system that enables a coupon issued in the form of an electronic benefit transfer card to be redeemed in any State.
-          (D) Interstate transaction
-             The term ””interstate transaction““ means a transaction that is initiated in 1 State by the use of an electronic benefit transfer card that is issued in another State.
-          (E) Portability
-             The term ””portability““ means a system that enables a coupon issued in the form of an electronic benefit transfer card to be used in any State by a household to purchase food at a retail food store or wholesale food concern approved under this chapter.
-          (F) Settling
-             The term ””settling““ means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
-          (G) Smart card
-             The term ””smart card““ means an intelligent benefit card described in section 2026(f) of this title.
-          (H) Switching
-             The term ””switching““ means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
-        (2) Requirement
-           Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption of coupons in the form of electronic benefit transfer cards are interoperable, and food stamp benefits are portable, among all States.
-        (3) Cost
-           The cost of achieving the interoperability and portability required under paragraph (2) shall not be imposed on any food stamp retail store, or any wholesale food concern, approved to participate in the food stamp program.
-        (4) Standards
-           Not later than 210 days after February 11, 2000, the Secretary shall promulgate regulations that–
-          (A) adopt a uniform national standard of interoperability and portability required under paragraph (2) that is based on the standard of interoperability and portability used by a majority of State agencies; and
-          (B) require that any electronic benefit transfer contract that is entered into 30 days or more after the regulations are promulgated, by or on behalf of a State agency, provide for the interoperability and portability required under paragraph (2) in accordance with the national standard.
-        (5) Exemptions
-          (A) Contracts
-             The requirements of paragraph (2) shall not apply to the transfer of benefits under an electronic benefit transfer contract before the expiration of the term of the contract if the contract–
-            (i) is entered into before the date that is 30 days after the regulations are promulgated under paragraph (4); and
-            (ii) expires after October 1, 2002.
-          (B) Waiver
-             At the request of a State agency, the Secretary may provide 1 waiver to temporarily exempt, for a period ending on or before the date specified under clause (iii), the State agency from complying with the requirements of paragraph (2), if the State agency–
-            (i) establishes to the satisfaction of the Secretary that the State agency faces unusual technological barriers to achieving by October 1, 2002, the interoperability and portability required under paragraph (2);
-            (ii) demonstrates that the best interest of the food stamp program would be served by granting the waiver with respect to the electronic benefit transfer system used by the State agency to administer the food stamp program; and
-            (iii) specifies a date by which the State agency will achieve the interoperability and portability required under paragraph (2).
-          (C) Smart card systems
-             The Secretary shall allow a State agency that is using smart cards for the delivery of food stamp program benefits to comply with the requirements of paragraph (2) at such time after October 1, 2002, as the Secretary determines that a practicable technological method is available for interoperability with electronic benefit transfer cards.
-        (6) Funding
-          (A) In general
-             In accordance with regulations promulgated by the Secretary, the Secretary shall pay 100 percent of the costs incurred by a State agency under this chapter for switching and settling interstate transactions–
-            (i) incurred after February 11, 2000, and before October 1, 2002, if the State agency uses the standard of interoperability and portability adopted by a majority of State agencies; and
-            (ii) incurred after September 30, 2002, if the State agency uses the uniform national standard of interoperability and portability adopted under paragraph (4)(A).
-          (B) Limitation
-             The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
+  (a) In general
+     Except as provided in subsection (i), EBT cards shall be issued only to households which have been duly certified as eligible to participate in the supplemental nutrition assistance program.
+  (b) Use
+     Benefits issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the supplemental nutrition assistance program at prices prevailing in such stores: T3ProvidedK, That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores.
+  (c) Design
+    (1) In general
+       EBT cards issued to eligible households shall be simple in design and shall include only such words or illustrations as are required to explain their purpose.
+    (2) Prohibition
+       The name of any public official shall not appear on any EBT card.
+  (d) Delivery and control procedures
+     The Secretary shall prescribe appropriate procedures for the delivery of benefits to benefit issuers and for the subsequent controls to be placed over such benefits by benefit issuers in order to ensure adequate accountability.
+  (e) State issuance liability
+     Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
+  (f) Alternative benefit delivery
+    (1) In general
+       If the Secretary determines, in consultation with the Inspector General of the Department of Agriculture, that it would improve the integrity of the supplemental nutrition assistance program, the Secretary shall require a State agency to issue or deliver benefits using alternative methods.
+    (2) No imposition of costs
+       The cost of documents or systems that may be required by this subsection may not be imposed upon a retail food store participating in the supplemental nutrition assistance program.
+    (3) Devaluation and termination of issuance of paper coupons
+      (A) Coupon issuance
+         Effective on the date of enactment of the Food, Conservation, and Energy Act of 2008, no State shall issue any coupon, stamp, certificate, or authorization card to a household that receives supplemental nutrition assistance under this chapter.
+      (B) EBT cards
+         Effective beginning on the date that is 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
+      (C) De-obligation of coupons
+         Coupons not redeemed during the 1-year period beginning on the date of enactment of the Food, Conservation, and Energy Act of 2008 shall–
+        (i) no longer be an obligation of the Federal Government; and
+        (ii) not be redeemable.
+  (g) Staggered issuance procedures
+    (1) The State agency may establish a procedure for staggering the issuance of benefits to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
+    (2) T4Requirements.–
+      (A) T4In generalK.–Any procedure established under paragraph (1) shall–
+        (i) not reduce the allotment of any household for any period; and
+        (ii) ensure that no household experiences an interval between issuances of more than 40 days.
+      (B) T4Multiple issuancesK.–The procedure may include issuing benefits to a household in more than 1 issuance during a month only when a benefit correction is necessary.
+  (h) Electronic benefit transfers
+    (1) T4In general.–
+      (A) T4ImplementationK.–Not later than October 1, 2002, each State agency shall implement an electronic benefit transfer system under which household benefits determined under section 2017(a) or 2035 of this title are issued from and stored in a central databank, unless the Secretary provides a waiver for a State agency that faces unusual barriers to implementing an electronic benefit transfer system.
+      (B) T4Timely implementationK.–Each State agency is encouraged to implement an electronic benefit transfer system under subparagraph (A) as soon as practicable.
+      (C) T4State flexibilityK.–Subject to paragraph (2), a State agency may procure and implement an electronic benefit transfer system under the terms, conditions, and design that the State agency considers appropriate.
+      (D) T4OperationK.–An electronic benefit transfer system should take into account generally accepted standard operating rules based on–
+        (i) commercial electronic funds transfer technology;
+        (ii) the need to permit interstate operation and law enforcement monitoring; and
+        (iii) the need to permit monitoring and investigations by authorized law enforcement agencies.
+    (2) The Secretary shall issue final regulations that establish standards for the approval of such a system. The standards shall include–
+      (A) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
+      (B) the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
+      (C)        (i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
+        (ii) effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;
+      (D) system transaction interchange, reliability, and processing speeds;
+      (E) financial accountability;
+      (F) the required testing of system operations prior to implementation;
+      (G) the analysis of the results of system implementation in a limited project area prior to expansion; and
+      (H) procurement standards.
+    (3) In the case of a system described in paragraph (1) in which participation is not optional for households, the Secretary shall not approve such a system unless–
+      (A) a sufficient number of eligible retail food stores, including those stores able to serve minority language populations, have agreed to participate in the system throughout the area in which it will operate to ensure that eligible households will not suffer a significant reduction in their choice of retail food stores or a significant increase in the cost of food or transportation to participating food stores; and
+      (B) any special equipment necessary to allow households to purchase food with the benefits issued under this chapter is operational–
+        (i) in the case of a participating retail food store in which coupons are used to purchase 15 percent or more of the total dollar amount of food sold by the store (as determined by the Secretary), at all registers in the store; and
+        (ii) in the case of other participating stores, at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of households receiving supplemental nutrition assistance program benefits, as determined by the Secretary.
+    (4) Administrative costs incurred in connection with activities under this subsection shall be eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
+    (5) The Secretary shall periodically inform State agencies of the advantages of using electronic benefit systems to issue benefits in accordance with this subsection in lieu of issuing coupons to households.
+    (6) This subsection shall not diminish the authority of the Secretary to conduct projects to test automated or electronic benefit delivery systems under section 2026(f) of this title.
+    (7) T4Replacement of benefitsK.–Regulations issued by the Secretary regarding the replacement of benefits and liability for replacement of benefits under an electronic benefit transfer system shall be similar to the regulations in effect for a paper-based supplemental nutrition assistance issuance system.
+    (8) T4Replacement card feeK.–A State agency may collect a charge for replacement of an electronic benefit transfer card by reducing the monthly allotment of the household receiving the replacement card.
+    (9) T4Optional photographic identification.–
+      (A) T4In generalK.–A State agency may require that an electronic benefit card contain a photograph of 1 or more members of a household.
+      (B) T4Other authorized usersK.–If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the State agency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
+    (10) T4Applicable lawK.–Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.
+    (11) T4Application of anti-tying restrictions to electronic benefit transfer systems.–
+      (A) T4DefinitionsK.–In this paragraph:
+        (i) T4AffiliateK.–The term ””affiliate““ has the meaning provided the term in section 1841(k) of title 12.
+        (ii) T4CompanyK.–The term ””company““ has the meaning provided the term in section 1971 of title 12, but shall not include a bank, a bank holding company, or any subsidiary of a bank holding company.
+        (iii) T4Electronic benefit transfer serviceK.–The term ””electronic benefit transfer service““ means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are–
+          (I) issued from and stored in a central databank;
+          (II) electronically accessed by household members at the point of sale; and
+          (III) provided by a Federal or State government.
+        (iv) T4Point-of-sale serviceK.–The term ””point-of-sale service““ means any product or service related to the electronic authorization and processing of payments for merchandise at a retail food store, including credit or debit card services, automated teller machines, point-of-sale terminals, or access to on-line systems.
+      (B) T4RestrictionsK.–A company may not sell or provide electronic benefit transfer services, or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer–
+        (i) obtain some additional point-of-sale service from the company or an affiliate of the company; or
+        (ii) not obtain some additional point-of-sale service from a competitor of the company or competitor of any affiliate of the company.
+      (C) T4Consultation with the federal reserve boardK.–Before promulgating regulations or interpretations of regulations to carry out this paragraph, the Secretary shall consult with the Board of Governors of the Federal Reserve System.
+    (12) \1\N T4Recovering electronic benefits.–
+      (A) T4In generalK.–A State agency shall establish a procedure for recovering electronic benefits from the account of a household due to inactivity.
+      (B) T4Benefit storageK.–A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
+      (C) T4Benefit expungingK.–A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.
+      (D) T4NoticeK.–A State agency shall–
+        (i) send notice to a household the benefits of which are stored under subparagraph (B); and
+        (ii) not later than 48 hours after request by the household, make the stored benefits available to the household.
+  (12) \1\ T4Interchange feesK.–No interchange fees shall apply to electronic benefit transfer transactions under this subsection.
+    (i) State option to issue benefits to certain individuals made ineligible by welfare reform
+      (1) In general
+         Notwithstanding any other provision of law, a State agency may, with the approval of the Secretary, issue benefits under this chapter to an individual who is ineligible to participate in the supplemental nutrition assistance program solely as a result of section 2015(T3oK)(2) of this title or section 1612 or 1613 of title 8.
+      (2) State payments to Secretary
+        (A) In general
+           Not later than the date the State agency issues benefits to individuals under this subsection, the State agency shall pay the Secretary, in accordance with procedures established by the Secretary, an amount that is equal to–
+          (i) the value of the benefits; and
+          (ii) the costs of issuing and redeeming benefits, and other Federal costs, incurred in providing the benefits, as determined by the Secretary.
+        (B) Crediting
+           Notwithstanding section 3302(b) of title 31, payments received under subparagraph (A) shall be credited to the supplemental nutrition assistance program appropriation account or the account from which the costs were drawn, as appropriate, for the fiscal year in which the payment is received.
+      (3) Reporting
+         To be eligible to issue benefits under this subsection, a State agency shall comply with reporting requirements established by the Secretary to carry out this subsection.
+      (4) Plan
+         To be eligible to issue benefits under this subsection, a State agency shall–
+        (A) submit a plan to the Secretary that describes the conditions and procedures under which the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
+        (B) obtain the approval of the Secretary for the plan.
+      (5) Violations
+         A sanction, disqualification, fine, or other penalty prescribed under Federal law (including sections 2021 and 2024 of this title) shall apply to a violation committed in connection with a benefit issued under this subsection.
+      (6) Ineligibility for administrative reimbursement
+         Administrative and other costs incurred in issuing a benefit under this subsection shall not be eligible for Federal funding under this chapter.
+      (7) Exclusion from enhanced payment accuracy systems
+         Section 2025(c) of this title shall not apply to benefits issued under this subsection.
+    (j) Interoperability and portability of electronic benefit transfer transactions
+      (1) Definitions
+         In this subsection:
+        (A) Electronic benefit transfer card
+           The term ””electronic benefit transfer card““ means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A) of this section).
+        (B) Electronic benefit transfer contract
+           The term ””electronic benefit transfer contract““ means a contract that provides for the issuance, use, or redemption of program benefits in the form of electronic benefit transfer cards.
+        (C) Interoperability
+           The term ””interoperability““ means a system that enables program benefits in the form of an electronic benefit transfer card to be redeemed in any State.
+        (D) Interstate transaction
+           The term ””interstate transaction““ means a transaction that is initiated in 1 State by the use of an electronic benefit transfer card that is issued in another State.
+        (E) Portability
+           The term ””portability““ means a system that enables program benefits in the form of an electronic benefit transfer card to be used in any State by a household to purchase food at a retail food store or wholesale food concern approved under this chapter.
+        (F) Settling
+           The term ””settling““ means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
+        (G) Smart card
+           The term ””smart card““ means an intelligent benefit card described in section 2026(f) of this title.
+        (H) Switching
+           The term ””switching““ means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+      (2) Requirement
+         Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption of program benefits in the form of electronic benefit transfer cards are interoperable, and supplemental nutrition assistance program benefits are portable, among all States.
+      (3) Cost
+         The cost of achieving the interoperability and portability required under paragraph (2) shall not be imposed on any retail store, or any wholesale food concern, approved to participate in the supplemental nutrition assistance program.
+      (4) Standards
+         Not later than 210 days after February 11, 2000, the Secretary shall promulgate regulations that–
+        (A) adopt a uniform national standard of interoperability and portability required under paragraph (2) that is based on the standard of interoperability and portability used by a majority of State agencies; and
+        (B) require that any electronic benefit transfer contract that is entered into 30 days or more after the regulations are promulgated, by or on behalf of a State agency, provide for the interoperability and portability required under paragraph (2) in accordance with the national standard.
+      (5) Exemptions
+        (A) Contracts
+           The requirements of paragraph (2) shall not apply to the transfer of benefits under an electronic benefit transfer contract before the expiration of the term of the contract if the contract–
+          (i) is entered into before the date that is 30 days after the regulations are promulgated under paragraph (4); and
+          (ii) expires after October 1, 2002.
+        (B) Waiver
+           At the request of a State agency, the Secretary may provide 1 waiver to temporarily exempt, for a period ending on or before the date specified under clause (iii), the State agency from complying with the requirements of paragraph (2), if the State agency–
+          (i) establishes to the satisfaction of the Secretary that the State agency faces unusual technological barriers to achieving by October 1, 2002, the interoperability and portability required under paragraph (2);
+          (ii) demonstrates that the best interest of the supplemental nutrition assistance program would be served by granting the waiver with respect to the electronic benefit transfer system used by the State agency to administer the supplemental nutrition assistance program; and
+          (iii) specifies a date by which the State agency will achieve the interoperability and portability required under paragraph (2).
+        (C) Smart card systems
+           The Secretary shall allow a State agency that is using smart cards for the delivery of supplemental nutrition assistance program benefits to comply with the requirements of paragraph (2) at such time after October 1, 2002, as the Secretary determines that a practicable technological method is available for interoperability with electronic benefit transfer cards.
+      (6) Funding
+        (A) In general
+           In accordance with regulations promulgated by the Secretary, the Secretary shall pay 100 percent of the costs incurred by a State agency under this chapter for switching and settling interstate transactions–
+          (i) incurred after February 11, 2000, and before October 1, 2002, if the State agency uses the standard of interoperability and portability adopted by a majority of State agencies; and
+          (ii) incurred after September 30, 2002, if the State agency uses the uniform national standard of interoperability and portability adopted under paragraph (4)(A).
+        (B) Limitation
+           The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.

@@ -1,5 +1,20 @@
-  (a) Loans for private business enterprises; pollution abatement and control; aquaculture; solar energy; loan guarantees
-     The Secretary may also make and insure loans to public, private, or cooperative organizations organized for profit or nonprofit, to Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, or to individuals for the purposes of (1) improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural communities, including pollution abatement and control, (2) the conservation, development, and use of water for aquaculture purposes in rural areas, (3) reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation), including the modification of existing systems, in rural areas, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade. For the purposes of this subsection, the term ””solar energy““ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended [42 U.S.C. 5901 et seq.]. Such loans, when originated, held, and serviced by other lenders, may be guaranteed by the Secretary under this section without regard to paragraphs (1) and (4) of section 1983 of this title. As used in this subsection, the term ””aquaculture““ means the culture or husbandry of aquatic animals or plants by private industry for commercial purposes including the culture and growing of fish by private industry for the purpose of creating or augmenting publicly owned and regulated stocks of fish. No loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
+  (a) Loans to private business enterprises
+    (1) Definitions
+       In this subsection:
+      (A) Aquaculture
+         The term ””aquaculture““ means the culture or husbandry of aquatic animals or plants by private industry for commercial purposes including the culture and growing of fish by private industry for the purpose of creating or augmenting publicly owned and regulated stocks of fish.
+      (B) Solar energy
+         The term ””solar energy““ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended [42 U.S.C. 5901 et seq.].
+    (2) Loan purposes
+       The Secretary may make and insure loans to public, private, or cooperative organizations organized for profit or nonprofit and private investment funds that invest primarily in cooperative organizations, to Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, or to individuals for the purposes of–
+      (A) improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural communities, including pollution abatement and control;
+      (B) the conservation, development, and use of water for aquaculture purposes in rural areas;
+      (C) reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation), including the modification of existing systems, in rural areas; and
+      (D) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade.
+    (3) Loan guarantees
+       Loans described in paragraph (2), when originated, held, and serviced by other lenders, may be guaranteed by the Secretary under this section without regard to paragraphs (1) and (4) of section 1983 of this title.
+    (4) Maximum amount of principal
+       No loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
   (b) Solid waste management grants
      The Secretary may make grants to nonprofit organizations for the provision of regional technical assistance to local and regional governments and related agencies for the purpose of reducing or eliminating pollution of water resources and improving the planning and management of solid waste disposal facilities. Grants made under this paragraph for the provision of technical assistance shall be made for 100 percent of the cost of such assistance.
   (c) Rural business enterprise grants
@@ -22,7 +37,7 @@
   (d) Joint loans or grants for private business enterprises; restrictions; system of certification for expeditious processing of requests for assistance; prior approval of grant or loan; equity investment as condition for loan commitment; issuance of certificates of beneficial ownership of notes
     (1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) of this section for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) of this section for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
     (2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
-    (3) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, which is calculated to or likely to result in an increase in the production of goods, materials, or commodities, or the availability of services or facilities in the area, when there is not sufficient demand for such goods, materials, commodities, services or facilities, to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
+    (3) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, which is calculated to or likely to result in an increase in the production of goods, materials, or commodities, or the availability of services or facilities in the area, when there is not sufficient demand for such goods, materials, commodities, services, or facilities, to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
     (4) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, if the Secretary of Labor certifies within 30 days after the matter has been submitted to him by the Secretary of Agriculture that the provisions of paragraphs (2) and (3) of this subsection have not been complied with. The Secretary of Labor shall, in cooperation with the Secretary of Agriculture, develop a system of certification which will insure the expeditious processing of requests for assistance under this section.
     (5) No grant or loan authorized to be made under this chapter shall require or be subject to the prior approval of any officer, employee, or agency of any State.
     (6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
@@ -35,7 +50,7 @@
       (B) United States
          The term ””United States““ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the other territories and possessions of the United States.
     (2) Grants
-       The Secretary shall make grants, effective October 1, 1996, under this subsection to nonprofit institutions for the purpose of enabling the institutions to establish and operate centers for rural cooperative development.
+       The Secretary shall make grants effective October 1, 1996, under this subsection to nonprofit institutions for the purpose of enabling the institutions to establish and operate centers for rural cooperative development.
     (3) Goals
        The goals of a center funded under this subsection shall be to facilitate the creation of jobs in rural areas through the development of new rural cooperatives, value added processing, and rural businesses.
     (4) Application
@@ -57,30 +72,49 @@
         (ii) accounting for money received by the institution under this section.
     (5) Awarding grants
        Grants made under paragraph (2) shall be made on a competitive basis. In making grants under paragraph (2), the Secretary shall give preference to grant applications providing for the establishment of centers for rural cooperative development that–
-      (A) demonstrate a proven track record in administering a nationally coordinated, regionally or State-wide operated project;
-      (B) demonstrate previous expertise in providing technical assistance in rural areas;
+      (A) demonstrate a proven track record in carrying out activities to promote and assist the development of cooperatively and mutually owned businesses;
+      (B) demonstrate previous expertise in providing technical assistance in rural areas to promote and assist the development of cooperatively and mutually owned businesses;
       (C) demonstrate the ability to assist in the retention of businesses, facilitate the establishment of cooperatives and new cooperative approaches, and generate employment opportunities that will improve the economic conditions of rural areas;
-      (D) demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;
-      (E) commit to providing technical assistance and other services to underserved and economically distressed areas in rural areas of the United States; and
-      (F) commit to providing greater than a 25 percent matching contribution with private funds and in-kind contributions, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)).
-    (6) 1-year grants; authority to approve grant for 1 additional year without application
-       The Secretary shall make grants under this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant.
-    (7) Technical assistance to prevent excessive unemployment or underemployment
+      (D) commit to providing technical assistance and other services to underserved and economically distressed areas in rural areas of the United States;
+      (E) demonstrate a commitment to–
+        (i) networking with and sharing the results of the efforts of the center with other cooperative development centers and other organizations involved in rural economic development efforts; and
+        (ii) developing multiorganization and multistate approaches to addressing the economic development and cooperative needs of rural areas; and
+      (F) commit to providing a 25 percent matching contribution with private funds and in-kind contributions, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)).
+    (6) Grant period
+      (A) In general
+         A grant awarded to a center that has received no prior funding under this subsection shall be made for a period of 1 year.
+      (B) Multiyear grants
+         If the Secretary determines it to be in the best interest of the program, the Secretary shall award grants for a period of more than 1 year, but not more than 3 years, to a center that has successfully met the parameters described in paragraph (5), as determined by the Secretary.
+    (7) Authority to extend grant period
+       The Secretary may extend for 1 additional 12-month period the period in which a grantee may use a grant made under this subsection.
+    (8) Technical assistance to prevent excessive unemployment or underemployment
        In carrying out this subsection, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment, underemployment, outmigration, or low employment growth in economically distressed rural areas that the Secretary determines have a substantial need for the assistance. The assistance may include planning and feasibility studies, management and operational assistance, and studies evaluating the need for development potential of projects that increase employment and improve economic growth in the areas.
-    (8) Grants to defray administrative costs
+    (9) Grants to defray administrative costs
        The Secretary may make grants to defray not to exceed 75 percent of the costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under this subsection. For purposes of determining the non-Federal share of the costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including premises, equipment, and services.
-    (9) Authorization of appropriations
-       There are authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 1996 through 2007.
+    (10) Cooperative research program
+       The Secretary shall enter into a cooperative research agreement with 1 or more qualified academic institutions in each fiscal year to conduct research on the effects of all types of cooperatives on the national economy.
+    (11) Addressing needs of minority communities
+      (A) Definition of socially disadvantaged group
+         In this paragraph, the term ””socially disadvantaged group““ has the meaning given the term in section 2003(e) of this title.
+      (B) Reservation of funds
+        (i) In general
+           If the total amount appropriated under paragraph (12) for a fiscal year exceeds $7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives–
+          (I) that serve socially disadvantaged groups; and
+          (II) a majority of the boards of directors or governing boards of which are comprised of individuals who are members of socially disadvantaged groups.
+        (ii) Insufficient applications
+           To the extent there are insufficient applications to carry out clause (i), the Secretary shall use the funds as otherwise authorized by this subsection.
+    (12) Authorization of appropriations
+       There are authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2008 through 2012.
   (f) Grants to broadcasting systems
     (1) ””Statewide““ defined
        In this subsection, the term ””statewide““ means having a coverage area of not less than 90 percent of the population of a State and not less than 80 percent of the rural land area of the State (as determined by the Secretary).
     (2) Grants
        The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures, start-up and program costs, and other costs necessary to the operation of such demonstrations.
     (3) Authorization of appropriations
-       There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2002 through 2007.
+       There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
   (g) Business and industry direct and guaranteed loans
     (1) Definition of business and industry loan
-       In this subsection, the term ””business and industry loan““ means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(1) of this section.
+       In this subsection, the term ””business and industry loan““ means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A) of this section, including guarantees described in paragraph (3)(A)(ii).
     (2) Loan guarantees for the purchase of cooperative stock
       (A) In general
          The Secretary may guarantee a business and industry loan to individual farmers or ranchers for the purpose of purchasing capital stock of a farmer or rancher cooperative established for the purpose of processing an agricultural commodity.
@@ -89,8 +123,11 @@
       (C) Financial information
          Financial information required by the Secretary from a farmer or rancher as a condition of making a business and industry loan guarantee under this paragraph shall be provided in the manner generally required by commercial agricultural lenders in the area.
     (3) Loans to cooperatives
-      (A) In general
-         The Secretary may make or guarantee a business and industry loan to a cooperative organization that is headquartered in a metropolitan area if the loan is used for a project or venture described in subsection (a) of this section that is located in a rural area or a loan guarantee that meets the requirements of paragraph (6).
+      (A) Eligibility
+        (i) In general
+           The Secretary may make or guarantee a business and industry loan to a cooperative organization that is headquartered in a metropolitan area if the loan is used for a project or venture described in subsection (a) of this section that is located in a rural area or a loan guarantee that meets the requirements of paragraph (6).
+        (ii) Equity
+           The Secretary may guarantee a loan made for the purchase of preferred stock or similar equity issued by a cooperative organization or a fund that invests primarily in cooperative organizations, if the guarantee significantly benefits 1 or more entities eligible for assistance for the purposes described in subsection (a)(1), as determined by the Secretary.
       (B) Refinancing
          A cooperative organization that is eligible for a business and industry loan shall be eligible to refinance an existing business and industry loan with a lender if–
         (i) the cooperative organization–
@@ -106,7 +143,7 @@
          The Secretary may guarantee a business and industry loan to a cooperative organization for a facility that is not located in a rural area if–
         (i) the primary purpose of the loan guarantee is for a facility to provide value-added processing for agricultural producers that are located within 80 miles of the facility;
         (ii) the applicant demonstrates to the Secretary that the primary benefit of the loan guarantee will be to provide employment for residents of a rural area; and
-        (iii) the total amount of business and industry loans guaranteed for a fiscal year under this paragraph does not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(1) of this section.
+        (iii) the total amount of business and industry loans guaranteed for a fiscal year under this paragraph does not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A) of this section.
       (B) Principal amounts
          The principal amount of a business and industry loan guaranteed under this paragraph may not exceed $25,000,000.
     (7) Intangible assets
@@ -116,14 +153,65 @@
         (i) In general
            Subject to clause (ii), the principal amount of a business and industry loan made to a cooperative organization and guaranteed under this subsection shall not exceed $40,000,000.
         (ii) Use
-           To be eligible for a guarantee under this subsection for a business and industry loan made to a cooperative organization, the principal amount of the any such loan in excess of $25,000,000 shall be used to carry out a project–
-          (I) in a rural area; and
-          (II) that provides for the value-added processing of agricultural commodities.
+           To be eligible for a guarantee under this subsection for a business and industry loan made to a cooperative organization, the principal amount of the any such loan in excess of $25,000,000 shall be used to carry out a project that–
+          (I)            (aa) is in a rural area; and
+            (bb) provides for the value-added processing of agricultural commodities; or
+          (II) significantly benefits 1 or more entities eligible for assistance for the purposes described in subsection (a)(1), as determined by the Secretary.
       (B) Applications
          If a cooperative organization submits an application for a guarantee under this subsection of a business and industry loan with a principal amount that is in excess of $25,000,000, the Secretary–
         (i) shall review and, if appropriate, approve the application; and
         (ii) may not delegate the approval authority.
       (C) Maximum amount
-         The total amount of business and industry loans made to cooperative organizations and guaranteed for a fiscal year under this subsection with principal amounts that are in excess of $25,000,000 may not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(1) of this section.
+         The total amount of business and industry loans made to cooperative organizations and guaranteed for a fiscal year under this subsection with principal amounts that are in excess of $25,000,000 may not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A) of this section.
+    (9) Locally or regionally produced agricultural food products
+      (A) Definitions
+         In this paragraph:
+        (i) Locally or regionally produced agricultural food product
+           The term ””locally or regionally produced agricultural food product““ means any agricultural food product that is raised, produced, and distributed in–
+          (I) the locality or region in which the final product is marketed, so that the total distance that the product is transported is less than 400 miles from the origin of the product; or
+          (II) the State in which the product is produced.
+        (ii) Underserved community
+           The term ””underserved community““ means a community (including an urban or rural community and an Indian tribal community) that has, as determined by the Secretary–
+          (I) limited access to affordable, healthy foods, including fresh fruits and vegetables, in grocery retail stores or farmer-to-consumer direct markets; and
+          (II) a high rate of hunger or food insecurity or a high poverty rate.
+      (B) Loan and loan guarantee program
+        (i) In general
+           The Secretary shall make or guarantee loans to individuals, cooperatives, cooperative organizations, businesses, and other entities to establish and facilitate enterprises that process, distribute, aggregate, store, and market locally or regionally produced agricultural food products to support community development and farm and ranch income.
+        (ii) Requirement
+           The recipient of a loan or loan guarantee under clause (i) shall include in an appropriate agreement with retail and institutional facilities to which the recipient sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
+        (iii) Priority
+           In making or guaranteeing a loan under clause (i), the Secretary shall give priority to projects that have components benefitting underserved communities.
+        (iv) Reports
+           Not later than 2 years after the date of enactment of this paragraph and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes projects carried out using loans or loan guarantees made under clause (i), including–
+          (I) the characteristics of the communities served; and
+          (II) resulting benefits.
+        (v) Reservation of funds
+          (I) In general
+             For each of fiscal years 2008 through 2012, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
+          (II) Availability of funds
+             Funds reserved under subclause (I) for a fiscal year shall be reserved until April 1 of the fiscal year.
   (h) Loan guarantees for certain loans
      The Secretary may guarantee loans made under subsection (a) of this section to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
+    (i) Appropriate technology transfer for rural areas program
+      (1) Definition of national nonprofit agricultural assistance institution
+         In this subsection, the term ””national nonprofit agricultural assistance institution““ means an organization that–
+        (A) is described in section 501(c)(3) of title 26 and exempt from taxation under \2\N 501(a) of that title;
+        (B) has staff and offices in multiple regions of the United States;
+        (C) has experience and expertise in operating national agriculture technical assistance programs;
+        (D) expands markets for the agricultural commodities produced by producers through the use of practices that enhance the environment, natural resource base, and quality of life; and
+        (E) improves the economic viability of agricultural operations.
+      (2) Establishment
+         The Secretary shall establish a national appropriate technology transfer for rural areas program to assist agricultural producers that are seeking information to–
+        (A) reduce input costs;
+        (B) conserve energy resources;
+        (C) diversify operations through new energy crops and energy generation facilities; and
+        (D) expand markets for agricultural commodities produced by the producers by using practices that enhance the environment, natural resource base, and quality of life.
+      (3) Implementation
+        (A) In general
+           The Secretary shall carry out the program under this subsection by making a grant to, or offering to enter into a cooperative agreement with, a national nonprofit agricultural assistance institution.
+        (B) Grant amount
+           A grant made, or cooperative agreement entered into, under subparagraph (A) shall provide 100 percent of the cost of providing information described in paragraph (2).
+      (4) Authorization of appropriations
+         There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
+    (j) Rural economic area partnership zones
+       Effective beginning on the date of enactment of this subsection through September 30, 2012, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.

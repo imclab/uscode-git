@@ -16,7 +16,7 @@
         (i) organized according to farm products;
         (ii) arranged within each such product–
           (I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
-          (II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors; and
+          (II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
           (III) geographically by county or parish; and
           (IV) by crop year;
         (iii) containing the information referred to in paragraph (4)(D);
@@ -24,8 +24,14 @@
         (i) the name and address of each buyer, commission merchant and selling agent;
         (ii) the interest of each buyer, commission merchant, and selling agent in receiving the lists described in subparagraph (E); and
         (iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
-      (E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph \1\N (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
-      (F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section \2\N oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
+      (E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in subparagraph (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest except that–
+        (i) the distribution of the portion of the master list may be in electronic, written, or printed form; and
+        (ii) if social security or taxpayer identification numbers on the master list are encrypted, the Secretary of State may distribute the master list only–
+          (I) by compact disc or other electronic media that contains–
+            (aa) the recorded list of debtor names; and
+            (bb) an encryption program that enables the buyer, commission merchant, and selling agent to enter a social security number for matching against the recorded list of encrypted social security or taxpayer identification numbers; and
+          (II) on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
+      (F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section \1\N oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
     (3) The term ””commission merchant““ means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
     (4) The term ””effective financing statement““ means a statement that–
       (A) is an original or reproduced copy of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
@@ -40,14 +46,14 @@
       (F) lapses on either the expiration of the effective period of the statement or the filing of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first;
       (G) is accompanied by the requisite filing fee set by the Secretary of State; and
       (H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
-    (5) \3\N The term ””farm product““ means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
+    (5) \2\N The term ””farm product““ means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
     (6) The term ””knows““ or ””knowledge““ means actual knowledge.
     (7) The term ””security interest““ means an interest in farm products that secures payment or performance of an obligation.
     (8) The term ””selling agent““ means any person, other than a commission merchant, who is engaged in the business of negotiating the sale and purchase of any farm product on behalf of a person engaged in farming operations.
     (9) The term ””State““ means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
     (10) The term ””person““ means any individual, partnership, corporation, trust, or any other business entity.
     (11) The term ””Secretary of State““ means the Secretary of State or the designee of the State.
-  (5) \4\N The term ””approved unique identifier““ means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
+  (5) \3\N The term ””approved unique identifier““ means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
   (d) Purchases free of security interest
      Except as provided in subsection (e) of this section and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
   (e) Purchases subject to security interest

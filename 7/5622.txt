@@ -1,27 +1,44 @@
-  (a) Short-term program
-     To promote the sale of agricultural commodities, the Commodity Credit Corporation may finance the commercial export sale of such commodities from privately owned stocks on credit terms for not to exceed a 3-year period.
-  (b) Intermediate-term program
-     Subject to subsection (c) of this section, to promote the sale of agricultural commodities the Commodity Credit Corporation may finance the commercial export sales of agricultural commodities from privately owned stocks on credit terms for a period of not less than 3 years nor in excess of 10 years in a manner that will directly benefit United States agricultural producers.
-  (c) Determinations
-     The Commodity Credit Corporation shall not finance an export sale under subsection (b) of this section unless the Secretary determines that such sale will–
-    (1) develop, expand, or maintain the importing country as a foreign market, on a long-term basis, for the commercial sale and export of United States agricultural commodities, without displacing normal commercial sales;
-    (2) improve the capability of the importing country to purchase and use, on a long-term basis, United States agricultural commodities; or
-    (3) otherwise promote the export of United States agricultural commodities.
-       The reference in paragraphs (1) and (2) to ””on a long-term basis““ shall not apply in the case of determinations with respect to sales to the independent states of the former Soviet Union.
-  (d) Use of program
-    (1) General uses
-       The Commodity Credit Corporation may use export sales financing authorized under this section–
-      (A) to increase exports of agricultural commodities;
-      (B) to compete against foreign agricultural exports;
-      (C) to assist countries in meeting their food and fiber needs, particularly–
-        (i) developing countries; and
-        (ii) countries that are emerging markets that have committed to carry out, or are carrying out, policies that promote economic freedom, private domestic production of food commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of agricultural commodities; and
-      (D) for such other purposes as the Secretary determines appropriate consistent with the provisions of subsection (c) of this section.
-    (2) General restrictions
-       Export sales financing authorized under this section shall not be used for foreign aid, foreign policy, or debt rescheduling purposes. The provisions of the cargo preference laws shall not apply to export sales financed under this section.
-  (e) Terms of credit assistance
-     Any contract for the financing of exports by the Commodity Credit Corporation under this section shall include–
-    (1) a requirement that repayment shall be made in dollars with interest accruing thereon as determined appropriate by the Secretary; and
-    (2) a requirement, if the Secretary determines such requirement appropriate to protect the interests of the United States, that an initial payment be made by the purchaser at the time of sale or shipment of the agricultural commodity that is subject to the contract.
-  (f) Restrictions
-     The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales of an agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+  (a) Short-term credit guarantees
+     The Commodity Credit Corporation may guarantee the repayment of credit made available to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
+  (b) Purpose of program
+     The Commodity Credit Corporation may use export credit guarantees authorized under this section–
+    (1) to increase exports of agricultural commodities;
+    (2) to compete against foreign agricultural exports;
+    (3) to assist countries in meeting their food and fiber needs, particularly–
+      (A) developing countries; and
+      (B) countries that are emerging markets that have committed to carry out, or are carrying out, policies that promote economic freedom, private domestic production of food commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of agricultural commodities; and
+    (4) for such other purposes as the Secretary determines appropriate.
+  (c) Restrictions on use of credit guarantees
+     Export credit guarantees authorized by this section shall not be used for foreign aid, foreign policy, or debt rescheduling purposes. The provisions of the cargo preference laws shall not apply to export sales with respect to which credit is guaranteed under this section.
+  (d) Restrictions
+     The Commodity Credit Corporation shall not make credit guarantees available in connection with sales of agricultural commodities to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+  (e) Terms
+     Export credit guarantees issued pursuant to this section shall contain such terms and conditions as the Commodity Credit Corporation determines to be necessary.
+  (f) United States agricultural commodities
+     The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities.
+  (g) Ineligibility of financial institutions
+    (1) In general
+       A financial institution shall be ineligible to receive an assignment of a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that such financial institution–
+      (A) is the financial institution issuing the letter of credit or a subsidiary of such institution; or
+      (B) is owned or controlled by an entity that owns or controls that financial institution issuing the letter of credit.
+    (2) Third country banks
+       The Commodity Credit Corporation may guarantee under subsection (a) of this section the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
+  (h) Conditions for fish and processed fish products
+     In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
+    (i) Processed and high-value products
+      (1) In general
+         In issuing export credit guarantees under this section, the Commodity Credit Corporation shall, subject to paragraph (2), ensure that not less than 25 percent for each of fiscal years 1996 and 1997, 30 percent for each of fiscal years 1998 and 1999, and 35 percent for each of fiscal years 2000 through 2007, of the total amount of credit guarantees issued for a fiscal year is issued to promote the export of processed or high-value agricultural products and that the balance is issued to promote the export of bulk or raw agricultural commodities.
+      (2) Limitation
+         The percentage requirement of paragraph (1) shall apply for a fiscal year to the extent that a reduction in the total amount of credit guarantees issued for the fiscal year is not required to meet the percentage requirement.
+    (j) Consultation on agricultural export credit programs
+       The Secretary and the United States Trade Representative shall consult on a regular basis with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of multilateral negotiations regarding agricultural export credit programs.
+    (k) Administration
+      (1) Definition of long term
+         In this subsection, the term ””long term““ means a period of 10 or more years.
+      (2) Guarantees
+         In administering the export credit guarantees authorized under this section, the Secretary shall–
+        (A) maximize the export sales of agricultural commodities;
+        (B) maximize the export credit guarantees that are made available and used during the course of a fiscal year;
+        (C) develop an approach to risk evaluation that facilitates accurate country risk designations and timely adjustments to the designations (on an ongoing basis) in response to material changes in country risk conditions, with ongoing opportunity for input and evaluation from the private sector;
+        (D) adjust risk-based guarantees as necessary to ensure program effectiveness and United States competitiveness; and
+        (E) work with industry to ensure, to the maximum extent practicable, that risk-based fees associated with the guarantees cover, but do not exceed, the operating costs and losses over the long term.

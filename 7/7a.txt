@@ -51,21 +51,23 @@
        The board of trade shall monitor and enforce the rules of the facility, including any terms and conditions of any contracts traded on or through the facility and any limitations on access to the facility.
     (3) Monitoring of trading
        The board of trade shall monitor trading in the contracts of the facility to ensure orderly trading in the contract and to maintain an orderly market while providing any necessary trading information to the Commission to allow the Commission to discharge the responsibilities of the Commission under the \1\N chapter.
-    (4) Disclosure of general information
+    (4) Position limitations or accountability
+       To reduce the potential threat of market manipulation or congestion, especially during trading in the delivery month, the derivatives transaction execution facility shall adopt position limits or position accountability for speculators, where necessary and appropriate for a contract, agreement or transaction with an underlying commodity that has a physically deliverable supply.
+    (5) Disclosure of general information
        The board of trade shall disclose publicly and to the Commission information concerning–
       (A) contract terms and conditions;
       (B) trading conventions, mechanisms, and practices;
       (C) financial integrity protections; and
       (D) other information relevant to participation in trading on the facility.
-    (5) Daily publication of trading information
+    (6) Daily publication of trading information
        The board of trade shall make public daily information on settlement prices, volume, open interest, and opening and closing ranges for contracts traded on the facility if the Commission determines that the contracts perform a significant price discovery function for transactions in the cash market for the commodity underlying the contracts.
-    (6) Fitness standards
+    (7) Fitness standards
        The board of trade shall establish and enforce appropriate fitness standards for directors, members of any disciplinary committee, members, and any other persons with direct access to the facility, including any parties affiliated with any of the persons described in this paragraph.
-    (7) Conflicts of interest
+    (8) Conflicts of interest
        The board of trade shall establish and enforce rules to minimize conflicts of interest in the decision making process of the derivatives transaction execution facility and establish a process for resolving such conflicts of interest.
-    (8) Recordkeeping
+    (9) Recordkeeping
        The board of trade shall maintain records of all activities related to the business of the derivatives transaction execution facility in a form and manner acceptable to the Commission for a period of 5 years.
-    (9) Antitrust considerations
+    (10) Antitrust considerations
        Unless necessary or appropriate to achieve the purposes of this chapter, the board of trade shall endeavor to avoid–
       (A) adopting any rules or taking any actions that result in any unreasonable restraint of trade; or
       (B) imposing any material anticompetitive burden on trading on the derivatives transaction execution facility.

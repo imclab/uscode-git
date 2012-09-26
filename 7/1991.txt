@@ -38,17 +38,39 @@
         (i) consolidation, rescheduling, reamortization, or deferral of a loan; or
         (ii) any write-down provided as part of a resolution of a discrimination complaint against the Secretary.
     (13) T4Rural and rural area.–
-      (A) T4In generalK.–Except as otherwise provided in this paragraph, the terms ””rural““ and ””rural area““ mean any area other than–
+      (A) T4In generalK.–Subject to subparagraphs (B) through (G), the terms ””rural““ and ””rural area““ mean any area other than–
         (i) a city or town that has a population of greater than 50,000 inhabitants; and
-        (ii) the urbanized area contiguous and adjacent to such a city or town.
+        (ii) any urbanized area contiguous and adjacent to a city or town described in clause (i).
       (B) T4Water and waste disposal grants and direct and guaranteed loansK.–For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms ””rural““ and ””rural area““ mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
-      (C) T4Community facility loans and grantsK.–For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms ””rural““ and ””rural area““ mean a city, town, or unincorporated area that has a population of not more than 20,000 inhabitants.
-      (D) T4Multijurisdictional regional planning organizations; national rural development partnershipK.–In sections 1926(a)(23) and 2008m of this title, the term ””rural area““ means–
-        (i) all the territory of a State that is not within the boundary of any standard metropolitan statistical area; and
-        (ii) all territory within any standard metropolitan statistical area within a census tract having a population density of less than 20 persons per square mile, as determined by the Secretary according to the most recent census of the United States as of any date.
-      (E) T4Rural business investment programK.–In subchapter VIII of this chapter, the term ””rural area““ means an area that is located–
-        (i) outside a standard metropolitan statistical area; or
-        (ii) within a community that has a population of 50,000 inhabitants or less.
+      (C) T4Community facility loans and grantsK.–For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms ””rural““ and ””rural area““ mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
+      (D) T4Areas rural in character.–
+        (i) T4ApplicationK.–This subparagraph applies to–
+          (I) an urbanized area described in subparagraphs (A)(ii) and (F) that–
+            (aa) has 2 points on its boundary that are at least 40 miles apart; and
+            (bb) is not contiguous or adjacent to a city or town that has a population of greater than 150,000 inhabitants or an urbanized area of such city or town; and
+          (II) an area within an urbanized area described in subparagraphs (A)(ii) and (F) that is within \1/4\-mile of a rural area described in subparagraph (A).
+        (ii) T4DeterminationK.–Notwithstanding any other provision of this paragraph, on the petition of a unit of local government in an area described in clause (i) or on the initiative of the Under Secretary for Rural Development, the Under Secretary may determine that a part of an area described in clause (i) is a rural area for the purposes of this paragraph, if the Under Secretary finds that the part is rural in character, as determined by the Under Secretary.
+        (iii) T4AdministrationK.–In carrying out this subparagraph, the Under Secretary for Rural Development shall–
+          (I) not delegate the authority to carry out this subparagraph;
+          (II) consult with the applicable rural development State or regional director of the Department of Agriculture and the governor of the respective State;
+          (III) provide to the petitioner an opportunity to appeal to the Under Secretary a determination made under this subparagraph;
+          (IV) release to the public notice of a petition filed or initiative of the Under Secretary under this subparagraph not later than 30 days after receipt of the petition or the commencement of the initiative, as appropriate;
+          (V) make a determination under this subparagraph not less than 15 days, and not more than 60 days, after the release of the notice under subclause (IV);
+          (VI) submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on actions taken to carry out this subparagraph; and
+          (VII) terminate a determination under this subparagraph that part of an area is a rural area on the date that data is available for the next decennial census conducted under section 141(a) of title 13.
+      (E) T4ExclusionsK.–Notwithstanding any other provision of this paragraph, in determining which census blocks in an urbanized area are not in a rural area (as defined in this paragraph), the Secretary shall exclude any cluster of census blocks that would otherwise be considered not in a rural area only because the cluster is adjacent to not more than 2 census blocks that are otherwise considered not in a rural area under this paragraph.
+      (F) T4Urban area growth.–
+        (i) T4ApplicationK.–This subparagraph applies to–
+          (I) any area that–
+            (aa) is a collection of census blocks that are contiguous to each other;
+            (bb) has a housing density that the Secretary estimates is greater than 200 housing units per square mile; and
+            (cc) is contiguous or adjacent to an existing boundary of a rural area; and
+          (II) any urbanized area contiguous and adjacent to a city or town described in subparagraph (A)(i).
+        (ii) T4AdjustmentsK.–The Secretary may, by regulation only, consider–
+          (I) an area described in clause (i)(I) not to be a rural area for purposes of subparagraphs (A) and (C); and
+          (II) an area described in clause (i)(II) not to be a rural area for purposes of subparagraph (C).
+        (iii) T4AppealsK.–A program applicant may appeal an estimate made under clause (i)(I) based on appropriate data for an area, as determined by the Secretary.
+      (G) T4Hawaii and puerto ricoK.–Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
   (b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
     (1) The term ””borrower““ means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
     (2) The term ””loan service program““ means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
