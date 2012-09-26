@@ -44,6 +44,38 @@
       (C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
       (D) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term ””year of participation““ shall be such period as determined under regulations prescribed by the Secretary.
       (E) For purposes of this subsection in the case of any maritime industry, 125 days of service shall be treated as a year of participation. The Secretary may prescribe regulations to carry out the purposes of this subparagraph.
+    (5) T4Special rules relating to age.–
+      (A) T4Comparison to similarly situated younger individual.–
+        (i) T4In generalK.–A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) if a participant“s accrued benefit, as determined as of any date under the terms of the plan, would be equal to or greater than that of any similarly situated, younger individual who is or could be a participant.
+        (ii) T4Similarly situatedK.–For purposes of this subparagraph, a participant is similarly situated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
+        (iii) T4Disregard of subsidized early retirement benefitsK.–In determining the accrued benefit as of any date for purposes of this clause, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
+        (iv) T4Accrued benefitK.–For purposes of this subparagraph, the accrued benefit may, under the terms of the plan, be expressed as an annuity payable at normal retirement age, the balance of a hypothetical account, or the current value of the accumulated percentage of the employee“s final average compensation.
+      (B) T4Applicable defined benefit plans.–
+        (i) T4Interest credits.–
+          (I) T4In generalK.–An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
+          (II) T4Preservation of capitalK.–An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
+          (III) T4Market rate of returnK.–The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I).
+        (ii) T4Special rule for plan conversionsK.–If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
+        (iii) T4Rate of benefit accrualK.–Subject to clause (iv), the requirements of this clause are met with respect to any participant if the accrued benefit of the participant under the terms of the plan as in effect after the amendment is not less than the sum of–
+          (I) the participant“s accrued benefit for years of service before the effective date of the amendment, determined under the terms of the plan as in effect before the amendment, plus
+          (II) the participant“s accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
+        (iv) T4Special rules for early retirement subsidiesK.–For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount \1\N with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+        (v) T4Applicable plan amendmentK.–For purposes of this subparagraph–
+          (I) T4In generalK.–The term ””applicable plan amendment““ means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
+          (II) T4Special rule for coordinated benefitsK.–If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
+          (III) T4Multiple amendmentsK.–The Secretary of the Treasury shall issue regulations to prevent the avoidance of the purposes of this subparagraph through the use of 2 or more plan amendments rather than a single amendment.
+          (IV) T4Applicable defined benefit planK.–For purposes of this subparagraph, the term ””applicable defined benefit plan““ has the meaning given such term by section 1053(f)(3) of this title.
+        (vi) T4Termination requirementsK.–An applicable defined benefit plan shall not be treated as meeting the requirements of clause (i) unless the plan provides that, upon the termination of the plan–
+          (I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
+          (II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
+      (C) T4Certain offsets permittedK.–A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) solely because the plan provides offsets against benefits under the plan to the extent such offsets are allowable in applying the requirements of section 401(a) of title 26.
+      (D) T4Permitted disparities in plan contributions or benefitsK.–A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(T3lK) of title 26 are met.
+      (E) T4Indexing permitted.–
+        (i) T4In generalK.–A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides for indexing of accrued benefits under the plan.
+        (ii) T4Protection against lossK.–Except in the case of any benefit provided in the form of a variable annuity, clause (i) shall not apply with respect to any indexing which results in an accrued benefit less than the accrued benefit determined without regard to such indexing.
+        (iii) T4IndexingK.–For purposes of this subparagraph, the term ””indexing““ means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
+      (F) T4Early retirement benefit or retirement-type subsidyK.–For purposes of this paragraph, the terms ””early retirement benefit““ and ””retirement-type subsidy““ have the meaning given such terms in subsection (g)(2)(A).
+      (G) T4Benefit accrued to dateK.–For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
   (c) Employee“s accrued benefits derived from employer and employee contributions
     (1) For purposes of this section and section 1053 of this title an employee“s accrued benefit derived from employer contributions as of any applicable date is the excess (if any) of the accrued benefit for such employee as of such applicable date over the accrued benefit derived from contributions made by such employee as of such date.
     (2)      (A) In the case of a plan other than a defined benefit plan, the accrued benefit derived from contributions made by an employee as of any applicable date is–
@@ -131,5 +163,79 @@
           (D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
         (3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funded current liability percentage (within the meaning of section 1082(d)(8) of this title) is less than 100 percent after taking into account the effect of the amendment.
         (4) For purposes of this subsection, the term ””employer““ has the meaning set forth in section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title.
-      (j) Cross reference
+      (j) Diversification requirements for certain individual account plans
+        (1) In general
+           An applicable individual account plan shall meet the diversification requirements of paragraphs (2), (3), and (4).
+        (2) Employee contributions and elective deferrals invested in employer securities
+           In the case of the portion of an applicable individual“s account attributable to employee contributions and elective deferrals which is invested in employer securities, a plan meets the requirements of this paragraph if the applicable individual may elect to direct the plan to divest any such securities and to reinvest an equivalent amount in other investment options meeting the requirements of paragraph (4).
+        (3) Employer contributions invested in employer securities
+           In the case of the portion of the account attributable to employer contributions other than elective deferrals which is invested in employer securities, a plan meets the requirements of this paragraph if each applicable individual who–
+          (A) is a participant who has completed at least 3 years of service, or
+          (B) is a beneficiary of a participant described in subparagraph (A) or of a deceased participant,
+           may elect to direct the plan to divest any such securities and to reinvest an equivalent amount in other investment options meeting the requirements of paragraph (4).
+        (4) Investment options
+          (A) In general
+             The requirements of this paragraph are met if the plan offers not less than 3 investment options, other than employer securities, to which an applicable individual may direct the proceeds from the divestment of employer securities pursuant to this subsection, each of which is diversified and has materially different risk and return characteristics.
+          (B) Treatment of certain restrictions and conditions
+            (i) Time for making investment choices
+               A plan shall not be treated as failing to meet the requirements of this paragraph merely because the plan limits the time for divestment and reinvestment to periodic, reasonable opportunities occurring no less frequently than quarterly.
+            (ii) Certain restrictions and conditions not allowed
+               Except as provided in regulations, a plan shall not meet the requirements of this paragraph if the plan imposes restrictions or conditions with respect to the investment of employer securities which are not imposed on the investment of other assets of the plan. This subparagraph shall not apply to any restrictions or conditions imposed by reason of the application of securities laws.
+        (5) Applicable individual account plan
+           For purposes of this subsection–
+          (A) In general
+             The term ””applicable individual account plan““ means any individual account plan (as defined in section 1002(34) of this title) which holds any publicly traded employer securities.
+          (B) Exception for certain ESOPS
+             Such term does not include an employee stock ownership plan if–
+            (i) there are no contributions to such plan (or earnings thereunder) which are held within such plan and are subject to subsection (k) or (m) of section 401 of title 26, and
+            (ii) such plan is a separate plan (for purposes of section 414(T3lK) of title 26) with respect to any other defined benefit plan or individual account plan maintained by the same employer or employers.
+          (C) Exception for one participant plans
+             Such term shall not include a one-participant retirement plan (as defined in section 1021(i)(8)(B) of this title).
+          (D) Certain plans treated as holding publicly traded employer securities
+            (i) In general
+               Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities if any employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
+            (ii) Exception for certain controlled groups with publicly traded securities
+               Clause (i) shall not apply to a plan if–
+              (I) no employer corporation, or parent corporation of an employer corporation, has issued any publicly traded employer security, and
+              (II) no employer corporation, or parent corporation of an employer corporation, has issued any special class of stock which grants particular rights to, or bears particular risks for, the holder or issuer with respect to any corporation described in clause (i) which has issued any publicly traded employer security.
+            (iii) Definitions
+               For purposes of this subparagraph, the term–
+              (I) ””controlled group of corporations““ has the meaning given such term by section 1563(a) of title 26, except that ””50 percent““ shall be substituted for ””80 percent““ each place it appears,
+              (II) ””employer corporation““ means a corporation which is an employer maintaining the plan, and
+              (III) ””parent corporation““ has the meaning given such term by section 424(e) of title 26.
+        (6) Other definitions
+           For purposes of this paragraph–
+          (A) Applicable individual
+             The term ””applicable individual““ means–
+            (i) any participant in the plan, and
+            (ii) any beneficiary who has an account under the plan with respect to which the beneficiary is entitled to exercise the rights of a participant.
+          (B) Elective deferral
+             The term ””elective deferral““ means an employer contribution described in section 402(g)(3)(A) of title 26.
+          (C) Employer security
+             The term ””employer security““ has the meaning given such term by section 1107(d)(1) of this title.
+          (D) Employee stock ownership plan
+             The term ””employee stock ownership plan““ has the meaning given such term by section 4975(e)(7) of title 26.
+          (E) Publicly traded employer securities
+             The term ””publicly traded employer securities““ means employer securities which are readily tradable on an established securities market.
+          (F) Year of service
+             The term ””year of service““ has the meaning given such term by section 1053(b)(2) of this title.
+        (7) Transition rule for securities attributable to employer contributions
+          (A) Rules phased in over 3 years
+            (i) In general
+               In the case of the portion of an account to which paragraph (3) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007, paragraph (3) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
+            (ii) Exception for certain participants aged 55 or over
+               Clause (i) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005.
+          (B) Applicable percentage
+             For purposes of subparagraph (A), the applicable percentage shall be determined as follows:
+             T2 Plan year to which
+             T2The applicable
+             T2  paragraph (3) applies:
+             T2percentage is:
+             1st
+             33     
+             2d
+             66     
+             3d
+             100.   
+      (k) Cross reference
          T2For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.

@@ -109,11 +109,8 @@
           (B) One-participant retirement plan
              For purposes of subparagraph (A), the term ””one-participant retirement plan““ means a retirement plan that–
             (i) on the first day of the plan year–
-              (I) covered only the employer (and the employer“s spouse) and the employer owned the entire business (whether or not incorporated), or
-              (II) covered only one or more partners (and their spouses) in a business partnership (including partners in an S or C corporation (as defined in section 1361(a) of title 26)),
-            (ii) meets the minimum coverage requirements of section 410(b) of title 26 (as in effect on July 30, 2002) without being combined with any other plan of the business that covers the employees of the business,
-            (iii) does not provide benefits to anyone except the employer (and the employer“s spouse) or the partners (and their spouses),
-            (iv) does not cover a business that is a member of an affiliated service group, a controlled group of corporations, or a group of businesses under common control, and
-            (v) does not cover a business that leases employees.
+              (I) covered only one individual (or the individual and the individual“s spouse) and the individual (or the individual and the individual“s spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
+              (II) covered only one or more partners (or partners and their spouses) in the plan sponsor, and
+            (ii) does not cover a business that leases employees.
       (j) Cross reference
          T2For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.

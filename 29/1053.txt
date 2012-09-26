@@ -1,23 +1,40 @@
   (a) Nonforfeitability requirements
      Each pension plan shall provide that an employee“s right to his normal retirement benefit is nonforfeitable upon the attainment of normal retirement age and in addition shall satisfy the requirements of paragraphs (1) and (2) of this subsection.
     (1) A plan satisfies the requirements of this paragraph if an employee“s rights in his accrued benefit derived from his own contributions are nonforfeitable.
-    (2) Except as provided in paragraph (4), a plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A) or (B).
-      (A) A plan satisfies the requirements of this subparagraph if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions.
-      (B) A plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of the employee“s accrued benefit derived from employer contributions determined under the following table:
-          
-         The nonforfeitable
-           T2Years of service:
-         percentage is:
-         3
-         20     
-         4
-         40     
-         5
-         60     
-         6
-         80     
-         7 or more
-         100.   
+    (2)      (A)        (i) In the case of a defined benefit plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
+        (ii) A plan satisfies the requirements of this clause if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions.
+        (iii) A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee“s accrued benefit derived from employer contributions determined under the following table:
+            
+           T2The nonforfeitable
+             T2Years of service:
+           T2percentage is:
+           3
+           20     
+           4
+           40     
+           5
+           60     
+           6
+           80     
+           7 or more
+           100.   
+      (B)        (i) In the case of an individual account plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
+        (ii) A plan satisfies the requirements of this clause if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions.
+        (iii) A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee“s accrued benefit derived from employer contributions determined under the following table:
+            
+           T2The nonforfeitable
+             T2Years of service:
+           T2percentage is:
+           2
+           20     
+           3
+           40     
+           4
+           60     
+           5
+           80     
+           6 or more
+           100.   
     (3)      (A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 1055 of this title).
       (B) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits–
         (i) in the case of a plan other than a multiemployer plan, by an employer who maintains the plan under which such benefits were being paid; and
@@ -35,23 +52,6 @@
           (I) the plan is amended to reduce benefits under section 1425 or 1441 of this title, or
           (II) benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
       (F) A matching contribution (within the meaning of section 401(m) of title 26) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26, an excess deferral under section 402(g)(2)(A) of title 26, or an excess aggregate contribution under section 401(m)(6)(B) of title 26.
-    (4) In the case of matching contributions (as defined in section 401(m)(4)(A) of title 26), paragraph (2) shall be applied–
-      (A) by substituting ””3 years““ for ””5 years““ in subparagraph (A), and
-      (B) by substituting the following table for the table contained in subparagraph (B):
-         T2
-         T2The nonforfeitable
-         T2 Years of service:
-         T2percentage is: 
-         2
-         20  
-         3
-         40  
-         4
-         60  
-         5
-         80  
-         6 or more
-         100.
   (b) Computation of period of service
     (1) In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2) of this section, all of an employee“s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
       (A) years of service before age 18,\1\N
@@ -108,3 +108,17 @@
     (2) For purposes of paragraph (1), the present value shall be calculated in accordance with section 1055(g)(3) of this title.
     (3) This subsection shall not apply to any distribution of dividends to which section 404(k) of title 26 applies.
     (4) A plan shall not fail to meet the requirements of this subsection if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term ””rollover contributions““ means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16) of title 26.
+  (f) Special rules for plans computing accrued benefits by reference to hypothetical account balance or equivalent amounts
+    (1) In general
+       An applicable defined benefit plan shall not be treated as failing to meet–
+      (A) subject to paragraph (2), the requirements of subsection (a)(2), or
+      (B) the requirements of section 1054(c) of this title or section 1055(g) of this title with respect to contributions other than employee contributions,
+       solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in the hypothetical account described in paragraph (3) or as an accumulated percentage of the participant“s final average compensation.
+    (2) 3-year vesting
+       In the case of an applicable defined benefit plan, such plan shall be treated as meeting the requirements of subsection (a)(2) only if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions.
+    (3) Applicable defined benefit plan and related rules
+       For purposes of this subsection–
+      (A) In general
+         The term ””applicable defined benefit plan““ means a defined benefit plan under which the accrued benefit (or any portion thereof) is calculated as the balance of a hypothetical account maintained for the participant or as an accumulated percentage of the participant“s final average compensation.
+      (B) Regulations to include similar plans
+         The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.

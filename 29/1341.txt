@@ -55,12 +55,30 @@
          Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
     (4) Continuing authority
        Nothing in this section shall be construed to preclude the continued exercise by the corporation, after the termination date of a plan terminated in a standard termination under this subsection, of its authority under section 1303 of this title with respect to matters relating to the termination. A certification under paragraph (3)(B) shall not affect the corporation“s obligations under section 1322 of this title.
+    (5) Special rule for certain plans where cessation or change in membership of a controlled group
+      (A) In general
+         Except as provided in subparagraph (B), if–
+        (i) there is \2\N transaction or series of transactions which result in a person ceasing to be a member of a controlled group, and
+        (ii) such person immediately before the transaction or series of transactions maintained a single-employer plan which is a defined benefit plan which is fully funded,
+         then the interest rate used in determining whether the plan is sufficient for benefit liabilities or to otherwise assess plan liabilities for purposes of this subsection or section 1342(a)(4) of this title shall be not less than the interest rate used in determining whether the plan is fully funded.
+      (B) Limitations
+         Subparagraph (A) shall not apply to any transaction or series of transactions unless–
+        (i) any employer maintaining the plan immediately before or after such transaction or series of transactions–
+          (I) has an outstanding senior unsecured debt instrument which is rated investment grade by each of the nationally recognized statistical rating organizations for corporate bonds that has issued a credit rating for such instrument, or
+          (II) if no such debt instrument of such employer has been rated by such an organization but 1 or more of such organizations has made an issuer credit rating for such employer, all such organizations which have so rated the employer have rated such employer investment grade, and
+        (ii) the employer maintaining the plan after the transaction or series of transactions employs at least 20 percent of the employees located in the United States who were employed by such employer immediately before the transaction or series of transactions.
+      (C) Fully funded
+         For purposes of subparagraph (A), a plan shall be treated as fully funded with respect to any transaction or series of transactions if–
+        (i) in the case of a transaction or series of transactions which occur in a plan year beginning before January 1, 2008, the funded current liability percentage determined under section 1082(d) of this title for the plan year is at least 100 percent, and
+        (ii) in the case of a transaction or series of transactions which occur in a plan year beginning on or after such date, the funding target attainment percentage determined under section 1083 of this title is, as of the valuation date for such plan year, at least 100 percent.
+      (D) 2 year limitation
+         Subparagraph (A) shall not apply to any transaction or series of transactions if the plan referred to in subparagraph (A)(ii) is terminated under subsection (c) or section 1342 of this title after the close of the 2-year period beginning on the date on which the first such transaction occurs.
   (c) Distress termination of single-employer plans
     (1) In general
        A single-employer plan may terminate under a distress termination only if–
       (A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2) of this section,
       (B) the requirements of subparagraph (A) of paragraph (2) are met, and
-      (C) the corporation determines that the requirements of subparagraph (B) of paragraph (2) are met.
+      (C) the corporation determines that the requirements of subparagraphs (B) and (D) of paragraph (2) are met.
     (2) Termination requirements
       (A) Information submitted to the corporation
          As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2) of this section, the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
@@ -96,6 +114,23 @@
           (II) the costs of providing pension coverage have become unreasonably burdensome to such person, solely as a result of a decline of such person“s workforce covered as participants under all single-employer plans of which such person is a contributing sponsor.
       (C) Notification of determinations by the corporation
          The corporation shall notify the plan administrator as soon as practicable of its determinations made pursuant to subparagraph (B).
+      (D) Disclosure of termination information
+        (i) In general
+           A plan administrator that has filed a notice of intent to terminate under subsection (a)(2) shall provide to an affected party any information provided to the corporation under subsection (a)(2) not later than 15 days after–
+          (I) receipt of a request from the affected party for the information; or
+          (II) the provision of new information to the corporation relating to a previous request.
+        (ii) Confidentiality
+          (I) In general
+             The plan administrator shall not provide information under clause (i) in a form that includes any information that may directly or indirectly be associated with, or otherwise identify, an individual participant or beneficiary.
+          (II) Limitation
+             A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title 5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
+        (iii) Form and manner of information; charges
+          (I) Form and manner
+             The corporation may prescribe the form and manner of the provision of information under this subparagraph, which shall include delivery in written, electronic, or other appropriate form to the extent that such form is reasonably accessible to individuals to whom the information is required to be provided.
+          (II) Reasonable charges
+             A plan administrator may charge a reasonable fee for any information provided under this subparagraph in other than electronic form.
+        (iv) Authorized representative
+           For purposes of this subparagraph, the term ””authorized representative““ means any employee organization representing participants in the pension plan.
     (3) Termination procedure
       (A) Determinations by the corporation relating to plan sufficiency for guaranteed benefits and for benefit liabilities
          If the corporation determines that the requirements for a distress termination set forth in paragraphs (1) and (2) are met, the corporation shall–
