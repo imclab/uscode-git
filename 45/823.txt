@@ -1,15 +1,37 @@
-  (a) Traffic density analysis
-     Within 90 days after February 5, 1976, each railroad designated by the Commission as a class I railroad shall prepare and submit to the Secretary a full and complete analysis of the rail system operated by it. Such analysis shall indicate the traffic density for the preceding 5 calendar years on each of the main and branch rail lines of the railroad submitting such analysis. The requirements of the two preceding sentences shall not apply to any railroad subject to reorganization pursuant to the Regional Rail Reorganization Act of 1973 [45 U.S.C. 701 et seq.].
-  (b) Preliminary standards and designations
-     Within 180 days after February 5, 1976, the Secretary shall develop and publish–
-    (1) the preliminary standards for classification, in at least 3 categories, of main and branch rail lines according to the degree to which they are essential to the rail transportation system; and
-    (2) the preliminary designations with respect to each main and branch rail line, in accordance with such standards for classification.
-       The classification of rail lines for purposes of this subsection shall be based on the level of usage measured in gross-ton-miles, the contribution to the economic viability of the railroad which controls such lines, and the contribution of such lines to the probable economic viability of any other railroads which participate in the traffic originating on such lines. In determining ””level of usage““ and ””probable economic viability““, for purposes of such classification, the Secretary shall take into account operational service and other appropriate factors, and he may make reasonable allowance for differences in operation among individual railroads or groups of railroads.
-  (c) Public hearings
-     Commencing 30 days after the date of publication of the standards and designations required under subsection (b) of this section, the Office shall conduct public hearings, at representative locations, to solicit comments and receive views on the preliminary standards for classification and on the preliminary designations. The Office shall give notice of the date, time, and place of each such hearing, and such notices shall be designed and placed in such manner that all interested parties will have a full and fair opportunity to be heard.
-  (d) Report by Office
-     Within 120 days after the date of publication of the standards and designations required under subsection (b) of this section, the Office shall submit a report to the Secretary containing its conclusions and recommendations with respect to such preliminary standards for classification and such preliminary designations. This report shall be based on the record which was developed by the Office during the hearings under subsection (c) of this section, as supplemented by such studies as may be undertaken by the Office.
-  (e) Final standards and designations
-     Within 150 days after the date of receipt of the report required under subsection (d) of this section, the Secretary, with the cooperation and assistance of the Office, shall, after giving due consideration to such report, prepare and publish–
-    (1) the final standards for classification of main and branch rail lines; and
-    (2) the final designations with respect to each main and branch rail line, in accordance with such standards for classification, including findings to support any material change which is made in a final designation from the corresponding preliminary designation.
+  (a) Applications
+     The Secretary shall prescribe the form and contents required of applications for assistance under section 822 of this title, to enable the Secretary to determine the eligibility of the applicant“s proposal, and shall establish terms and conditions for direct loans and loan guarantees made under that section.
+  (b) \1\N Full faith and credit
+     All guarantees entered into by the Secretary under section 822 of this title shall constitute general obligations of the United States of America backed by the full faith and credit of the United States of America.
+  (b) \1\ Assignment of loan guarantees
+     The holder of a loan guarantee made under section 822 of this title may assign the loan guarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
+  (c) Modifications
+     The Secretary may approve the modification of any term or condition of a direct loan, loan guarantee, direct loan obligation, or loan guarantee commitment, including the rate of interest, time of payment of interest or principal, or security requirements, if the Secretary finds in writing that–
+    (1) the modification is equitable and is in the overall best interests of the United States; and
+    (2) consent has been obtained from the applicant and, in the case of a loan guarantee or loan guarantee commitment, the holder of the obligation.
+  (d) Compliance
+     The Secretary shall assure compliance, by an applicant, any other party to the loan, and any railroad or railroad partner for whose benefit assistance is intended, with the provisions of this subchapter, regulations issued hereunder, and the terms and conditions of the direct loan or loan guarantee, including through regular periodic inspections.
+  (e) Commercial validity
+     For purposes of claims by any party other than the Secretary, a loan guarantee or loan guarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of a holder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
+  (f) Default
+     The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under section 822 of this title. The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that–
+    (1) if a payment of principal or interest under the loan is in default for more than 30 days, the Secretary shall pay to the holder of the obligation, or the holder“s agent, the amount of unpaid guaranteed interest;
+    (2) if the default has continued for more than 90 days, the Secretary shall pay to the holder of the obligation, or the holder“s agent, 90 percent of the unpaid guaranteed principal;
+    (3) after final resolution of the default, through liquidation or otherwise, the Secretary shall pay to the holder of the obligation, or the holder“s agent, any remaining amounts guaranteed but which were not recovered through the default“s resolution;
+    (4) the Secretary shall not be required to make any payment under paragraphs (1) through (3) if the Secretary finds, before the expiration of the periods described in such paragraphs, that the default has been remedied; and
+    (5) the holder of the obligation shall not receive payment or be entitled to retain payment in a total amount which, together with all other recoveries (including any recovery based upon a security interest in equipment or facilities) exceeds the actual loss of such holder.
+  (g) Rights of the Secretary
+    (1) Subrogation
+       If the Secretary makes payment to a holder, or a holder“s agent, under subsection (g) of this section in connection with a loan guarantee made under section 822 of this title, the Secretary shall be subrogated to all of the rights of the holder with respect to the obligor under the loan.
+    (2) Disposition of property
+       The Secretary may complete, recondition, reconstruct, renovate, repair, maintain, operate, charter, rent, sell, or otherwise dispose of any property or other interests obtained pursuant to this section. The Secretary shall not be subject to any Federal or State regulatory requirements when carrying out this paragraph.
+  (h) Action against obligor
+     The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under section 822 of this title, or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under section 822 of this title. The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of–
+    (1) the amount paid to the holder of a guarantee under subsection (g) of this section; and
+    (2) any other cost to the United States of remedying the default,
+       the Secretary shall pay such excess to the obligor.
+      (i) Breach of conditions
+         The Attorney General shall commence a civil action in an appropriate Federal court to enjoin any activity which the Secretary finds is in violation of this subchapter, regulations issued hereunder, or any conditions which were duly agreed to, and to secure any other appropriate relief.
+      (j) Attachment
+         No attachment or execution may be issued against the Secretary, or any property in the control of the Secretary, prior to the entry of final judgment to such effect in any State, Federal, or other court.
+      (k) Investigation charge
+         The Secretary may charge and collect from each applicant a reasonable charge for appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation.
