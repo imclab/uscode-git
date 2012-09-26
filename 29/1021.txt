@@ -28,8 +28,28 @@
       (C) Authority for additional reporting requirements
          The Secretary may prescribe such additional reporting requirements as may be necessary to carry out the purposes of this section.
     (3) Definitions
-       For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on December 17, 1999) shall have the same meaning as when used in such section.
-  (f) Repealed. Pub. L. 105–200, title IV, § 401(h)(1)(A), July 16, 1998, 112 Stat. 668
+       For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on October 22, 2004) shall have the same meaning as when used in such section.
+  (f) Multiemployer defined benefit plan funding notices
+    (1) In general
+       The administrator of a defined benefit plan which is a multiemployer plan shall for each plan year provide a plan funding notice to each plan participant and beneficiary, to each labor organization representing such participants or beneficiaries, to each employer that has an obligation to contribute under the plan, and to the Pension Benefit Guaranty Corporation.
+    (2) Information contained in notices
+      (A) Identifying information
+         Each notice required under paragraph (1) shall contain identifying information, including the name of the plan, the address and phone number of the plan administrator and the plan“s principal administrative officer, each plan sponsor“s employer identification number, and the plan number of the plan.
+      (B) Specific information
+         A plan funding notice under paragraph (1) shall include–
+        (i) a statement as to whether the plan“s funded current liability percentage (as defined in section 1082(d)(8)(B) of this title) for the plan year to which the notice relates is at least 100 percent (and, if not, the actual percentage);
+        (ii) a statement of the value of the plan“s assets, the amount of benefit payments, and the ratio of the assets to the payments for the plan year to which the notice relates;
+        (iii) a summary of the rules governing insolvent multiemployer plans, including the limitations on benefit payments and any potential benefit reductions and suspensions (and the potential effects of such limitations, reductions, and suspensions on the plan); and
+        (iv) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply.
+      (C) Other information
+         Each notice under paragraph (1) shall include any additional information which the plan administrator elects to include to the extent not inconsistent with regulations prescribed by the Secretary.
+    (3) Time for providing notice
+       Any notice under paragraph (1) shall be provided no later than two months after the deadline (including extensions) for filing the annual report for the plan year to which the notice relates.
+    (4) Form and manner
+       Any notice under paragraph (1)–
+      (A) shall be provided in a form and manner prescribed in regulations of the Secretary,
+      (B) shall be written in a manner so as to be understood by the average plan participant, and
+      (C) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
   (g) Reporting by certain arrangements
      The Secretary may, by regulation, require multiple employer welfare arrangements providing benefits consisting of medical care (within the meaning of section 1191b(a)(2) of this title) which are not group health plans to report, not more frequently than annually, in such form and such manner as the Secretary may require for the purpose of determining the extent to which the requirements of part 7 are being carried out in connection with such benefits.
   (h) Simple retirement accounts

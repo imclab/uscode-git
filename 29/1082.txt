@@ -31,8 +31,9 @@
       (B) T4Required change of interest rateK.–For purposes of determining a plan“s current liability and for purposes of determining a plan“s required contribution under subsection (d) of this section for any plan year–
         (i) T4In generalK.–If any rate of interest used under the plan to determine cost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
         (ii) T4Permissible rangeK.–For purposes of this subparagraph–
-          (I) T4In generalK.–Except as provided in subclause (II), the term ””permissible range““ means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the \1\N weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
-          (II) T4Secretarial authorityK.–If the Secretary finds that the lowest rate of interest permissible under subclause (I) is unreasonably high, the Secretary may prescribe a lower rate of interest, except that such rate may not be less than 80 percent of the average rate determined under subclause (I).
+          (I) T4In generalK.–Except as provided in subclause (II) or (III), the term ””permissible range““ means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the \1\N weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
+          (II) T4Special rule for years 2004 and 2005K.–In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the term ””permissible range““ means a rate of interest which is not above, and not more than 10 percent below, the weighted average of the rates of interest on amounts invested conservatively in long-term investment grade corporate bonds during the 4-year period ending on the last day before the beginning of the plan year. Such rates shall be determined by the Secretary of the Treasury on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the average rate, publicly available.
+          (III) T4Secretarial authorityK.–If the Secretary finds that the lowest rate of interest permissible under subclause (I) or (II) is unreasonably high, the Secretary may prescribe a lower rate of interest, except that such rate may not be less than 80 percent of the average rate determined under such subclause.
         (iii) T4AssumptionsK.–Notwithstanding subsection (c)(3)(A)(i) of this section, the interest rate used under the plan shall be–
           (I) determined without taking into account the experience of the plan and reasonable expectations, but
           (II) consistent with the assumptions which reflect the purchase rates which would be used by insurance companies to satisfy the liabilities under the plan.
@@ -53,6 +54,23 @@
       (C) Any amount paid by a plan during a plan year to the Pension Benefit Guaranty Corporation pursuant to section 1402 of this title or to a fund exempt under section 501(c)(22) of title 26 pursuant to section 1403 of this title shall reduce the amount of contributions considered received by the plan for the plan year.
       (D) Any amount paid by an employer pending a final determination of the employer“s withdrawal liability under part 1 of subtitle E of subchapter III of this chapter and subsequently refunded to the employer by the plan shall be charged to the funding standard account in accordance with regulations prescribed by the Secretary.
       (E) For purposes of the full funding limitation under subsection (c)(7) of this section, unless otherwise provided by the plan, the accrued liability under a multiemployer plan shall not include benefits which are not nonforfeitable under the plan after the termination of the plan (taking into consideration section 411(d)(3) of title 26).
+      (F) T4Election for deferral of charge for portion of net experience loss.–
+        (i) T4In generalK.–With respect to the net experience loss of an eligible multiemployer plan for the first plan year beginning after December 31, 2001, the plan sponsor may elect to defer up to 80 percent of the amount otherwise required to be charged under paragraph (2)(B)(iv) for any plan year beginning after June 30, 2003, and before July 1, 2005, to any plan year selected by the plan from either of the 2 immediately succeeding plan years.
+        (ii) T4InterestK.–For the plan year to which a charge is deferred pursuant to an election under clause (i), the funding standard account shall be charged with interest on the deferred charge for the period of deferral at the rate determined under section 1084(a) of this title for multiemployer plans.
+        (iii) T4Restrictions on benefit increasesK.–No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any period for which a charge is deferred pursuant to an election under clause (i), unless–
+          (I) the plan“s enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or
+          (II) the amendment is required by a collective bargaining agreement which is in effect on April 10, 2004.
+         If a plan is amended during any such plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any such plan year ending on or after the date on which such amendment is adopted.
+        (iv) T4Eligible multiemployer planK.–For purposes of this subparagraph, the term ””eligible multiemployer plan““ means a multiemployer plan–
+          (I) which had a net investment loss for the first plan year beginning after December 31, 2001, of at least 10 percent of the average fair market value of the plan assets during the plan year, and
+          (II) with respect to which the plan“s enrolled actuary certifies (not taking into account the application of this subparagraph), on the basis of the acutuarial \2\N assumptions used for the last plan year ending before April 10, 2004, that the plan is projected to have an accumulated funding deficiency (within the meaning of subsection (a)(2) of this section) for any plan year beginning after June 30, 2003, and before July 1, 2006.
+         For purposes of subclause (I), a plan“s net investment loss shall be determined on the basis of the actual loss and not under any actuarial method used under subsection (c)(2) of this section.
+        (v) T4Exception to treatment of eligible multiemployer planK.–In no event shall a plan be treated as an eligible multiemployer plan under clause (iv) if–
+          (I) for any taxable year beginning during the 10-year period preceding the first plan year for which an election is made under clause (i), any employer required to contribute to the plan failed to timely pay any excise tax imposed under section 4971 of title 26 with respect to the plan,
+          (II) for any plan year beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), the average contribution required to be made by all employers to the plan does not exceed 10 cents per hour or no employer is required to make contributions to the plan, or
+          (III) with respect to any of the plan years beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), a waiver was granted under section 1083 of this title or section 412(d) of title 26 with respect to the plan or an extension of an amortization period was granted under section 1084 of this title or section 412(e) of title 26 with respect to the plan.
+        (vi) T4NoticeK.–If a plan sponsor makes an election under this subparagraph or section 412(b)(7)(F) of title 26 for any plan year, the plan administrator shall provide, within 30 days of filing the election for such year, written notice of the election to participants and beneficiaries, to each labor organization representing such participants or beneficiaries, to each employer that has an obligation to contribute under the plan, and to the Pension Benefit Guaranty Corporation. Such notice shall include with respect to any election the amount of any charge to be deferred and the period of the deferral. Such notice shall also include the maximum guaranteed monthly benefits which the Pension Benefit Guaranty Corporation would pay if the plan terminated while underfunded.
+        (vii) T4ElectionK.–An election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury may prescribe.
   (c) Methods
     (1) For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
     (2)      (A) For purposes of this part, the value of the plan“s assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary of the Treasury.
@@ -272,6 +290,8 @@
              105.
           (III) Special rule for 2002 and 2003
              For a plan year beginning in 2002 or 2003, notwithstanding subclause (I), in the case that the rate of interest used under subsection (b)(5) of this section exceeds the highest rate permitted under subclause (I), the rate of interest used to determine current liability under this subsection may exceed the rate of interest otherwise permitted under subclause (I); except that such rate of interest shall not exceed 120 percent of the weighted average referred to in subsection (b)(5)(B)(ii) of this section.
+          (IV) Special rule for 2004 and 2005
+             For plan years beginning in 2004 or 2005, notwithstanding subclause (I), the rate of interest used to determine current liability under this subsection shall be the rate of interest under subsection (b)(5) of this section.
         (ii) Mortality tables
           (I) Commissioners“ standard table
              In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this subsection shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners“ standard table (described in section 807(d)(5)(A) of title 26) used to determine reserves for group annuity contracts issued on January 1, 1993.
@@ -402,6 +422,41 @@
          For purposes of this paragraph–
         (i) The term ””applicable plan year““ means a plan year beginning after December 31, 1994, and before January 1, 2002.
         (ii) The term ””initial funded current liability percentage““ means the funded current liability percentage as of the first day of the first plan year beginning after December 31, 1994.
+    (12) Election for certain plans
+      (A) In general
+         In the case of a defined benefit plan established and maintained by an applicable employer, if this subsection did not apply to the plan for the plan year beginning in 2000 (determined without regard to paragraph (6)), then, at the election of the employer, the increased amount under paragraph (1) for any applicable plan year shall be the greater of–
+        (i) 20 percent of the increased amount under paragraph (1) determined without regard to this paragraph, or
+        (ii) the increased amount which would be determined under paragraph (1) if the deficit reduction contribution under paragraph (2) for the applicable plan year were determined without regard to subparagraphs (A), (B), and (D) of paragraph (2).
+      (B) Restrictions on benefit increases
+         No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any applicable plan year, unless–
+        (i) the plan“s enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or
+        (ii) the amendment is required by a collective bargaining agreement which is in effect on April 10, 2004.
+         If a plan is amended during any applicable plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any applicable plan year ending on or after the date on which such amendment is adopted.
+      (C) Applicable employer
+         For purposes of this paragraph, the term ””applicable employer““ means an employer which is–
+        (i) a commercial passenger airline,
+        (ii) primarily engaged in the production or manufacture of a steel mill product or the processing of iron ore pellets, or
+        (iii) an organization described in section 501(c)(5) of title 26 and which established the plan to which this paragraph applies on June 30, 1955.
+      (D) Applicable plan year
+         For purposes of this paragraph–
+        (i) In general
+           The term ””applicable plan year““ means any plan year beginning after December 27, 2003, and before December 28, 2005, for which the employer elects the application of this paragraph.
+        (ii) Limitation on number of years which may be elected
+           An election may not be made under this paragraph with respect to more than 2 plan years.
+      (E) Notice requirements for plans electing alternative deficit reduction contributions
+        (i) In general
+           If an employer elects an alternative deficit reduction contribution under this paragraph and section 412(T3lK)(12) of title 26 for any year, the employer shall provide, within 30 days of filing the election for such year, written notice of the election to participants and beneficiaries and to the Pension Benefit Guaranty Corporation.
+        (ii) Notice to participants and beneficiaries
+           The notice under clause (i) to participants and beneficiaries shall include with respect to any election–
+          (I) the due date of the alternative deficit reduction contribution and the amount by which such contribution was reduced from the amount which would have been owed if the election were not made, and
+          (II) a description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation and an explanation of the limitations on the guarantee and the circumstances under which such limitations apply, including the maximum guaranteed monthly benefits which the Pension Benefit Guaranty Corporation would pay if the plan terminated while underfunded.
+        (iii) Notice to PBGC
+           The notice under clause (i) to the Pension Benefit Guaranty Corporation shall include–
+          (I) the information described in clause (ii)(I),
+          (II) the number of years it will take to restore the plan to full funding if the employer only makes the required contributions, and
+          (III) information as to how the amount by which the plan is underfunded compares with the capitalization of the employer making the election.
+      (F) Election
+         An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury may prescribe.
   (e) Quarterly contributions required
     (1) In general
        If a defined benefit plan (other than a multiemployer plan) which has a funded current liability percentage (as defined in subsection (d)(8) of this section) for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for the plan year, then the rate of interest charged to the funding standard account under subsection (b)(5) of this section with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of–
@@ -502,12 +557,8 @@
          In applying this subsection to a plan year beginning on any date other than January 1, there shall be substituted for the months specified in this subsection, the months which correspond thereto.
       (B) Short plan year
          This section shall be applied to plan years of less than 12 months in accordance with regulations prescribed by the Secretary of the Treasury.
-    (7) Special rules for 2002 and 2004
-       In any case in which the interest rate used to determine current liability is determined under subsection (d)(7)(C)(i)(III) of this section–
-      (A) 2002
-         For purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2002, the current liability for the preceding plan year shall be redetermined using 120 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
-      (B) 2004
-         For purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2004, the current liability for the preceding plan year shall be redetermined using 105 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
+    (7) Special rule for 2002
+       In any case in which the interest rate used to determine current liability is determined under subsection (d)(7)(C)(i)(III) of this section, for purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2002, the current liability for the preceding plan year shall be redetermined using 120 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
   (f) Imposition of lien where failure to make required contributions
     (1) In general
        In the case of a plan covered under section 1321 of this title, if–
