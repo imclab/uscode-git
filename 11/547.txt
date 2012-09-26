@@ -1,56 +1,26 @@
-  (a) In this section–
-    (1) ””inventory““ means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
-    (2) ””new value““ means money or money“s worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
-    (3) ””receivable““ means right to payment, whether or not such right has been earned by performance; and
-    (4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
-  (b) Except as provided in subsection (c) of this section, the trustee may avoid any transfer of an interest of the debtor in property–
-    (1) to or for the benefit of a creditor;
-    (2) for or on account of an antecedent debt owed by the debtor before such transfer was made;
-    (3) made while the debtor was insolvent;
-    (4) made–
-      (A) on or within 90 days before the date of the filing of the petition; or
-      (B) between ninety days and one year before the date of the filing of the petition, if such creditor at the time of such transfer was an insider; and
-    (5) that enables such creditor to receive more than such creditor would receive if–
-      (A) the case were a case under chapter 7 of this title;
-      (B) the transfer had not been made; and
-      (C) such creditor received payment of such debt to the extent provided by the provisions of this title.
-  (c) The trustee may not avoid under this section a transfer–
-    (1) to the extent that such transfer was–
-      (A) intended by the debtor and the creditor to or for whose benefit such transfer was made to be a contemporaneous exchange for new value given to the debtor; and
-      (B) in fact a substantially contemporaneous exchange;
-    (2) to the extent that such transfer was–
-      (A) in payment of a debt incurred by the debtor in the ordinary course of business or financial affairs of the debtor and the transferee;
-      (B) made in the ordinary course of business or financial affairs of the debtor and the transferee; and
-      (C) made according to ordinary business terms;
-    (3) that creates a security interest in property acquired by the debtor–
-      (A) to the extent such security interest secures new value that was–
-        (i) given at or after the signing of a security agreement that contains a description of such property as collateral;
-        (ii) given by or on behalf of the secured party under such agreement;
-        (iii) given to enable the debtor to acquire such property; and
-        (iv) in fact used by the debtor to acquire such property; and
-      (B) that is perfected on or before 20 days after the debtor receives possession of such property;
-    (4) to or for the benefit of a creditor, to the extent that, after such transfer, such creditor gave new value to or for the benefit of the debtor–
-      (A) not secured by an otherwise unavoidable security interest; and
-      (B) on account of which new value the debtor did not make an otherwise unavoidable transfer to or for the benefit of such creditor;
-    (5) that creates a perfected security interest in inventory or a receivable or the proceeds of either, except to the extent that the aggregate of all such transfers to the transferee caused a reduction, as of the date of the filing of the petition and to the prejudice of other creditors holding unsecured claims, of any amount by which the debt secured by such security interest exceeded the value of all security interests for such debt on the later of–
-      (A)        (i) with respect to a transfer to which subsection (b)(4)(A) of this section applies, 90 days before the date of the filing of the petition; or
-        (ii) with respect to a transfer to which subsection (b)(4)(B) of this section applies, one year before the date of the filing of the petition; or
-      (B) the date on which new value was first given under the security agreement creating such security interest;
-    (6) that is the fixing of a statutory lien that is not avoidable under section 545 of this title;
-    (7) to the extent such transfer was a bona fide payment of a debt to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt–
-      (A) is assigned to another entity, voluntarily, by operation of law, or otherwise; or
-      (B) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support; or
-    (8) if, in a case filed by an individual debtor whose debts are primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $600.
-  (d) The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability of such surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
-  (e)    (1) For the purposes of this section–
-      (A) a transfer of real property other than fixtures, but including the interest of a seller or purchaser under a contract for the sale of real property, is perfected when a bona fide purchaser of such property from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of the transferee; and
-      (B) a transfer of a fixture or property other than real property is perfected when a creditor on a simple contract cannot acquire a judicial lien that is superior to the interest of the transferee.
-    (2) For the purposes of this section, except as provided in paragraph (3) of this subsection, a transfer is made–
-      (A) at the time such transfer takes effect between the transferor and the transferee, if such transfer is perfected at, or within 10 days after, such time, except as provided in subsection (c)(3)(B);
-      (B) at the time such transfer is perfected, if such transfer is perfected after such 10 days; or
-      (C) immediately before the date of the filing of the petition, if such transfer is not perfected at the later of–
-        (i) the commencement of the case; or
-        (ii) 10 days after such transfer takes effect between the transferor and the transferee.
-    (3) For the purposes of this section, a transfer is not made until the debtor has acquired rights in the property transferred.
-  (f) For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
-  (g) For the purposes of this section, the trustee has the burden of proving the avoidability of a transfer under subsection (b) of this section, and the creditor or party in interest against whom recovery or avoidance is sought has the burden of proving the nonavoidability of a transfer under subsection (c) of this section.
+  (a) An action or proceeding under section 544, 545, 547, 548, or 553 of this title may not be commenced after the earlier of–
+    (1) the later of–
+      (A) 2 years after the entry of the order for relief; or
+      (B) 1 year after the appointment or election of the first trustee under section 702, 1104, 1163, 1202, or 1302 of this title if such appointment or such election occurs before the expiration of the period specified in subparagraph (A); or
+    (2) the time the case is closed or dismissed.
+  (b)    (1) The rights and powers of a trustee under sections 544, 545, and 549 of this title are subject to any generally applicable law that–
+      (A) permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of perfection; or
+      (B) provides for the maintenance or continuation of perfection of an interest in property to be effective against an entity that acquires rights in such property before the date on which action is taken to effect such maintenance or continuation.
+    (2) If–
+      (A) a law described in paragraph (1) requires seizure of such property or commencement of an action to accomplish such perfection, or maintenance or continuation of perfection of an interest in property; and
+      (B) such property has not been seized or such an action has not been commenced before the date of the filing of the petition;
+         such interest in such property shall be perfected, or perfection of such interest shall be maintained or continued, by giving notice within the time fixed by such law for such seizure or such commencement.
+  (c)    (1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller“s business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods–
+      (A) not later than 45 days after the date of receipt of such goods by the debtor; or
+      (B) not later than 20 days after the date of commencement of the case, if the 45-day period expires after the commencement of the case.
+    (2) If a seller of goods fails to provide notice in the manner described in paragraph (1), the seller still may assert the rights contained in section 503(b)(9).
+  (d) In the case of a seller who is a producer of grain sold to a grain storage facility, owned or operated by the debtor, in the ordinary course of such seller“s business (as such terms are defined in section 557 of this title) or in the case of a United States fisherman who has caught fish sold to a fish processing facility owned or operated by the debtor in the ordinary course of such fisherman“s business, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 of this title are subject to any statutory or common law right of such producer or fisherman to reclaim such grain or fish if the debtor has received such grain or fish while insolvent, but–
+    (1) such producer or fisherman may not reclaim any grain or fish unless such producer or fisherman demands, in writing, reclamation of such grain or fish before ten days after receipt thereof by the debtor; and
+    (2) the court may deny reclamation to such a producer or fisherman with a right of reclamation that has made such a demand only if the court secures such claim by a lien.
+  (e) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, made by or to a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+  (f) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, made by or to a repo participant or financial participant, in connection with a repurchase agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+  (g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer, made by or to a swap participant or financial participant, under or in connection with any swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+  (h) Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor and subject to the prior rights of holders of security interests in such goods or the proceeds of such goods, may return goods shipped to the debtor by the creditor before the commencement of the case, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
+    (i)      (1) Notwithstanding paragraphs (2) and (3) of section 545, the trustee may not avoid a warehouseman“s lien for storage, transportation, or other costs incidental to the storage and handling of goods.
+      (2) The prohibition under paragraph (1) shall be applied in a manner consistent with any State statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
+    (j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.

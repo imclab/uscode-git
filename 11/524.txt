@@ -1,94 +1,62 @@
-  (a) A discharge in a case under this title–
-    (1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged under section 727, 944, 1141, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
-    (2) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor, whether or not discharge of such debt is waived; and
-    (3) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect or recover from, or offset against, property of the debtor of the kind specified in section 541(a)(2) of this title that is acquired after the commencement of the case, on account of any allowable community claim, except a community claim that is excepted from discharge under section 523, 1228(a)(1), or 1328(a)(1) \1\N of this title, or that would be so excepted, determined in accordance with the provisions of sections 523(c) and 523(d) of this title, in a case concerning the debtor“s spouse commenced on the date of the filing of the petition in the case concerning the debtor, whether or not discharge of the debt based on such community claim is waived.
-  (b) Subsection (a)(3) of this section does not apply if–
-    (1)      (A) the debtor“s spouse is a debtor in a case under this title, or a bankrupt or a debtor in a case under the Bankruptcy Act, commenced within six years of the date of the filing of the petition in the case concerning the debtor; and
-      (B) the court does not grant the debtor“s spouse a discharge in such case concerning the debtor“s spouse; or
-    (2)      (A) the court would not grant the debtor“s spouse a discharge in a case under chapter 7 of this title concerning such spouse commenced on the date of the filing of the petition in the case concerning the debtor; and
-      (B) a determination that the court would not so grant such discharge is made by the bankruptcy court within the time and in the manner provided for a determination under section 727 of this title of whether a debtor is granted a discharge.
-  (c) An agreement between a holder of a claim and the debtor, the consideration for which, in whole or in part, is based on a debt that is dischargeable in a case under this title is enforceable only to any extent enforceable under applicable nonbankruptcy law, whether or not discharge of such debt is waived, only if–
-    (1) such agreement was made before the granting of the discharge under section 727, 1141, 1228, or 1328 of this title;
-    (2)      (A) such agreement contains a clear and conspicuous statement which advises the debtor that the agreement may be rescinded at any time prior to discharge or within sixty days after such agreement is filed with the court, whichever occurs later, by giving notice of rescission to the holder of such claim; and
-      (B) such agreement contains a clear and conspicuous statement which advises the debtor that such agreement is not required under this title, under nonbankruptcy law, or under any agreement not in accordance with the provisions of this subsection;
-    (3) such agreement has been filed with the court and, if applicable, accompanied by a declaration or an affidavit of the attorney that represented the debtor during the course of negotiating an agreement under this subsection, which states that–
-      (A) such agreement represents a fully informed and voluntary agreement by the debtor;
-      (B) such agreement does not impose an undue hardship on the debtor or a dependent of the debtor; and
-      (C) the attorney fully advised the debtor of the legal effect and consequences of–
-        (i) an agreement of the kind specified in this subsection; and
-        (ii) any default under such an agreement;
-    (4) the debtor has not rescinded such agreement at any time prior to discharge or within sixty days after such agreement is filed with the court, whichever occurs later, by giving notice of rescission to the holder of such claim;
-    (5) the provisions of subsection (d) of this section have been complied with; and
-    (6)      (A) in a case concerning an individual who was not represented by an attorney during the course of negotiating an agreement under this subsection, the court approves such agreement as–
-        (i) not imposing an undue hardship on the debtor or a dependent of the debtor; and
-        (ii) in the best interest of the debtor.
-      (B) Subparagraph (A) shall not apply to the extent that such debt is a consumer debt secured by real property.
-  (d) In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall–
-    (1) inform the debtor–
-      (A) that such an agreement is not required under this title, under nonbankruptcy law, or under any agreement not made in accordance with the provisions of subsection (c) of this section; and
-      (B) of the legal effect and consequences of–
-        (i) an agreement of the kind specified in subsection (c) of this section; and
-        (ii) a default under such an agreement; and
-    (2) determine whether the agreement that the debtor desires to make complies with the requirements of subsection (c)(6) of this section, if the consideration for such agreement is based in whole or in part on a consumer debt that is not secured by real property of the debtor.
-  (e) Except as provided in subsection (a)(3) of this section, discharge of a debt of the debtor does not affect the liability of any other entity on, or the property of any other entity for, such debt.
-  (f) Nothing contained in subsection (c) or (d) of this section prevents a debtor from voluntarily repaying any debt.
-  (g)    (1)      (A) After notice and hearing, a court that enters an order confirming a plan of reorganization under chapter 11 may issue, in connection with such order, an injunction in accordance with this subsection to supplement the injunctive effect of a discharge under this section.
-      (B) An injunction may be issued under subparagraph (A) to enjoin entities from taking legal action for the purpose of directly or indirectly collecting, recovering, or receiving payment or recovery with respect to any claim or demand that, under a plan of reorganization, is to be paid in whole or in part by a trust described in paragraph (2)(B)(i), except such legal actions as are expressly allowed by the injunction, the confirmation order, or the plan of reorganization.
-    (2)      (A) Subject to subsection (h), if the requirements of subparagraph (B) are met at the time an injunction described in paragraph (1) is entered, then after entry of such injunction, any proceeding that involves the validity, application, construction, or modification of such injunction, or of this subsection with respect to such injunction, may be commenced only in the district court in which such injunction was entered, and such court shall have exclusive jurisdiction over any such proceeding without regard to the amount in controversy.
-      (B) The requirements of this subparagraph are that–
-        (i) the injunction is to be implemented in connection with a trust that, pursuant to the plan of reorganization–
-          (I) is to assume the liabilities of a debtor which at the time of entry of the order for relief has been named as a defendant in personal injury, wrongful death, or property-damage actions seeking recovery for damages allegedly caused by the presence of, or exposure to, asbestos or asbestos-containing products;
-          (II) is to be funded in whole or in part by the securities of 1 or more debtors involved in such plan and by the obligation of such debtor or debtors to make future payments, including dividends;
-          (III) is to own, or by the exercise of rights granted under such plan would be entitled to own if specified contingencies occur, a majority of the voting shares of–
-            (aa) each such debtor;
-            (bb) the parent corporation of each such debtor; or
-            (cc) a subsidiary of each such debtor that is also a debtor; and
-          (IV) is to use its assets or income to pay claims and demands; and
-        (ii) subject to subsection (h), the court determines that–
-          (I) the debtor is likely to be subject to substantial future demands for payment arising out of the same or similar conduct or events that gave rise to the claims that are addressed by the injunction;
-          (II) the actual amounts, numbers, and timing of such future demands cannot be determined;
-          (III) pursuit of such demands outside the procedures prescribed by such plan is likely to threaten the plan“s purpose to deal equitably with claims and future demands;
-          (IV) as part of the process of seeking confirmation of such plan–
-            (aa) the terms of the injunction proposed to be issued under paragraph (1)(A), including any provisions barring actions against third parties pursuant to paragraph (4)(A), are set out in such plan and in any disclosure statement supporting the plan; and
-            (bb) a separate class or classes of the claimants whose claims are to be addressed by a trust described in clause (i) is established and votes, by at least 75 percent of those voting, in favor of the plan; and
-          (V) subject to subsection (h), pursuant to court orders or otherwise, the trust will operate through mechanisms such as structured, periodic, or supplemental payments, pro rata distributions, matrices, or periodic review of estimates of the numbers and values of present claims and future demands, or other comparable mechanisms, that provide reasonable assurance that the trust will value, and be in a financial position to pay, present claims and future demands that involve similar claims in substantially the same manner.
-    (3)      (A) If the requirements of paragraph (2)(B) are met and the order confirming the plan of reorganization was issued or affirmed by the district court that has jurisdiction over the reorganization case, then after the time for appeal of the order that issues or affirms the plan–
-        (i) the injunction shall be valid and enforceable and may not be revoked or modified by any court except through appeal in accordance with paragraph (6);
-        (ii) no entity that pursuant to such plan or thereafter becomes a direct or indirect transferee of, or successor to any assets of, a debtor or trust that is the subject of the injunction shall be liable with respect to any claim or demand made against such entity by reason of its becoming such a transferee or successor; and
-        (iii) no entity that pursuant to such plan or thereafter makes a loan to such a debtor or trust or to such a successor or transferee shall, by reason of making the loan, be liable with respect to any claim or demand made against such entity, nor shall any pledge of assets made in connection with such a loan be upset or impaired for that reason;
-      (B) Subparagraph (A) shall not be construed to–
-        (i) imply that an entity described in subparagraph (A)(ii) or (iii) would, if this paragraph were not applicable, necessarily be liable to any entity by reason of any of the acts described in subparagraph (A);
-        (ii) relieve any such entity of the duty to comply with, or of liability under, any Federal or State law regarding the making of a fraudulent conveyance in a transaction described in subparagraph (A)(ii) or (iii); or
-        (iii) relieve a debtor of the debtor“s obligation to comply with the terms of the plan of reorganization, or affect the power of the court to exercise its authority under sections 1141 and 1142 to compel the debtor to do so.
-    (4)      (A)        (i) Subject to subparagraph (B), an injunction described in paragraph (1) shall be valid and enforceable against all entities that it addresses.
-        (ii) Notwithstanding the provisions of section 524(e), such an injunction may bar any action directed against a third party who is identifiable from the terms of such injunction (by name or as part of an identifiable group) and is alleged to be directly or indirectly liable for the conduct of, claims against, or demands on the debtor to the extent such alleged liability of such third party arises by reason of–
-          (I) the third party“s ownership of a financial interest in the debtor, a past or present affiliate of the debtor, or a predecessor in interest of the debtor;
-          (II) the third party“s involvement in the management of the debtor or a predecessor in interest of the debtor, or service as an officer, director or employee of the debtor or a related party;
-          (III) the third party“s provision of insurance to the debtor or a related party; or
-          (IV) the third party“s involvement in a transaction changing the corporate structure, or in a loan or other financial transaction affecting the financial condition, of the debtor or a related party, including but not limited to–
-            (aa) involvement in providing financing (debt or equity), or advice to an entity involved in such a transaction; or
-            (bb) acquiring or selling a financial interest in an entity as part of such a transaction.
-        (iii) As used in this subparagraph, the term ””related party““ means–
-          (I) a past or present affiliate of the debtor;
-          (II) a predecessor in interest of the debtor; or
-          (III) any entity that owned a financial interest in–
-            (aa) the debtor;
-            (bb) a past or present affiliate of the debtor; or
-            (cc) a predecessor in interest of the debtor.
-      (B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if–
-        (i) as part of the proceedings leading to issuance of such injunction, the court appoints a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
-        (ii) the court determines, before entering the order confirming such plan, that identifying such debtor or debtors, or such third party (by name or as part of an identifiable group), in such injunction with respect to such demands for purposes of this subparagraph is fair and equitable with respect to the persons that might subsequently assert such demands, in light of the benefits provided, or to be provided, to such trust on behalf of such debtor or debtors or such third party.
-    (5) In this subsection, the term ””demand““ means a demand for payment, present or future, that–
-      (A) was not a claim during the proceedings leading to the confirmation of a plan of reorganization;
-      (B) arises out of the same or similar conduct or events that gave rise to the claims addressed by the injunction issued under paragraph (1); and
-      (C) pursuant to the plan, is to be paid by a trust described in paragraph (2)(B)(i).
-    (6) Paragraph (3)(A)(i) does not bar an action taken by or at the direction of an appellate court on appeal of an injunction issued under paragraph (1) or of the order of confirmation that relates to the injunction.
-    (7) This subsection does not affect the operation of section 1144 or the power of the district court to refer a proceeding under section 157 of title 28 or any reference of a proceeding made prior to the date of the enactment of this subsection.
-  (h) T4Application to Existing InjunctionsK.–For purposes of subsection (g)–
-    (1) subject to paragraph (2), if an injunction of the kind described in subsection (g)(1)(B) was issued before the date of the enactment of this Act, as part of a plan of reorganization confirmed by an order entered before such date, then the injunction shall be considered to meet the requirements of subsection (g)(2)(B) for purposes of subsection (g)(2)(A), and to satisfy subsection (g)(4)(A)(ii), if–
-      (A) the court determined at the time the plan was confirmed that the plan was fair and equitable in accordance with the requirements of section 1129(b);
-      (B) as part of the proceedings leading to issuance of such injunction and confirmation of such plan, the court had appointed a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands described in subsection (g)(4)(B) with respect to such plan; and
-      (C) such legal representative did not object to confirmation of such plan or issuance of such injunction; and
-    (2) for purposes of paragraph (1), if a trust described in subsection (g)(2)(B)(i) is subject to a court order on the date of the enactment of this Act staying such trust from settling or paying further claims–
-      (A) the requirements of subsection (g)(2)(B)(ii)(V) shall not apply with respect to such trust until such stay is lifted or dissolved; and
-      (B) if such trust meets such requirements on the date such stay is lifted or dissolved, such trust shall be considered to have met such requirements continuously from the date of the enactment of this Act.
+  (a) A discharge under section 727, 1141, 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt–
+    (1) for a tax or a customs duty–
+      (A) of the kind and for the periods specified in section 507(a)(3) or 507(a)(8) of this title, whether or not a claim for such tax was filed or allowed;
+      (B) with respect to which a return, or equivalent report or notice, if required–
+        (i) was not filed or given; or
+        (ii) was filed or given after the date on which such return, report, or notice was last due, under applicable law or under any extension, and after two years before the date of the filing of the petition; or
+      (C) with respect to which the debtor made a fraudulent return or willfully attempted in any manner to evade or defeat such tax;
+    (2) for money, property, services, or an extension, renewal, or refinancing of credit, to the extent obtained by–
+      (A) false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor“s or an insider“s financial condition;
+      (B) use of a statement in writing–
+        (i) that is materially false;
+        (ii) respecting the debtor“s or an insider“s financial condition;
+        (iii) on which the creditor to whom the debtor is liable for such money, property, services, or credit reasonably relied; and
+        (iv) that the debtor caused to be made or published with intent to deceive; or
+      (C)        (i) for purposes of subparagraph (A)–
+          (I) consumer debts owed to a single creditor and aggregating more than $500 for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
+          (II) cash advances aggregating more than $750 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
+        (ii) for purposes of this subparagraph–
+          (I) the terms ””consumer““, ””credit““, and ””open end credit plan““ have the same meanings as in section 103 of the Truth in Lending Act; and
+          (II) the term ””luxury goods or services““ does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor.
+    (3) neither listed nor scheduled under section 521(1) of this title, with the name, if known to the debtor, of the creditor to whom such debt is owed, in time to permit–
+      (A) if such debt is not of a kind specified in paragraph (2), (4), or (6) of this subsection, timely filing of a proof of claim, unless such creditor had notice or actual knowledge of the case in time for such timely filing; or
+      (B) if such debt is of a kind specified in paragraph (2), (4), or (6) of this subsection, timely filing of a proof of claim and timely request for a determination of dischargeability of such debt under one of such paragraphs, unless such creditor had notice or actual knowledge of the case in time for such timely filing and request;
+    (4) for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny;
+    (5) for a domestic support obligation;
+    (6) for willful and malicious injury by the debtor to another entity or to the property of another entity;
+    (7) to the extent such debt is for a fine, penalty, or forfeiture payable to and for the benefit of a governmental unit, and is not compensation for actual pecuniary loss, other than a tax penalty–
+      (A) relating to a tax of a kind not specified in paragraph (1) of this subsection; or
+      (B) imposed with respect to a transaction or event that occurred before three years before the date of the filing of the petition;
+    (8) unless excepting such debt from discharge under this paragraph would impose an undue hardship on the debtor and the debtor“s dependents, for–
+      (A)        (i) an educational benefit overpayment or loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution; or
+        (ii) an obligation to repay funds received as an educational benefit, scholarship, or stipend; or
+      (B) any other educational loan that is a qualified education loan, as defined in section 221(d)(1) of the Internal Revenue Code of 1986, incurred by a debtor who is an individual;
+    (9) for death or personal injury caused by the debtor“s operation of a motor vehicle, vessel, or aircraft if such operation was unlawful because the debtor was intoxicated from using alcohol, a drug, or another substance;
+    (10) that was or could have been listed or scheduled by the debtor in a prior case concerning the debtor under this title or under the Bankruptcy Act in which the debtor waived discharge, or was denied a discharge under section 727(a)(2), (3), (4), (5), (6), or (7) of this title, or under section 14c(1), (2), (3), (4), (6), or (7) of such Act;
+    (11) provided in any final judgment, unreviewable order, or consent order or decree entered in any court of the United States or of any State, issued by a Federal depository institutions regulatory agency, or contained in any settlement agreement entered into by the debtor, arising from any act of fraud or defalcation while acting in a fiduciary capacity committed with respect to any depository institution or insured credit union;
+    (12) for malicious or reckless failure to fulfill any commitment by the debtor to a Federal depository institutions regulatory agency to maintain the capital of an insured depository institution, except that this paragraph shall not extend any such commitment which would otherwise be terminated due to any act of such agency;
+    (13) for any payment of an order of restitution issued under title 18, United States Code;
+    (14) incurred to pay a tax to the United States that would be nondischargeable pursuant to paragraph (1);
+    (14A) incurred to pay a tax to a governmental unit, other than the United States, that would be nondischargeable under paragraph (1);
+    (14B) incurred to pay fines or penalties imposed under Federal election law;
+    (15) to a spouse, former spouse, or child of the debtor and not of the kind described in paragraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree or other order of a court of record, or a determination made in accordance with State or territorial law by a governmental unit;
+    (16) for a fee or assessment that becomes due and payable after the order for relief to a membership association with respect to the debtor“s interest in a unit that has condominium ownership, in a share of a cooperative corporation, or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot, but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
+    (17) for a fee imposed on a prisoner by any court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under subsection (b) or (f)(2) of section 1915 of title 28 (or a similar non-Federal law), or the debtor“s status as a prisoner, as defined in section 1915(h) of title 28 (or a similar non-Federal law);
+    (18) owed to a pension, profit-sharing, stock bonus, or other plan established under section 401, 403, 408, 408A, 414, 457, or 501(c) of the Internal Revenue Code of 1986, under–
+      (A) a loan permitted under section 408(b)(1) of the Employee Retirement Income Security Act of 1974, or subject to section 72(p) of the Internal Revenue Code of 1986; or
+      (B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 of title 5, that satisfies the requirements of section 8433(g) of such title;
+     but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title; or
+    (19) that–
+      (A) is for–
+        (i) the violation of any of the Federal securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934), any of the State securities laws, or any regulation or order issued under such Federal or State securities laws; or
+        (ii) common law fraud, deceit, or manipulation in connection with the purchase or sale of any security; and
+      (B) results, before, on, or after the date on which the petition was filed, from–
+        (i) any judgment, order, consent order, or decree entered in any Federal or State judicial or administrative proceeding;
+        (ii) any settlement agreement entered into by the debtor; or
+        (iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
+           For purposes of this subsection, the term ””return““ means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
+  (b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A \1\N of the Higher Education Act of 1965, or under section 733(g) \1\ of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+  (c)    (1) Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), or (6) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), or (6), as the case may be, of subsection (a) of this section.
+    (2) Paragraph (1) shall not apply in the case of a Federal depository institutions regulatory agency seeking, in its capacity as conservator, receiver, or liquidating agent for an insured depository institution, to recover a debt described in subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed to such institution by an institution-affiliated party unless the receiver, conservator, or liquidating agent was appointed in time to reasonably comply, or for a Federal depository institutions regulatory agency acting in its corporate capacity as a successor to such receiver, conservator, or liquidating agent to reasonably comply, with subsection (a)(3)(B) as a creditor of such institution-affiliated party with respect to such debt.
+  (d) If a creditor requests a determination of dischargeability of a consumer debt under subsection (a)(2) of this section, and such debt is discharged, the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney“s fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust.
+  (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).

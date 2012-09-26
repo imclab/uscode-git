@@ -15,19 +15,26 @@
       (B) on the ground of privilege against self-incrimination, to respond to a material question approved by the court or to testify, after the debtor has been granted immunity with respect to the matter concerning which such privilege was invoked; or
       (C) on a ground other than the properly invoked privilege against self-incrimination, to respond to a material question approved by the court or to testify;
     (7) the debtor has committed any act specified in paragraph (2), (3), (4), (5), or (6) of this subsection, on or within one year before the date of the filing of the petition, or during the case, in connection with another case, under this title or under the Bankruptcy Act, concerning an insider;
-    (8) the debtor has been granted a discharge under this section, under section 1141 of this title, or under section 14, 371, or 476 of the Bankruptcy Act, in a case commenced within six years before the date of the filing of the petition;
+    (8) the debtor has been granted a discharge under this section, under section 1141 of this title, or under section 14, 371, or 476 of the Bankruptcy Act, in a case commenced within 8 years before the date of the filing of the petition;
     (9) the debtor has been granted a discharge under section 1228 or 1328 of this title, or under section 660 or 661 of the Bankruptcy Act, in a case commenced within six years before the date of the filing of the petition, unless payments under the plan in such case totaled at least–
       (A) 100 percent of the allowed unsecured claims in such case; or
       (B)        (i) 70 percent of such claims; and
-        (ii) the plan was proposed by the debtor in good faith, and was the debtor“s best effort; or
-    (10) the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter.
+        (ii) the plan was proposed by the debtor in good faith, and was the debtor“s best effort;
+    (10) the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter;
+    (11) after filing the petition, the debtor failed to complete an instructional course concerning personal financial management described in section 111, except that this paragraph shall not apply with respect to a debtor who is a person described in section 109(h)(4) or who resides in a district for which the United States trustee (or the bankruptcy administrator, if any) determines that the approved instructional courses are not adequate to service the additional individuals who would otherwise be required to complete such instructional courses under this section (The United States trustee (or the bankruptcy administrator, if any) who makes a determination described in this paragraph shall review such determination not later than 1 year after the date of such determination, and not less frequently than annually thereafter.); or
+    (12) the court after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge finds that there is reasonable cause to believe that–
+      (A) section 522(q)(1) may be applicable to the debtor; and
+      (B) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
   (b) Except as provided in section 523 of this title, a discharge under subsection (a) of this section discharges the debtor from all debts that arose before the date of the order for relief under this chapter, and any liability on a claim that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, whether or not a proof of claim based on any such debt or liability is filed under section 501 of this title, and whether or not a claim based on any such debt or liability is allowed under section 502 of this title.
   (c)    (1) The trustee, a creditor, or the United States trustee may object to the granting of a discharge under subsection (a) of this section.
     (2) On request of a party in interest, the court may order the trustee to examine the acts and conduct of the debtor to determine whether a ground exists for denial of discharge.
   (d) On request of the trustee, a creditor, or the United States trustee, and after notice and a hearing, the court shall revoke a discharge granted under subsection (a) of this section if–
     (1) such discharge was obtained through the fraud of the debtor, and the requesting party did not know of such fraud until after the granting of such discharge;
-    (2) the debtor acquired property that is property of the estate, or became entitled to acquire property that would be property of the estate, and knowingly and fraudulently failed to report the acquisition of or entitlement to such property, or to deliver or surrender such property to the trustee; or
-    (3) the debtor committed an act specified in subsection (a)(6) of this section.
+    (2) the debtor acquired property that is property of the estate, or became entitled to acquire property that would be property of the estate, and knowingly and fraudulently failed to report the acquisition of or entitlement to such property, or to deliver or surrender such property to the trustee;
+    (3) the debtor committed an act specified in subsection (a)(6) of this section; or
+    (4) the debtor has failed to explain satisfactorily–
+      (A) a material misstatement in an audit referred to in section 586(f) of title 28; or
+      (B) a failure to make available for inspection all necessary accounts, papers, documents, financial records, files, and all other papers, things, or property belonging to the debtor that are requested for an audit referred to in section 586(f) of title 28.
   (e) The trustee, a creditor, or the United States trustee may request a revocation of a discharge–
     (1) under subsection (d)(1) of this section within one year after such discharge is granted; or
     (2) under subsection (d)(2) or (d)(3) of this section before the later of–

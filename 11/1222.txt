@@ -1,7 +1,10 @@
   (a) The plan shall–
     (1) provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
-    (2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim; and
-    (3) if the plan classifies claims and interests, provide the same treatment for each claim or interest within a particular class unless the holder of a particular claim or interest agrees to less favorable treatment.
+    (2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507, unless–
+      (A) the claim is a claim owed to a governmental unit that arises as a result of the sale, transfer, exchange, or other disposition of any farm asset used in the debtor“s farming operation, in which case the claim shall be treated as an unsecured claim that is not entitled to priority under section 507, but the debt shall be treated in such manner only if the debtor receives a discharge; or
+      (B) the holder of a particular claim agrees to a different treatment of that claim;
+    (3) if the plan classifies claims and interests, provide the same treatment for each claim or interest within a particular class unless the holder of a particular claim or interest agrees to less favorable treatment; and
+    (4) notwithstanding any other provision of this section, a plan may provide for less than full payment of all amounts owed for a claim entitled to priority under section 507(a)(1)(B) only if the plan provides that all of the debtor“s projected disposable income for a 5-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
   (b) Subject to subsections (a) and (c) of this section, the plan may–
     (1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
     (2) modify the rights of holders of secured claims, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims;
@@ -12,7 +15,8 @@
     (7) provide for the payment of all or part of a claim against the debtor from property of the estate or property of the debtor;
     (8) provide for the sale of all or any part of the property of the estate or the distribution of all or any part of the property of the estate among those having an interest in such property;
     (9) provide for payment of allowed secured claims consistent with section 1225(a)(5) of this title, over a period exceeding the period permitted under section 1222(c);
-    (10) provide for the vesting of property of the estate, on confirmation of the plan or at a later time, in the debtor or in any other entity; and
-    (11) include any other appropriate provision not inconsistent with this title.
+    (10) provide for the vesting of property of the estate, on confirmation of the plan or at a later time, in the debtor or in any other entity;
+    (11) provide for the payment of interest accruing after the date of the filing of the petition on unsecured claims that are nondischargeable under section 1228(a), except that such interest may be paid only to the extent that the debtor has disposable income available to pay such interest after making provision for full payment of all allowed claims; and
+    (12) include any other appropriate provision not inconsistent with this title.
   (c) Except as provided in subsections (b)(5) and (b)(9), the plan may not provide for payments over a period that is longer than three years unless the court for cause approves a longer period, but the court may not approve a period that is longer than five years.
   (d) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.

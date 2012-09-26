@@ -1,7 +1,7 @@
-  (a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt–
+  (a) Subject to subsection (d), as soon as practicable after completion by the debtor of all payments under the plan, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt–
     (1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
     (2) of the kind specified in section 523(a) of this title.
-  (b) At any time after the confirmation of the plan and after notice and a hearing, the court may grant a discharge to a debtor that has not completed payments under the plan only if–
+  (b) Subject to subsection (d), at any time after the confirmation of the plan and after notice and a hearing, the court may grant a discharge to a debtor that has not completed payments under the plan only if–
     (1) the debtor“s failure to complete such payments is due to circumstances for which the debtor should not justly be held accountable;
     (2) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 of this title on such date; and
     (3) modification of the plan under section 1229 of this title is not practicable.
@@ -12,3 +12,6 @@
     (1) such discharge was obtained by the debtor through fraud; and
     (2) the requesting party did not know of such fraud until after such discharge was granted.
   (e) After the debtor is granted a discharge, the court shall terminate the services of any trustee serving in the case.
+  (f) The court may not grant a discharge under this chapter unless the court after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge finds that there is no reasonable cause to believe that–
+    (1) section 522(q)(1) may be applicable to the debtor; and
+    (2) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).

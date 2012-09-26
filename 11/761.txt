@@ -6,8 +6,13 @@
     (A) with respect to a futures commission merchant, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
     (B) with respect to a foreign futures commission merchant, foreign future;
     (C) with respect to a leverage transaction merchant, leverage transaction;
-    (D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization; or
+    (D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
     (E) with respect to a commodity options dealer, commodity option;
+    (F) any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;
+    (G) any combination of the agreements or transactions referred to in this paragraph;
+    (H) any option to enter into an agreement or transaction referred to in this paragraph;
+    (I) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H), together with all supplements to such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this paragraph, except that the master agreement shall be considered to be a commodity contract under this paragraph only with respect to each agreement or transaction under the master agreement that is referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H); or
+    (J) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this paragraph, including any guarantee or reimbursement obligation by or to a commodity broker or financial participant in connection with any agreement or transaction referred to in this paragraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562;
   (5) ””commodity option““ means agreement or transaction subject to regulation under section 4c(b) of the Act;
   (6) ””commodity options dealer““ means person that extends credit to, or that accepts cash, a security, or other property from, a customer of such person for the purchase or sale of an interest in a commodity option;
   (7) ””contract market““ means a registered entity;
