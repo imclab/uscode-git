@@ -1,0 +1,52 @@
+  (a) Certifications and reports prerequisite to obligation or expenditure of funds; source of funds
+    (1) Of the funds appropriated to the Commission pursuant to section 78kk of this title for fiscal year 1988 which are available pursuant to section 78kk(b) of this title for establishment or operation of the electronic data gathering, analysis, and retrieval (””EDGAR““) system, the Commission may not obligate or expend more than $5,000,000 for the establishment or operation of the EDGAR system unless the Commission has made the certification required by subsection (c) of this section.
+    (2) Notwithstanding section 78kk(b) of this title, no funds appropriated for fiscal year 1989 may be obligated or expended for the establishment or operation of the EDGAR system, unless the Commission has–
+      (A) filed each report required during fiscal year 1988 by subsection (b) of this section; and
+      (B) made the certification required by subsection (c) of this section.
+    (3) Amounts which are available to the Commission under section 78kk(b) of this title for the EDGAR contract shall be the exclusive source of funds for the procurement and operation of the systems created under that contract by or on behalf of the Securities and Exchange Commission–
+      (A) for the receipt of filings under Federal securities laws, and
+      (B) for the automated acceptance and review of the filings and information derived from such filings.
+  (b) Status and progress reports to Congressional committees
+     The Commission shall submit a report to the Committees on Banking, Housing, and Urban Affairs and Governmental Affairs of the Senate and the Committees on Energy and Commerce and Government Operations of the House of Representatives on the status of EDGAR development, implementation, and progress at six-month intervals beginning December 31, 1987, and ending at the close of 1990 (unless otherwise extended by the Congress). Such report shall include the following:
+    (1) The overall progress and status of the project, including achievement of significant milestones and current project schedule.
+    (2) The results of Commission efforts to test new or revised technical solutions for key EDGAR functions. In particular, the following functions shall be addressed and the indicated information provided:
+      (A) Automating receipt and acceptance processing, including–
+        (i) development and testing progress and results;
+        (ii) actual versus estimated development cost; and
+        (iii) actual effect of this function on Commission staff needs to assist filers.
+      (B) Data tagging (identifying financial data for analysis by EDGAR), including–
+        (i) description of the approach selected, identifying the types of financial data to be tagged and the calculations to be performed;
+        (ii) comments by the filer population on the approach selected;
+        (iii) the results of testing this approach, including information on the number of filers taking part in the test and their representativeness of the overall filer population;
+        (iv) actual versus estimated development cost; and
+        (v) effect of implementing this function on EDGAR benefits.
+      (C) Searching text for keywords, including–
+        (i) the technical approach adopted for this function;
+        (ii) development and testing progress and results;
+        (iii) data storage requirements and search response times as compared to EDGAR pilot system experience;
+        (iv) actual versus estimated development cost; and
+        (v) effect of implementing this function on EDGAR benefits.
+    (3) An update of cost information for the receipt, acceptance and review, and dissemination portions of the system including a comparison of actual costs with original estimated costs and revised estimates of total system cost and total funding needs for the contract.
+    (4) The status of Commission efforts to obtain and maintain staff with the proper contractual, managerial, and technical expertise to oversee the EDGAR project.
+    (5) The fees, revenues, costs, and profits obtained or incurred by the contractor as a result of the required dissemination of information from the system to the public under the EDGAR contract, except that the information required under this paragraph (A) need be obtained from the contractor no more frequently than once each year, and (B) may be submitted to the Congress as a separate confidential document.
+    (6) Such other information or recommendations as the Commission considers appropriate.
+  (c) Certification respecting prescribed items to Congressional committees
+     On or before the date the Commission enters into the contract for the EDGAR system, the Commission shall submit to the Committees on Banking, Housing, and Urban Affairs and Governmental Affairs of the Senate and the Committees on Energy and Commerce and Government Operations of the House of Representatives a certification by the Commission–
+    (1) of the total contract costs to the Federal Government of the EDGAR system for each of the 3 succeeding fiscal years;
+    (2) that the Commission has analyzed the quantitative and qualitative benefits to be obtained by the establishment and operation of the system and has determined that such benefits justify the costs certified pursuant to paragraph (1);
+    (3) that (A) the contract requires the contractor to establish a schedule for the implementation of the system; (B) the Commission has reviewed and approved that schedule; and (C) the contract contains adequate assurances of contractor compliance with that schedule;
+    (4) of the capabilities which the system is intended to provide and of the competence of the contractor and of Commission personnel to implement those capabilities; and
+    (5) that mandatory filings from a significant test group of registrants will be received and reviewed by the Commission for a period of at least six months before the adoption of any rule requiring mandatory filing by all registrants.
+  (d) Rules or regulations
+     The Commission, by rule or regulation–
+    (1) shall provide that any information in the EDGAR system that is required to be disseminated by the contractor–
+      (A) may be sold or disseminated by the contractor only pursuant to a uniform schedule of fees prescribed by the Commission;
+      (B) may be obtained by a purchaser by direct interconnection with the EDGAR system;
+      (C) shall be equally available on equal terms to all persons; and
+      (D) may be used, resold, or redisseminated by any person who has lawfully obtained such information without restriction and without payment of additional fees or royalties; and
+    (2) shall require that persons, or classes of persons, required to make filings with the Commission submit such filings in a form and manner suitable for entry into the EDGAR system and shall specify the date that such requirement is effective with respect to that person or class; except that the Commission may exempt persons or classes of persons, or filings or classes of filings, from such rules or regulations in order to prevent hardships or to avoid imposing unreasonable burdens or as otherwise may be necessary or appropriate; and
+    (3) shall require all persons who make any filing with the Commission, in addition to complying with such other rules concerning the form and manner of filing as the Commission may prescribe, to submit such filings in written or printed form–
+      (A) for a period of at least one year after the effective date specified for such person or class under paragraph (2); or
+      (B) for a shorter period if the Commission determines that the EDGAR system (i) is reliable, (ii) provides a suitable alternative to such written and printed filings, and (iii) assures that the provision of information through the EDGAR system is as effective and efficient for filers, users, and disseminators as provision of such information in written or printed form.
+  (e) Consultations of Commission with representatives of information interests
+     For the purposes of carrying out its responsibilities under subsection (d)(3) of this section, the Commission shall consult with representatives of persons filing, disseminating, and using information contained in filings with the Commission.

@@ -1,7 +1,41 @@
-  (a) For each fiscal year, Congress shall authorize the strength for active duty personnel of the Coast Guard as of the end of that fiscal year. Amounts may be appropriated for a fiscal year to or for the use of active duty personnel of the Coast Guard only if the end strength for active duty personnel for that fiscal year has been authorized by law.
-  (b)    (1) Congress shall authorize the average military training student loads for the Coast Guard for each fiscal year. That authorization is required for student loads for the following individual training categories:
-      (A) Recruit and specialized training.
-      (B) Flight training.
-      (C) Professional training in military and civilian institutions.
-      (D) Officer acquisition training.
-    (2) Amounts may be appropriated for a fiscal year for use in training military personnel of the Coast Guard in the categories referred to in paragraph (1) only if the average student loads for the Coast Guard for that fiscal year have been authorized by law.
+   As used in this chapter–
+  (1) the term ””Administration““ means the Small Business Administration;
+  (2) the term ””Administrator““ means the Administrator of the Small Business Administration;
+  (3) the terms ””small business investment company““, ””company““, and ””licensee““ mean a company approved by the Administration to operate under the provisions of this chapter and issued a license as provided in section 681 of this title;
+  (4) the term ””State““ includes the several States, the territories and possessions of the United States, the Commonwealth of Puerto Rico, and the District of Columbia;
+  (5) the term ””small-business concern““ shall have the same meaning as in the Small Business Act [15 U.S.C. 631 et seq.], except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation–
+    (A) shall not cause a business concern to be deemed not independently owned and operated;
+    (B) shall be disregarded in determining whether a business concern satisfies size standards established pursuant to section 3(a)(2) of the Small Business Act [15 U.S.C. 632(a)(2)]; and
+    (C) shall be disregarded in determining whether a small business concern is a smaller enterprise;
+  (6) the term ””development companies““ means enterprises incorporated under State law with the authority to promote and assist the growth and development of small-business concerns in the areas covered by their operations;
+  (7) the term ””license““ means a license issued by the Administration as provided in section 681 of this title;
+  (8) the term ””articles““ means articles of incorporation for an incorporated body and means the functional equivalent or other similar documents specified by the Administrator for other business entities;
+  (9) the term ””private capital““–
+    (A) means the sum of–
+      (i) the paid-in capital and paid-in surplus of a corporate licensee, the contributed capital of the partners of a partnership licensee, or the equity investment of the members of a limited liability company licensee; and
+      (ii) unfunded binding commitments, from investors that meet criteria established by the Administrator, to contribute capital to the licensee: T3ProvidedK, That such unfunded commitments may be counted as private capital for purposes of approval by the Administrator of any request for leverage, but leverage shall not be funded based on such commitments; and
+    (B) does not include any–
+      (i) funds borrowed by a licensee from any source;
+      (ii) funds obtained through the issuance of leverage; or
+      (iii) funds obtained directly or indirectly from any Federal, State, or local government, or any government agency or instrumentality, except for–
+        (I) funds invested by an employee welfare benefit plan or pension plan; and
+        (II) any qualified nonprivate funds (if the investors of the qualified nonprivate funds do not control, directly or indirectly, the management, board of directors, general partners, or members of the licensee);
+  (10) the term ””leverage““ includes–
+    (A) debentures purchased or guaranteed by the Administration;
+    (B) participating securities purchased or guaranteed by the Administration; and
+    (C) preferred securities outstanding as of October 1, 1995;
+  (11) the term ””third party debt““ means any indebtedness for borrowed money, other than indebtedness owed to the Administration;
+  (12) the term ””smaller enterprise““ means any small business concern that, together with its affiliates–
+    (A) has–
+      (i) a net financial worth of not more than $6,000,000, as of the date on which assistance is provided under this chapter to that business concern; and
+      (ii) an average net income for the 2-year period preceding the date on which assistance is provided under this chapter to that business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses); or
+    (B) satisfies the standard industrial classification size standards established by the Administration for the industry in which the small business concern is primarily engaged;
+  (13) the term ””qualified nonprivate funds““ means any–
+    (A) funds directly or indirectly invested in any applicant or licensee on or before August 16, 1982, by any Federal agency, other than the Administration, under a provision of law explicitly mandating the inclusion of those funds in the definition of the term ””private capital““;
+    (B) funds directly or indirectly invested in any applicant or licensee by any Federal agency under a provision of law enacted after September 4, 1992, explicitly mandating the inclusion of those funds in the definition of the term ””private capital““; and
+    (C) funds invested in any applicant or licensee by one or more State or local government entities (including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent of the private capital of the applicant or licensee;
+  (14) the terms ””employee welfare benefit plan““ and ””pension plan““ have the same meanings as in section 3 of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1002], and are intended to include–
+    (A) public and private pension or retirement plans subject to such Act [29 U.S.C. 1001 et seq.]; and
+    (B) similar plans not covered by such Act that have been established and that are maintained by the Federal Government or any State or political subdivision, or any agency or instrumentality thereof, for the benefit of employees;
+  (15) the term ””member““ means, with respect to a licensee that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company; and
+  (16) the term ””limited liability company““ means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Administration.
