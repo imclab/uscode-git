@@ -23,6 +23,30 @@
       (D) T4Special ruleK.–(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefense category outlays or discretionary category outlays.
   (ii) If the obligation limitations for accounts in the highway or mass transit category provided in an appropriation Act for a fiscal year exceed the obligation limitations set forth in section 8103 of the Transportation Equity Act for the 21st Century for that year, as adjusted, the estimated outlays flowing for each outyear from such excess obligations calculated pursuant to clause (iii) shall be attributed to the discretionary category in that outyear.
   (iii) For purposes of clause (ii), outlays from excess obligations shall be determined using the average of the spendout rates for that category in the baseline.
+  (E) The term ””conservation spending category““ means discretionary appropriations for conservation activities in the following budget accounts or portions thereof providing appropriations to preserve and protect lands, habitat, wildlife, and other natural resources, to provide recreational opportunities, and for related purposes:
+    (i) 14–5033 Bureau of Land Management Land Acquisition.
+    (ii) 14–5020 Fish and Wildlife Service Land Acquisition.
+    (iii) 14–5035 National Park Service Land Acquisition and State Assistance.
+    (iv) 12–9923 Forest Service Land Acquisition.
+    (v) 14–5143 Fish and Wildlife Service Cooperative Endangered Species Conservation Fund.
+    (vi) 14–5241 Fish and Wildlife Service North American Wetlands Conservation Fund.
+    (vii) 14–1694 Fish and Wildlife Service State Wildlife Grants.
+    (viii) 14–0804 United States Geological Survey Surveys, Investigations, and Research, the State Planning Partnership programs: Community/Federal Information Partnership, Urban Dynamics, and Decision Support for Resource Management.
+    (ix) 12–1105 Forest Service State and Private Forestry, the Forest Legacy Program, Urban and Community Forestry, and Smart Growth Partnerships.
+    (x) 14–1031 National Park Service Urban Park and Recreation Recovery program.
+    (xi) 14–5140 National Park Service Historic Preservation Fund.
+    (xii) Youth Conservation Corps.
+    (xiii) 14–1114 Bureau of Land Management Payments in Lieu of Taxes.
+    (xiv) Federal Infrastructure Improvement (as established in title VIII of the Department of the Interior and Related Agencies Appropriations Act, 2001).
+    (xv) 13–1460 NOAA Procurement Acquisition and Construction, the National Marine Sanctuaries and the National Estuarine Research Reserve Systems.
+    (xvi) 13–1450 NOAA Operations, Research, and Facilities, the Coastal Zone Management Act programs, the National Marine Sanctuaries, the National Estuarine Research Reserve Systems, and Coral Restoration programs.
+    (xvii) 13–1451 NOAA Pacific Coastal Salmon Recovery.
+  (F) The term ””Federal and State Land and Water Conservation Fund sub-category““ means discretionary appropriations for activities in the accounts described in (E)(i)–(E)(iv) \2\N or portions thereof.
+  (G) The term ””State and Other Conservation sub-category““ means discretionary appropriations for activities in the accounts described in (E)(v)–(E)(ix),\2\ with the exception of Urban and Community Forestry as described in (E)(ix),\2\ or portions thereof.
+  (H) The term ””Urban and Historic Preservation sub-category““ means discretionary appropriations for activities in the accounts described in (E)(ix)–(E)(xii),\2\ with the exception of Forest Legacy and Smart Growth Partnerships as described in (E)(ix),\2\ or portions thereof.
+  (I) The term ””Payments in Lieu of Taxes sub-category““ means discretionary appropriations for activities in the account described in (E)(xiii)\2\ or portions thereof.
+  (J) The term ””Federal Deferred Maintenance sub-category““ means discretionary appropriations for activities in the account described in (E)(xiv)\2\ or portions thereof.
+  (K) The term ””Coastal Assistance sub-category““ means discretionary appropriations for activities in the accounts described in (E)(xv)–(E)(xvii)\2\ or portions thereof.
   (5) The term ””baseline““ means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
   (6) The term ””budgetary resources““ means new budget authority, unobligated balances, direct spending authority, and obligation limitations.
   (7) The term ””discretionary appropriations““ means budgetary resources (except to fund direct-spending programs) provided in appropriation Acts.
@@ -39,5 +63,5 @@
   (15) The term ””OMB““ means the Director of the Office of Management and Budget.
   (16) The term ””CBO““ means the Director of the Congressional Budget Office.
   (17) As used in this subchapter, all references to entitlement authority shall include the list of mandatory appropriations included in the joint explanatory statement of managers accompanying the conference report on the Balanced Budget Act of 1997.
-  (18) The term ””deposit insurance““ refers to the expenses \2\N the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
+  (18) The term ””deposit insurance““ refers to the expenses \3\N the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
   (19) The term ””asset sale““ means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 [2 U.S.C. 661 et seq.]), whether physical or financial, owned in whole or in part by the United States.
