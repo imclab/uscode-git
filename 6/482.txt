@@ -1,0 +1,54 @@
+  (a) Procedures for determining extent of sharing of homeland security information
+    (1) The President shall prescribe and implement procedures under which relevant Federal agencies–
+      (A) share relevant and appropriate homeland security information with other Federal agencies, including the Department, and appropriate State and local personnel;
+      (B) identify and safeguard homeland security information that is sensitive but unclassified; and
+      (C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
+    (2) The President shall ensure that such procedures apply to all agencies of the Federal Government.
+    (3) Such procedures shall not change the substantive requirements for the classification and safeguarding of classified information.
+    (4) Such procedures shall not change the requirements and authorities to protect sources and methods.
+  (b) Procedures for sharing of homeland security information
+    (1) Under procedures prescribed by the President, all appropriate agencies, including the intelligence community, shall, through information sharing systems, share homeland security information with Federal agencies and appropriate State and local personnel to the extent such information may be shared, as determined in accordance with subsection (a) of this section, together with assessments of the credibility of such information.
+    (2) Each information sharing system through which information is shared under paragraph (1) shall–
+      (A) have the capability to transmit unclassified or classified information, though the procedures and recipients for each capability may differ;
+      (B) have the capability to restrict delivery of information to specified subgroups by geographic location, type of organization, position of a recipient within an organization, or a recipient“s need to know such information;
+      (C) be configured to allow the efficient and effective sharing of information; and
+      (D) be accessible to appropriate State and local personnel.
+    (3) The procedures prescribed under paragraph (1) shall establish conditions on the use of information shared under paragraph (1)–
+      (A) to limit the redissemination of such information to ensure that such information is not used for an unauthorized purpose;
+      (B) to ensure the security and confidentiality of such information;
+      (C) to protect the constitutional and statutory rights of any individuals who are subjects of such information; and
+      (D) to provide data integrity through the timely removal and destruction of obsolete or erroneous names and information.
+    (4) The procedures prescribed under paragraph (1) shall ensure, to the greatest extent practicable, that the information sharing system through which information is shared under such paragraph include existing information sharing systems, including, but not limited to, the National Law Enforcement Telecommunications System, the Regional Information Sharing System, and the Terrorist Threat Warning System of the Federal Bureau of Investigation.
+    (5) Each appropriate Federal agency, as determined by the President, shall have access to each information sharing system through which information is shared under paragraph (1), and shall therefore have access to all information, as appropriate, shared under such paragraph.
+    (6) The procedures prescribed under paragraph (1) shall ensure that appropriate State and local personnel are authorized to use such information sharing systems–
+      (A) to access information shared with such personnel; and
+      (B) to share, with others who have access to such information sharing systems, the homeland security information of their own jurisdictions, which shall be marked appropriately as pertaining to potential terrorist activity.
+    (7) Under procedures prescribed jointly by the Director of Central Intelligence and the Attorney General, each appropriate Federal agency, as determined by the President, shall review and assess the information shared under paragraph (6) and integrate such information with existing intelligence.
+  (c) Sharing of classified information and sensitive but unclassified information with State and local personnel
+    (1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified or otherwise protected after the determinations prescribed under the procedures set forth in subsection (a) of this section.
+    (2) It is the sense of Congress that such procedures may include 1 or more of the following means:
+      (A) Carrying out security clearance investigations with respect to appropriate State and local personnel.
+      (B) With respect to information that is sensitive but unclassified, entering into nondisclosure agreements with appropriate State and local personnel.
+      (C) Increased use of information-sharing partnerships that include appropriate State and local personnel, such as the Joint Terrorism Task Forces of the Federal Bureau of Investigation, the Anti-Terrorism Task Forces of the Department of Justice, and regional Terrorism Early Warning Groups.
+  (d) Responsible officials
+     For each affected Federal agency, the head of such agency shall designate an official to administer this chapter with respect to such agency.
+  (e) Federal control of information
+     Under procedures prescribed under this section, information obtained by a State or local government from a Federal agency under this section shall remain under the control of the Federal agency, and a State or local law authorizing or requiring such a government to disclose information shall not apply to such information.
+  (f) Definitions
+     As used in this section:
+    (1) The term ””homeland security information““ means any information possessed by a Federal, State, or local agency that–
+      (A) relates to the threat of terrorist activity;
+      (B) relates to the ability to prevent, interdict, or disrupt terrorist activity;
+      (C) would improve the identification or investigation of a suspected terrorist or terrorist organization; or
+      (D) would improve the response to a terrorist act.
+    (2) The term ””intelligence community““ has the meaning given such term in section 401a(4) of title 50.
+    (3) The term ””State and local personnel““ means any of the following persons involved in prevention, preparation, or response for terrorist attack:
+      (A) State Governors, mayors, and other locally elected officials.
+      (B) State and local law enforcement personnel and firefighters.
+      (C) Public health and medical professionals.
+      (D) Regional, State, and local emergency management agency personnel, including State adjutant generals.
+      (E) Other appropriate emergency response agency personnel.
+      (F) Employees of private-sector entities that affect critical infrastructure, cyber, economic, or public health security, as designated by the Federal Government in procedures developed pursuant to this section.
+    (4) The term ””State““ includes the District of Columbia and any commonwealth, territory, or possession of the United States.
+  (g) Construction
+     Nothing in this chapter shall be construed as authorizing any department, bureau, agency, officer, or employee of the Federal Government to request, receive, or transmit to any other Government entity or personnel, or transmit to any State or local entity or personnel otherwise authorized by this chapter to receive homeland security information, any information collected by the Federal Government solely for statistical purposes in violation of any other provision of law relating to the confidentiality of such information.
