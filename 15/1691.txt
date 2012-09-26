@@ -1,24 +1,28 @@
-  (a) In general
-     Except as provided in subsections (b) and (c) of this section, this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
-  (b) General exceptions
-     No requirement or prohibition may be imposed under the laws of any State–
-    (1) with respect to any subject matter regulated under–
-      (A) subsection (c) or (e) of section 1681b of this title, relating to the prescreening of consumer reports;
-      (B) section 1681i of this title, relating to the time by which a consumer reporting agency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer“s file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
-      (C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
-      (D) section 1681m(d) of this title, relating to the duties of persons who use a consumer report of a consumer in connection with any credit or insurance transaction that is not initiated by the consumer and that consists of a firm offer of credit or insurance;
-      (E) section 1681c of this title, relating to information contained in consumer reports, except that this subparagraph shall not apply to any State law in effect on September 30, 1996; or
-      (F) section 1681s–2 of this title, relating to the responsibilities of persons who furnish information to consumer reporting agencies, except that this paragraph shall not apply–
-        (i) with respect to section 54A(a) of chapter 93 of the Massachusetts Annotated Laws (as in effect on September 30, 1996); or
-        (ii) with respect to section 1785.25(a) of the California Civil Code (as in effect on September 30, 1996);
-    (2) with respect to the exchange of information among persons affiliated by common ownership or common corporate control, except that this paragraph shall not apply with respect to subsection (a) or (c)(1) of section 2480e of title 9, Vermont Statutes Annotated (as in effect on September 30, 1996); or
-    (3) with respect to the form and content of any disclosure required to be made under section 1681g(c) of this title.
-  (c) ””Firm offer of credit or insurance““ defined
-     Notwithstanding any definition of the term ””firm offer of credit or insurance““ (or any equivalent term) under the laws of any State, the definition of that term contained in section 1681a(T3lK) of this title shall be construed to apply in the enforcement and interpretation of the laws of any State governing consumer reports.
-  (d) Limitations
-     Subsections (b) and (c) of this section–
-    (1) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996; and
-    (2) do not apply to any provision of State law (including any provision of a State constitution) that–
-      (A) is enacted after January 1, 2004;
-      (B) states explicitly that the provision is intended to supplement this subchapter; and
-      (C) gives greater protection to consumers than is provided under this subchapter.
+  (a) Activities constituting discrimination
+     It shall be unlawful for any creditor to discriminate against any applicant, with respect to any aspect of a credit transaction–
+    (1) on the basis of race, color, religion, national origin, sex or marital status, or age (provided the applicant has the capacity to contract);
+    (2) because all or part of the applicant“s income derives from any public assistance program; or
+    (3) because the applicant has in good faith exercised any right under this chapter.
+  (b) Activities not constituting discrimination
+     It shall not constitute discrimination for purposes of this subchapter for a creditor–
+    (1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor“s rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness; \1\N
+    (2) to make an inquiry of the applicant“s age or of whether the applicant“s income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness \1\ as provided in regulations of the Board;
+    (3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Board, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value; or
+    (4) to make an inquiry or to consider the age of an elderly applicant when the age of such applicant is to be used by the creditor in the extension of credit in favor of such applicant.
+  (c) Additional activities not constituting discrimination
+     It is not a violation of this section for a creditor to refuse to extend credit offered pursuant to–
+    (1) any credit assistance program expressly authorized by law for an economically disadvantaged class of persons;
+    (2) any credit assistance program administered by a nonprofit organization for its members or an economically disadvantaged class of persons; or
+    (3) any special purpose credit program offered by a profit-making organization to meet special social needs which meets standards prescribed in regulations by the Board;
+       if such refusal is required by or made pursuant to such program.
+  (d) Reason for adverse action; procedure applicable; ””adverse action““ defined
+    (1) Within thirty days (or such longer reasonable time as specified in regulations of the Board for any class of credit transaction) after receipt of a completed application for credit, a creditor shall notify the applicant of its action on the application.
+    (2) Each applicant against whom adverse action is taken shall be entitled to a statement of reasons for such action from the creditor. A creditor satisfies this obligation by–
+      (A) providing statements of reasons in writing as a matter of course to applicants against whom adverse action is taken; or
+      (B) giving written notification of adverse action which discloses (i) the applicant“s right to a statement of reasons within thirty days after receipt by the creditor of a request made within sixty days after such notification, and (ii) the identity of the person or office from which such statement may be obtained. Such statement may be given orally if the written notification advises the applicant of his right to have the statement of reasons confirmed in writing on written request.
+    (3) A statement of reasons meets the requirements of this section only if it contains the specific reasons for the adverse action taken.
+    (4) Where a creditor has been requested by a third party to make a specific extension of credit directly or indirectly to an applicant, the notification and statement of reasons required by this subsection may be made directly by such creditor, or indirectly through the third party, provided in either case that the identity of the creditor is disclosed.
+    (5) The requirements of paragraph (2), (3), or (4) may be satisfied by verbal statements or notifications in the case of any creditor who did not act on more than one hundred and fifty applications during the calendar year preceding the calendar year in which the adverse action is taken, as determined under regulations of the Board.
+    (6) For purposes of this subsection, the term ””adverse action““ means a denial or revocation of credit, a change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially the amount or on substantially the terms requested. Such term does not include a refusal to extend additional credit under an existing credit arrangement where the applicant is delinquent or otherwise in default, or where such additional credit would exceed a previously established credit limit.
+  (e) Appraisals; copies of reports to applicants; costs
+     Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant“s application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.
