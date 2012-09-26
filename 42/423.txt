@@ -1,5 +1,5 @@
   (a) Prohibition on disclosing procurement information
-    (1) A person described in paragraph (2) shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
+    (1) A person described in paragraph (2) shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates. In the case of an employee of a private sector organization assigned to an agency under chapter 37 of title 5, in addition to the restriction in the preceding sentence, such employee shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information during the three-year period after the end of the assignment of such employee.
     (2) Paragraph (1) applies to any person who–
       (A) is a present or former official of the United States, or a person who is acting or has acted for or on behalf of, or who is advising or has advised the United States with respect to, a Federal agency procurement; and
       (B) by virtue of that office, employment, or relationship has or had access to contractor bid or proposal information or source selection information.
@@ -64,7 +64,7 @@
       (H) Rankings of bids, proposals, or competitors.
       (I) The reports and evaluations of source selection panels, boards, or advisory councils.
       (J) Other information marked as ””source selection information““ based on a case-by-case determination by the head of the agency, his designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
-    (3) The term ””Federal agency““ has the meaning provided such term in section 472 of title 40.
+    (3) The term ””Federal agency““ has the meaning provided such term in section 102 of title 40.
     (4) The term ””Federal agency procurement““ means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
     (5) The term ””contracting officer““ means a person who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to such a contract.
     (6) The term ””protest““ means a written objection by an interested party to the award or proposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
