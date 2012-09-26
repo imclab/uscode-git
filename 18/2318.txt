@@ -1,14 +1,14 @@
-  (a) Whoever, in any of the circumstances described in subsection (c), knowingly traffics in–
-    (1) a counterfeit label or illicit label affixed to, enclosing, or accompanying, or designed to be affixed to, enclose, or accompany–
-      (A) a phonorecord;
-      (B) a copy of a computer program;
-      (C) a copy of a motion picture or other audiovisual work;
-      (D) a copy of a literary work;
-      (E) a copy of a pictorial, graphic, or sculptural work;
-      (F) a work of visual art; or
-      (G) documentation or packaging; or
-    (2) counterfeit documentation or packaging,
-       shall be fined under this title or imprisoned for not more than 5 years, or both.
+  (a)    (1) \1\N Whoever, in any of the circumstances described in subsection (c), knowingly traffics in–
+      (A) a counterfeit label or illicit label affixed to, enclosing, or accompanying, or designed to be affixed to, enclose, or accompany–
+        (i) a phonorecord;
+        (ii) a copy of a computer program;
+        (iii) a copy of a motion picture or other audiovisual work;
+        (iv) a copy of a literary work;
+        (v) a copy of a pictorial, graphic, or sculptural work;
+        (vi) a work of visual art; or
+        (vii) documentation or packaging; or
+      (B) counterfeit documentation or packaging,
+         shall be fined under this title or imprisoned for not more than 5 years, or both.
   (b) As used in this section–
     (1) the term ””counterfeit label““ means an identifying label or container that appears to be genuine, but is not;
     (2) the term ””traffic““ has the same meaning as in section 2320(e) of this title;
@@ -32,9 +32,8 @@
       (F) a work of visual art; or
       (G) copyrighted documentation or packaging; or
     (4) the counterfeited documentation or packaging is copyrighted.
-  (d) When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.
-  (e) Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).
-  (f) T4Civil Remedies.–
+  (d) T4Forfeiture and Destruction of Property; RestitutionK.–Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+  (e) T4Civil Remedies.–
     (1) T4In generalK.–Any copyright owner who is injured, or is threatened with injury, by a violation of subsection (a) may bring a civil action in an appropriate United States district court.
     (2) T4Discretion of courtK.–In any action brought under paragraph (1), the court–
       (A) may grant 1 or more temporary or permanent injunctions on such terms as the court determines to be reasonable to prevent or restrain a violation of subsection (a);
@@ -59,4 +58,4 @@
         (vi) in the case of a work of visual art, the retail value of that work.
     (4) T4Statutory damagesK.–The injured party may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for each violation of subsection (a) in a sum of not less than $2,500 or more than $25,000, as the court considers appropriate.
     (5) T4Subsequent violationK.–The court may increase an award of damages under this subsection by 3 times the amount that would otherwise be awarded, as the court considers appropriate, if the court finds that a person has subsequently violated subsection (a) within 3 years after a final judgment was entered against that person for a violation of that subsection.
-    (6) T4Limitation on actionsK.–A civil action may not be commenced under section \1\N unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
+    (6) T4Limitation on actionsK.–A civil action may not be commenced under section \2\N unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).

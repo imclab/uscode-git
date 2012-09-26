@@ -7,7 +7,7 @@
       (A) concerning the purposes for which the sentence to imprisonment was determined to be warranted; or
       (B) recommending a type of penal or correctional facility as appropriate; and
     (5) any pertinent policy statement issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28.
-       In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.
+       In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.
   (c) T4Delivery of Order of CommitmentK.–When a prisoner, pursuant to a court order, is placed in the custody of a person in charge of a penal or correctional facility, a copy of the order shall be delivered to such person as evidence of this authority to hold the prisoner, and the original order, with the return endorsed thereon, shall be returned to the court that issued it.
   (d) T4Delivery of Prisoner for Court AppearancesK.–The United States marshal shall, without charge, bring a prisoner into court or return him to a prison facility on order of a court of the United States or on written request of an attorney for the Government.
   (e) T4Substance Abuse Treatment.–
@@ -24,10 +24,7 @@
       (C) a complete statement of to what extent the Bureau has achieved compliance with the requirements of this title.
     (4) T4Authorization of appropriationsK.–There are authorized to carry out this subsection such sums as may be necessary for each of fiscal years 2007 through 2011.
     (5) T4DefinitionsK.–As used in this subsection–
-      (A) the term ””residential substance abuse treatment““ means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population–
-        (i) directed at the substance abuse problems of the prisoner;
-        (ii) intended to develop the prisoner“s cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner“s substance abuse and related problems; and
-        (iii) which may include the use of pharmacoptherapies \1\N, if appropriate, that may extend beyond the treatment period;
+      (A) the term ””residential substance abuse treatment““ means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies,\1\N where appropriate, that may extend beyond the 6-month period);
       (B) the term ””eligible prisoner““ means a prisoner who is–
         (i) determined by the Bureau of Prisons to have a substance abuse problem; and
         (ii) willing to participate in a residential substance abuse treatment program; and
@@ -39,3 +36,6 @@
       (B) T4Residential sex offender treatment programsK.–The Bureau of Prisons shall establish residential sex offender treatment programs to provide treatment to sex offenders who volunteer for such programs and are deemed by the Bureau of Prisons to be in need of and suitable for residential treatment.
     (2) T4RegionsK.–At least 1 sex offender management program under paragraph (1)(A), and at least one residential sex offender treatment program under paragraph (1)(B), shall be established in each region within the Bureau of Prisons.
     (3) T4Authorization of appropriationsK.–There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
+  (g) T4Continued Access to Medical Care.–
+    (1) T4In generalK.–In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+    (2) T4DefinitionK.–In this subsection, the term ””community confinement““ has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
