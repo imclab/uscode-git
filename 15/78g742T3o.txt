@@ -97,7 +97,7 @@
     (1) Capital, margin, books and records, bonding, and reports
        No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof shall establish capital, custody, margin, financial responsibility, making and keeping records, bonding, or financial or operational reporting requirements for brokers, dealers, municipal securities dealers, government securities brokers, or government securities dealers that differ from, or are in addition to, the requirements in those areas established under this chapter. The Commission shall consult periodically the securities commissions (or any agency or office performing like functions) of the States concerning the adequacy of such requirements as established under this chapter.
     (2) De minimis transactions by associated persons
-       No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from affecting a transaction described in paragraph (3) for a customer in such State if–
+       No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) for a customer in such State if–
       (A) such associated person is not ineligible to register with such State for any reason other than such a transaction;
       (B) such associated person is registered with a registered securities association and at least one State; and
       (C) the broker or dealer with which such person is associated is registered with such State.
@@ -108,13 +108,13 @@
           (I) on behalf of a customer that, for 30 days prior to the day of the transaction, maintained an account with the broker or dealer; and
           (II) by an associated person of the broker or dealer–
             (aa) to which the customer was assigned for 14 days prior to the day of the transaction; and
-            (bb) who is registered with a State in which the customer was a resident or was present for at least 30 consecutive days during the 1-year period prior to the day of the transaction;
+            (bb) who is registered with a State in which the customer was a resident or was present for at least 30 consecutive days during the 1-year period prior to the day of the transaction; or
         (ii) the transaction is effected–
-          (I) on behalf of a customer that, for 30 days prior to the day of the transaction, maintains an account with the broker or dealer; and
+          (I) on behalf of a customer that, for 30 days prior to the day of the transaction, maintained an account with the broker or dealer; and
           (II) during the period beginning on the date on which such associated person files an application for registration with the State in which the transaction is effected and ending on the earlier of–
             (aa) 60 days after the date on which the application is filed; or
             (bb) the date on which such State notifies the associated person that it has denied the application for registration or has stayed the pendency of the application for cause.
       (B) Rules of construction
          For purposes of subparagraph (A)(i)(II)–
         (i) each of up to 3 associated persons of a broker or dealer who are designated to effect transactions during the absence or unavailability of the principal associated person for a customer may be treated as an associated person to which such customer is assigned; and
-        (ii) if the customer is present in another State for 30 or more consecutive days or has permanently changed his or her residence to another State, a transaction is not described in this paragraph, unless the association \2\N person of the broker or dealer files an application for registration with such State not later than 10 business days after the later of the date of the transaction, or the date of the discovery of the presence of the customer in the other State for 30 or more consecutive days or the change in the customer“s residence.
+        (ii) if the customer is present in another State for 30 or more consecutive days or has permanently changed his or her residence to another State, a transaction is not described in this paragraph, unless the associated person of the broker or dealer files an application for registration with such State not later than 10 business days after the later of the date of the transaction, or the date of the discovery of the presence of the customer in the other State for 30 or more consecutive days or the change in the customer“s residence.

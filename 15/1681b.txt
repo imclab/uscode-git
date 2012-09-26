@@ -23,15 +23,36 @@
       (A) the person who obtains such report from the agency certifies to the agency that–
         (i) the person has complied with paragraph (2) with respect to the consumer report, and the person will comply with paragraph (3) with respect to the consumer report if paragraph (3) becomes applicable; and
         (ii) information from the consumer report will not be used in violation of any applicable Federal or State equal employment opportunity law or regulation; and
-      (B) the consumer reporting agency provides with the report a summary of the consumer“s rights under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+      (B) the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer“s rights under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
     (2) Disclosure to consumer
-       A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless–
-      (A) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
-      (B) the consumer has authorized in writing the procurement of the report by that person.
+      (A) In general
+         Except as provided in subparagraph (B), a person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless–
+        (i) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
+        (ii) the consumer has authorized in writing (which authorization may be made on the document referred to in clause (i)) the procurement of the report by that person.
+      (B) Application by mail, telephone, computer, or other similar means
+         If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, at any time before a consumer report is procured or caused to be procured in connection with that application–
+        (i) the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, by oral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer“s rights under section 1681m(a)(3) of this title; and
+        (ii) the consumer shall have consented, orally, in writing, or electronically to the procurement of the report by that person.
+      (C) Scope
+         Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer“s application for employment only if–
+        (i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
+        (ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
     (3) Conditions on use for adverse actions
-       In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates–
-      (A) a copy of the report; and
-      (B) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+      (A) In general
+         Except as provided in subparagraph (B), in using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates–
+        (i) a copy of the report; and
+        (ii) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+      (B) Application by mail, telephone, computer, or other similar means
+        (i) If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, and if a person who has procured a consumer report on the consumer for employment purposes takes adverse action on the employment application based in whole or in part on the report, then the person must provide to the consumer to whom the report relates, in lieu of the notices required under subparagraph (A) of this section and under section 1681m(a) of this title, within 3 business days of taking such action, an oral, written or electronic notification–
+          (I) that adverse action has been taken based in whole or in part on a consumer report received from a consumer reporting agency;
+          (II) of the name, address and telephone number of the consumer reporting agency that furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
+          (III) that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide to the consumer the specific reasons why the adverse action was taken; and
+          (IV) that the consumer may, upon providing proper identification, request a free copy of a report and may dispute with the consumer reporting agency the accuracy or completeness of any information in a report.
+        (ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer“s request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer“s rights as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+      (C) Scope
+         Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer“s application for employment only if–
+        (i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
+        (ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
     (4) Exception for national security investigations
       (A) In general
          In the case of an agency or department of the United States Government which seeks to obtain and use a consumer report for employment purposes, paragraph (3) shall not apply to any adverse action by such agency or department which is based in part on such consumer report, if the head of such agency or department makes a written finding that–
@@ -109,4 +130,4 @@
     (1) the consumer report is obtained for a purpose for which the consumer report is authorized to be furnished under this section; and
     (2) the purpose is certified in accordance with section 1681e of this title by a prospective user of the report through a general or specific certification.
   (g) Furnishing reports containing medical information
-     A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction or a direct marketing transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.
+     A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.

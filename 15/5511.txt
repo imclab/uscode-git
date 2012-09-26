@@ -3,8 +3,8 @@
       (A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities; and
       (B) provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program.
     (2) The Program shall–
-      (A) provide for the establishment of policies for management and access to the Network;
-      (B) provide for oversight of the operation and evolution of the Network;
+      (A) provide for the development of technologies to advance the capacity and capabilities of the Internet;
+      (B) provide for high performance testbed networks to enable the research, development, and demonstration of advanced networking technologies and to develop and demonstrate advanced applications made possible by the existence of such testbed networks;
       (C) promote connectivity among computer networks of Federal agencies and departments;
       (D) provide for efforts to increase software availability, productivity, capability, portability, and reliability;
       (E) provide for improved dissemination of Federal agency data and electronic information;
@@ -36,7 +36,7 @@
       (D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
       (E) include the report of the Secretary of Energy required by section 5523(d) of this title; and
       (F) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
-  (b) High-performance computing advisory committee
+  (b) Advisory committee
      The President shall establish an advisory committee on high-performance computing consisting of non-Federal members, including representatives of the research, education, and library communities, network providers, and industry, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of–
     (1) progress made in implementing the Program;
     (2) the need to revise the Program;
