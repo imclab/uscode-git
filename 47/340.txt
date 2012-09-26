@@ -3,14 +3,10 @@
     (1) has, before December 8, 2004, been determined by the Federal Communications Commission to be a signal a cable operator may carry as significantly viewed in such community, except to the extent that such signal is prevented from being carried by a cable system in such community under the Commission“s network nonduplication and syndicated exclusivity rules; or
     (2) is, after December 8, 2004, determined by the Commission to be significantly viewed in such community in accordance with the same standards and procedures concerning shares of viewing hours and audience surveys as are applicable under the rules, regulations, and authorizations of the Commission to determining with respect to a cable system whether signals are significantly viewed in a community.
   (b) Limitations
-    (1) Analog service limited to subscribers taking local-into-local service
-       With respect to a signal that originates as an analog signal of a network station, this section shall apply only to retransmissions to subscribers of a satellite carrier who receive retransmissions of a signal that originates as an analog signal of a local network station from that satellite carrier pursuant to section 338 of this title.
-    (2) Digital service limitations
-       With respect to a signal that originates as a digital signal of a network station, this section shall apply only if–
-      (A) the subscriber receives from the satellite carrier pursuant to section 338 of this title the retransmission of the digital signal of a network station in the subscriber“s local market that is affiliated with the same television network; and
-      (B) either–
-        (i) the retransmission of the local network station occupies at least the equivalent bandwidth as the digital signal retransmitted pursuant to this section; or
-        (ii) the retransmission of the local network station is comprised of the entire bandwidth of the digital signal broadcast by such local network station.
+    (1) Service limited to subscribers taking local-into-local service
+       This section shall apply only to retransmissions to subscribers of a satellite carrier who receive retransmissions of a signal from that satellite carrier pursuant to section 338 of this title.
+    (2) Service limitations
+       A satellite carrier may retransmit to a subscriber in high definition format the signal of a station determined by the Commission to be significantly viewed under subsection (a) only if such carrier also retransmits in high definition format the signal of a station located in the local market of such subscriber and affiliated with the same network whenever such format is available from such station.
     (3) Limitation not applicable where no network affiliates
        The limitations in paragraphs (1) and (2) shall not prohibit a retransmission under this section to a subscriber located in a local market in which there are no network stations affiliated with the same television network as the station whose signal is being retransmitted pursuant to this section.
     (4) Authority to grant station-specific waivers
@@ -37,7 +33,7 @@
     (1) Not applicable except as provided by commission regulations
        Signals eligible to be carried under this section are not subject to the Commission“s regulations concerning network nonduplication or syndicated exclusivity unless, pursuant to regulations adopted by the Commission, the Commission determines to permit network nonduplication or syndicated exclusivity to apply within the appropriate zone of protection.
     (2) Limitation
-       Nothing in this subsection or Commission regulations shall permit the application of network nonduplication or syndicated exclusivity regulations to the retransmission of distant signals of network stations that are carried by a satellite carrier pursuant to a statutory license under section 119(a)(2)(A) or (B) of title 17, with respect to persons who reside in unserved households, under \3\N 119(a)(4)(A), or under section 119(a)(12), of such title.
+       Nothing in this subsection or Commission regulations shall permit the application of network nonduplication or syndicated exclusivity regulations to the retransmission of distant signals of network stations that are carried by a satellite carrier pursuant to a statutory license under section 119(a)(2)(A) or (B) of title 17, with respect to persons who reside in unserved households, under \3\N 119(a)(4)(A),\4\N or under section 119(a)(12),\4\ of such title.
   (f) Enforcement
     (1) Orders and damages
        Upon complaint, the Commission shall issue a cease and desist order to any satellite carrier found to have violated this section in carrying any television broadcast station. Such order may, if a complaining station requests damages–
@@ -83,10 +79,3 @@
              The term ””community““ means–
             (A) a county or a cable community, as determined under the rules, regulations, and authorizations of the Commission applicable to determining with respect to a cable system whether signals are significantly viewed; or
             (B) a satellite community, as determined under such rules, regulations, and authorizations (or revisions thereof) as the Commission may prescribe in implementing the requirements of this section.
-          (4) Bandwidth
-             The terms ””equivalent bandwidth““ and ””entire bandwidth““ shall be defined by the Commission by regulation, except that this paragraph shall not be construed–
-            (A) to prevent a satellite operator from using compression technology;
-            (B) to require a satellite operator to use the identical bandwidth or bit rate as the local or distant broadcaster whose signal it is retransmitting;
-            (C) to require a satellite operator to use the identical bandwidth or bit rate for a local network station as it does for a distant network station;
-            (D) to affect a satellite operator“s obligations under subsection (a)(1) of this section; or
-            (E) to affect the definitions of ””program related““ and ””primary video““.

@@ -3,12 +3,17 @@
        Each satellite carrier providing, under section 122 of title 17, secondary transmissions to subscribers located within the local market of a television broadcast station of a primary transmission made by that station shall carry upon request the signals of all television broadcast stations located within that local market, subject to section 325(b) of this title.
     (2) Remedies for failure to carry
        In addition to the remedies available to television broadcast stations under section 501(f) of title 17, the Commission may use the Commission“s authority under this chapter to assure compliance with the obligations of this subsection, but in no instance shall a Commission enforcement proceeding be required as a predicate to the pursuit of a remedy available under such section 501(f).
-    (3) \1\N Low power station carriage optional
-       No low power television station whose signals are provided under section 119(a)(14) of title 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
-  (3) \1\ Effective date
-     No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002.
-  (4) Carriage of signals of local stations in certain markets
-     A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier“s subscribers in each station“s local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of the satellite carrier“s subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
+    (3) Low power station carriage optional
+       No low power television station whose signals are provided under section 119(a)(14) \1\N of title 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
+    (4) Carriage of signals of local stations in certain markets
+       A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier“s subscribers in each station“s local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of the satellite carrier“s subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
+    (5) Nondiscrimination in carriage of high definition signals of noncommercial educational television stations
+      (A) Existing carriage of high definition signals
+         If, before the date of enactment of the Satellite Television Extension and Localism Act of 2010, an eligible satellite carrier is providing, under section 122 of title 17, any secondary transmissions in high definition format to subscribers located within the local market of a television broadcast station of a primary transmission made by that station, then such satellite carrier shall carry the signals in high-definition format of qualified noncommercial educational television stations located within that local market in accordance with the following schedule:
+        (i) By December 31, 2010, in at least 50 percent of the markets in which such satellite carrier provides such secondary transmissions in high definition format.
+        (ii) By December 31, 2011, in every market in which such satellite carrier provides such secondary transmissions in high definition format.
+      (B) New initiation of service
+         If, on or after the date of enactment of the Satellite Television Extension and Localism Act of 2010, an eligible satellite carrier initiates the provision, under section 122 of title 17, of any secondary transmissions in high definition format to subscribers located within the local market of a television broadcast station of a primary transmission made by that station, then such satellite carrier shall carry the signals in high-definition format of all qualified noncommercial educational television stations located within that local market.
   (b) Good signal required
     (1) Costs
        A television broadcast station asserting its right to carriage under subsection (a) of this section shall be required to bear the costs associated with delivering a good quality signal to the designated local receive facility of the satellite carrier or to another facility that is acceptable to at least one-half the stations asserting the right to carriage in the local market.
@@ -30,18 +35,11 @@
        The Commission shall afford the satellite carrier against which a complaint is filed under paragraph (1) an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
     (3) Remedial actions; dismissal
        Within 120 days after the date a complaint is filed under paragraph (1), the Commission shall determine whether the satellite carrier has met its obligations under subsections (b) through (e) of this section. If the Commission determines that the satellite carrier has failed to meet such obligations, the Commission shall order the satellite carrier to take appropriate remedial action. If the Commission determines that the satellite carrier has fully met the requirements of such subsections, the Commission shall dismiss the complaint.
-  (g) Carriage of local stations on a single dish
-    (1) Single dish
-       Each satellite carrier that retransmits the analog signals of local television broadcast stations in a local market shall retransmit such analog signals in such market by means of a single reception antenna and associated equipment.
-    (2) Exception
-       If the carrier retransmits signals in the digital television service, the carrier shall retransmit such digital signals in such market by means of a single reception antenna and associated equipment, but such antenna and associated equipment may be separate from the single reception antenna and associated equipment used for analog television service signals.
-    (3) Effective date
-       The requirements of paragraphs (1) and (2) of this subsection shall apply on and after 18 months after December 8, 2004.
-    (4) Notice of disruptions
-       A carrier that is providing signals of a local television broadcast station in a local market under this section on December 8, 2004, shall, not later than 15 months after December 8, 2004, provide to the licensees for such stations and the carrier“s subscribers in such local market a notice that displays prominently and conspicuously a clear statement of–
-      (A) any reallocation of signals between different reception antennas and associated equipment that the carrier intends to make in order to comply with the requirements of this subsection;
-      (B) the need, if any, for subscribers to obtain an additional reception antenna and associated equipment to receive such signals; and
-      (C) any cessation of carriage or other material change in the carriage of signals as a consequence of the requirements of this paragraph.
+  (g) Carriage of local stations on a single reception antenna
+    (1) Single reception antenna
+       Each satellite carrier that retransmits the signals of local television broadcast stations in a local market shall retransmit such stations in such market so that a subscriber may receive such stations by means of a single reception antenna and associated equipment.
+    (2) Additional reception antenna
+       If the carrier retransmits the signals of local television broadcast stations in a local market in high definition format, the carrier shall retransmit such signals in such market so that a subscriber may receive such signals by means of a single reception antenna and associated equipment, but such antenna and associated equipment may be separate from the single reception antenna and associated equipment used to comply with paragraph (1).
   (h) Additional notices to subscribers, networks, and stations concerning signal carriage
     (1) Notices to and elections by subscribers concerning grandfathered signals
        Any carrier that provides a distant signal of a network station to a subscriber pursuant \2\N section 339(a)(2)(A) of this title shall–
@@ -120,17 +118,25 @@
            As used in this section:
           (1) Distributor
              The term ””distributor““ means an entity which contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities.
-          (2) Local receive facility
+          (2) Eligible satellite carrier
+             The term ””eligible satellite carrier““ means any satellite carrier that is not a party to a carriage contract that–
+            (A) governs carriage of at least 30 qualified noncommercial educational television stations; and
+            (B) is in force and effect within 150 days after the date of enactment of the Satellite Television Extension and Localism Act of 2010.
+          (3) Local receive facility
              The term ””local receive facility““ means the reception point in each local market which a satellite carrier designates for delivery of the signal of the station for purposes of retransmission.
-          (3) Local market
+          (4) Local market
              The term ””local market““ has the meaning given that term under section 122(j) of title 17.
-          (4) Low power television station
+          (5) Low power television station
              The term ””low power television station““ means a low power television station as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term ””low power television station““ includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
-          (5) Satellite carrier
+          (6) Qualified noncommercial educational television station
+             The term ””qualified noncommercial educational television station““ means any full-power television broadcast station that–
+            (A) under the rules and regulations of the Commission in effect on March 29, 1990, is licensed by the Commission as a noncommercial educational broadcast station and is owned and operated by a public agency, nonprofit foundation, nonprofit corporation, or nonprofit association; and
+            (B) has as its licensee an entity that is eligible to receive a community service grant, or any successor grant thereto, from the Corporation for Public Broadcasting, or any successor organization thereto, on the basis of the formula set forth in section 396(k)(6)(B) of this title.
+          (7) Satellite carrier
              The term ””satellite carrier““ has the meaning given such term under section 119(d) of title 17.
-          (6) Secondary transmission
+          (8) Secondary transmission
              The term ””secondary transmission““ has the meaning given such term in section 119(d) of title 17.
-          (7) Subscriber
+          (9) Subscriber
              The term ””subscriber““ has the meaning given that term under section 122(j) of title 17.
-          (8) Television broadcast station
+          (10) Television broadcast station
              The term ””television broadcast station““ has the meaning given such term in section 325(b)(7) of this title.

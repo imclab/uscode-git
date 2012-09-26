@@ -5,21 +5,87 @@
     (1) video programming first published or exhibited after the effective date of such regulations is fully accessible through the provision of closed captions, except as provided in subsection (d) of this section; and
     (2) video programming providers or owners maximize the accessibility of video programming first published or exhibited prior to the effective date of such regulations through the provision of closed captions, except as provided in subsection (d) of this section.
   (c) Deadlines for captioning
-     Such regulations shall include an appropriate schedule of deadlines for the provision of closed captioning of video programming.
+    (1) In general
+       The regulations prescribed pursuant to subsection (b) shall include an appropriate schedule of deadlines for the provision of closed captioning of video programming once published or exhibited on television.
+    (2) Deadlines for programming delivered using Internet protocol
+      (A) Regulations on closed captioning on video programming delivered using Internet protocol
+         Not later than 6 months after the submission of the report to the Commission required by subsection (e)(1) \1\N of the Twenty-First Century Communications and Video Accessibility Act of 2010, the Commission shall revise its regulations to require the provision of closed captioning on video programming delivered using Internet protocol that was published or exhibited on television with captions after the effective date of such regulations.
+      (B) Schedule
+         The regulations prescribed under this paragraph shall include an appropriate schedule of deadlines for the provision of closed captioning, taking into account whether such programming is prerecorded and edited for Internet distribution, or whether such programming is live or near-live and not edited for Internet distribution.
+      (C) Cost
+         The Commission may delay or waive the regulation promulgated under subparagraph (A) to the extent the Commission finds that the application of the regulation to live video programming delivered using Internet protocol with captions after the effective date of such regulations would be economically burdensome to providers of video programming or program owners.
+      (D) Requirements for regulations
+         The regulations prescribed under this paragraph–
+        (i) shall contain a definition of ””near-live programming““ and ””edited for Internet distribution““;
+        (ii) may exempt any service, class of service, program, class of program, equipment, or class of equipment for which the Commission has determined that the application of such regulations would be economically burdensome for the provider of such service, program, or equipment;
+        (iii) shall clarify that, for the purposes of implementation, of this subsection, the terms ””video programming distributors““ and ””video programming providers““ include an entity that makes available directly to the end user video programming through a distribution method that uses Internet protocol;
+        (iv) and describe the responsibilities of video programming providers or distributors and video programming owners;
+        (v) shall establish a mechanism to make available to video programming providers and distributors information on video programming subject to the Act on an ongoing basis;
+        (vi) shall consider that the video programming provider or distributor shall be deemed in compliance if such entity enables the rendering or pass through of closed captions and makes a good faith effort to identify video programming subject to the Act using the mechanism created in (v); and
+        (vii) shall provide that de minimis failure to comply with such regulations by a video programming provider or owner shall not be treated as a violation of the regulations.
+    (3) Alternate means of compliance
+       An entity may meet the requirements of this section through alternate means than those prescribed by regulations pursuant to subsection (b), as revised pursuant to paragraph (2)(A) of this subsection, if the requirements of this section are met, as determined by the Commission.
   (d) Exemptions
      Notwithstanding subsection (b) of this section–
     (1) the Commission may exempt by regulation programs, classes of programs, or services for which the Commission has determined that the provision of closed captioning would be economically burdensome to the provider or owner of such programming;
     (2) a provider of video programming or the owner of any program carried by the provider shall not be obligated to supply closed captions if such action would be inconsistent with contracts in effect on February 8, 1996, except that nothing in this section shall be construed to relieve a video programming provider of its obligations to provide services required by Federal law; and
-    (3) a provider of video programming or program owner may petition the Commission for an exemption from the requirements of this section, and the Commission may grant such petition upon a showing that the requirements contained in this section would result in an undue burden.
+    (3) a provider of video programming or program owner may petition the Commission for an exemption from the requirements of this section, and the Commission may grant such petition upon a showing that the requirements contained in this section would be economically burdensome. During the pendency of such a petition, such provider or owner shall be exempt from the requirements of this section. The Commission shall act to grant or deny any such petition, in whole or in part, within 6 months after the Commission receives such petition, unless the Commission finds that an extension of the 6-month period is necessary to determine whether such requirements are economically burdensome.
   (e) Undue burden
      The term ””undue burden““ means significant difficulty or expense. In determining whether the closed captions necessary to comply with the requirements of this paragraph would result in an undue economic burden, the factors to be considered include–
     (1) the nature and cost of the closed captions for the programming;
     (2) the impact on the operation of the provider or program owner;
     (3) the financial resources of the provider or program owner; and
     (4) the type of operations of the provider or program owner.
-  (f) Video descriptions inquiry
-     Within 6 months after February 8, 1996, the Commission shall commence an inquiry to examine the use of video descriptions on video programming in order to ensure the accessibility of video programming to persons with visual impairments, and report to Congress on its findings. The Commission“s report shall assess appropriate methods and schedules for phasing video descriptions into the marketplace, technical and quality standards for video descriptions, a definition of programming for which video descriptions would apply, and other technical and legal issues that the Commission deems appropriate.
-  (g) Video description
-     For purposes of this section, ””video description““ means the insertion of audio narrated descriptions of a television program“s key visual elements into natural pauses between the program“s dialogue.
-  (h) Private rights of actions prohibited
+  (f) Video description
+    (1) Reinstatement of regulations
+       On the day that is 1 year after October 8, 2010, the Commission shall, after a rulemaking, reinstate its video description regulations contained in the Implementation of Video Description of Video Programming Report and Order (15 F.C.C.R. 15,230 (2000)), recon. granted in part and denied in part, (16 F.C.C.R. 1251 (2001)), modified as provided in paragraph (2).
+    (2) Modifications to reinstated regulations
+       Such regulations shall be modified only as follows:
+      (A) The regulations shall apply to video programming, as defined in subsection (h), insofar as such programming is transmitted for display on television in digital format.
+      (B) The Commission shall update the list of the top 25 designated market areas, the list of the top 5 national nonbroadcast networks that have at least 50 hours per quarter of prime time programming that is not exempt under this paragraph, and the beginning calendar quarter for which compliance shall be calculated.
+      (C) The regulations may permit a provider of video programming or a program owner to petition the Commission for an exemption from the requirements of this section upon a showing that the requirements contained in this section be economically burdensome.
+      (D) The Commission may exempt from the regulations established pursuant to paragraph (1) a service, class of services, program, class of programs, equipment, or class of equipment for which the Commission has determined that the application of such regulations would be economically burdensome for the provider of such service, program, or equipment.
+      (E) The regulations shall not apply to live or near-live programming.
+      (F) The regulations shall provide for an appropriate phased schedule of deadlines for compliance.
+      (G) The Commission shall consider extending the exemptions and limitations in the reinstated regulations for technical capability reasons to all providers and owners of video programming.
+    (3) Inquiries on further video description requirements
+       The Commission shall commence the following inquiries not later than 1 year after the completion of the phase-in of the reinstated regulations and shall report to Congress 1 year thereafter on the findings for each of the following:
+      (A) Video description in television programming
+         The availability, use, and benefits of video description on video programming distributed on television, the technical and creative issues associated with providing such video description, and the financial costs of providing such video description for providers of video programming and program owners.
+      (B) Video description in video programming distributed on the Internet
+         The technical and operational issues, costs, and benefits of providing video descriptions for video programming that is delivered using Internet protocol.
+    (4) Continuing Commission authority
+      (A) In general
+         The Commission may not issue additional regulations unless the Commission determines, at least 2 years after completing the reports required in paragraph (3), that the need for and benefits of providing video description for video programming, insofar as such programming is transmitted for display on television, are greater than the technical and economic costs of providing such additional programming.
+      (B) Limitation
+         If the Commission makes the determination under subparagraph (A) and issues additional regulations, the Commission may not increase, in total, the hour requirement for additional described programming by more than 75 percent of the requirement in the regulations reinstated under paragraph (1).
+      (C) Application to designated market areas
+        (i) In general
+           After the Commission completes the reports on video description required in paragraph (3), the Commission shall phase in the video description regulations for the top 60 designated market areas, except that the Commission may grant waivers to entities in specific designated market areas where it deems appropriate.
+        (ii) Phase-in deadline
+           The phase-in described in clause (i) shall be completed not later than 6 years after October 8, 2010.
+        (iii) Report
+           Nine years after October 8, 2010, the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report assessing–
+          (I) the types of described video programming that is available to consumers;
+          (II) consumer use of such programming;
+          (III) the costs to program owners, providers, and distributors of creating such programming;
+          (IV) the potential costs to program owners, providers, and distributors in designated market areas outside of the top 60 of creating such programming;
+          (V) the benefits to consumers of such programming;
+          (VI) the amount of such programming currently available; and
+          (VII) the need for additional described programming in designated market areas outside the top 60.
+        (iv) Additional market areas
+           Ten years after October 8, 2010, the Commission shall have the authority, based upon the findings, conclusions, and recommendations contained in the report under clause (iii), to phase in the video description regulations for up to an additional 10 designated market areas each year–
+          (I) if the costs of implementing the video description regulations to program owners, providers, and distributors in those additional markets are reasonable, as determined by the Commission; and
+          (II) except that the Commission may grant waivers to entities in specific designated market areas where it deems appropriate.
+  (g) Emergency information
+     Not later than 1 year after the Advisory Committee report under subsection (e)(2) \1\ is submitted to the Commission, the Commission shall complete a proceeding to–
+    (1) identify methods to convey emergency information (as that term is defined in section 79.2 of title 47, Code of Federal Regulations) in a manner accessible to individuals who are blind or visually impaired; and
+    (2) promulgate regulations that require video programming providers and video programming distributors (as those terms are defined in section 79.1 of title 47, Code of Federal Regulations) and program owners to convey such emergency information in a manner accessible to individuals who are blind or visually impaired.
+  (h) Definitions
+     For purposes of this section, section 303 of this title, and section 330 of this title:
+    (1) Video description
+       The term ””video description““ means the insertion of audio narrated descriptions of a television program“s key visual elements into natural pauses between the program“s dialogue.
+    (2) Video programming
+       The term ””video programming““ means programming by, or generally considered comparable to programming provided by a television broadcast station, but not including consumer-generated media (as defined in section 153 of this title).
+  (j) \2\N Private rights of actions prohibited
      Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
