@@ -69,6 +69,8 @@
            Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term ””crime of domestic violence““ means any crime of violence (as defined in section 16 of title 18) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual“s acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.
         (ii) Violators of protection orders
            Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued is deportable. For purposes of this clause, the term ””protection order““ means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
+      (F) Trafficking
+         Any alien described in section 1182(a)(2)(H) of this title is deportable.
     (3) Failure to register and falsification of documents
       (A) Change of address
          An alien who has failed to comply with the provisions of section 1305 of this title is deportable, unless the alien establishes to the satisfaction of the Attorney General that such failure was reasonably excusable or was not willful.
@@ -106,6 +108,8 @@
          Any alien described in clause (i), (ii), or (iii) of section 1182(a)(3)(E) of this title is deportable.
       (E) Participated in the commission of severe violations of religious freedom
          Any alien described in section 1182(a)(2)(G) of this title is deportable.
+      (F) Recruitment or use of child soldiers
+         Any alien who has engaged in the recruitment or use of child soldiers in violation of section 2442 of title 18 is deportable.
     (5) Public charge
        Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
     (6) Unlawful voters
@@ -116,8 +120,8 @@
     (7) Waiver for victims of domestic violence
       (A) In general
          The Attorney General is not limited by the criminal court record and may waive the application of paragraph (2)(E)(i) (with respect to crimes of domestic violence and crimes of stalking) and (ii) in the case of an alien who has been battered or subjected to extreme cruelty and who is not and was not the primary perpetrator of violence in the relationship–
-        (i) upon a determination that–
-          (I) the alien was acting is \1\N self-defense;
+        (i) \1\N upon a determination that–
+          (I) the alien was acting is \2\N self-defense;
           (II) the alien was found to have violated a protection order intended to protect the alien; or
           (III) the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime–
             (aa) that did not result in serious bodily injury; and
@@ -128,3 +132,10 @@
      An alien, admitted as a nonimmigrant under the provision of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
   (c) Waiver of grounds for deportation
      Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
+  (d) Administrative stay
+    (1) If the Secretary of Homeland Security determines that an application for nonimmigrant status under subparagraph (T) or (U) of section 1101(a)(15) of this title filed for an alien in the United States sets forth a prima facie case for approval, the Secretary may grant the alien an administrative stay of a final order of removal under section 1231(c)(2) of this title until–
+      (A) the application for nonimmigrant status under such subparagraph (T) or (U) is approved; or
+      (B) there is a final administrative denial of the application for such nonimmigrant status after the exhaustion of administrative appeals.
+    (2) The denial of a request for an administrative stay of removal under this subsection shall not preclude the alien from applying for a stay of removal, deferred action, or a continuance or abeyance of removal proceedings under any other provision of the immigration laws of the United States.
+    (3) During any period in which the administrative stay of removal is in effect, the alien shall not be removed.
+    (4) Nothing in this subsection may be construed to limit the authority of the Secretary of Homeland Security or the Attorney General to grant a stay of removal or deportation in any case not described in this subsection.
