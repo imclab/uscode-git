@@ -150,11 +150,9 @@
     (1) Preenactment assessments
        The Financing Corporation assessments which were assessed on insured institutions pursuant to this section as in effect prior to August 9, 1989.
     (2) New assessment authority
-       In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 7 of the Federal Deposit Insurance Act [12 U.S.C. 1817]), except that–
-      (A) the assessments imposed on insured depository institutions with respect to any BIF-assessable deposit shall be assessed at a rate equal to \1/5\ of the rate of the assessments imposed on insured depository institutions with respect to any SAIF-assessable deposit; and
-      (B) no limitation under clause (i) or (iii) of section 7(b)(2)(A) of the Federal Deposit Insurance Act [12 U.S.C. 1817(b)(2)(A)] shall apply for purposes of this paragraph.
+       In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 1817 of this title).
     (3) Receivership proceeds
-       To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund (established under section 11A of the Federal Deposit Insurance Act [12 U.S.C. 1821a]) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
+       To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund (established under section 1821a of this title) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
   (g) Use and disposition of assets of Financing Corporation not invested in FSLIC
     (1) In general
        Subject to such regulations, restrictions, and limitations as may be prescribed by the Federal Housing Finance Board, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in–
@@ -207,9 +205,4 @@
         (2) Net earnings
            The term ””net earnings““ means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
         (3) Insured depository institution
-           The term ””insured depository institution““ has the same meaning as in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813] \3\N
-        (4) Deposit terms
-          (A) BIF-assessable deposits
-             The term ””BIF-assessable deposit““ means a deposit that is subject to assessment for purposes of the Bank Insurance Fund under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.] (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act [12 U.S.C. 1815(d)(3)]).
-          (B) SAIF-assessable deposit
-             The term ””SAIF-assessable deposit““ has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996.
+           The term ””insured depository institution““ has the same meaning as in section 1813 of this title \3\N

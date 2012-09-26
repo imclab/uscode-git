@@ -1,6 +1,6 @@
   (a) Investment of Corporation“s funds
     (1) Authority
-       Funds held in the Bank Insurance Fund, the Savings Association Insurance Fund, or the FSLIC Resolution Fund, that are not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
+       Funds held in the Deposit Insurance Fund or the FSLIC Resolution Fund, that are not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
     (2) Limitation
        The Corporation shall not sell or purchase any obligations described in paragraph (1) for its own account, at any one time aggregating in excess of $100,000, without the approval of the Secretary of the Treasury. The Secretary may approve a transaction or class of transactions subject to the provisions of this paragraph under such conditions as the Secretary may determine.
   (b) Depository accounts
@@ -24,13 +24,13 @@
     (4) T4Least-cost resolution required.–
       (A) T4In generalK.–Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) of this section with respect to any insured depository institution unless–
         (i) the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
-        (ii) the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution is the least costly to the deposit insurance fund of all possible methods for meeting the Corporation“s obligation under this section.
-      (B) T4Determining least costly approachK.–In determining how to satisfy the Corporation“s obligations to an institution“s insured depositors at the least possible cost to the deposit insurance fund, the Corporation shall comply with the following provisions:
+        (ii) the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution is the least costly to the Deposit Insurance Fund of all possible methods for meeting the Corporation“s obligation under this section.
+      (B) T4Determining least costly approachK.–In determining how to satisfy the Corporation“s obligations to an institution“s insured depositors at the least possible cost to the Deposit Insurance Fund, the Corporation shall comply with the following provisions:
         (i) T4Present-value analysis; documentation requiredK.–The Corporation shall–
           (I) evaluate alternatives on a present-value basis, using a realistic discount rate;
           (II) document that evaluation and the assumptions on which the evaluation is based, including any assumptions with regard to interest rates, asset recovery rates, asset holding costs, and payment of contingent liabilities; and
           (III) retain the documentation for not less than 5 years.
-        (ii) T4Foregone tax revenuesK.–Federal tax revenues that the Government would forego as the result of a proposed transaction, to the extent reasonably ascertainable, shall be treated as if they were revenues foregone by the deposit insurance fund.
+        (ii) T4Foregone tax revenuesK.–Federal tax revenues that the Government would forego as the result of a proposed transaction, to the extent reasonably ascertainable, shall be treated as if they were revenues foregone by the Deposit Insurance Fund.
       (C) T4Time of determination.–
         (i) T4General ruleK.–For purposes of this subsection, the determination of the costs of providing any assistance under paragraph (1) or (2) or any other provision of this section with respect to any depository institution shall be made as of the date on which the Corporation makes the determination to provide such assistance to the institution under this section.
         (ii) T4Rule for liquidationsK.–For purposes of this subsection, the determination of the costs of liquidation of any depository institution shall be made as of the earliest of–
@@ -38,8 +38,8 @@
           (II) the date on which a receiver is appointed for such institution; or
           (III) the date on which the Corporation makes any determination to provide any assistance under this section with respect to such institution.
       (D) T4Liquidation costsK.–In determining the cost of liquidating any depository institution for the purpose of comparing the costs under subparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
-      (E) T4Deposit insurance funds available for intended purpose only.–
-        (i) T4In generalK.–After December 31, 1994, or at such earlier time as the Corporation determines to be appropriate, the Corporation may not take any action, directly or indirectly, with respect to any insured depository institution that would have the effect of increasing losses to any insurance fund by protecting–
+      (E) T4Deposit insurance fund available for intended purpose only.–
+        (i) T4In generalK.–After December 31, 1994, or at such earlier time as the Corporation determines to be appropriate, the Corporation may not take any action, directly or indirectly, with respect to any insured depository institution that would have the effect of increasing losses to the Deposit Insurance Fund by protecting–
           (I) depositors for more than the insured portion of deposits (determined without regard to whether such institution is liquidated); or
           (II) creditors other than depositors.
         (ii) T4Deadline for regulationsK.–The Corporation shall prescribe regulations to implement clause (i) not later than January 1, 1994, and the regulations shall take effect not later than January 1, 1995.
@@ -50,9 +50,9 @@
           (I) the Corporation“s compliance with subparagraphs (A) and (E) with respect to an insured depository institution would have serious adverse effects on economic conditions or financial stability; and
           (II) any action or assistance under this subparagraph would avoid or mitigate such adverse effects,
          the Corporation may take other action or provide assistance under this section as necessary to avoid or mitigate such effects.
-        (ii) T4Repayment of lossK.–The Corporation shall recover the loss to the appropriate insurance fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) expeditiously from 1 or more emergency special assessments on the members of the insurance fund (of which such institution is a member) equal to the product of–
+        (ii) T4Repayment of lossK.–The Corporation shall recover the loss to the Deposit Insurance Fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) expeditiously from 1 or more emergency special assessments on insured depository institutions equal to the product of–
           (I) an assessment rate established by the Corporation; and
-          (II) the amount of each member“s average total assets during the semiannual period, minus the sum of the amount of the member“s average total tangible equity and the amount of the member“s average total subordinated debt.
+          (II) the amount of each insured depository institution“s average total assets during the assessment period, minus the sum of the amount of the institution“s average total tangible equity and the amount of the institution“s average total subordinated debt.
         (iii) T4Documentation requiredK.–The Secretary of the Treasury shall–
           (I) document any determination under clause (i); and
           (II) retain the documentation for review under clause (iv).
@@ -79,9 +79,6 @@
       (B) T4Public disclosureK.–Any determination under this paragraph to provide assistance under this section shall be made in writing and published in the Federal Register.
     (9) Any assistance provided under this subsection may be in subordination to the rights of depositors and other creditors.
     (10) In its annual report to the Congress, the Corporation shall report the total amount it has saved, or estimates it has saved, by exercising the authority provided in this subsection.
-    (11) Payments made under this subsection shall be made–
-      (A) from the Bank Insurance Fund in the case of payments to or on behalf of a member of such Fund; or
-      (B) from the Savings Association Insurance Fund or from funds made available by the Resolution Trust Corporation in the case of payments to or on behalf of any Savings Association Insurance Fund member.
   (d) Sale of assets to Corporation
     (1) In general
        Any conservator, receiver, or liquidator appointed for any insured depository institution in default, including the Corporation acting in such capacity, shall be entitled to offer the assets of such depository institutions for sale to the Corporation or as security for loans from the Corporation.
@@ -197,7 +194,7 @@
   (g) Payment of interest on stock subscriptions
      Prior to July 1, 1951, the Corporation shall pay out of its capital account to the Secretary of the Treasury an amount equal to 2 per centum simple interest per annum on amounts advanced to the Corporation on stock subscriptions by the Secretary of the Treasury and the Federal Reserve banks, from the time of such advances until the amounts thereof were repaid. The amount payable hereunder shall be paid in two equal installments, the first installment to be paid prior to December 31, 1950.
   (h) Reopening or aversion of closing of insured branch of foreign bank
-     The powers conferred on the Board of Directors and the Corporation by this section to take action to reopen an insured depository institution in default or to avert the default of an insured depository institution may be used with respect to an insured branch of a foreign bank if, in the judgment of the Board of Directors, the public interest in avoiding the default of such branch substantially outweighs any additional risk of loss to the Bank Insurance Fund which the exercise of such powers would entail.
+     The powers conferred on the Board of Directors and the Corporation by this section to take action to reopen an insured depository institution in default or to avert the default of an insured depository institution may be used with respect to an insured branch of a foreign bank if, in the judgment of the Board of Directors, the public interest in avoiding the default of such branch substantially outweighs any additional risk of loss to the Deposit Insurance Fund which the exercise of such powers would entail.
   (i) Repealed. Pub. L. 97–320, title II, § 206, Oct. 15, 1982, 96 Stat. 1496
   (j) Loan loss amortization for certain banks
     (1) Eligibility
@@ -262,12 +259,12 @@
            Notwithstanding subparagraph (A), if–
           (I) a savings association described in such subparagraph does not have its home office in the State of the bank holding company bank subsidiary, and
           (II) such association does not qualify as a domestic building and loan association under section 7701(a)(19) of title 26, or does not meet the asset composition test imposed by subparagraph (C) of that section on institutions seeking so to qualify,
-              such savings association shall be subject to the conditions upon which a bank may retain, operate, and establish branches in the State in which the Savings Association Insurance Fund member is located.
+              such savings association shall be subject to the conditions upon which a bank may retain, operate, and establish branches in the State in which the savings association is located.
         (ii) Transition period
            The Corporation, for good cause shown, may allow a savings association up to 2 years to comply with the requirements of clause (i).
     (5) Assistance before appointment of conservator or receiver
       (A) Assistance proposals
-         The Corporation shall consider proposals by Savings Association Insurance Fund members for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
+         The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
         (i) Troubled condition criteria
            The Corporation determines–
           (I) that grounds for appointment of a conservator or receiver exist or likely will exist in the future unless the member“s tangible capital is increased;

@@ -5,6 +5,7 @@
     (1) The Corporation including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation imposed by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed, except that, notwithstanding the failure of any person to challenge an assessment under State law of such property“s value, such value, and the tax thereon, shall be determined as of the period for which such tax is imposed.
     (2) No property of the Corporation shall be subject to levy, attachment, garnishment, foreclosure, or sale without the consent of the Corporation, nor shall any involuntary lien attach to the property of the Corporation.
     (3) The Corporation shall not be liable for any amounts in the nature of penalties or fines, including those arising from the failure of any person to pay any real property, personal property, probate, or recording tax or any recording or filing fees when due.
+    (4) T4Exemption from criminal prosecutionK.–The Corporation shall be exempt from all prosecution by the United States or any State, county, municipality, or local authority for any criminal offense arising under Federal, State, county, municipal, or local law, which was allegedly committed by the institution, or persons acting on behalf of the institution, prior to the appointment of the Corporation as receiver.
        This subsection shall not apply with respect to any tax imposed (or other amount arising) under the Internal Revenue Code of 1986.
   (c) Limitation on borrowing
     (1) Cost estimate for outstanding obligations, guarantees, and liabilities
@@ -21,9 +22,9 @@
       (B) reflect the amounts so estimated in its financial statements; and
       (C) make such adjustments as are appropriate of such market value not less than quarterly.
     (5) Maximum amount limitation on outstanding obligations
-       Notwithstanding any other provisions of this chapter, the Corporation may not issue or incur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Bank Insurance Fund or Savings Association Insurance Fund, respectively, outstanding would exceed the sum of–
-      (A) the amount of cash or the equivalent of cash held by the Bank Insurance Fund or Savings Association Insurance Fund, respectively;
-      (B) the amount which is equal to 90 percent of the Corporation“s estimate of the fair market value of assets held by the Bank Insurance Fund or the Savings Association Insurance Fund, respectively, other than assets described in subparagraph (A); and
+       Notwithstanding any other provisions of this chapter, the Corporation may not issue or incur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Deposit Insurance Fund, outstanding would exceed the sum of–
+      (A) the amount of cash or the equivalent of cash held by the Deposit Insurance Fund;
+      (B) the amount which is equal to 90 percent of the Corporation“s estimate of the fair market value of assets held by the Deposit Insurance Fund, other than assets described in subparagraph (A); and
       (C) the total of the amounts authorized to be borrowed from the Secretary of the Treasury pursuant to section 1824(a) of this title.
     (6) ””Obligation““ defined
       (A) In general
