@@ -1,0 +1,77 @@
+  (a) Restrictions on transactions with affiliates
+    (1) A member bank and its subsidiaries may engage in a covered transaction with an affiliate only if–
+      (A) in the case of any affiliate, the aggregate amount of covered transactions of the member bank and its subsidiaries will not exceed 10 per centum of the capital stock and surplus of the member bank; and
+      (B) in the case of all affiliates, the aggregate amount of covered transactions of the member bank and its subsidiaries will not exceed 20 per centum of the capital stock and surplus of the member bank.
+    (2) For the purpose of this section, any transaction by a member bank with any person shall be deemed to be a transaction with an affiliate to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, that affiliate.
+    (3) A member bank and its subsidiaries may not purchase a low-quality asset from an affiliate unless the bank or such subsidiary, pursuant to an independent credit evaluation, committed itself to purchase such asset prior to the time such asset was acquired by the affiliate.
+    (4) Any covered transactions and any transactions exempt under subsection (d) of this section between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
+  (b) Definitions
+     For the purpose of this section–
+    (1) the term ””affiliate““ with respect to a member bank means–
+      (A) any company that controls the member bank and any other company that is controlled by the company that controls the member bank;
+      (B) a bank subsidiary of the member bank;
+      (C) any company–
+        (i) that is controlled directly or indirectly, by a trust or otherwise, by or for the benefit of shareholders who beneficially or otherwise control, directly or indirectly, by trust or otherwise, the member bank or any company that controls the member bank; or
+        (ii) in which a majority of its directors or trustees constitute a majority of the persons holding any such office with the member bank or any company that controls the member bank;
+      (D)        (i) any company, including a real estate investment trust, that is sponsored and advised on a contractual basis by the member bank or any subsidiary or affiliate of the member bank; or
+        (ii) any investment company with respect to which a member bank or any affiliate thereof is an investment advisor as defined in section 80a–2(a)(20) of title 15; and
+      (E) any company that the Board determines by regulation or order to have a relationship with the member bank or any subsidiary or affiliate of the member bank, such that covered transactions by the member bank or its subsidiary with that company may be affected by the relationship to the detriment of the member bank or its subsidiary; and
+    (2) the following shall not be considered to be an affiliate:
+      (A) any company, other than a bank, that is a subsidiary of a member bank, unless a determination is made under paragraph (1)(E) not to exclude such subsidiary company from the definition of affiliate;
+      (B) any company engaged solely in holding the premises of the member bank;
+      (C) any company engaged solely in conducting a safe deposit business;
+      (D) any company engaged solely in holding obligations of the United States or its agencies or obligations fully guaranteed by the United States or its agencies as to principal and interest; and
+      (E) any company where control results from the exercise of rights arising out of a bona fide debt previously contracted, but only for the period of time specifically authorized under applicable State or Federal law or regulation or, in the absence of such law or regulation, for a period of two years from the date of the exercise of such rights or the effective date of this Act, whichever date is later, subject, upon application, to authorization by the Board for good cause shown of extensions of time for not more than one year at a time, but such extensions in the aggregate shall not exceed three years;
+    (3)      (A) a company or shareholder shall be deemed to have control over another company if–
+        (i) such company or shareholder, directly or indirectly, or acting through one or more other persons owns, controls, or has power to vote 25 per centum or more of any class of voting securities of the other company;
+        (ii) such company or shareholder controls in any manner the election of a majority of the directors or trustees of the other company; or
+        (iii) the Board determines, after notice and opportunity for hearing, that such company or shareholder, directly or indirectly, exercises a controlling influence over the management or policies of the other company; and
+      (B) notwithstanding any other provision of this section, no company shall be deemed to own or control another company by virtue of its ownership or control of shares in a fiduciary capacity, except as provided in paragraph (1)(C) of this subsection or if the company owning or controlling such shares is a business trust;
+    (4) the term ””subsidiary““ with respect to a specified company means a company that is controlled by such specified company;
+    (5) the term ””bank““ includes a State bank, national bank, banking association, and trust company;
+    (6) the term ””company““ means a corporation, partnership, business trust, association, or similar organization and, unless specifically excluded, the term ””company““ includes a ””member bank““ and a ””bank““;
+    (7) the term ””covered transaction““ means with respect to an affiliate of a member bank–
+      (A) a loan or extension of credit to the affiliate;
+      (B) a purchase of or an investment in securities issued by the affiliate;
+      (C) a purchase of assets, including assets subject to an agreement to repurchase, from the affiliate, except such purchase of real and personal property as may be specifically exempted by the Board by order or regulation;
+      (D) the acceptance of securities issued by the affiliate as collateral security for a loan or extension of credit to any person or company; or
+      (E) the issuance of a guarantee, acceptance, or letter of credit, including an endorsement or standby letter of credit, on behalf of an affiliate;
+    (8) the term ””aggregate amount of covered transactions““ means the amount of the covered transactions about to be engaged in added to the current amount of all outstanding covered transactions;
+    (9) the term ””securities““ means stocks, bonds, debentures, notes, or other similar obligations; and
+    (10) the term ””low-quality asset““ means an asset that falls in any one or more of the following categories:
+      (A) an asset classified as ””substandard““, ””doubtful““, or ””loss““ or treated as ””other loans especially mentioned““ in the most recent report of examination or inspection of an affiliate prepared by either a Federal or State supervisory agency;
+      (B) an asset in a nonaccrual status;
+      (C) an asset on which principal or interest payments are more than thirty days past due; or
+      (D) an asset whose terms have been renegotiated or compromised due to the deteriorating financial condition of the obligor.
+  (c) Collateral for certain transactions with affiliates
+    (1) Each loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of, an affiliate by a member bank or its subsidiary shall be secured at the time of the transaction by collateral having a market value equal to–
+      (A) 100 per centum of the amount of such loan or extension of credit, guarantee, acceptance, or letter of credit, if the collateral is composed of–
+        (i) obligations of the United States or its agencies;
+        (ii) obligations fully guaranteed by the United States or its agencies as to principal and interest;
+        (iii) notes, drafts, bills of exchange or bankers“ acceptances that are eligible for rediscount or purchase by a Federal Reserve Bank; or
+        (iv) a segregated, earmarked deposit account with the member bank;
+      (B) 110 per centum of the amount of such loan or extension of credit, guarantee, acceptance, or letter of credit if the collateral is composed of obligations of any State or political subdivision of any State;
+      (C) 120 per centum of the amount of such loan or extension of credit, guarantee, acceptance, or letter of credit if the collateral is composed of other debt instruments, including receivables; or
+      (D) 130 per centum of the amount of such loan or extension of credit, guarantee, acceptance, or letter of credit if the collateral is composed of stock, leases, or other real or personal property.
+    (2) Any such collateral that is subsequently retired or amortized shall be replaced by additional eligible collateral where needed to keep the percentage of the collateral value relative to the amount of the outstanding loan or extension of credit, guarantee, acceptance, or letter of credit equal to the minimum percentage required at the inception of the transaction.
+    (3) A low-quality asset shall not be acceptable as collateral for a loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of, an affiliate.
+    (4) The securities issued by an affiliate of the member bank shall not be acceptable as collateral for a loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of, that affiliate or any other affiliate of the member bank.
+    (5) The collateral requirements of this paragraph shall not be applicable to an acceptance that is already fully secured either by attached documents or by other property having an ascertainable market value that is involved in the transaction.
+  (d) Exemptions
+     The provisions of this section, except subsection (a)(4) of this section, shall not be applicable to–
+    (1) any transaction, subject to the prohibition contained in subsection (a)(3) of this section, with a bank–
+      (A) which controls 80 per centum or more of the voting shares of the member bank;
+      (B) in which the member bank controls 80 per centum or more of the voting shares; or
+      (C) in which 80 per centum or more of the voting shares are controlled by the company that controls 80 per centum or more of the voting shares of the member bank;
+    (2) making deposits in an affiliated bank or affiliated foreign bank in the ordinary course of correspondent business, subject to any restrictions that the Board may prescribe by regulation or order;
+    (3) giving immediate credit to an affiliate for uncollected items received in the ordinary course of business;
+    (4) making a loan or extension of credit to, or issuing a guarantee, acceptance, or letter of credit on behalf of, an affiliate that is fully secured by–
+      (A) obligations of the United States or its agencies;
+      (B) obligations fully guaranteed by the United States or its agencies as to principal and interest; or
+      (C) a segregated, earmarked deposit account with the member bank;
+    (5) purchasing securities issued by any company of the kinds described in section 1843(c)(1) of this title;
+    (6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
+    (7) purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
+  (e) Rulemaking and additional exemptions
+    (1) The Board may issue such further regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purposes of this section and to prevent evasions thereof.
+    (2) The Board may, at its discretion, by regulation or order exempt transactions or relationships from the requirements of this section if it finds such exemptions to be in the public interest and consistent with the purposes of this section.

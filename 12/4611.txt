@@ -1,0 +1,91 @@
+  (a) Risk-based capital test
+     The Director shall, by regulation, establish a risk-based capital test under this section for the enterprises. When applied to an enterprise, the risk-based capital test shall determine the amount of total capital for the enterprise that is sufficient for the enterprise to maintain positive capital during a 10-year period in which the following circumstances occur (in this section referred to as the ””stress period““):
+    (1) Credit risk
+       With respect to mortgages owned or guaranteed by the enterprise and other obligations of the enterprise, losses occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing practice for that industry in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years, experienced the highest rates of default and severity of mortgage losses, in comparison with such rates of default and severity of mortgage losses in other such areas for any period of such duration.
+    (2) Interest rate risk
+      (A) In general
+         Interest rates decrease as described in subparagraph (B) or increase as described in subparagraph (C), whichever would require more capital for the enterprise.
+      (B) Decreases
+         The 10-year constant maturity Treasury yield decreases during the first year of the stress period and will remain at the new level for the remainder of the stress period. The yield decreases to the lesser of–
+        (i) 600 basis points below the average yield during the preceding 9 months, or
+        (ii) 60 percent of the average yield during the preceding 3 years,
+         but in no case to a yield less than 50 percent of the average yield during the preceding 9 months.
+      (C) Increases
+         The 10-year constant maturity Treasury yield increases during the first year of the stress period and will remain at the new level for the remainder of the stress period. The yield increases to the greater of–
+        (i) 600 basis points above the average yield during the preceding 9 months, or
+        (ii) 160 percent of the average yield during the preceding 3 years,
+         but in no case to a yield greater than 175 percent of the average yield during the preceding 9 months.
+      (D) Different terms to maturity
+         Yields of Treasury instruments with other terms to maturity will change relative to the 10-year constant maturity Treasury yield in patterns and for durations that are reasonably related to historical experience and are judged reasonable by the Director.
+      (E) Large increases in yields
+         If the 10-year constant maturity Treasury yield is assumed to increase by more than 50 percent over the average yield during the preceding 9 months, the Director shall adjust the losses in paragraphs (1) and (3) to reflect a correspondingly higher rate of general price inflation.
+    (3) New business
+      (A) In general
+         Any contractual commitments of the enterprise to purchase mortgages or issue securities will be fulfilled. The characteristics of resulting mortgage purchases, securities issued, and other financing will be consistent with the contractual terms of such commitments, recent experience, and the economic characteristics of the stress period. No other purchases of mortgages shall be assumed, except as provided in subparagraph (B).
+      (B) Additional new business
+         The Director may, after consideration of each of the studies required by subparagraph (C), assume that the enterprise conducts additional new business during the stress period consistent with the following–
+        (i) Amount and product types
+           The amount and types of mortgages purchased and their financing will be reasonably related to recent experience and the economic characteristics of the stress period.
+        (ii) Losses
+           Default and loss severity characteristics of mortgages purchased will be reasonably related to historical experience.
+        (iii) Pricing
+           Prices charged by the enterprise in purchasing new mortgages will be reasonably related to recent experience and the economic characteristics of the stress period. The Director may assume that a reasonable period of time would lapse before the enterprise would recognize and react to the characteristics of the stress period.
+        (iv) Interest rate risk
+           Interest rate risk on new mortgages purchased will occur to an extent reasonably related to historical experience.
+        (v) Reserves
+           The enterprise must maintain reserves during and at the end of the stress period on new business conducted during the first 5 years of the stress period reasonably related to the expected future losses on such business, consistent with generally accepted accounting principles and industry accounting practice.
+      (C) Studies
+         Within 1 year after regulations are first issued under subsection (e) of this section, the Director of the Congressional Budget Office, and the Comptroller General of the United States shall each submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a study of the advisability and appropriate form of any new business assumptions under subparagraph (B).
+      (D) Effective date
+         The provisions of subparagraph (B) shall become effective 4 years after regulations are first issued under subsection (e) of this section.
+    (4) Other activities
+       Losses or gains on other activities, including interest rate and foreign exchange hedging activities, shall be determined by the Director, on the basis of available information, to be consistent with the stress period.
+  (b) Considerations
+    (1) In general
+       In establishing the risk-based capital test under subsection (a) of this section, the Director shall take into account appropriate distinctions among types of mortgage products, differences in seasoning of mortgages, and any other factors the Director considers appropriate.
+    (2) Consistency
+       Characteristics of the stress period other than those specifically set forth in subsection (a) of this section, such as prepayment experience and dividend policies, will be those determined by the Director, on the basis of available information, to be most consistent with the stress period.
+  (c) Risk-based capital level
+     For purposes of this subchapter, the risk-based capital level for an enterprise shall be equal to the sum of the following amounts:
+    (1) Credit and interest rate risk
+       The amount of total capital determined by applying the risk-based capital test under subsection (a) of this section to the enterprise.
+    (2) Management and operations risk
+       To provide for management and operations risk, 30 percent of the amount of total capital determined by applying the risk-based capital test under subsection (a) of this section to the enterprise.
+  (d) Definitions
+     For purposes of this section:
+    (1) Seasoning
+       The term ””seasoning““ means the change over time in the ratio of the unpaid principal balance of a mortgage to the value of the property by which such mortgage loan is secured, determined on an annual basis by region, in accordance with the Constant Quality Home Price Index published by the Secretary of Commerce (or any index of similar quality, authority, and public availability that is regularly used by the Federal Government).
+    (2) Type of mortgage product
+       The term ””type of mortgage product““ means a classification of one or more mortgage products, as established by the Director, which have similar characteristics from each set of characteristics under the following subparagraphs:
+      (A) The property securing the mortgage is–
+        (i) a residential property consisting of 1 to 4 dwelling units; or
+        (ii) a residential property consisting of more than 4 dwelling units.
+      (B) The interest rate on the mortgage is–
+        (i) fixed; or
+        (ii) adjustable.
+      (C) The priority of the lien securing the mortgage is–
+        (i) first; or
+        (ii) second or other.
+      (D) The term of the mortgage is–
+        (i) 1 to 15 years;
+        (ii) 16 to 30 years; or
+        (iii) more than 30 years.
+      (E) The owner of the property is–
+        (i) an owner-occupant; or
+        (ii) an investor.
+      (F) The unpaid principal balance of the mortgage–
+        (i) will amortize completely over the term of the mortgage and will not increase significantly at any time during the term of the mortgage;
+        (ii) will not amortize completely over the term of the mortgage and will not increase significantly at any time during the term of the mortgage; or
+        (iii) may increase significantly at some time during the term of the mortgage.
+      (G) Any other characteristics of the mortgage, as the Director may determine.
+  (e) Regulations
+    (1) Issuance
+       The Director shall issue final regulations establishing the risk-based capital test under this section not later than the expiration of the 18-month period beginning on the date of the appointment of the Director. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 and shall take effect upon issuance.
+    (2) Contents
+       The regulations under this subsection shall contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, and prepayment rates). The regulations shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
+    (3) Confidentiality of information
+       Any person that receives any book, record, or information from the Director or an enterprise to enable the risk-based capital test to be applied shall–
+      (A) maintain the confidentiality of the book, record, or information in a manner that is generally consistent with the level of confidentiality established for the material by the Director or the enterprise; and
+      (B) be exempt from section 552 of title 5 with respect to the book, record, or information.
+  (f) Availability of model
+     The Director shall provide copies of the statistical model or models used to implement the risk-based capital test under this section to the Secretary, the Board of Governors of the Federal Reserve System, the Director of the Office of Management and Budget, the Comptroller General of the United States, and the Director of the Congressional Budget Office. The Director shall make copies of such model or models available for public acquisition and may charge a reasonable fee for such copies.

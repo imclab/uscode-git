@@ -1,0 +1,10 @@
+  (a) General rule
+     Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.
+  (b) Limitation on obligation to make payment
+     The only obligation, if any, of a financial institution to make payment with respect to covered contractual payment obligations to another financial institution shall be equal to its net obligation to such other financial institution, and no such obligation shall exist if there is no net obligation.
+  (c) Limitation on right to receive payment
+     The only right, if any, of a financial institution to receive payments with respect to covered contractual payment entitlements from another financial institution shall be equal to its net entitlement with respect to such other financial institution, and no such right shall exist if there is no net entitlement.
+  (d) Payment of net entitlement of failed financial institution
+     The net entitlement of any failed financial institution, if any, shall be paid to the failed financial institution in accordance with, and subject to the conditions of, the applicable netting contract.
+  (e) Effectiveness notwithstanding status as financial institution
+     This section shall be given effect notwithstanding that a financial institution is a failed financial institution.

@@ -1,0 +1,56 @@
+   For purposes of this chapter–
+  (1) Broker or dealer
+     The term ””broker or dealer““ means–
+    (A) any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting, or dealing in securities in the United States; and
+    (B) to the extent consistent with this chapter, as determined by the Board of Governors of the Federal Reserve System, any company that is an affiliate of a company described in subparagraph (A) and that is engaged in the business of entering into netting contracts.
+  (2) Clearing organization
+     The term ””clearing organization““ means a clearinghouse, clearing association, clearing corporation, or similar organization–
+    (A) that provides clearing, netting, or settlement services for its members and–
+      (i) in which all members other than the clearing organization itself are financial institutions or other clearing organizations; or
+      (ii) which is registered as a clearing agency under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.]; or
+    (B) that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act [7 U.S.C. 1 et seq.].
+  (3) Covered clearing obligation
+     The term ””covered clearing obligation““ means an obligation of a member of a clearing organization to make payment to another member of a clearing organization, subject to a netting contract.
+  (4) Covered contractual payment entitlement
+     The term ””covered contractual payment entitlement““ means–
+    (A) an entitlement of a financial institution to receive a payment, subject to a netting contract from another financial institution; and
+    (B) an entitlement of a member of a clearing organization to receive payment, subject to a netting contract, from another member of a clearing organization of a covered clearing obligation.
+  (5) Covered contractual payment obligation
+     The term ””covered contractual payment obligation““ means–
+    (A) an obligation of a financial institution to make payment, subject to a netting contract to another financial institution; and
+    (B) a covered clearing obligation.
+  (6) Depository institution
+     The term ””depository institution““ means–
+    (A) a depository institution as defined in section 19(b)(1)(A) of the Federal Reserve Act [12 U.S.C. 461(b)(1)(A)] (other than clause (vii));
+    (B) a branch or agency as defined in section 1(b) of the International Banking Act of 1978 [12 U.S.C. 3101];
+    (C) a corporation chartered under section 25(a) \1\N of the Federal Reserve Act [12 U.S.C. 611 et seq.]; or
+    (D) a corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act [12 U.S.C. 601 et seq.].
+  (7) Failed financial institution
+     The term ””failed financial institution““ means a financial institution that–
+    (A) fails to satisfy a covered contractual payment obligation when due;
+    (B) has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings; or
+    (C) has generally ceased to meet its obligations when due.
+  (8) Failed member
+     The term ””failed member““ means any member that–
+    (A) fails to satisfy a covered clearing obligation when due,
+    (B) has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings, or
+    (C) has generally ceased to meet its obligations when dud.
+  (9) Financial institution
+     The term ””financial institution““ means a broker or dealer, a depository institution, a futures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.
+  (10) Futures commission merchant
+     The term ””futures commission merchant““ means a company that is registered or licensed under Federal law to engage in the business of selling futures and options in commodities.
+  (11) Member
+     The term ””member““ means a member of or participant in a clearing organization, and includes the clearing organization.
+  (12) Net entitlement
+     The term ””net entitlement““ means the amount by which the covered contractual payment entitlements of a financial institution or member exceed the covered contractual payment obligations of the institution or member after netting under a netting contract.
+  (13) Net obligation
+     The term ””net obligation““ means the amount by which the covered contractual payment obligations of a financial institution or member exceed the covered contractual payment entitlements of the institution or member after netting under a netting contract.
+  (14) Netting contract
+    (A) In general
+       The term ””netting contract““–
+      (i) means a contract or agreement between 2 or more financial institutions or members, that–
+        (I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
+        (II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and
+      (ii) includes the rules of a clearing organization.
+    (B) Invalid contracts not included
+       The term ””netting contract““ does not include any contract or agreement that is invalid under or precluded by Federal law.

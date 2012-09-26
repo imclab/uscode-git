@@ -1,0 +1,14 @@
+  (a) General netting rule
+     Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract.
+  (b) Limitation of obligation to make payment
+     The only obligation, if any, of a member of a clearing organization to make payment with respect to covered contractual payment obligations arising under a single netting contract to any other member of a clearing organization shall be equal to its net obligation arising under that netting contract, and no such obligation shall exist if there is no net obligation.
+  (c) Limitation on right to receive payment
+     The only right, if any, of a member of a clearing organization to receive payment with respect to a covered contractual payment entitlement arising under a single netting contract from other members of a clearing organization shall be equal to its net entitlement arising under that netting contract, and no such right shall exist if there is no net entitlement.
+  (d) Entitlement of failed members
+     The net entitlement, if any, of any failed member of a clearing organization shall be paid to the failed member in accordance with, and subject to the conditions of, the applicable netting contract.
+  (e) Obligations of failed members
+     The net obligation, if any, of any failed member of a clearing organization shall be determined in accordance with, and subject to the conditions of, the applicable netting contract.
+  (f) Limitation on claims for entitlement
+     A failed member of a clearing organization shall have no recognizable claim against any member of a clearing organization for any amount based on such covered contractual payment entitlements other than its net entitlement.
+  (g) Effectiveness notwithstanding status as member
+     This section shall be given effect notwithstanding that a member is a failed member.
