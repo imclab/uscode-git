@@ -7,8 +7,9 @@
       (A) specifying times of entry, movement, or departure;
       (B) establishing vessel traffic routing schemes;
       (C) establishing vessel size, speed, draft limitations and vessel operating conditions; and
-      (D) restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances; and
-    (5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment.
+      (D) restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances;
+    (5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment; and
+    (6) may prohibit the use on vessels of electronic or other devices that interfere with communication and navigation equipment, except that such authority shall not apply to electronic or other devices certified to transmit in the maritime services by the Federal Communications Commission and used within the frequency bands 157.1875–157.4375 MHz and 161.7875–162.0375 MHz.
   (b) Special powers
      The Secretary may order any vessel, in a port or place subject to the jurisdiction of the United States or in the navigable waters of the United States, to operate or anchor in a manner he directs if–
     (1) he has reasonable cause to believe such vessel does not comply with any regulation issued under this chapter or any other applicable law or treaty;
@@ -31,3 +32,7 @@
      Except pursuant to international treaty, convention, or agreement, to which the United States is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in–
     (1) innocent passage through the territorial sea of the United States, or
     (2) transit through the navigable waters of the United States which form a part of an international strait.
+  (e) Cooperative agreements
+    (1) The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1) of this section.
+    (2) A nongovernmental entity may not under this subsection carry out an inherently governmental function.
+    (3) As used in this paragraph, the term ””inherently governmental function““ means any activity that is so intimately related to the public interest as to mandate performance by an officer or employee of the Federal Government, including an activity that requires either the exercise of discretion in applying the authority of the Government or the use of judgment in making a decision for the Government.

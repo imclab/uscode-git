@@ -24,7 +24,35 @@
   (23) ””oil““ means oil of any kind or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include any substance which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act [42 U.S.C. 9601 et seq.];
   (24) ””onshore facility““ means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
   (25) the term ””Outer Continental Shelf facility““ means an offshore facility which is located, in whole or in part, on the Outer Continental Shelf and is or was used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the Outer Continental Shelf;
-  (26) ””owner or operator““ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;
+  (26) ””owner or operator““–
+    (A) means–
+      (i) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel;
+      (ii) in the case of an onshore or offshore facility, any person owning or operating such facility;
+      (iii) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;
+      (iv) in the case of any facility, title or control of which was conveyed due to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand;
+      (v) notwithstanding subparagraph (B)(i), and in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including for purposes of liability under section 2702 of this title, any State or local government that has caused or contributed to a discharge or substantial threat of a discharge of oil from a vessel or facility ownership or control of which was acquired involuntarily through–
+        (I) seizure or otherwise in connection with law enforcement activity;
+        (II) bankruptcy;
+        (III) tax delinquency;
+        (IV) abandonment; or
+        (V) other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign;
+      (vi) notwithstanding subparagraph (B)(ii), a person that is a lender and that holds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person–
+        (I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibility for oil handling or disposal practices related to the vessel or facility; or
+        (II) exercises control at a level comparable to that of a manager of the vessel or facility, such that the person has assumed or manifested responsibility–
+          (aa) for the overall management of the vessel or facility encompassing day-to-day decision making with respect to environmental compliance; or
+          (bb) over all or substantially all of the operational functions (as distinguished from financial or administrative functions) of the vessel or facility other than the function of environmental compliance; and
+    (B) does not include–
+      (i) A unit of state or local government that acquired ownership or control of a vessel or facility involuntarily through–
+        (I) seizure or otherwise in connection with law enforcement activity;
+        (II) bankruptcy;
+        (III) tax delinquency;
+        (IV) abandonment; or
+        (V) other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign;
+      (ii) a person that is a lender that does not participate in management of a vessel or facility, but holds indicia of ownership primarily to protect the security interest of the person in the vessel or facility; or
+      (iii) a person that is a lender that did not participate in management of a vessel or facility prior to foreclosure, notwithstanding that the person–
+        (I) forecloses on the vessel or facility; and
+        (II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
+            if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements;
   (27) ””person““ means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body;
   (28) ””permittee““ means a person holding an authorization, license, or permit for geological exploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
   (29) ””public vessel““ means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
@@ -43,5 +71,26 @@
     (B) operates on the navigable waters; or
     (C) transfers oil or hazardous material in a place subject to the jurisdiction of the United States;
   (35) ””territorial seas““ means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters, and extending seaward a distance of 3 miles;
-  (36) ””United States““ and ””State““ mean the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession of the United States; and
-  (37) ””vessel““ means every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water, other than a public vessel.
+  (36) ””United States““ and ””State““ mean the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession of the United States;
+  (37) ””vessel““ means every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water, other than a public vessel;
+  (38) ””participate in management““–
+    (A)      (i) means actually participating in the management or operational affairs of a vessel or facility; and
+      (ii) does not include merely having the capacity to influence, or the unexercised right to control, vessel or facility operations; and
+    (B) does not include–
+      (i) performing an act or failing to act prior to the time at which a security interest is created in a vessel or facility;
+      (ii) holding a security interest or abandoning or releasing a security interest;
+      (iii) including in the terms of an extension of credit, or in a contract or security agreement relating to the extension, a covenant, warranty, or other term or condition that relates to environmental compliance;
+      (iv) monitoring or enforcing the terms and conditions of the extension of credit or security interest;
+      (v) monitoring or undertaking one or more inspections of the vessel or facility;
+      (vi) requiring a removal action or other lawful means of addressing a discharge or substantial threat of a discharge of oil in connection with the vessel or facility prior to, during, or on the expiration of the term of the extension of credit;
+      (vii) providing financial or other advice or counseling in an effort to mitigate, prevent, or cure default or diminution in the value of the vessel or facility;
+      (viii) restructuring, renegotiating, or otherwise agreeing to alter the terms and conditions of the extension of credit or security interest, exercising forbearance;
+      (ix) exercising other remedies that may be available under applicable law for the breach of a term or condition of the extension of credit or security agreement; or
+      (x) conducting a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan,
+     if such actions do not rise to the level of participating in management under subparagraph (A) of this paragraph and paragraph (26)(A)(vi);
+  (39) ””extension of credit““ has the meaning provided in section 101(20)(G)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(i));
+  (40) ””financial or administrative function““ has the meaning provided in section 101(20)(G)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(ii));
+  (41) ””foreclosure““ and ””foreclose““ each has the meaning provided in section 101(20)(G)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(iii));
+  (42) ””lender““ has the meaning provided in section 101(20)(G)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(iv));
+  (43) ””operational function““ has the meaning provided in section 101(20)(G)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(v)); and
+  (44) ””security interest““ has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(vi)).
