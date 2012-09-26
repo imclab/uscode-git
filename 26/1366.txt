@@ -1,0 +1,42 @@
+  (a) Determination of shareholder“s tax liability
+    (1) In general
+       In determining the tax under this chapter of a shareholder for the shareholder“s taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate which terminates, before the end of the corporation“s taxable year), there shall be taken into account the shareholder“s pro rata share of the corporation“s–
+      (A) items of income (including tax-exempt income), loss, deduction, or credit the separate treatment of which could affect the liability for tax of any shareholder, and
+      (B) nonseparately computed income or loss.
+       For purposes of the preceding sentence, the items referred to in subparagraph (A) shall include amounts described in paragraph (4) or (6) of section 702(a).
+    (2) Nonseparately computed income or loss defined
+       For purposes of this subchapter, the term ””nonseparately computed income or loss““ means gross income minus the deductions allowed to the corporation under this chapter, determined by excluding all items described in paragraph (1)(A).
+  (b) Character passed thru
+     The character of any item included in a shareholder“s pro rata share under paragraph (1) of subsection (a) shall be determined as if such item were realized directly from the source from which realized by the corporation, or incurred in the same manner as incurred by the corporation.
+  (c) Gross income of a shareholder
+     In any case where it is necessary to determine the gross income of a shareholder for purposes of this title, such gross income shall include the shareholder“s pro rata share of the gross income of the corporation.
+  (d) Special rules for losses and deductions
+    (1) Cannot exceed shareholder“s basis in stock and debt
+       The aggregate amount of losses and deductions taken into account by a shareholder under subsection (a) for any taxable year shall not exceed the sum of–
+      (A) the adjusted basis of the shareholder“s stock in the S corporation (determined with regard to paragraphs (1) and (2)(A) of section 1367(a) for the taxable year), and
+      (B) the shareholder“s adjusted basis of any indebtedness of the S corporation to the shareholder (determined without regard to any adjustment under paragraph (2) of section 1367(b) for the taxable year).
+    (2) Indefinite carryover of disallowed losses and deductions
+      (A) In general
+         Except as provided in subparagraph (B), any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.
+      (B) Transfers of stock between spouses or incident to divorce
+         In the case of any transfer described in section 1041(a) of stock of an S corporation, any loss or deduction described in subparagraph (A) with respect such stock shall be treated as incurred by the corporation in the succeeding taxable year with respect to the transferee.
+    (3) Carryover of disallowed losses and deductions to post-termination transition period
+      (A) In general
+         If for the last taxable year of a corporation for which it was an S corporation a loss or deduction was disallowed by reason of paragraph (1), such loss or deduction shall be treated as incurred by the shareholder on the last day of any post-termination transition period.
+      (B) Cannot exceed shareholder“s basis in stock
+         The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed the adjusted basis of the shareholder“s stock in the corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
+      (C) Adjustment in basis of stock
+         The shareholder“s basis in the stock of the corporation shall be reduced by the amount allowed as a deduction by reason of this paragraph.
+      (D) At-risk limitations
+         To the extent that any increase in adjusted basis described in subparagraph (B) would have increased the shareholder“s amount at risk under section 465 if such increase had occurred on the day preceding the commencement of the post-termination transition period, rules similar to the rules described in subparagraphs (A) through (C) shall apply to any losses disallowed by reason of section 465(a).
+  (e) Treatment of family group
+     If an individual who is a member of the family (within the meaning of section 704(e)(3)) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
+  (f) Special rules
+    (1) Subsection (a) not to apply to credit allowable under section 34
+       Subsection (a) shall not apply with respect to any credit allowable under section 34 (relating to certain uses of gasoline and special fuels).
+    (2) Treatment of tax imposed on built-in gains
+       If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount so imposed shall be treated as a loss sustained by the S corporation during such taxable year. The character of such loss shall be determined by allocating the loss proportionately among the recognized built-in gains giving rise to such tax.
+    (3) Reduction in pass-thru for tax imposed on excess net passive income
+       If any tax is imposed under section 1375 for any taxable year on an S corporation, for purposes of subsection (a), each item of passive investment income shall be reduced by an amount which bears the same ratio to the amount of such tax as–
+      (A) the amount of such item, bears to
+      (B) the total passive investment income for the taxable year.

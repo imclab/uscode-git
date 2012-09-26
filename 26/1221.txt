@@ -1,4 +1,42 @@
-  (a) Preparation; eligibility for enrollment
-     The Secretary of the Interior shall prepare a roll of all persons who meet the following requirements: (1) they were born on or prior to and were living on July 31, 1970; (2) their names or the name of a lineal ancestor from whom they claim eligibility appears on (a) the final roll of the Peoria Tribe of Indians of Oklahoma, pursuant to the Act of August 2, 1956 (70 Stat. 937) [25 U.S.C. 821 et seq.], or (b) the January 1, 1937, census of the Peoria Tribe, or (c) the 1920 census of the Peoria Tribe, or (d) the Indian or Citizen Class lists pursuant to the Treaty of February 23, 1867 (15 Stat. 520), or (e) the Schedule of Persons or Families composing the United Tribes of Weas, Piankashaws, Peorias, and Kaskaskias, annexed to the Treaty of May 30, 1854.
-  (b) Applications; finality of determination
-     Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose by the Secretary of the Interior. The determination of the Secretary regarding the eligibility of an applicant shall be final.
+  (a) In general
+     For purposes of this subtitle, the term ””capital asset““ means property held by the taxpayer (whether or not connected with his trade or business), but does not include–
+    (1) stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business;
+    (2) property, used in his trade or business, of a character which is subject to the allowance for depreciation provided in section 167, or real property used in his trade or business;
+    (3) a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by–
+      (A) a taxpayer whose personal efforts created such property,
+      (B) in the case of a letter, memorandum, or similar property, a taxpayer for whom such property was prepared or produced, or
+      (C) a taxpayer in whose hands the basis of such property is determined, for purposes of determining gain from a sale or exchange, in whole or part by reference to the basis of such property in the hands of a taxpayer described in subparagraph (A) or (B);
+    (4) accounts or notes receivable acquired in the ordinary course of trade or business for services rendered or from the sale of property described in paragraph (1);
+    (5) a publication of the United States Government (including the Congressional Record) which is received from the United States Government or any agency thereof, other than by purchase at the price at which it is offered for sale to the public, and which is held by–
+      (A) a taxpayer who so received such publication, or
+      (B) a taxpayer in whose hands the basis of such publication is determined, for purposes of determining gain from a sale or exchange, in whole or in part by reference to the basis of such publication in the hands of a taxpayer described in subparagraph (A);
+    (6) any commodities derivative financial instrument held by a commodities derivatives dealer, unless–
+      (A) it is established to the satisfaction of the Secretary that such instrument has no connection to the activities of such dealer as a dealer, and
+      (B) such instrument is clearly identified in such dealer“s records as being described in subparagraph (A) before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe);
+    (7) any hedging transaction which is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe); or
+    (8) supplies of a type regularly used or consumed by the taxpayer in the ordinary course of a trade or business of the taxpayer.
+  (b) Definitions and special rules
+    (1) Commodities derivative financial instruments
+       For purposes of subsection (a)(6)–
+      (A) Commodities derivatives dealer
+         The term ””commodities derivatives dealer““ means a person which \1\N regularly offers to enter into, assume, offset, assign, or terminate positions in commodities derivative financial instruments with customers in the ordinary course of a trade or business.
+      (B) Commodities derivative financial instrument
+        (i) In general
+           The term ””commodities derivative financial instrument““ means any contract or financial instrument with respect to commodities (other than a share of stock in a corporation, a beneficial interest in a partnership or trust, a note, bond, debenture, or other evidence of indebtedness, or a section 1256 contract (as defined in section 1256(b))), the value or settlement price of which is calculated by or determined by reference to a specified index.
+        (ii) Specified index
+           The term ””specified index““ means any one or more or any combination of–
+          (I) a fixed rate, price, or amount, or
+          (II) a variable rate, price, or amount,
+              which is based on any current, objectively determinable financial or economic information with respect to commodities which is not within the control of any of the parties to the contract or instrument and is not unique to any of the parties“ circumstances.
+    (2) Hedging transaction
+      (A) In general
+         For purposes of this section, the term ””hedging transaction““ means any transaction entered into by the taxpayer in the normal course of the taxpayer“s trade or business primarily–
+        (i) to manage risk of price changes or currency fluctuations with respect to ordinary property which is held or to be held by the taxpayer,
+        (ii) to manage risk of interest rate or price changes or currency fluctuations with respect to borrowings made or to be made, or ordinary obligations incurred or to be incurred, by the taxpayer, or
+        (iii) to manage such other risks as the Secretary may prescribe in regulations.
+      (B) Treatment of nonidentification or improper identification of hedging transactions
+         Notwithstanding subsection (a)(7), the Secretary shall prescribe regulations to properly characterize any income, gain, expense, or loss arising from a transaction–
+        (i) which is a hedging transaction but which was not identified as such in accordance with subsection (a)(7), or
+        (ii) which was so identified but is not a hedging transaction.
+    (3) Regulations
+       The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (6) and (7) of subsection (a) in the case of transactions involving related parties.

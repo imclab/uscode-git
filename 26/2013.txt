@@ -1,15 +1,27 @@
-  (a) In general
-     Not later than 12 months after January 8, 2002, the Secretary shall update the computerized management information system within the Office. The information to be updated shall include information regarding–
-    (1) student enrollment;
-    (2) curricula;
-    (3) staffing;
-    (4) facilities;
-    (5) community demographics;
-    (6) student assessment information;
-    (7) information on the administrative and program costs attributable to each Bureau program, divided into discrete elements;
-    (8) relevant reports;
-    (9) personnel records;
-    (10) finance and payroll; and
-    (11) such other items as the Secretary determines to be appropriate.
-  (b) Implementation of system
-     Not later than July 1, 2003, the Secretary shall complete the implementation of the updated computerized management information system at each Bureau field office and Bureau-funded school.
+  (a) General rule
+     The tax imposed by section 2001 shall be credited with all or a part of the amount of the Federal estate tax paid with respect to the transfer of property (including property passing as a result of the exercise or non-exercise of a power of appointment) to the decedent by or from a person (herein designated as a ””transferor““) who died within 10 years before, or within 2 years after, the decedent“s death. If the transferor died within 2 years of the death of the decedent, the credit shall be the amount determined under subsections (b) and (c). If the transferor predeceased the decedent by more than 2 years, the credit shall be the following percentage of the amount so determined–
+    (1) 80 percent, if within the third or fourth years preceding the decedent“s death;
+    (2) 60 percent, if within the fifth or sixth years preceding the decedent“s death;
+    (3) 40 percent, if within the seventh or eighth years preceding the decedent“s death; and
+    (4) 20 percent, if within the ninth or tenth years preceding the decedent“s death.
+  (b) Computation of credit
+     Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
+  (c) Limitation on credit
+    (1) In general
+       The credit provided in this section shall not exceed the amount by which–
+      (A) the estate tax imposed by section 2001 or section 2101 (after deducting the credits provided for in sections 2010, 2012, and 2014) computed without regard to this section, exceeds
+      (B) such tax computed by excluding from the decedent“s gross estate the value of such property transferred and, if applicable, by making the adjustment hereinafter indicated.
+       If any deduction is otherwise allowable under section 2055 or section 2106(a)(2) (relating to charitable deduction) then, for the purpose of the computation indicated in subparagraph (B), the amount of such deduction shall be reduced by that part of such deduction which the value of such property transferred bears to the decedent“s entire gross estate reduced by the deductions allowed under sections 2053 and 2054, or section 2106(a)(1) (relating to deduction for expenses, losses, etc.). For purposes of this section, the value of such property transferred shall be the value as provided for in subsection (d) of this section.
+    (2) Two or more transferors
+       If the credit provided in this section relates to property received from 2 or more transferors, the limitation provided in paragraph (1) of this subsection shall be computed by aggregating the value of the property so transferred to the decedent. The aggregate limitation so determined shall be apportioned in accordance with the value of the property transferred to the decedent by each transferor.
+  (d) Valuation of property transferred
+     The value of property transferred to the decedent shall be the value used for the purpose of determining the Federal estate tax liability of the estate of the transferor but–
+    (1) there shall be taken into account the effect of the tax imposed by section 2001 or 2101, or any estate, succession, legacy, or inheritance tax, on the net value to the decedent of such property;
+    (2) where such property is encumbered in any manner, or where the decedent incurs any obligation imposed by the transferor with respect to such property, such encumbrance or obligation shall be taken into account in the same manner as if the amount of a gift to the decedent of such property was being determined; and
+    (3) if the decedent was the spouse of the transferor at the time of the transferor“s death, the net value of the property transferred to the decedent shall be reduced by the amount allowed under section 2056 (relating to marital deductions), as a deduction from the gross estate of the transferor.
+  (e) Property defined
+     For purposes of this section, the term ””property““ includes any beneficial interest in property, including a general power of appointment (as defined in section 2041).
+  (f) Treatment of additional tax imposed under section 2032A
+     If section 2032A applies to any property included in the gross estate of the transferor and an additional tax is imposed with respect to such property under section 2032A(c) before the date which is 2 years after the date of the decedent“s death, for purposes of this section–
+    (1) the additional tax imposed by section 2032A(c) shall be treated as a Federal estate tax payable with respect to the estate of the transferor; and
+    (2) the value of such property and the amount of the taxable estate of the transferor shall be determined as if section 2032A did not apply with respect to such property.

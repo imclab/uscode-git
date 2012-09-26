@@ -1,1 +1,95 @@
-   Section, R.S. § 2061, related to visits to Washington, D.C., by agents in California.
+  (a) Allowance of credit
+     There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of–
+    (1) the business credit carryforwards carried to such taxable year,
+    (2) the amount of the current year business credit, plus
+    (3) the business credit carrybacks carried to such taxable year.
+  (b) Current year business credit
+     For purposes of this subpart, the amount of the current year business credit is the sum of the following credits determined for the taxable year:
+    (1) the investment credit determined under section 46,
+    (2) the work opportunity credit determined under section 51(a),
+    (3) the alcohol fuels credit determined under section 40(a),
+    (4) the research credit determined under section 41(a),
+    (5) the low-income housing credit determined under section 42(a),
+    (6) the enhanced oil recovery credit under section 43(a),
+    (7) in the case of an eligible small business (as defined in section 44(b)), the disabled access credit determined under section 44(a),
+    (8) the renewable electricity production credit under section 45(a),
+    (9) the empowerment zone employment credit determined under section 1396(a),
+    (10) the Indian employment credit as determined under section 45A(a),
+    (11) the employer social security credit determined under section 45B(a),
+    (12) the orphan drug credit determined under section 45C(a),
+    (13) the new markets tax credit determined under section 45D(a),
+    (14) in the case of an eligible employer (as defined in section 45E(c)), the small employer pension plan startup cost credit determined under section 45E(a),
+    (15) the employer-provided child care credit determined under section 45F(a),
+    (16) the railroad track maintenance credit determined under section 45G(a),
+    (17) the biodiesel fuels credit determined under section 40A(a),
+    (18) the low sulfur diesel fuel production credit determined under section 45H(a),
+    (19) the marginal oil and gas well production credit determined under section 45I(a),
+    (20) the distilled spirits credit determined under section 5011(a),
+    (21) the advanced nuclear power facility production credit determined under section 45J(a),
+    (22) the nonconventional source production credit determined under section 45K(a),
+    (23) the new energy efficient home credit determined under section 45L(a),
+    (24) the energy efficient appliance credit determined under section 45M(a),
+    (25) the portion of the alternative motor vehicle credit to which section 30B(g)(1) applies,
+    (26) the portion of the alternative fuel vehicle refueling property credit to which section 30C(d)(1) applies,
+    (27) the Hurricane Katrina housing credit determined under section 1400P(b),
+    (28) the Hurricane Katrina employee retention credit determined under section 1400R(a),
+    (29) the Hurricane Rita employee retention credit determined under section 1400R(b), and
+    (30) the Hurricane Wilma employee retention credit determined under section 1400R(c).
+  (c) Limitation based on amount of tax
+    (1) In general
+       The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer“s net income tax over the greater of–
+      (A) the tentative minimum tax for the taxable year, or
+      (B) 25 percent of so much of the taxpayer“s net regular tax liability as exceeds $25,000.
+       For purposes of the preceding sentence, the term ””net income tax““ means the sum of the regular tax liability and the tax imposed by section 55, reduced by the credits allowable under subparts A and B of this part, and the term ””net regular tax liability““ means the regular tax liability reduced by the sum of the credits allowable under subparts A and B of this part.
+    (2) Empowerment zone employment credit may offset 25 percent of minimum tax
+      (A) In general
+         In the case of the empowerment zone employment credit credit–
+        (i) this section and section 39 shall be applied separately with respect to such credit, and
+        (ii) for purposes of applying paragraph (1) to such credit–
+          (I) 75 percent of the tentative minimum tax shall be substituted for the tentative minimum tax under subparagraph (A) thereof, and
+          (II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit, the New York Liberty Zone business employee credit, and the specified credits).
+      (B) Empowerment zone employment credit
+         For purposes of this paragraph, the term ””empowerment zone employment credit““ means the portion of the credit under subsection (a) which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit).
+    (3) Special rules for New York Liberty Zone business employee credit
+      (A) In general
+         In the case of the New York Liberty Zone business employee credit–
+        (i) this section and section 39 shall be applied separately with respect to such credit, and
+        (ii) in applying paragraph (1) to such credit–
+          (I) the tentative minimum tax shall be treated as being zero, and
+          (II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the New York Liberty Zone business employee credit and the specified credits).
+      (B) New York Liberty Zone business employee credit
+         For purposes of this subsection, the term ””New York Liberty Zone business employee credit““ means the portion of work opportunity credit under section 51 determined under section 1400L(a).
+    (4) Special rules for specified credits
+      (A) In general
+         In the case of specified credits–
+        (i) this section and section 39 shall be applied separately with respect to such credits, and
+        (ii) in applying paragraph (1) to such credits–
+          (I) the tentative minimum tax shall be treated as being zero, and
+          (II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the specified credits).
+      (B) Specified credits
+         For purposes of this subsection, the term ””specified credits““ means–
+        (i) for taxable years beginning after December 31, 2004, the credit determined under section 40, and
+        (ii) the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced–
+          (I) at a facility which is originally placed in service after the date of the enactment of this paragraph, and
+          (II) during the 4-year period beginning on the date that such facility was originally placed in service \1\N
+    (5) Special rules
+      (A) Married individuals
+         In the case of a husband or wife who files a separate return, the amount specified under subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This subparagraph shall not apply if the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer“s taxable year.
+      (B) Controlled groups
+         In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ””controlled group““ has the meaning given to such term by section 1563(a).
+      (C) Limitations with respect to certain persons
+         In the case of a person described in subparagraph (A) or (B) of section 46(e)(1) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1) shall equal such person“s ratable share (as determined under section 46(e)(2) (as so in effect) of such amount.
+      (D) Estates and trusts
+         In the case of an estate or trust, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced to an amount which bears the same ratio to $25,000 as the portion of the income of the estate or trust which is not allocated to beneficiaries bears to the total income of the estate or trust.
+  (d) Ordering rules
+     For purposes of any provision of this title where it is necessary to ascertain the extent to which the credits determined under any section referred to in subsection (b) are used in a taxable year or as a carryback or carryforward–
+    (1) In general
+       The order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b) as of the close of the taxable year in which the credit is used.
+    (2) Components of investment credit
+       The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.
+    (3) Credits no longer listed
+       For purposes of this subsection–
+      (A) the credit allowable by section 40, as in effect on the day before the date of the enactment of the Tax Reform Act of 1984, (relating to expenses of work incentive programs) and the credit allowable by section 41(a), as in effect on the day before the date of the enactment of the Tax Reform Act of 1986, (relating to employee stock ownership credit) shall be treated as referred to in that order after the last paragraph of subsection (b), and
+      (B) the credit determined under section 46–
+        (i) to the extent attributable to the employee plan percentage (as defined in section 46(a)(2)(E) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) shall be treated as a credit listed after paragraph (1) of section 46, and
+        (ii) to the extent attributable to the regular percentage (as defined in section 46(b)(1) as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall be treated as the first credit listed in section 46.

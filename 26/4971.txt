@@ -1,0 +1,48 @@
+  (a) Initial tax
+     For each taxable year of an employer who maintains a plan to which section 412 applies, there is hereby imposed a tax of 10 percent (5 percent in the case of a multiemployer plan) on the amount of the accumulated funding deficiency under the plan, determined as of the end of the plan year ending with or within such taxable year.
+  (b) Additional tax
+     In any case in which an initial tax is imposed by subsection (a) on an accumulated funding deficiency and such accumulated funding deficiency is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of such accumulated funding deficiency to the extent not corrected.
+  (c) Definitions
+     For purposes of this section–
+    (1) Accumulated funding deficiency
+       The term ””accumulated funding deficiency““ has the meaning given to such term by the last two sentences of section 412(a).
+    (2) Correct
+       The term ””correct““ means, with respect to an accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
+    (3) Taxable period
+       The term ””taxable period““ means, with respect to an accumulated funding deficiency, the period beginning with the end of the plan year in which there is an accumulated funding deficiency and ending on the earlier of–
+      (A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
+      (B) the date on which the tax imposed by subsection (a) is assessed.
+  (d) Notification of the Secretary of Labor
+     Before issuing a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunity (but not more than 60 days)–
+    (1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency, or
+    (2) to comment on the imposition of such tax.
+       In the case of a multiemployer plan which is in reorganization under section 418, the same notice and opportunity shall be provided to the Pension Benefit Guaranty Corporation.
+  (e) Liability for tax
+    (1) In general
+       Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(b)(3)(A).
+    (2) Joint and several liability where employer member of controlled group
+      (A) In general
+         In the case of a plan other than a multiemployer plan, if the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for the tax imposed by subsection (a), (b), or (f).
+      (B) Controlled group
+         For purposes of subparagraph (A), the term ””controlled group““ means any group treated as a single employer under subsection (b), (c), (m), or (T3oK) of section 414.
+  (f) Failure to pay liquidity shortfall
+    (1) In general
+       In the case of a plan to which section 412(m)(5) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of–
+      (A) the amount of the liquidity shortfall for any quarter, over
+      (B) the amount of such shortfall which is paid by the required installment under section 412(m) for such quarter (but only if such installment is paid on or before the due date for such installment).
+    (2) Additional tax
+       If the plan has a liquidity shortfall as of the close of any quarter and as of the close of each of the following 4 quarters, there is hereby imposed a tax equal to 100 percent of the amount on which tax was imposed by paragraph (1) for such first quarter.
+    (3) Definitions and special rule
+      (A) Liquidity shortfall; quarter
+         For purposes of this subsection, the terms ””liquidity shortfall““ and ””quarter““ have the respective meanings given such terms by section 412(m)(5).
+      (B) Special rule
+         If the tax imposed by paragraph (2) is paid with respect to any liquidity shortfall for any quarter, no further tax shall be imposed by this subsection on such shortfall for such quarter.
+    (4) Waiver by Secretary
+       If the taxpayer establishes to the satisfaction of the Secretary that–
+      (A) the liquidity shortfall described in paragraph (1) was due to reasonable cause and not willful neglect, and
+      (B) reasonable steps have been taken to remedy such liquidity shortfall,
+       the Secretary may waive all or part of the tax imposed by this subsection.
+  (g) Cross references
+     T2For disallowance of deduction for taxes paid under this section, see section 275.
+     T2For liability for tax in case of an employer party to collective bargaining agreement, see section 413(b)(6).
+     T2For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.

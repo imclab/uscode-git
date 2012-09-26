@@ -1,1 +1,16 @@
-   The President may, in every case where he shall judge improvement in the habits and condition of such Indians practicable, and that the means of instruction can be introduced with their own consent, employ capable persons of good moral character to instruct them in the mode of agriculture suited to their situation; and for teaching their children in reading, writing, and arithmetic, and performing such other duties as may be enjoined according to such instructions and rules as the President may give and prescribe for the regulation of their conduct, in the discharge of their duties. A report of the proceedings adopted in the execution of this provision shall be annually laid before Congress.
+  (a) General rule
+     In the case of a taxpayer (other than a bank as defined in section 581) no deduction shall be allowed under section 166 (relating to bad debts) or under section 165(g) (relating to worthlessness of securities) by reason of the worthlessness of any debt owed by a political party.
+  (b) Definitions
+    (1) Political party
+       For purposes of subsection (a), the term ””political party““ means–
+      (A) a political party;
+      (B) a national, State, or local committee of a political party; or
+      (C) a committee, association, or organization which accepts contributions or makes expenditures for the purpose of influencing or attempting to influence the election of presidential or vice-presidential electors or of any individual whose name is presented for election to any Federal, State, or local elective public office, whether or not such individual is elected.
+    (2) Contributions
+       For purposes of paragraph (1)(C), the term ””contributions““ includes a gift, subscription, loan, advance, or deposit, of money, or anything of value, and includes a contract, promise, or agreement to make a contribution, whether or not legally enforceable.
+    (3) Expenditures
+       For purposes of paragraph (1)(C), the term ””expenditures““ includes a payment, distribution, loan, advance, deposit, or gift, of money, or anything of value, and includes a contract, promise, or agreement to make an expenditure, whether or not legally enforceable.
+  (c) Exception
+     In the case of a taxpayer who uses an accrual method of accounting, subsection (a) shall not apply to a debt which accrued as a receivable on a bona fide sale of goods or services in the ordinary course of the taxpayer“s trade or business if–
+    (1) for the taxable year in which such receivable accrued, more than 30 percent of all receivables which accrued in the ordinary course of the trades and businesses of the taxpayer were due from political parties, and
+    (2) the taxpayer made substantial continuing efforts to collect on the debt.

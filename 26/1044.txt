@@ -1,0 +1,38 @@
+  (a) Nonrecognition of gain
+     In the case of the sale of any publicly traded securities with respect to which the taxpayer elects the application of this section, gain from such sale shall be recognized only to the extent that the amount realized on such sale exceeds–
+    (1) the cost of any common stock or partnership interest in a specialized small business investment company purchased by the taxpayer during the 60-day period beginning on the date of such sale, reduced by
+    (2) any portion of such cost previously taken into account under this section.
+       This section shall not apply to any gain which is treated as ordinary income for purposes of this subtitle.
+  (b) Limitations
+    (1) Limitation on individuals
+       In the case of an individual, the amount of gain which may be excluded under subsection (a) for any taxable year shall not exceed the lesser of–
+      (A) $50,000, or
+      (B) $500,000, reduced by the amount of gain excluded under subsection (a) for all preceding taxable years.
+    (2) Limitation on C corporations
+       In the case of a C corporation, the amount of gain which may be excluded under subsection (a) for any taxable year shall not exceed the lesser of–
+      (A) $250,000, or
+      (B) $1,000,000, reduced by the amount of gain excluded under subsection (a) for all preceding taxable years.
+    (3) Special rules for married individuals
+       For purposes of this subsection–
+      (A) Separate returns
+         In the case of a separate return by a married individual, paragraph (1) shall be applied by substituting ””$25,000““ for ””$50,000““ and ””$250,000““ for ””$500,000““.
+      (B) Allocation of gain
+         In the case of any joint return, the amount of gain excluded under subsection (a) for any taxable year shall be allocated equally between the spouses for purposes of applying this subsection to subsequent taxable years.
+      (C) Marital status
+         For purposes of this subsection, marital status shall be determined under section 7703.
+    (4) Special rules for C corporation
+       For purposes of this subsection–
+      (A) all corporations which are members of the same controlled group of corporations (within the meaning of section 52(a)) shall be treated as 1 taxpayer, and
+      (B) any gain excluded under subsection (a) by a predecessor of any C corporation shall be treated as having been excluded by such C corporation.
+  (c) Definitions and special rules
+     For purposes of this section–
+    (1) Publicly traded securities
+       The term ””publicly traded securities““ means securities which are traded on an established securities market.
+    (2) Purchase
+       The taxpayer shall be considered to have purchased any property if, but for subsection (d), the unadjusted basis of such property would be its cost within the meaning of section 1012.
+    (3) Specialized small business investment company
+       The term ””specialized small business investment company““ means any partnership or corporation which is licensed by the Small Business Administration under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993).
+    (4) Certain entities not eligible
+       This section shall not apply to any estate, trust, partnership, or S corporation.
+  (d) Basis adjustments
+     If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any common stock or partnership interest in any specialized small business investment company which is purchased by the taxpayer during the 60-day period described in subsection (a). This subsection shall not apply for purposes of section 1202.

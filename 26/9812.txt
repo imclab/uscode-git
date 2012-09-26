@@ -1,0 +1,47 @@
+  (a) In general
+    (1) Aggregate lifetime limits
+       In the case of a group health plan that provides both medical and surgical benefits and mental health benefits–
+      (A) No lifetime limit
+         If the plan does not include an aggregate lifetime limit on substantially all medical and surgical benefits, the plan may not impose any aggregate lifetime limit on mental health benefits.
+      (B) Lifetime limit
+         If the plan includes an aggregate lifetime limit on substantially all medical and surgical benefits (in this paragraph referred to as the ””applicable lifetime limit““), the plan shall either–
+        (i) apply the applicable lifetime limit both to the medical and surgical benefits to which it otherwise would apply and to mental health benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health benefits; or
+        (ii) not include any aggregate lifetime limit on mental health benefits that is less than the applicable lifetime limit.
+      (C) Rule in case of different limits
+         In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+    (2) Annual limits
+       In the case of a group health plan that provides both medical and surgical benefits and mental health benefits–
+      (A) No annual limit
+         If the plan does not include an annual limit on substantially all medical and surgical benefits, the plan may not impose any annual limit on mental health benefits.
+      (B) Annual limit
+         If the plan includes an annual limit on substantially all medical and surgical benefits (in this paragraph referred to as the ””applicable annual limit““), the plan shall either–
+        (i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health benefits; or
+        (ii) not include any annual limit on mental health benefits that is less than the applicable annual limit.
+      (C) Rule in case of different limits
+         In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
+  (b) Construction
+     Nothing in this section shall be construed–
+    (1) as requiring a group health plan to provide any mental health benefits; or
+    (2) in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).
+  (c) Exemptions
+    (1) Small employer exemption
+       This section shall not apply to any group health plan for any plan year of a small employer (as defined in section 4980D(d)(2)).
+    (2) Increased cost exemption
+       This section shall not apply with respect to a group health plan if the application of this section to such plan results in an increase in the cost under the plan of at least 1 percent.
+  (d) Separate application to each option offered
+     In the case of a group health plan that offers a participant or beneficiary two or more benefit package options under the plan, the requirements of this section shall be applied separately with respect to each such option.
+  (e) Definitions
+     For purposes of this section:
+    (1) Aggregate lifetime limit
+       The term ””aggregate lifetime limit““ means, with respect to benefits under a group health plan, a dollar limitation on the total amount that may be paid with respect to such benefits under the plan with respect to an individual or other coverage unit.
+    (2) Annual limit
+       The term ””annual limit““ means, with respect to benefits under a group health plan, a dollar limitation on the total amount of benefits that may be paid with respect to such benefits in a 12-month period under the plan with respect to an individual or other coverage unit.
+    (3) Medical or surgical benefits
+       The term ””medical or surgical benefits““ means benefits with respect to medical or surgical services, as defined under the terms of the plan, but does not include mental health benefits.
+    (4) Mental health benefits
+       The term ””mental health benefits““ means benefits with respect to mental health services, as defined under the terms of the plan, but does not include benefits with respect to treatment of substance abuse or chemical dependency.
+  (f) Application of section
+     This section shall not apply to benefits for services furnished–
+    (1) on or after September 30, 2001, and before January 10, 2002,
+    (2) on or after January 1, 2004, and before the date of the enactment of the Working Families Tax Relief Act of 2004, and
+    (3) after December 31, 2006.

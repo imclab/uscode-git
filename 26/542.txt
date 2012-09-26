@@ -1,4 +1,63 @@
-   After the segregation provided for in section 541 of this title shall have been made, the remainder of such judgment fund, including interest, shall be available for expenditure subject to the following limitations and conditions:
-  (a) Repealed. Aug. 13, 1954, ch. 732, § 12, 68 Stat. 721.
-  (b) Three hundred and seventy-five thousand dollars for immediate payment in a lump sum of $1,500 to each adult unallotted Indian found to be entitled to payment in lieu of allotment, as authorized in the Act of June 1, 1938 (52 Stat. 605) [25 U.S.C. 551 et seq.]: T3ProvidedK, That the amount due any minor under the provisions of said subchapter shall be withheld until he becomes an adult, as herein defined, when it shall be paid to him in a lump sum from any funds, principal, or interest, on deposit to the credit of the Klamath Tribe, and section 2 of said Act of June 1, 1938 [25 U.S.C. 552], is amended accordingly.
-  (c) Such moneys as shall remain in the principal fund shall be transferred to and become a part of the capital reserve fund created by section 530 of this title.
+  (a) General rule
+     For purposes of this subtitle, the term ””personal holding company““ means any corporation (other than a corporation described in subsection (c)) if–
+    (1) Adjusted ordinary gross income requirement
+       At least 60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined in section 543(a)), and
+    (2) Stock ownership requirement
+       At any time during the last half of the taxable year more than 50 percent in value of its outstanding stock is owned, directly or indirectly, by or for not more than 5 individuals. For purposes of this paragraph, an organization described in section 401(a), 501(c)(17), or 509(a) or a portion of a trust permanently set aside or to be used exclusively for the purposes described in section 642(c) or a corresponding provision of a prior income tax law shall be considered an individual.
+  (b) Corporations filing consolidated returns
+    (1) General rule
+       In the case of an affiliated group of corporations filing or required to file a consolidated return under section 1501 for any taxable year, the adjusted ordinary gross income requirement of subsection (a)(1) of this section shall, except as provided in paragraphs (2) and (3), be applied for such year with respect to the consolidated adjusted ordinary gross income and the consolidated personal holding company income of the affiliated group. No member of such an affiliated group shall be considered to meet such adjusted ordinary gross income requirement unless the affiliated group meets such requirement.
+    (2) Ineligible affiliated group
+       Paragraph (1) shall not apply to an affiliated group of corporations if–
+      (A) any member of the affiliated group of corporations (including the common parent corporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
+      (B) 80 percent or more of the amount described in subparagraph (A) consists of personal holding company income (as defined in section 543).
+       For purposes of this paragraph, section 543 shall be applied as if the amount described in subparagraph (A) were the adjusted ordinary gross income of the corporation.
+    (3) Excluded corporations
+       Paragraph (1) shall not apply to an affiliated group of corporations if any member of the affiliated group (including the common parent corporation) is a corporation excluded from the definition of personal holding company under subsection (c).
+    (4) Certain dividend income received by a common parent
+       In applying paragraph (2) (A) and (B), personal holding company income and adjusted ordinary gross income shall not include dividends received by a common parent corporation from another corporation if–
+      (A) the common parent corporation owns, directly or indirectly, more than 50 percent of the outstanding voting stock of such other corporation, and
+      (B) such other corporation is not a personal holding company for the taxable year in which the dividends are paid.
+    (5) Certain dividend income received from a nonincludible life insurance company
+       In the case of an affiliated group of corporations filing or required to file a consolidated return under section 1501 for any taxable year, there shall be excluded from consolidated personal holding company income and consolidated adjusted ordinary gross income for purposes of this part dividends received by a member of the affiliated group from a life insurance company taxable under section 801 that is not a member of the affiliated group solely by reason of the application of paragraph (2) of subsection (b) of section 1504.
+  (c) Exceptions
+     The term ””personal holding company““ as defined in subsection (a) does not include–
+    (1) a corporation exempt from tax under subchapter F (sec. 501 and following);
+    (2) a bank as defined in section 581, or a domestic building and loan association within the meaning of section 7701(a)(19);
+    (3) a life insurance company;
+    (4) a surety company;
+    (5) a foreign corporation,\1\N
+    (6) a lending or finance company if–
+      (A) 60 percent or more of its ordinary gross income (as defined in section 543(b)(1)) is derived directly from the active and regular conduct of a lending or finance business;
+      (B) the personal holding company income for the taxable year (computed without regard to income described in subsection (d)(3) and income derived directly from the active and regular conduct of a lending or finance business, and computed by including as personal holding company income the entire amount of the gross income from rents, royalties, produced film rents, and compensation for use of corporate property by shareholders) is not more than 20 percent of the ordinary gross income;
+      (C) the sum of the deductions which are directly allocable to the active and regular conduct of its lending or finance business equals or exceeds the sum of–
+        (i) 15 percent of so much of the ordinary gross income derived therefrom as does not exceed $500,000, plus
+        (ii) 5 percent of so much of the ordinary gross income derived therefrom as exceeds $500,000; and
+      (D) the loans to a person who is a shareholder in such company during the taxable year by or for whom 10 percent or more in value of its outstanding stock is owned directly or indirectly (including, in the case of an individual, stock owned by members of his family as defined in section 544(a)(2)), outstanding at any time during such year do not exceed $5,000 in principal amount;
+    (7) A \2\N small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided by the investment company or 5 per centum or more in value of the outstanding stock of such concern; and
+    (8) a corporation which is subject to the jurisdiction of the court in a title 11 or similar case (within the meaning of section 368(a)(3)(A)) unless a major purpose of instituting or continuing such case is the avoidance of the tax imposed by section 541.
+  (d) Special rules for applying subsection (c)(6)
+    (1) Lending or finance business defined
+      (A) In general
+         Except as provided in subparagraph (B), for purposes of subsection (c)(6), the term ””lending or finance business““ means a business of–
+        (i) making loans,
+        (ii) purchasing or discounting accounts receivable, notes, or installment obligations,
+        (iii) rendering services or making facilities available in connection with activities described in clauses (i) and (ii) carried on by the corporation rendering services or making facilities available, or
+        (iv) rendering services or making facilities available to another corporation which is engaged in the lending or finance business (within the meaning of this paragraph), if such services or facilities are related to the lending or finance business (within such meaning) of such other corporation and such other corporation and the corporation rendering services or making facilities available are members of the same affiliated group (as defined in section 1504).
+      (B) Exceptions
+         For purposes of subparagraph (A), the term ””lending or finance business““ does not include the business of–
+        (i) making loans, or purchasing or discounting accounts receivable, notes, or installment obligations, if (at the time of the loan, purchase, or discount) the remaining maturity exceeds 144 months; unless–
+          (I) the loans, notes, or installment obligations are evidenced or secured by contracts of conditional sale, chattel mortgages, or chattel lease agreements arising out of the sale of goods or services in the course of the borrower“s or transferor“s trade or business, or
+          (II) the loans, notes, or installment obligations are made or acquired by the taxpayer and meet the requirements of subparagraph (C), or
+        (ii) making loans evidenced by, or purchasing, certificates of indebtedness issued in a series, under a trust indenture, and in registered form or with interest coupons attached.
+         For purposes of clause (i), the remaining maturity shall be treated as including any period for which there may be a renewal or extension under the terms of an option exercisable by the borrower.
+      (C) Indefinite maturity credit transactions
+         For purposes of subparagraph (B)(i), a loan, note, or installment obligation meets the requirements of this subparagraph if it is made under an agreement–
+        (i) under which the creditor agrees to make loans or advances (not in excess of an agreed upon maximum amount) from time to time to or for the account of the debtor upon request, and
+        (ii) under which the debtor may repay the loan or advance in full or in installments.
+    (2) Business deductions
+       For purposes of subsection (c)(6)(C), the deductions which may be taken into account shall include only–
+      (A) deductions which are allowable only by reason of section 162 or section 404, except there shall not be included any such deduction in respect of compensation for personal services rendered by shareholders (including members of the shareholder“s family as described in section 544(a)(2)), and
+      (B) deductions allowable under section 167, and deductions allowable under section 164 for real property taxes, but in either case only to the extent that the property with respect to which such deductions are allowable is used directly in the active and regular conduct of the lending or finance business.
+    (3) Income received from certain affiliated corporations
+       For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.

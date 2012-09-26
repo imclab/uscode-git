@@ -1,6 +1,16 @@
-  (a) Publication; termination of Federal services; application of Federal and State laws
-     Upon removal of Federal restrictions on the property of each tribe and individual members thereof, the Secretary shall publish in the Federal Register a proclamation declaring that the Federal trust relationship to the affairs of the tribe and its members has terminated. Thereafter individual members of the tribe shall not be entitled to any of the services performed by the United States for Indians because of their status as Indians, all statutes of the United States which affect Indians because of their status as Indians, excluding statutes that specifically refer to the tribe and its members, shall no longer be applicable to the members of the tribe, and the laws of the several States shall apply to the tribe and its members in the same manner as they apply to other citizens or persons within their jurisdiction.
-  (b) Citizenship status unaffected
-     Nothing in this subchapter shall affect the status of the members of a tribe as citizens of the United States.
-  (c) Education and training program; purposes; subjects; transportation; subsistence; contracts; other education programs
-     Prior to the issuance of a proclamation in accordance with the provisions of this section, the Secretary is authorized to undertake, within the limits of available appropriations, a special program of education and training designed to help the members of the tribe to earn a livelihood, to conduct their own affairs, and to assume their responsibilities as citizens without special services because of their status as Indians. Such program may include language training, orientation in non-Indian community customs and living standards, vocational training and related subjects, transportation to the place of training or instruction, and subsistence during the course of training or instruction. For the purposes of such program the Secretary is authorized to enter into contracts or agreements with any Federal, State, or local governmental agency, corporation, association, or person. Nothing in this section shall preclude any Federal agency from undertaking any other program for the education and training of Indians with funds appropriated to it.
+  (a) Income and deductions
+     The taxable income of a partnership shall be computed in the same manner as in the case of an individual except that–
+    (1) the items described in section 702(a) shall be separately stated, and
+    (2) the following deductions shall not be allowed to the partnership:
+      (A) the deductions for personal exemptions provided in section 151,
+      (B) the deduction for taxes provided in section 164(a) with respect to taxes, described in section 901, paid or accrued to foreign countries and to possessions of the United States,
+      (C) the deduction for charitable contributions provided in section 170,
+      (D) the net operating loss deduction provided in section 172,
+      (E) the additional itemized deductions for individuals provided in part VII of subchapter B (sec. 211 and following), and
+      (F) the deduction for depletion under section 611 with respect to oil and gas wells.
+  (b) Elections of the partnership
+     Any election affecting the computation of taxable income derived from a partnership shall be made by the partnership, except that any election under–
+    (1) subsection (b)(5) or (c)(3) of section 108 (relating to income from discharge of indebtedness),
+    (2) section 617 (relating to deduction and recapture of certain mining exploration expenditures), or
+    (3) section 901 (relating to taxes of foreign countries and possessions of the United States),
+       shall be made by each partner separately.

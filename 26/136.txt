@@ -1,1 +1,15 @@
-   When, in the judgment of the Secretary of the Interior, any Indian tribe, or part thereof, who are receiving rations and clothing and other supplies under the Act of July 1, 1898, chapter 545, are sufficiently advanced in civilization to purchase such rations and clothing and other supplies judiciously, they may commute the same and pay the value thereof in money per capita to such tribe or part thereof, the manner of such payment to be prescribed by the Secretary of the Interior.
+  (a) Exclusion
+     Gross income shall not include the value of any subsidy provided (directly or indirectly) by a public utility to a customer for the purchase or installation of any energy conservation measure.
+  (b) Denial of double benefit
+     Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed for, or by reason of, any expenditure to the extent of the amount excluded under subsection (a) for any subsidy which was provided with respect to such expenditure. The adjusted basis of any property shall be reduced by the amount excluded under subsection (a) which was provided with respect to such property.
+  (c) Energy conservation measure
+    (1) In general
+       For purposes of this section, the term ””energy conservation measure““ means any installation or modification primarily designed to reduce consumption of electricity or natural gas or to improve the management of energy demand with respect to a dwelling unit.
+    (2) Other definitions
+       For purposes of this subsection–
+      (A) Dwelling unit
+         The term ””dwelling unit““ has the meaning given such term by section 280A(f)(1).
+      (B) Public utility
+         The term ””public utility““ means a person engaged in the sale of electricity or natural gas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term ””person““ includes the Federal Government, a State or local government or any political subdivision thereof, or any instrumentality of any of the foregoing.
+  (d) Exception
+     This section shall not apply to any payment to or from a qualified cogeneration facility or qualifying small power production facility pursuant to section 210 of the Public Utility Regulatory Policy Act of 1978.

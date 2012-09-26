@@ -1,4 +1,18 @@
-  (a) Payments to enrollees, next of kin, or legatees
-     Except as provided in subsection (b) of this section, the Secretary shall distribute a per capita share payable to a living enrollee directly to such enrollee, and the Secretary shall distribute a per capita share payable to a deceased enrollee directly to his next of kin or legatees upon proof of death and inheritance satisfactory to the Secretary, whose findings upon such proof shall be final and conclusive.
-  (b) Payments to minors or persons under legal disability
-     A share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
+  (a) General rules
+     No gain or loss shall be recognized on the exchange of–
+    (1) a contract of life insurance for another contract of life insurance or for an endowment or annuity contract; or
+    (2) a contract of endowment insurance (A) for another contract of endowment insurance which provides for regular payments beginning at a date not later than the date payments would have begun under the contract exchanged, or (B) for an annuity contract; or
+    (3) an annuity contract for an annuity contract.
+  (b) Definitions
+     For the purpose of this section–
+    (1) Endowment contract
+       A contract of endowment insurance is a contract with an insurance company which depends in part on the life expectancy of the insured, but which may be payable in full in a single payment during his life.
+    (2) Annuity contract
+       An annuity contract is a contract to which paragraph (1) applies but which may be payable during the life of the annuitant only in installments.
+    (3) Life insurance contract
+       A contract of life insurance is a contract to which paragraph (1) applies but which is not ordinarily payable in full during the life of the insured.
+  (c) Exchanges involving foreign persons
+     To the extent provided in regulations, subsection (a) shall not apply to any exchange having the effect of transferring property to any person other than a United States person.
+  (d) Cross references
+     T2(1) For rules relating to recognition of gain or loss where an exchange is not solely in kind, see subsections (b) and (c) of section 1031.
+     T2(2) For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031.

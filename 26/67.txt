@@ -1,1 +1,46 @@
-   Section, act Mar. 3, 1893, ch. 209, § 1, 27 Stat. 614, provided that the superintendent of the training school at Cherokee Agency was to act as an agent.
+  (a) General rule
+     In the case of an individual, the miscellaneous itemized deductions for any taxable year shall be allowed only to the extent that the aggregate of such deductions exceeds 2 percent of adjusted gross income.
+  (b) Miscellaneous itemized deductions
+     For purposes of this section, the term ””miscellaneous itemized deductions““ means the itemized deductions other than–
+    (1) the deduction under section 163 (relating to interest),
+    (2) the deduction under section 164 (relating to taxes),
+    (3) the deduction under section 165(a) for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d),
+    (4) the deductions under section 170 (relating to charitable, etc., contributions and gifts) and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose),
+    (5) the deduction under section 213 (relating to medical, dental, etc., expenses),
+    (6) any deduction allowable for impairment-related work expenses,
+    (7) the deduction under section 691(c) (relating to deduction for estate tax in case of income in respect of the decedent),
+    (8) any deduction allowable in connection with personal property used in a short sale,
+    (9) the deduction under section 1341 (relating to computation of tax where taxpayer restores substantial amount held under claim of right),
+    (10) the deduction under section 72(b)(3) (relating to deduction where annuity payments cease before investment recovered),
+    (11) the deduction under section 171 (relating to deduction for amortizable bond premium), and
+    (12) the deduction under section 216 (relating to deductions in connection with cooperative housing corporations).
+  (c) Disallowance of indirect deduction through pass-thru entity
+    (1) In general
+       The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection.
+    (2) Treatment of publicly offered regulated investment companies
+      (A) In general
+         Paragraph (1) shall not apply with respect to any publicly offered regulated investment company.
+      (B) Publicly offered regulated investment companies
+         For purposes of this subsection–
+        (i) In general
+           The term ””publicly offered regulated investment company““ means a regulated investment company the shares of which are–
+          (I) continuously offered pursuant to a public offering (within the meaning of section 4 of the Securities Act of 1933, as amended (15 U.S.C. 77a to 77aa)),
+          (II) regularly traded on an established securities market, or
+          (III) held by or for no fewer than 500 persons at all times during the taxable year.
+        (ii) Secretary may reduce 500 person requirement
+           The Secretary may by regulation decrease the minimum shareholder requirement of clause (i)(III) in the case of regulated investment companies which experience a loss of shareholders through net redemptions of their shares.
+    (3) Treatment of certain other entities
+       Paragraph (1) shall not apply–
+      (A) with respect to cooperatives and real estate investment trusts, and
+      (B) except as provided in regulations, with respect to estates and trusts.
+  (d) Impairment-related work expenses
+     For purposes of this section, the term ””impairment-related work expenses““ means expenses–
+    (1) of a handicapped individual (as defined in section 190(b)(3)) for attendant care services at the individual“s place of employment and other expenses in connection with such place of employment which are necessary for such individual to be able to work, and
+    (2) with respect to which a deduction is allowable under section 162 (determined without regard to this section).
+  (e) Determination of adjusted gross income in case of estates and trusts
+     For purposes of this section, the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that–
+    (1) the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and which would not have been incurred if the property were not held in such trust or estate, and
+    (2) the deductions allowable under sections 642(b), 651, and 661,
+       shall be treated as allowable in arriving at adjusted gross income. Under regulations, appropriate adjustments shall be made in the application of part I of subchapter J of this chapter to take into account the provisions of this section.
+  (f) Coordination with other limitation
+     This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).

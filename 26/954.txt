@@ -1,12 +1,253 @@
-  (a) Appointment and continuance in office; notice to Secretary of State court proceedings; appearance
-     No guardian or other fiduciary shall be appointed under State law for the estate of any member of the band, or continued in office, except with approval of the Secretary: T3ProvidedK, That no conservator for any member of the band shall be appointed under State law or continued in office after the effective date of this Act, unless the individual Indian concerned, with the approval of the Secretary, personally petitions for the appointment or continuation of such appointment. The Secretary shall be given notice of all proceedings in the State court with respect to the estate of any member of the band which is being administered, and he may at any time appear as a party in such proceedings, and may exercise all rights accorded to a party under State law.
-  (b) Management and disposition of trust property and property subject to restrictions against alienation by guardians, conservators, or fiduciaries; approved activities; approval of activities
-     No guardian, conservator or other fiduciary appointed under State law shall, in his official capacity, participate in the management or disposition of any property or interest therein which is held in trust by the United States for a member of the band or is subject to restrictions against alienation imposed by the laws of the United States, execute or approve any use, expenditure, investment, deposit, or disposition of such property or interest therein, or proceeds therefrom, or receive any fee or other compensation for services hereafter performed with respect to such property or interest therein. The provisions of this subsection shall not preclude any such person, in his private capacity, from participating in the management or disposition of such property or interest therein with the specific approval of the Secretary of the Interior. Actions with respect to the use, expenditure, investment, deposit, or disposition of such property or interests therein, or proceeds therefrom, shall be valid and efficacious in all respects without participation of affirmation by any guardian, conservator, or other fiduciary appointed under State law.
-  (c) Reports by guardians; failure or refusal to report; fraudulent, capricious, arbitrary or grossly erroneous reports; prosecution; appropriate relief
-     The Secretary, at any time, may require any guardian, conservator, or other fiduciary appointed under State law for a member of the band to submit a full and complete report concerning his handling of the estate during the preceding six years. If any person or entity required to do so by the Secretary fails or refuses to so report, or, if having reported, the Secretary concludes that any action connected therewith is fraudulent, or capricious or arbitrary or so grossly erroneous as necessarily to imply bad faith, he may request the Attorney General to cause an action to be brought in the name of the United States in the United States District Court for the Central District of California or in any such district court having jurisdiction over the person, or persons, and subject matter, for such relief as may be appropriate, and said courts are hereby granted jurisdiction to hear and determine such action.
-  (d) Delivery to Secretary of money or property at termination of fiduciary relationship
-     The Secretary may require any money or property in the possession of a fiduciary at the time the fiduciary relationship is terminated, or which is recovered pursuant to this subchapter, to be delivered to him to be held in trust for the individual Indian concerned.
-  (e) Use and disposition of money or property held in trust by the United States by the Secretary; consent by competent Indian; determination of competency; applicability of administrative procedure under title 5; time and place of hearing; judicial review
-     Under such regulations as he shall provide, and with the consent of the individual Indian concerned, unless the Secretary determines such Indian to be incompetent by reason of minority or otherwise, in which case such consent shall not be required, the Secretary may use, advance, expend, exchange, deposit, dispose of, invest and reinvest, in any manner and for any purpose, any money or other property held by the United States in trust for such Indian. The Secretary shall make no determination that an adult Indian is incompetent except after according him an opportunity to be heard upon reasonable notice, in accordance with the provisions of subchapter II of chapter 5 of title 5. Unless the Indian otherwise agrees, the hearing shall be held in the State of California within sixty days of the date of notice. A person aggrieved by a determination of incompetency made by the Secretary shall be entitled to judicial review of such determination in accordance with sections 701 to 706 of title 5.
-  (f) Authority of the Secretary under other provisions unaffected
-     Nothing herein shall be deemed to limit any authority possessed by the Secretary under any other provisions of law.
+  (a) Foreign base company income
+     For purposes of section 952(a)(2), the term ””foreign base company income““ means for any taxable year the sum of–
+    (1) the foreign personal holding company income for the taxable year (determined under subsection (c) and reduced as provided in subsection (b)(5)),
+    (2) the foreign base company sales income for the taxable year (determined under subsection (d) and reduced as provided in subsection (b)(5)),
+    (3) the foreign base company services income for the taxable year (determined under subsection (e) and reduced as provided in subsection (b)(5)),
+       [(4) Repealed. Pub. L. 108–357, title IV, § 415(a)(1), Oct. 22, 2004, 118 Stat. 1511]
+  (5) the foreign base company oil related income for the taxable year (determined under subsection (g) and reduced as provided in subsection (b)(5)).
+  (b) Exclusion and special rules
+     [(1) Repealed. Pub. L. 94–12, title VI, § 602(c)(1), Mar. 29, 1975, 89 Stat. 58]
+     [(2) Repealed. Pub. L. 99–514, title XII, § 1221(c)(1), Oct. 22, 1986, 100 Stat. 2553]
+  (3) De minimis, etc., rules
+     For purposes of subsection (a) and section 953–
+    (A) De minimis rule
+       If the sum of foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year is less than the lesser of–
+      (i) 5 percent of gross income, or
+      (ii) $1,000,000,
+       no part of the gross income for the taxable year shall be treated as foreign base company income or insurance income.
+    (B) Foreign base company income and insurance income in excess of 70 percent of gross income
+       If the sum of the foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year exceeds 70 percent of gross income, the entire gross income for the taxable year shall, subject to the provisions of paragraphs (4) and (5), be treated as foreign base company income or insurance income (whichever is appropriate).
+    (C) Gross insurance income
+       For purposes of subparagraphs (A) and (B), the term ””gross insurance income““ means any item of gross income taken into account in determining insurance income under section 953.
+  (4) Exception for certain income subject to high foreign taxes
+     For purposes of subsection (a) and section 953, foreign base company income and insurance income shall not include any item of income received by a controlled foreign corporation if the taxpayer establishes to the satisfaction of the Secretary that such income was subject to an effective rate of income tax imposed by a foreign country greater than 90 percent of the maximum rate of tax specified in section 11. The preceding sentence shall not apply to foreign base company oil-related income described in subsection (a)(5).
+  (5) Deductions to be taken into account
+     For purposes of subsection (a), the foreign personal holding company income, the foreign base company sales income, the foreign base company services income,,\1\N and the foreign base company oil related income shall be reduced, under regulations prescribed by the Secretary so as to take into account deductions (including taxes) properly allocable to such income. Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.
+  (6) Foreign base company oil related income not treated as another kind of base company income
+     Income of a corporation which is foreign base company oil related income shall not be considered foreign base company income of such corporation under paragraph (2),\2\N or (3) of subsection (a).
+  (c) Foreign personal holding company income
+    (1) In general
+       For purposes of subsection (a)(1), the term ””foreign personal holding company income““ means the portion of the gross income which consists of:
+      (A) Dividends, etc.
+         Dividends, interest, royalties, rents, and annuities.
+      (B) Certain property transactions
+         The excess of gains over losses from the sale or exchange of property–
+        (i) which gives rise to income described in subparagraph (A) (after application of paragraph (2)(A)) other than property which gives rise to income not treated as foreign personal holding company income by reason of subsection (h) or (i) for the taxable year,
+        (ii) which is an interest in a trust, partnership, or REMIC, or
+        (iii) which does not give rise to any income.
+         Gains and losses from the sale or exchange of any property which, in the hands of the controlled foreign corporation, is property described in section 1221(a)(1) shall not be taken into account under this subparagraph.
+      (C) Commodities transactions
+         The excess of gains over losses from transactions (including futures, forward, and similar transactions) in any commodities. This subparagraph shall not apply to gains or losses which–
+        (i) arise out of commodity hedging transactions (as defined in paragraph (5)(A)),
+        (ii) are active business gains or losses from the sale of commodities, but only if substantially all of the controlled foreign corporation“s commodities are property described in paragraph (1), (2), or (8) of section 1221(a), or
+        (iii) are foreign currency gains or losses (as defined in section 988(b)) attributable to any section 988 transactions.
+      (D) Foreign currency gains
+         The excess of foreign currency gains over foreign currency losses (as defined in section 988(b)) attributable to any section 988 transactions. This subparagraph shall not apply in the case of any transaction directly related to the business needs of the controlled foreign corporation.
+      (E) Income equivalent to interest
+         Any income equivalent to interest, including income from commitment fees (or similar amounts) for loans actually made.
+      (F) Income from notional principal contracts
+         Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
+      (G) Payments in lieu of dividends
+         Payments in lieu of dividends which are made pursuant to an agreement to which section 1058 applies.
+        (I) \3\N Personal service contracts
+          (i) Amounts received under a contract under which the corporation is to furnish personal services if–
+            (I) some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or
+            (II) the individual who is to perform the services is designated (by name or by description) in the contract, and
+          (ii) amounts received from the sale or other disposition of such a contract.
+           This subparagraph shall apply with respect to amounts received for services under a particular contract only if at some time during the taxable year 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for the individual who has performed, is to perform, or may be designated (by name or by description) as the one to perform, such services.
+    (2) Exception for certain amounts
+      (A) Rents and royalties derived in active business
+         Foreign personal holding company income shall not include rents and royalties which are derived in the active conduct of a trade or business and which are received from a person other than a related person (within the meaning of subsection (d)(3)). For purposes of the preceding sentence, rents derived from leasing an aircraft or vessel in foreign commerce shall not fail to be treated as derived in the active conduct of a trade or business if, as determined under regulations prescribed by the Secretary, the active leasing expenses are not less than 10 percent of the profit on the lease.
+      (B) Certain export financing
+         Foreign personal holding company income shall not include any interest which is derived in the conduct of a banking business and which is export financing interest (as defined in section 904(d)(2)(G)).
+      (C) Exception for dealers
+         Except as provided by regulations, in the case of a regular dealer in property which is property described in paragraph (1)(B), forward contracts, option contracts, or similar financial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding company income–
+        (i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions and transactions involving physical settlement) entered into in the ordinary course of such dealer“s trade or business as such a dealer, and
+        (ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amount described in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(J)) entered into in the ordinary course of such dealer“s trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
+    (3) Certain income received from related persons
+      (A) In general
+         Except as provided in subparagraph (B), the term ””foreign personal holding company income““ does not include–
+        (i) dividends and interest received from a related person which (I) is a corporation created or organized under the laws of the same foreign country under the laws of which the controlled foreign corporation is created or organized, and (II) has a substantial part of its assets used in its trade or business located in such same foreign country, and
+        (ii) rents and royalties received from a corporation which is a related person for the use of, or the privilege of using, property within the country under the laws of which the controlled foreign corporation is created or organized.
+         To the extent provided in regulations, payments made by a partnership with 1 or more corporate partners shall be treated as made by such corporate partners in proportion to their respective interests in the partnership.
+      (B) Exception not to apply to items which reduce subpart F income
+         Subparagraph (A) shall not apply in the case of any interest, rent, or royalty to the extent such interest, rent, or royalty reduces the payor“s subpart F income or creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation.
+      (C) Exception for certain dividends
+         Subparagraph (A)(i) shall not apply to any dividend with respect to any stock which is attributable to earnings and profits of the distributing corporation accumulated during any period during which the person receiving such dividend did not hold such stock either directly, or indirectly through a chain of one or more subsidiaries each of which meets the requirements of subparagraph (A)(i).
+    (4) Look-thru rule for certain partnership sales
+      (A) In general
+         In the case of any sale by a controlled foreign corporation of an interest in a partnership with respect to which such corporation is a 25-percent owner, such corporation shall be treated for purposes of this subsection as selling the proportionate share of the assets of the partnership attributable to such interest. The Secretary shall prescribe such regulations as may be appropriate to prevent abuse of the purposes of this paragraph, including regulations providing for coordination of this paragraph with the provisions of subchapter K.
+      (B) 25-percent owner
+         For purposes of this paragraph, the term ””25-percent owner““ means a controlled foreign corporation which owns directly 25 percent or more of the capital or profits interest in a partnership. For purposes of the preceding sentence, if a controlled foreign corporation is a shareholder or partner of a corporation or partnership, the controlled foreign corporation shall be treated as owning directly its proportionate share of any such capital or profits interest held directly or indirectly by such corporation or partnership. If a controlled foreign corporation is treated as owning a capital or profits interest in a partnership under constructive ownership rules similar to the rules of section 958(b), the controlled foreign corporation shall be treated as owning such interest directly for purposes of this subparagraph.
+    (5) Definition and special rules relating to commodity transactions
+      (A) Commodity hedging transactions
+         For purposes of paragraph (1)(C)(i), the term ””commodity hedging transaction““ means any transaction with respect to a commodity if such transaction–
+        (i) is a hedging transaction as defined in section 1221(b)(2), determined–
+          (I) without regard to subparagraph (A)(ii) thereof,
+          (II) by applying subparagraph (A)(i) thereof by substituting ””ordinary property or property described in section 1231(b)““ for ””ordinary property““, and
+          (III) by substituting ””controlled foreign corporation““ for ””taxpayer““ each place it appears, and
+        (ii) is clearly identified as such in accordance with section 1221(a)(7).
+      (B) Treatment of dealer activities under paragraph (1)(C)
+         Commodities with respect to which gains and losses are not taken into account under paragraph (2)(C) in computing a controlled foreign corporation“s foreign personal holding company income shall not be taken into account in applying the substantially all test under paragraph (1)(C)(ii) to such corporation.
+      (C) Regulations
+         The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (1)(C) in the case of transactions involving related parties.
+  (d) Foreign base company sales income
+    (1) In general
+       For purposes of subsection (a)(2), the term ””foreign base company sales income““ means income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with the purchase of personal property from a related person and its sale to any person, the sale of personal property to any person on behalf of a related person, the purchase of personal property from any person and its sale to a related person, or the purchase of personal property from any person on behalf of a related person where–
+      (A) the property which is purchased (or in the case of property sold on behalf of a related person, the property which is sold) is manufactured, produced, grown, or extracted outside the country under the laws of which the controlled foreign corporation is created or organized, and
+      (B) the property is sold for use, consumption, or disposition outside such foreign country, or, in the case of property purchased on behalf of a related person, is purchased for use, consumption, or disposition outside such foreign country.
+       For purposes of this subsection, personal property does not include agricultural commodities which are not grown in the United States in commercially marketable quantities.
+    (2) Certain branch income
+       For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a controlled foreign corporation through a branch or similar establishment outside the country of incorporation of the controlled foreign corporation has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch or similar establishment shall be treated as income derived by a wholly owned subsidiary of the controlled foreign corporation and shall constitute foreign base company sales income of the controlled foreign corporation.
+    (3) Related person defined
+       For purposes of this section, a person is a related person with respect to a controlled foreign corporation, if–
+      (A) such person is an individual, corporation, partnership, trust, or estate which controls, or is controlled by, the controlled foreign corporation, or
+      (B) such person is a corporation, partnership, trust, or estate which is controlled by the same person or persons which control the controlled foreign corporation.
+       For purposes of the preceding sentence, control means, with respect to a corporation, the ownership, directly or indirectly, of stock possessing more than 50 percent of the total voting power of all classes of stock entitled to vote or of the total value of stock of such corporation. In the case of a partnership, trust, or estate, control means the ownership, directly or indirectly, of more than 50 percent (by value) of the beneficial interests in such partnership, trust, or estate. For purposes of this paragraph, rules similar to the rules of section 958 shall apply.
+    (4) Special rule for certain timber products
+       For purposes of subsection (a)(2), the term ””foreign base company sales income““ includes any income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with–
+      (A) the sale of any unprocessed timber referred to in section 865(b), or
+      (B) the milling of any such timber outside the United States.
+       Subpart G shall not apply to any amount treated as subpart F income by reason of this paragraph.
+  (e) Foreign base company services income
+    (1) In general
+       For purposes of subsection (a)(3), the term ””foreign base company services income““ means income (whether in the form of compensation, commissions, fees, or otherwise) derived in connection with the performance of technical, managerial, engineering, architectural, scientific, skilled, industrial, commercial, or like services which–
+      (A) are performed for or on behalf of any related person (within the meaning of subsection (d)(3)), and
+      (B) are performed outside the country under the laws of which the controlled foreign corporation is created or organized.
+    (2) Exception
+       Paragraph (1) shall not apply to income derived in connection with the performance of services which are directly related to–
+      (A) the sale or exchange by the controlled foreign corporation of property manufactured, produced, grown, or extracted by it and which are performed before the time of the sale or exchange, or
+      (B) an offer or effort to sell or exchange such property.
+         [(f) Repealed. Pub. L. 108–357, title IV, § 415(a)(2), Oct. 22, 2004, 118 Stat. 1511]
+       Paragraph (1) shall also not apply to income which is exempt insurance income (as defined in section 953(e)) or which is not treated as foreign personal holding income by reason of subsection (c)(2)(C)(ii), (h), or (i).
+  (g) Foreign base company oil related income
+     For purposes of this section–
+    (1) In general
+       Except as otherwise provided in this subsection, the term ””foreign base company oil related income““ means foreign oil related income (within the meaning of paragraphs (2) and (3) of section 907(c)) other than income derived from a source within a foreign country in connection with–
+      (A) oil or gas which was extracted from an oil or gas well located in such foreign country, or
+      (B) oil, gas, or a primary product of oil or gas which is sold by the foreign corporation or a related person for use or consumption within such country or is loaded in such country on a vessel or aircraft as fuel for such vessel or aircraft.
+       Such term shall not include any foreign personal holding company income (as defined in subsection (c)).
+    (2) Paragraph (1) applies only where corporation has produced 1,000 barrels per day or more
+      (A) In general
+         The term ””foreign base company oil related income““ shall not include any income of a foreign corporation if such corporation is not a large oil producer for the taxable year.
+      (B) Large oil producer
+         For purposes of subparagraph (A), the term ””large oil producer““ means any corporation if, for the taxable year or for the preceding taxable year, the average daily production of foreign crude oil and natural gas of the related group which includes such corporation equaled or exceeded 1,000 barrels.
+      (C) Related group
+         The term ””related group““ means a group consisting of the foreign corporation and any other person who is a related person with respect to such corporation.
+      (D) Average daily production of foreign crude oil and natural gas
+         For purposes of this paragraph, the average daily production of foreign crude oil or natural gas of any related group for any taxable year (and the conversion of cubic feet of natural gas into barrels) shall be determined under rules similar to the rules of section 613A except that only crude oil or natural gas from a well located outside the United States shall be taken into account.
+  (h) Special rule for income derived in the active conduct of banking, financing, or similar businesses
+    (1) In general
+       For purposes of subsection (c)(1), foreign personal holding company income shall not include qualified banking or financing income of an eligible controlled foreign corporation.
+    (2) Eligible controlled foreign corporation
+       For purposes of this subsection–
+      (A) In general
+         The term ””eligible controlled foreign corporation““ means a controlled foreign corporation which–
+        (i) is predominantly engaged in the active conduct of a banking, financing, or similar business, and
+        (ii) conducts substantial activity with respect to such business.
+      (B) Predominantly engaged
+         A controlled foreign corporation shall be treated as predominantly engaged in the active conduct of a banking, financing, or similar business if–
+        (i) more than 70 percent of the gross income of the controlled foreign corporation is derived directly from the active and regular conduct of a lending or finance business from transactions with customers which are not related persons,
+        (ii) it is engaged in the active conduct of a banking business and is an institution licensed to do business as a bank in the United States (or is any other corporation not so licensed which is specified by the Secretary in regulations), or
+        (iii) it is engaged in the active conduct of a securities business and is registered as a securities broker or dealer under section 15(a) of the Securities Exchange Act of 1934 or is registered as a Government securities broker or dealer under section 15C(a) of such Act (or is any other corporation not so registered which is specified by the Secretary in regulations).
+    (3) Qualified banking or financing income
+       For purposes of this subsection–
+      (A) In general
+         The term ””qualified banking or financing income““ means income of an eligible controlled foreign corporation which–
+        (i) is derived in the active conduct of a banking, financing, or similar business by–
+          (I) such eligible controlled foreign corporation, or
+          (II) a qualified business unit of such eligible controlled foreign corporation,
+        (ii) is derived from one or more transactions–
+          (I) with customers located in a country other than the United States, and
+          (II) substantially all of the activities in connection with which are conducted directly by the corporation or unit in its home country, and
+        (iii) is treated as earned by such corporation or unit in its home country for purposes of such country“s tax laws.
+      (B) Limitation on nonbanking and nonsecurities businesses
+         No income of an eligible controlled foreign corporation not described in clause (ii) or (iii) of paragraph (2)(B) (or of a qualified business unit of such corporation) shall be treated as qualified banking or financing income unless more than 30 percent of such corporation“s or unit“s gross income is derived directly from the active and regular conduct of a lending or finance business from transactions with customers which are not related persons and which are located within such corporation“s or unit“s home country.
+      (C) Substantial activity requirement for cross border income
+         The term ””qualified banking or financing income““ shall not include income derived from 1 or more transactions with customers located in a country other than the home country of the eligible controlled foreign corporation or a qualified business unit of such corporation unless such corporation or unit conducts substantial activity with respect to a banking, financing, or similar business in its home country.
+      (D) Determinations made separately
+         For purposes of this paragraph, the qualified banking or financing income of an eligible controlled foreign corporation and each qualified business unit of such corporation shall be determined separately for such corporation and each such unit by taking into account–
+        (i) in the case of the eligible controlled foreign corporation, only items of income, deduction, gain, or loss and activities of such corporation not properly allocable or attributable to any qualified business unit of such corporation, and
+        (ii) in the case of a qualified business unit, only items of income, deduction, gain, or loss and activities properly allocable or attributable to such unit.
+      (E) Direct conduct of activities
+         For purposes of subparagraph (A)(ii)(II), an activity shall be treated as conducted directly by an eligible controlled foreign corporation or qualified business unit in its home country if the activity is performed by employees of a related person and–
+        (i) the related person is an eligible controlled foreign corporation the home country of which is the same as the home country of the corporation or unit to which subparagraph (A)(ii)(II) is being applied,
+        (ii) the activity is performed in the home country of the related person, and
+        (iii) the related person is compensated on an arm“s-length basis for the performance of the activity by its employees and such compensation is treated as earned by such person in its home country for purposes of the home country“s tax laws.
+    (4) Lending or finance business
+       For purposes of this subsection, the term ””lending or finance business““ means the business of–
+      (A) making loans,
+      (B) purchasing or discounting accounts receivable, notes, or installment obligations,
+      (C) engaging in leasing (including entering into leases and purchasing, servicing, and disposing of leases and leased assets),
+      (D) issuing letters of credit or providing guarantees,
+      (E) providing charge and credit card services, or
+      (F) rendering services or making facilities available in connection with activities described in subparagraphs (A) through (E) carried on by–
+        (i) the corporation (or qualified business unit) rendering services or making facilities available, or
+        (ii) another corporation (or qualified business unit of a corporation) which is a member of the same affiliated group (as defined in section 1504, but determined without regard to section 1504(b)(3)).
+    (5) Other definitions
+       For purposes of this subsection–
+      (A) Customer
+         The term ””customer““ means, with respect to any controlled foreign corporation or qualified business unit, any person which has a customer relationship with such corporation or unit and which is acting in its capacity as such.
+      (B) Home country
+         Except as provided in regulations–
+        (i) Controlled foreign corporation
+           The term ””home country““ means, with respect to any controlled foreign corporation, the country under the laws of which the corporation was created or organized.
+        (ii) Qualified business unit
+           The term ””home country““ means, with respect to any qualified business unit, the country in which such unit maintains its principal office.
+      (C) Located
+         The determination of where a customer is located shall be made under rules prescribed by the Secretary.
+      (D) Qualified business unit
+         The term ””qualified business unit““ has the meaning given such term by section 989(a).
+      (E) Related person
+         The term ””related person““ has the meaning given such term by subsection (d)(3).
+    (6) Coordination with exception for dealers
+       Paragraph (1) shall not apply to income described in subsection (c)(2)(C)(ii) of a dealer in securities (within the meaning of section 475) which is an eligible controlled foreign corporation described in paragraph (2)(B)(iii).
+    (7) Anti-abuse rules
+       For purposes of applying this subsection and subsection (c)(2)(C)(ii)–
+      (A) there shall be disregarded any item of income, gain, loss, or deduction with respect to any transaction or series of transactions one of the principal purposes of which is qualifying income or gain for the exclusion under this section, including any transaction or series of transactions a principal purpose of which is the acceleration or deferral of any item in order to claim the benefits of such exclusion through the application of this subsection,
+      (B) there shall be disregarded any item of income, gain, loss, or deduction of an entity which is not engaged in regular and continuous transactions with customers which are not related persons,
+      (C) there shall be disregarded any item of income, gain, loss, or deduction with respect to any transaction or series of transactions utilizing, or doing business with–
+        (i) one or more entities in order to satisfy any home country requirement under this subsection, or
+        (ii) a special purpose entity or arrangement, including a securitization, financing, or similar entity or arrangement,
+       if one of the principal purposes of such transaction or series of transactions is qualifying income or gain for the exclusion under this subsection, and
+      (D) a related person, an officer, a director, or an employee with respect to any controlled foreign corporation (or qualified business unit) which would otherwise be treated as a customer of such corporation or unit with respect to any transaction shall not be so treated if a principal purpose of such transaction is to satisfy any requirement of this subsection.
+    (8) Regulations
+       The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, subsection (c)(1)(B)(i), subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2).
+    (9) Application
+       This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2007, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
+      (i) Special rule for income derived in the active conduct of insurance business
+        (1) In general
+           For purposes of subsection (c)(1), foreign personal holding company income shall not include qualified insurance income of a qualifying insurance company.
+        (2) Qualified insurance income
+           The term ””qualified insurance income““ means income of a qualifying insurance company which is–
+          (A) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from the investments made by a qualifying insurance company or a qualifying insurance company branch of its reserves allocable to exempt contracts or of 80 percent of its unearned premiums from exempt contracts (as both are determined in the manner prescribed under paragraph (4)), or
+          (B) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from investments made by a qualifying insurance company or a qualifying insurance company branch of an amount of its assets allocable to exempt contracts equal to–
+            (i) in the case of property, casualty, or health insurance contracts, one-third of its premiums earned on such insurance contracts during the taxable year (as defined in section 832(b)(4)), and
+            (ii) in the case of life insurance or annuity contracts, 10 percent of the reserves described in subparagraph (A) for such contracts.
+        (3) Principles for determining insurance income
+           Except as provided by the Secretary, for purposes of subparagraphs (A) and (B) of paragraph (2)–
+          (A) in the case of any contract which is a separate account-type contract (including any variable contract not meeting the requirements of section 817), income credited under such contract shall be allocable only to such contract, and
+          (B) income not allocable under subparagraph (A) shall be allocated ratably among contracts not described in subparagraph (A).
+        (4) Methods for determining unearned premiums and reserves
+           For purposes of paragraph (2)(A)–
+          (A) Property and casualty contracts
+             The unearned premiums and reserves of a qualifying insurance company or a qualifying insurance company branch with respect to property, casualty, or health insurance contracts shall be determined using the same methods and interest rates which would be used if such company or branch were subject to tax under subchapter L, except that–
+            (i) the interest rate determined for the functional currency of the company or branch, and which, except as provided by the Secretary, is calculated in the same manner as the Federal mid-term rate under section 1274(d), shall be substituted for the applicable Federal interest rate, and
+            (ii) such company or branch shall use the appropriate foreign loss payment pattern.
+          (B) Life insurance and annuity contracts
+            (i) In general
+               Except as provided in clause (ii), the amount of the reserve of a qualifying insurance company or qualifying insurance company branch for any life insurance or annuity contract shall be equal to the greater of–
+              (I) the net surrender value of such contract (as defined in section 807(e)(1)(A)), or
+              (II) the reserve determined under paragraph (5).
+            (ii) Ruling request, etc.
+               The amount of the reserve under clause (i) shall be the foreign statement reserve for the contract (less any catastrophe, deficiency, equalization, or similar reserves), if, pursuant to a ruling request submitted by the taxpayer or as provided in published guidance, the Secretary determines that the factors taken into account in determining the foreign statement reserve provide an appropriate means of measuring income.
+          (C) Limitation on reserves
+             In no event shall the reserve determined under this paragraph for any contract as of any time exceed the amount which would be taken into account with respect to such contract as of such time in determining foreign statement reserves (less any catastrophe, deficiency, equalization, or similar reserves).
+        (5) Amount of reserve
+           The amount of the reserve determined under this paragraph with respect to any contract shall be determined in the same manner as it would be determined if the qualifying insurance company or qualifying insurance company branch were subject to tax under subchapter L, except that in applying such subchapter–
+          (A) the interest rate determined for the functional currency of the company or branch, and which, except as provided by the Secretary, is calculated in the same manner as the Federal mid-term rate under section 1274(d), shall be substituted for the applicable Federal interest rate,
+          (B) the highest assumed interest rate permitted to be used in determining foreign statement reserves shall be substituted for the prevailing State assumed interest rate, and
+          (C) tables for mortality and morbidity which reasonably reflect the current mortality and morbidity risks in the company“s or branch“s home country shall be substituted for the mortality and morbidity tables otherwise used for such subchapter.
+           The Secretary may provide that the interest rate and mortality and morbidity tables of a qualifying insurance company may be used for 1 or more of its qualifying insurance company branches when appropriate.
+        (6) Definitions
+           For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.

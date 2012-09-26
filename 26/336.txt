@@ -1,1 +1,36 @@
-   Where any Indian entitled to allotment under existing laws shall make settlement upon any surveyed or unsurveyed lands of the United States not otherwise appropriated, he or she shall be entitled, upon application to the local land office for the district in which the lands are located, to have the same allotted to him or her and to his or her children in manner as provided by law for allotments to Indians residing upon reservations, and such allotments to Indians on the public domain as herein provided shall be made in such areas as the President may deem proper, not to exceed, however, forty acres of irrigable land or eighty acres of nonirrigable agricultural land or one hundred sixty acres of nonirrigable grazing land to any one Indian; and when such settlement is made upon unsurveyed lands the grant to such Indians shall be adjusted upon the survey of the lands so as to conform thereto, and patent shall be issued to them for such lands in the manner and with the restrictions provided in sections 348 and 349 of this title. And the fees to which the officers of such local land office would have been entitled had such lands been entered under the general laws for the disposition of the public lands shall be paid to them from any moneys in the Treasury of the United States not otherwise appropriated, upon a statement of an account in their behalf for such fees by the Secretary of the Interior or such officer as he may designate, and a certification of such account to the Secretary of the Treasury by the Secretary of the Interior.
+  (a) General rule
+     Except as otherwise provided in this section or section 337, gain or loss shall be recognized to a liquidating corporation on the distribution of property in complete liquidation as if such property were sold to the distributee at its fair market value.
+  (b) Treatment of liabilities
+     If any property distributed in the liquidation is subject to a liability or the shareholder assumes a liability of the liquidating corporation in connection with the distribution, for purposes of subsection (a) and section 337, the fair market value of such property shall be treated as not less than the amount of such liability.
+  (c) Exception for liquidations which are part of a reorganization
+     T2For provision providing that this subpart does not apply to distributions in pursuance of a plan of reorganization, see section 361(c)(4).
+  (d) Limitations on recognition of loss
+    (1) No loss recognized in certain distributions to related persons
+      (A) In general
+         No loss shall be recognized to a liquidating corporation on the distribution of any property to a related person (within the meaning of section 267) if–
+        (i) such distribution is not pro rata, or
+        (ii) such property is disqualified property.
+      (B) Disqualified property
+         For purposes of subparagraph (A), the term ””disqualified property““ means any property which is acquired by the liquidating corporation in a transaction to which section 351 applied, or as a contribution to capital, during the 5-year period ending on the date of the distribution. Such term includes any property if the adjusted basis of such property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
+    (2) Special rule for certain property acquired in certain carryover basis transactions
+      (A) In general
+         For purposes of determining the amount of loss recognized by any liquidating corporation on any sale, exchange, or distribution of property described in subparagraph (B), the adjusted basis of such property shall be reduced (but not below zero) by the excess (if any) of–
+        (i) the adjusted basis of such property immediately after its acquisition by such corporation, over
+        (ii) the fair market value of such property as of such time.
+      (B) Description of property
+        (i) In general
+           For purposes of subparagraph (A), property is described in this subparagraph if–
+          (I) such property is acquired by the liquidating corporation in a transaction to which section 351 applied or as a contribution to capital, and
+          (II) the acquisition of such property by the liquidating corporation was part of a plan a principal purpose of which was to recognize loss by the liquidating corporation with respect to such property in connection with the liquidation.
+              Other property shall be treated as so described if the adjusted basis of such other property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
+        (ii) Certain acquisitions treated as part of plan
+           For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidated corporation after the date 2 years before the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as acquired as part of a plan described in clause (i)(II).
+      (C) Recapture in lieu of disallowance
+         The Secretary may prescribe regulations under which, in lieu of disallowing a loss under subparagraph (A) for a prior taxable year, the gross income of the liquidating corporation for the taxable year in which the plan of complete liquidation is adopted shall be increased by the amount of the disallowed loss.
+    (3) Special rule in case of liquidation to which section 332 applies
+       In the case of any liquidation to which section 332 applies, no loss shall be recognized to the liquidating corporation on any distribution in such liquidation. The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution.
+  (e) Certain stock sales and distributions may be treated as asset transfers
+     Under regulations prescribed by the Secretary, if–
+    (1) a corporation owns stock in another corporation meeting the requirements of section 1504(a)(2), and
+    (2) such corporation sells, exchanges, or distributes all of such stock,
+       an election may be made to treat such sale, exchange, or distribution as a disposition of all of the assets of such other corporation, and no gain or loss shall be recognized on the sale, exchange, or distribution of such stock.

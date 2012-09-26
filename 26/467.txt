@@ -1,1 +1,97 @@
-   The Secretary of the Interior is hereby authorized to proclaim new Indian reservations on lands acquired pursuant to any authority conferred by this Act, or to add such lands to existing reservations: T3ProvidedK, That lands added to existing reservations shall be designated for the exclusive use of Indians entitled by enrollment or by tribal membership to residence at such reservations.
+  (a) Accrual method on present value basis
+     In the case of the lessor or lessee under any section 467 rental agreement, there shall be taken into account for purposes of this title for any taxable year the sum of–
+    (1) the amount of the rent which accrues during such taxable year as determined under subsection (b), and
+    (2) interest for the year on the amounts which were taken into account under this subsection for prior taxable years and which are unpaid.
+  (b) Accrual of rental payments
+    (1) Allocation follows agreement
+       Except as provided in paragraph (2), the determination of the amount of the rent under any section 467 rental agreement which accrues during any taxable year shall be made–
+      (A) by allocating rents in accordance with the agreement, and
+      (B) by taking into account any rent to be paid after the close of the period in an amount determined under regulations which shall be based on present value concepts.
+    (2) Constant rental accrual in case of certain tax avoidance transactions, etc.
+       In the case of any section 467 rental agreement to which this paragraph applies, the portion of the rent which accrues during any taxable year shall be that portion of the constant rental amount with respect to such agreement which is allocable to such taxable year.
+    (3) Agreements to which paragraph (2) applies
+       Paragraph (2) applies to any rental payment agreement if–
+      (A) such agreement is a disqualified leaseback or long-term agreement, or
+      (B) such agreement does not provide for the allocation referred to in paragraph (1)(A).
+    (4) Disqualified leaseback or long-term agreement
+       For purposes of this subsection, the term ””disqualified leaseback or long-term agreement““ means any section 467 rental agreement if–
+      (A) such agreement is part of a leaseback transaction or such agreement is for a term in excess of 75 percent of the statutory recovery period for the property, and
+      (B) a principal purpose for providing increasing rents under the agreement is the avoidance of tax imposed by this subtitle.
+    (5) Exceptions to disqualification in certain cases
+       The Secretary shall prescribe regulations setting forth circumstances under which agreements will not be treated as disqualified leaseback or long-term agreements, including circumstances relating to–
+      (A) changes in amounts paid determined by reference to price indices,
+      (B) rents based on a fixed percentage of lessee receipts or similar amounts,
+      (C) reasonable rent holidays, or
+      (D) changes in amounts paid to unrelated 3rd parties.
+  (c) Recapture of prior understated inclusions under leaseback or long-term agreements
+    (1) In general
+       If–
+      (A) the lessor under any section 467 rental agreement disposes of any property subject to such agreement during the term of such agreement, and
+      (B) such agreement is a leaseback or long-term agreement to which paragraph (2) of subsection (b) did not apply,
+       the recapture amount shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle.
+    (2) Recapture amount
+       For purposes of paragraph (1), the term ””recapture amount““ means the lesser of–
+      (A) the prior understated inclusions, or
+      (B) the excess of the amount realized (or in the case of a disposition other than a sale, exchange, or involuntary conversion, the fair market value of the property) over the adjusted basis of such property.
+       The amount determined under subparagraph (B) shall be reduced by the amount of any gain treated as ordinary income on the disposition under any other provision of this subtitle.
+    (3) Prior understated inclusions
+       For purposes of this subsection, the term ””prior understated inclusion““ means the excess (if any) of–
+      (A) the amount which would have been taken into account by the lessor under subsection (a) for periods before the disposition if subsection (b)(2) had applied to the agreement, over
+      (B) the amount taken into account under subsection (a) by the lessor for periods before the disposition.
+    (4) Leaseback or long-term agreement
+       For purposes of this subsection, the term ””leaseback or long-term agreement““ means any agreement described in subsection (b)(4)(A).
+    (5) Special rules
+       Under regulations prescribed by the Secretary–
+      (A) exceptions similar to the exceptions applicable under section 1245 or 1250 (whichever is appropriate) shall apply for purposes of this subsection,
+      (B) any transferee in a disposition excepted by reason of subparagraph (A) who has a transferred basis in the property shall be treated in the same manner as the transferor, and
+      (C) for purposes of sections 170(e) and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245 or 1250.
+  (d) Section 467 rental agreements
+    (1) In general
+       Except as otherwise provided in this subsection, the term ””section 467 rental agreements““ means any rental agreement for the use of tangible property under which–
+      (A) there is at least one amount allocable to the use of property during a calendar year which is to be paid after the close of the calendar year following the calendar year in which such use occurs, or
+      (B) there are increases in the amount to be paid as rent under the agreement.
+    (2) Section not to apply to agreements involving payments of $250,000 or less
+       This section shall not apply to any amount to be paid for the use of property if the sum of the following amounts does not exceed $250,000–
+      (A) the aggregate amount of payments received as consideration for such use of property, and
+      (B) the aggregate value of any other consideration to be received for such use of property.
+       For purposes of the preceding sentence, rules similar to the rules of clauses (ii) and (iii) of section 1274(c)(4)(C) shall apply.
+  (e) Definitions
+     For purposes of this section–
+    (1) Constant rental amount
+       The term ””constant rental amount““ means, with respect to any section 467 rental agreement, the amount which, if paid as of the close of each lease period under the agreement, would result in an aggregate present value equal to the present value of the aggregate payments required under the agreement.
+    (2) Leaseback transaction
+       A transaction is a leaseback transaction if it involves a leaseback to any person who had an interest in such property at any time within 2 years before such leaseback (or to a related person).
+    (3) Statutory recovery period
+      (A) In general
+          
+         T2The statutory
+         T2 In the case of:
+         T2recovery period is:
+           3-year property
+         3 years  
+           5-year property
+         5 years  
+           7-year property
+         7 years  
+           10-year property
+         10 years  
+           15-year and 20-year property
+         15 years  
+           Residential rental property and nonresi-     dential real property
+         19 years  
+           Any railroad grading or tunnel bore
+         50 years.
+      (B) Special rule for property not depreciable under section 168
+         In the case of property to which section 168 does not apply, subparagraph (A) shall be applied as if section 168 applies to such property.
+    (4) Discount and interest rate
+       For purposes of computing present value and interest under subsection (a)(2), the rate used shall be equal to 110 percent of the applicable Federal rate determined under section 1274(d) (compounded semiannually) which is in effect at the time the agreement is entered into with respect to debt instruments having a maturity equal to the term of the agreement.
+    (5) Related person
+       The term ””related person““ has the meaning given to such term by section 465(b)(3)(C).
+    (6) Certain options of lessee to renew not taken into account
+       Except as provided in regulations prescribed by the Secretary, there shall not be taken into account in computing the term of any agreement for purposes of this section any extension which is solely at the option of the lessee.
+  (f) Comparable rules where agreement for decreasing payments
+     Under regulations prescribed by the Secretary, rules comparable to the rules of this section shall also apply in the case of any agreement where the amount paid under the agreement for the use of property decreases during the term of the agreement.
+  (g) Comparable rules for services
+     Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2) shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.
+  (h) Regulations
+     The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.

@@ -1,0 +1,98 @@
+  (a) General rule
+    (1) In general
+       For purposes of section 38, the energy efficient appliance credit determined under this section for any taxable year is an amount equal to the sum of the credit amounts determined under paragraph (2) for each type of qualified energy efficient appliance produced by the taxpayer during the calendar year ending with or within the taxable year.
+    (2) Credit amounts
+       The credit amount determined for any type of qualified energy efficient appliance is–
+      (A) the applicable amount determined under subsection (b) with respect to such type, multiplied by
+      (B) the eligible production for such type.
+  (b) Applicable amount
+    (1) In general
+       For purposes of subsection (a)–
+      (A) Dishwashers
+         The applicable amount is the energy savings amount in the case of a dishwasher which–
+        (i) is manufactured in calendar year 2006 or 2007, and
+        (ii) meets the requirements of the Energy Star program which are in effect for dishwashers in 2007.
+      (B) Clothes washers
+         The applicable amount is $100 in the case of a clothes washer which–
+        (i) is manufactured in calendar year 2006 or 2007, and
+        (ii) meets the requirements of the Energy Star program which are in effect for clothes washers in 2007.
+      (C) Refrigerators
+        (i) 15 percent savings
+           The applicable amount is $75 in the case of a refrigerator which–
+          (I) is manufactured in calendar year 2006, and
+          (II) consumes at least 15 percent but not more than 20 percent less kilowatt hours per year than the 2001 energy conservation standards.
+        (ii) 20 percent savings
+           The applicable amount is $125 in the case of a refrigerator which–
+          (I) is manufactured in calendar year 2006 or 2007, and
+          (II) consumes at least 20 percent but not more than 25 percent less kilowatt hours per year than the 2001 energy conservation standards.
+        (iii) 25 percent savings
+           The applicable amount is $175 in the case of a refrigerator which–
+          (I) is manufactured in calendar year 2006 or 2007, and
+          (II) consumes at least 25 percent less kilowatt hours per year than the 2001 energy conservation standards.
+    (2) Energy savings amount
+       For purposes of paragraph (1)(A)–
+      (A) In general
+         The energy savings amount is the lesser of–
+        (i) the product of–
+          (I) $3, and
+          (II) 100 multiplied by the energy savings percentage, or
+        (ii) $100.
+      (B) Energy savings percentage
+         For purposes of subparagraph (A), the energy savings percentage is the ratio of–
+        (i) the EF required by the Energy Star program for dishwashers in 2007 minus the EF required by the Energy Star program for dishwashers in 2005, to
+        (ii) the EF required by the Energy Star program for dishwashers in 2007.
+  (c) Eligible production
+    (1) In general
+       Except as provided in paragraphs \1\N (2), the eligible production in a calendar year with respect to each type of energy efficient appliance is the excess of–
+      (A) the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over
+      (B) the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 3-calendar year period.
+    (2) Special rule for refrigerators
+       The eligible production in a calendar year with respect to each type of refrigerator described in subsection (b)(1)(C) is the excess of–
+      (A) the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over
+      (B) 110 percent of the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 3-calendar year period.
+  (d) Types of energy efficient appliance
+     For purposes of this section, the types of energy efficient appliances are–
+    (1) dishwashers described in subsection (b)(1)(A),
+    (2) clothes washers described in subsection (b)(1)(B),
+    (3) refrigerators described in subsection (b)(1)(C)(i),
+    (4) refrigerators described in subsection (b)(1)(C)(ii), and
+    (5) refrigerators described in subsection (b)(1)(C)(iii).
+  (e) Limitations
+    (1) Aggregate credit amount allowed
+       The aggregate amount of credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $75,000,000 reduced by the amount of the credit allowed under subsection (a) to the taxpayer (or any predecessor) for all prior taxable years.
+    (2) Amount allowed for 15 percent savings refrigerators
+       In the case of refrigerators described in subsection (b)(1)(C)(i), the aggregate amount of the credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $20,000,000.
+    (3) Limitation based on gross receipts
+       The credit allowed under subsection (a) with respect to a taxpayer for the taxable year shall not exceed an amount equal to 2 percent of the average annual gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the credit is determined.
+    (4) Gross receipts
+       For purposes of this subsection, the rules of paragraphs (2) and (3) of section 448(c) shall apply.
+  (f) Definitions
+     For purposes of this section–
+    (1) Qualified energy efficient appliance
+       The term ””qualified energy efficient appliance““ means–
+      (A) any dishwasher described in subsection (b)(1)(A),
+      (B) any clothes washer described in subsection (b)(1)(B), and
+      (C) any refrigerator described in subsection (b)(1)(C).
+    (2) Dishwasher
+       The term ””dishwasher““ means a residential dishwasher subject to the energy conservation standards established by the Department of Energy.
+    (3) Clothes washer
+       The term ””clothes washer““ means a residential model clothes washer, including a residential style coin operated washer.
+    (4) Refrigerator
+       The term ””refrigerator““ means a residential model automatic defrost refrigerator-freezer which has an internal volume of at least 16.5 cubic feet.
+    (5) EF
+       The term ””EF““ means the energy factor established by the Department of Energy for compliance with the Federal energy conservation standards.
+    (6) Produced
+       The term ””produced““ includes manufactured.
+    (7) 2001 energy conservation standard
+       The term ””2001 energy conservation standard““ means the energy conservation standards promulgated by the Department of Energy and effective July 1, 2001.
+  (g) Special rules
+     For purposes of this section–
+    (1) In general
+       Rules similar to the rules of subsections (c), (d), and (e) of section 52 shall apply.
+    (2) Controlled group
+      (A) In general
+         All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (T3oK) of section 414 shall be treated as a single producer.
+      (B) Inclusion of foreign corporations
+         For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 to this section, section 1563 shall be applied without regard to subsection (b)(2)(C) thereof.
+    (3) Verification
+       No amount shall be allowed as a credit under subsection (a) with respect to which the taxpayer has not submitted such information or certification as the Secretary, in consultation with the Secretary of Energy, determines necessary.

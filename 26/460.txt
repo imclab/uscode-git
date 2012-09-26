@@ -1,0 +1,176 @@
+  (a) Requirement that percentage of completion method be used
+     In the case of any long-term contract, the taxable income from such contract shall be determined under the percentage of completion method (as modified by subsection (b)).
+  (b) Percentage of completion method
+    (1) Requirements of percentage of completion method
+       Except as provided in paragraph (3), in the case of any long-term contract with respect to which the percentage of completion method is used–
+      (A) the percentage of completion shall be determined by comparing costs allocated to the contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and
+      (B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
+       In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
+    (2) Look-back method
+       The interest computed under the look-back method of this paragraph shall be determined by–
+      (A) first \1\N allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
+      (B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and
+      (C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
+       For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
+    (3) Special rules
+      (A) Simplified method of cost allocation
+         In the case of any long-term contract, the Secretary may prescribe a simplified procedure for allocation of costs to such contract in lieu of the method of allocation under subsection (c).
+      (B) Look-back method not to apply to certain contracts
+         Paragraph (1)(B) shall not apply to any contract–
+        (i) the gross price of which (as of the completion of the contract) does not exceed the lesser of–
+          (I) $1,000,000, or
+          (II) 1 percent of the average annual gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the contract was completed, and
+        (ii) which is completed within 2 years of the contract commencement date.
+         For purposes of this subparagraph, rules similar to the rules of subsections (e)(2) and (f)(3) shall apply.
+    (4) Simplified look-back method for pass-thru entities
+      (A) In general
+         In the case of a pass-thru entity–
+        (i) the look-back method of paragraph (2) shall be applied at the entity level,
+        (ii) in determining overpayments and underpayments for purposes of applying paragraph (2)(B)–
+          (I) any increase in the income under the contract for any taxable year by reason of the allocation under paragraph (2)(A) shall be treated as giving rise to an underpayment determined by applying the highest rate for such year to such increase, and
+          (II) any decrease in such income for any taxable year by reason of such allocation shall be treated as giving rise to an overpayment determined by applying the highest rate for such year to such decrease, and
+        (iii) any interest required to be paid by the taxpayer under paragraph (2) shall be paid by such entity (and any interest entitled to be received by the taxpayer under paragraph (2) shall be paid to such entity).
+      (B) Exceptions
+        (i) Closely held pass-thru entities
+           This paragraph shall not apply to any closely held pass-thru entity.
+        (ii) Foreign contracts
+           This paragraph shall not apply to any contract unless substantially all of the income from such contract is from sources in the United States.
+      (C) Other definitions
+         For purposes of this paragraph–
+        (i) Highest rate
+           The term ””highest rate““ means–
+          (I) the highest rate of tax specified in section 11, or
+          (II) if at all times during the year involved more than 50 percent of the interests in the entity are held by individuals directly or through 1 or more other pass-thru entities, the highest rate of tax specified in section 1.
+        (ii) Pass-thru entity
+           The term ””pass-thru entity““ means any–
+          (I) partnership,
+          (II) S corporation, or
+          (III) trust.
+        (iii) Closely held pass-thru entity
+           The term ””closely held pass-thru entity““ means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
+    (5) Election to use 10-percent method
+      (A) General rule
+         In the case of any long-term contract with respect to which an election under this paragraph is in effect, the 10-percent method shall apply in determining the taxable income from such contract.
+      (B) 10-percent method
+         For purposes of this paragraph–
+        (i) In general
+           The 10-percent method is the percentage of completion method, modified so that any item which would otherwise be taken into account in computing taxable income with respect to a contract for any taxable year before the 10-percent year is taken into account in the 10-percent year.
+        (ii) 10-percent year
+           The term ””10-percent year““ means the 1st taxable year as of the close of which at least 10 percent of the estimated total contract costs have been incurred.
+      (C) Election
+         An election under this paragraph shall apply to all long-term contracts of the taxpayer which are entered into during the taxable year in which the election is made or any subsequent taxable year.
+      (D) Coordination with other provisions
+        (i) Simplified method of cost allocation
+           This paragraph shall not apply to any taxpayer which uses a simplified procedure for allocation of costs under paragraph (3)(A).
+        (ii) Look-back method
+           The 10-percent method shall be taken into account for purposes of applying the look-back method of paragraph (2) to any taxpayer making an election under this paragraph.
+    (6) Election to have look-back method not apply in de minimis cases
+      (A) Amounts taken into account after completion of contract
+         Paragraph (1)(B) shall not apply with respect to any taxable year (beginning after the taxable year in which the contract is completed) if–
+        (i) the cumulative taxable income (or loss) under the contract as of the close of such taxable year, is within
+        (ii) 10 percent of the cumulative look-back taxable income (or loss) under the contract as of the close of the most recent taxable year to which paragraph (1)(B) applied (or would have applied but for subparagraph (B)).
+      (B) De minimis discrepancies
+         Paragraph (1)(B) shall not apply in any case to which it would otherwise apply if–
+        (i) the cumulative taxable income (or loss) under the contract as of the close of each prior contract year, is within
+        (ii) 10 percent of the cumulative look-back income (or loss) under the contract as of the close of such prior contract year.
+      (C) Definitions
+         For purposes of this paragraph–
+        (i) Contract year
+           The term ””contract year““ means any taxable year for which income is taken into account under the contract.
+        (ii) Look-back income or loss
+           The look-back income (or loss) is the amount which would be the taxable income (or loss) under the contract if the allocation method set forth in paragraph (2)(A) were used in determining taxable income.
+        (iii) Discounting not applicable
+           The amounts taken into account after the completion of the contract shall be determined without regard to any discounting under the 2nd sentence of paragraph (2).
+      (D) Contracts to which paragraph applies
+         This paragraph shall only apply if the taxpayer makes an election under this subparagraph. Unless revoked with the consent of the Secretary, such an election shall apply to all long-term contracts completed during the taxable year for which election is made or during any subsequent taxable year.
+    (7) Adjusted overpayment rate
+      (A) In general
+         The adjusted overpayment rate for any interest accrual period is the overpayment rate in effect under section 6621 for the calendar quarter in which such interest accrual period begins.
+      (B) Interest accrual period
+         For purposes of subparagraph (A), the term ””interest accrual period““ means the period–
+        (i) beginning on the day after the return due date for any taxable year of the taxpayer, and
+        (ii) ending on the return due date for the following taxable year.
+         For purposes of the preceding sentence, the term ””return due date““ means the date prescribed for filing the return of the tax imposed by this chapter (determined without regard to extensions).
+  (c) Allocation of costs to contract
+    (1) Direct and certain indirect costs
+       In the case of a long-term contract, all costs (including research and experimental costs) which directly benefit, or are incurred by reason of, the long-term contract activities of the taxpayer shall be allocated to such contract in the same manner as costs are allocated to extended period long-term contracts under section 451 and the regulations thereunder.
+    (2) Costs identified under cost-plus and certain Federal contracts
+       In the case of a cost-plus long-term contract or a Federal long-term contract, any cost not allocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
+    (3) Allocation of production period interest to contract
+      (A) In general
+         Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costs are allocated to property produced by the taxpayer under section 263A(f).
+      (B) Production period
+         In applying section 263A(f) for purposes of subparagraph (A), the production period shall be the period–
+        (i) beginning on the later of–
+          (I) the contract commencement date, or
+          (II) in the case of a taxpayer who uses an accrual method with respect to long-term contracts, the date by which at least 5 percent of the total estimated costs (including design and planning costs) under the contract have been incurred, and
+        (ii) ending on the contract completion date.
+      (C) Application of de minimis rule
+         In applying section 263A(f) for purposes of subparagraph (A), paragraph (1)(B)(iii) of such section shall be applied on a contract-by-contract basis; except that, in the case of a taxpayer described in subparagraph (B)(i)(II) of this paragraph, paragraph (1)(B)(iii) of section 263A(f) shall be applied on a property-by-property basis.
+    (4) Certain costs not included
+       This subsection shall not apply to any–
+      (A) independent research and development expenses,
+      (B) expenses for unsuccessful bids and proposals, and
+      (C) marketing, selling, and advertising expenses.
+    (5) Independent research and development expenses
+       For purposes of paragraph (4), the term ””independent research and development expenses““ means any expenses incurred in the performance of research or development, except that such term shall not include–
+      (A) any expenses which are directly attributable to a long-term contract in existence when such expenses are incurred, or
+      (B) any expenses under an agreement to perform research or development.
+  (d) Federal long-term contract
+     For purposes of this section–
+    (1) In general
+       The term ””Federal long-term contract““ means any long-term contract–
+      (A) to which the United States (or any agency or instrumentality thereof) is a party, or
+      (B) which is a subcontract under a contract described in subparagraph (A).
+    (2) Special rules for certain taxable entities
+       For purposes of paragraph (1), the rules of section 168(h)(2)(D) (relating to certain taxable entities not treated as instrumentalities) shall apply.
+  (e) Exception for certain construction contracts
+    (1) In general
+       Subsections (a), (b), and (c)(1) and (2) shall not apply to–
+      (A) any home construction contract, or
+      (B) any other construction contract entered into by a taxpayer–
+        (i) who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and
+        (ii) whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000.
+       In the case of a home construction contract with respect to which the requirements of clauses (i) and (ii) of subparagraph (B) are not met, section 263A shall apply notwithstanding subsection (c)(4) thereof.
+    (2) Determination of taxpayer“s gross receipts
+       For purposes of paragraph (1), the gross receipts of–
+      (A) all trades or businesses (whether or not incorporated) which are under common control with the taxpayer (within the meaning of section 52(b)),
+      (B) all members of any controlled group of corporations of which the taxpayer is a member, and
+      (C) any predecessor of the taxpayer or a person described in subparagraph (A) or (B),
+       for the 3 taxable years of such persons preceding the taxable year in which the contract described in paragraph (1) is entered into shall be included in the gross receipts of the taxpayer for the period described in paragraph (1)(B). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
+    (3) Controlled group of corporations
+       For purposes of this subsection, the term ””controlled group of corporations““ has the meaning given to such term by section 1563(a), except that–
+      (A) ””more than 50 percent““ shall be substituted for ””at least 80 percent““ each place it appears in section 1563(a)(1), and
+      (B) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
+    (4) Construction contract
+       For purposes of this subsection, the term ””construction contract““ means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
+    (5) Special rule for residential construction contracts which are not home construction contracts
+       In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied–
+      (A) by substituting ””70 percent““ for ””90 percent““ each place it appears, and
+      (B) by substituting ””30 percent““ for ””10 percent““.
+    (6) Definitions relating to residential construction contracts
+       For purposes of this subsection–
+      (A) Home construction contract
+         The term ””home construction contract““ means any construction contract if 80 percent or more of the estimated total contract costs (as of the close of the taxable year in which the contract was entered into) are reasonably expected to be attributable to activities referred to in paragraph (4) with respect to–
+        (i) dwelling units (as defined in section 168(e)(2)(A)(ii)) contained in buildings containing 4 or fewer dwelling units (as so defined), and
+        (ii) improvements to real property directly related to such dwelling units and located on the site of such dwelling units.
+         For purposes of clause (i), each townhouse or rowhouse shall be treated as a separate building.
+      (B) Residential construction contract
+         The term ””residential construction contract““ means any contract which would be described in subparagraph (A) if clause (i) of such subparagraph reads as follows:
+         ””(i) dwelling units (as defined in section 168(e)(2)(A)(ii)), and““.
+  (f) Long-term contract
+     For purposes of this section–
+    (1) In general
+       The term ””long-term contract““ means any contract for the manufacture, building, installation, or construction of property if such contract is not completed within the taxable year in which such contract is entered into.
+    (2) Special rule for manufacturing contracts
+       A contract for the manufacture of property shall not be treated as a long-term contract unless such contract involves the manufacture of–
+      (A) any unique item of a type which is not normally included in the finished goods inventory of the taxpayer, or
+      (B) any item which normally requires more than 12 calendar months to complete (without regard to the period of the contract).
+    (3) Aggregation, etc.
+       For purposes of this subsection, under regulations prescribed by the Secretary–
+      (A) 2 or more contracts which are interdependent (by reason of pricing or otherwise) may be treated as 1 contract, and
+      (B) a contract which is properly treated as an aggregation of separate contracts may be so treated.
+  (g) Contract commencement date
+     For purposes of this section, the term ””contract commencement date““ means, with respect to any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
+  (h) Regulations
+     The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.

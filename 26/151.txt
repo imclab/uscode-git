@@ -1,1 +1,47 @@
-   Any United States Indian agent, superintendent, or other disbursing agent of the Indian Service may deposit Indian moneys, individual or tribal, coming into his hands as custodian, in such national bank or banks as he may select: T3ProvidedK, That the bank or banks so selected by him shall first execute to said disbursing agent a bond, with approved surety, in such an amount as will properly safeguard the funds to be deposited. Such bond shall be subject to the approval of the Secretary of the Interior.
+  (a) Allowance of deductions
+     In the case of an individual, the exemptions provided by this section shall be allowed as deductions in computing taxable income.
+  (b) Taxpayer and spouse
+     An exemption of the exemption amount for the taxpayer; and an additional exemption of the exemption amount for the spouse of the taxpayer if a joint return is not made by the taxpayer and his spouse, and if the spouse, for the calendar year in which the taxable year of the taxpayer begins, has no gross income and is not the dependent of another taxpayer.
+  (c) Additional exemption for dependents
+     An exemption of the exemption amount for each individual who is a dependent (as defined in section 152) of the taxpayer for the taxable year.
+  (d) Exemption amount
+     For purposes of this section–
+    (1) In general
+       Except as otherwise provided in this subsection, the term ””exemption amount““ means $2,000.
+    (2) Exemption amount disallowed in case of certain dependents
+       In the case of an individual with respect to whom a deduction under this section is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual“s taxable year begins, the exemption amount applicable to such individual for such individual“s taxable year shall be zero.
+    (3) Phaseout
+      (A) In general
+         In the case of any taxpayer whose adjusted gross income for the taxable year exceeds the threshold amount, the exemption amount shall be reduced by the applicable percentage.
+      (B) Applicable percentage
+         For purposes of subparagraph (A), the term ””applicable percentage““ means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer“s adjusted gross income for the taxable year exceeds the threshold amount. In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting ””$1,250““ for ””$2,500““. In no event shall the applicable percentage exceed 100 percent.
+      (C) Threshold amount
+         For purposes of this paragraph, the term ””threshold amount““ means–
+        (i) $150,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
+        (ii) $125,000 in the case of a head of a household (as defined in section 2(b),\1\N
+        (iii) $100,000 in the case of an individual who is not married and who is not a surviving spouse or head of a household, and
+        (iv) $75,000 in the case of a married individual filing a separate return.
+         For purposes of this paragraph, marital status shall be determined under section 7703.
+      (D) Coordination with other provisions
+         The provisions of this paragraph shall not apply for purposes of determining whether a deduction under this section with respect to any individual is allowable to another taxpayer for any taxable year.
+      (E) Reduction of phaseout
+        (i) In general
+           In the case of taxable years beginning after December 31, 2005, and before January 1, 2010, the reduction under subparagraph (A) shall be equal to the applicable fraction of the amount which would (but for this subparagraph) be the amount of such reduction.
+        (ii) Applicable fraction
+           For purposes of clause (i), the applicable fraction shall be determined in accordance with the following table:
+            
+             2006 and 2007 D\2/3\ 
+             2008 and 2009 D\1/3\.
+      (F) Termination
+         This paragraph shall not apply to any taxable year beginning after December 31, 2009.
+    (4) Inflation adjustments
+      (A) Adjustment to basic amount of exemption
+         In the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to–
+        (i) such dollar amount, multiplied by
+        (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ””calendar year 1988““ for ””calendar year 1992““ in subparagraph (B) thereof.
+      (B) Adjustment to threshold amounts for years after 1991
+         In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (3)(C) shall be increased by an amount equal to–
+        (i) such dollar amount, multiplied by
+        (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ””calendar year 1990““ for ””calendar year 1992““ in subparagraph (B) thereof.
+  (e) Identifying information required
+     No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.

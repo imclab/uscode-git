@@ -1,5 +1,18 @@
-   The payment of all moneys and the distribution of all goods stipulated to be furnished to any Indians, or tribe of Indians, shall be made in one of the following ways, as the President or the Secretary of the Interior may direct:
-   First. To the chiefs of a tribe, for the tribe.
-   Second. In cases where the imperious interest of the tribe or the individuals intended to be benefited, or any treaty stipulation, requires the intervention of an agency, then to such person as the tribe shall appoint to receive such moneys or goods; or if several persons be appointed, then upon the joint order or receipt of such persons.
-   Third. To the heads of the families and to the individuals entitled to participate in the moneys or goods.
-   Fourth. By consent of the tribe, such moneys or goods may be applied directly, under such regulations, not inconsistent with treaty stipulations, as may be prescribed by the Secretary of the Interior, to such purposes as will best promote the happiness and prosperity of the members of the tribe, and will encourage able-bodied Indians in the habits of industry and peace.
+  (a) Deductions
+     Gross income does not include income attributable to the recovery during the taxable year of any amount deducted in any prior taxable year to the extent such amount did not reduce the amount of tax imposed by this chapter.
+  (b) Credits
+    (1) In general
+       If–
+      (A) a credit was allowable with respect to any amount for any prior taxable year, and
+      (B) during the taxable year there is a downward price adjustment or similar adjustment,
+       the tax imposed by this chapter for the taxable year shall be increased by the amount of the credit attributable to the adjustment.
+    (2) Exception where credit did not reduce tax
+       Paragraph (1) shall not apply to the extent that the credit allowable for the recovered amount did not reduce the amount of tax imposed by this chapter.
+    (3) Exception for investment tax credit and foreign tax credit
+       This subsection shall not apply with respect to the credit determined under section 46 and the foreign tax credit.
+  (c) Treatment of carryovers
+     For purposes of this section, an increase in a carryover which has not expired before the beginning of the taxable year in which the recovery or adjustment takes place shall be treated as reducing tax imposed by this chapter.
+  (d) Special rules for accumulated earnings tax and for personal holding company tax
+     In applying subsection (a) for the purpose of determining the accumulated earnings tax under section 531 or the tax under section 541 (relating to personal holding companies)–
+    (1) any excluded amount under subsection (a) allowed for the purposes of this subtitle (other than section 531 or section 541) shall be allowed whether or not such amount resulted in a reduction of the tax under section 531 or the tax under section 541 for the prior taxable year; and
+    (2) where any excluded amount under subsection (a) was not allowable as a deduction for the prior taxable year for purposes of this subtitle other than of section 531 or section 541 but was allowable for the same taxable year under section 531 or section 541, then such excluded amount shall be allowable if it did not result in a reduction of the tax under section 531 or the tax under section 541.

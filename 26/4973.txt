@@ -1,0 +1,63 @@
+  (a) Tax imposed
+     In the case of–
+    (1) an individual retirement account (within the meaning of section 408(a)),
+    (2) an Archer MSA (within the meaning of section 220(d)),
+    (3) an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract under section 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock),
+    (4) a Coverdell education savings account (as defined in section 530), or
+    (5) a health savings account (within the meaning of section 223(d)),
+       there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual“s accounts or annuities (determined as of the close of the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
+  (b) Excess contributions
+     For purposes of this section, in the case of individual retirement accounts or individual retirement annuities, the term ””excess contributions““ means the sum of–
+    (1) the excess (if any) of–
+      (A) the amount contributed for the taxable year to the accounts or for the annuities (other than a contribution to a Roth IRA or a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16)), over
+      (B) the amount allowable as a deduction under section 219 for such contributions, and
+    (2) the amount determined under this subsection for the preceding taxable year reduced by the sum of–
+      (A) the distributions out of the account for the taxable year which were included in the gross income of the payee under section 408(d)(1),
+      (B) the distributions out of the account for the taxable year to which section 408(d)(5) applies, and
+      (C) the excess (if any) of the maximum amount allowable as a deduction under section 219 for the taxable year over the amount contributed (determined without regard to section 219(f)(6)) to the accounts or for the annuities (including the amount contributed to a Roth IRA) for the taxable year.
+         For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amount not contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
+  (c) Section 403(b) contracts
+     For purposes of this section, in the case of a custodial account referred to in subsection (a)(3), the term ””excess contributions““ means the sum of–
+    (1) the excess (if any) of the amount contributed for the taxable year to such account (other than a rollover contribution described in section 403(b)(8) or 408(d)(3)(A)(iii)), over the lesser of the amount excludable from gross income under section 403(b) or the amount permitted to be contributed under the limitations contained in section 415 (or under whichever such section is applicable, if only one is applicable), and
+    (2) the amount determined under this subsection for the preceding taxable year, reduced by–
+      (A) the excess (if any) of the lesser of (i) the amount excludable from gross income under section 403(b) or (ii) the amount permitted to be contributed under the limitations contained in section 415 over the amount contributed to the account for the taxable year (or under whichever such section is applicable, if only one is applicable), and
+      (B) the sum of the distributions out of the account (for all prior taxable years) which are included in gross income under section 72(e).
+  (d) Excess contributions to Archer MSAs
+     For purposes of this section, in the case of Archer MSAs (within the meaning of section 220(d)), the term ””excess contributions““ means the sum of–
+    (1) the aggregate amount contributed for the taxable year to the accounts (other than rollover contributions described in section 220(f)(5)) which is neither excludable from gross income under section 106(b) nor allowable as a deduction under section 220 for such year, and
+    (2) the amount determined under this subsection for the preceding taxable year, reduced by the sum of–
+      (A) the distributions out of the accounts which were included in gross income under section 220(f)(2), and
+      (B) the excess (if any) of–
+        (i) the maximum amount allowable as a deduction under section 220(b)(1) (determined without regard to section 106(b)) for the taxable year, over
+        (ii) the amount contributed to the accounts for the taxable year.
+           For purposes of this subsection, any contribution which is distributed out of the Archer MSA in a distribution to which section 220(f)(3) or section 138(c)(3) applies shall be treated as an amount not contributed.
+  (e) Excess contributions to Coverdell education savings accounts
+     For purposes of this section–
+    (1) In general
+       In the case of Coverdell education savings accounts maintained for the benefit of any one beneficiary, the term ””excess contributions““ means the sum of–
+      (A) the amount by which the amount contributed for the taxable year to such accounts exceeds $2,000 (or, if less, the sum of the maximum amounts permitted to be contributed under section 530(c) by the contributors to such accounts for such year); and
+      (B) the amount determined under this subsection for the preceding taxable year, reduced by the sum of–
+        (i) the distributions out of the accounts for the taxable year (other than rollover distributions); and
+        (ii) the excess (if any) of the maximum amount which may be contributed to the accounts for the taxable year over the amount contributed to the accounts for the taxable year.
+    (2) Special rules
+       For purposes of paragraph (1), the following contributions shall not be taken into account:
+      (A) Any contribution which is distributed out of the Coverdell education savings account in a distribution to which section 530(d)(4)(C) applies.
+      (B) Any rollover contribution.
+  (f) Excess contributions to Roth IRAs
+     For purposes of this section, in the case of contributions to a Roth IRA (within the meaning of section 408A(b)), the term ””excess contributions““ means the sum of–
+    (1) the excess (if any) of–
+      (A) the amount contributed for the taxable year to Roth IRAs (other than a qualified rollover contribution described in section 408A(e)), over
+      (B) the amount allowable as a contribution under sections 408A(c)(2) and (c)(3), and
+    (2) the amount determined under this subsection for the preceding taxable year, reduced by the sum of–
+      (A) the distributions out of the accounts for the taxable year, and
+      (B) the excess (if any) of the maximum amount allowable as a contribution under sections 408A(c)(2) and (c)(3) for the taxable year over the amount contributed by the individual to all individual retirement plans for the taxable year.
+         For purposes of this subsection, any contribution which is distributed from a Roth IRA in a distribution described in section 408(d)(4) shall be treated as an amount not contributed.
+  (g) Excess contributions to health savings accounts
+     For purposes of this section, in the case of health savings accounts (within the meaning of section 223(d)), the term ””excess contributions““ means the sum of–
+    (1) the aggregate amount contributed for the taxable year to the accounts (other than a rollover contribution described in section 220(f)(5) or 223(f)(5)) which is neither excludable from gross income under section 106(d) nor allowable as a deduction under section 223 for such year, and
+    (2) the amount determined under this subsection for the preceding taxable year, reduced by the sum of–
+      (A) the distributions out of the accounts which were included in gross income under section 223(f)(2), and
+      (B) the excess (if any) of–
+        (i) the maximum amount allowable as a deduction under section 223(b) (determined without regard to section 106(d)) for the taxable year, over
+        (ii) the amount contributed to the accounts for the taxable year.
+           For purposes of this subsection, any contribution which is distributed out of the health savings account in a distribution to which section 223(f)(3) applies shall be treated as an amount not contributed.

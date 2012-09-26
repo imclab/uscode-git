@@ -1,1 +1,32 @@
-   Within one hundred and eighty days of December 22, 1982, the Secretary of the Interior shall promulgate rules and regulations to facilitate implementation of this chapter. The Secretary shall, to the extent practicable, consult with national and regional Indian organizations and tribes with expertise in mineral development both in the initial formulation of rules and regulations and any future revision or amendment of such rules and regulations. Where there is pending before the Secretary for his approval a Minerals Agreement of the type authorized by section 2102 of this title which was submitted prior to December 22, 1982, the Secretary shall evaluate and approve or disapprove such agreement based upon section 2103 of this title, but shall not withhold or delay such approval or disapproval on the grounds that the rules and regulations implementing this chapter have not been promulgated.
+  (a) Treatment of expatriates
+     A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States if the date of death occurs during a taxable year with respect to which the decedent is subject to tax under section 877(b).
+  (b) Gross estate
+     For purposes of the tax imposed by subsection (a), the value of the gross estate of every decedent to whom subsection (a) applies shall be determined as provided in section 2103, except that–
+    (1) if such decedent owned (within the meaning of section 958(a)) at the time of his death 10 percent or more of the total combined voting power of all classes of stock entitled to vote of a foreign corporation, and
+    (2) if such decedent owned (within the meaning of section 958(a)), or is considered to have owned (by applying the ownership rules of section 958(b)), at the time of his death, more than 50 percent of–
+      (A) the total combined voting power of all classes of stock entitled to vote of such corporation, or
+      (B) the total value of the stock of such corporation,
+         then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of his death, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
+  (c) Credits
+    (1) Unified credit
+      (A) In general
+         A credit of $13,000 shall be allowed against the tax imposed by subsection (a).
+      (B) Limitation based on amount of tax
+         The credit allowed under this paragraph shall not exceed the amount of the tax imposed by subsection (a).
+    (2) Credit for foreign death taxes
+      (A) In general
+         The tax imposed by subsection (a) shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property which is included in the gross estate solely by reason of subsection (b).
+      (B) Limitation on credit
+         The credit allowed by subparagraph (A) for such taxes paid to a foreign country shall not exceed the lesser of–
+        (i) the amount which bears the same ratio to the amount of such taxes actually paid to such foreign country as the value of the property subjected to such taxes by such foreign country and included in the gross estate solely by reason of subsection (b) bears to the value of all property subjected to such taxes by such foreign country, or
+        (ii) such property“s proportionate share of the excess of–
+          (I) the tax imposed by subsection (a), over
+          (II) the tax which would be imposed by section 2101 but for this section.
+      (C) Proportionate share
+         In the case of property which is included in the gross estate solely by reason of subsection (b), such property“s proportionate share is the percentage which the value of such property bears to the total value of all property included in the gross estate solely by reason of subsection (b).
+    (3) Other credits
+       The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with subsections (a) and (b) of section 2102. For purposes of subsection (a) of section 2102, sections 2012 and 2013 shall be applied as if the credit allowed under paragraph (1) were allowed under section 2010.
+  (d) Burden of proof
+     If the Secretary establishes that it is reasonable to believe that an individual“s loss of United States citizenship would, but for this section, result in a substantial reduction in the estate, inheritance, legacy, and succession taxes in respect of the transfer of his estate, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on the executor of such individual“s estate.
+  (e) Cross reference
+     T2For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).

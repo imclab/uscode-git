@@ -1,1 +1,106 @@
-   The Secretary of the Interior may accept donations of funds or other property for the advancement of the Indian race, and he may use the donated property in accordance with the terms of the donation in furtherance of any program authorized by other provision of law for the benefit of Indians. An annual report shall be made to the Congress on donations received and allocations made from such donations. This report shall include administrative costs and other pertinent data.
+  (a) General rule
+     The amount of any item of gross income shall be included in the gross income for the taxable year in which received by the taxpayer, unless, under the method of accounting used in computing taxable income, such amount is to be properly accounted for as of a different period.
+  (b) Special rule in case of death
+     In the case of the death of a taxpayer whose taxable income is computed under an accrual method of accounting, any amount accrued only by reason of the death of the taxpayer shall not be included in computing taxable income for the period in which falls the date of the taxpayer“s death.
+  (c) Special rule for employee tips
+     For purposes of subsection (a), tips included in a written statement furnished an employer by an employee pursuant to section 6053(a) shall be deemed to be received at the time the written statement including such tips is furnished to the employer.
+  (d) Special rule for crop insurance proceeds or disaster payments
+     In the case of insurance proceeds received as a result of destruction or damage to crops, a taxpayer reporting on the cash receipts and disbursements method of accounting may elect to include such proceeds in income for the taxable year following the taxable year of destruction or damage, if he establishes that, under his practice, income from such crops would have been reported in a following taxable year. For purposes of the preceding sentence, payments received under the Agricultural Act of 1949, as amended, or title II of the Disaster Assistance Act of 1988, as a result of (1) destruction or damage to crops caused by drought, flood, or any other natural disaster, or (2) the inability to plant crops because of such a natural disaster shall be treated as insurance proceeds received as a result of destruction or damage to crops. An election under this subsection for any taxable year shall be made at such time and in such manner as the Secretary prescribes.
+  (e) Special rule for proceeds from livestock sold on account of drought, flood, or other weather-related conditions
+    (1) In general
+       In the case of income derived from the sale or exchange of livestock in excess of the number the taxpayer would sell if he followed his usual business practices, a taxpayer reporting on the cash receipts and disbursements method of accounting may elect to include such income for the taxable year following the taxable year in which such sale or exchange occurs if he establishes that, under his usual business practices, the sale or exchange would not have occurred in the taxable year in which it occurred if it were not for drought, flood, or other weather-related conditions, and that such conditions had resulted in the area being designated as eligible for assistance by the Federal Government.
+    (2) Limitation
+       Paragraph (1) shall apply only to a taxpayer whose principal trade or business is farming (within the meaning of section 6420(c)(3)).
+    (3) Special election rules
+       If section 1033(e)(2) applies to a sale or exchange of livestock described in paragraph (1), the election under paragraph (1) shall be deemed valid if made during the replacement period described in such section.
+  (f) Special rule for utility services
+    (1) In general
+       In the case of a taxpayer the taxable income of which is computed under an accrual method of accounting, any income attributable to the sale or furnishing of utility services to customers shall be included in gross income not later than the taxable year in which such services are provided to such customers.
+    (2) Definition and special rule
+       For purposes of this subsection–
+      (A) Utility services
+         The term ””utility services““ includes–
+        (i) the providing of electrical energy, water, or sewage disposal,
+        (ii) the furnishing of gas or steam through a local distribution system,
+        (iii) telephone or other communication services, and
+        (iv) the transporting of gas or steam by pipeline.
+      (B) Year in which services provided
+         The taxable year in which services are treated as provided to customers shall not, in any manner, be determined by reference to–
+        (i) the period in which the customers“ meters are read, or
+        (ii) the period in which the taxpayer bills (or may bill) the customers for such service.
+  (g) Treatment of interest on frozen deposits in certain financial institutions
+    (1) In general
+       In the case of interest credited during any calendar year on a frozen deposit in a qualified financial institution, the amount of such interest includible in the gross income of a qualified individual shall not exceed the sum of–
+      (A) the net amount withdrawn by such individual from such deposit during such calendar year, and
+      (B) the amount of such deposit which is withdrawable as of the close of the taxable year (determined without regard to any penalty for premature withdrawals of a time deposit).
+    (2) Interest tested each year
+       Any interest not included in gross income by reason of paragraph (1) shall be treated as credited in the next calendar year.
+    (3) Deferral of interest deduction
+       No deduction shall be allowed to any qualified financial institution for interest not includible in gross income under paragraph (1) until such interest is includible in gross income.
+    (4) Frozen deposit
+       For purposes of this subsection, the term ””frozen deposit““ means any deposit if, as of the close of the calendar year, any portion of such deposit may not be withdrawn because of–
+      (A) the bankruptcy or insolvency of the qualified financial institution (or threat thereof), or
+      (B) any requirement imposed by the State in which such institution is located by reason of the bankruptcy or insolvency (or threat thereof) of 1 or more financial institutions in the State.
+    (5) Other definitions
+       For purposes of this subsection, the terms ””qualified individual““, ””qualified financial institution““, and ””deposit““ have the same respective meanings as when used in section 165(T3lK).
+  (h) Special rule for cash options for receipt of qualified prizes
+    (1) In general
+       For purposes of this title, in the case of an individual on the cash receipts and disbursements method of accounting, a qualified prize option shall be disregarded in determining the taxable year for which any portion of the qualified prize is properly includible in gross income of the taxpayer.
+    (2) Qualified prize option; qualified prize
+       For purposes of this subsection–
+      (A) In general
+         The term ””qualified prize option““ means an option which–
+        (i) entitles an individual to receive a single cash payment in lieu of receiving a qualified prize (or remaining portion thereof), and
+        (ii) is exercisable not later than 60 days after such individual becomes entitled to the qualified prize.
+      (B) Qualified prize
+         The term ””qualified prize““ means any prize or award which–
+        (i) is awarded as a part of a contest, lottery, jackpot, game, or other similar arrangement,
+        (ii) does not relate to any past services performed by the recipient and does not require the recipient to perform any substantial future service, and
+        (iii) is payable over a period of at least 10 years.
+    (3) Partnership, etc.
+       The Secretary shall provide for the application of this subsection in the case of a partnership or other pass-through entity consisting entirely of individuals described in paragraph (1).
+      (i) Special rule for sales or dispositions to implement Federal Energy Regulatory Commission or State electric restructuring policy
+        (1) In general
+           In the case of any qualifying electric transmission transaction for which the taxpayer elects the application of this section, qualified gain from such transaction shall be recognized–
+          (A) in the taxable year which includes the date of such transaction to the extent the amount realized from such transaction exceeds–
+            (i) the cost of exempt utility property which is purchased by the taxpayer during the 4-year period beginning on such date, reduced (but not below zero) by
+            (ii) any portion of such cost previously taken into account under this subsection, and
+          (B) ratably over the 8-taxable year period beginning with the taxable year which includes the date of such transaction, in the case of any such gain not recognized under subparagraph (A).
+        (2) Qualified gain
+           For purposes of this subsection, the term ””qualified gain““ means, with respect to any qualifying electric transmission transaction in any taxable year–
+          (A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for such taxable year (determined without regard to this subsection), and
+          (B) any income derived from such transaction in excess of the amount described in subparagraph (A) which is required to be included in gross income for such taxable year (determined without regard to this subsection).
+        (3) Qualifying electric transmission transaction
+           For purposes of this subsection, the term ””qualifying electric transmission transaction““ means any sale or other disposition before January 1, 2008, of–
+          (A) property used in the trade or business of providing electric transmission services, or
+          (B) any stock or partnership interest in a corporation or partnership, as the case may be, whose principal trade or business consists of providing electric transmission services,
+           but only if such sale or disposition is to an independent transmission company.
+        (4) Independent transmission company
+           For purposes of this subsection, the term ””independent transmission company““ means–
+          (A) an independent transmission provider approved by the Federal Energy Regulatory Commission,
+          (B) a person–
+            (i) who the Federal Energy Regulatory Commission determines in its authorization of the transaction under section 203 of the Federal Power Act (16 U.S.C. 824b) or by declaratory order is not a market participant within the meaning of such Commission“s rules applicable to independent transmission providers, and
+            (ii) whose transmission facilities to which the election under this subsection applies are under the operational control of a Federal Energy Regulatory Commission-approved independent transmission provider before the close of the period specified in such authorization, but not later than December 31, 2007, or
+          (C) in the case of facilities subject to the jurisdiction of the Public Utility Commission of Texas–
+            (i) a person which is approved by that Commission as consistent with Texas State law regarding an independent transmission provider, or
+            (ii) a political subdivision or affiliate thereof whose transmission facilities are under the operational control of a person described in clause (i).
+        (5) Exempt utility property
+           For purposes of this subsection:
+          (A) In general
+             The term ””exempt utility property““ means property used in the trade or business of–
+            (i) generating, transmitting, distributing, or selling electricity, or
+            (ii) producing, transmitting, distributing, or selling natural gas.
+          (B) Nonrecognition of gain by reason of acquisition of stock
+             Acquisition of control of a corporation shall be taken into account under this subsection with respect to a qualifying electric transmission transaction only if the principal trade or business of such corporation is a trade or business referred to in subparagraph (A).
+        (6) Special rule for consolidated groups
+           In the case of a corporation which is a member of an affiliated group filing a consolidated return, any exempt utility property purchased by another member of such group shall be treated as purchased by such corporation for purposes of applying paragraph (1)(A).
+        (7) Time for assessment of deficiencies
+           If the taxpayer has made the election under paragraph (1) and any gain is recognized by such taxpayer as provided in paragraph (1)(B), then–
+          (A) the statutory period for the assessment of any deficiency, for any taxable year in which any part of the gain on the transaction is realized, attributable to such gain shall not expire prior to the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of the purchase of exempt utility property or of an intention not to purchase such property, and
+          (B) such deficiency may be assessed before the expiration of such 3-year period notwithstanding any law or rule of law which would otherwise prevent such assessment.
+        (8) Purchase
+           For purposes of this subsection, the taxpayer shall be considered to have purchased any property if the unadjusted basis of such property is its cost within the meaning of section 1012.
+        (9) Election
+           An election under paragraph (1) shall be made at such time and in such manner as the Secretary may require and, once made, shall be irrevocable.
+        (10) Nonapplication of installment sales treatment
+           Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.

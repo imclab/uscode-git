@@ -1,3 +1,122 @@
-   So far as may be practicable Indian labor shall be employed, and purchases of the products (including, but not limited to printing, notwithstanding any other law) of Indian industry may be made in open market in the discretion of the Secretary of the Interior. Participation in the Mentor-Protege Program established under section 831 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 2301 note) or receipt of assistance pursuant to any developmental assistance agreement authorized under such program shall not render Indian labor or Indian industry ineligible to receive any assistance authorized under this section. For the purposes of this section–
-  (1) no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f) of section 831 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 2301 note); and
-  (2) the terms ””protege firm““ and ””mentor firm““ have the meaning given such terms in subsection (c) of such section 831.
+  (a) General rule
+     For purposes of section 46, the rehabilitation credit for any taxable year is the sum of–
+    (1) 10 percent of the qualified rehabilitation expenditures with respect to any qualified rehabilitated building other than a certified historic structure, and
+    (2) 20 percent of the qualified rehabilitation expenditures with respect to any certified historic structure.
+  (b) When expenditures taken into account
+    (1) In general
+       Qualified rehabilitation expenditures with respect to any qualified rehabilitated building shall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service.
+    (2) Coordination with subsection (d)
+       The amount which would (but for this paragraph) be taken into account under paragraph (1) with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection (d) by the taxpayer or a predecessor of the taxpayer (or, in the case of a sale and leaseback described in section 50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section 50(a).
+  (c) Definitions
+     For purposes of this section–
+    (1) Qualified rehabilitated building
+      (A) In general
+         The term ””qualified rehabilitated building““ means any building (and its structural components) if–
+        (i) such building has been substantially rehabilitated,
+        (ii) such building was placed in service before the beginning of the rehabilitation,
+        (iii) in the case of any building other than a certified historic structure, in the rehabilitation process–
+          (I) 50 percent or more of the existing external walls of such building are retained in place as external walls,
+          (II) 75 percent or more of the existing external walls of such building are retained in place as internal or external walls, and
+          (III) 75 percent or more of the existing internal structural framework of such building is retained in place, and
+        (iv) depreciation (or amortization in lieu of depreciation) is allowable with respect to such building.
+      (B) Building must be first placed in service before 1936
+         In the case of a building other than a certified historic structure, a building shall not be a qualified rehabilitated building unless the building was first placed in service before 1936.
+      (C) Substantially rehabilitated defined
+        (i) In general
+           For purposes of subparagraph (A)(i), a building shall be treated as having been substantially rehabilitated only if the qualified rehabilitation expenditures during the 24-month period selected by the taxpayer (at the time and in the manner prescribed by regulation) and ending with or within the taxable year exceed the greater of–
+          (I) the adjusted basis of such building (and its structural components), or
+          (II) $5,000.
+              The adjusted basis of the building (and its structural components) shall be determined as of the beginning of the 1st day of such 24-month period, or of the holding period of the building, whichever is later. For purposes of the preceding sentence, the determination of the beginning of the holding period shall be made without regard to any reconstruction by the taxpayer in connection with the rehabilitation.
+        (ii) Special rule for phased rehabilitation
+           In the case of any rehabilitation which may reasonably be expected to be completed in phases set forth in architectural plans and specifications completed before the rehabilitation begins, clause (i) shall be applied by substituting ””60-month period““ for ””24-month period““.
+        (iii) Lessees
+           The Secretary shall prescribe by regulation rules for applying this subparagraph to lessees.
+      (D) Reconstruction
+         Rehabilitation includes reconstruction.
+    (2) Qualified rehabilitation expenditure defined
+      (A) In general
+         The term ””qualified rehabilitation expenditure““ means any amount properly chargeable to capital account–
+        (i) for property for which depreciation is allowable under section 168 and which is–
+          (I) nonresidential real property,
+          (II) residential rental property,
+          (III) real property which has a class life of more than 12.5 years, or
+          (IV) an addition or improvement to property described in subclause (I), (II), or (III), and
+        (ii) in connection with the rehabilitation of a qualified rehabilitated building.
+      (B) Certain expenditures not included
+         The term ””qualified rehabilitation expenditure““ does not include–
+        (i) Straight line depreciation must be used
+           Any expenditure with respect to which the taxpayer does not use the straight line method over a recovery period determined under subsection (c) or (g) of section 168. The preceding sentence shall not apply to any expenditure to the extent the alternative depreciation system of section 168(g) applies to such expenditure by reason of subparagraph (B) or (C) of section 168(g)(1).
+        (ii) Cost of acquisition
+           The cost of acquiring any building or interest therein.
+        (iii) Enlargements
+           Any expenditure attributable to the enlargement of an existing building.
+        (iv) Certified historic structure, etc.
+           Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historic district, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if–
+          (I) such building was not a certified historic structure,
+          (II) the Secretary of the Interior certified to the Secretary that such building is not of historic significance to the district, and
+          (III) if the certification referred to in subclause (II) occurs after the beginning of the rehabilitation of such building, the taxpayer certifies to the Secretary that, at the beginning of such rehabilitation, he in good faith was not aware of the requirements of subclause (II).
+        (v) Tax-exempt use property
+          (I) In general
+             Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h)).
+          (II) Clause not to apply for purposes of paragraph (1)(C)
+             This clause shall not apply for purposes of determining under paragraph (1)(C) whether a building has been substantially rehabilitated.
+        (vi) Expenditures of lessee
+           Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease (determined without regard to any renewal periods) is less than the recovery period determined under section 168(c).
+      (C) Certified rehabilitation
+         For purposes of subparagraph (B), the term ””certified rehabilitation““ means any rehabilitation of a certified historic structure which the Secretary of the Interior has certified to the Secretary as being consistent with the historic character of such property or the district in which such property is located.
+      (D) Nonresidential real property; residential rental property; class life
+         For purposes of subparagraph (A), the terms ””nonresidential real property,““ ””residential rental property,““ and ””class life““ have the respective meanings given such terms by section 168.
+    (3) Certified historic structure defined
+      (A) In general
+         The term ””certified historic structure““ means any building (and its structural components) which–
+        (i) is listed in the National Register, or
+        (ii) is located in a registered historic district and is certified by the Secretary of the Interior to the Secretary as being of historic significance to the district.
+      (B) Registered historic district
+         The term ””registered historic district““ means–
+        (i) any district listed in the National Register, and
+        (ii) any district–
+          (I) which is designated under a statute of the appropriate State or local government, if such statute is certified by the Secretary of the Interior to the Secretary as containing criteria which will substantially achieve the purpose of preserving and rehabilitating buildings of historic significance to the district, and
+          (II) which is certified by the Secretary of the Interior to the Secretary as meeting substantially all of the requirements for the listing of districts in the National Register.
+  (d) Progress expenditures
+    (1) In general
+       In the case of any building to which this subsection applies, except as provided in paragraph (3)–
+      (A) if such building is self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year for which such expenditure is properly chargeable to capital account with respect to such building, and
+      (B) if such building is not self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year in which paid.
+    (2) Property to which subsection applies
+      (A) In general
+         This subsection shall apply to any building which is being rehabilitated by or for the taxpayer if–
+        (i) the normal rehabilitation period for such building is 2 years or more, and
+        (ii) it is reasonable to expect that such building will be a qualified rehabilitated building in the hands of the taxpayer when it is placed in service.
+         Clauses (i) and (ii) shall be applied on the basis of facts known as of the close of the taxable year of the taxpayer in which the rehabilitation begins (or, if later, at the close of the first taxable year to which an election under this subsection applies).
+      (B) Normal rehabilitation period
+         For purposes of subparagraph (A), the term ””normal rehabilitation period““ means the period reasonably expected to be required for the rehabilitation of the building–
+        (i) beginning with the date on which physical work on the rehabilitation begins (or, if later, the first day of the first taxable year to which an election under this subsection applies), and
+        (ii) ending on the date on which it is expected that the property will be available for placing in service.
+    (3) Special rules for applying paragraph (1)
+       For purposes of paragraph (1)–
+      (A) Component parts, etc.
+         Property which is to be a component part of, or is otherwise to be included in, any building to which this subsection applies shall be taken into account–
+        (i) at a time not earlier than the time at which it becomes irrevocably devoted to use in the building, and
+        (ii) as if (at the time referred to in clause (i)) the taxpayer had expended an amount equal to that portion of the cost to the taxpayer of such component or other property which, for purposes of this subpart, is properly chargeable (during such taxable year) to capital account with respect to such building.
+      (B) Certain borrowing disregarded
+         Any amount borrowed directly or indirectly by the taxpayer from the person rehabilitating the property for him shall not be treated as an amount expended for such rehabilitation.
+      (C) Limitation for buildings which are not self-rehabilitated
+        (i) In general
+           In the case of a building which is not self-rehabilitated, the amount taken into account under paragraph (1)(B) for any taxable year shall not exceed the amount which represents the portion of the overall cost to the taxpayer of the rehabilitation which is properly attributable to the portion of the rehabilitation which is completed during such taxable year.
+        (ii) Carryover of certain amounts
+           In the case of a building which is not a self-rehabilitated building, if for the taxable year–
+          (I) the amount which (but for clause (i)) would have been taken into account under paragraph (1)(B) exceeds the limitation of clause (i), then the amount of such excess shall be taken into account under paragraph (1)(B) for the succeeding taxable year, or
+          (II) the limitation of clause (i) exceeds the amount taken into account under paragraph (1)(B), then the amount of such excess shall increase the limitation of clause (i) for the succeeding taxable year.
+      (D) Determination of percentage of completion
+         The determination under subparagraph (C)(i) of the portion of the overall cost to the taxpayer of the rehabilitation which is properly attributable to rehabilitation completed during any taxable year shall be made, under regulations prescribed by the Secretary, on the basis of engineering or architectural estimates or on the basis of cost accounting records. Unless the taxpayer establishes otherwise by clear and convincing evidence, the rehabilitation shall be deemed to be completed not more rapidly than ratably over the normal rehabilitation period.
+      (E) No progress expenditures for certain prior periods
+         No qualified rehabilitation expenditures shall be taken into account under this subsection for any period before the first day of the first taxable year to which an election under this subsection applies.
+      (F) No progress expenditures for property for year it is placed in service, etc.
+         In the case of any building, no qualified rehabilitation expenditures shall be taken into account under this subsection for the earlier of–
+        (i) the taxable year in which the building is placed in service, or
+        (ii) the first taxable year for which recapture is required under section 50(a)(2) with respect to such property,
+       or for any taxable year thereafter.
+    (4) Self-rehabilitated building
+       For purposes of this subsection, the term ””self-rehabilitated building““ means any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
+    (5) Election
+       This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.

@@ -1,1 +1,42 @@
-   Lands allotted in severalty to Indians may be condemned for any public purpose under the laws of the State or Territory where located in the same manner as land owned in fee may be condemned, and the money awarded as damages shall be paid to the allottee.
+  (a) General rule
+     Except as provided in subsections (b) and (c), if–
+    (1) the taxpayer receives property which would be permitted to be received under section 351 or 361 without the recognition of gain if it were the sole consideration, and
+    (2) as part of the consideration, another party to the exchange assumes a liability of the taxpayer,
+       then such assumption shall not be treated as money or other property, and shall not prevent the exchange from being within the provisions of section 351 or 361, as the case may be.
+  (b) Tax avoidance purpose
+    (1) In general
+       If, taking into consideration the nature of the liability and the circumstances in the light of which the arrangement for the assumption was made, it appears that the principal purpose of the taxpayer with respect to the assumption described in subsection (a)–
+      (A) was a purpose to avoid Federal income tax on the exchange, or
+      (B) if not such purpose, was not a bona fide business purpose,
+       then such assumption (in the total amount of the liability assumed pursuant to such exchange) shall, for purposes of section 351 or 361 (as the case may be), be considered as money received by the taxpayer on the exchange.
+    (2) Burden of proof
+       In any suit or proceeding where the burden is on the taxpayer to prove such assumption is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
+  (c) Liabilities in excess of basis
+    (1) In general
+       In the case of an exchange–
+      (A) to which section 351 applies, or
+      (B) to which section 361 applies by reason of a plan of reorganization within the meaning of section 368(a)(1)(D) with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355,
+       if the sum of the amount of the liabilities assumed exceeds the total of the adjusted basis of the property transferred pursuant to such exchange, then such excess shall be considered as a gain from the sale or exchange of a capital asset or of property which is not a capital asset, as the case may be.
+    (2) Exceptions
+       Paragraph (1) shall not apply to any exchange–
+      (A) to which subsection (b)(1) of this section applies, or
+      (B) which is pursuant to a plan of reorganization within the meaning of section 368(a)(1)(G) where no former shareholder of the transferor corporation receives any consideration for his stock.
+    (3) Certain liabilities excluded
+      (A) In general
+         If a taxpayer transfers, in an exchange to which section 351 applies, a liability the payment of which either–
+        (i) would give rise to a deduction, or
+        (ii) would be described in section 736(a),
+         then, for purposes of paragraph (1), the amount of such liability shall be excluded in determining the amount of liabilities assumed.
+      (B) Exception
+         Subparagraph (A) shall not apply to any liability to the extent that the incurrence of the liability resulted in the creation of, or an increase in, the basis of any property.
+  (d) Determination of amount of liability assumed
+    (1) In general
+       For purposes of this section, section 358(d), section 358(h), section 361(b)(3), section 362(d), section 368(a)(1)(C), and section 368(a)(2)(B), except as provided in regulations–
+      (A) a recourse liability (or portion thereof) shall be treated as having been assumed if, as determined on the basis of all facts and circumstances, the transferee has agreed to, and is expected to, satisfy such liability (or portion), whether or not the transferor has been relieved of such liability; and
+      (B) except to the extent provided in paragraph (2), a nonrecourse liability shall be treated as having been assumed by the transferee of any asset subject to such liability.
+    (2) Exception for nonrecourse liability
+       The amount of the nonrecourse liability treated as described in paragraph (1)(B) shall be reduced by the lesser of–
+      (A) the amount of such liability which an owner of other assets not transferred to the transferee and also subject to such liability has agreed with the transferee to, and is expected to, satisfy; or
+      (B) the fair market value of such other assets (determined without regard to section 7701(g)).
+    (3) Regulations
+       The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and section 362(d). The Secretary may also prescribe regulations which provide that the manner in which a liability is treated as assumed under this subsection is applied, where appropriate, elsewhere in this title.

@@ -1,0 +1,45 @@
+  (a) General rule
+     Returns with respect to income taxes under subtitle A shall be made by the following:
+    (1)      (A) Every individual having for the taxable year gross income which equals or exceeds the exemption amount, except that a return shall not be required of an individual–
+        (i) who is not married (determined by applying section 7703), is not a surviving spouse (as defined in section 2(a)), is not a head of a household (as defined in section 2(b)), and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
+        (ii) who is a head of a household (as so defined) and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
+        (iii) who is a surviving spouse (as so defined) and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual, or
+        (iv) who is entitled to make a joint return and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the basic standard deduction applicable to a joint return, but only if such individual and his spouse, at the close of the taxable year, had the same household as their home.
+       Clause (iv) shall not apply if for the taxable year such spouse makes a separate return or any other taxpayer is entitled to an exemption for such spouse under section 151(c).
+      (B) The amount specified in clause (i), (ii), or (iii) of subparagraph (A) shall be increased by the amount of 1 additional standard deduction (within the meaning of section 63(c)(3)) in the case of an individual entitled to such deduction by reason of section 63(f)(1)(A) (relating to individuals age 65 or more), and the amount specified in clause (iv) of subparagraph (A) shall be increased by the amount of the additional standard deduction for each additional standard deduction to which the individual or his spouse is entitled by reason of section 63(f)(1).
+      (C) The exception under subparagraph (A) shall not apply to any individual–
+        (i) who is described in section 63(c)(5) and who has–
+          (I) income (other than earned income) in excess of the sum of the amount in effect under section 63(c)(5)(A) plus the additional standard deduction (if any) to which the individual is entitled, or
+          (II) total gross income in excess of the standard deduction, or
+        (ii) for whom the standard deduction is zero under section 63(c)(6).
+      (D) For purposes of this subsection–
+        (i) The terms ””standard deduction““, ””basic standard deduction““ and ””additional standard deduction““ have the respective meanings given such terms by section 63(c).
+        (ii) The term ””exemption amount““ has the meaning given such term by section 151(d). In the case of an individual described in section 151(d)(2), the exemption amount shall be zero.
+    (2) Every corporation subject to taxation under subtitle A;
+    (3) Every estate the gross income of which for the taxable year is $600 or more;
+    (4) Every trust having for the taxable year any taxable income, or having gross income of $600 or over, regardless of the amount of taxable income;
+    (5) Every estate or trust of which any beneficiary is a nonresident alien;
+    (6) Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year; and \1\N
+    (7) Every homeowners association (within the meaning of section 528(c)(1)) which has homeowners association taxable income (within the meaning of section 528(d)) for the taxable year.\1\
+    (8) Every individual who receives payments during the calendar year in which the taxable year begins under section 3507 (relating to advance payment of earned income credit).\1\
+    (9) Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D).\1\G2T1, G1T1\2\N
+       except that subject to such conditions, limitations, and exceptions and under such regulations as may be prescribed by the Secretary, nonresident alien individuals subject to the tax imposed by section 871 and foreign corporations subject to the tax imposed by section 881 may be exempted from the requirement of making returns under this section.
+  (b) Returns made by fiduciaries and receivers
+    (1) Returns of decedents
+       If an individual is deceased, the return of such individual required under subsection (a) shall be made by his executor, administrator, or other person charged with the property of such decedent.
+    (2) Persons under a disability
+       If an individual is unable to make a return required under subsection (a), the return of such individual shall be made by a duly authorized agent, his committee, guardian, fiduciary or other person charged with the care of the person or property of such individual. The preceding sentence shall not apply in the case of a receiver appointed by authority of law in possession of only a part of the property of an individual.
+    (3) Receivers, trustees and assignees for corporations
+       In a case where a receiver, trustee in a case under title 11 of the United States Code, or assignee, by order of a court of competent jurisdiction, by operation of law or otherwise, has possession of or holds title to all or substantially all the property or business of a corporation, whether or not such property or business is being operated, such receiver, trustee, or assignee shall make the return of income for such corporation in the same manner and form as corporations are required to make such returns.
+    (4) Returns of estates and trusts
+       Returns of an estate, a trust, or an estate of an individual under chapter 7 or 11 of title 11 of the United States Code shall be made by the fiduciary thereof.
+    (5) Joint fiduciaries
+       Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
+    (6) IRA share of partnership income
+       In the case of a trust which is exempt from taxation under section 408(e), for purposes of this section, the trust“s distributive share of items of gross income and gain of any partnership to which subchapter C or D of chapter 63 applies shall be treated as equal to the trust“s distributive share of the taxable income of such partnership.
+  (c) Certain income earned abroad or from sale of residence
+     For purposes of this section, gross income shall be computed without regard to the exclusion provided for in section 121 (relating to gain from sale of principal residence) and without regard to the exclusion provided for in section 911 (relating to citizens or residents of the United States living abroad).
+  (d) Tax-exempt interest required to be shown on return
+     Every person required to file a return under this section for the taxable year shall include on such return the amount of interest received or accrued during the taxable year which is exempt from the tax imposed by chapter 1.
+  (e) Consolidated returns
+     T2For provisions relating to consolidated returns by affiliated corporations, see chapter 6.

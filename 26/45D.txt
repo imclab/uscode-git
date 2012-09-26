@@ -1,0 +1,47 @@
+  (a) General rule
+     For purposes of section 38, the credit determined under this section for the taxable year is an amount equal to 50 percent of the qualified clinical testing expenses for the taxable year.
+  (b) Qualified clinical testing expenses
+     For purposes of this section–
+    (1) Qualified clinical testing expenses
+      (A) In general
+         Except as otherwise provided in this paragraph, the term ””qualified clinical testing expenses““ means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection (b) of section 41 if such subsection were applied with the modifications set forth in subparagraph (B).
+      (B) Modifications
+         For purposes of subparagraph (A), subsection (b) of section 41 shall be applied–
+        (i) by substituting ””clinical testing““ for ””qualified research““ each place it appears in paragraphs (2) and (3) of such subsection, and
+        (ii) by substituting ””100 percent““ for ””65 percent““ in paragraph (3)(A) of such subsection.
+      (C) Exclusion for amounts funded by grants, etc.
+         The term ””qualified clinical testing expenses““ shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
+      (D) Special rule
+         For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2005.
+    (2) Clinical testing
+      (A) In general
+         The term ””clinical testing““ means any human clinical testing–
+        (i) which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),
+        (ii) which occurs–
+          (I) after the date such drug is designated under section 526 of such Act, and
+          (II) before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act; \1\N and
+        (iii) which is conducted by or on behalf of the taxpayer to whom the designation under such section 526 applies.
+      (B) Testing must be related to use for rare disease or condition
+         Human clinical testing shall be taken into account under subparagraph (A) only to the extent such testing is related to the use of a drug for the rare disease or condition for which it was designated under section 526 of the Federal Food, Drug, and Cosmetic Act.
+  (c) Coordination with credit for increasing research expenditures
+    (1) In general
+       Except as provided in paragraph (2), any qualified clinical testing expenses for a taxable year to which an election under this section applies shall not be taken into account for purposes of determining the credit allowable under section 41 for such taxable year.
+    (2) Expenses included in determining base period research expenses
+       Any qualified clinical testing expenses for any taxable year which are qualified research expenses (within the meaning of section 41(b)) shall be taken into account in determining base period research expenses for purposes of applying section 41 to subsequent taxable years.
+  (d) Definition and special rules
+    (1) Rare disease or condition
+       For purposes of this section, the term ””rare disease or condition““ means any disease or condition which–
+      (A) affects less than 200,000 persons in the United States, or
+      (B) affects more than 200,000 persons in the United States but for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug.
+       Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section 526 of the Federal Food, Drug, and Cosmetic Act.
+    (2) Special limitations on foreign testing
+      (A) In general
+         No credit shall be allowed under this section with respect to any clinical testing conducted outside the United States unless–
+        (i) such testing is conducted outside the United States because there is an insufficient testing population in the United States, and
+        (ii) such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
+      (B) Special limitation for corporations to which section 936 applies
+         No credit shall be allowed under this section with respect to any clinical testing conducted by a corporation to which an election under section 936 applies.
+    (3) Certain rules made applicable
+       Rules similar to the rules of paragraphs (1) and (2) of section 41(f) shall apply for purposes of this section.
+    (4) Election
+       This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.

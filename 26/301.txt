@@ -1,0 +1,41 @@
+  (a) In general
+     Except as otherwise provided in this chapter, a distribution of property (as defined in section 317(a)) made by a corporation to a shareholder with respect to its stock shall be treated in the manner provided in subsection (c).
+  (b) Amount distributed
+    (1) General rule
+       For purposes of this section, the amount of any distribution shall be the amount of money received, plus the fair market value of the other property received.
+    (2) Reduction for liabilities
+       The amount of any distribution determined under paragraph (1) shall be reduced (but not below zero) by–
+      (A) the amount of any liability of the corporation assumed by the shareholder in connection with the distribution, and
+      (B) the amount of any liability to which the property received by the shareholder is subject immediately before, and immediately after, the distribution.
+    (3) Determination of fair market value
+       For purposes of this section, fair market value shall be determined as of the date of the distribution.
+  (c) Amount taxable
+     In the case of a distribution to which subsection (a) applies–
+    (1) Amount constituting dividend
+       That portion of the distribution which is a dividend (as defined in section 316) shall be included in gross income.
+    (2) Amount applied against basis
+       That portion of the distribution which is not a dividend shall be applied against and reduce the adjusted basis of the stock.
+    (3) Amount in excess of basis
+      (A) In general
+         Except as provided in subparagraph (B), that portion of the distribution which is not a dividend, to the extent that it exceeds the adjusted basis of the stock, shall be treated as gain from the sale or exchange of property.
+      (B) Distributions out of increase in value accrued before March 1, 1913
+         That portion of the distribution which is not a dividend, to the extent that it exceeds the adjusted basis of the stock and to the extent that it is out of increase in value accrued before March 1, 1913, shall be exempt from tax.
+  (d) Basis
+     The basis of property received in a distribution to which subsection (a) applies shall be the fair market value of such property.
+  (e) Special rule for certain distributions received by 20 percent corporate shareholder
+    (1) In general
+       Except to the extent otherwise provided in regulations, solely for purposes of determining the taxable income of any 20 percent corporate shareholder (and its adjusted basis in the stock of the distributing corporation), section 312 shall be applied with respect to the distributing corporation as if it did not contain subsections (k) and (n) thereof.
+    (2) 20 percent corporate shareholder
+       For purposes of this subsection, the term ””20 percent corporate shareholder““ means, with respect to any distribution, any corporation which owns (directly or through the application of section 318)–
+      (A) stock in the corporation making the distribution possessing at least 20 percent of the total combined voting power of all classes of stock entitled to vote, or
+      (B) at least 20 percent of the total value of all stock of the distributing corporation (except nonvoting stock which is limited and preferred as to dividends),
+       but only if, but for this subsection, the distributee corporation would be entitled to a deduction under section 243, 244, or 245 with respect to such distribution.
+    (3) Application of section 312(n)(7) not affected
+       The reference in paragraph (1) to subsection (n) of section 312 shall be treated as not including a reference to paragraph (7) of such subsection.
+    (4) Regulations
+       The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
+  (f) Special rules
+     T2(1) For distributions in redemption of stock, see section 302.
+     T2(2) For distributions in complete liquidation, see part II (sec. 331 and following).
+     T2(3) For distributions in corporate organizations and reorganizations, see part III (sec. 351 and following).
+     T2(4) For taxation of dividends received by individuals at capital gain rates, see section 1(h)(11).

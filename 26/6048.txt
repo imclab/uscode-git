@@ -1,0 +1,65 @@
+  (a) Notice of certain events
+    (1) General rule
+       On or before the 90th day (or such later day as the Secretary may prescribe) after any reportable event, the responsible party shall provide written notice of such event to the Secretary in accordance with paragraph (2).
+    (2) Contents of notice
+       The notice required by paragraph (1) shall contain such information as the Secretary may prescribe, including–
+      (A) the amount of money or other property (if any) transferred to the trust in connection with the reportable event, and
+      (B) the identity of the trust and of each trustee and beneficiary (or class of beneficiaries) of the trust.
+    (3) Reportable event
+       For purposes of this subsection–
+      (A) In general
+         The term ””reportable event““ means–
+        (i) the creation of any foreign trust by a United States person,
+        (ii) the transfer of any money or property (directly or indirectly) to a foreign trust by a United States person, including a transfer by reason of death, and
+        (iii) the death of a citizen or resident of the United States if–
+          (I) the decedent was treated as the owner of any portion of a foreign trust under the rules of subpart E of part I of subchapter J of chapter 1, or
+          (II) any portion of a foreign trust was included in the gross estate of the decedent.
+      (B) Exceptions
+        (i) Fair market value sales
+           Subparagraph (A)(ii) shall not apply to any transfer of property to a trust in exchange for consideration of at least the fair market value of the transferred property. For purposes of the preceding sentence, consideration other than cash shall be taken into account at its fair market value and the rules of section 679(a)(3) shall apply.
+        (ii) Deferred compensation and charitable trusts
+           Subparagraph (A) shall not apply with respect to a trust which is–
+          (I) described in section 402(b), 404(a)(4), or 404A, or
+          (II) determined by the Secretary to be described in section 501(c)(3).
+    (4) Responsible party
+       For purposes of this subsection, the term ””responsible party““ means–
+      (A) the grantor in the case of the creation of an inter vivos trust,
+      (B) the transferor in the case of a reportable event described in paragraph (3)(A)(ii) other than a transfer by reason of death, and
+      (C) the executor of the decedent“s estate in any other case.
+  (b) United States owner of foreign trust
+    (1) In general
+       If, at any time during any taxable year of a United States person, such person is treated as the owner of any portion of a foreign trust under the rules of subpart E of part I of subchapter J of chapter 1, such person shall be responsible to ensure that–
+      (A) such trust makes a return for such year which sets forth a full and complete accounting of all trust activities and operations for the year, the name of the United States agent for such trust, and such other information as the Secretary may prescribe, and
+      (B) such trust furnishes such information as the Secretary may prescribe to each United States person (i) who is treated as the owner of any portion of such trust or (ii) who receives (directly or indirectly) any distribution from the trust.
+    (2) Trusts not having United States agent
+      (A) In general
+         If the rules of this paragraph apply to any foreign trust, the determination of amounts required to be taken into account with respect to such trust by a United States person under the rules of subpart E of part I of subchapter J of chapter 1 shall be determined by the Secretary.
+      (B) United States agent required
+         The rules of this paragraph shall apply to any foreign trust to which paragraph (1) applies unless such trust agrees (in such manner, subject to such conditions, and at such time as the Secretary shall prescribe) to authorize a United States person to act as such trust“s limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to–
+        (i) any request by the Secretary to examine records or produce testimony related to the proper treatment of amounts required to be taken into account under the rules referred to in subparagraph (A), or
+        (ii) any summons by the Secretary for such records or testimony.
+         The appearance of persons or production of records by reason of a United States person being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of the amounts required to be taken into account under the rules referred to in subparagraph (A). A foreign trust which appoints an agent described in this subparagraph shall not be considered to have an office or a permanent establishment in the United States, or to be engaged in a trade or business in the United States, solely because of the activities of such agent pursuant to this subsection.
+      (C) Other rules to apply
+         Rules similar to the rules of paragraphs (2) and (4) of section 6038A(e) shall apply for purposes of this paragraph.
+  (c) Reporting by United States beneficiaries of foreign trusts
+    (1) In general
+       If any United States person receives (directly or indirectly) during any taxable year of such person any distribution from a foreign trust, such person shall make a return with respect to such trust for such year which includes–
+      (A) the name of such trust,
+      (B) the aggregate amount of the distributions so received from such trust during such taxable year, and
+      (C) such other information as the Secretary may prescribe.
+    (2) Inclusion in income if records not provided
+      (A) In general
+         If adequate records are not provided to the Secretary to determine the proper treatment of any distribution from a foreign trust, such distribution shall be treated as an accumulation distribution includible in the gross income of the distributee under chapter 1. To the extent provided in regulations, the preceding sentence shall not apply if the foreign trust elects to be subject to rules similar to the rules of subsection (b)(2)(B).
+      (B) Application of accumulation distribution rules
+         For purposes of applying section 668 in a case to which subparagraph (A) applies, the applicable number of years for purposes of section 668(a) shall be \1/2\ of the number of years the trust has been in existence.
+  (d) Special rules
+    (1) Determination of whether United States person makes transfer or receives distribution
+       For purposes of this section, in determining whether a United States person makes a transfer to, or receives a distribution from, a foreign trust, the fact that a portion of such trust is treated as owned by another person under the rules of subpart E of part I of subchapter J of chapter 1 shall be disregarded.
+    (2) Domestic trusts with foreign activities
+       To the extent provided in regulations, a trust which is a United States person shall be treated as a foreign trust for purposes of this section and section 6677 if such trust has substantial activities, or holds substantial property, outside the United States.
+    (3) Time and manner of filing information
+       Any notice or return required under this section shall be made at such time and in such manner as the Secretary shall prescribe.
+    (4) Modification of return requirements
+       The Secretary is authorized to suspend or modify any requirement of this section if the Secretary determines that the United States has no significant tax interest in obtaining the required information.
+    (5) United States person“s return must be consistent with trust return or Secretary notified of inconsistency
+       Rules similar to the rules of section 6034A(c) shall apply to items reported by a trust under subsection (b)(1)(B) and to United States persons referred to in such subsection.

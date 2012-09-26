@@ -1,0 +1,62 @@
+  (a) General rule
+     Except as otherwise provided in this section, every employer making payment of wages to an employee with respect to whom an earned income eligibility certificate is in effect shall, at the time of paying such wages, make an additional payment to such employee equal to such employee“s earned income advance amount.
+  (b) Earned income eligibility certificate
+     For purposes of this title, an earned income eligibility certificate is a statement furnished by an employee to the employer which–
+    (1) certifies that the employee will be eligible to receive the credit provided by section 32 for the taxable year,
+    (2) certifies that the employee has 1 or more qualifying children (within the meaning of section 32(c)(3)) for such taxable year,
+    (3) certifies that the employee does not have an earned income eligibility certificate in effect for the calendar year with respect to the payment of wages by another employer, and
+    (4) states whether or not the employee“s spouse has an earned income eligibility certificate in effect.
+       For purposes of this section, a certificate shall be treated as being in effect with respect to a spouse if such a certificate will be in effect on the first status determination date following the date on which the employee furnishes the statement in question.
+  (c) Earned income advance amount
+    (1) In general
+       For purposes of this title, the term ””earned income advance amount““ means, with respect to any payroll period, the amount determined–
+      (A) on the basis of the employee“s wages from the employer for such period, and
+      (B) in accordance with tables prescribed by the Secretary.
+       In the case of an employee who is a member of the Armed Forces of the United States, the earned income advance amount shall be determined by taking into account such employee“s earned income as determined for purposes of section 32.
+    (2) Advance amount tables
+       The tables referred to in paragraph (1)(B)–
+      (A) shall be similar in form to the tables prescribed under section 3402 and, to the maximum extent feasible, shall be coordinated with such tables, and
+      (B) if the employee is not married, or if no earned income eligibility certificate is in effect with respect to the spouse of the employee, shall treat the credit provided by section 32 as if it were a credit–
+        (i) of not more than 60 percent of the credit percentage in effect under section 32(b)(1) for an eligible individual with 1 qualifying child and with earned income not in excess of the earned income amount in effect under section 32(b)(2) for such an eligible individual, which
+        (ii) phases out at 60 percent of the phaseout percentage in effect under section 32(b)(1) for such an eligible individual between the phaseout amount in effect under section 32(b)(2) for such an eligible individual and the amount of earned income at which the credit under section 32(a) phases out for such an eligible individual, or
+      (C) if an earned income eligibility certificate is in effect with respect to the spouse of the employee, shall treat the credit as if it were a credit determined under subparagraph (B) by substituting \1/2\ of the amounts of earned income described in such subparagraph for such amounts.
+  (d) Payments to be treated as payments of withholding and FICA taxes
+    (1) In general
+       For purposes of this title, payments made by an employer under subsection (a) to his employees for any payroll period–
+      (A) shall not be treated as the payment of compensation, and
+      (B) shall be treated as made out of–
+        (i) amounts required to be deducted and withheld for the payroll period under section 3401 (relating to wage withholding), and
+        (ii) amounts required to be deducted for the payroll period under section 3102 (relating to FICA employee taxes), and
+        (iii) amounts of the taxes imposed for the payroll period under section 3111 (relating to FICA employer taxes),
+       as if the employer had paid to the Secretary, on the day on which the wages are paid to the employees, an amount equal to such payments.
+    (2) Advance payments exceed taxes due
+       In the case of any employer, if for any payroll period the aggregate amount of earned income advance payments exceeds the sum of the amounts referred to in paragraph (1)(B), each such advance payment shall be reduced by an amount which bears the same ratio to such excess as such advance payment bears to the aggregate amount of all such advance payments.
+    (3) Employer may make full advance payments
+       The Secretary shall prescribe regulations under which an employer may elect (in lieu of any application of paragraph (2))–
+      (A) to pay in full all earned income advance amounts, and
+      (B) to have additional amounts paid by reason of this paragraph treated as the advance payment of taxes imposed by this title.
+    (4) Failure to make advance payments
+       For purposes of this title (including penalties), failure to make any advance payment under this section at the time provided therefor shall be treated as the failure at such time to deduct and withhold under chapter 24 an amount equal to the amount of such advance payment.
+  (e) Furnishing and taking effect of certificates
+     For purposes of this section–
+    (1) When certificate takes effect
+      (A) First certificate furnished
+         An earned income eligibility certificate furnished the employer in cases in which no previous such certificate had been in effect for the calendar year shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished (or if later, the first day of the calendar year for which furnished).
+      (B) Later certificate
+         An earned income eligibility certificate furnished the employer in cases in which a previous such certificate had been in effect for the calendar year shall take effect with respect to the first payment of wages made on or after the first status determination date which occurs at least 30 days after the date on which such certificate is so furnished, except that at the election of the employer such certificate may be made effective with respect to any payment of wages made on or after the date on which such certificate is so furnished. For purposes of this section, the term ””status determination date““ means January 1, May 1, July 1, and October 1 of each year.
+    (2) Period during which certificate remains in effect
+       An earned income eligibility certificate which takes effect under this section for any calendar year shall continue in effect with respect to the employee during such calendar year until revoked by the employee or until another such certificate takes effect under this section.
+    (3) Change of status
+      (A) Requirement to revoke or furnish new certificate
+         If, after an employee has furnished an earned income eligibility certificate under this section, there has been a change of circumstances which has the effect of–
+        (i) making the employee ineligible for the credit provided by section 32 for the taxable year, or
+        (ii) causing an earned income eligibility certificate to be in effect with respect to the spouse of the employee,
+         the employee shall, within 10 days after such change in circumstances, furnish the employer with a revocation of such certificate or with a new certificate (as the case may be). Such a revocation (or such a new certificate) shall take effect under the rules provided by paragraph (1)(B) for a later certificate and shall be made in such form as the Secretary shall by regulations prescribe.
+      (B) Certificate no longer in effect
+         If, after an employee has furnished an earned income eligibility certificate under this section which certifies that such a certificate is in effect with respect to the spouse of the employee, such a certificate is no longer in effect with respect to such spouse, then the employee may furnish the employer with a new earned income eligibility certificate.
+    (4) Form and contents of certificate
+       Earned income eligibility certificates shall be in such form and contain such other information as the Secretary may by regulations prescribe.
+    (5) Taxable year defined
+       The term ””taxable year““ means the last taxable year of the employee under subtitle A beginning in the calendar year in which the wages are paid.
+  (f) Internal Revenue Service notification
+     The Internal Revenue Service shall take such steps as may be appropriate to ensure that taxpayers who have 1 or more qualifying children and who receive a refund of the credit under section 32 are aware of the availability of earned income advance amounts under this section.

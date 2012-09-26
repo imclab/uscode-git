@@ -1,0 +1,60 @@
+  (a) Affiliated group defined
+     For purposes of this subtitle–
+    (1) In general
+       The term ””affiliated group““ means–
+      (A) 1 or more chains of includible corporations connected through stock ownership with a common parent corporation which is an includible corporation, but only if–
+      (B)        (i) the common parent owns directly stock meeting the requirements of paragraph (2) in at least 1 of the other includible corporations, and
+        (ii) stock meeting the requirements of paragraph (2) in each of the includible corporations (except the common parent) is owned directly by 1 or more of the other includible corporations.
+    (2) 80-percent voting and value test
+       The ownership of stock of any corporation meets the requirements of this paragraph if it–
+      (A) possesses at least 80 percent of the total voting power of the stock of such corporation, and
+      (B) has a value equal to at least 80 percent of the total value of the stock of such corporation.
+    (3) 5 years must elapse before reconsolidation
+      (A) In general
+         If–
+        (i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group for a taxable year which includes any period after December 31, 1984, and
+        (ii) such corporation ceases to be a member of such group in a taxable year beginning after December 31, 1984,
+         with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group with the same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
+      (B) Secretary may waive application of subparagraph (A)
+         The Secretary may waive the application of subparagraph (A) to any corporation for any period subject to such conditions as the Secretary may prescribe.
+    (4) Stock not to include certain preferred stock
+       For purposes of this subsection, the term ””stock““ does not include any stock which–
+      (A) is not entitled to vote,
+      (B) is limited and preferred as to dividends and does not participate in corporate growth to any significant extent,
+      (C) has redemption and liquidation rights which do not exceed the issue price of such stock (except for a reasonable redemption or liquidation premium), and
+      (D) is not convertible into another class of stock.
+    (5) Regulations
+       The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including (but not limited to) regulations–
+      (A) which treat warrants, obligations convertible into stock, and other similar interests as stock, and stock as not stock,
+      (B) which treat options to acquire or sell stock as having been exercised,
+      (C) which provide that the requirements of paragraph (2)(B) shall be treated as met if the affiliated group, in reliance on a good faith determination of value, treated such requirements as met,
+      (D) which disregard an inadvertent ceasing to meet the requirements of paragraph (2)(B) by reason of changes in relative values of different classes of stock,
+      (E) which provide that transfers of stock within the group shall not be taken into account in determining whether a corporation ceases to be a member of an affiliated group, and
+      (F) which disregard changes in voting power to the extent such changes are disproportionate to related changes in value.
+  (b) Definition of ””includible corporation““
+     As used in this chapter, the term ””includible corporation““ means any corporation except–
+    (1) Corporations exempt from taxation under section 501.
+    (2) Insurance companies subject to taxation under section 801.
+    (3) Foreign corporations.
+    (4) Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year.
+       [(5) Repealed. Pub. L. 94–455, title X, § 1053(d)(2), Oct. 4, 1976, 90 Stat. 1649.]
+  (6) Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
+  (7) A DISC (as defined in section 992(a)(1)).
+  (8) An S corporation.
+  (c) Includible insurance companies
+     Notwithstanding the provisions of paragraph (2) of subsection (b)–
+    (1) Two or more domestic insurance companies each of which is subject to tax under section 801 shall be treated as includible corporations for purposes of applying subsection (a) to such insurance companies alone.
+    (2)      (A) If an affiliated group (determined without regard to subsection (b)(2)) includes one or more domestic insurance companies taxed under section 801, the common parent of such group may elect (pursuant to regulations prescribed by the Secretary) to treat all such companies as includible corporations for purposes of applying subsection (a) except that no such company shall be so treated until it has been a member of the affiliated group for the 5 taxable years immediately preceding the taxable year for which the consolidated return is filed.
+      (B) If an election under this paragraph is in effect for a taxable year–
+        (i) section 243(b)(3) and the exception provided under section 243(b)(2) with respect to subsections (b)(2) and (c) of this section,
+        (ii) section 542(b)(5), and
+        (iii) subsection (a)(4) and (b)(2)(D) of section 1563, and the reference to section 1563(b)(2)(D) contained in section 1563(b)(3)(C),
+       shall not be effective for such taxable year.
+  (d) Subsidiary formed to comply with foreign law
+     In the case of a domestic corporation owning or controlling, directly or indirectly, 100 percent of the capital stock (exclusive of directors“ qualifying shares) of a corporation organized under the laws of a contiguous foreign country and maintained solely for the purpose of complying with the laws of such country as to title and operation of property, such foreign corporation may, at the option of the domestic corporation, be treated for the purpose of this subtitle as a domestic corporation.
+  (e) Includible tax-exempt organizations
+     Despite the provisions of paragraph (1) of subsection (b), two or more organizations exempt from taxation under section 501, one or more of which is described in section 501(c)(2) and the others of which derive income from such 501(c)(2) organizations, shall be considered as includible corporations for the purpose of the application of subsection (a) to such organizations alone.
+  (f) Special rule for certain amounts derived from a corporation previously treated as a DISC
+     In determining the consolidated taxable income of an affiliated group for any taxable year beginning after December 31, 1984, a corporation which had been a DISC and which would otherwise be a member of such group shall not be treated as such a member with respect to–
+    (1) any distribution (or deemed distribution) of accumulated DISC income which was not treated as previously taxed income under section 805(b)(2)(A) of the Tax Reform Act of 1984, and
+    (2) any amount treated as received under section 805(b)(3) of such Act.

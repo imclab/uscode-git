@@ -1,1 +1,117 @@
-   Section, act Mar. 3, 1911, ch. 210, § 27, 36 Stat. 1077, required Secretary of the Interior to submit an annual report to Speaker of House of Representatives of fiscal affairs of all Indian tribes for whose benefit expenditures from either public or tribal funds were made by any officer, clerk, or employee in Department of the Interior.
+  (a) Private activity bond
+     For purposes of this title, the term ””private activity bond““ means any bond issued as part of an issue–
+    (1) which meets–
+      (A) the private business use test of paragraph (1) of subsection (b), and
+      (B) the private security or payment test of paragraph (2) of subsection (b), or
+    (2) which meets the private loan financing test of subsection (c).
+  (b) Private business tests
+    (1) Private business use test
+       Except as otherwise provided in this subsection, an issue meets the test of this paragraph if more than 10 percent of the proceeds of the issue are to be used for any private business use.
+    (2) Private security or payment test
+       Except as otherwise provided in this subsection, an issue meets the test of this paragraph if the payment of the principal of, or the interest on, more than 10 percent of the proceeds of such issue is (under the terms of such issue or any underlying arrangement) directly or indirectly–
+      (A) secured by any interest in–
+        (i) property used or to be used for a private business use, or
+        (ii) payments in respect of such property, or
+      (B) to be derived from payments (whether or not to the issuer) in respect of property, or borrowed money, used or to be used for a private business use.
+    (3) 5 percent test for private business use not related or disproportionate to government use financed by the issue
+      (A) In general
+         An issue shall be treated as meeting the tests of paragraphs (1) and (2) if such tests would be met if such paragraphs were applied–
+        (i) by substituting ””5 percent““ for ””10 percent““ each place it appears, and
+        (ii) by taking into account only–
+          (I) the proceeds of the issue which are to be used for any private business use which is not related to any government use of such proceeds,
+          (II) the disproportionate related business use proceeds of the issue, and
+          (III) payments, property, and borrowed money with respect to any use of proceeds described in subclause (I) or (II).
+      (B) Disproportionate related business use proceeds
+         For purposes of subparagraph (A), the disproportionate related business use proceeds of an issue is an amount equal to the aggregate of the excesses (determined under the following sentence) for each private business use of the proceeds of an issue which is related to a government use of such proceeds. The excess determined under this sentence is the excess of–
+        (i) the proceeds of the issue which are to be used for the private business use, over
+        (ii) the proceeds of the issue which are to be used for the government use to which such private business use relates.
+    (4) Lower limitation for certain output facilities
+       An issue 5 percent or more of the proceeds of which are to be used with respect to any output facility (other than a facility for the furnishing of water) shall be treated as meeting the tests of paragraphs (1) and (2) if the nonqualified amount with respect to such issue exceeds the excess of–
+      (A) $15,000,000, over
+      (B) the aggregate nonqualified amounts with respect to all prior tax-exempt issues 5 percent or more of the proceeds of which are or will be used with respect to such facility (or any other facility which is part of the same project).
+       There shall not be taken into account under subparagraph (B) any bond which is not outstanding at the time of the later issue or which is to be redeemed (other than in an advance refunding) from the net proceeds of the later issue.
+    (5) Coordination with volume cap where nonqualified amount exceeds $15,000,000
+       If the nonqualified amount with respect to an issue–
+      (A) exceeds $15,000,000, but
+      (B) does not exceed the amount which would cause a bond which is part of such issue to be treated as a private activity bond without regard to this paragraph,
+       such bond shall nonetheless be treated as a private activity bond unless the issuer allocates a portion of its volume cap under section 146 to such issue in an amount equal to the excess of such nonqualified amount over $15,000,000.
+    (6) Private business use defined
+      (A) In general
+         For purposes of this subsection, the term ””private business use““ means use (directly or indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account.
+      (B) Clarification of trade or business
+         For purposes of the 1st sentence of subparagraph (A), any activity carried on by a person other than a natural person shall be treated as a trade or business.
+    (7) Government use
+       The term ””government use““ means any use other than a private business use.
+    (8) Nonqualified amount
+       For purposes of this subsection, the term ””nonqualified amount““ means, with respect to an issue, the lesser of–
+      (A) the proceeds of such issue which are to be used for any private business use, or
+      (B) the proceeds of such issue with respect to which there are payments (or property or borrowed money) described in paragraph (2).
+    (9) Exception for qualified 501(c)(3) bonds
+       There shall not be taken into account under this subsection or subsection (c) the portion of the proceeds of an issue which (if issued as a separate issue) would be treated as a qualified 501(c)(3) bond if the issuer elects to treat such portion as a qualified 501(c)(3) bond.
+  (c) Private loan financing test
+    (1) In general
+       An issue meets the test of this subsection if the amount of the proceeds of the issue which are to be used (directly or indirectly) to make or finance loans (other than loans described in paragraph (2)) to persons other than governmental units exceeds the lesser of–
+      (A) 5 percent of such proceeds, or
+      (B) $5,000,000.
+    (2) Exception for tax assessment, etc., loans
+       For purposes of paragraph (1), a loan is described in this paragraph if such loan–
+      (A) enables the borrower to finance any governmental tax or assessment of general application for a specific essential governmental function,
+      (B) is a nonpurpose investment (within the meaning of section 148(f)(6)(A)), or
+      (C) is a qualified natural gas supply contract (as defined in section 148(b)(4)).
+  (d) Certain issues used to acquire nongovernmental output property treated as private activity bonds
+    (1) In general
+       For purposes of this title, the term ””private activity bond““ includes any bond issued as part of an issue if the amount of the proceeds of the issue which are to be used (directly or indirectly) for the acquisition by a governmental unit of nongovernmental output property exceeds the lesser of–
+      (A) 5 percent of such proceeds, or
+      (B) $5,000,000.
+    (2) Nongovernmental output property
+       Except as otherwise provided in this subsection, for purposes of paragraph (1), the term ””nongovernmental output property““ means any property (or interest therein) which before such acquisition was used (or held for use) by a person other than a governmental unit in connection with an output facility (within the meaning of subsection (b)(4)) (other than a facility for the furnishing of water). For purposes of the preceding sentence, use (or the holding for use) before October 14, 1987, shall not be taken into account.
+    (3) Exception for property acquired to provide output to certain areas
+       For purposes of paragraph (1)–
+      (A) In general
+         The term ””nongovernmental output property““ shall not include any property which is to be used in connection with an output facility 95 percent or more of the output of which will be consumed in–
+        (i) a qualified service area of the governmental unit acquiring the property, or
+        (ii) a qualified annexed area of such unit.
+      (B) Definitions
+         For purposes of subparagraph (A)–
+        (i) Qualified service area
+           The term ””qualified service area““ means, with respect to the governmental unit acquiring the property, any area throughout which such unit provided (at all times during the 10-year period ending on the date such property is acquired by such unit) output of the same type as the output to be provided by such property. For purposes of the preceding sentence, the period before October 14, 1987, shall not be taken into account.
+        (ii) Qualified annexed area
+           The term ””qualified annexed area““ means, with respect to the governmental unit acquiring the property, any area if–
+          (I) such area is contiguous to, and annexed for general governmental purposes into, a qualified service area of such unit,
+          (II) output from such property is made available to all members of the general public in the annexed area, and
+          (III) the annexed area is not greater than 10 percent of such qualified service area.
+      (C) Limitation on size of annexed area not to apply where output capacity does not increase by more than 10 percent
+         Subclause (III) of subparagraph (B)(ii) shall not apply to an annexation of an area by a governmental unit if the output capacity of the property acquired in connection with the annexation, when added to the output capacity of all other property which is not treated as nongovernmental output property by reason of subparagraph (A)(ii) with respect to such annexed area, does not exceed 10 percent of the output capacity of the property providing output of the same type to the qualified service area into which it is annexed.
+      (D) Rules for determining relative size, etc.
+         For purposes of subparagraphs (B)(ii) and (C)–
+        (i) The size of any qualified service area and the output capacity of property serving such area shall be determined as the close of the calendar year preceding the calendar year in which the acquisition of nongovernmental output property or the annexation occurs.
+        (ii) A qualified annexed area shall be treated as part of the qualified service area into which it is annexed for purposes of determining whether any other area annexed in a later year is a qualified annexed area.
+    (4) Exception for property converted to nonoutput use
+       For purposes of paragraph (1)–
+      (A) In general
+         The term ””nongovernmental output property““ shall not include any property which is to be converted to a use not in connection with an output facility.
+      (B) Exception
+         Subparagraph (A) shall not apply to any property which is part of the output function of a nuclear power facility.
+    (5) Special rules
+       In the case of a bond which is a private activity bond solely by reason of this subsection–
+      (A) subsections (c) and (d) of section 147 (relating to limitations on acquisition of land and existing property) shall not apply, and
+      (B) paragraph (8) of section 142(a) shall be applied as if it did not contain ””local““.
+    (6) Treatment of joint action agencies
+       With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units, this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
+    (7) Exception for qualified electric and natural gas supply contracts
+       The term ””nongovernmental output property““ shall not include any contract for the prepayment of electricity or natural gas which is not investment property under section 148(b)(2).
+  (e) Qualified bond
+     For purposes of this part, the term ””qualified bond““ means any private activity bond if–
+    (1) In general
+       Such bond is–
+      (A) an exempt facility bond,
+      (B) a qualified mortgage bond,
+      (C) a qualified veterans“ mortgage bond,
+      (D) a qualified small issue bond,
+      (E) a qualified student loan bond,
+      (F) a qualified redevelopment bond, or
+      (G) a qualified 501(c)(3) bond.
+    (2) Volume cap
+       Such bond is issued as part of an issue which meets the applicable requirements of section 146, and \1\N
+    (3) Other requirements
+       Such bond meets the applicable requirements of each subsection of section 147.

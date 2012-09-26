@@ -1,0 +1,133 @@
+  (a) General rule
+    (1) Treatment as effectively connected with United States trade or business
+       For purposes of this title, gain or loss of a nonresident alien individual or a foreign corporation from the disposition of a United States real property interest shall be taken into account–
+      (A) in the case of a nonresident alien individual, under section 871(B)(1), or
+      (B) in the case of a foreign corporation, under section 882(a)(1),
+       as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss were effectively connected with such trade or business.
+    (2) Minimum tax on nonresident alien individuals
+      (A) In general
+         In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1)(A) shall not be less than the lesser of–
+        (i) the individual“s alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
+        (ii) the individual“s net United States real property gain for the taxable year.
+      (B) Net United States real property gain
+         For purposes of subparagraph (A), the term ””net United States real property gain““ means the excess of–
+        (i) the aggregate of the gains for the taxable year from dispositions of United States real property interests, over
+        (ii) the aggregate of the losses for the taxable year from dispositions of such interests.
+  (b) Limitation on losses of individuals
+     In the case of an individual, a loss shall be taken into account under subsection (a) only to the extent such loss would be taken into account under section 165(c) (determined without regard to subsection (a) of this section).
+  (c) United States real property interest
+     For purposes of this section–
+    (1) United States real property interest
+      (A) In general
+         Except as provided in subparagraph (B), the term ””United States real property interest““ means–
+        (i) an interest in real property (including an interest in a mine, well, or other natural deposit) located in the United States or the Virgin Islands, and
+        (ii) any interest (other than an interest solely as a creditor) in any domestic corporation unless the taxpayer establishes (at such time and in such manner as the Secretary by regulations prescribes) that such corporation was at no time a United States real property holding corporation during the shorter of–
+          (I) the period after June 18, 1980, during which the taxpayer held such interest, or
+          (II) the 5-year period ending on the date of the disposition of such interest.
+      (B) Exclusion for interest in certain corporations
+         The term ””United States real property interest““ does not include any interest in a corporation if–
+        (i) as of the date of the disposition of such interest, such corporation did not hold any United States real property interests, and
+        (ii) all of the United States real property interests held by such corporation at any time during the shorter of the periods described in subparagraph (A)(ii)–
+          (I) were disposed of in transactions in which the full amount of the gain (if any) was recognized, or
+          (II) ceased to be United States real property interests by reason of the application of this subparagraph to 1 or more other corporations.
+    (2) United States real property holding corporation
+       The term ””United States real property holding corporation““ means any corporation if–
+      (A) the fair market value of its United States real property interests equals or exceeds 50 percent of
+      (B) the fair market value of–
+        (i) its United States real property interests,
+        (ii) its interests in real property located outside the United States, plus
+        (iii) any other of its assets which are used or held for use in a trade or business.
+    (3) Exception for stock regularly traded on established securities markets
+       If any class of stock of a corporation is regularly traded on an established securities market, stock of such class shall be treated as a United States real property interest only in the case of a person who, at some time during the shorter of the periods described in paragraph (1)(A)(ii), held more than 5 percent of such class of stock.
+    (4) Interests held by foreign corporations and by partnerships, trusts, and estates
+       For purposes of determining whether any corporation is a United States real property holding corporation–
+      (A) Foreign corporations
+         Paragraph (1)(A)(ii) shall be applied by substituting ””any corporation (whether foreign or domestic)““ for ””any domestic corporation““.
+      (B) Interests held by partnerships, etc.
+         Under regulations prescribed by the Secretary, assets held by a partnership, trust, or estate shall be treated as held proportionately by its partners or beneficiaries. Any asset treated as held by a partner or beneficiary by reason of this subparagraph which is used or held for use by the partnership, trust, or estate in a trade or business shall be treated as so used or held by the partner or beneficiary. Any asset treated as held by a partner or beneficiary by reason of this subparagraph shall be so treated for purposes of applying this subparagraph successively to partnerships, trusts, or estates which are above the first partnership, trust, or estate in a chain thereof.
+    (5) Treatment of controlling interests
+      (A) In general
+         Under regulations, for purposes of determining whether any corporation is a United States real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the ””first corporation““) holds a controlling interest in a second corporation–
+        (i) the stock which the first corporation holds in the second corporation shall not be taken into account,
+        (ii) the first corporation shall be treated as holding a portion of each asset of the second corporation equal to the percentage of the fair market value of the stock of the second corporation represented by the stock held by the first corporation, and
+        (iii) any asset treated as held by the first corporation by reason of clause (ii) which is used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
+         Any asset treated as held by the first corporation by reason of the preceding sentence shall be so treated for purposes of applying the preceding sentence successively to corporations which are above the first corporation in a chain of corporations.
+      (B) Controlling interest
+         For purposes of subparagraph (A), the term ””controlling interest““ means 50 percent or more of the fair market value of all classes of stock of a corporation.
+    (6) Other special rules
+      (A) Interest in real property
+         The term ””interest in real property““ includes fee ownership and co-ownership of land or improvements thereon, leaseholds of land or improvements thereon, options to acquire land or improvements thereon, and options to acquire leaseholds of land or improvements thereon.
+      (B) Real property includes associated personal property
+         The term ””real property““ includes movable walls, furnishings, and other personal property associated with the use of the real property.
+      (C) Constructive ownership rules
+         For purposes of determining under paragraph (3) whether any person holds more than 5 percent of any class of stock and of determining under paragraph (5) whether a person holds a controlling interest in any corporation, section 318(a) shall apply (except that paragraphs (2)(C) and (3)(C) of section 318(a) shall be applied by substituting ””5 percent““ for ””50 percent““).
+  (d) Treatment of distributions by foreign corporations
+    (1) In general
+       Except to the extent otherwise provided in regulations, notwithstanding any other provision of this chapter, gain shall be recognized by a foreign corporation on the distribution (including a distribution in liquidation or redemption) of a United States real property interest in an amount equal to the excess of the fair market value of such interest (as of the time of the distribution) over its adjusted basis.
+    (2) Exceptions
+       Gain shall not be recognized under paragraph (1)–
+      (A) if–
+        (i) at the time of the receipt of the distributed property, the distributee would be subject to taxation under this chapter on a subsequent disposition of the distributed property, and
+        (ii) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation, or
+      (B) if such nonrecognition is provided in regulations prescribed by the Secretary under subsection (e)(2).
+  (e) Coordination with nonrecognition provisions
+    (1) In general
+       Except to the extent otherwise provided in subsection (d) and paragraph (2) of this subsection, any nonrecognition provision shall apply for purposes of this section to a transaction only in the case of an exchange of a United States real property interest for an interest the sale of which would be subject to taxation under this chapter.
+    (2) Regulations
+       The Secretary shall prescribe regulations (which are necessary or appropriate to prevent the avoidance of Federal income taxes) providing–
+      (A) the extent to which nonrecognition provisions shall, and shall not, apply for purposes of this section, and
+      (B) the extent to which–
+        (i) transfers of property in reorganization, and
+        (ii) changes in interests in, or distributions from, a partnership, trust, or estate,
+       shall be treated as sales of property at fair market value.
+    (3) Nonrecognition provision defined
+       For purposes of this subsection, the term ””nonrecognition provision““ means any provision of this title for not recognizing gain or loss.
+       [(f) Repealed. Pub. L. 104–188, title I, § 1702(g)(2), Aug. 20, 1996, 110 Stat. 1873]
+  (g) Special rule for sales of interest in partnerships, trusts, and estates
+     Under regulations prescribed by the Secretary, the amount of any money, and the fair market value of any property, received by a nonresident alien individual or foreign corporation in exchange for all or part of its interest in a partnership, trust, or estate shall, to the extent attributable to United States real property interests, be considered as an amount received from the sale or exchange in the United States of such property.
+  (h) Special rules for certain investment entities
+     For purposes of this section–
+    (1) Look-through of distributions
+       Any distribution by a qualified investment entity to a nonresident alien individual or a foreign corporation shall, to the extent attributable to gain from sales or exchanges by the qualified investment entity of United States real property interests, be treated as gain recognized by such nonresident alien individual or foreign corporation from the sale or exchange of a United States real property interest. Notwithstanding the preceding sentence, any distribution by a real estate investment trust with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of the distribution.
+    (2) Sale of stock in domestically controlled entity not taxed
+       The term ””United States real property interest““ does not include any interest in a domestically controlled qualified investment entity.
+    (3) Distributions by domestically controlled qualified investment entities
+       In the case of a domestically controlled qualified investment entity, rules similar to the rules of subsection (d) shall apply to the foreign ownership percentage of any gain.
+    (4) Definitions
+      (A) Qualified investment entity
+        (i) In general
+           The term ””qualified investment entity““ means–
+          (I) any real estate investment trust, and
+          (II) any regulated investment company.
+        (ii) Termination
+           Clause (i)(II) shall not apply after December 31, 2007.
+      (B) Domestically controlled
+         The term ””domestically controlled qualified investment entity““ means any qualified investment entity in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.
+      (C) Foreign ownership percentage
+         The term ””foreign ownership percentage““ means that percentage of the stock of the qualified investment entity which was held (directly or indirectly) by foreign persons at the time during the testing period during which the direct and indirect ownership of stock by foreign persons was greatest.
+      (D) Testing period
+         The term ””testing period““ means whichever of the following periods is the shortest:
+        (i) the period beginning on June 19, 1980, and ending on the date of the disposition or of the distribution, as the case may be,
+        (ii) the 5-year period ending on the date of the disposition or of the distribution, as the case may be, or
+        (iii) the period during which the qualified investment entity was in existence.
+          (i) Election by foreign corporation to be treated as domestic corporation
+            (1) In general
+               If–
+              (A) a foreign corporation holds a United States real property interest, and
+              (B) under any treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest,
+               then such foreign corporation may make an election to be treated as a domestic corporation for purposes of this section, section 1445, and section 6039C.
+            (2) Revocation only with consent
+               Any election under paragraph (1), once made, may be revoked only with the consent of the Secretary.
+            (3) Making of election
+               An election under paragraph (1) may be made only–
+              (A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
+              (B) subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
+               In the case of a class of interest (other than an interest solely as a creditor) which is regularly traded on an established securities market, the consent described in subparagraph (A) need only be made by any person if such person held more than 5 percent of such class of interest at some time during the shorter of the periods described in subsection (c)(1)(A)(ii). The constructive ownership rules of subsection (c)(6)(C) shall apply in determining whether a person held more than 5 percent of a class of interest.
+            (4) Exclusive method of claiming nondiscrimination
+               The election provided by paragraph (1) shall be the exclusive remedy for any person claiming discriminatory treatment with respect to this section, section 1145, and section 6039C.
+          (j) Certain contributions to capital
+             Except to the extent otherwise provided in regulations, gain shall be recognized by a nonresident alien individual or foreign corporation on the transfer of a United States real property interest to a foreign corporation if the transfer is made as paid in surplus or as a contribution to capital, in the amount of the excess of–
+            (1) the fair market value of such property transferred, over
+            (2) the sum of–
+              (A) the adjusted basis of such property in the hands of the transferor, plus
+              (B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.

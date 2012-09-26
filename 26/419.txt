@@ -1,0 +1,81 @@
+  (a) General rule
+     Contributions paid or accrued by an employer to a welfare benefit fund–
+    (1) shall not be deductible under this chapter, but
+    (2) if they would otherwise be deductible, shall (subject to the limitation of subsection (b)) be deductible under this section for the taxable year in which paid.
+  (b) Limitation
+     The amount of the deduction allowable under subsection (a)(2) for any taxable year shall not exceed the welfare benefit fund“s qualified cost for the taxable year.
+  (c) Qualified cost
+     For purposes of this section–
+    (1) In general
+       Except as otherwise provided in this subsection, the term ””qualified cost““ means, with respect to any taxable year, the sum of–
+      (A) the qualified direct cost for such taxable year, and
+      (B) subject to the limitation of section 419A(b), any addition to a qualified asset account for the taxable year.
+    (2) Reduction for funds after-tax income
+       In the case of any welfare benefit fund, the qualified cost for any taxable year shall be reduced by such fund“s after-tax income for such taxable year.
+    (3) Qualified direct cost
+      (A) In general
+         The term ””qualified direct cost““ means, with respect to any taxable year, the aggregate amount (including administrative expenses) which would have been allowable as a deduction to the employer with respect to the benefits provided during the taxable year, if–
+        (i) such benefits were provided directly by the employer, and
+        (ii) the employer used the cash receipts and disbursements method of accounting.
+      (B) Time when benefits provided
+         For purposes of subparagraph (A), a benefit shall be treated as provided when such benefit would be includible in the gross income of the employee if provided directly by the employer (or would be so includible but for any provision of this chapter excluding such benefit from gross income).
+      (C) 60-month amortization of child care facilities
+        (i) In general
+           In determining qualified direct costs with respect to any child care facility for purposes of subparagraph (A), in lieu of depreciation the adjusted basis of such facility shall be allowable as a deduction ratably over a period of 60 months beginning with the month in which the facility is placed in service.
+        (ii) Child care facility
+           The term ””child care facility““ means any tangible property which qualifies under regulations prescribed by the Secretary as a child care center primarily for children of employees of the employer; except that such term shall not include any property–
+          (I) not of a character subject to depreciation; or
+          (II) located outside the United States.
+    (4) After-tax income
+      (A) In general
+         The term ””after-tax income““ means, with respect to any taxable year, the gross income of the welfare benefit fund reduced by the sum of–
+        (i) the deductions allowed by this chapter which are directly connected with the production of such gross income, and
+        (ii) the tax imposed by this chapter on the fund for the taxable year.
+      (B) Treatment of certain amounts
+         In determining the gross income of any welfare benefit fund–
+        (i) contributions and other amounts received from employees shall be taken into account, but
+        (ii) contributions from the employer shall not be taken into account.
+    (5) Item only taken into account once
+       No item may be taken into account more than once in determining the qualified cost of any welfare benefit fund.
+  (d) Carryover of excess contributions
+     If–
+    (1) the amount of the contributions paid (or deemed paid under this subsection) by the employer during any taxable year to a welfare benefit fund, exceeds
+    (2) the limitation of subsection (b),
+       such excess shall be treated as an amount paid by the employer to such fund during the succeeding taxable year.
+  (e) Welfare benefit fund
+     For purposes of this section–
+    (1) In general
+       The term ””welfare benefit fund““ means any fund–
+      (A) which is part of a plan of an employer, and
+      (B) through which the employer provides welfare benefits to employees or their beneficiaries.
+    (2) Welfare benefit
+       The term ””welfare benefit““ means any benefit other than a benefit with respect to which–
+      (A) section 83(h) applies,
+      (B) section 404 applies (determined without regard to section 404(b)(2)), or
+      (C) section 404A applies.
+    (3) Fund
+       The term ””fund““ means–
+      (A) any organization described in paragraph (7), (9), (17), or (20) of section 501(c),
+      (B) any trust, corporation, or other organization not exempt from the tax imposed by this chapter, and
+      (C) to the extent provided in regulations, any account held for an employer by any person.
+    (4) Treatment of amounts held pursuant to certain insurance contracts
+      (A) In general
+         Notwithstanding paragraph (3)(C), the term ””fund““ shall not include amounts held by an insurance company pursuant to an insurance contract if–
+        (i) such contract is a life insurance contract described in section 264(a)(1), or
+        (ii) such contract is a qualified nonguaranteed contract.
+      (B) Qualified nonguaranteed contract
+        (i) In general
+           For purposes of this paragraph, the term ””qualified nonguaranteed contract““ means any insurance contract (including a reasonable premium stabilization reserve held thereunder) if–
+          (I) there is no guarantee of a renewal of such contract, and
+          (II) other than insurance protection, the only payments to which the employer or employees are entitled are experience rated refunds or policy dividends which are not guaranteed and which are determined by factors other than the amount of welfare benefits paid to (or on behalf of) the employees of the employer or their beneficiaries.
+        (ii) Limitation
+           In the case of any qualified nonguaranteed contract, subparagraph (A) shall not apply unless the amount of any experience rated refund or policy dividend payable to an employer with respect to a policy year is treated by the employer as received or accrued in the taxable year in which the policy year ends.
+  (f) Method of contributions, etc., having the effect of a plan
+     If–
+    (1) there is no plan, but
+    (2) there is a method or arrangement of employer contributions or benefits which has the effect of a plan,
+       this section shall apply as if there were a plan.
+  (g) Extension to plans for independent contractors
+     If any fund would be a welfare benefit fund (as modified by subsection (f)) but for the fact that there is no employee-employer relationship–
+    (1) this section shall apply as if there were such a relationship, and
+    (2) any reference in this section to the employer shall be treated as a reference to the person for whom services are provided, and any reference in this section to an employee shall be treated as a reference to the person providing the services.

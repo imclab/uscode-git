@@ -1,1 +1,88 @@
-   The Secretary shall not restore to tribal ownership or deposit in the general fund of the Treasury any funds pursuant to section 164 of this title and this section until sixty calendar days (exclusive of days on which either the Senate or the House of Representatives is not in session because of an adjournment of more than three days to a day certain) after he has submitted notice of his proposed action to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives unless each of said committees has theretofore notified him that it has no objection to the proposed action.
+  (a) General rule
+     Except as otherwise provided in this section, the following taxes shall be allowed as a deduction for the taxable year within which paid or accrued:
+    (1) State and local, and foreign, real property taxes.
+    (2) State and local personal property taxes.
+    (3) State and local, and foreign, income, war profits, and excess profits taxes.
+    (4) The GST tax imposed on income distributions.
+    (5) The environmental tax imposed by section 59A.
+       In addition, there shall be allowed as a deduction State and local, and foreign, taxes not described in the preceding sentence which are paid or accrued within the taxable year in carrying on a trade or business or an activity described in section 212 (relating to expenses for production of income). Notwithstanding the preceding sentence, any tax (not described in the first sentence of this subsection) which is paid or accrued by the taxpayer in connection with an acquisition or disposition of property shall be treated as part of the cost of the acquired property or, in the case of a disposition, as a reduction in the amount realized on the disposition.
+  (b) Definitions and special rules
+     For purposes of this section–
+    (1) Personal property taxes
+       The term ””personal property tax““ means an ad valorem tax which is imposed on an annual basis in respect of personal property.
+    (2) State or local taxes
+       A State or local tax includes only a tax imposed by a State, a possession of the United States, or a political subdivision of any of the foregoing, or by the District of Columbia.
+    (3) Foreign taxes
+       A foreign tax includes only a tax imposed by the authority of a foreign country.
+    (4) Special rules for GST tax
+      (A) In general
+         The GST tax imposed on income distributions is–
+        (i) the tax imposed by section 2601, and
+        (ii) any State tax described in section 2604,
+         but only to the extent such tax is imposed on a transfer which is included in the gross income of the distributee and to which section 666 does not apply.
+      (B) Special rule for tax paid before due date
+         Any tax referred to in subparagraph (A) imposed with respect to a transfer occurring during the taxable year of the distributee (or, in the case of a taxable termination, the trust) which is paid not later than the time prescribed by law (including extensions) for filing the return with respect to such transfer shall be treated as having been paid on the last day of the taxable year in which the transfer was made.
+    (5) General sales taxes
+       For purposes of subsection (a)–
+      (A) Election to deduct State and local sales taxes in lieu of State and local income taxes
+         At the election of the taxpayer for the taxable year, subsection (a) shall be applied–
+        (i) without regard to the reference to State and local income taxes, and
+        (ii) as if State and local general sales taxes were referred to in a paragraph thereof.
+      (B) Definition of general sales tax
+         The term ””general sales tax““ means a tax imposed at one rate with respect to the sale at retail of a broad range of classes of items.
+      (C) Special rules for food, etc.
+         In the case of items of food, clothing, medical supplies, and motor vehicles–
+        (i) the fact that the tax does not apply with respect to some or all of such items shall not be taken into account in determining whether the tax applies with respect to a broad range of classes of items, and
+        (ii) the fact that the rate of tax applicable with respect to some or all of such items is lower than the general rate of tax shall not be taken into account in determining whether the tax is imposed at one rate.
+      (D) Items taxed at different rates
+         Except in the case of a lower rate of tax applicable with respect to an item described in subparagraph (C), no deduction shall be allowed under this paragraph for any general sales tax imposed with respect to an item at a rate other than the general rate of tax.
+      (E) Compensating use taxes
+         A compensating use tax with respect to an item shall be treated as a general sales tax. For purposes of the preceding sentence, the term ””compensating use tax““ means, with respect to any item, a tax which–
+        (i) is imposed on the use, storage, or consumption of such item, and
+        (ii) is complementary to a general sales tax, but only if a deduction is allowable under this paragraph with respect to items sold at retail in the taxing jurisdiction which are similar to such item.
+      (F) Special rule for motor vehicles
+         In the case of motor vehicles, if the rate of tax exceeds the general rate, such excess shall be disregarded and the general rate shall be treated as the rate of tax.
+      (G) Separately stated general sales taxes
+         If the amount of any general sales tax is separately stated, then, to the extent that the amount so stated is paid by the consumer (other than in connection with the consumer“s trade or business) to the seller, such amount shall be treated as a tax imposed on, and paid by, such consumer.
+      (H) Amount of deduction may be determined under tables
+        (i) In general
+           At the election of the taxpayer for the taxable year, the amount of the deduction allowed under this paragraph for such year shall be–
+          (I) the amount determined under this paragraph (without regard to this subparagraph) with respect to motor vehicles, boats, and other items specified by the Secretary, and
+          (II) the amount determined under tables prescribed by the Secretary with respect to items to which subclause (I) does not apply.
+        (ii) Requirements for tables
+           The tables prescribed under clause (i)–
+          (I) shall reflect the provisions of this paragraph,
+          (II) shall be based on the average consumption by taxpayers on a State-by-State basis (as determined by the Secretary) of items to which clause (i)(I) does not apply, taking into account filing status, number of dependents, adjusted gross income, and rates of State and local general sales taxation, and
+          (III) need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b)).
+            (I) Application of paragraph
+               This paragraph shall apply to taxable years beginning after December 31, 2003, and before January 1, 2006.
+  (c) Deduction denied in case of certain taxes
+     No deduction shall be allowed for the following taxes:
+    (1) Taxes assessed against local benefits of a kind tending to increase the value of the property assessed; but this paragraph shall not prevent the deduction of so much of such taxes as is properly allocable to maintenance or interest charges.
+    (2) Taxes on real property, to the extent that subsection (d) requires such taxes to be treated as imposed on another taxpayer.
+  (d) Apportionment of taxes on real property between seller and purchaser
+    (1) General rule
+       For purposes of subsection (a), if real property is sold during any real property tax year, then–
+      (A) so much of the real property tax as is properly allocable to that part of such year which ends on the day before the date of the sale shall be treated as a tax imposed on the seller, and
+      (B) so much of such tax as is properly allocable to that part of such year which begins on the date of the sale shall be treated as a tax imposed on the purchaser.
+    (2) Special rules
+      (A) in the case of any sale of real property, if–
+        (i) a taxpayer may not, by reason of his method of accounting, deduct any amount for taxes unless paid, and
+        (ii) the other party to the sale is (under the law imposing the real property tax) liable for the real property tax for the real property tax year,
+       then for purposes of subsection (a) the taxpayer shall be treated as having paid, on the date of the sale, so much of such tax as, under paragraph (1) of this subsection, is treated as imposed on the taxpayer. For purposes of the preceding sentence, if neither party is liable for the tax, then the party holding the property at the time the tax becomes a lien on the property shall be considered liable for the real property tax for the real property tax year.
+      (B) In the case of any sale of real property, if the taxpayer“s taxable income for the taxable year during which the sale occurs is computed under an accrual method of accounting, and if no election under section 461(c) (relating to the accrual of real property taxes) applies, then, for purposes of subsection (a), that portion of such tax which–
+        (i) is treated, under paragraph (1) of this subsection, as imposed on the taxpayer, and
+        (ii) may not, by reason of the taxpayer“s method of accounting, be deducted by the taxpayer for any taxable year,
+       shall be treated as having accrued on the date of the sale.
+  (e) Taxes of shareholder paid by corporation
+     Where a corporation pays a tax imposed on a shareholder on his interest as a shareholder, and where the shareholder does not reimburse the corporation, then–
+    (1) the deduction allowed by subsection (a) shall be allowed to the corporation; and
+    (2) no deduction shall be allowed the shareholder for such tax.
+  (f) Deduction for one-half of self-employment taxes
+    (1) In general
+       In the case of an individual, in addition to the taxes described in subsection (a), there shall be allowed as a deduction for the taxable year an amount equal to one-half of the taxes imposed by section 1401 for such taxable year.
+    (2) Deduction treated as attributable to trade or business
+       For purposes of this chapter, the deduction allowed by paragraph (1) shall be treated as attributable to a trade or business carried on by the taxpayer which does not consist of the performance of services by the taxpayer as an employee.
+  (g) Cross references
+     T2(1) For provisions disallowing any deduction for certain taxes, see section 275.
+     T2(2) For treatment of taxes imposed by Indian tribal governments (or their subdivisions), see section 7871.

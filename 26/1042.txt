@@ -1,0 +1,120 @@
+  (a) Nonrecognition of gain
+     If–
+    (1) the taxpayer or executor elects in such form as the Secretary may prescribe the application of this section with respect to any sale of qualified securities,
+    (2) the taxpayer purchases qualified replacement property within the replacement period, and
+    (3) the requirements of subsection (b) are met with respect to such sale,
+       then the gain (if any) on such sale which would be recognized as long-term capital gain shall be recognized only to the extent that the amount realized on such sale exceeds the cost to the taxpayer of such qualified replacement property.
+  (b) Requirements to qualify for nonrecognition
+     A sale of qualified securities meets the requirements of this subsection if–
+    (1) Sale to employee organizations
+       The qualified securities are sold to–
+      (A) an employee stock ownership plan (as defined in section 4975(e)(7)), or
+      (B) an eligible worker-owned cooperative.
+    (2) Plan must hold 30 percent of stock after sale
+       The plan or cooperative referred to in paragraph (1) owns (after application of section 318(a)(4)), immediately after the sale, at least 30 percent of–
+      (A) each class of outstanding stock of the corporation (other than stock described in section 1504(a)(4)) which issued the qualified securities, or
+      (B) the total value of all outstanding stock of the corporation (other than stock described in section 1504(a)(4)).
+    (3) Written statement required
+      (A) In general
+         The taxpayer files with the Secretary the written statement described in subparagraph (B).
+      (B) Statement
+         A statement is described in this subparagraph if it is a verified written statement of–
+        (i) the employer whose employees are covered by the plan described in paragraph (1), or
+        (ii) any authorized officer of the cooperative described in paragraph (l),
+         consenting to the application of sections 4978 and 4979A with respect to such employer or cooperative.
+    (4) 3-year holding period
+       The taxpayer“s holding period with respect to the qualified securities is at least 3 years (determined as of the time of the sale).
+  (c) Definitions; special rules
+     For purposes of this section–
+    (1) Qualified securities
+       The term ””qualified securities““ means employer securities (as defined in section 409(T3lK)) which–
+      (A) are issued by a domestic C corporation that has no stock outstanding that is readily tradable on an established securities market, and
+      (B) were not received by the taxpayer in–
+        (i) a distribution from a plan described in section 401(a), or
+        (ii) a transfer pursuant to an option or other right to acquire stock to which section 83, 422, or 423 applied (or to which section 422 or 424 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) applied).
+    (2) Eligible worker-owned cooperative
+       The term ””eligible worker-owned cooperative““ means any organization–
+      (A) to which part I of subchapter T applies,
+      (B) a majority of the membership of which is composed of employees of such organization,
+      (C) a majority of the voting stock of which is owned by members,
+      (D) a majority of the board of directors of which is elected by the members on the basis of 1 person 1 vote, and
+      (E) a majority of the allocated earnings and losses of which are allocated to members on the basis of–
+        (i) patronage,
+        (ii) capital contributions, or
+        (iii) some combination of clauses (i) and (ii).
+    (3) Replacement period
+       The term ””replacement period““ means the period which begins 3 months before the date on which the sale of qualified securities occurs and which ends 12 months after the date of such sale.
+    (4) Qualified replacement property
+      (A) In general
+         The term ””qualified replacement property““ means any security issued by a domestic operating corporation which–
+        (i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(C)) in excess of 25 percent of the gross receipts of such corporation for such preceding taxable year, and
+        (ii) is not the corporation which issued the qualified securities which such security is replacing or a member of the same controlled group of corporations (within the meaning of section 1563(a)(1)) as such corporation.
+         For purposes of clause (i), income which is described in section 954(c)(3) (as in effect immediately before the Tax Reform Act of 1986) shall not be treated as passive investment income.
+      (B) Operating corporation
+         For purposes of this paragraph–
+        (i) In general
+           The term ””operating corporation““ means a corporation more than 50 percent of the assets of which were, at the time the security was purchased or before the close of the replacement period, used in the active conduct of the trade or business.
+        (ii) Financial institutions and insurance companies
+           The term ””operating corporation““ shall include–
+          (I) any financial institution described in section 581, and
+          (II) an insurance company subject to tax under subchapter L.
+      (C) Controlling and controlled corporations treated as 1 corporation
+        (i) In general
+           For purposes of applying this paragraph, if–
+          (I) the corporation issuing the security owns stock representing control of 1 or more other corporations,
+          (II) 1 or more other corporations own stock representing control of the corporation issuing the security, or
+          (III) both,
+              then all such corporations shall be treated as 1 corporation.
+        (ii) Control
+           For purposes of clause (i), the term ””control““ has the meaning given such term by section 304(c). In determining control, there shall be disregarded any qualified replacement property of the taxpayer with respect to the section 1042 sale being tested.
+      (D) Security defined
+         For purposes of this paragraph, the term ””security““ has the meaning given such term by section 165(g)(2), except that such term shall not include any security issued by a government or political subdivision thereof.
+    (5) Securities sold by underwriter
+       No sale of securities by an underwriter to an employee stock ownership plan or eligible worker-owned cooperative in the ordinary course of his trade or business as an underwriter, whether or not guaranteed, shall be treated as a sale for purposes of subsection (a).
+    (6) Time for filing election
+       An election under subsection (a) shall be filed not later than the last day prescribed by law (including extensions thereof) for filing the return of tax imposed by this chapter for the taxable year in which the sale occurs.
+    (7) Section not to apply to gain of C corporation
+       Subsection (a) shall not apply to any gain on the sale of any qualified securities which is includible in the gross income of any C corporation.
+  (d) Basis of qualified replacement property
+     The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction–
+    (1) the numerator of which is the cost of such item of property, and
+    (2) the denominator of which is the total cost of all such items of property.
+       Any reduction in basis under this subsection shall not be taken into account for purposes of section 1278(a)(2)(A)(ii) (relating to definition of market discount).
+  (e) Recapture of gain on disposition of qualified replacement property
+    (1) In general
+       If a taxpayer disposes of any qualified replacement property, then, notwithstanding any other provision of this title, gain (if any) shall be recognized to the extent of the gain which was not recognized under subsection (a) by reason of the acquisition by such taxpayer of such qualified replacement property.
+    (2) Special rule for corporations controlled by the taxpayer
+       If–
+      (A) a corporation issuing qualified replacement property disposes of a substantial portion of its assets other than in the ordinary course of its trade or business, and
+      (B) any taxpayer owning stock representing control (within the meaning of section 304(c)) of such corporation at the time of such disposition holds any qualified replacement property of such corporation at such time,
+       then the taxpayer shall be treated as having disposed of such qualified replacement property at such time.
+    (3) Recapture not to apply in certain cases
+       Paragraph (1) shall not apply to any transfer of qualified replacement property–
+      (A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and such property is substituted basis property in the hands of the transferee,
+      (B) by reason of the death of the person making such election,
+      (C) by gift, or
+      (D) in any transaction to which section 1042(a) applies.
+  (f) Statute of limitations
+     If any gain is realized by the taxpayer on the sale or exchange of any qualified securities and there is in effect an election under subsection (a) with respect to such gain, then–
+    (1) the statutory period for the assessment of any deficiency with respect to such gain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of–
+      (A) the taxpayer“s cost of purchasing qualified replacement property which the taxpayer claims results in nonrecognition of any part of such gain,
+      (B) the taxpayer“s intention not to purchase qualified replacement property within the replacement period, or
+      (C) a failure to make such purchase within the replacement period, and
+    (2) such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+  (g) Application of section to sales of stock in agricultural refiners and processors to eligible farm cooperatives
+    (1) In general
+       This section shall apply to the sale of stock of a qualified refiner or processor to an eligible farmers“ cooperative.
+    (2) Qualified refiner or processor
+       For purposes of this subsection, the term ””qualified refiner or processor““ means a domestic corporation–
+      (A) substantially all of the activities of which consist of the active conduct of the trade or business of refining or processing agricultural or horticultural products, and
+      (B) which, during the 1-year period ending on the date of the sale, purchases more than one-half of such products to be refined or processed from–
+        (i) farmers who make up the eligible farmers“ cooperative which is purchasing stock in the corporation in a transaction to which this subsection is to apply, or
+        (ii) such cooperative.
+    (3) Eligible farmers“ cooperative
+       For purposes of this section, the term ””eligible farmers“ cooperative““ means an organization to which part I of subchapter T applies and which is engaged in the marketing of agricultural or horticultural products.
+    (4) Special rules
+       In applying this section to a sale to which paragraph (1) applies–
+      (A) the eligible farmers“ cooperative shall be treated in the same manner as a cooperative described in subsection (b)(1)(B),
+      (B) subsection (b)(2) shall be applied by substituting ””100 percent““ for ””30 percent““ each place it appears,
+      (C) the determination as to whether any stock in the domestic corporation is a qualified security shall be made without regard to whether the stock is an employer security or to subsection (c)(1)(A), and
+      (D) paragraphs (2)(D) and (7) of subsection (c) shall not apply.

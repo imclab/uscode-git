@@ -1,0 +1,207 @@
+  (a) Allowance of deduction
+     In the case of an individual, there shall be allowed as a deduction an amount equal to the qualified retirement contributions of the individual for the taxable year.
+  (b) Maximum amount of deduction
+    (1) In general
+       The amount allowable as a deduction under subsection (a) to any individual for any taxable year shall not exceed the lesser of–
+      (A) the deductible amount, or
+      (B) an amount equal to the compensation includible in the individual“s gross income for such taxable year.
+    (2) Special rule for employer contributions under simplified employee pensions
+       This section shall not apply with respect to an employer contribution to a simplified employee pension.
+    (3) Plans under section 501(c)(18)
+       Notwithstanding paragraph (1), the amount allowable as a deduction under subsection (a) with respect to any contributions on behalf of an employee to a plan described in section 501(c)(18) shall not exceed the lesser of–
+      (A) $7,000, or
+      (B) an amount equal to 25 percent of the compensation (as defined in section 415(c)(3)) includible in the individual“s gross income for such taxable year.
+    (4) Special rule for simple retirement accounts
+       This section shall not apply with respect to any amount contributed to a simple retirement account established under section 408(p).
+    (5) Deductible amount
+       For purposes of paragraph (1)(A)–
+      (A) In general
+         The deductible amount shall be determined in accordance with the following table:
+         T2 For taxable years
+         T2The deductible
+         T2  beginning in:
+         T2amount is: 
+         2002 through 2004
+         $3,000  
+         2005 through 2007
+         $4,000  
+         2008 and thereafter
+         $5,000.
+      (B) Catch-up contributions for individuals 50 or older
+        (i) In general
+           In the case of an individual who has attained the age of 50 before the close of the taxable year, the deductible amount for such taxable year shall be increased by the applicable amount.
+        (ii) Applicable amount
+           For purposes of clause (i), the applicable amount shall be the amount determined in accordance with the following table:
+           T2 For taxable years
+           T2The applicable
+           T2  beginning in:
+           T2amount is: 
+           2002 through 2005
+           $500  
+           2006 and thereafter
+           $1,000.
+      (C) Cost-of-living adjustment
+        (i) In general
+           In the case of any taxable year beginning in a calendar year after 2008, the $5,000 amount under subparagraph (A) shall be increased by an amount equal to–
+          (I) such dollar amount, multiplied by
+          (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2007““ for ””calendar year 1992““ in subparagraph (B) thereof.
+        (ii) Rounding rules
+           If any amount after adjustment under clause (i) is not a multiple of $500, such amount shall be rounded to the next lower multiple of $500.
+  (c) Special rules for certain married individuals
+    (1) In general
+       In the case of an individual to whom this paragraph applies for the taxable year, the limitation of paragraph (1) of subsection (b) shall be equal to the lesser of–
+      (A) the dollar amount in effect under subsection (b)(1)(A) for the taxable year, or
+      (B) the sum of–
+        (i) the compensation includible in such individual“s gross income for the taxable year, plus
+        (ii) the compensation includible in the gross income of such individual“s spouse for the taxable year reduced by–
+          (I) the amount allowed as a deduction under subsection (a) to such spouse for such taxable year,
+          (II) the amount of any designated nondeductible contribution (as defined in section 408(T3oK)) on behalf of such spouse for such taxable year, and
+          (III) the amount of any contribution on behalf of such spouse to a Roth IRA under section 408A for such taxable year.
+    (2) Individuals to whom paragraph (1) applies
+       Paragraph (1) shall apply to any individual if–
+      (A) such individual files a joint return for the taxable year, and
+      (B) the amount of compensation (if any) includible in such individual“s gross income for the taxable year is less than the compensation includible in the gross income of such individual“s spouse for the taxable year.
+  (d) Other limitations and restrictions
+    (1) Beneficiary must be under age 70\1/2\
+       No deduction shall be allowed under this section with respect to any qualified retirement contribution for the benefit of an individual if such individual has attained age 70\1/2\ before the close of such individual“s taxable year for which the contribution was made.
+    (2) Recontributed amounts
+       No deduction shall be allowed under this section with respect to a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16).
+    (3) Amounts contributed under endowment contract
+       In the case of an endowment contract described in section 408(b), no deduction shall be allowed under this section for that portion of the amounts paid under the contract for the taxable year which is properly allocable, under regulations prescribed by the Secretary, to the cost of life insurance.
+    (4) Denial of deduction for amount contributed to inherited annuities or accounts
+       No deduction shall be allowed under this section with respect to any amount paid to an inherited individual retirement account or individual retirement annuity (within the meaning of section 408(d)(3)(C)(ii)).
+  (e) Qualified retirement contribution
+     For purposes of this section, the term ””qualified retirement contribution““ means–
+    (1) any amount paid in cash for the taxable year by or on behalf of an individual to an individual retirement plan for such individual“s benefit, and
+    (2) any amount contributed on behalf of any individual to a plan described in section 501(c)(18).
+  (f) Other definitions and special rules
+    (1) Compensation
+       For purposes of this section, the term ””compensation““ includes earned income (as defined in section 401(c)(2)). The term ””compensation““ does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. The term ””compensation““ shall include any amount includible in the individual“s gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2). For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6).
+    (2) Married individuals
+       The maximum deduction under subsection (b) shall be computed separately for each individual, and this section shall be applied without regard to any community property laws.
+    (3) Time when contributions deemed made
+       For purposes of this section, a taxpayer shall be deemed to have made a contribution to an individual retirement plan on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
+    (4) Reports
+       The Secretary shall prescribe regulations which prescribe the time and the manner in which reports to the Secretary and plan participants shall be made by the plan administrator of a qualified employer or government plan receiving qualified voluntary employee contributions.
+    (5) Employer payments
+       For purposes of this title, any amount paid by an employer to an individual retirement plan shall be treated as payment of compensation to the employee (other than a self-employed individual who is an employee within the meaning of section 401(c)(1)) includible in his gross income in the taxable year for which the amount was contributed, whether or not a deduction for such payment is allowable under this section to the employee.
+    (6) Excess contributions treated as contribution made during subsequent year for which there is an unused limitation
+      (A) In general
+         If for the taxable year the maximum amount allowable as a deduction under this section for contributions to an individual retirement plan exceeds the amount contributed, then the taxpayer shall be treated as having made an additional contribution for the taxable year in an amount equal to the lesser of–
+        (i) the amount of such excess, or
+        (ii) the amount of the excess contributions for such taxable year (determined under section 4973(b)(2) without regard to subparagraph (C) thereof).
+      (B) Amount contributed
+         For purposes of this paragraph, the amount contributed–
+        (i) shall be determined without regard to this paragraph, and
+        (ii) shall not include any rollover contribution.
+      (C) Special rule where excess deduction was allowed for closed year
+         Proper reduction shall be made in the amount allowable as a deduction by reason of this paragraph for any amount allowed as a deduction under this section for a prior taxable year for which the period for assessing deficiency has expired if the amount so allowed exceeds the amount which should have been allowed for such prior taxable year.
+    (7) Election not to deduct contributions
+       T2For election not to deduct contributions to individual retirement plans, see section 408(T3oT2)(2)(B)(ii).
+  (g) Limitation on deduction for active participants in certain pension plans
+    (1) In general
+       If (for any part of any plan year ending with or within a taxable year) an individual or the individual“s spouse is an active participant, each of the dollar limitations contained in subsections (b)(1)(A) and (c)(1)(A) for such taxable year shall be reduced (but not below zero) by the amount determined under paragraph (2).
+    (2) Amount of reduction
+      (A) In general
+         The amount determined under this paragraph with respect to any dollar limitation shall be the amount which bears the same ratio to such limitation as–
+        (i) the excess of–
+          (I) the taxpayer“s adjusted gross income for such taxable year, over
+          (II) the applicable dollar amount, bears to
+        (ii) $10,000 ($20,000 in the case of a joint return for a taxable year beginning after December 31, 2006).
+      (B) No reduction below $200 until complete phase-out
+         No dollar limitation shall be reduced below $200 under paragraph (1) unless (without regard to this subparagraph) such limitation is reduced to zero.
+      (C) Rounding
+         Any amount determined under this paragraph which is not a multiple of $10 shall be rounded to the next lowest $10.
+    (3) Adjusted gross income; applicable dollar amount
+       For purposes of this subsection–
+      (A) Adjusted gross income
+         Adjusted gross income of any taxpayer shall be determined–
+        (i) after application of sections 86 and 469, and
+        (ii) without regard to sections 135, 137, 199, 221, 222, and 911 or the deduction allowable under this section.
+      (B) Applicable dollar amount
+         The term ””applicable dollar amount““ means the following:
+        (i) In the case of a taxpayer filing a joint return:
+            
+           T2The
+            
+           T2applicable
+           T2For taxable years beginning in:
+           T2dollar amount
+            
+           T2is:
+             1998
+           $50,000  
+             1999
+           $51,000  
+             2000
+           $52,000  
+             2001
+           $53,000  
+             2002
+           $54,000  
+             2003
+           $60,000  
+             2004
+           $65,000  
+             2005
+           $70,000  
+             2006
+           $75,000  
+             2007 and thereafter
+           $80,000.
+        (ii) In the case of any other taxpayer (other than a married individual filing a separate return):
+            
+           T2The
+            
+           T2applicable
+           T2For taxable years beginning in:
+           T2dollar amount
+            
+           T2is:
+             1998
+           $30,000  
+             1999
+           $31,000  
+             2000
+           $32,000  
+             2001
+           $33,000  
+             2002
+           $34,000  
+             2003
+           $40,000  
+             2004
+           $45,000  
+             2005 and thereafter
+           $50,000.
+        (iii) In the case of a married individual filing a separate return, zero.
+    (4) Special rule for married individuals filing separately and living apart
+       A husband and wife who–
+      (A) file separate returns for any taxable year, and
+      (B) live apart at all times during such taxable year,
+       shall not be treated as married individuals for purposes of this subsection.
+    (5) Active participant
+       For purposes of this subsection, the term ””active participant““ means, with respect to any plan year, an individual–
+      (A) who is an active participant in–
+        (i) a plan described in section 401(a) which includes a trust exempt from tax under section 501(a),
+        (ii) an annuity plan described in section 403(a),
+        (iii) a plan established for its employees by the United States, by a State or political subdivision thereof, or by an agency or instrumentality of any of the foregoing,
+        (iv) an annuity contract described in section 403(b),
+        (v) a simplified employee pension (within the meaning of section 408(k)), or
+        (vi) any simple retirement account (within the meaning of section 408(p)), or
+      (B) who makes deductible contributions to a trust described in section 501(c)(18).
+       The determination of whether an individual is an active participant shall be made without regard to whether or not such individual“s rights under a plan, trust, or contract are nonforfeitable. An eligible deferred compensation plan (within the meaning of section 457(b)) shall not be treated as a plan described in subparagraph (A)(iii).
+    (6) Certain individuals not treated as active participants
+       For purposes of this subsection, any individual described in any of the following subparagraphs shall not be treated as an active participant for any taxable year solely because of any participation so described:
+      (A) Members of reserve components
+         Participation in a plan described in subparagraph (A)(iii) of paragraph (5) by reason of service as a member of a reserve component of the Armed Forces (as defined in section 10101 of title 10), unless such individual has served in excess of 90 days on active duty (other than active duty for training) during the year.
+      (B) Volunteer firefighters
+         A volunteer firefighter–
+        (i) who is a participant in a plan described in subparagraph (A)(iii) of paragraph (5) based on his activity as a volunteer firefighter, and
+        (ii) whose accrued benefit as of the beginning of the taxable year is not more than an annual benefit of $1,800 (when expressed as a single life annuity commencing at age 65).
+    (7) Special rule for spouses who are not active participants
+       If this subsection applies to an individual for any taxable year solely because their spouse is an active participant, then, in applying this subsection to the individual (but not their spouse)–
+      (A) the applicable dollar amount under paragraph (3)(B)(i) shall be $150,000; and
+      (B) the amount applicable under paragraph (2)(A)(ii) shall be $10,000.
+  (h) Cross reference
+     T2For failure to provide required reports, see section 6652(g).

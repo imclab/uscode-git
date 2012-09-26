@@ -1,1 +1,66 @@
-   Whenever the tribal organization of any Indian tribe is in actual hostility to the United States, the President is authorized, by proclamation, to declare all treaties with such tribe abrogated by such tribe if in his opinion the same can be done consistently with good faith and legal and national obligations.
+  (a) General rule
+     Gross income includes amounts received as alimony or separate maintenance payments.
+  (b) Alimony or separate maintenance payments defined
+     For purposes of this section–
+    (1) In general
+       The term ””alimony or separate maintenance payment““ means any payment in cash if–
+      (A) such payment is received by (or on behalf of) a spouse under a divorce or separation instrument,
+      (B) the divorce or separation instrument does not designate such payment as a payment which is not includible in gross income under this section and not allowable as a deduction under section 215,
+      (C) in the case of an individual legally separated from his spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
+      (D) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
+    (2) Divorce or separation instrument
+       The term ””divorce or separation instrument““ means–
+      (A) a decree of divorce or separate maintenance or a written instrument incident to such a decree,
+      (B) a written separation agreement, or
+      (C) a decree (not described in subparagraph (A)) requiring a spouse to make payments for the support or maintenance of the other spouse.
+  (c) Payments to support children
+    (1) In general
+       Subsection (a) shall not apply to that part of any payment which the terms of the divorce or separation instrument fix (in terms of an amount of money or a part of the payment) as a sum which is payable for the support of children of the payor spouse.
+    (2) Treatment of certain reductions related to contingencies involving child
+       For purposes of paragraph (1), if any amount specified in the instrument will be reduced–
+      (A) on the happening of a contingency specified in the instrument relating to a child (such as attaining a specified age, marrying, dying, leaving school, or a similar contingency), or
+      (B) at a time which can clearly be associated with a contingency of a kind specified in subparagraph (A),
+       an amount equal to the amount of such reduction will be treated as an amount fixed as payable for the support of children of the payor spouse.
+    (3) Special rule where payment is less than amount specified in instrument
+       For purposes of this subsection, if any payment is less than the amount specified in the instrument, then so much of such payment as does not exceed the sum payable for support shall be considered a payment for such support.
+  (d) Spouse
+     For purposes of this section, the term ””spouse““ includes a former spouse.
+  (e) Exception for joint returns
+     This section and section 215 shall not apply if the spouses make a joint return with each other.
+  (f) Recomputation where excess front-loading of alimony payments
+    (1) In general
+       If there are excess alimony payments–
+      (A) the payor spouse shall include the amount of such excess payments in gross income for the payor spouse“s taxable year beginning in the 3rd post-separation year, and
+      (B) the payee spouse shall be allowed a deduction in computing adjusted gross income for the amount of such excess payments for the payee“s taxable year beginning in the 3rd post-separation year.
+    (2) Excess alimony payments
+       For purposes of this subsection, the term ””excess alimony payments““ mean the sum of–
+      (A) the excess payments for the 1st post-separation year, and
+      (B) the excess payments for the 2nd post-separation year.
+    (3) Excess payments for 1st post-separation year
+       For purposes of this subsection, the amount of the excess payments for the 1st post-separation year is the excess (if any) of–
+      (A) the amount of the alimony or separate maintenance payments paid by the payor spouse during the 1st post-separation year, over
+      (B) the sum of–
+        (i) the average of–
+          (I) the alimony or separate maintenance payments paid by the payor spouse during the 2nd post-separation year, reduced by the excess payments for the 2nd post-separation year, and
+          (II) the alimony or separate maintenance payments paid by the payor spouse during the 3rd post-separation year, plus
+        (ii) $15,000.
+    (4) Excess payments for 2nd post-separation year
+       For purposes of this subsection, the amount of the excess payments for the 2nd post-separation year is the excess (if any) of–
+      (A) the amount of the alimony or separate maintenance payments paid by the payor spouse during the 2nd post-separation year, over
+      (B) the sum of–
+        (i) the amount of the alimony or separate maintenance payments paid by the payor spouse during the 3rd post-separation year, plus
+        (ii) $15,000.
+    (5) Exceptions
+      (A) Where payment ceases by reason of death or remarriage
+         Paragraph (1) shall not apply if–
+        (i) either spouse dies before the close of the 3rd post-separation year, or the payee spouse remarries before the close of the 3rd post-separation year, and
+        (ii) the alimony or separate maintenance payments cease by reason of such death or remarriage.
+      (B) Support payments
+         For purposes of this subsection, the term ””alimony or separate maintenance payment““ shall not include any payment received under a decree described in subsection (b)(2)(C).
+      (C) Fluctuating payments not within control of payor spouse
+         For purposes of this subsection, the term ””alimony or separate maintenance payment““ shall not include any payment to the extent it is made pursuant to a continuing liability (over a period of not less than 3 years) to pay a fixed portion or portions of the income from a business or property or from compensation for employment or self-employment.
+    (6) Post-separation years
+       For purposes of this subsection, the term ””1st post-separation years““ means the 1st calendar year in which the payor spouse paid to the payee spouse alimony or separate maintenance payments to which this section applies. The 2nd and 3rd post-separation years shall be the 1st and 2nd succeeding calendar years, respectively.
+  (g) Cross references
+     T2(1) For deduction of alimony or separate maintenance payments, see section 215.
+     T2(2) For taxable status of income of an estate or trust in the case of divorce, etc., see section 682.

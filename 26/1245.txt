@@ -1,1 +1,60 @@
-   The funds apportioned to the Minnesota Chippewa Tribe, the Turtle Mountain Band, and the Chippewa-Cree Tribe may be advanced, expended, invested, or reinvested for any purpose authorized by the respective tribal governing bodies and approved by the Secretary of the Interior: T3ProvidedK, That the governing body of the Minnesota Chippewa Tribe shall act in concert with the General Council of the Pembina Band of Chippewa Indians of the White Earth Reservation for the purpose of making recommendations to the Secretary; T3And provided furtherK, That the Pembina descendants within the Turtle Mountain Band shall be authorized to establish pursuant to regulations set by the Secretary the Pembina Descendants Committee and that the tribal governing body shall be required to work in concert with such committee for the purpose of making recommendations to the Secretary and only those members of the three cited tribes who are enrolled as Pembina descendants under the provisions of this subchapter shall be permitted to share in any per capita distribution of the funds accruing to the tribes.
+  (a) General rule
+    (1) Ordinary income
+       Except as otherwise provided in this section, if section 1245 property is disposed of the amount by which the lower of–
+      (A) the recomputed basis of the property, or
+      (B)        (i) in the case of a sale, exchange, or involuntary conversion, the amount realized, or
+        (ii) in the case of any other disposition, the fair market value of such property,
+       exceeds the adjusted basis of such property shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle.
+    (2) Recomputed basis
+       For purposes of this section–
+      (A) In general
+         The term ””recomputed basis““ means, with respect to any property, its adjusted basis recomputed by adding thereto all adjustments reflected in such adjusted basis on account of deductions (whether in respect of the same or other property) allowed or allowable to the taxpayer or to any other person for depreciation or amortization.
+      (B) Taxpayer may establish amount allowed
+         For purposes of subparagraph (A), if the taxpayer can establish by adequate records or other sufficient evidence that the amount allowed for depreciation or amortization for any period was less than the amount allowable, the amount added for such period shall be the amount allowed.
+      (C) Certain deductions treated as amortization
+         Any deduction allowable under section 179, 179A, 179B, 179C, 179D, 181, 190, 193, or 194 shall be treated as if it were a deduction allowable for amortization.
+    (3) Section 1245 property
+       For purposes of this section, the term ””section 1245 property““ means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 and is either–
+      (A) personal property,
+      (B) other property (not including a building or its structural components) but only if such other property is tangible and has an adjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)–
+        (i) was used as an integral part of manufacturing, production, or extraction or of furnishing transportation, communications, electrical energy, gas, water, or sewage disposal services,
+        (ii) constituted a research facility used in connection with any of the activities referred to in clause (i), or
+        (iii) constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
+      (C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179A, 179B, 179C, 179D, 185,\1\N 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,\2\N
+      (D) a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
+      (E) a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
+      (F) any railroad grading or tunnel bore (as defined in section 168(e)(4)).
+  (b) Exceptions and limitations
+    (1) Gifts
+       Subsection (a) shall not apply to a disposition by gift.
+    (2) Transfers at death
+       Except as provided in section 691 (relating to income in respect of a decedent), subsection (a) shall not apply to a transfer at death.
+    (3) Certain tax-free transactions
+       If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a)(1) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (6), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+    (4) Like kind exchanges; involuntary conversions, etc.
+       If property is disposed of and gain (determined without regard to this section) is not recognized in whole or in part under section 1031 or 1033, then the amount of gain taken into account by the transferor under subsection (a)(1) shall not exceed the sum of–
+      (A) the amount of gain recognized on such disposition (determined without regard to this section), plus
+      (B) the fair market value of property acquired which is not section 1245 property and which is not taken into account under subparagraph (A).
+    (5) Property distributed by a partnership to a partner
+      (A) In general
+         For purposes of this section, the basis of section 1245 property distributed by a partnership to a partner shall be deemed to be determined by reference to the adjusted basis of such property to the partnership.
+      (B) Adjustments added back
+         In the case of any property described in subparagraph (A), for purposes of computing the recomputed basis of such property the amount of the adjustments added back for periods before the distribution by the partnership shall be–
+        (i) the amount of the gain to which subsection (a) would have applied if such property had been sold by the partnership immediately before the distribution at its fair market value at such time, reduced by
+        (ii) the amount of such gain to which section 751(b) applied.
+    (6) Transfers to tax-exempt organization where property will be used in unrelated business
+      (A) In general
+         The second sentence of paragraph (3) shall not apply to a disposition of section 1245 property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
+      (B) Later change in use
+         If any property with respect to the disposition of which gain is not recognized by reason of subparagraph (A) ceases to be used in an unrelated trade or business of the organization acquiring such property, such organization shall be treated for purposes of this section as having disposed of such property on the date of such cessation.
+    (7) Timber property
+       In determining, under subsection (a)(2), the recomputed basis of property with respect to which a deduction under section 194 was allowed for any taxable year, the taxpayer shall not take into account adjustments under section 194 to the extent such adjustments are attributable to the amortizable basis of the taxpayer acquired before the 10th taxable year preceding the taxable year in which gain with respect to the property is recognized.
+    (8) Disposition of amortizable section 197 intangibles
+      (A) In general
+         If a taxpayer disposes of more than 1 amortizable section 197 intangible (as defined in section 197(c)) in a transaction or a series of related transactions, all such amortizable 197 intangibles shall be treated as 1 section 1245 property for purposes of this section.
+      (B) Exception
+         Subparagraph (A) shall not apply to any amortizable section 197 intangible (as so defined) with respect to which the adjusted basis exceeds the fair market value.
+  (c) Adjustments to basis
+     The Secretary shall prescribe such regulations as he may deem necessary to provide for adjustments to the basis of property to reflect gain recognized under subsection (a).
+  (d) Application of section
+     This section shall apply notwithstanding any other provision of this subtitle.

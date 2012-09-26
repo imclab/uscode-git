@@ -1,11 +1,71 @@
-  (a) Extension or confirmation
-     Federal recognition is hereby extended or confirmed with respect to the Wyandotte Indian Tribe of Oklahoma, the Ottawa Indian Tribe of Oklahoma, and the Peoria Indian Tribe of Oklahoma, the provisions of the Acts repealed by subsection (b) of this section notwithstanding.
-  (b) Repeal of provisions terminating Federal supervision
-     The following Acts are hereby repealed:
-    (1) the Act of August 1, 1956 (70 Stat. 893; 25 U.S.C. 791–807), relating to the Wyandotte Tribe;
-    (2) the Act of August 2, 1956 (70 Stat. 937; 25 U.S.C. 821–826), relating to the Peoria Tribe; and
-    (3) the Act of August 3, 1956 (70 Stat. 963; 25 U.S.C. 841–853), relating to the Ottawa Tribe.
-  (c) Tribal rights and privileges; reinstatement and continuation
-     There are hereby reinstated all rights and privileges of each of the tribes described in subsection (a) of this section and their members under Federal treaty, statute, or otherwise which may have been diminished or lost pursuant to the Act relating to them which is repealed by subsection (b) of this section. Nothing contained in this subchapter shall diminish any rights or privileges enjoyed by each of such tribes or their members now or prior to enactment of such Act, under Federal treaty, statute, or otherwise, which are not inconsistent with the provisions of this subchapter.
-  (d) Continuation of property or contractual rights or obligations and tax obligations
-     Except as specifically provided in this subchapter, nothing contained in this subchapter shall alter any property rights or obligations, any contractual rights or obligations, including existing fishing rights, or any obligation for taxes already levied.
+  (a) Gross income from sources within United States
+     The following items of gross income shall be treated as income from sources within the United States:
+    (1) Interest
+       Interest from the United States or the District of Columbia, and interest on bonds, notes, or other interest-bearing obligations of noncorporate residents or domestic corporations not including–
+      (A) interest from a resident alien individual or domestic corporation, if such individual or corporation meets the 80-percent foreign business requirements of subsection (c)(1),
+      (B) interest–
+        (i) on deposits with a foreign branch of a domestic corporation or a domestic partnership if such branch is engaged in the commercial banking business, and
+        (ii) on amounts satisfying the requirements of subparagraph (B) of section 871(i)(3) which are paid by a foreign branch of a domestic corporation or a domestic partnership, and
+      (C) in the case of a foreign partnership, which is predominantly engaged in the active conduct of a trade or business outside the United States, any interest not paid by a trade or business engaged in by the partnership in the United States and not allocable to income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
+    (2) Dividends
+       The amount received as dividends–
+      (A) from a domestic corporation other than a corporation which has an election in effect under section 936, or
+      (B) from a foreign corporation unless less than 25 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States; but only in an amount which bears the same ratio to such dividends as the gross income of the corporation for such period which was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States bears to its gross income from all sources; but dividends (other than dividends for which a deduction is allowable under section 245(b)) from a foreign corporation shall, for purposes of subpart A of part III (relating to foreign tax credit), be treated as income from sources without the United States to the extent (and only to the extent) exceeding the amount which is 100/70th of the amount of the deduction allowable under section 245 in respect of such dividends, or
+      (C) from a foreign corporation to the extent that such amount is required by section 243(e) (relating to certain dividends from foreign corporations) to be treated as dividends from a domestic corporation which is subject to taxation under this chapter, and to such extent subparagraph (B) shall not apply to such amount, or
+      (D) from a DISC or former DISC (as defined in section 992(a)) except to the extent attributable (as determined under regulations prescribed by the Secretary) to qualified export receipts described in section 993(a)(1) (other than interest and gains described in section 995(b)(1)).
+       In the case of any dividend from a 20-percent owned corporation (as defined in section 243(c)(2)), subparagraph (B) shall be applied by substituting ””100/80th““ for ””100/70th““.
+    (3) Personal services
+       Compensation for labor or personal services performed in the United States; except that compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if–
+      (A) the labor or services are performed by a nonresident alien individual temporarily present in the United States for a period or periods not exceeding a total of 90 days during the taxable year,
+      (B) such compensation does not exceed $3,000 in the aggregate, and
+      (C) the compensation is for labor or services performed as an employee of or under a contract with–
+        (i) a nonresident alien, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, or
+        (ii) an individual who is a citizen or resident of the United States, a domestic partnership, or a domestic corporation, if such labor or services are performed for an office or place of business maintained in a foreign country or in a possession of the United States by such individual, partnership, or corporation.
+       In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual“s temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
+    (4) Rentals and royalties
+       Rentals or royalties from property located in the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using in the United States patents, copyrights, secret processes and formulas, good will, trade-marks, trade brands, franchises, and other like property.
+    (5) Disposition of United States real property interest
+       Gains, profits, and income from the disposition of a United States real property interest (as defined in section 897(c)).
+    (6) Sale or exchange of inventory property
+       Gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) without the United States (other than within a possession of the United States) and its sale or exchange within the United States.
+    (7) Amounts received as underwriting income (as defined in section 832(b)(3)) derived from the issuing (or reinsuring) of any insurance or annuity contract–
+      (A) in connection with property in, liability arising out of an activity in, or in connection with the lives or health of residents of, the United States, or
+      (B) in connection with risks not described in subparagraph (A) as a result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect to issuing (or reinsuring) any insurance or annuity contract in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of, the United States.
+    (8) Social security benefits
+       Any social security benefit (as defined in section 86(d)).
+  (b) Taxable income from sources within United States
+     From the items of gross income specified in subsection (a) as being income from sources within the United States there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
+  (c) Foreign business requirements
+    (1) Foreign business requirements
+      (A) In general
+         An individual or corporation meets the 80-percent foreign business requirements of this paragraph if it is shown to the satisfaction of the Secretary that at least 80 percent of the gross income from all sources of such individual or corporation for the testing period is active foreign business income.
+      (B) Active foreign business income
+         For purposes of subparagraph (A), the term ””active foreign business income““ means gross income which–
+        (i) is derived from sources outside the United States (as determined under this subchapter) or, in the case of a corporation, is attributable to income so derived by a subsidiary of such corporation, and
+        (ii) is attributable to the active conduct of a trade or business in a foreign country or possession of the United States by the individual or corporation (or by a subsidiary.)
+         For purposes of this subparagraph, the term ””subsidiary““ means any corporation in which the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting ””50 percent““ for ””80 percent““ each place it appears).
+      (C) Testing period
+         For purposes of this subsection, the term ””testing period““ means the 3-year period ending with the close of the taxable year of the individual or corporation preceding the payment (or such part of such period as may be applicable). If the individual or corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
+    (2) Look-thru where related person receives interest
+      (A) In general
+         In the case of interest received by a related person from a resident alien individual or domestic corporation meeting the 80-percent foreign business requirements of paragraph (1), subsection (a)(1)(A) shall apply only to a percentage of such interest equal to the percentage which–
+        (i) the gross income of such individual or corporation for the testing period from sources outside the United States (as determined under this subchapter), is of
+        (ii) the total gross income of such individual or corporation for the testing period.
+      (B) Related person
+         For purposes of this paragraph, the term ””related person““ has the meaning given such term by section 954(d)(3), except that–
+        (i) such section shall be applied by substituting ””the individual or corporation making the payment““ for ””controlled foreign corporation““ each place it appears, and
+        (ii) such section shall be applied by substituting ””10 percent or more““ for ””more than 50 percent““ each place it appears.
+  (d) Special rule for application of subsection (a)(2)(B)
+     For purposes of subsection (a)(2)(B), if the foreign corporation has no gross income from any source for the 3-year period (or part thereof) specified, the requirements of such subsection shall be applied with respect to the taxable year of such corporation in which the payment of the dividend is made.
+  (e) Income from certain railroad rolling stock treated as income from sources within the United States
+    (1) General rule
+       For purposes of subsection (a) and section 862(a), if–
+      (A) a taxpayer leases railroad rolling stock which is section 1245 property (as defined in section 1245(a)(3)) to a domestic common carrier by railroad or a corporation which is controlled, directly or indirectly, by one or more such common carriers, and
+      (B) the use under such lease is expected to be use within the United States,
+       all amounts includible in gross income by the taxpayer with respect to such railroad rolling stock (including gain from sale or other disposition of such railroad rolling stock) shall be treated as income from sources within the United States. The requirements of subparagraph (B) of the preceding sentence shall be treated as satisfied if the only expected use outside the United States is use by a person (whether or not a United States person) in Canada or Mexico on a temporary basis which is not expected to exceed a total of 90 days in any taxable year.
+    (2) Paragraph (1) not to apply where lessor is a member of controlled group which includes a railroad
+       Paragraph (1) shall not apply to a lease between two members of the same controlled group of corporations (as defined in section 1563) if any member of such group is a domestic common carrier by railroad or a switching or terminal company all of whose stock is owned by one or more domestic common carriers by railroad.
+    (3) Denial of foreign tax credit
+       No credit shall be allowed under section 901 for any payments to foreign countries with respect to any amount received by the taxpayer with respect to railroad rolling stock which is subject to paragraph (1).
+  (f) Cross reference
+     T2For treatment of interest paid by the branch of a foreign corporation, see section 884(f).

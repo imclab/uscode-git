@@ -1,0 +1,176 @@
+  (a) Addition to tax
+     Except as otherwise provided in this section, in the case of any underpayment of estimated tax by a corporation, there shall be added to the tax under chapter 1 for the taxable year an amount determined by applying–
+    (1) the underpayment rate established under section 6621,
+    (2) to the amount of the underpayment,
+    (3) for the period of the underpayment.
+  (b) Amount of underpayment; period of underpayment
+     For purposes of subsection (a)–
+    (1) Amount
+       The amount of the underpayment shall be the excess of–
+      (A) the required installment, over
+      (B) the amount (if any) of the installment paid on or before the due date for the installment.
+    (2) Period of underpayment
+       The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier–
+      (A) the 15th day of the 3rd month following the close of the taxable year, or
+      (B) with respect to any portion of the underpayment, the date on which such portion is paid.
+    (3) Order of crediting payments
+       For purposes of paragraph (2)(B), a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
+  (c) Number of required installments; due dates
+     For purposes of this section–
+    (1) Payable in 4 installments
+       There shall be 4 required installments for each taxable year.
+       Clause (ii) shall not apply if the preceding taxable year was not a taxable year of 12 months, or the corporation did not file a return for such preceding taxable year showing a liability for tax.
+    (2) Time for payment of installments
+        
+          1stDApril 15  
+          2ndDJune 15  
+          3rdDSeptember 15  
+          4thDDecember 15.
+  (d) Amount of required installments
+     For purposes of this section–
+    (1) Amount
+      (A) In general
+         Except as otherwise provided in this section, the amount of any required installment shall be 25 percent of the required annual payment.
+      (B) Required annual payment
+         Except as otherwise provided in this subsection, the term ””required annual payment““ means the lesser of–
+        (i) 100 percent of the tax shown on the return for the taxable year (or, if no return is filed, 100 percent of the tax for such year), or
+        (ii) 100 percent of the tax shown on the return of the corporation for the preceding taxable year.
+    (2) Large corporations required to pay 100 percent of current year tax
+      (A) In general
+         Except as provided in subparagraph (B), clause (ii) of paragraph (1)(B) shall not apply in the case of a large corporation.
+      (B) May use last year“s tax for 1st installment
+         Subparagraph (A) shall not apply for purposes of determining the amount of the 1st required installment for any taxable year. Any reduction in such 1st installment by reason of the preceding sentence shall be recaptured by increasing the amount of the next required installment determined under paragraph (1) by the amount of such reduction.
+  (e) Lower required installment where annualized income installment or adjusted seasonal installment is less than amount determined under subsection (d)
+    (1) In general
+       In the case of any required installment, if the corporation establishes that the annualized income installment or the adjusted seasonal installment is less than the amount determined under subsection (d)(1) (as modified by paragraphs (2) and (3) of subsection (d))–
+      (A) the amount of such required installment shall be the annualized income installment (or, if lesser, the adjusted seasonal installment), and
+      (B) any reduction in a required installment resulting from the application of this paragraph shall be recaptured by increasing the amount of the next required installment determined under subsection (d)(1) (as so modified) by the amount of such reduction (and by increasing subsequent required installments to the extent that the reduction has not previously been recaptured under this subparagraph).
+    (2) Determination of annualized income installment
+      (A) In general
+         In the case of any required installment, the annualized income installment is the excess (if any) of–
+        (i) an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income, alternative minimum taxable income, and modified alternative minimum taxable income–
+          (I) for the first 3 months of the taxable year, in the case of the 1st required installment,
+          (II) for the first 3 months of the taxable year, in the case of the 2nd required installment,
+          (III) for the first 6 months of the taxable year in the case of the 3rd required installment, and
+          (IV) for the first 9 months of the taxable year, in the case of the 4th required installment, over
+        (ii) the aggregate amount of any prior required installments for the taxable year.
+      (B) Special rules
+         For purposes of this paragraph–
+        (i) Annualization
+           The taxable income, alternative minimum taxable income, and modified alternative minimum taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
+        (ii) Applicable percentage
+           xlT2 In the case of the following
+           T2The applicable
+           xlT2  required installments:
+           T2percentage is:
+              1stL  25   
+              2ndL  50   
+              3rdL  75   
+              4thL  100.    
+        (iii) Modified alternative minimum taxable income
+           The term ””modified alternative minimum taxable income““ has the meaning given to such term by section 59A(b).
+      (C) Election for different annualization periods
+        (i) If the taxpayer makes an election under this clause–
+          (I) subclause (I) of subparagraph (A)(i) shall be applied by substituting ””2 months““ for ””3 months““,
+          (II) subclause (II) of subparagraph (A)(i) shall be applied by substituting ””4 months““ for ””3 months““,
+          (III) subclause (III) of subparagraph (A)(i) shall be applied by substituting ””7 months““ for ””6 months““, and
+          (IV) subclause (IV) of subparagraph (A)(i) shall be applied by substituting ””10 months““ for ””9 months““.
+        (ii) If the taxpayer makes an election under this clause–
+          (I) subclause (II) of subparagraph (A)(i) shall be applied by substituting ””5 months““ for ””3 months““,
+          (II) subclause (III) of subparagraph (A)(i) shall be applied by substituting ””8 months““ for ””6 months““, and
+          (III) subclause (IV) of subparagraph (A)(i) shall be applied by substituting ””11 months““ for ””9 months““.
+        (iii) An election under clause (i) or (ii) shall apply to the taxable year for which made and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
+    (3) Determination of adjusted seasonal installment
+      (A) In general
+         In the case of any required installment, the amount of the adjusted seasonal installment is the excess (if any) of–
+        (i) 100 percent of the amount determined under subparagraph (C), over
+        (ii) the aggregate amount of all prior required installments for the taxable year.
+      (B) Limitation on application of paragraph
+         This paragraph shall apply only if the base period percentage for any 6 consecutive months of the taxable year equals or exceeds 70 percent.
+      (C) Determination of amount
+         The amount determined under this subparagraph for any installment shall be determined in the following manner–
+        (i) take the taxable income for all months during the taxable year preceding the filing month,
+        (ii) divide such amount by the base period percentage for all months during the taxable year preceding the filing month,
+        (iii) determine the tax on the amount determined under clause (ii), and
+        (iv) multiply the tax computed under clause (iii) by the base period percentage for the filing month and all months during the taxable year preceding the filing month.
+      (D) Definitions and special rules
+         For purposes of this paragraph–
+        (i) Base period percentage
+           The base period percentage for any period of months shall be the average percent which the taxable income for the corresponding months in each of the 3 preceding taxable years bears to the taxable income for the 3 preceding taxable years.
+        (ii) Filing month
+           The term ””filing month““ means the month in which the installment is required to be paid.
+        (iii) Reorganization, etc.
+           The Secretary may by regulations provide for the determination of the base period percentage in the case of reorganizations, new corporations, and other similar circumstances.
+    (4) Treatment of subpart F and section 936 income
+      (A) In general
+         Any amounts required to be included in gross income under section 936(h) or 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under paragraph (2) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
+      (B) Prior year safe harbor
+        (i) In general
+           If a taxpayer elects to have this subparagraph apply for any taxable year–
+          (I) subparagraph (A) shall not apply, and
+          (II) for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in subparagraph (A) in an amount equal to 115 percent of the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in the case of the first and second required installments for such taxable year).
+        (ii) Special rule for noncontrolling shareholder
+          (I) In general
+             If a taxpayer making the election under clause (i) is a noncontrolling shareholder of a corporation, clause (i)(II) shall be applied with respect to items of such corporation by substituting ””100 percent““ for ””115 percent““.
+          (II) Noncontrolling shareholder
+             For purposes of subclause (I), the term ””noncontrolling shareholder““ means, with respect to any corporation, a shareholder which (as of the beginning of the taxable year for which the installment is being made) does not own (within the meaning of section 958(a)), and is not treated as owning (within the meaning of section 958(b)), more than 50 percent (by vote or value) of the stock in the corporation.
+    (5) Treatment of certain REIT dividends
+      (A) In general
+         Any dividend received from a closely held real estate investment trust by any person which owns (after application of subsection (d)(5) of section 856) 10 percent or more (by vote or value) of the stock or beneficial interests in the trust shall be taken into account in computing annualized income installments under paragraph (2) in a manner similar to the manner under which partnership income inclusions are taken into account.
+      (B) Closely held REIT
+         For purposes of subparagraph (A), the term ””closely held real estate investment trust““ means a real estate investment trust with respect to which 5 or fewer persons own (after application of subsection (d)(5) of section 856) 50 percent or more (by vote or value) of the stock or beneficial interests in the trust.
+  (f) Exception where tax is small amount
+     No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax) is less than $500.
+  (g) Definitions and special rules
+    (1) Tax
+       For purposes of this section, the term ””tax““ means the excess of–
+      (A) the sum of–
+        (i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever applies,
+        (ii) the tax imposed by section 55,
+        (iii) the tax imposed by section 59A, plus
+        (iv) the tax imposed by section 887, over
+      (B) the credits against tax provided by part IV of subchapter A of chapter 1.
+       For purposes of the preceding sentence, in the case of a foreign corporation subject to taxation under section 11 or 1201(a), or under subchapter L of chapter 1, the tax imposed by section 881 shall be treated as a tax imposed by section 11.
+    (2) Large corporation
+      (A) In general
+         For purposes of this section, the term ””large corporation““ means any corporation if such corporation (or any predecessor corporation) had taxable income of $1,000,000 or more for any taxable year during the testing period.
+      (B) Rules for applying subparagraph (A)
+        (i) Testing period
+           For purposes of subparagraph (A), the term ””testing period““ means the 3 taxable years immediately preceding the taxable year involved.
+        (ii) Members of controlled group
+           For purposes of applying subparagraph (A) to any taxable year in the testing period with respect to corporations which are component members of a controlled group of corporations for such taxable year, the $1,000,000 amount specified in subparagraph (A) shall be divided among such members under rules similar to the rules of section 1561.
+        (iii) Certain carrybacks and carryovers not taken into account
+           For purposes of subparagraph (A), taxable income shall be determined without regard to any amount carried to the taxable year under section 172 or 1212(a).
+    (3) Certain tax-exempt organizations
+       For purposes of this section–
+      (A) Any organization subject to the tax imposed by section 511, and any private foundation, shall be treated as a corporation subject to tax under section 11.
+      (B) Any tax imposed by section 511, and any tax imposed by section 1 or 4940 on a private foundation, shall be treated as a tax imposed by section 11.
+      (C) Any reference to taxable income shall be treated as including a reference to unrelated business taxable income or net investment income (as the case may be).
+       In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting ””5th month““ for ””3rd month““, subsection (e)(2)(A) shall be applied by substituting ””2 months““ for ””3 months““ in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting ””May 15““ for ””April 15““.
+    (4) Application of section to certain taxes imposed on S corporations
+       In the case of an S corporation, for purposes of this section–
+      (A) The following taxes shall be treated as imposed by section 11:
+        (i) The tax imposed by section 1374(a) (or the corresponding provisions of prior law).
+        (ii) The tax imposed by section 1375(a).
+        (iii) Any tax for which the S corporation is liable by reason of section 1371(d)(2).
+      (B) Paragraph (2) of subsection (d) shall not apply.
+      (C) Clause (ii) of subsection (d)(1)(B) shall be applied as if it read as follows:
+         ””(ii) the sum of–
+         ””(I) the amount determined under clause (i) by only taking into account the taxes referred to in clauses (i) and (iii) of subsection (g)(4)(A), and
+         ””(II) 100 percent of the tax imposed by section 1375(a) which was shown on the return of the corporation for the preceding taxable year.““
+      (D) The requirement in the last sentence of subsection (d)(1)(B) that the return for the preceding taxable year show a liability for tax shall not apply.
+      (E) Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
+  (h) Excessive adjustment under section 6425
+    (1) Addition to tax
+       If the amount of an adjustment under section 6425 made before the 15th day of the 3rd month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
+    (2) Excessive amount
+       For purposes of paragraph (1), the excessive amount is equal to the amount of the adjustment or (if smaller) the amount by which–
+      (A) the income tax liability (as defined in section 6425(c)) for the taxable year as shown on the return for the taxable year, exceeds
+      (B) the estimated income tax paid during the taxable year, reduced by the amount of the adjustment.
+        (i) Fiscal years and short years
+          (1) Fiscal years
+             In applying this section to a taxable year beginning on any date other than January 1, there shall be substituted, for the months specified in this section, the months which correspond thereto.
+          (2) Short taxable year
+             This section shall be applied to taxable years of less than 12 months in accordance with regulations prescribed by the Secretary.
+        (j) Regulations
+           The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.

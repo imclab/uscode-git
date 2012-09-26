@@ -1,0 +1,51 @@
+  (a) Allowance of credit
+     There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer an amount equal to $1,000.
+  (b) Limitations
+    (1) Limitation based on adjusted gross income
+       The amount of the credit allowable under subsection (a) shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer“s modified adjusted gross income exceeds the threshold amount. For purposes of the preceding sentence, the term ””modified adjusted gross income““ means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
+    (2) Threshold amount
+       For purposes of paragraph (1), the term ””threshold amount““ means–
+      (A) $110,000 in the case of a joint return,
+      (B) $75,000 in the case of an individual who is not married, and
+      (C) $55,000 in the case of a married individual filing a separate return.
+       For purposes of this paragraph, marital status shall be determined under section 7703.
+    (3) Limitation based on amount of tax
+       In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of–
+      (A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+      (B) the sum of the credits allowable under this subpart (other than this section and sections 23 and 25B) and section 27 for the taxable year.
+  (c) Qualifying child
+     For purposes of this section–
+    (1) In general
+       The term ””qualifying child““ means a qualifying child of the taxpayer (as defined in section 152(c)) who has not attained age 17.
+    (2) Exception for certain noncitizens
+       The term ””qualifying child““ shall not include any individual who would not be a dependent if subparagraph (A) of section 152(b)(3) were applied without regard to all that follows ””resident of the United States““.
+  (d) Portion of credit refundable
+    (1) In general
+       The aggregate credits allowed to a taxpayer under subpart C shall be increased by the lesser of–
+      (A) the credit which would be allowed under this section without regard to this subsection and the limitation under section 26(a)(2) or subsection (b)(3), as the case may be, or
+      (B) the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase if the limitation imposed by section 26(a)(2) or subsection (b)(3), as the case may be, were increased by the excess (if any) of–
+        (i) 15 percent of so much of the taxpayer“s earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $10,000, or
+        (ii) in the case of a taxpayer with 3 or more qualifying children, the excess (if any) of–
+          (I) the taxpayer“s social security taxes for the taxable year, over
+          (II) the credit allowed under section \1\N for the taxable year.
+       The amount of the credit allowed under this subsection shall not be treated as a credit allowed under this subpart and shall reduce the amount of credit otherwise allowable under subsection (a) without regard to section 26(a)(2) or subsection (b)(3), as the case may be. For purposes of subparagraph (B), any amount excluded from gross income by reason of section 112 shall be treated as earned income which is taken into account in computing taxable income for the taxable year.
+    (2) Social security taxes
+       For purposes of paragraph (1)–
+      (A) In general
+         The term ””social security taxes““ means, with respect to any taxpayer for any taxable year–
+        (i) the amount of the taxes imposed by sections 3101 and 3201(a) on amounts received by the taxpayer during the calendar year in which the taxable year begins,
+        (ii) 50 percent of the taxes imposed by section 1401 on the self-employment income of the taxpayer for the taxable year, and
+        (iii) 50 percent of the taxes imposed by section 3211(a) on amounts received by the taxpayer during the calendar year in which the taxable year begins.
+      (B) Coordination with special refund of social security taxes
+         The term ””social security taxes““ shall not include any taxes to the extent the taxpayer is entitled to a special refund of such taxes under section 6413(c).
+      (C) Special rule
+         Any amounts paid pursuant to an agreement under section 3121(T3lK) (relating to agreements entered into by American employers with respect to foreign affiliates) which are equivalent to the taxes referred to in subparagraph (A)(i) shall be treated as taxes referred to in such subparagraph.
+    (3) Inflation adjustment
+       In the case of any taxable year beginning in a calendar year after 2001, the $10,000 amount contained in paragraph (1)(B) shall be increased by an amount equal to–
+      (A) such dollar amount, multiplied by
+      (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2000““ for ””calendar year 1992““ in subparagraph (B) thereof.
+       Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
+  (e) Identification requirement
+     No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
+  (f) Taxable year must be full taxable year
+     Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.

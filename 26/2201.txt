@@ -1,19 +1,33 @@
-   For the purpose of this chapter–
-  (1) ””Indian tribe““ or ””tribe““ means any Indian tribe, band, group, pueblo, or community for which, or for the members of which, the United States holds lands in trust;
-  (2) ””Indian““ means–
-    (A) any person who is a member of any Indian tribe, is eligible to become a member of any Indian tribe, or is an owner (as of October 27, 2004) of a trust or restricted interest in land;
-    (B) any person meeting the definition of Indian under the Indian Reorganization Act (25 U.S.C. 479) and the regulations promulgated thereunder; and
-    (C) with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to section 2206 of this title, any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State.\1\N
-  (3) ””Secretary““ means the Secretary of the Interior;
-  (4) ””trust or restricted lands““ means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and ””trust or restricted interest in land““ or ””trust or restricted interest in a parcel of land““ means an interest in land, title to which is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.\1\
-  (5) ””heirs of the first or second degree““ means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.\1\
-  (6) ””parcel of highly fractionated Indian land““ means a parcel of land that the Secretary, pursuant to authority under a provision of this chapter, determines to have, as evidenced by the Secretary“s records at the time of the determination–
-    (A) 50 or more but less than 100 co-owners of undivided trust or restricted interests, and no 1 of such co-owners holds a total undivided trust or restricted interest in the parcel that is greater than 10 percent of the entire undivided ownership of the parcel; or
-    (B) 100 or more co-owners of undivided trust or restricted interests;
-  (7) ””land““ means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;
-  (8) ””person““ or ””individual““ means a natural person;
-  (9) ””eligible heirs““ means, for purposes of section 2206 of this title, any of a decedent“s children, grandchildren, great grandchildren, full siblings, half siblings by blood, and parents who are–
-    (A) Indian; or
-    (B) lineal descendents within 2 degrees of consanguinity of an Indian; or
-    (C) owners of a trust or restricted interest in a parcel of land for purposes of inheriting by descent, renunciation, or consolidation agreement under section 2206 of this title, another trust or restricted interest in such parcel from the decedent; and
-  (10) ””without regard to waste““ means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
+  (a) In general
+     Unless the executor elects not to have this section apply, in applying sections 2001 and 2101 to the estate of a qualified decedent, the rate schedule set forth in subsection (c) shall be deemed to be the rate schedule set forth in section 2001(c).
+  (b) Qualified decedent
+     For purposes of this section, the term ””qualified decedent““ means–
+    (1) any citizen or resident of the United States dying while in active service of the Armed Forces of the United States, if such decedent–
+      (A) was killed in action while serving in a combat zone, as determined under section 112(c), or
+      (B) died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of a hazard to which such decedent was subjected as an incident of such service,
+    (2) any specified terrorist victim (as defined in section 692(d)(4)), and
+    (3) any astronaut whose death occurs in the line of duty.
+  (c) Rate schedule
+      
+     Not over $150,000 D1 percent of the amount by which such amount exceeds $100,000.
+     Over $150,000 but not over $200,000 D$500 plus 2 percent of the excess over $150,000.
+     Over $200,000 but not over $300,000 D$1,500 plus 3 percent of the excess over $200,000.
+     Over $300,000 but not over $500,000 D$4,500 plus 4 percent of the excess over $300,000.
+     Over $500,000 but not over $700,000 D$12,500 plus 5 percent of the excess over $500,000.
+     Over $700,000 but not over $900,000 D$22,500 plus 6 percent of the excess over $700,000.
+     Over $900,000 but not over $1,100,000 D$34,500 plus 7 percent of the excess over $900,000.
+     Over $1,100,000 but not over $1,600,000 D$48,500 plus 8 percent of the excess over $1,100,000.
+     Over $1,600,000 but not over $2,100,000 D$88,500 plus 9 percent of the excess over $1,600,000.
+     Over $2,100,000 but not over $2,600,000 D$133,500 plus 10 percent of the excess over $2,100,000.
+     Over $2,600,000 but not over $3,100,000 D$183,500 plus 11 percent of the excess over $2,600,000.
+     Over $3,100,000 but not over $3,600,000 D$238,500 plus 12 percent of the excess over $3,100,000.
+     Over $3,600,000 but not over $4,100,000 D$298,500 plus 13 percent of the excess over $3,600,000.
+     Over $4,100,000 but not over $5,100,000 D$363,500 plus 14 percent of the excess over $4,100,000.
+     Over $5,100,000 but not over $6,100,000 D$503,500 plus 15 percent of the excess over $5,100,000.
+     Over $6,100,000 but not over $7,100,000 D$653,500 plus 16 percent of the excess over $6,100,000.
+     Over $7,100,000 but not over $8,100,000 D$813,500 plus 17 percent of the excess over $7,100,000.
+     Over $8,100,000 but not over $9,100,000 D$983,500 plus 18 percent of the excess over $8,100,000.
+     Over $9,100,000 but not over $10,100,000 D$1,163,500 plus 19 percent of the excess over $9,100,000.
+     Over $10,100,000 D$1,353,500 plus 20 percent of the excess over $10,100,000.
+  (d) Determination of unified credit
+     In the case of an estate to which this section applies, subsection (a) shall not apply in determining the credit under section 2010.

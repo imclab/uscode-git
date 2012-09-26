@@ -1,1 +1,77 @@
-   The funds on deposit in the Treasury of the United States to the credit of the Citizen Band of Potawatomi Indians of Oklahoma that were appropriated by the Act of July 22, 1969 (Public Law 91–47) to pay a judgment by the Indian Claims Commission in docket numbered 96 dated August 27, 1968, and the interest thereon, including the interest accruing thereon, after payment of attorney fees and expenses, may be advanced or expended for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior. Any part of such funds that may be distributed per capita to the members of the band shall not be subject to Federal or State income tax.
+  (a) Imposition of tax
+     Except as provided in subsection (c), there is hereby imposed for each taxable year a tax of 30 percent of the amount received from sources within the United States by a foreign corporation as–
+    (1) interest (other than original issue discount as defined in section 1273), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income,
+    (2) gains described in section 631(b) or (c),
+    (3) in the case of–
+      (A) a sale or exchange of an original issue discount obligation, the amount of the original issue discount accruing while such obligation was held by the foreign corporation (to the extent such discount was not theretofore taken into account under subparagraph (B)), and
+      (B) a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the foreign corporation (except that such original issue discount shall be taken into account under this subparagraph only to the extent such discount was not theretofore taken into account under this subparagraph and only to the extent that the tax thereon does not exceed the payment less the tax imposed by paragraph (1) thereon), and
+    (4) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any such property, to the extent such gains are from payments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
+       but only to the extent the amount so received is not effectively connected with the conduct of a trade or business within the United States.
+  (b) Exception for certain possessions
+    (1) Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands
+       For purposes of this section and section 884, a corporation created or organized in Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands or under the law of any such possession shall not be treated as a foreign corporation for any taxable year if–
+      (A) at all times during such taxable year less than 25 percent in value of the stock of such corporation is beneficially owned (directly or indirectly) by foreign persons,
+      (B) at least 65 percent of the gross income of such corporation is shown to the satisfaction of the Secretary to be effectively connected with the conduct of a trade or business in such a possession or the United States for the 3-year period ending with the close of the taxable year of such corporation (or for such part of such period as the corporation or any predecessor has been in existence), and
+      (C) no substantial part of the income of such corporation is used (directly or indirectly) to satisfy obligations to persons who are not bona fide residents of such a possession or the United States.
+    (2) Commonwealth of Puerto Rico
+      (A) In general
+         If dividends are received during a taxable year by a corporation–
+        (i) created or organized in, or under the law of, the Commonwealth of Puerto Rico, and
+        (ii) with respect to which the requirements of subparagraphs (A), (B), and (C) of paragraph (1) are met for the taxable year,
+         subsection (a) shall be applied for such taxable year by substituting ””10 percent““ for ””30 percent““.
+      (B) Applicability
+         If, on or after the date of the enactment of this paragraph, an increase in the rate of the Commonwealth of Puerto Rico“s withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
+    (3) Definitions
+      (A) Foreign person
+         For purposes of paragraph (1), the term ””foreign person““ means any person other than–
+        (i) a United States person, or
+        (ii) a person who would be a United States person if references to the United States in section 7701 included references to a possession of the United States.
+      (B) Indirect ownership rules
+         For purposes of paragraph (1), the rules of section 318(a)(2) shall apply except that ””5 percent““ shall be substituted for ””50 percent““ in subparagraph (C) thereof.
+  (c) Repeal of tax on interest of foreign corporations received from certain portfolio debt investments
+    (1) In general
+       In the case of any portfolio interest received by a foreign corporation from sources within the United States, no tax shall be imposed under paragraph (1) or (3) of subsection (a).
+    (2) Portfolio interest
+       For purposes of this subsection, the term ””portfolio interest““ means any interest (including original issue discount) which would be subject to tax under subsection (a) but for this subsection and which is described in any of the following subparagraphs:
+      (A) Certain obligations which are not registered
+         Interest which is paid on any obligation which is described in section 871(h)(2)(A).
+      (B) Certain registered obligations
+         Interest which is paid on an obligation–
+        (i) which is in registered form, and
+        (ii) with respect to which the person who would otherwise be required to deduct and withhold tax from such interest under section 1442(a) receives a statement which meets the requirements of section 871(h)(5) that the beneficial owner of the obligation is not a United States person.
+    (3) Portfolio interest shall not include interest received by certain persons
+       For purposes of this subsection, the term ””portfolio interest““ shall not include any portfolio interest which–
+      (A) except in the case of interest paid on an obligation of the United States, is received by a bank on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business,
+      (B) is received by a 10-percent shareholder (within the meaning of section 871(h)(3)(B)), or
+      (C) is received by a controlled foreign corporation from a related person (within the meaning of section 864(d)(4)).
+    (4) Portfolio interest not to include certain contingent interest
+       For purposes of this subsection, the term ””portfolio interest““ shall not include any interest which is treated as not being portfolio interest under the rules of section 871(h)(4).
+    (5) Special rules for controlled foreign corporations
+      (A) In general
+         In the case of any portfolio interest received by a controlled foreign corporation, the following provisions shall not apply:
+        (i) Subparagraph (A) of section 954(b)(3) (relating to exception where foreign base company income is less than 5 percent or $1,000,000).
+        (ii) Paragraph (4) of section 954(b) (relating to exception for certain income subject to high foreign taxes).
+        (iii) Clause (i) of section 954(c)(3)(A) (relating to certain income received from related persons).
+      (B) Controlled foreign corporation
+         For purposes of this subsection, the term ””controlled foreign corporation““ has the meaning given to such term by section 957(a).
+    (6) Secretary may cease application of this subsection
+       Under rules similar to the rules of section 871(h)(6), the Secretary may provide that this subsection shall not apply to payments of interest described in section 871(h)(6).
+    (7) Registered form
+       For purposes of this subsection, the term ””registered form““ has the meaning given such term by section 163(f).
+  (d) Tax not to apply to certain interest and dividends
+     No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amount described in section 871(i)(2).
+  (e) Tax not to apply to certain dividends of regulated investment companies
+    (1) Interest-related dividends
+      (A) In general
+         Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) of subsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
+      (B) Exception
+         Subparagraph (A) shall not apply–
+        (i) to any dividend referred to in section 871(k)(1)(B), and
+        (ii) to any interest-related dividend received by a controlled foreign corporation (within the meaning of section 957(a)) to the extent such dividend is attributable to interest received by the regulated investment company from a person who is a related person (within the meaning of section 864(d)(4)) with respect to such controlled foreign corporation.
+      (C) Treatment of dividends received by controlled foreign corporations
+         The rules of subsection (c)(5)(A) shall apply to any interest-related dividend received by a controlled foreign corporation (within the meaning of section 957(a)) to the extent such dividend is attributable to interest received by the regulated investment company which is described in clause (ii) of section 871(k)(1)(E) (and not described in clause (i) or (iii) of such section).
+    (2) Short-term capital gain dividends
+       No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capital gain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
+  (f) Cross reference
+     T2For doubling of tax on corporations of certain foreign countries, see section 891.
+     T2For special rules for original issue discount, see section 871(g).

@@ -1,1 +1,7 @@
-   No part of any of the funds distributed in accordance with this subchapter shall be subject to Federal or State income tax.
+  (a) General rule
+     No gain or loss shall be recognized if common stock in a corporation is exchanged solely for common stock in the same corporation, or if preferred stock in a corporation is exchanged solely for preferred stock in the same corporation.
+  (b) Nonqualified preferred stock not treated as stock
+     For purposes of this section, nonqualified preferred stock (as defined in section 351(g)(2)) shall be treated as property other than stock.
+  (c) Cross references
+     T2(1) For rules relating to recognition of gain or loss where an exchange is not solely in kind, see subsections (b) and (c) of section 1031.
+     T2(2) For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031.

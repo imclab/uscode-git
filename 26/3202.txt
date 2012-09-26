@@ -1,35 +1,24 @@
-   For the purposes of this chapter, the term–
-  (1) ””Bureau““ means the Bureau of Indian Affairs of the Department of the Interior;
-  (2) ””child““ means an individual who–
-    (A) is not married, and
-    (B) has not attained 18 years of age;
-  (3) ””child abuse““ includes but is not limited to–
-    (A) any case in which–
-      (i) a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling, and
-      (ii) such condition is not justifiably explained or may not be the product of an accidental occurrence; and
-    (B) any case in which a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution;
-  (4) ””child neglect““ includes but is not limited to, negligent treatment or maltreatment of a child by a person, including a person responsible for the child“s welfare, under circumstances which indicate that the child“s health or welfare is harmed or threatened thereby;
-  (5) ””family violence““ means any act, or threatened act, of violence, including any forceful detention of an individual, which–
-    (A) results, or threatens to result, in physical or mental injury, and
-    (B) is committed by an individual against another individual–
-      (i) to whom such person is, or was, related by blood or marriage or otherwise legally related, or
-      (ii) with whom such person is, or was, residing;
-  (6) ””Indian““ means any individual who is a member of an Indian tribe;
-  (7) ””Indian child““ has the meaning given to such term by section 1903(4) of this title;
-  (8) ””Indian country““ has the meaning given to such term by section 1151 of title 18;
-  (9) ””Indian reservation““ means any Indian reservation, public domain Indian allotment, former Indian reservation in Oklahoma, or lands held by incorporated Native groups, regional corporations, or village corporations under the provisions of the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
-  (10) ””Indian tribe““ and ””tribal organization““ have the respective meanings given to each of such terms under section 450b of this title;
-  (11) ””inter-tribal consortium““ means a partnership between–
-    (A) an Indian tribe or tribal organization of an Indian tribe, and
-    (B) one or more Indian tribes or tribal organizations of one or more other Indian tribes;
-  (12) ””local child protective services agency““ means that agency of the Federal Government, of a State, or of an Indian tribe that has the primary responsibility for child protection on any Indian reservation or within any community in Indian country;
-  (13) ””local law enforcement agency““ means that Federal, tribal, or State law enforcement agency that has the primary responsibility for the investigation of an instance of alleged child abuse within the portion of Indian country involved;
-  (14) ””persons responsible for a child“s welfare““ means any person who has legal or other recognized duty for the care and safety of a child, including–
-    (A) any employee or volunteer of a children“s residential facility, and
-    (B) any person providing out-of-home care, education, or services to children;
-  (15) ””related assistance““–
-    (A) includes counseling and self-help services to abusers, victims, and dependents in family violence situations (which shall include counseling of all family members to the extent feasible) and referrals for appropriate health-care services (including alcohol and drug abuse treatment), and
-    (B) may include food, clothing, child care, transportation, and emergency services for victims of family violence and their dependents;
-  (16) ””Secretary““ means the Secretary of the Interior;
-  (17) ””shelter““ means the provision of temporary refuge and related assistance in compliance with applicable Federal and tribal laws and regulations governing the provision, on a regular basis, of shelter, safe homes, meals, and related assistance to victims of family violence or their dependents; and
-  (18) ””Service““ means the Indian Health Service of the Department of Health and Human Services.
+  (a) Requirement
+      The taxes imposed by section 3201 shall be collected by the employer of the taxpayer by deducting the amount of the taxes from the compensation of the employee as and when paid. An employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (3) of section 3231(e) is applicable may deduct an amount equivalent to such taxes with respect to such tips from any compensation of the employee (exclusive of tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20.
+  (b) Indemnification of employer
+     Every employer required under subsection (a) to deduct the tax shall be liable for the payment of such tax and shall not be liable to any person for the amount of any such payment.
+  (c) Special rule for tips
+    (1) In the case of tips which constitute compensation, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that collection can be made by the employer, at or after the time such statement is so furnished and before the close of the 10th day following the calendar month (or, if paragraph (3) applies, the 30th day following the quarter) in which the tips were deemed paid, by deducting the amount of the tax from such compensation of the employee (excluding tips, but including funds turned over by the employee to the employer pursuant to paragraph (2)) as are under control of the employer.
+    (2) If the taxes imposed by section 3201, with respect to tips which are included in written statements furnished in any month to the employer pursuant to section 6053(a), exceed the compensation of the employee (excluding tips) from which the employer is required to collect the taxes under paragraph (1), the employee may furnish to the employer on or before the 10th day of the following month (or, if paragraph (3) applies, on or before the 30th day of the following quarter) an amount of money equal to the amount of the excess.
+    (3) The Secretary may, under regulations prescribed by him, authorize employers–
+      (A) to estimate the amount of tips that will be reported by the employee pursuant to section 6053(a) in any quarter of the calendar year,
+      (B) to determine the amount to be deducted upon each payment of compensation (exclusive of tips) during such quarter as if the tips so estimated constituted actual tips so reported, and
+      (C) to deduct upon any payment of compensation (other than tips, but including funds turned over by the employee to the employer pursuant to paragraph (2)) to such employee during such quarter (and within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted upon such compensation of the employee during the quarter to the amount required to be deducted in respect of tips included in written statements furnished to the employer during the quarter.
+    (4) If the taxes imposed by section 3201 with respect to tips which constitute compensation exceed the portion of such taxes which can be collected by the employer from the compensation of the employee pursuant to paragraph (1) or paragraph (3), such excess shall be paid by the employee.
+  (d) Special rule for certain taxable group-term life insurance benefits
+    (1) In general
+       In the case of any payment for group-term life insurance to which this subsection applies–
+      (A) subsection (a) shall not apply,
+      (B) the employer shall separately include on the statement required under section 6051–
+        (i) the portion of the compensation which consists of payments for group-term life insurance to which this subsection applies, and
+        (ii) the amount of the tax imposed by section 3201 on such payments, and
+      (C) the tax imposed by section 3201 on such payments shall be paid by the employee.
+    (2) Benefits to which subsection applies
+       This subsection shall apply to any payment for group-term life insurance to the extent–
+      (A) such payment constitutes compensation, and
+      (B) such payment is for coverage for periods during which an employment relationship no longer exists between the employee and the employer.

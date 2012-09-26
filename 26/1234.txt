@@ -1,1 +1,29 @@
-   No part of any funds distributed under this subchapter shall be subject to Federal or State income taxes.
+  (a) Treatment of gain or loss in the case of the purchaser
+    (1) General rule
+       Gain or loss attributable to the sale or exchange of, or loss attributable to failure to exercise, an option to buy or sell property shall be considered gain or loss from the sale or exchange of property which has the same character as the property to which the option relates has in the hands of the taxpayer (or would have in the hands of the taxpayer if acquired by him).
+    (2) Special rule for loss attributable to failure to exercise option
+       For purposes of paragraph (1), if loss is attributable to failure to exercise an option, the option shall be deemed to have been sold or exchanged on the day it expired.
+    (3) Nonapplication of subsection
+       This subsection shall not apply to–
+      (A) an option which constitutes property described in paragraph (1) of section 1221(a);
+      (B) in the case of gain attributable to the sale or exchange of an option, any income derived in connection with such option which, without regard to this subsection, is treated as other than gain from the sale or exchange of a capital asset; and
+      (C) a loss attributable to failure to exercise an option described in section 1233(c).
+  (b) Treatment of grantor of option in the case of stock, securities, or commodities
+    (1) General rule
+       In the case of the grantor of the option, gain or loss from any closing transaction with respect to, and gain on lapse of, an option in property shall be treated as a gain or loss from the sale or exchange of a capital asset held not more than 1 year.
+    (2) Definitions
+       For purposes of this subsection–
+        (A) Closing transaction
+       The term ””closing transaction““ means any termination of the taxpayer“s obligation under an option in property other than through the exercise or lapse of the option.
+        (B) Property
+       The term ””property““ means stocks and securities (including stocks and securities dealt with on a ””when issued““ basis), commodities, and commodity futures.
+    (3) Nonapplication of subsection
+       This subsection shall not apply to any option granted in the ordinary course of the taxpayer“s trade or business of granting options.
+  (c) Treatment of options on section 1256 contracts and cash settlement options
+    (1) Section 1256 contracts
+       Gain or loss shall be recognized on the exercise of an option on a section 1256 contract (within the meaning of section 1256(b)).
+    (2) Treatment of cash settlement options
+      (A) In general
+         For purposes of subsections (a) and (b), a cash settlement option shall be treated as an option to buy or sell property.
+      (B) Cash settlement option
+         For purposes of subparagraph (A), the term ””cash settlement option““ means any option which on exercise settles in (or could be settled in) cash or property other than the underlying property.

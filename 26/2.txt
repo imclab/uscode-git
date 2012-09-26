@@ -1,1 +1,41 @@
-   The Commissioner of Indian Affairs shall, under the direction of the Secretary of the Interior, and agreeably to such regulations as the President may prescribe, have the management of all Indian affairs and of all matters arising out of Indian relations.
+  (a) Definition of surviving spouse
+    (1) In general
+       For purposes of section 1, the term ””surviving spouse““ means a taxpayer–
+      (A) whose spouse died during either of his two taxable years immediately preceding the taxable year, and
+      (B) who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section 151.
+       For purposes of this paragraph, an individual shall be considered as maintaining a household only if over half of the cost of maintaining the household during the taxable year is furnished by such individual.
+    (2) Limitations
+       Notwithstanding paragraph (1), for purposes of section 1 a taxpayer shall not be considered to be a surviving spouse–
+      (A) if the taxpayer has remarried at any time before the close of the taxable year, or
+      (B) unless, for the taxpayer“s taxable year during which his spouse died, a joint return could have been made under the provisions of section 6013 (without regard to subsection (a)(3) thereof).
+    (3) Special rule where deceased spouse was in missing status
+       If an individual was in a missing status (within the meaning of section 6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
+      (A) the date on which the determination is made under section 556 of title 37 of the United States Code or under section 5566 of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or
+      (B) except in the case of the combat zone designated for purposes of the Vietnam conflict, the date which is 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone.
+  (b) Definition of head of household
+    (1) In general
+       For purposes of this subtitle, an individual shall be considered a head of a household if, and only if, such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection (a)), and either–
+      (A) maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of–
+        (i) a qualifying child of the individual (as defined in section 152(c), determined without regard to section 152(e)), but not if such child–
+          (I) is married at the close of the taxpayer“s taxable year, and
+          (II) is not a dependent of such individual by reason of section 152(b)(2) or 152(b)(3), or both, or
+        (ii) any other person who is a dependent of the taxpayer, if the taxpayer is entitled to a deduction for the taxable year for such person under section 151, or
+      (B) maintains a household which constitutes for such taxable year the principal place of abode of the father or mother of the taxpayer, if the taxpayer is entitled to a deduction for the taxable year for such father or mother under section 151.
+       For purposes of this paragraph, an individual shall be considered as maintaining a household only if over half of the cost of maintaining the household during the taxable year is furnished by such individual.
+    (2) Determination of status
+       For purposes of this subsection–
+      (A) an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married;
+      (B) a taxpayer shall be considered as not married at the close of his taxable year if at any time during the taxable year his spouse is a nonresident alien; and
+      (C) a taxpayer shall be considered as married at the close of his taxable year if his spouse (other than a spouse described in subparagraph (B)) died during the taxable year.
+    (3) Limitations
+       Notwithstanding paragraph (1), for purposes of this subtitle a taxpayer shall not be considered to be a head of a household–
+      (A) if at any time during the taxable year he is a nonresident alien; or
+      (B) by reason of an individual who would not be a dependent for the taxable year but for–
+        (i) subparagraph (H) of section 152(d)(2), or
+        (ii) paragraph (3) of section 152(d).
+  (c) Certain married individuals living apart
+     For purposes of this part, an individual shall be treated as not married at the close of the taxable year if such individual is so treated under the provisions of section 7703(b).
+  (d) Nonresident aliens
+     In the case of a nonresident alien individual, the taxes imposed by sections 1 and 55 shall apply only as provided by section 871 or 877.
+  (e) Cross reference
+     T2For definition of taxable income, see section 63.

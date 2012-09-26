@@ -1,0 +1,56 @@
+  (a) Time for filing petition and restriction on assessment
+     Within 90 days, or 150 days if the notice is addressed to a person outside the United States, after the notice of deficiency authorized in section 6212 is mailed (not counting Saturday, Sunday, or a legal holiday in the District of Columbia as the last day), the taxpayer may file a petition with the Tax Court for a redetermination of the deficiency. Except as otherwise provided in section 6851, 6852, or 6861 no assessment of a deficiency in respect of any tax imposed by subtitle A, or B, chapter 41, 42, 43, or 44 and no levy or proceeding in court for its collection shall be made, begun, or prosecuted until such notice has been mailed to the taxpayer, nor until the expiration of such 90-day or 150-day period, as the case may be, nor, if a petition has been filed with the Tax Court, until the decision of the Tax Court has become final. Notwithstanding the provisions of section 7421(a), the making of such assessment or the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court, including the Tax Court, and a refund may be ordered by such court of any amount collected within the period during which the Secretary is prohibited from collecting by levy or through a proceeding in court under the provisions of this subsection. The Tax Court shall have no jurisdiction to enjoin any action or proceeding or order any refund under this subsection unless a timely petition for a redetermination of the deficiency has been filed and then only in respect of the deficiency that is the subject of such petition. Any petition filed with the Tax Court on or before the last date specified for filing such petition by the Secretary in the notice of deficiency shall be treated as timely filed.
+  (b) Exceptions to restrictions on assessment
+    (1) Assessments arising out of mathematical or clerical errors
+       If the taxpayer is notified that, on account of a mathematical or clerical error appearing on the return, an amount of tax in excess of that shown on the return is due, and that an assessment of the tax has been or will be made on the basis of what would have been the correct amount of tax but for the mathematical or clerical error, such notice shall not be considered as a notice of deficiency for the purposes of subsection (a) (prohibiting assessment and collection until notice of the deficiency has been mailed), or of section 6212(c)(1) (restricting further deficiency letters), or of section 6512(a) (prohibiting credits or refunds after petition to the Tax Court), and the taxpayer shall have no right to file a petition with the Tax Court based on such notice, nor shall such assessment or collection be prohibited by the provisions of subsection (a) of this section. Each notice under this paragraph shall set forth the error alleged and an explanation thereof.
+    (2) Abatement of assessment of mathematical or clerical errors
+      (A) Request for abatement
+         Notwithstanding section 6404(b), a taxpayer may file with the Secretary within 60 days after notice is sent under paragraph (1) a request for an abatement of any assessment specified in such notice, and upon receipt of such request, the Secretary shall abate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by this subchapter.
+      (B) Stay of collection
+         In the case of any assessment referred to in paragraph (1), notwithstanding paragraph (1), no levy or proceeding in court for the collection of such assessment shall be made, begun, or prosecuted during the period in which such assessment may be abated under this paragraph.
+    (3) Assessments arising out of tentative carryback or refund adjustments
+       If the Secretary determines that the amount applied, credited, or refunded under section 6411 is in excess of the overassessment attributable to the carryback or the amount described in section 1341(b)(1) with respect to which such amount was applied, credited, or refunded, he may assess without regard to the provisions of paragraph (2) the amount of the excess as a deficiency as if it were due to a mathematical or clerical error appearing on the return.
+    (4) Assessment of amount paid
+       Any amount paid as a tax or in respect of a tax may be assessed upon the receipt of such payment notwithstanding the provisions of subsection (a). In any case where such amount is paid after the mailing of a notice of deficiency under section 6212, such payment shall not deprive the Tax Court of jurisdiction over such deficiency determined under section 6211 without regard to such assessment.
+  (c) Failure to file petition
+     If the taxpayer does not file a petition with the Tax Court within the time prescribed in subsection (a), the deficiency, notice of which has been mailed to the taxpayer, shall be assessed, and shall be paid upon notice and demand from the Secretary.
+  (d) Waiver of restrictions
+     The taxpayer shall at any time (whether or not a notice of deficiency has been issued) have the right, by a signed notice in writing filed with the Secretary, to waive the restrictions provided in subsection (a) on the assessment and collection of the whole or any part of the deficiency.
+  (e) Suspension of filing period for certain excise taxes
+     The running of the time prescribed by subsection (a) for filing a petition in the Tax Court with respect to the taxes imposed by section 4941 (relating to taxes on self-dealing), 4942 (relating to taxes on failure to distribute income), 4943 (relating to taxes on excess business holdings), 4944 (relating to investments which jeopardize charitable purpose), 4945 (relating to taxes on taxable expenditures), 4951 (relating to taxes on self-dealing), or 4952 (relating to taxes on taxable expenditures), 4955 (relating to taxes on political expenditures), 4958 (relating to private excess benefit), 4971 (relating to excise taxes on failure to meet minimum funding standard), 4975 (relating to excise taxes on prohibited transactions) shall be suspended for any period during which the Secretary has extended the time allowed for making correction under section 4963(e).
+  (f) Coordination with title 11
+    (1) Suspension of running of period for filing petition in title 11 cases
+       In any case under title 11 of the United States Code, the running of the time prescribed by subsection (a) for filing a petition in the Tax Court with respect to any deficiency shall be suspended for the period during which the debtor is prohibited by reason of such case from filing a petition in the Tax Court with respect to such deficiency, and for 60 days thereafter.
+    (2) Certain action not taken into account
+       For purposes of the second and third sentences of subsection (a), the filing of a proof of claim or request for payment (or the taking of any other action) in a case under title 11 of the United States Code shall not be treated as action prohibited by such second sentence.
+  (g) Definitions
+     For purposes of this section–
+    (1) Return
+       The term ””return““ includes any return, statement, schedule, or list, and any amendment or supplement thereto, filed with respect to any tax imposed by subtitle A or B, or chapter 41, 42, 43, or 44.
+    (2) Mathematical or clerical error
+       The term ””mathematical or clerical error““ means–
+      (A) an error in addition, subtraction, multiplication, or division shown on any return,
+      (B) an incorrect use of any table provided by the Internal Revenue Service with respect to any return if such incorrect use is apparent from the existence of other information on the return,
+      (C) an entry on a return of an item which is inconsistent with another entry of the same or another item on such return,
+      (D) an omission of information which is required to be supplied on the return to substantiate an entry on the return,
+      (E) an entry on a return of a deduction or credit in an amount which exceeds a statutory limit imposed by subtitle A or B, or chapter 41, 42, 43, or 44, if such limit is expressed–
+        (i) as a specified monetary amount, or
+        (ii) as a percentage, ratio, or fraction,
+       and if the items entering into the application of such limit appear on such return,
+      (F) an omission of a correct taxpayer identification number required under section 32 (relating to the earned income credit) to be included on a return,
+      (G) an entry on a return claiming the credit under section 32 with respect to net earnings from self-employment described in section 32(c)(2)(A) to the extent the tax imposed by section 1401 (relating to self-employment tax) on such net earnings has not been paid,
+      (H) an omission of a correct TIN required under section 21 (relating to expenses for household and dependent care services necessary for gainful employment) or section 151 (relating to allowance of deductions for personal exemptions),
+      (I) an omission of a correct TIN required under section 24(e) (relating to child tax credit) to be included on a return,
+      (J) an omission of a correct TIN required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
+      (K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit),
+      (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, or 32 if–
+        (i) such TIN is of an individual whose age affects the amount of the credit under such section, and
+        (ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual“s age based on such TIN, and
+      (M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child.
+       A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
+  (h) Cross references
+     T2(1) For assessment as if a mathematical error on the return, in the case of erroneous claims for income tax prepayment credits, see section 6201(a)(3).
+     T2(2) For assessments without regard to restrictions imposed by this section in the case of–
+     T2(A) Recovery of foreign income taxes, see section 905(c).
+     T2(B) Recovery of foreign estate tax, see section 2016.
+     T2(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).

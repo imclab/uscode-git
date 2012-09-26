@@ -1,1 +1,90 @@
-   On and after July 1, 1950, the course of study taught in any school operated and maintained by the Bureau of Indian Affairs on any Indian reservation in the State of South Dakota shall, upon a majority decision of the parents of children enrolled therein voting at a meeting called for that purpose by the superintendent of the reservation, meet the minimum education requirements prescribed by the department of public instruction for the public schools of that State.
+  (a) Treatment of certain stock purchases
+    (1) Acquisition by related corporation (other than subsidiary)
+       For purposes of sections 302 and 303, if–
+      (A) one or more persons are in control of each of two corporations, and
+      (B) in return for property, one of the corporations acquires stock in the other corporation from the person (or persons) so in control,
+       then (unless paragraph (2) applies) such property shall be treated as a distribution in redemption of the stock of the corporation acquiring such stock. To the extent that such distribution is treated as a distribution to which section 301 applies, the transferor and the acquiring corporation shall be treated in the same manner as if the transferor had transferred the stock so acquired to the acquiring corporation in exchange for stock of the acquiring corporation in a transaction to which section 351(a) applies, and then the acquiring corporation had redeemed the stock it was treated as issuing in such transaction.
+    (2) Acquisition by subsidiary
+       For purposes of sections 302 and 303, if–
+      (A) in return for property, one corporation acquires from a shareholder of another corporation stock in such other corporation, and
+      (B) the issuing corporation controls the acquiring corporation,
+       then such property shall be treated as a distribution in redemption of the stock of the issuing corporation.
+  (b) Special rules for application of subsection (a)
+    (1) Rules for determinations under section 302(b)
+       In the case of any acquisition of stock to which subsection (a) of this section applies, determinations as to whether the acquisition is, by reason of section 302(b), to be treated as a distribution in part or full payment in exchange for the stock shall be made by reference to the stock of the issuing corporation. In applying section 318(a) (relating to constructive ownership of stock) with respect to section 302(b) for purposes of this paragraph, sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein.
+    (2) Amount constituting dividend
+       In the case of any acquisition of stock to which subsection (a) applies, the determination of the amount which is a dividend (and the source thereof) shall be made as if the property were distributed–
+      (A) by the acquiring corporation to the extent of its earnings and profits, and
+      (B) then by the issuing corporation to the extent of its earnings and profits.
+    (3) Coordination with section 351
+      (A) Property treated as received in redemption
+         Except as otherwise provided in this paragraph, subsection (a) (and not section 351 and not so much of sections 357 and 358 as relates to section 351) shall apply to any property received in a distribution described in subsection (a).
+      (B) Certain assumptions of liability, etc.
+        (i) In general
+           In the case of an acquisition described in section 351, subsection (a) shall not apply to any liability–
+          (I) assumed by the acquiring corporation, or
+          (II) to which the stock is subject,
+              if such liability was incurred by the transferor to acquire the stock. For purposes of the preceding sentence, the term ””stock““ means stock referred to in paragraph (1)(B) or (2)(A) of subsection (a).
+        (ii) Extension of obligations, etc.
+           For purposes of clause (i), an extension, renewal, or refinancing of a liability which meets the requirements of clause (i) shall be treated as meeting such requirements.
+        (iii) Clause (i) does not apply to stock acquired from related person except where complete termination
+           Clause (i) shall apply only to stock acquired by the transferor from a person–
+          (I) none of whose stock is attributable to the transferor under section 318(a) (other than paragraph (4) thereof), or
+          (II) who satisfies rules similar to the rules of section 302(c)(2) with respect to both the acquiring and the issuing corporations (determined as if such person were a distributee of each such corporation).
+      (C) Distributions incident to formation of bank holding companies
+         If–
+        (i) pursuant to a plan, control of a bank is acquired and within 2 years after the date on which such control is acquired, stock constituting control of such bank is transferred to a BHC in connection with its formation,
+        (ii) incident to the formation of the BHC there is a distribution of property described in subsection (a), and
+        (iii) the shareholders of the BHC who receive distributions of such property do not have control of such BHC,
+         then, subsection (a) shall not apply to any securities received by a qualified minority shareholder incident to the formation of such BHC. For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.
+      (D) Definitions and special rule
+         For purposes of subparagraph (C) and this subparagraph–
+        (i) Qualified minority shareholder
+           The term ””qualified minority shareholder““ means any shareholder who owns less than 10 percent (in value) of the stock of the BHC. For purposes of the preceding sentence, the rules of paragraph (3) of subsection (c) shall apply.
+        (ii) BHC
+           The term ””BHC““ means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
+        (iii) Special rule in case of BHC“s formed before 1985
+           In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.
+    (4) Treatment of certain intragroup transactions
+      (A) In general
+         In the case of any transfer described in subsection (a) of stock from 1 member of an affiliated group to another member of such group, proper adjustments shall be made to–
+        (i) the adjusted basis of any intragroup stock, and
+        (ii) the earnings and profits of any member of such group,
+         to the extent necessary to carry out the purposes of this section.
+      (B) Definitions
+         For purposes of this paragraph–
+        (i) Affiliated group
+           The term ””affiliated group““ has the meaning given such term by section 1504(a).
+        (ii) Intragroup stock
+           The term ””intragroup stock““ means any stock which–
+          (I) is in a corporation which is a member of an affiliated group, and
+          (II) is held by another member of such group.
+    (5) Acquisitions by foreign corporations
+      (A) In general
+         In the case of any acquisition to which subsection (a) applies in which the acquiring corporation is a foreign corporation, the only earnings and profits taken into account under paragraph (2)(A) shall be those earnings and profits–
+        (i) which are attributable (under regulations prescribed by the Secretary) to stock of the acquiring corporation owned (within the meaning of section 958(a)) by a corporation or individual which is–
+          (I) a United States shareholder (within the meaning of section 951(b)) of the acquiring corporation, and
+          (II) the transferor or a person who bears a relationship to the transferor described in section 267(b) or 707(b), and
+        (ii) which were accumulated during the period or periods such stock was owned by such person while the acquiring corporation was a controlled foreign corporation.
+      (B) Regulations
+         The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of this paragraph.
+    (6) Avoidance of multiple inclusions, etc.
+       In the case of any acquisition to which subsection (a) applies in which the acquiring corporation or the issuing corporation is a foreign corporation, the Secretary shall prescribe such regulations as are appropriate in order to eliminate a multiple inclusion of any item in income by reason of this subpart and to provide appropriate basis adjustments (including modifications to the application of sections 959 and 961).
+  (c) Control
+    (1) In general
+       For purposes of this section, control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote, or at least 50 percent of the total value of shares of all classes of stock. If a person (or persons) is in control (within the meaning of the preceding sentence) of a corporation which in turn owns at least 50 percent of the total combined voting power of all stock entitled to vote of another corporation, or owns at least 50 percent of the total value of the shares of all classes of stock of another corporation, then such person (or persons) shall be treated as in control of such other corporation.
+    (2) Stock acquired in the transaction
+       For purposes of subsection (a)(1)–
+      (A) General rule
+         Where 1 or more persons in control of the issuing corporation transfer stock of such corporation in exchange for stock of the acquiring corporation, the stock of the acquiring corporation received shall be taken into account in determining whether such person or persons are in control of the acquiring corporation.
+      (B) Definition of control group
+         Where 2 or more persons in control of the issuing corporation transfer stock of such corporation to the acquiring corporation and, after the transfer, the transferors are in control of the acquiring corporation, the person or persons in control of each corporation shall include each of the persons who so transfer stock.
+    (3) Constructive ownership
+      (A) In general
+         Section 318(a) (relating to constructive ownership of stock) shall apply for purposes of determining control under this section.
+      (B) Modification of 50-percent limitations in section 318
+         For purposes of subparagraph (A)–
+        (i) paragraph (2)(C) of section 318(a) shall be applied by substituting ””5 percent““ for ””50 percent““, and
+        (ii) paragraph (3)(C) of section 318(a) shall be applied–
+          (I) by substituting ””5 percent““ for ””50 percent““, and
+          (II) in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.

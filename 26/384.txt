@@ -1,1 +1,67 @@
-   The Commissioner of Indian Affairs, under the direction of the Secretary of the Interior, may employ superintendents of irrigation who shall be skilled irrigation engineers, not to exceed seven in number.
+  (a) General rule
+     If–
+    (1)      (A) a corporation acquires directly (or through 1 or more other corporations) control of another corporation, or
+      (B) the assets of a corporation are acquired by another corporation in a reorganization described in subparagraph (A), (C), or (D) of section 368(a)(1), and
+    (2) either of such corporations is a gain corporation,
+       income for any recognition period taxable year (to the extent attributable to recognized built-in gains) shall not be offset by any preacquisition loss (other than a preacquisition loss of the gain corporation).
+  (b) Exception where corporations under common control
+    (1) In general
+       Subsection (a) shall not apply to the preacquisition loss of any corporation if such corporation and the gain corporation were members of the same controlled group at all times during the 5-year period ending on the acquisition date.
+    (2) Controlled group
+       For purposes of this subsection, the term ””controlled group““ means a controlled group of corporations (as defined in section 1563(a)); except that–
+      (A) ””more than 50 percent““ shall be substituted for ””at least 80 percent““ each place it appears,
+      (B) the ownership requirements of section 1563(a) must be met both with respect to voting power and value, and
+      (C) the determination shall be made without regard to subsection (a)(4) of section 1563.
+    (3) Shorter period where corporations not in existence for 5 years
+       If either of the corporations referred to in paragraph (1) was not in existence throughout the 5-year period referred to in paragraph (1), the period during which such corporation was in existence (or if both, the shorter of such periods) shall be substituted for such 5-year period.
+  (c) Definitions
+     For purposes of this section–
+    (1) Recognized built-in gain
+      (A) In general
+         The term ””recognized built-in gain““ means any gain recognized during the recognition period on the disposition of any asset except to the extent the gain corporation (or, in any case described in subsection (a)(1)(B), the acquiring corporation) establishes that–
+        (i) such asset was not held by the gain corporation on the acquisition date, or
+        (ii) such gain exceeds the excess (if any) of–
+          (I) the fair market value of such asset on the acquisition date, over
+          (II) the adjusted basis of such asset on such date.
+      (B) Treatment of certain income items
+         Any item of income which is properly taken into account for any recognition period taxable year but which is attributable to periods before the acquisition date shall be treated as a recognized built-in gain for the taxable year in which it is properly taken into account and shall be taken into account in determining the amount of the net unrealized built-in gain.
+      (C) Limitation
+         The amount of the recognized built-in gains for any recognition period taxable year shall not exceed–
+        (i) the net unrealized built-in gain, reduced by
+        (ii) the recognized built-in gains for prior years ending in the recognition period which (but for this section) would have been offset by preacquisition losses.
+    (2) Acquisition date
+       The term ””acquisition date““ means–
+      (A) in any case described in subsection (a)(1)(A), the date on which the acquisition of control occurs, or
+      (B) in any case described in subsection (a)(1)(B), the date of the transfer in the reorganization.
+    (3) Preacquisition loss
+      (A) In general
+         The term ””preacquisition loss““ means–
+        (i) any net operating loss carryforward to the taxable year in which the acquisition date occurs, and
+        (ii) any net operating loss for the taxable year in which the acquisition date occurs to the extent such loss is allocable to the period in such year on or before the acquisition date.
+         Except as provided in regulations, the net operating loss shall, for purposes of clause (ii), be allocated ratably to each day in the year.
+      (B) Treatment of recognized built-in loss
+         In the case of a corporation with a net unrealized built-in loss, the term ””preacquisition loss““ includes any recognized built-in loss.
+    (4) Gain corporation
+       The term ””gain corporation““ means any corporation with a net unrealized built-in gain.
+    (5) Control
+       The term ””control““ means ownership of stock in a corporation which meets the requirements of section 1504(a)(2).
+    (6) Treatment of members of same group
+       Except as provided in regulations and except for purposes of subsection (b), all corporations which are members of the same affiliated group immediately before the acquisition date shall be treated as 1 corporation. To the extent provided in regulations, section 1504 shall be applied without regard to subsection (b) thereof for purposes of the preceding sentence.
+    (7) Treatment of predecessors and successors
+       Any reference in this section to a corporation shall include a reference to any predecessor or successor thereof.
+    (8) Other definitions
+       Except as provided in regulations, the terms ””net unrealized built-in gain““, ””net unrealized built-in loss““, ””recognized built-in loss““, ””recognition period““, and ””recognition period taxable year““, have the same respective meanings as when used in section 382(h), except that the acquisition date shall be taken into account in lieu of the change date.
+  (d) Limitation also to apply to excess credits or net capital losses
+     Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit (as defined in section 383(a)(2)) or net capital loss.
+  (e) Ordering rules for net operating losses, etc.
+    (1) Carryover rules
+       If any preacquisition loss may not offset a recognized built-in gain by reason of this section, such gain shall not be taken into account in determining under section 172(b)(2) the amount of such loss which may be carried to other taxable years. A similar rule shall apply in the case of any excess credit or net capital loss limited by reason of subsection (d).
+    (2) Ordering rule for losses carried from same taxable year
+       In any case in which–
+      (A) a preacquisition loss for any taxable year is subject to limitation under subsection (a), and
+      (B) a net operating loss from such taxable year is not subject to such limitation,
+       taxable income shall be treated as having been offset 1st by the loss subject to such limitation.
+  (f) Regulations
+     The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to ensure that the purposes of this section may not be circumvented through–
+    (1) the use of any provision of law or regulations (including subchapter K of this chapter), or
+    (2) contributions of property to a corporation.

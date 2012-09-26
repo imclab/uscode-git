@@ -1,16 +1,193 @@
-  (a) Determination of value of unallotted and allotted lands; exclusion of deceased allottees“ allotments
-     The Secretary shall determine on the basis of the contract appraisals that were made in 1957 and 1958 (1) the value of all unallotted tribal land, and (2) the value of the allotment of each allottee who is living on September 21, 1959, excluding the value of any improvements thereon. Where lands of a living allottee have been sold under the supervision of the Secretary, their value for the purpose of equalization shall be the amount received from such sale, excluding the value assigned to any improvements thereon. Where lands of a living allottee have been fee patented to and sold by the allottee, their value for the purpose of equalization shall be the appraised value of the lands, excluding improvements, as of the time of the sale, regardless of the amount received from the sale. The allotments of allottees who are not living on September 21, 1959 shall be excluded from the equalization program. All values so determined by the Secretary shall be final and conclusive for the purposes of this subchapter.
-  (b) Lands not subject to allotment
-     In no event shall the following tribal lands be subject to allotment, and they shall henceforth be set apart and designated as tribal reserves for the benefit and use of the band:
-     Cemetery numbered 1, block 235, section 14, township 4 south, range 4 east.
-     Cemetery numbered 2, as now constituted pursuant to secretarial order, comprising approximately two acres.
-     Roman Catholic Church, as now constituted pursuant to secretarial order, comprising approximately two acres.
-     Mineral Springs, lots 3a, 4a, 13, and 14, section 14, township 4 south, range 4 east.
-     San Andreas Canyon, west half southeast quarter, southeast quarter southeast quarter section 3, township 5 south, range 4 east.
-     Palm Canyon, south half and south half north half section 14, township 5 south, range 4 east; all section 24, township 5 south, range 4 east.
-     Tahquitz Canyon, southwest quarter section 22, township 4 south, range 4 east; north half section 28, township 4 south, range 4 east.
-     Murray Canyon, east half section 10, township 5 south, range 4 east.
-  (c) Equalization for living members by allotment without regard to acreage limitations; creation of right by selection and approval; allotments made subject to laws and regulations
-     On the basis of such values, the Secretary shall determine the highest level of equalization that is feasible for the members of the band who are living at the time of this Act by allotting all of the unallotted tribal land, except the reserved areas listed in subsection (b) of this section, without regard to acreage limitations heretofore imposed by law. Such unallotted tribal land shall then be allotted to those members who have received allotments with a value that is less than the equalization figure deemed feasible in accordance with procedures prescribed by the Secretary. No selection of an allotment pursuant to such procedures shall create a vested right in the land until all selections authorized by this subchapter have been made, included in one schedule, and approved by the Secretary. Allotments thereafter made shall be subject to the same laws and regulations that apply to other trust allotments on the Agua Caliente Reservation.
-  (d) Portions in airport subject to allotment unless sold; procedure for sale; payment of sale proceeds in lieu of allotment
-     The unallotted portions of section 18, township 4 south, range 5 east, and section 12, township 4 south, range 4 east, that are in the municipal airport for the city of Palm Springs shall be subject to allotment as a part of the equalization program, subject to the following qualifications: If within thirty days after September 21, 1959, a majority of the adult members of the band who are eligible to vote agree, the Secretary may offer to sell such land to the city for its appraised value on September 21, 1959, and the Secretary shall cause an independent appraisal thereof to be made by an appraiser he shall select who shall be approved jointly by the band and the city before proceeding with such appraisal, the costs for the appraisal to be shared by the band and the city; thereafter the Secretary shall review the completed appraisal and shall, if approved, then submit copies to both the band and the city for their approval which shall be either accepted or rejected in writing within thirty days; and if within three hundred and sixty-five days after joint acceptance of such appraisal by the band and the city, the city accepts the offer and tenders payment in full, the Secretary shall complete the sale, and any allottees who may have made or who may thereafter make an equalization selection from the lands sold to the city shall receive in lieu of the allotment selected his proportionate share of the proceeds of the sale.
+  (a) Insurance income
+    (1) In general
+       For purposes of section 952(a)(1), the term ””insurance income““ means any income which–
+      (A) is attributable to the issuing (or reinsuring) of an insurance or annuity contract, and
+      (B) would (subject to the modifications provided by subsection (b)) be taxed under subchapter L of this chapter if such income were the income of a domestic insurance company.
+    (2) Exception
+       Such term shall not include any exempt insurance income (as defined in subsection (e)).
+  (b) Special rules
+     For purposes of subsection (a)–
+    (1) The following provisions of subchapter L shall not apply:
+      (A) The small life insurance company deduction.
+      (B) Section 805(a)(5) (relating to operations loss deduction).
+      (C) Section 832(c)(5) (relating to certain capital losses).
+    (2) The items referred to in–
+      (A) section 803(a)(1) (relating to gross amount of premiums and other considerations),
+      (B) section 803(a)(2) (relating to net decrease in reserves),
+      (C) section 805(a)(2) (relating to net increase in reserves), and
+      (D) section 832(b)(4) (relating to premiums earned on insurance contracts),
+     shall be taken into account only to the extent they are in respect of any reinsurance or the issuing of any insurance or annuity contract described in subsection (a)(1).
+    (3) Reserves for any insurance or annuity contract shall be determined in the same manner as under section 954(i).
+    (4) All items of income, expenses, losses, and deductions shall be properly allocated or apportioned under regulations prescribed by the Secretary.
+  (c) Special rule for certain captive insurance companies
+    (1) In general
+       For purposes only of taking into account related person insurance income–
+      (A) the term ””United States shareholder““ means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)) any stock of the foreign corporation,
+      (B) the term ””controlled foreign corporation““ has the meaning given to such term by section 957(a) determined by substituting ””25 percent or more““ for ””more than 50 percent““, and
+      (C) the pro rata share referred to in section 951(a)(1)(A)(i) shall be determined under paragraph (5) of this subsection.
+    (2) Related person insurance income
+       For purposes of this subsection, the term ””related person insurance income““ means any insurance income (within the meaning of subsection (a)) attributable to a policy of insurance or reinsurance with respect to which the person (directly or indirectly) insured is a United States shareholder in the foreign corporation or a related person to such a shareholder.
+    (3) Exceptions
+      (A) Corporations not held by insureds
+         Paragraph (1) shall not apply to any foreign corporation if at all times during the taxable year of such foreign corporation–
+        (i) less than 20 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, and
+        (ii) less than 20 percent of the total value of such corporation,
+         is owned (directly or indirectly under the principles of section 883(c)(4)) by persons who are (directly or indirectly) insured under any policy of insurance or reinsurance issued by such corporation or who are related persons to any such person.
+      (B) De minimis exception
+         Paragraph (1) shall not apply to any foreign corporation for a taxable year of such corporation if the related person insurance income (determined on a gross basis) of such corporation for such taxable year is less than 20 percent of its insurance income (as so determined) for such taxable year determined without regard to those provisions of subsection (a)(1) which limit insurance income to income from countries other than the country in which the corporation was created or organized.
+      (C) Election to treat income as effectively connected
+         Paragraph (1) shall not apply to any foreign corporation for any taxable year if–
+        (i) such corporation elects (at such time and in such manner as the Secretary may prescribe)–
+          (I) to treat its related person insurance income for such taxable year as income effectively connected with the conduct of a trade or business in the United States, and
+          (II) to waive all benefits (other than with respect to section 884) with respect to related person insurance income granted by the United States under any treaty between the United States and any foreign country, and
+        (ii) such corporation meets such requirements as the Secretary shall prescribe to ensure that the tax imposed by this chapter on such income is paid.
+         An election under this subparagraph made for any taxable year shall not be effective if the corporation (or any predecessor thereof) was a disqualified corporation for the taxable year for which the election was made or for any prior taxable year beginning after 1986.
+      (D) Special rules for subparagraph (C)
+        (i) Period during which election in effect
+          (I) In general
+             Except as provided in subclause (II), any election under subparagraph (C) shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+          (II) Termination
+             If a foreign corporation which made an election under subparagraph (C) for any taxable year is a disqualified corporation for any subsequent taxable year, such election shall not apply to any taxable year beginning after such subsequent taxable year.
+        (ii) Exemption from tax imposed by section 4371
+           The tax imposed by section 4371 shall not apply with respect to any related person insurance income treated as effectively connected with the conduct of a trade or business within the United States under subparagraph (C).
+      (E) Disqualified corporation
+         For purposes of this paragraph the term ””disqualified corporation““ means, with respect to any taxable year, any foreign corporation which is a controlled foreign corporation for an uninterrupted period of 30 days or more during such taxable year (determined without regard to this subsection) but only if a United States shareholder (determined without regard to this subsection) owns (within the meaning of section 958(a)) stock in such corporation at some time during such taxable year.
+    (4) Treatment of mutual insurance companies
+       In the case of a mutual insurance company–
+      (A) this subsection shall apply,
+      (B) policyholders of such company shall be treated as shareholders, and
+      (C) appropriate adjustments in the application of this subpart shall be made under regulations prescribed by the Secretary.
+    (5) Determination of pro rata share
+      (A) In general
+         The pro rata share determined under this paragraph for any United States shareholder is the lesser of–
+        (i) the amount which would be determined under paragraph (2) of section 951(a) if–
+          (I) only related person insurance income were taken into account,
+          (II) stock owned (within the meaning of section 958(a)) by United States shareholders on the last day of the taxable year were the only stock in the foreign corporation, and
+          (III) only distributions received by United States shareholders were taken into account under subparagraph (B) of such paragraph (2), or
+        (ii) the amount which would be determined under paragraph (2) of section 951(a) if the entire earnings and profits of the foreign corporation for the taxable year were subpart F income.
+      (B) Coordination with other provisions
+         The Secretary shall prescribe regulations providing for such modifications to the provisions of this subpart as may be necessary or appropriate by reason of subparagraph (A).
+    (6) Related person
+       For purposes of this subsection–
+      (A) In general
+         Except as provided in subparagraph (B), the term ””related person““ has the meaning given such term by section 954(d)(3).
+      (B) Treatment of certain liability insurance policies
+         In the case of any policy of insurance covering liability arising from services performed as a director, officer, or employee of a corporation or as a partner or employee of a partnership, the person performing such services and the entity for which such services are performed shall be treated as related persons.
+    (7) Coordination with section 1248
+       For purposes of section 1248, if any person is (or would be but for paragraph (3)) treated under paragraph (1) as a United States shareholder with respect to any foreign corporation which would be taxed under subchapter L if it were a domestic corporation and which is (or would be but for paragraph (3)) treated under paragraph (1) as a controlled foreign corporation–
+      (A) such person shall be treated as meeting the stock ownership requirements of section 1248(a)(2) with respect to such foreign corporation, and
+      (B) such foreign corporation shall be treated as a controlled foreign corporation.
+    (8) Regulations
+       The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including–
+      (A) regulations preventing the avoidance of this subsection through cross insurance arrangements or otherwise, and
+      (B) regulations which may provide that a person will not be treated as a United States shareholder under paragraph (1) with respect to any foreign corporation if neither such person (nor any related person to such person) is (directly or indirectly) insured under any policy of insurance or reinsurance issued by such foreign corporation.
+  (d) Election by foreign insurance company to be treated as domestic corporation
+    (1) In general
+       If–
+      (A) a foreign corporation is a controlled foreign corporation (as defined in section 957(a) by substituting ””25 percent or more““ for ””more than 50 percent““ and by using the definition of United States shareholder under 953(c)(1)(A)),
+      (B) such foreign corporation would qualify under part I or II of subchapter L for the taxable year if it were a domestic corporation,
+      (C) such foreign corporation meets such requirements as the Secretary shall prescribe to ensure that the taxes imposed by this chapter on such foreign corporation are paid, and
+      (D) such foreign corporation makes an election to have this paragraph apply and waives all benefits to such corporation granted by the United States under any treaty,
+       for purposes of this title, such corporation shall be treated as a domestic corporation.
+    (2) Period during which election is in effect
+      (A) In general
+         Except as provided in subparagraph (B), an election under paragraph (1) shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+      (B) Termination
+         If a corporation which made an election under paragraph (1) for any taxable year fails to meet the requirements of subparagraphs (A), (B), and (C), of paragraph (1) for any subsequent taxable year, such election shall not apply to any taxable year beginning after such subsequent taxable year.
+    (3) Treatment of losses
+       If any corporation treated as a domestic corporation under this subsection is treated as a member of an affiliated group for purposes of chapter 6 (relating to consolidated returns), any loss of such corporation shall be treated as a dual consolidated loss for purposes of section 1503(d) without regard to paragraph (2)(B) thereof.
+    (4) Effect of election
+      (A) In general
+         For purposes of section 367, any foreign corporation making an election under paragraph (1) shall be treated as transferring (as of the 1st day of the 1st taxable year to which such election applies) all of its assets to a domestic corporation in connection with an exchange to which section 354 applies.
+      (B) Exception for pre-1988 earnings and profit
+        (i) In general
+           Earnings and profits of the foreign corporation accumulated in taxable years beginning before January 1, 1988, shall not be included in the gross income of the persons holding stock in such corporation by reason of subparagraph (A).
+        (ii) Treatment of distributions
+           For purposes of this title, any distribution made by a corporation to which an election under paragraph (1) applies out of earnings and profits accumulated in taxable years beginning before January 1, 1988, shall be treated as a distribution made by a foreign corporation.
+        (iii) Certain rules to continue to apply to pre-1988 earnings
+           The provisions specified in clause (iv) shall be applied without regard to paragraph (1), except that, in the case of a corporation to which an election under paragraph (1) applies, only earnings and profits accumulated in taxable years beginning before January 1, 1988, shall be taken into account.
+        (iv) Specified provisions
+           The provisions specified in this clause are:
+          (I) Section 1248 (relating to gain from certain sales or exchanges of stock in certain foreign corporations).
+          (II) Subpart F of part III of subchapter N to the extent such subpart relates to earnings invested in United States property or amounts referred to in clause (ii) or (iii) of section 951(a)(1)(A).
+          (III) Section 884 to the extent the foreign corporation reinvested 1987 earnings and profits in United States assets.
+    (5) Effect of termination
+       For purposes of section 367, if–
+      (A) an election is made by a corporation under paragraph (1) for any taxable year, and
+      (B) such election ceases to apply for any subsequent taxable year,
+       such corporation shall be treated as a domestic corporation transferring (as of the 1st day of such subsequent taxable year) all of its property to a foreign corporation in connection with an exchange to which section 354 applies.
+    (6) Additional tax on corporation making election
+      (A) In general
+         If a corporation makes an election under paragraph (1), the amount of tax imposed by this chapter for the 1st taxable year to which such election applies shall be increased by the amount determined under subparagraph (B).
+      (B) Amount of tax
+         The amount of tax determined under this paragraph shall be equal to the lesser of–
+        (i) \3/4\ of 1 percent of the aggregate amount of capital and accumulated surplus of the corporation as of December 31, 1987, or
+        (ii) $1,500,000.
+  (e) Exempt insurance income
+     For purposes of this section–
+    (1) Exempt insurance income defined
+      (A) In general
+         The term ””exempt insurance income““ means income derived by a qualifying insurance company which–
+        (i) is attributable to the issuing (or reinsuring) of an exempt contract by such company or a qualifying insurance company branch of such company, and
+        (ii) is treated as earned by such company or branch in its home country for purposes of such country“s tax laws.
+      (B) Exception for certain arrangements
+         Such term shall not include income attributable to the issuing (or reinsuring) of an exempt contract as the result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect of issuing (or reinsuring) a contract which is not an exempt contract.
+      (C) Determinations made separately
+         For purposes of this subsection and section 954(i), the exempt insurance income and exempt contracts of a qualifying insurance company or any qualifying insurance company branch of such company shall be determined separately for such company and each such branch by taking into account–
+        (i) in the case of the qualifying insurance company, only items of income, deduction, gain, or loss, and activities of such company not properly allocable or attributable to any qualifying insurance company branch of such company, and
+        (ii) in the case of a qualifying insurance company branch, only items of income, deduction, gain, or loss and activities properly allocable or attributable to such branch.
+    (2) Exempt contract
+      (A) In general
+         The term ””exempt contract““ means an insurance or annuity contract issued or reinsured by a qualifying insurance company or qualifying insurance company branch in connection with property in, liability arising out of activity in, or the lives or health of residents of, a country other than the United States.
+      (B) Minimum home country income required
+        (i) In general
+           No contract of a qualifying insurance company or of a qualifying insurance company branch shall be treated as an exempt contract unless such company or branch derives more than 30 percent of its net written premiums from exempt contracts (determined without regard to this subparagraph)–
+          (I) which cover applicable home country risks, and
+          (II) with respect to which no policyholder, insured, annuitant, or beneficiary is a related person (as defined in section 954(d)(3)).
+        (ii) Applicable home country risks
+           The term ””applicable home country risks““ means risks in connection with property in, liability arising out of activity in, or the lives or health of residents of, the home country of the qualifying insurance company or qualifying insurance company branch, as the case may be, issuing or reinsuring the contract covering the risks.
+      (C) Substantial activity requirements for cross border risks
+         A contract issued by a qualifying insurance company or qualifying insurance company branch which covers risks other than applicable home country risks (as defined in subparagraph (B)(ii)) shall not be treated as an exempt contract unless such company or branch, as the case may be–
+        (i) conducts substantial activity with respect to an insurance business in its home country, and
+        (ii) performs in its home country substantially all of the activities necessary to give rise to the income generated by such contract.
+    (3) Qualifying insurance company
+       The term ””qualifying insurance company““ means any controlled foreign corporation which–
+      (A) is subject to regulation as an insurance (or reinsurance) company by its home country, and is licensed, authorized, or regulated by the applicable insurance regulatory body for its home country to sell insurance, reinsurance, or annuity contracts to persons other than related persons (within the meaning of section 954(d)(3)) in such home country,
+      (B) derives more than 50 percent of its aggregate net written premiums from the issuance or reinsurance by such controlled foreign corporation and each of its qualifying insurance company branches of contracts–
+        (i) covering applicable home country risks (as defined in paragraph (2)) of such corporation or branch, as the case may be, and
+        (ii) with respect to which no policyholder, insured, annuitant, or beneficiary is a related person (as defined in section 954(d)(3)),
+       except that in the case of a branch, such premiums shall only be taken into account to the extent such premiums are treated as earned by such branch in its home country for purposes of such country“s tax laws, and
+      (C) is engaged in the insurance business and would be subject to tax under subchapter L if it were a domestic corporation.
+    (4) Qualifying insurance company branch
+       The term ””qualifying insurance company branch““ means a qualified business unit (within the meaning of section 989(a)) of a controlled foreign corporation if–
+      (A) such unit is licensed, authorized, or regulated by the applicable insurance regulatory body for its home country to sell insurance, reinsurance, or annuity contracts to persons other than related persons (within the meaning of section 954(d)(3)) in such home country, and
+      (B) such controlled foreign corporation is a qualifying insurance company, determined under paragraph (3) as if such unit were a qualifying insurance company branch.
+    (5) Life insurance or annuity contract
+       For purposes of this section and section 954, the determination of whether a contract issued by a controlled foreign corporation or a qualified business unit (within the meaning of section 989(a)) is a life insurance contract or an annuity contract shall be made without regard to sections 72(s), 101(f), 817(h), and 7702 if–
+      (A) such contract is regulated as a life insurance or annuity contract by the corporation“s or unit“s home country, and
+      (B) no policyholder, insured, annuitant, or beneficiary with respect to the contract is a United States person.
+    (6) Home country
+       For purposes of this subsection, except as provided in regulations–
+      (A) Controlled foreign corporation
+         The term ””home country““ means, with respect to a controlled foreign corporation, the country in which such corporation is created or organized.
+      (B) Qualified business unit
+         The term ””home country““ means, with respect to a qualified business unit (as defined in section 989(a)), the country in which the principal office of such unit is located and in which such unit is licensed, authorized, or regulated by the applicable insurance regulatory body to sell insurance, reinsurance, or annuity contracts to persons other than related persons (as defined in section 954(d)(3)) in such country.
+    (7) Anti-abuse rules
+       For purposes of applying this subsection and section 954(i)–
+      (A) the rules of section 954(h)(7) (other than subparagraph (B) thereof) shall apply,
+      (B) there shall be disregarded any item of income, gain, loss, or deduction of, or derived from, an entity which is not engaged in regular and continuous transactions with persons which are not related persons,
+      (C) there shall be disregarded any change in the method of computing reserves a principal purpose of which is the acceleration or deferral of any item in order to claim the benefits of this subsection or section 954(i),
+      (D) a contract of insurance or reinsurance shall not be treated as an exempt contract (and premiums from such contract shall not be taken into account for purposes of paragraph (2)(B) or (3)) if–
+        (i) any policyholder, insured, annuitant, or beneficiary is a resident of the United States and such contract was marketed to such resident and was written to cover a risk outside the United States, or
+        (ii) the contract covers risks located within and without the United States and the qualifying insurance company or qualifying insurance company branch does not maintain such contemporaneous records, and file such reports, with respect to such contract as the Secretary may require,
+      (E) the Secretary may prescribe rules for the allocation of contracts (and income from contracts) among 2 or more qualifying insurance company branches of a qualifying insurance company in order to clearly reflect the income of such branches, and
+      (F) premiums from a contract shall not be taken into account for purposes of paragraph (2)(B) or (3) if such contract reinsures a contract issued or reinsured by a related person (as defined in section 954(d)(3)).
+       For purposes of subparagraph (D), the determination of where risks are located shall be made under the principles of section 953.
+    (8) Coordination with subsection (c)
+       In determining insurance income for purposes of subsection (c), exempt insurance income shall not include income derived from exempt contracts which cover risks other than applicable home country risks.
+    (9) Regulations
+       The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection and section 954(i).
+    (10) Application
+       This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2007, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2006 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
+    (11) Cross reference
+       T2For income exempt from foreign personal holding company income, see section 954(i).

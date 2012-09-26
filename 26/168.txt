@@ -1,0 +1,740 @@
+  (a) General rule
+     Except as otherwise provided in this section, the depreciation deduction provided by section 167(a) for any tangible property shall be determined by using–
+    (1) the applicable depreciation method,
+    (2) the applicable recovery period, and
+    (3) the applicable convention.
+  (b) Applicable depreciation method
+     For purposes of this section–
+    (1) In general
+       Except as provided in paragraphs (2) and (3), the applicable depreciation method is–
+      (A) the 200 percent declining balance method,
+      (B) switching to the straight line method for the 1st taxable year for which using the straight line method with respect to the adjusted basis as of the beginning of such year will yield a larger allowance.
+    (2) 150 percent declining balance method in certain cases
+       Paragraph (1) shall be applied by substituting ””150 percent““ for ””200 percent““ in the case of–
+      (A) any 15-year or 20-year property not referred to in paragraph (3),
+      (B) any property used in a farming business (within the meaning of section 263A(e)(4)), or
+      (C) any property (other than property described in paragraph (3)) with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply.
+    (3) Property to which straight line method applies
+       The applicable depreciation method shall be the straight line method in the case of the following property:
+      (A) Nonresidential real property.
+      (B) Residential rental property.
+      (C) Any railroad grading or tunnel bore.
+      (D) Property with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply.
+      (E) Property described in subsection (e)(3)(D)(ii).
+      (F) Water utility property described in subsection (e)(5).
+      (G) Qualified leasehold improvement property described in subsection (e)(6).
+      (H) Qualified restaurant property described in subsection (e)(7).
+    (4) Salvage value treated as zero
+       Salvage value shall be treated as zero.
+    (5) Election
+       An election under paragraph (2)(C) or (3)(D) may be made with respect to 1 or more classes of property for any taxable year and once made with respect to any class shall apply to all property in such class placed in service during such taxable year. Such an election, once made, shall be irrevocable.
+  (c) Applicable recovery period
+     For purposes of this section, the applicable recovery period shall be determined in accordance with the following table:
+      
+     3-year property D3 years  
+     5-year property D5 years  
+     7-year property D7 years  
+     10-year property D10 years  
+     15-year property D15 years  
+     20-year property D20 years  
+     Water utility property D25 years  
+     Residential rental property D27.5 years  
+     Nonresidential real property D39 years.
+     Any railroad grading or tunnel bore D50 years.
+  (d) Applicable convention
+     For purposes of this section–
+    (1) In general
+       Except as otherwise provided in this subsection, the applicable convention is the half-year convention.
+    (2) Real property
+       In the case of–
+      (A) nonresidential real property,
+      (B) residential rental property, and
+      (C) any railroad grading or tunnel bore,
+       the applicable convention is the mid-month convention.
+       the applicable convention for all property to which this section applies placed in service during such taxable year shall be the mid-quarter convention.
+    (3) Special rule where substantial property placed in service during last 3 months of taxable year
+      (A) In general
+         Except as provided in regulations, if during any taxable year–
+        (i) the aggregate bases of property to which this section applies placed in service during the last 3 months of the taxable year, exceed
+        (ii) 40 percent of the aggregate bases of property to which this section applies placed in service during such taxable year,
+      (B) Certain property not taken into account
+         For purposes of subparagraph (A), there shall not be taken into account–
+        (i) any nonresidential real property \1\N residential rental property, and railroad grading or tunnel bore, and
+        (ii) any other property placed in service and disposed of during the same taxable year.
+    (4) Definitions
+      (A) Half-year convention
+         The half-year convention is a convention which treats all property placed in service during any taxable year (or disposed of during any taxable year) as placed in service (or disposed of) on the mid-point of such taxable year.
+      (B) Mid-month convention
+         The mid-month convention is a convention which treats all property placed in service during any month (or disposed of during any month) as placed in service (or disposed of) on the mid-point of such month.
+      (C) Mid-quarter convention
+         The mid-quarter convention is a convention which treats all property placed in service during any quarter of a taxable year (or disposed of during any quarter of a taxable year) as placed in service (or disposed of) on the mid-point of such quarter.
+  (e) Classification of property
+     For purposes of this section–
+    (1) In general
+       Except as otherwise provided in this subsection, property shall be classified under the following table:
+        
+       3-year property Doi34 or less
+       5-year property Doi3More than 4 but less than 10
+       7-year property Doi310 or more but less than 16
+       10-year property Doi316 or more but less than 20
+       15-year property Doi320 or more but less than 25
+       20-year property Doi325 or more.
+    (2) Residential rental or nonresidential real property
+      (A) Residential rental property
+        (i) Residential rental property
+           The term ””residential rental property““ means any building or structure if 80 percent or more of the gross rental income from such building or structure for the taxable year is rental income from dwelling units.
+        (ii) Definitions
+           For purposes of clause (i)–
+          (I) the term ””dwelling unit““ means a house or apartment used to provide living accommodations in a building or structure, but does not include a unit in a hotel, motel, or other establishment more than one-half of the units in which are used on a transient basis, and
+          (II) if any portion of the building or structure is occupied by the taxpayer, the gross rental income from such building or structure shall include the rental value of the portion so occupied.
+      (B) Nonresidential real property
+         The term ””nonresidential real property““ means section 1250 property which is not–
+        (i) residential rental property, or
+        (ii) property with a class life of less than 27.5 years.
+    (3) Classification of certain property
+      (A) 3-year property
+         The term ””3-year property““ includes–
+        (i) any race horse which is more than 2 years old at the time it is placed in service,
+        (ii) any horse other than a race horse which is more than 12 years old at the time it is placed in service, and
+        (iii) any qualified rent-to-own property.
+      (B) 5-year property
+         The term ””5-year property““ includes–
+        (i) any automobile or light general purpose truck,
+        (ii) any semi-conductor manufacturing equipment,
+        (iii) any computer-based telephone central office switching equipment,
+        (iv) any qualified technological equipment,
+        (v) any section 1245 property used in connection with research and experimentation, and
+        (vi) any property which–
+          (I) is described in subparagraph (A) of section 48(a)(3) (or would be so described if ””solar or wind energy““ were substituted for ””solar energy““ in clause (i) thereof and the last sentence of such section did not apply to such subparagraph),
+          (II) is described in paragraph (15) of section 48(T3lK) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) and is a qualifying small power production facility within the meaning of section 3(17)(C) of the Federal Power Act (16 U.S.C. 796(17)(C)), as in effect on September 1, 1986, or
+          (III) is described in section 48(T3lK)(3)(A)(ix) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+         Nothing in any provision of law shall be construed to treat property as not being described in clause (vi)(I) (or the corresponding provisions of prior law) by reason of being public utility property (within the meaning of section 48(a)(3)).
+      (C) 7-year property
+         The term ””7-year property““ includes–
+        (i) any railroad track, and \2\N
+        (ii) any motorsports entertainment complex,
+        (iii) any Alaska natural gas pipeline,
+        (iv) any natural gas gathering line the original use of which commences with the taxpayer after April 11, 2005, and
+        (v) any property which–
+          (I) does not have a class life, and
+          (II) is not otherwise classified under paragraph (2) or this paragraph.
+      (D) 10-year property
+         The term ””10-year property““ includes–
+        (i) any single purpose agricultural or horticultural structure (within the meaning of subsection (i)(13)), and
+        (ii) any tree or vine bearing fruit or nuts.
+      (E) 15-year property
+         The term ””15-year property““ includes–
+        (i) any municipal wastewater treatment plant,
+        (ii) any telephone distribution plant and comparable equipment used for 2-way exchange of voice and data communications,
+        (iii) any section 1250 property which is a retail motor fuels outlet (whether or not food or other convenience items are sold at the outlet),
+        (iv) any qualified leasehold improvement property placed in service before January 1, 2006,
+        (v) any qualified restaurant property placed in service before January 1, 2006,
+        (vi) initial clearing and grading land improvements with respect to gas utility property,
+        (vii) any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005, and
+        (viii) any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005, and which is placed in service before January 1, 2011.
+      (F) 20-year property
+         The term ””20-year property““ means initial clearing and grading land improvements with respect to any electric utility transmission and distribution plant.
+    (4) Railroad grading or tunnel bore
+       The term ””railroad grading or tunnel bore““ means all improvements resulting from excavations (including tunneling), construction of embankments, clearings, diversions of roads and streams, sodding of slopes, and from similar work necessary to provide, construct, reconstruct, alter, protect, improve, replace, or restore a roadbed or right-of-way for railroad track.
+    (5) Water utility property
+       The term ””water utility property““ means property–
+      (A) which is an integral part of the gathering, treatment, or commercial distribution of water, and which, without regard to this paragraph, would be 20-year property, and
+      (B) any municipal sewer.
+    (6) Qualified leasehold improvement property
+       The term ””qualified leasehold improvement property““ has the meaning given such term in section 168(k)(3) except that the following special rules shall apply:
+      (A) Improvements made by lessor
+         In the case of an improvement made by the person who was the lessor of such improvement when such improvement was placed in service, such improvement shall be qualified leasehold improvement property (if at all) only so long as such improvement is held by such person.
+      (B) Exception for changes in form of business
+         Property shall not cease to be qualified leasehold improvement property under subparagraph (A) by reason of–
+        (i) death,
+        (ii) a transaction to which section 381(a) applies,
+        (iii) a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as qualified leasehold improvement property and the taxpayer retains a substantial interest in such trade or business,
+        (iv) the acquisition of such property in an exchange described in section 1031, 1033, or 1038 to the extent that the basis of such property includes an amount representing the adjusted basis of other property owned by the taxpayer or a related person, or
+        (v) the acquisition of such property by the taxpayer in a transaction described in section 332, 351, 361, 721, or 731 (or the acquisition of such property by the taxpayer from the transferee or acquiring corporation in a transaction described in such section), to the extent that the basis of the property in the hands of the taxpayer is determined by reference to its basis in the hands of the transferor or distributor.
+    (7) Qualified restaurant property
+       The term ””qualified restaurant property““ means any section 1250 property which is an improvement to a building if–
+      (A) such improvement is placed in service more than 3 years after the date such building was first placed in service, and
+      (B) more than 50 percent of the building“s square footage is devoted to preparation of, and seating for on-premises consumption of, prepared meals.
+  (f) Property to which section does not apply
+     This section shall not apply to–
+    (1) Certain methods of depreciation
+       Any property if–
+      (A) the taxpayer elects to exclude such property from the application of this section, and
+      (B) for the 1st taxable year for which a depreciation deduction would be allowable with respect to such property in the hands of the taxpayer, the property is properly depreciated under the unit-of-production method or any method of depreciation not expressed in a term of years (other than the retirement-replacement-betterment method or similar method).
+    (2) Certain public utility property
+       Any public utility property (within the meaning of subsection (i)(10)) if the taxpayer does not use a normalization method of accounting.
+    (3) Films and video tape
+       Any motion picture film or video tape.
+    (4) Sound recordings
+       Any works which result from the fixation of a series of musical, spoken, or other sounds, regardless of the nature of the material (such as discs, tapes, or other phonorecordings) in which such sounds are embodied.
+    (5) Certain property placed in service in churning transactions
+      (A) In general
+         Property–
+        (i) described in paragraph (4) of section 168(e) (as in effect before the amendments made by the Tax Reform Act of 1986), or
+        (ii) which would be described in such paragraph if such paragraph were applied by substituting ””1987““ for ””1981““ and ””1986““ for ””1980““ each place such terms appear.
+      (B) Subparagraph (A)(ii) not to apply
+         Clause (ii) of subparagraph (A) shall not apply to–
+        (i) any residential rental property or nonresidential real property,
+        (ii) any property if, for the 1st taxable year in which such property is placed in service–
+          (I) the amount allowable as a deduction under this section (as in effect before the date of the enactment of this paragraph) with respect to such property is greater than,
+          (II) the amount allowable as a deduction under this section (as in effect on or after such date and using the half-year convention) for such taxable year, or
+        (iii) any property to which this section (as amended by the Tax Reform Act of 1986) applied in the hands of the transferor.
+      (C) Special rule
+         In the case of any property to which this section would apply but for this paragraph, the depreciation deduction under section 167 shall be determined under the provisions of this section as in effect before the amendments made by section 201 of the Tax Reform Act of 1986.
+  (g) Alternative depreciation system for certain property
+    (1) In general
+       In the case of–
+      (A) any tangible property which during the taxable year is used predominantly outside the United States,
+      (B) any tax-exempt use property,
+      (C) any tax-exempt bond financed property,
+      (D) any imported property covered by an Executive order under paragraph (6), and
+      (E) any property to which an election under paragraph (7) applies,
+       the depreciation deduction provided by section 167(a) shall be determined under the alternative depreciation system.
+    (2) Alternative depreciation system
+       For purposes of paragraph (1), the alternative depreciation system is depreciation determined by using–
+      (A) the straight line method (without regard to salvage value),
+      (B) the applicable convention determined under subsection (d), and
+      (C) a recovery period determined under the following table:
+          
+         l(i) Property not described in clause (ii) or (iii) DThe class life.
+         l(ii) Personal property with no class life D12 years.
+         l(iii) Nonresidential real and residential rental property D40 years.
+         l(iv) Any railroad grading or tunnel bore or water utility property D50 years.
+    (3) Special rules for determining class life
+      (A) Tax-exempt use property subject to lease
+         In the case of any tax-exempt use property subject to a lease, the recovery period used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less than 125 percent of the lease term.
+      (B) Special rule for certain property assigned to classes
+         For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows:
+          
+        (A)          (iii) D4   
+        (B)          (ii) D5   
+  (B)    (iii) D9.5
+  (C)    (i) D10   
+  (C)    (iii) D22   
+  (C)    (iv) D14   
+  (D)    (i) D15   
+  (D)    (ii) D20   
+  (E)    (i) D24   
+  (E)    (ii) D24   
+  (E)    (iii) D20   
+  (E)    (iv) D39   
+  (E)    (v) D39   
+  (E)    (vi) D20   
+  (E)    (vii) D30   
+  (E)    (viii) D35   
+  (F) D25   
+  (C) Qualified technological equipment
+     In the case of any qualified technological equipment, the recovery period used for purposes of paragraph (2) shall be 5 years.
+  (D) Automobiles, etc.
+     In the case of any automobile or light general purpose truck, the recovery period used for purposes of paragraph (2) shall be 5 years.
+  (E) Certain real property
+     In the case of any section 1245 property which is real property with no class life, the recovery period used for purposes of paragraph (2) shall be 40 years.
+  (4) Exception for certain property used outside United States
+     Subparagraph (A) of paragraph (1) shall not apply to–
+    (A) any aircraft which is registered by the Administrator of the Federal Aviation Agency and which is operated to and from the United States or is operated under contract with the United States;
+    (B) rolling stock which is used within and without the United States and which is–
+      (i) of a rail carrier subject to part A of subtitle IV of title 49, or
+      (ii) of a United States person (other than a corporation described in clause (i)) but only if the rolling stock is not leased to one or more foreign persons for periods aggregating more than 12 months in any 24-month period;
+    (C) any vessel documented under the laws of the United States which is operated in the foreign or domestic commerce of the United States;
+    (D) any motor vehicle of a United States person (as defined in section 7701(a)(30)) which is operated to and from the United States;
+    (E) any container of a United States person which is used in the transportation of property to and from the United States;
+    (F) any property (other than a vessel or an aircraft) of a United States person which is used for the purpose of exploring for, developing, removing, or transporting resources from the outer Continental Shelf (within the meaning of section 2 of the Outer Continental Shelf Lands Act, as amended and supplemented; (43 U.S.C. 1331));
+    (G) any property which is owned by a domestic corporation (other than a corporation which has an election in effect under section 936) or by a United States citizen (other than a citizen entitled to the benefits of section 931 or 933) and which is used predominantly in a possession of the United States by such a corporation or such a citizen, or by a corporation created or organized in, or under the law of, a possession of the United States;
+    (H) any communications satellite (as defined in section 103(3) of the Communications Satellite Act of 1962, 47 U.S.C. 702(3)), or any interest therein, of a United States person;
+    (I) any cable, or any interest therein, of a domestic corporation engaged in furnishing telephone service to which section 168(i)(10)(C) applies (or of a wholly owned domestic subsidiary of such a corporation), if such cable is part of a submarine cable system which constitutes part of a communication link exclusively between the United States and one or more foreign countries;
+    (J) any property (other than a vessel or an aircraft) of a United States person which is used in international or territorial waters within the northern portion of the Western Hemisphere for the purpose of exploring for, developing, removing, or transporting resources from ocean waters or deposits under such waters;
+    (K) any property described in section 48(T3lK)(3)(A)(ix) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) which is owned by a United States person and which is used in international or territorial waters to generate energy for use in the United States; and
+    (L) any satellite (not described in subparagraph (H)) or other spacecraft (or any interest therein) held by a United States person if such satellite or other spacecraft was launched from within the United States.
+     For purposes of subparagraph (J), the term ””northern portion of the Western Hemisphere““ means the area lying west of the 30th meridian west of Greenwich, east of the international dateline, and north of the Equator, but not including any foreign country which is a country of South America.
+  (5) Tax-exempt bond financed property
+     For purposes of this subsection–
+    (A) In general
+       Except as otherwise provided in this paragraph, the term ””tax-exempt bond financed property““ means any property to the extent such property is financed (directly or indirectly) by an obligation the interest on which is exempt from tax under section 103(a).
+    (B) Allocation of bond proceeds
+       For purposes of subparagraph (A), the proceeds of any obligation shall be treated as used to finance property acquired in connection with the issuance of such obligation in the order in which such property is placed in service.
+    (C) Qualified residential rental projects
+       The term ””tax-exempt bond financed property““ shall not include any qualified residential rental project (within the meaning of section 142(a)(7)).
+  (6) Imported property
+    (A) Countries maintaining trade restrictions or engaging in discriminatory acts
+       If the President determines that a foreign country–
+      (i) maintains nontariff trade restrictions, including variable import fees, which substantially burden United States commerce in a manner inconsistent with provisions of trade agreements, or
+      (ii) engages in discriminatory or other acts (including tolerance of international cartels) or policies unjustifiably restricting United States commerce,
+       the President may by Executive order provide for the application of paragraph (1)(D) to any article or class of articles manufactured or produced in such foreign country for such period as may be provided by such Executive order. Any period specified in the preceding sentence shall not apply to any property ordered before (or the construction, reconstruction, or erection of which began before) the date of the Executive order unless the President determines an earlier date to be in the public interest and specifies such date in the Executive order.
+    (B) Imported property
+       For purposes of this subsection, the term ””imported property““ means any property if–
+      (i) such property was completed outside the United States, or
+      (ii) less than 50 percent of the basis of such property is attributable to value added within the United States.
+       For purposes of this subparagraph, the term ””United States““ includes the Commonwealth of Puerto Rico and the possessions of the United States.
+  (7) Election to use alternative depreciation system
+    (A) In general
+       If the taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, the alternative depreciation system under this subsection shall apply to all property in such class placed in service during such taxable year. Notwithstanding the preceding sentence, in the case of nonresidential real property or residential rental property, such election may be made separately with respect to each property.
+    (B) Election irrevocable
+       An election under subparagraph (A), once made, shall be irrevocable.
+  (h) Tax-exempt use property
+    (1) In general
+       For purposes of this section–
+      (A) Property other than nonresidential real property
+         Except as otherwise provided in this subsection, the term ””tax-exempt use property““ means that portion of any tangible property (other than nonresidential real property) leased to a tax-exempt entity.
+      (B) Nonresidential real property
+        (i) In general
+           In the case of nonresidential real property, the term ””tax-exempt use property““ means that portion of the property leased to a tax-exempt entity in a disqualified lease.
+        (ii) Disqualified lease
+           For purposes of this subparagraph, the term ””disqualified lease““ means any lease of the property to a tax-exempt entity, but only if–
+          (I) part or all of the property was financed (directly or indirectly) by an obligation the interest on which is exempt from tax under section 103(a) and such entity (or a related entity) participated in such financing,
+          (II) under such lease there is a fixed or determinable price purchase or sale option which involves such entity (or a related entity) or there is the equivalent of such an option,
+          (III) such lease has a lease term in excess of 20 years, or
+          (IV) such lease occurs after a sale (or other transfer) of the property by, or lease of the property from, such entity (or a related entity) and such property has been used by such entity (or a related entity) before such sale (or other transfer) or lease.
+        (iii) 35-percent threshold test
+           Clause (i) shall apply to any property only if the portion of such property leased to tax-exempt entities in disqualified leases is more than 35 percent of the property.
+        (iv) Treatment of improvements
+           For purposes of this subparagraph, improvements to a property (other than land) shall not be treated as a separate property.
+        (v) Leasebacks during 1st 3 months of use not taken into account
+           Subclause (IV) of clause (ii) shall not apply to any property which is leased within 3 months after the date such property is first used by the tax-exempt entity (or a related entity).
+      (C) Exception for short-term leases
+        (i) In general
+           Property shall not be treated as tax-exempt use property merely by reason of a short-term lease.
+        (ii) Short-term lease
+           For purposes of clause (i), the term ””short-term lease““ means any lease the term of which is–
+          (I) less than 3 years, and
+          (II) less than the greater of 1 year or 30 percent of the property“s present class life.
+              In the case of nonresidential real property and property with no present class life, subclause (II) shall not apply.
+      (D) Exception where property used in unrelated trade or business
+         The term ””tax-exempt use property““ shall not include any portion of a property if such portion is predominantly used by the tax-exempt entity (directly or through a partnership of which such entity is a partner) in an unrelated trade or business the income of which is subject to tax under section 511. For purposes of subparagraph (B)(iii), any portion of a property so used shall not be treated as leased to a tax-exempt entity in a disqualified lease.
+      (E) Nonresidential real property defined
+         For purposes of this paragraph, the term ””nonresidential real property““ includes residential rental property.
+    (2) Tax-exempt entity
+      (A) In general
+         For purposes of this subsection, the term ””tax-exempt entity““ means–
+        (i) the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing,
+        (ii) an organization (other than a cooperative described in section 521) which is exempt from tax imposed by this chapter,
+        (iii) any foreign person or entity, and
+        (iv) any Indian tribal government described in section 7701(a)(40).
+         For purposes of applying this subsection, any Indian tribal government referred to in clause (iv) shall be treated in the same manner as a State.
+      (B) Exception for certain property subject to United States tax and used by foreign person or entity
+         Clause (iii) of subparagraph (A) shall not apply with respect to any property if more than 50 percent of the gross income for the taxable year derived by the foreign person or entity from the use of such property is–
+        (i) subject to tax under this chapter, or
+        (ii) included under section 951 in the gross income of a United States shareholder for the taxable year with or within which ends the taxable year of the controlled foreign corporation in which such income was derived.
+         For purposes of the preceding sentence, any exclusion or exemption shall not apply for purposes of determining the amount of the gross income so derived, but shall apply for purposes of determining the portion of such gross income subject to tax under this chapter.
+      (C) Foreign person or entity
+         For purposes of this paragraph, the term ””foreign person or entity““ means–
+        (i) any foreign government, any international organization, or any agency or instrumentality of any of the foregoing, and
+        (ii) any person who is not a United States person.
+         Such term does not include any foreign partnership or other foreign pass-thru entity.
+      (D) Treatment of certain taxable instrumentalities
+         For purposes of this subsection, a corporation shall not be treated as an instrumentality of the United States or of any State or political subdivision thereof if–
+        (i) all of the activities of such corporation are subject to tax under this chapter, and
+        (ii) a majority of the board of directors of such corporation is not selected by the United States or any State or political subdivision thereof.
+      (E) Certain previously tax-exempt organizations
+        (i) In general
+           For purposes of this subsection, an organization shall be treated as an organization described in subparagraph (A)(ii) with respect to any property (other than property held by such organization) if such organization was an organization (other than a cooperative described in section 521) exempt from tax imposed by this chapter at any time during the 5-year period ending on the date such property was first used by such organization. The preceding sentence and subparagraph (D)(ii) shall not apply to the Federal Home Loan Mortgage Corporation.
+        (ii) Election not to have clause (i) apply
+          (I) In general
+             In the case of an organization formerly exempt from tax under section 501(a) as an organization described in section 501(c)(12), clause (i) shall not apply to such organization with respect to any property if such organization elects not to be exempt from tax under section 501(a) during the tax-exempt use period with respect to such property.
+          (II) Tax-exempt use period
+             For purposes of subclause (I), the term ””tax-exempt use period““ means the period beginning with the taxable year in which the property described in subclause (I) is first used by the organization and ending with the close of the 15th taxable year following the last taxable year of the applicable recovery period of such property.
+          (III) Election
+             Any election under subclause (I), once made, shall be irrevocable.
+        (iii) Treatment of successor organizations
+           Any organization which is engaged in activities substantially similar to those engaged in by a predecessor organization shall succeed to the treatment under this subparagraph of such predecessor organization.
+        (iv) First used
+           For purposes of this subparagraph, property shall be treated as first used by the organization–
+          (I) when the property is first placed in service under a lease to such organization, or
+          (II) in the case of property leased to (or held by) a partnership (or other pass-thru entity) in which the organization is a member, the later of when such property is first used by such partnership or pass-thru entity or when such organization is first a member of such partnership or pass-thru entity.
+    (3) Special rules for certain high technology equipment
+      (A) Exemption where lease term is 5 years or less
+         For purposes of this section, the term ””tax-exempt use property““ shall not include any qualified technological equipment if the lease to the tax-exempt entity has a lease term of 5 years or less. Notwithstanding subsection (i)(3)(A)(i), in determining a lease term for purposes of the preceding sentence, there shall not be taken into account any option of the lessee to renew at the fair market value rent determined at the time of renewal; except that the aggregate period not taken into account by reason of this sentence shall not exceed 24 months.
+      (B) Exception for certain property
+        (i) In general
+           For purposes of subparagraph (A), the term ””qualified technological equipment““ shall not include any property leased to a tax-exempt entity if–
+          (I) part or all of the property was financed (directly or indirectly) by an obligation the interest on which is exempt from tax under section 103(a),
+          (II) such lease occurs after a sale (or other transfer) of the property by, or lease of such property from, such entity (or related entity) and such property has been used by such entity (or a related entity) before such sale (or other transfer) or lease, or
+          (III) such tax-exempt entity is the United States or any agency or instrumentality of the United States.
+        (ii) Leasebacks during 1st 3 months of use not taken into account
+           Subclause (II) of clause (i) shall not apply to any property which is leased within 3 months after the date such property is first used by the tax-exempt entity (or a related entity).
+    (4) Related entities
+       For purposes of this subsection–
+      (A)        (i) Each governmental unit and each agency or instrumentality of a governmental unit is related to each other such unit, agency, or instrumentality which directly or indirectly derives its powers, rights, and duties in whole or in part from the same sovereign authority.
+        (ii) For purposes of clause (i), the United States, each State, and each possession of the United States shall be treated as a separate sovereign authority.
+      (B) Any entity not described in subparagraph (A)(i) is related to any other entity if the 2 entities have–
+        (i) significant common purposes and substantial common membership, or
+        (ii) directly or indirectly substantial common direction or control.
+      (C)        (i) An entity is related to another entity if either entity owns (directly or through 1 or more entities) a 50 percent or greater interest in the capital or profits of the other entity.
+        (ii) For purposes of clause (i), entities treated as related under subparagraph (A) or (B) shall be treated as 1 entity.
+      (D) An entity is related to another entity with respect to a transaction if such transaction is part of an attempt by such entities to avoid the application of this subsection.
+    (5) Tax-exempt use of property leased to partnerships, etc., determined at partner level
+       For purposes of this subsection–
+      (A) In general
+         In the case of any property which is leased to a partnership, the determination of whether any portion of such property is tax-exempt use property shall be made by treating each tax-exempt entity partner“s proportionate share (determined under paragraph (6)(C)) of such property as being leased to such partner.
+      (B) Other pass-thru entities; tiered entities
+         Rules similar to the rules of subparagraph (A) shall also apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
+      (C) Presumption with respect to foreign entities
+         Unless it is otherwise established to the satisfaction of the Secretary, it shall be presumed that the partners of a foreign partnership (and the beneficiaries of any other foreign pass-thru entity) are persons who are not United States persons.
+    (6) Treatment of property owned by partnerships, etc.
+      (A) In general
+         For purposes of this subsection, if–
+        (i) any property which (but for this subparagraph) is not tax-exempt use property is owned by a partnership which has both a tax-exempt entity and a person who is not a tax-exempt entity as partners, and
+        (ii) any allocation to the tax-exempt entity of partnership items is not a qualified allocation,
+         an amount equal to such tax-exempt entity“s proportionate share of such property shall (except as provided in paragraph (1)(D)) be treated as tax-exempt use property.
+      (B) Qualified allocation
+         For purposes of subparagraph (A), the term ””qualified allocation““ means any allocation to a tax-exempt entity which–
+        (i) is consistent with such entity“s being allocated the same distributive share of each item of income, gain, loss, deduction, credit, and basis and such share remains the same during the entire period the entity is a partner in the partnership, and
+        (ii) has substantial economic effect within the meaning of section 704(b)(2).
+         For purposes of this subparagraph, items allocated under section 704(c) shall not be taken into account.
+      (C) Determination of proportionate share
+        (i) In general
+           For purposes of subparagraph (A), a tax-exempt entity“s proportionate share of any property owned by a partnership shall be determined on the basis of such entity“s share of partnership items of income or gain (excluding gain allocated under section 704(c)), whichever results in the largest proportionate share.
+        (ii) Determination where allocations vary
+           For purposes of clause (i), if a tax-exempt entity“s share of partnership items of income or gain (excluding gain allocated under section 704(c)) may vary during the period such entity is a partner in the partnership, such share shall be the highest share such entity may receive.
+      (D) Determination of whether property used in unrelated trade or business
+         For purposes of this subsection, in the case of any property which is owned by a partnership which has both a tax-exempt entity and a person who is not a tax-exempt entity as partners, the determination of whether such property is used in an unrelated trade or business of such an entity shall be made without regard to section 514.
+      (E) Other pass-thru entities; tiered entities
+         Rules similar to the rules of subparagraphs (A), (B), (C), and (D) shall also apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
+      (F) Treatment of certain taxable entities
+        (i) In general
+           For purposes of this paragraph and paragraph (5), except as otherwise provided in this subparagraph, any tax-exempt controlled entity shall be treated as a tax-exempt entity.
+        (ii) Election
+           If a tax-exempt controlled entity makes an election under this clause–
+          (I) such entity shall not be treated as a tax-exempt entity for purposes of this paragraph and paragraph (5), and
+          (II) any gain recognized by a tax-exempt entity on any disposition of an interest in such entity (and any dividend or interest received or accrued by a tax-exempt entity from such tax-exempt controlled entity) shall be treated as unrelated business taxable income for purposes of section 511.
+              Any such election shall be irrevocable and shall bind all tax-exempt entities holding interests in such tax-exempt controlled entity. For purposes of subclause (II), there shall only be taken into account dividends which are properly allocable to income of the tax-exempt controlled entity which was not subject to tax under this chapter.
+        (iii) Tax-exempt controlled entity
+          (I) In general
+             The term ””tax-exempt controlled entity““ means any corporation (which is not a tax-exempt entity determined without regard to this subparagraph and paragraph (2)(E)) if 50 percent or more (in value) of the stock in such corporation is held by 1 or more tax-exempt entities (other than a foreign person or entity).
+          (II) Only 5-percent shareholders taken into account in case of publicly traded stock
+             For purposes of subclause (I), in the case of a corporation the stock of which is publicly traded on an established securities market, stock held by a tax-exempt entity shall not be taken into account unless such entity holds at least 5 percent (in value) of the stock in such corporation. For purposes of this subclause, related entities (within the meaning of paragraph (4)) shall be treated as 1 entity.
+          (III) Section 318 to apply
+             For purposes of this clause, a tax-exempt entity shall be treated as holding stock which it holds through application of section 318 (determined without regard to the 50-percent limitation contained in subsection (a)(2)(C) thereof).
+      (G) Regulations
+         For purposes of determining whether there is a qualified allocation under subparagraph (B), the regulations prescribed under paragraph (8) for purposes of this paragraph–
+        (i) shall set forth the proper treatment for partnership guaranteed payments, and
+        (ii) may provide for the exclusion or segregation of items.
+    (7) Lease
+       For purposes of this subsection, the term ””lease““ includes any grant of a right to use property.
+    (8) Regulations
+       The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
+      (i) Definitions and special rules
+         For purposes of this section–
+        (1) Class life
+           Except as provided in this section, the term ””class life““ means the class life (if any) which would be applicable with respect to any property as of January 1, 1986, under subsection (m) of section 167 (determined without regard to paragraph (4) and as if the taxpayer had made an election under such subsection). The Secretary, through an office established in the Treasury, shall monitor and analyze actual experience with respect to all depreciable assets. The reference in this paragraph to subsection (m) of section 167 shall be treated as a reference to such subsection as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990.
+        (2) Qualified technological equipment
+          (A) In general
+             The term ””qualified technological equipment““ means–
+            (i) any computer or peripheral equipment,
+            (ii) any high technology telephone station equipment installed on the customer“s premises, and
+            (iii) any high technology medical equipment.
+          (B) Computer or peripheral equipment defined
+             For purposes of this paragraph–
+            (i) In general
+               The term ””computer or peripheral equipment““ means–
+              (I) any computer, and
+              (II) any related peripheral equipment.
+            (ii) Computer
+               The term ””computer““ means a programmable electronically activated device which–
+              (I) is capable of accepting information, applying prescribed processes to the information, and supplying the results of these processes with or without human intervention, and
+              (II) consists of a central processing unit containing extensive storage, logic, arithmetic, and control capabilities.
+            (iii) Related peripheral equipment
+               The term ””related peripheral equipment““ means any auxiliary machine (whether on-line or off-line) which is designed to be placed under the control of the central processing unit of a computer.
+            (iv) Exceptions
+               The term ””computer or peripheral equipment““ shall not include–
+              (I) any equipment which is an integral part of other property which is not a computer,
+              (II) typewriters, calculators, adding and accounting machines, copiers, duplicating equipment, and similar equipment, and
+              (III) equipment of a kind used primarily for amusement or entertainment of the user.
+          (C) High technology medical equipment
+             For purposes of this paragraph, the term ””high technology medical equipment““ means any electronic, electromechanical, or computer-based high technology equipment used in the screening, monitoring, observation, diagnosis, or treatment of patients in a laboratory, medical, or hospital environment.
+        (3) Lease term
+          (A) In general
+             In determining a lease term–
+            (i) there shall be taken into account options to renew,
+            (ii) the term of a lease shall include the term of any service contract or similar arrangement (whether or not treated as a lease under section 7701(e))–
+              (I) which is part of the same transaction (or series of related transactions) which includes the lease, and
+              (II) which is with respect to the property subject to the lease or substantially similar property, and
+            (iii) 2 or more successive leases which are part of the same transaction (or a series of related transactions) with respect to the same or substantially similar property shall be treated as 1 lease.
+          (B) Special rule for fair rental options on nonresidential real property or residential rental property
+             For purposes of clause (i) of subparagraph (A), in the case of nonresidential real property or residential rental property, there shall not be taken into account any option to renew at fair market value, determined at the time of renewal.
+        (4) General asset accounts
+           Under regulations, a taxpayer may maintain 1 or more general asset accounts for any property to which this section applies. Except as provided in regulations, all proceeds realized on any disposition of property in a general asset account shall be included in income as ordinary income.
+        (5) Changes in use
+           The Secretary shall, by regulations, provide for the method of determining the deduction allowable under section 167(a) with respect to any tangible property for any taxable year (and the succeeding taxable years) during which such property changes status under this section but continues to be held by the same person.
+        (6) Treatments of additions or improvements to property
+           In the case of any addition to (or improvement of) any property–
+          (A) any deduction under subsection (a) for such addition or improvement shall be computed in the same manner as the deduction for such property would be computed if such property had been placed in service at the same time as such addition or improvement, and
+          (B) the applicable recovery period for such addition or improvement shall begin on the later of–
+            (i) the date on which such addition (or improvement) is placed in service, or
+            (ii) the date on which the property with respect to which such addition (or improvement) was made is placed in service.
+        (7) Treatment of certain transferees
+          (A) In general
+             In the case of any property transferred in a transaction described in subparagraph (B), the transferee shall be treated as the transferor for purposes of computing the depreciation deduction determined under this section with respect to so much of the basis in the hands of the transferee as does not exceed the adjusted basis in the hands of the transferor. In any case where this section as in effect before the amendments made by section 201 of the Tax Reform Act of 1986 applied to the property in the hands of the transferor, the reference in the preceding sentence to this section shall be treated as a reference to this section as so in effect.
+          (B) Transactions covered
+             The transactions described in this subparagraph are–
+            (i) any transaction described in section 332, 351, 361, 721, or 731, and
+            (ii) any transaction between members of the same affiliated group during any taxable year for which a consolidated return is made by such group.
+             Subparagraph (A) shall not apply in the case of a termination of a partnership under section 708(b)(1)(B).
+          (C) Property reacquired by the taxpayer
+             Under regulations, property which is disposed of and then reacquired by the taxpayer shall be treated for purposes of computing the deduction allowable under subsection (a) as if such property had not been disposed of.
+        (8) Treatment of leasehold improvements
+          (A) In general
+             In the case of any building erected (or improvements made) on leased property, if such building or improvement is property to which this section applies, the depreciation deduction shall be determined under the provisions of this section.
+          (B) Treatment of lessor improvements which are abandoned at termination of lease
+             An improvement–
+            (i) which is made by the lessor of leased property for the lessee of such property, and
+            (ii) which is irrevocably disposed of or abandoned by the lessor at the termination of the lease by such lessee,
+             shall be treated for purposes of determining gain or loss under this title as disposed of by the lessor when so disposed of or abandoned.
+          (C) Cross reference
+             T2For treatment of qualified long-term real property constructed or improved in connection with cash or rent reduction from lessor to lessee, see section 110(b).
+        (9) Normalization rules
+          (A) In general
+             In order to use a normalization method of accounting with respect to any public utility property for purposes of subsection (f)(2)–
+            (i) the taxpayer must, in computing its tax expense for purposes of establishing its cost of service for ratemaking purposes and reflecting operating results in its regulated books of account, use a method of depreciation with respect to such property that is the same as, and a depreciation period for such property that is no shorter than, the method and period used to compute its depreciation expense for such purposes; and
+            (ii) if the amount allowable as a deduction under this section with respect to such property differs from the amount that would be allowable as a deduction under section 167 using the method (including the period, first and last year convention, and salvage value) used to compute regulated tax expense under clause (i), the taxpayer must make adjustments to a reserve to reflect the deferral of taxes resulting from such difference.
+          (B) Use of inconsistent estimates and projections, etc.
+            (i) In general
+               One way in which the requirements of subparagraph (A) are not met is if the taxpayer, for ratemaking purposes, uses a procedure or adjustment which is inconsistent with the requirements of subparagraph (A).
+            (ii) Use of inconsistent estimates and projections
+               The procedures and adjustments which are to be treated as inconsistent for purposes of clause (i) shall include any procedure or adjustment for ratemaking purposes which uses an estimate or projection of the taxpayer“s tax expense, depreciation expense, or reserve for deferred taxes under subparagraph (A)(ii) unless such estimate or projection is also used, for ratemaking purposes, with respect to the other 2 such items and with respect to the rate base.
+            (iii) Regulatory authority
+               The Secretary may by regulations prescribe procedures and adjustments (in addition to those specified in clause (ii)) which are to be treated as inconsistent for purposes of clause (i).
+          (C) Public utility property which does not meet normalization rules
+             In the case of any public utility property to which this section does not apply by reason of subsection (f)(2), the allowance for depreciation under section 167(a) shall be an amount computed using the method and period referred to in subparagraph (A)(i).
+        (10) Public utility property
+           The term ””public utility property““ means property used predominantly in the trade or business of the furnishing or sale of–
+          (A) electrical energy, water, or sewage disposal services,
+          (B) gas or steam through a local distribution system,
+          (C) telephone services, or other communication services if furnished or sold by the Communications Satellite Corporation for purposes authorized by the Communications Satellite Act of 1962 (47 U.S.C. 701), or
+          (D) transportation of gas or steam by pipeline,
+           if the rates for such furnishing or sale, as the case may be, have been established or approved by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof.
+        (11) Research and experimentation
+           The term ””research and experimentation““ has the same meaning as the term research and experimental has under section 174.
+        (12) Section 1245 and 1250 property
+           The terms ””section 1245 property““ and ””section 1250 property““ have the meanings given such terms by sections 1245(a)(3) and 1250(c), respectively.
+        (13) Single purpose agricultural or horticultural structure
+          (A) In general
+             The term ””single purpose agricultural or horticultural structure““ means–
+            (i) a single purpose livestock structure, and
+            (ii) a single purpose horticultural structure.
+          (B) Definitions
+             For purposes of this paragraph–
+            (i) Single purpose livestock structure
+               The term ””single purpose livestock structure““ means any enclosure or structure specifically designed, constructed, and used–
+              (I) for housing, raising, and feeding a particular type of livestock and their produce, and
+              (II) for housing the equipment (including any replacements) necessary for the housing, raising, and feeding referred to in subclause (I).
+            (ii) Single purpose horticultural structure
+               The term ””single purpose horticultural structure““ means–
+              (I) a greenhouse specifically designed, constructed, and used for the commercial production of plants, and
+              (II) a structure specifically designed, constructed, and used for the commercial production of mushrooms.
+            (iii) Structures which include work space
+               An enclosure or structure which provides work space shall be treated as a single purpose agricultural or horticultural structure only if such work space is solely for–
+              (I) the stocking, caring for, or collecting of livestock or plants (as the case may be) or their produce,
+              (II) the maintenance of the enclosure or structure, and
+              (III) the maintenance or replacement of the equipment or stock enclosed or housed therein.
+            (iv) Livestock
+               The term ””livestock““ includes poultry.
+        (14) Qualified rent-to-own property
+          (A) In general
+             The term ””qualified rent-to-own property““ means property held by a rent-to-own dealer for purposes of being subject to a rent-to-own contract.
+          (B) Rent-to-own dealer
+             The term ””rent-to-own dealer““ means a person that, in the ordinary course of business, regularly enters into rent-to-own contracts with customers for the use of consumer property, if a substantial portion of those contracts terminate and the property is returned to such person before the receipt of all payments required to transfer ownership of the property from such person to the customer.
+          (C) Consumer property
+             The term ””consumer property““ means tangible personal property of a type generally used within the home for personal use.
+          (D) Rent-to-own contract
+             The term ””rent-to-own contract““ means any lease for the use of consumer property between a rent-to-own dealer and a customer who is an individual which–
+            (i) is titled ””Rent-to-Own Agreement““ or ””Lease Agreement with Ownership Option,““ or uses other similar language,
+            (ii) provides for level (or decreasing where no payment is less than 40 percent of the largest payment), regular periodic payments (for a payment period which is a week or month),
+            (iii) provides that legal title to such property remains with the rent-to-own dealer until the customer makes all the payments described in clause (ii) or early purchase payments required under the contract to acquire legal title to the item of property,
+            (iv) provides a beginning date and a maximum period of time for which the contract may be in effect that does not exceed 156 weeks or 36 months from such beginning date (including renewals or options to extend),
+            (v) provides for payments within the 156-week or 36-month period that, in the aggregate, generally exceed the normal retail price of the consumer property plus interest,
+            (vi) provides for payments under the contract that, in the aggregate, do not exceed $10,000 per item of consumer property,
+            (vii) provides that the customer does not have any legal obligation to make all the payments referred to in clause (ii) set forth under the contract, and that at the end of each payment period the customer may either continue to use the consumer property by making the payment for the next payment period or return such property to the rent-to-own dealer in good working order, in which case the customer does not incur any further obligations under the contract and is not entitled to a return of any payments previously made under the contract, and
+            (viii) provides that the customer has no right to sell, sublease, mortgage, pawn, pledge, encumber, or otherwise dispose of the consumer property until all the payments stated in the contract have been made.
+        (15) Motorsports entertainment complex
+          (A) In general
+             The term ””motorsports entertainment complex““ means a racing track facility which–
+            (i) is permanently situated on land, and
+            (ii) during the 36-month period following the first day of the month in which the asset is placed in service, hosts 1 or more racing events for automobiles (of any type), trucks, or motorcycles which are open to the public for the price of admission.
+          (B) Ancillary and support facilities
+             Such term shall include, if owned by the taxpayer who owns the complex and provided for the benefit of patrons of the complex–
+            (i) ancillary facilities and land improvements in support of the complex“s activities (including parking lots, sidewalks, waterways, bridges, fences, and landscaping),
+            (ii) support facilities (including food and beverage retailing, souvenir vending, and other nonlodging accommodations), and
+            (iii) appurtenances associated with such facilities and related attractions and amusements (including ticket booths, race track surfaces, suites and hospitality facilities, grandstands and viewing structures, props, walls, facilities that support the delivery of entertainment services, other special purpose structures, facades, shop interiors, and buildings).
+          (C) Exception
+             Such term shall not include any transportation equipment, administrative services assets, warehouses, administrative buildings, hotels, or motels.
+          (D) Termination
+             Such term shall not include any property placed in service after December 31, 2007.
+        (16) Alaska natural gas pipeline
+           The term ””Alaska natural gas pipeline““ means the natural gas pipeline system located in the State of Alaska which–
+          (A) has a capacity of more than 500,000,000,000 Btu of natural gas per day, and
+          (B) is–
+            (i) placed in service after December 31, 2013, or
+            (ii) treated as placed in service on January 1, 2014, if the taxpayer who places such system in service before January 1, 2014, elects such treatment.
+           Such term includes the pipe, trunk lines, related equipment, and appurtenances used to carry natural gas, but does not include any gas processing plant.
+        (17) Natural gas gathering line
+           The term ””natural gas gathering line““ means–
+          (A) the pipe, equipment, and appurtenances determined to be a gathering line by the Federal Energy Regulatory Commission, and
+          (B) the pipe, equipment, and appurtenances used to deliver natural gas from the wellhead or a commonpoint to the point at which such gas first reaches–
+            (i) a gas processing plant,
+            (ii) an interconnection with a transmission pipeline for which a certificate as an interstate transmission pipeline has been issued by the Federal Energy Regulatory Commission,
+            (iii) an interconnection with an intrastate transmission pipeline, or
+            (iv) a direct interconnection with a local distribution company, a gas storage facility, or an industrial consumer.
+      (j) Property on Indian reservations
+        (1) In general
+           For purposes of subsection (a), the applicable recovery period for qualified Indian reservation property shall be determined in accordance with the table contained in paragraph (2) in lieu of the table contained in subsection (c).
+        (2) Applicable recovery period for Indian reservation property
+           For purposes of paragraph (1)–
+            
+           3-year property D2 years  
+           5-year property D3 years  
+           7-year property D4 years  
+           10-year property D6 years  
+           15-year property D9 years  
+           20-year property D12 years  
+           Nonresidential real property D22 years.
+        (3) Deduction allowed in computing minimum tax
+           For purposes of determining alternative minimum taxable income under section 55, the deduction under subsection (a) for property to which paragraph (1) applies shall be determined under this section without regard to any adjustment under section 56.
+        (4) Qualified Indian reservation property defined
+           For purposes of this subsection–
+          (A) In general
+             The term ””qualified Indian reservation property““ means property which is property described in the table in paragraph (2) and which is–
+            (i) used by the taxpayer predominantly in the active conduct of a trade or business within an Indian reservation,
+            (ii) not used or located outside the Indian reservation on a regular basis,
+            (iii) not acquired (directly or indirectly) by the taxpayer from a person who is related to the taxpayer (within the meaning of section 465(b)(3)(C)), and
+            (iv) not property (or any portion thereof) placed in service for purposes of conducting or housing class I, II, or III gaming (as defined in section 4 of the Indian Regulatory Act (25 U.S.C. 2703)).
+          (B) Exception for alternative depreciation property
+             The term ””qualified Indian reservation property““ does not include any property to which the alternative depreciation system under subsection (g) applies, determined–
+            (i) without regard to subsection (g)(7) (relating to election to use alternative depreciation system), and
+            (ii) after the application of section 280F(b) (relating to listed property with limited business use).
+          (C) Special rule for reservation infrastructure investment
+            (i) In general
+               Subparagraph (A)(ii) shall not apply to qualified infrastructure property located outside of the Indian reservation if the purpose of such property is to connect with qualified infrastructure property located within the Indian reservation.
+            (ii) Qualified infrastructure property
+               For purposes of this subparagraph, the term ””qualified infrastructure property““ means qualified Indian reservation property (determined without regard to subparagraph (A)(ii)) which–
+              (I) benefits the tribal infrastructure,
+              (II) is available to the general public, and
+              (III) is placed in service in connection with the taxpayer“s active conduct of a trade or business within an Indian reservation.
+                  Such term includes, but is not limited to, roads, power lines, water systems, railroad spurs, and communications facilities.
+        (5) Real estate rentals
+           For purposes of this subsection, the rental to others of real property located within an Indian reservation shall be treated as the active conduct of a trade or business within an Indian reservation.
+        (6) Indian reservation defined
+           For purposes of this subsection, the term ””Indian reservation““ means a reservation, as defined in–
+          (A) section 3(d) of the Indian Financing Act of 1974 (25 U.S.C. 1452(d)), or
+          (B) section 4(10) of the Indian Child Welfare Act of 1978 (25 U.S.C. 1903(10)).
+           For purposes of the preceding sentence, such section 3(d) shall be applied by treating the term ””former Indian reservations in Oklahoma““ as including only lands which are within the jurisdictional area of an Oklahoma Indian tribe (as determined by the Secretary of the Interior) and are recognized by such Secretary as eligible for trust land status under 25 CFR Part 151 (as in effect on the date of the enactment of this sentence).
+        (7) Coordination with nonrevenue laws
+           Any reference in this subsection to a provision not contained in this title shall be treated for purposes of this subsection as a reference to such provision as in effect on the date of the enactment of this paragraph.
+        (8) Termination
+           This subsection shall not apply to property placed in service after December 31, 2005.
+      (k) Special allowance for certain property acquired after September 10, 2001, and before January 1, 2005
+        (1) Additional allowance
+           In the case of any qualified property–
+          (A) the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 30 percent of the adjusted basis of the qualified property, and
+          (B) the adjusted basis of the qualified property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.
+        (2) Qualified property
+           For purposes of this subsection–
+          (A) In general
+             The term ””qualified property““ means property–
+            (i)              (I) to which this section applies which has a recovery period of 20 years or less,
+              (II) which is computer software (as defined in section 167(f)(1)(B)) for which a deduction is allowable under section 167(a) without regard to this subsection,
+              (III) which is water utility property, or
+              (IV) which is qualified leasehold improvement property,
+            (ii) the original use of which commences with the taxpayer after September 10, 2001,
+            (iii) which is–
+              (I) acquired by the taxpayer after September 10, 2001, and before January 1, 2005, but only if no written binding contract for the acquisition was in effect before September 11, 2001, or
+              (II) acquired by the taxpayer pursuant to a written binding contract which was entered into after September 10, 2001, and before January 1, 2005, and
+            (iv) which is placed in service by the taxpayer before January 1, 2005, or, in the case of property described in subparagraph (B) or (C), before January 1, 2006.
+          (B) Certain property having longer production periods treated as qualified property
+            (i) In general
+               The term ””qualified property““ includes any property if such property–
+              (I) meets the requirements of clauses (i), (ii), and (iii) of subparagraph (A),
+              (II) has a recovery period of at least 10 years or is transportation property,
+              (III) is subject to section 263A, and
+              (IV) meets the requirements of clause (ii) or (iii) of section 263A(f)(1)(B) (determined as if such clauses also apply to property which has a long useful life (within the meaning of section 263A(f))).
+            (ii) Only pre-January 1, 2005, basis eligible for additional allowance
+               In the case of property which is qualified property solely by reason of clause (i), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2005.
+            (iii) Transportation property
+               For purposes of this subparagraph, the term ””transportation property““ means tangible personal property used in the trade or business of transporting persons or property.
+            (iv) Application of subparagraph
+               This subparagraph shall not apply to any property which is described in subparagraph (C).
+          (C) Certain aircraft
+             The term ””qualified property““ includes property–
+            (i) which meets the requirements of clauses (ii) and (iii) of subparagraph (A),
+            (ii) which is an aircraft which is not a transportation property (as defined in subparagraph (B)(iii)) other than for agricultural or firefighting purposes,
+            (iii) which is purchased and on which such purchaser, at the time of the contract for purchase, has made a nonrefundable deposit of the lesser of–
+              (I) 10 percent of the cost, or
+              (II) $100,000, and
+            (iv) which has–
+              (I) an estimated production period exceeding 4 months, and
+              (II) a cost exceeding $200,000.
+          (D) Exceptions
+            (i) Alternative depreciation property
+               The term ””qualified property““ shall not include any property to which the alternative depreciation system under subsection (g) applies, determined–
+              (I) without regard to paragraph (7) of subsection (g) (relating to election to have system apply), and
+              (II) after application of section 280F(b) (relating to listed property with limited business use).
+            (ii) Qualified new york liberty zone leasehold improvement property
+               The term ””qualified property““ shall not include any qualified New York Liberty Zone leasehold improvement property (as defined in section 1400L(c)(2)).
+            (iii) Election out
+               If a taxpayer makes an election under this clause with respect to any class of property for any taxable year, this subsection shall not apply to all property in such class placed in service during such taxable year. The preceding sentence shall be applied separately with respect to property treated as qualified property by paragraph (4) and other qualified property.
+          (E) Special rules
+            (i) Self-constructed property
+               In the case of a taxpayer manufacturing, constructing, or producing property for the taxpayer“s own use, the requirements of clause (iii) of subparagraph (A) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing the property after September 10, 2001, and before January 1, 2005.
+            (ii) Sale-leasebacks
+               For purposes of clause (iii) and subparagraph (A)(ii), if property is–
+              (I) originally placed in service after September 10, 2001, by a person, and
+              (II) sold and leased back by such person within 3 months after the date such property was originally placed in service,
+                  such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback referred to in subclause (II).
+            (iii) Syndication
+               For purposes of subparagraph (A)(ii), if–
+              (I) property is originally placed in service after September 10, 2001, by the lessor of such property,
+              (II) such property is sold by such lessor or any subsequent purchaser within 3 months after the date such property was originally placed in service (or, in the case of multiple units of property subject to the same lease, within 3 months after the date the final unit is placed in service, so long as the period between the time the first unit is placed in service and the time the last unit is placed in service does not exceed 12 months), and
+              (III) the user of such property after the last sale during such 3-month period remains the same as when such property was originally placed in service,
+                  such property shall be treated as originally placed in service not earlier than the date of such last sale.
+            (iv) Limitations related to users and related parties
+               The term ””qualified property““ shall not include any property if–
+              (I) the user of such property (as of the date on which such property is originally placed in service) or a person which is related (within the meaning of section 267(b) or 707(b)) to such user or to the taxpayer had a written binding contract in effect for the acquisition of such property at any time on or before September 10, 2001, or
+              (II) in the case of property manufactured, constructed, or produced for such user“s or person“s own use, the manufacture, construction, or production of such property began at any time on or before September 10, 2001.
+          (F) Coordination with section 280F
+             For purposes of section 280F–
+            (i) Automobiles
+               In the case of a passenger automobile (as defined in section 280F(d)(5)) which is qualified property, the Secretary shall increase the limitation under section 280F(a)(1)(A)(i) by $4,600.
+            (ii) Listed property
+               The deduction allowable under paragraph (1) shall be taken into account in computing any recapture amount under section 280F(b)(2).
+          (G) Deduction allowed in computing minimum tax
+             For purposes of determining alternative minimum taxable income under section 55, the deduction under subsection (a) for qualified property shall be determined under this section without regard to any adjustment under section 56.
+        (3) Qualified leasehold improvement property
+           For purposes of this subsection–
+          (A) In general
+             The term ””qualified leasehold improvement property““ means any improvement to an interior portion of a building which is nonresidential real property if–
+            (i) such improvement is made under or pursuant to a lease (as defined in subsection (h)(7))–
+              (I) by the lessee (or any sublessee) of such portion, or
+              (II) by the lessor of such portion,
+            (ii) such portion is to be occupied exclusively by the lessee (or any sublessee) of such portion, and
+            (iii) such improvement is placed in service more than 3 years after the date the building was first placed in service.
+          (B) Certain improvements not included
+             Such term shall not include any improvement for which the expenditure is attributable to–
+            (i) the enlargement of the building,
+            (ii) any elevator or escalator,
+            (iii) any structural component benefiting a common area, and
+            (iv) the internal structural framework of the building.
+          (C) Definitions and special rules
+             For purposes of this paragraph–
+            (i) Commitment to lease treated as lease
+               A commitment to enter into a lease shall be treated as a lease, and the parties to such commitment shall be treated as lessor and lessee, respectively.
+            (ii) Related persons
+               A lease between related persons shall not be considered a lease. For purposes of the preceding sentence, the term ””related persons““ means–
+              (I) members of an affiliated group (as defined in section 1504), and
+              (II) persons having a relationship described in subsection (b) of section 267; except that, for purposes of this clause, the phrase ””80 percent or more““ shall be substituted for the phrase ””more than 50 percent““ each place it appears in such subsection.
+        (4) 50-percent bonus depreciation for certain property
+          (A) In general
+             In the case of 50-percent bonus depreciation property–
+            (i) paragraph (1)(A) shall be applied by substituting ””50 percent““ for ””30 percent““, and
+            (ii) except as provided in paragraph (2)(D), such property shall be treated as qualified property for purposes of this subsection.
+          (B) 50-percent bonus depreciation property
+             For purposes of this subsection, the term ””50-percent bonus depreciation property““ means property described in paragraph (2)(A)(i)–
+            (i) the original use of which commences with the taxpayer after May 5, 2003,
+            (ii) which is–
+              (I) acquired by the taxpayer after May 5, 2003, and before January 1, 2005, but only if no written binding contract for the acquisition was in effect before May 6, 2003, or
+              (II) acquired by the taxpayer pursuant to a written binding contract which was entered into after May 5, 2003, and before January 1, 2005, and
+            (iii) which is placed in service by the taxpayer before January 1, 2005, or, in the case of property described in paragraph (2)(B) (as modified by subparagraph (C) of this paragraph) or paragraph (2)(C) (as so modified), before January 1, 2006.
+          (C) Special rules
+             Rules similar to the rules of subparagraphs (B), (C), and (E) of paragraph (2) shall apply for purposes of this paragraph; except that references to September 10, 2001, shall be treated as references to May 5, 2003.
+          (D) Automobiles
+             Paragraph (2)(F) shall be applied by substituting ””$7,650““ for ””$4,600““ in the case of 50-percent bonus depreciation property.
+          (E) Election of 30-percent bonus
+             If a taxpayer makes an election under this subparagraph with respect to any class of property for any taxable year, subparagraph (A)(i) shall not apply to all property in such class placed in service during such taxable year.

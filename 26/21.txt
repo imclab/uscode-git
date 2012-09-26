@@ -1,0 +1,83 @@
+  (a) Allowance of credit
+    (1) In general
+       In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
+    (2) Applicable percentage defined
+       For purposes of paragraph (1), the term ””applicable percentage““ means 35 percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer“s adjusted gross income for the taxable year exceeds $15,000.
+  (b) Definitions of qualifying individual and employment-related expenses
+     For purposes of this section–
+    (1) Qualifying individual
+       The term ””qualifying individual““ means–
+      (A) a dependent of the taxpayer (as defined in section 152(a)(1)) who has not attained age 13,
+      (B) a dependent of the taxpayer (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B)) who is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year, or
+      (C) the spouse of the taxpayer, if the spouse is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year.
+    (2) Employment-related expenses
+      (A) In general
+         The term ””employment-related expenses““ means amounts paid for the following expenses, but only if such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are 1 or more qualifying individuals with respect to the taxpayer:
+        (i) expenses for household services, and
+        (ii) expenses for the care of a qualifying individual.
+         Such term shall not include any amount paid for services outside the taxpayer“s household at a camp where the qualifying individual stays overnight.
+      (B) Exception
+         Employment-related expenses described in subparagraph (A) which are incurred for services outside the taxpayer“s household shall be taken into account only if incurred for the care of–
+        (i) a qualifying individual described in paragraph (1)(A), or
+        (ii) a qualifying individual (not described in paragraph (1)(A)) who regularly spends at least 8 hours each day in the taxpayer“s household.
+      (C) Dependent care centers
+         Employment-related expenses described in subparagraph (A) which are incurred for services provided outside the taxpayer“s household by a dependent care center (as defined in subparagraph (D)) shall be taken into account only if–
+        (i) such center complies with all applicable laws and regulations of a State or unit of local government, and
+        (ii) the requirements of subparagraph (B) are met.
+      (D) Dependent care center defined
+         For purposes of this paragraph, the term ””dependent care center““ means any facility which–
+        (i) provides care for more than six individuals (other than individuals who reside at the facility), and
+        (ii) receives a fee, payment, or grant for providing services for any of the individuals (regardless of whether such facility is operated for profit).
+  (c) Dollar limit on amount creditable
+     The amount of the employment-related expenses incurred during any taxable year which may be taken into account under subsection (a) shall not exceed–
+    (1) $3,000 if there is 1 qualifying individual with respect to the taxpayer for such taxable year, or
+    (2) $6,000 if there are 2 or more qualifying individuals with respect to the taxpayer for such taxable year.
+       The amount determined under paragraph (1) or (2) (whichever is applicable) shall be reduced by the aggregate amount excludable from gross income under section 129 for the taxable year.
+  (d) Earned income limitation
+    (1) In general
+       Except as otherwise provided in this subsection, the amount of the employment-related expenses incurred during any taxable year which may be taken into account under subsection (a) shall not exceed–
+      (A) in the case of an individual who is not married at the close of such year, such individual“s earned income for such year, or
+      (B) in the case of an individual who is married at the close of such year, the lesser of such individual“s earned income or the earned income of his spouse for such year.
+    (2) Special rule for spouse who is a student or incapable of caring for himself
+       In the case of a spouse who is a student or a qualifying individual described in subsection (b)(1)(C), for purposes of paragraph (1), such spouse shall be deemed for each month during which such spouse is a full-time student at an educational institution, or is such a qualifying individual, to be gainfully employed and to have earned income of not less than–
+      (A) $250 if subsection (c)(1) applies for the taxable year, or
+      (B) $500 if subsection (c)(2) applies for the taxable year.
+       In the case of any husband and wife, this paragraph shall apply with respect to only one spouse for any one month.
+  (e) Special rules
+     For purposes of this section–
+    (1) Place of abode
+       An individual shall not be treated as having the same principal place of abode of the taxpayer if at any time during the taxable year of the taxpayer the relationship between the individual and the taxpayer is in violation of local law.
+    (2) Married couples must file joint return
+       If the taxpayer is married at the close of the taxable year, the credit shall be allowed under subsection (a) only if the taxpayer and his spouse file a joint return for the taxable year.
+    (3) Marital status
+       An individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married.
+    (4) Certain married individuals living apart
+       If–
+      (A) an individual who is married and who files a separate return–
+        (i) maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a qualifying individual, and
+        (ii) furnishes over half of the cost of maintaining such household during the taxable year, and
+      (B) during the last 6 months of such taxable year such individual“s spouse is not a member of such household,
+       such individual shall not be considered as married.
+    (5) Special dependency test in case of divorced parents, etc.
+       If–
+      (A) section 152(e) applies to any child with respect to any calendar year, and
+      (B) such child is under the age of 13 or is physically or mentally incapable of caring for himself,
+       in the case of any taxable year beginning in such calendar year, such child shall be treated as a qualifying individual described in subparagraph (A) or (B) of subsection (b)(1) (whichever is appropriate) with respect to the custodial parent (as defined in section 152(e)(3)(A)), and shall not be treated as a qualifying individual with respect to the noncustodial parent.
+    (6) Payments to related individuals
+       No credit shall be allowed under subsection (a) for any amount paid by the taxpayer to an individual–
+      (A) with respect to whom, for the taxable year, a deduction under section 151(c) (relating to deduction for personal exemptions for dependents) is allowable either to the taxpayer or his spouse, or
+      (B) who is a child of the taxpayer (within the meaning of section 152(f)(1)) who has not attained the age of 19 at the close of the taxable year.
+       For purposes of this paragraph, the term ””taxable year““ means the taxable year of the taxpayer in which the service is performed.
+    (7) Student
+       The term ””student““ means an individual who during each of 5 calendar months during the taxable year is a full-time student at an educational organization.
+    (8) Educational organization
+       The term ””educational organization““ means an educational organization described in section 170(b)(1)(A)(ii).
+    (9) Identifying information required with respect to service provider
+       No credit shall be allowed under subsection (a) for any amount paid to any person unless–
+      (A) the name, address, and taxpayer identification number of such person are included on the return claiming the credit, or
+      (B) if such person is an organization described in section 501(c)(3) and exempt from tax under section 501(a), the name and address of such person are included on the return claiming the credit.
+       In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
+    (10) Identifying information required with respect to qualifying individuals
+       No credit shall be allowed under this section with respect to any qualifying individual unless the TIN of such individual is included on the return claiming the credit.
+  (f) Regulations
+     The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.

@@ -1,1 +1,33 @@
-   In any case where an Indian has an allotment of land, or any right, title, or interest in such an allotment, the Secretary of the Interior, in his discretion, may permit such Indian to surrender such allotment, or any right, title, or interest therein, by such formal relinquishment as may be prescribed by the Secretary of the Interior, for the benefit of any of his or her children to whom no allotment of land shall have been made; and thereupon the Secretary of the Interior shall cause the estate so relinquished to be allotted to such child or children subject to all conditions which attached to it before such relinquishment.
+  (a) Treatment as employees of domestic parent corporation
+    (1) In general
+       For purposes of applying this part with respect to a pension, profit-sharing, or stock bonus plan described in section 401(a) or an annuity plan described in section 403(a), of a domestic parent corporation, an individual who is a citizen or resident of the United States and who is an employee of a domestic subsidiary (within the meaning of paragraph (2)) of such domestic parent corporation shall be treated as an employee of such domestic parent corporation, if–
+      (A) the plan of such domestic parent corporation expressly provides for contributions or benefits for individuals who are citizens or residents of the United States and who are employees of its domestic subsidiaries; and
+      (B) contributions under a funded plan of deferred compensation (whether or not a plan described in section 401(a) or 403(a)) are not provided by any other person with respect to the remuneration paid to such individual by the domestic subsidiary.
+    (2) Definitions
+       For purposes of this section–
+      (A) Domestic subsidiary
+         A corporation shall be treated as a domestic subsidiary for any taxable year only if–
+        (i) such corporation is a domestic corporation 80 percent or more of the outstanding voting stock of which is owned by another domestic corporation;
+        (ii) 95 percent or more of its gross income for the three-year period immediately preceding the close of its taxable year which ends on or before the close of the taxable year of such other domestic corporation (or for such part of such period during which the corporation was in existence), was derived from sources without the United States; and
+        (iii) 90 percent or more of its gross income for such period (or such part) was derived from the active conduct of a trade or business.
+         If for the period (or part thereof) referred to in clauses (ii) and (iii) such corporation has no gross income, the provisions of clauses (ii) and (iii) shall be treated as satisfied if it is reasonable to anticipate that, with respect to the first taxable year thereafter for which such corporation has gross income, the provisions of such clauses will be satisfied.
+      (B) Domestic parent corporation
+         The domestic parent corporation of any domestic subsidiary is the domestic corporation which owns 80 percent or more of the outstanding voting stock of such domestic subsidiary.
+  (b) Special rules for application of section 401(a)
+    (1) Nondiscrimination requirements
+       For purposes of applying section 401(a)(4) and section 410(b) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a)–
+      (A) if such individual is a highly compensated employee (within the meaning of section 414(q)), he shall be treated as having such capacity with respect to such domestic parent corporation; and
+      (B) the determination of whether such individual is a highly compensated employee (as so defined) shall be made by treating such individual“s total compensation (determined with the application of paragraph (2) of this subsection) as compensation paid by such domestic parent corporation and by determining such individual“s status with regard to such domestic parent corporation.
+    (2) Determination of compensation
+       For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a), the total compensation of such individual shall be the remuneration paid to such individual by the domestic subsidiary which would constitute his total compensation if his services had been performed for such domestic parent corporation, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary.
+       [(c) Repealed. Pub. L. 104–188, title I, § 1401(b)(8), Aug. 20, 1996, 110 Stat. 1789]
+  (d) Deductibility of contributions
+     For purposes of applying section 404 with respect to contributions made to or under a pension, profit-sharing, stock bonus, or annuity plan by a domestic parent corporation, or by another corporation which is entitled to deduct its contributions under section 404(a)(3)(B), on behalf of an individual who is treated as an employee of such domestic corporation under subsection (a)–
+    (1) except as provided in paragraph (2), no deduction shall be allowed to such domestic parent corporation or to any other corporation which is entitled to deduct its contributions under such sections,
+    (2) there shall be allowed as a deduction to the domestic subsidiary of which such individual is an employee an amount equal to the amount which (but for paragraph (1)) would be deductible under section 404 by the domestic parent corporation if he were an employee of the domestic parent corporation, and
+    (3) any reference to compensation shall be considered to be a reference to the total compensation of such individual (determined with the application of subsection (b)(2)).
+       Any amount deductible by a domestic subsidiary under this subsection shall be deductible for its taxable year with or within which the taxable year of such domestic parent corporation ends.
+  (e) Treatment as employee under related provisions
+     An individual who is treated as an employee of a domestic parent corporation under subsection (a) shall also be treated as an employee of such domestic parent corporation, with respect to the plan described in subsection (a)(1)(A), for purposes of applying the following provisions of this title:
+    (1) Section 72(f) (relating to special rules for computing employees“ contributions).
+    (2) Section 2039 (relating to annuities).

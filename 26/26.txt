@@ -1,1 +1,38 @@
-   Section, R.S. § 2052, provided for appointment of Indian Agents by the President.
+  (a) Limitation based on amount of tax
+    (1) In general
+       The aggregate amount of credits allowed by this subpart (other than sections 23, 24, and 25B) for the taxable year shall not exceed the excess (if any) of–
+      (A) the taxpayer“s regular tax liability for the taxable year, over
+      (B) the tentative minimum tax for the taxable year (determined without regard to the alternative minimum tax foreign tax credit).
+       For purposes of subparagraph (B), the taxpayer“s tentative minimum tax for any taxable year beginning during 1999 shall be treated as being zero.
+    (2) Special rule for taxable years 2000 through 2005
+       For purposes of any taxable year beginning during 2000, 2001, 2002, 2003, 2004, or 2005, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of–
+      (A) the taxpayer“s regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
+      (B) the tax imposed by section 55(a) for the taxable year.
+  (b) Regular tax liability
+     For purposes of this part–
+    (1) In general
+       The term ””regular tax liability““ means the tax imposed by this chapter for the taxable year.
+    (2) Exception for certain taxes
+       For purposes of paragraph (1), any tax imposed by any of the following provisions shall not be treated as tax imposed by this chapter:
+      (A) section 55 (relating to minimum tax),
+      (B) section 59A (relating to environmental tax),
+      (C) subsection (m)(5)(B), (q), (t), or (v) of section 72 (relating to additional taxes on certain distributions),
+      (D) section 143(m) (relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),
+      (E) section 530(d)(4) (relating to additional tax on certain distributions from Coverdell education savings accounts),
+      (F) section 531 (relating to accumulated earnings tax),
+      (G) section 541 (relating to personal holding company tax),
+      (H) section 1351(d)(1) (relating to recoveries of foreign expropriation losses),
+      (I) section 1374 (relating to tax on certain built-in gains of S corporations),
+      (J) section 1375 (relating to tax imposed when passive investment income of corporation having subchapter C earnings and profits exceeds 25 percent of gross receipts),
+      (K) subparagraph (A) of section 7518(g)(6) (relating to nonqualified withdrawals from capital construction funds taxed at highest marginal rate),
+      (L) sections 871(a) and 881 (relating to certain income of nonresident aliens and foreign corporations),
+      (M) section 860E(e) (relating to taxes with respect to certain residual interests),
+      (N) section 884 (relating to branch profits tax),
+      (O) sections 453(T3lK)(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
+      (P) section 860K \1\N (relating to treatment of transfers of high-yield interests to disqualified holders),
+      (Q) section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses),
+      (R) section 138(c)(2) (relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),
+      (S) section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses), and
+      (T) subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation).
+  (c) Tentative minimum tax
+     For purposes of this part, the term ””tentative minimum tax““ means the amount determined under section 55(b)(1).

@@ -1,1 +1,68 @@
-   The funds appropriated to pay a judgment to the Jicarilla Apache Tribe in Indian Claims Commission docket numbered 22–A, together with the interest thereon, after payment of attorney fees and other litigation expenses, may be advanced, expended, invested, or reinvested for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior.
+  (a) General rule
+     For purposes of this title–
+    (1) Retirement
+       Amounts received by the holder on retirement of any debt instrument shall be considered as amounts received in exchange therefor.
+    (2) Ordinary income on sale or exchange where intention to call before maturity
+      (A) In general
+         If at the time of original issue there was an intention to call a debt instrument before maturity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to–
+        (i) the original issue discount, reduced by
+        (ii) the portion of original issue discount previously includible in the gross income of any holder (without regard to subsection (a)(7) or (b)(4) of section 1272 (or the corresponding provisions of prior law)),
+         shall be treated as ordinary income.
+      (B) Exceptions
+         This paragraph (and paragraph (2) of subsection (c)) shall not apply to–
+        (i) any tax-exempt obligation, or
+        (ii) any holder who has purchased the debt instrument at a premium.
+    (3) Certain short-term Government obligations
+      (A) In general
+         On the sale or exchange of any short-term Government obligation, any gain realized which does not exceed an amount equal to the ratable share of the acquisition discount shall be treated as ordinary income.
+      (B) Short-term Government obligation
+         For purposes of this paragraph, the term ””short-term Government obligation““ means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
+      (C) Acquisition discount
+         For purposes of this paragraph, the term ””acquisition discount““ means the excess of the stated redemption price at maturity over the taxpayer“s basis for the obligation.
+      (D) Ratable share
+         For purposes of this paragraph, except as provided in subparagraph (E), the ratable share of the acquisition discount is an amount which bears the same ratio to such discount as–
+        (i) the number of days which the taxpayer held the obligation, bears to
+        (ii) the number of days after the date the taxpayer acquired the obligation and up to (and including) the date of its maturity.
+      (E) Election of accrual on basis of constant interest rate
+         At the election of the taxpayer with respect to any obligation, the ratable share of the acquisition discount is the portion of the acquisition discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of–
+        (i) the taxpayer“s yield to maturity based on the taxpayer“s cost of acquiring the obligation, and
+        (ii) compounding daily.
+         An election under this subparagraph, once made with respect to any obligation, shall be irrevocable.
+    (4) Certain short-term nongovernment obligations
+      (A) In general
+         On the sale or exchange of any short-term nongovernment obligation, any gain realized which does not exceed an amount equal to the ratable share of the original issue discount shall be treated as ordinary income.
+      (B) Short-term nongovernment obligation
+         For purposes of this paragraph, the term ””short-term nongovernment obligation““ means any obligation which–
+        (i) has a fixed maturity date not more than 1 year from the date of the issue, and
+        (ii) is not a short-term Government obligation (as defined in paragraph (3)(B) without regard to the last sentence thereof).
+      (C) Ratable share
+         For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is an amount which bears the same ratio to such discount as–
+        (i) the number of days which the taxpayer held the obligation, bears to
+        (ii) the number of days after the date of original issue and up to (and including) the date of its maturity.
+      (D) Election of accrual on basis of constant interest rate
+         At the election of the taxpayer with respect to any obligation, the ratable share of the original issue discount is the portion of the original issue discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of–
+        (i) the yield to maturity based on the issue price of the obligation, and
+        (ii) compounding daily.
+         Any election under this subparagraph, once made with respect to any obligation, shall be irrevocable.
+  (b) Exception for certain obligations
+    (1) In general
+       This section shall not apply to–
+      (A) any obligation issued by a natural person before June 9, 1997, and
+      (B) any obligation issued before July 2, 1982, by an issuer which is not a corporation and is not a government or political subdivision thereof.
+    (2) Termination
+       Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) after June 8, 1997.
+  (c) Transition rules
+    (1) Special rule for certain obligations issued before January 1, 1955
+       Paragraph (1) of subsection (a) shall apply to a debt instrument issued before January 1, 1955, only if such instrument was issued with interest coupons or in registered form, or was in such form on March 1, 1954.
+    (2) Special rule for certain obligations with respect to which original issue discount not currently includible
+      (A) In general
+         On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954, and before July 2, 1982, or by a corporation after December 31, 1954, and on or before May 27, 1969, any gain realized which does not exceed–
+        (i) an amount equal to the original issue discount, or
+        (ii) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity,
+         shall be considered as ordinary income.
+      (B) Subsection (a)(2)(A) not to apply
+         Subsection (a)(2)(A) shall not apply to any debt instrument referred to in subparagraph (A) of this paragraph.
+      (C) Cross reference
+         T2For current inclusion of original issue discount, see section 1272.
+  (d) Double inclusion in income not required
+     This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.

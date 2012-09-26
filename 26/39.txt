@@ -1,1 +1,26 @@
-   Section, R.S. § 2063, related to compensation for extra services rendered by Indian Agents.
+  (a) In general
+    (1) 1-year carryback and 20-year carryforward
+       If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the ””unused credit year““), such excess (to the extent attributable to the amount of the current year business credit) shall be–
+      (A) a business credit carryback to the taxable year preceding the unused credit year, and
+      (B) a business credit carryforward to each of the 20 taxable years following the unused credit year,
+       and, subject to the limitations imposed by subsections (b) and (c), shall be taken into account under the provisions of section 38(a) in the manner provided in section 38(a).
+    (2) Amount carried to each year
+      (A) Entire amount carried to first year
+         The entire amount of the unused credit for an unused credit year shall be carried to the earliest of the 21 taxable years to which (by reason of paragraph (1)) such credit may be carried.
+      (B) Amount carried to other 20 years
+         The amount of the unused credit for the unused credit year shall be carried to each of the other 20 taxable years to the extent that such unused credit may not be taken into account under section 38(a) for a prior taxable year because of the limitations of subsections (b) and (c).
+    (3) 5-year carryback for marginal oil and gas well production credit
+       Notwithstanding subsection (d), in the case of the marginal oil and gas well production credit–
+      (A) this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit),
+      (B) paragraph (1) shall be applied by substituting ””each of the 5 taxable years““ for ””the taxable year““ in subparagraph (A) thereof, and
+      (C) paragraph (2) shall be applied–
+        (i) by substituting ””25 taxable years““ for ””21 taxable years““ in subparagraph (A) thereof, and
+        (ii) by substituting ””24 taxable years““ for ””20 taxable years““ in subparagraph (B) thereof.
+  (b) Limitation on carrybacks
+     The amount of the unused credit which may be taken into account under section 38(a)(3) for any preceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of–
+    (1) the amounts determined under paragraphs (1) and (2) of section 38(a) for such taxable year, plus
+    (2) the amounts which (by reason of this section) are carried back to such taxable year and are attributable to taxable years preceding the unused credit year.
+  (c) Limitation on carryforwards
+     The amount of the unused credit which may be taken into account under section 38(a)(1) for any succeeding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of the amounts which, by reason of this section, are carried to such taxable year and are attributable to taxable years preceding the unused credit year.
+  (d) Transitional rule
+     No portion of the unused business credit for any taxable year which is attributable to a credit specified in section 38(b) or any portion thereof may be carried back to any taxable year before the first taxable year for which such specified credit or such portion is allowable (without regard to subsection (a)).

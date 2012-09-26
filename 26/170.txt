@@ -1,0 +1,46 @@
+  (a) Allowance of deduction
+     Every person, at his election, shall be entitled to a deduction with respect to the amortization of the amortizable basis of any certified pollution control facility (as defined in subsection (d)), based on a period of 60 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis of the pollution control facility at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The amortization deduction provided by this section with respect to any month shall be in lieu of the depreciation deduction with respect to such pollution control facility for such month provided by section 167. The 60-month period shall begin, as to any pollution control facility, at the election of the taxpayer, with the month following the month in which such facility was completed or acquired, or with the succeeding taxable year.
+  (b) Election of amortization
+     The election of the taxpayer to take the amortization deduction and to begin the 60-month period with the month following the month in which the facility is completed or acquired, or with the taxable year succeeding the taxable year in which such facility is completed or acquired, shall be made by filing with the Secretary, in such manner, in such form, and within such time, as the Secretary may by regulations prescribe, a statement of such election.
+  (c) Termination of amortization deduction
+     A taxpayer which has elected under subsection (b) to take the amortization deduction provided in subsection (a) may, at any time after making such election, discontinue the amortization deduction with respect to the remainder of the amortization period, such discontinuance to begin as of the beginning of any month specified by the taxpayer in a notice in writing filed with the Secretary before the beginning of such month. The depreciation deduction provided under section 167 shall be allowed, beginning with the first month as to which the amortization deduction does not apply, and the taxpayer shall not be entitled to any further amortization deduction under this section with respect to such pollution control facility.
+  (d) Definitions and special rules
+     For purposes of this section–
+    (1) Certified pollution control facility
+       The term ””certified pollution control facility““ means a new identifiable treatment facility which is used, in connection with a plant or other property in operation before January 1, 1976, to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, storing, or preventing the creation or omission of pollutants, contaminants, wastes, or heat and which–
+      (A) the State certifying authority having jurisdiction with respect to such facility has certified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
+      (B) the Federal certifying authority has certified to the Secretary (i) as being in compliance with the applicable regulations of Federal agencies and (ii) as being in furtherance of the general policy of the United States for cooperation with the States in the prevention and abatement of water pollution under the Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), or in the prevention and abatement of atmospheric pollution and contamination under the Clean Air Act, as amended (42 U.S.C. 1857 et seq.); and
+      (C) does not significantly–
+        (i) increase the output or capacity, extend the useful life, or reduce the total operating costs of such plant or other property (or any unit thereof), or
+        (ii) alter the nature of the manufacturing or production process or facility.
+    (2) State certifying authority
+       The term ””State certifying authority““ means, in the case of water pollution, the State water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act. The term ””State certifying authority““ includes any interstate agency authorized to act in place of a certifying authority of the State.
+    (3) Federal certifying authority
+       The term ””Federal certifying authority““ means, in the case of water pollution, the Secretary of the Interior and, in the case of air pollution, the Secretary of Health and Human Services.
+    (4) New identifiable treatment facility
+      (A) In general
+         For purposes of paragraph (1), the term ””new identifiable treatment facility““ includes only tangible property (not including a building and its structural components, other than a building which is exclusively a treatment facility) which is of a character subject to the allowance for depreciation provided in section 167, which is identifiable as a treatment facility, and which is property–
+        (i) the construction, reconstruction, or erection of which is completed by the taxpayer after December 31, 1968, or
+        (ii) acquired after December 31, 1968, if the original use of the property commences with the taxpayer and commences after such date.
+         In applying this section in the case of property described in clause (i) there shall be taken into account only that portion of the basis which is properly attributable to construction, reconstruction, or erection after December 31, 1968.
+      (B) Certain facilities placed in operation after April 11, 2005
+         In the case of any facility described in paragraph (1) solely by reason of paragraph (5), subparagraph (A) shall be applied by substituting ””April 11, 2005““ for ””December 31, 1968““ each place it appears therein.
+    (5) Special rule relating to certain atmospheric pollution control facilities
+       In the case of any atmospheric pollution control facility which is placed in service after April 11, 2005, and used in connection with an electric generation plant or other property which is primarily coal fired–
+      (A) paragraph (1) shall be applied without regard to the phrase ””in operation before January 1, 1976““, and
+      (B) in the case of facility \1\N placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting ””84““ for ””60““ each place it appears in subsections (a) and (b).
+  (e) Profitmaking abatement works, etc.
+     The Federal certifying authority shall not certify any property under subsection (d)(1)(B) to the extent it appears that by reason of profits derived through the recovery of wastes or otherwise in the operation of such property, its costs will be recovered over its actual useful life.
+  (f) Amortizable basis
+    (1) Defined
+       For purposes of this section, the term ””amortizable basis““ means that portion of the adjusted basis (for determining gain) of a certified pollution control facility which may be amortized under this section.
+    (2) Special rules
+      (A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
+      (B) The amortizable basis of a certified pollution control facility with respect to which an election under this section is in effect shall not be increased, for purposes of this section, for additions or improvements after the amortization period has begun.
+  (g) Depreciation deduction
+     The depreciation deduction provided by section 167 shall, despite the provisions of subsection (a), be allowed with respect to the portion of the adjusted basis which is not the amortizable basis.
+     [(h) Repealed. Pub. L. 92–178, title I, § 104(f)(2), Dec. 10, 1971, 85 Stat. 502]
+    (i) Life tenant and remainderman
+       In the case of property held by one person for life with remainder to another person, the deduction under this section shall be computed as if the life tenant were the absolute owner of the property and shall be allowable to the life tenant.
+    (j) Cross reference
+       T2For special rule with respect to certain gain derived from the disposition of property the adjusted basis of which is determined with regard to this section, see section 1245.

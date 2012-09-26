@@ -1,2 +1,36 @@
-   Codification
-   Section, act Oct. 12, 1949, ch. 680, title I, 63 Stat. 776, which related to education loans to worthy youths, was from Department of the Interior Appropriation Act, 1950, and was not repeated in Department of the Interior Appropriation Act, 1951, act Sept. 6, 1950, ch. 896, ch. VII, title I, 64 Stat. 679.
+  (a) In general
+     A distribution of property to a shareholder by a corporation in redemption of part or all of the stock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that the amount of such distribution does not exceed the sum of–
+    (1) the estate, inheritance, legacy, and succession taxes (including any interest collected as a part of such taxes) imposed because of such decedent“s death, and
+    (2) the amount of funeral and administration expenses allowable as deductions to the estate under section 2053 (or under section 2106 in the case of the estate of a decedent nonresident, not a citizen of the United States),
+       shall be treated as a distribution in full payment in exchange for the stock so redeemed.
+  (b) Limitations on application of subsection (a)
+    (1) Period for distribution
+       Subsection (a) shall apply only to amounts distributed after the death of the decedent and–
+      (A) within the period of limitations provided in section 6501(a) for the assessment of the Federal estate tax (determined without the application of any provision other than section 6501(a)), or within 90 days after the expiration of such period,
+      (B) if a petition for redetermination of a deficiency in such estate tax has been filed with the Tax Court within the time prescribed in section 6213, at any time before the expiration of 60 days after the decision of the Tax Court becomes final, or
+      (C) if an election has been made under section 6166 and if the time prescribed by this subparagraph expires at a later date than the time prescribed by subparagraph (B) of this paragraph, within the time determined under section 6166 for the payment of the installments.
+    (2) Relationship of stock to decedent“s estate
+      (A) In general
+         Subsection (a) shall apply to a distribution by a corporation only if the value (for Federal estate tax purposes) of all of the stock of such corporation which is included in determining the value of the decedent“s gross estate exceeds 35 percent of the excess of–
+        (i) the value of the gross estate of such decedent, over
+        (ii) the sum of the amounts allowable as a deduction under section 2053 or 2054.
+      (B) Special rule for stock of two or more corporations
+         For purposes of subparagraph (A), stock of 2 or more corporations, with respect to each of which there is included in determining the value of the decedent“s gross estate 20 percent or more in value of the outstanding stock, shall be treated as the stock of a single corporation. For purposes of the 20-percent requirement of the preceding sentence, stock which, at the decedent“s death, represents the surviving spouse“s interest in property held by the decedent and the surviving spouse as community property or as joint tenants, tenants by the entirety, or tenants in common shall be treated as having been included in determining the value of the decedent“s gross estate.
+    (3) Relationship of shareholder to estate tax
+       Subsection (a) shall apply to a distribution by a corporation only to the extent that the interest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
+    (4) Additional requirements for distributions made more than 4 years after decedent“s death
+       In the case of amounts distributed more than 4 years after the date of the decedent“s death, subsection (a) shall apply to a distribution by a corporation only to the extent of the lesser of–
+      (A) the aggregate of the amounts referred to in paragraph (1) or (2) of subsection (a) which remained unpaid immediately before the distribution, or
+      (B) the aggregate of the amounts referred to in paragraph (1) or (2) of subsection (a) which are paid during the 1-year period beginning on the date of such distribution.
+  (c) Stock with substituted basis
+     If–
+    (1) a shareholder owns stock of a corporation (referred to in this subsection as ””new stock““) the basis of which is determined by reference to the basis of stock of a corporation (referred to in this subsection as ””old stock““),
+    (2) the old stock was included (for Federal estate tax purposes) in determining the gross estate of a decedent, and
+    (3) subsection (a) would apply to a distribution of property to such shareholder in redemption of the old stock,
+       then, subject to the limitation specified in subsection (b), subsection (a) shall apply in respect of a distribution in redemption of the new stock.
+  (d) Special rules for generation-skipping transfers
+     Where stock in a corporation is the subject of a generation-skipping transfer (within the meaning of section 2611(a)) occurring at the same time as and as a result of the death of an individual–
+    (1) the stock shall be deemed to be included in the gross estate of such individual;
+    (2) taxes of the kind referred to in subsection (a)(1) which are imposed because of the generation-skipping transfer shall be treated as imposed because of such individual“s death (and for this purpose the tax imposed by section 2601 shall be treated as an estate tax);
+    (3) the period of distribution shall be measured from the date of the generation-skipping transfer; and
+    (4) the relationship of stock to the decedent“s estate shall be measured with reference solely to the amount of the generation-skipping transfer.

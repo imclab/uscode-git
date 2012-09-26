@@ -1,0 +1,69 @@
+  (a) Requirement
+    (1) In general
+       Every United States person shall furnish, with respect to any foreign business entity which such person controls, such information as the Secretary may prescribe relating to–
+      (A) the name, the principal place of business, and the nature of business of such entity, and the country under whose laws such entity is incorporated (or organized in the case of a partnership);
+      (B) in the case of a foreign corporation, its post-1986 undistributed earnings (as defined in section 902(c));
+      (C) a balance sheet for such entity listing assets, liabilities, and capital;
+      (D) transactions between such entity and–
+        (i) such person,
+        (ii) any corporation or partnership which such person controls, and
+        (iii) any United States person owning, at the time the transaction takes place–
+          (I) in the case of a foreign corporation, 10 percent or more of the value of any class of stock outstanding of such corporation, and
+          (II) in the case of a foreign partnership, at least a 10-percent interest in such partnership; and
+      (E)        (i) in the case of a foreign corporation, a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any time during the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation, and
+        (ii) information comparable to the information described in clause (i) in the case of a foreign partnership.
+       The Secretary may also require the furnishing of any other information which is similar or related in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title.
+    (2) Period for which information is to be furnished, etc.
+       The information required under paragraph (1) shall be furnished for the annual accounting period of the foreign business entity ending with or within the United States person“s taxable year. The information so required shall be furnished at such time and in such manner as the Secretary shall prescribe.
+    (3) Limitation
+       No information shall be required to be furnished under this subsection with respect to any foreign business entity for any annual accounting period unless the Secretary has prescribed the furnishing of such information on or before the first day of such annual accounting period.
+    (4) Information required from certain shareholders in certain cases
+       If any foreign corporation is treated as a controlled foreign corporation for any purpose under subpart F of part III of subchapter N of chapter 1, the Secretary may require any United States person treated as a United States shareholder of such corporation for any purpose under subpart F to furnish the information required under paragraph (1).
+    (5) Information required from 10-percent partner of controlled foreign partnership
+       In the case of a foreign partnership which is controlled by United States persons holding at least 10-percent interests (but not by any one United States person), the Secretary may require each United States person who holds a 10-percent interest in such partnership to furnish information relating to such partnership, including information relating to such partner“s ownership interests in the partnership and allocations to such partner of partnership items.
+  (b) Dollar penalty for failure to furnish information
+    (1) In general
+       If any person fails to furnish, within the time prescribed under paragraph (2) of subsection (a), any information with respect to any foreign business entity required under paragraph (1) of subsection (a), such person shall pay a penalty of $10,000 for each annual accounting period with respect to which such failure exists.
+    (2) Increase in penalty where failure continues after notification
+       If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in any penalty under this paragraph shall not exceed $50,000.
+  (c) Penalty of reducing foreign tax credit
+    (1) In general
+       If a United States person fails to furnish, within the time prescribed under paragraph (2) of subsection (a), any information with respect to any foreign business entity required under paragraph (1) of subsection (a), then–
+      (A) in applying section 901 (relating to taxes of foreign countries and possessions of the United States) to such United States person for the taxable year, the amount of taxes (other than taxes reduced under subparagraph (B)) paid or deemed paid (other than those deemed paid under section 904(c)) to any foreign country or possession of the United States for the taxable year shall be reduced by 10 percent, and
+      (B) in the case of a foreign business entity which is a foreign corporation, in applying sections 902 (relating to foreign tax credit for corporate stockholder in foreign corporation) and 960 (relating to special rules for foreign tax credit) to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which such information is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
+       If such failure continues 90 days or more after notice of such failure by the Secretary to the United States person, then the amount of the reduction under this paragraph shall be 10 percent plus an additional 5 percent for each 3-month period, or fraction thereof, during which such failure to furnish information continues after the expiration of such 90-day period.
+    (2) Limitation
+       The amount of the reduction under paragraph (1) for each failure to furnish information with respect to a foreign business entity required under subsection (a)(1) shall not exceed whichever of the following amounts is the greater:
+      (A) $10,000, or
+      (B) the income of the foreign business entity for its annual accounting period with respect to which the failure occurs.
+    (3) Coordination with subsection (b)
+       The amount of the reduction which (but for this paragraph) would be made under paragraph (1) with respect to any annual accounting period shall be reduced by the amount of the penalty imposed by subsection (b) with respect to such period.
+    (4) Special rules
+      (A) No taxes shall be reduced under this subsection more than once for the same failure.
+      (B) For purposes of this subsection and subsection (b), the time prescribed under paragraph (2) of subsection (a) to furnish information (and the beginning of the 90-day period after notice by the Secretary) shall be treated as being not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed for failure to furnish such information.
+      (C) In applying subsections (a) and (b) of section 902, and in applying subsection (a) of section 960, the reduction provided by this subsection shall not apply for purposes of determining the amount of post-1986 undistributed earnings.
+  (d) Two or more persons required to furnish information with respect to same foreign corporation
+     Where, but for this subsection, two or more United States persons would be required to furnish information under subsection (a) with respect to the same foreign business entity for the same period, the Secretary may by regulations provide that such information shall be required only from one person. To the extent practicable, the determination of which person shall furnish the information shall be made on the basis of actual ownership of stock.
+  (e) Definitions
+     For purposes of this section–
+    (1) Foreign business entity
+       The term ””foreign business entity““ means a foreign corporation and a foreign partnership.
+    (2) Control of corporation
+       A person is in control of a corporation if such person owns stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or more than 50 percent of the total value of shares of all classes of stock, of a corporation. If a person is in control (within the meaning of the preceding sentence) of a corporation which in turn owns more than 50 percent of the total combined voting power of all classes of stock entitled to vote of another corporation, or owns more than 50 percent of the total value of the shares of all classes of stock of another corporation, then such person shall be treated as in control of such other corporation. For purposes of this paragraph, the rules prescribed by section 318(a) for determining ownership of stock shall apply; except that–
+      (A) subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person, and
+      (B) in applying subparagraph (C) of section 318(a)(2), the phrase ””10 percent““ shall be substituted for the phrase ””50 percent““ used in subparagraph (C).
+    (3) Partnership-related definitions
+      (A) Control
+         A person is in control of a partnership if such person owns directly or indirectly more than a 50 percent interest in such partnership.
+      (B) 50-percent interest
+         For purposes of subparagraph (A), a 50-percent interest in a partnership is–
+        (i) an interest equal to 50 percent of the capital interest, or 50 percent of the profits interest, in such partnership, or
+        (ii) to the extent provided in regulations, an interest to which 50 percent of the deductions or losses of such partnership are allocated.
+         For purposes of the preceding sentence, rules similar to the rules of section 267(c) (other than paragraph (3)) shall apply.
+      (C) 10-percent interest
+         A 10-percent interest in a partnership is an interest which would be described in subparagraph (B) if ””10 percent““ were substituted for ””50 percent““ each place it appears.
+    (4) Annual accounting period
+       The annual accounting period of a foreign business entity is the annual period on the basis of which such foreign business entity regularly computes its income in keeping its books. In the case of a specified foreign business entity (as defined in section 898), the taxable year of such foreign business entity shall be treated as its annual accounting period.
+  (f) Cross references
+     T2(1) For provisions relating to penalties for violations of this section, see section 7203.
+     T2(2) For definition of the term ””United States person““, see section 7701(a)(30).

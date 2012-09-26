@@ -1,1 +1,69 @@
-   On and after May 9, 1938, the expenditures for the purpose of encouraging industry and self-support among the Indians and to aid them in the culture of fruits, grains, and other crops shall be under conditions to be prescribed by the Secretary of the Interior for repayment to the United States on or before the expiration of five years, except in the case of loans on irrigable lands for permanent improvement of said lands, in which the period for repayment may run for nor exceeding twenty years, in the discretion of the Secretary of the Interior.
+  (a) General rule
+     If a shareholder sells or otherwise disposes of section 306 stock (as defined in subsection (c))–
+    (1) Dispositions other than redemptions
+       If such disposition is not a redemption (within the meaning of section 317(b))–
+      (A) The amount realized shall be treated as ordinary income. This subparagraph shall not apply to the extent that–
+        (i) the amount realized, exceeds
+        (ii) such stock“s ratable share of the amount which would have been a dividend at the time of distribution if (in lieu of section 306 stock) the corporation had distributed money in an amount equal to the fair market value of the stock at the time of distribution.
+      (B) Any excess of the amount realized over the sum of–
+        (i) the amount treated under subparagraph (A) as ordinary income, plus
+        (ii) the adjusted basis of the stock,
+       shall be treated as gain from the sale of such stock.
+      (C) No loss shall be recognized.
+      (D) T4Treatment as dividendK.–For purposes of section 1(h)(11) and such other provisions as the Secretary may specify, any amount treated as ordinary income under this paragraph shall be treated as a dividend received from the corporation.
+    (2) Redemption
+       If the disposition is a redemption, the amount realized shall be treated as a distribution of property to which section 301 applies.
+  (b) Exceptions
+     Subsection (a) shall not apply–
+    (1) Termination of shareholder“s interest, etc.
+      (A) Not in redemption
+         If the disposition–
+        (i) is not a redemption;
+        (ii) is not, directly or indirectly, to a person the ownership of whose stock would (under section 318(a)) be attributable to the shareholder; and
+        (iii) terminates the entire stock interest of the shareholder in the corporation (and for purposes of this clause, section 318(a) shall apply).
+      (B) In redemption
+         If the disposition is a redemption and paragraph (3) or (4) of section 302(b) applies.
+    (2) Liquidations
+       If the section 306 stock is redeemed in a distribution in complete liquidation to which part II (sec. 331 and following) applies.
+    (3) Where gain or loss is not recognized
+       To the extent that, under any provision of this subtitle, gain or loss to the shareholder is not recognized with respect to the disposition of the section 306 stock.
+    (4) Transactions not in avoidance
+       If it is established to the satisfaction of the Secretary–
+      (A) that the distribution, and the disposition or redemption, or
+      (B) in the case of a prior or simultaneous disposition (or redemption) of the stock with respect to which the section 306 stock disposed of (or redeemed) was issued, that the disposition (or redemption) of the section 306 stock,
+       was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income tax.
+  (c) Section 306 stock defined
+    (1) In general
+       For purposes of this subchapter, the term ””section 306 stock““ means stock which meets the requirements of subparagraph (A), (B), or (C) of this paragraph.
+      (A) Distributed to seller
+         Stock (other than common stock issued with respect to common stock) which was distributed to the shareholder selling or otherwise disposing of such stock if, by reason of section 305(a), any part of such distribution was not includible in the gross income of the shareholder.
+      (B) Received in a corporate reorganization or separation
+         Stock which is not common stock and–
+        (i) which was received, by the shareholder selling or otherwise disposing of such stock, in pursuance of a plan of reorganization (within the meaning of section 368(a)), or in a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applied, and
+        (ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III, but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
+         For purposes of this section, a receipt of stock to which the foregoing provisions of this subparagraph apply shall be treated as a distribution of stock.
+      (C) Stock having transferred or substituted basis
+         Except as otherwise provided in subparagraph (B), stock the basis of which (in the hands of the shareholder selling or otherwise disposing of such stock) is determined by reference to the basis (in the hands of such shareholder or any other person) of section 306 stock.
+    (2) Exception where no earnings and profits
+       For purposes of this section, the term ””section 306 stock““ does not include any stock no part of the distribution of which would have been a dividend at the time of the distribution if money had been distributed in lieu of the stock.
+    (3) Certain stock acquired in section 351 exchange
+       The term ””section 306 stock““ also includes any stock which is not common stock acquired in an exchange to which section 351 applied if receipt of money (in lieu of the stock) would have been treated as a dividend to any extent. Rules similar to the rules of section 304(b)(2) shall apply–
+      (A) for purposes of the preceding sentence, and
+      (B) for purposes of determining the application of this section to any subsequent disposition of stock which is section 306 stock by reason of an exchange described in the preceding sentence.
+    (4) Application of attribution rules for certain purposes
+       For purposes of paragraphs (1)(B)(ii) and (3), section 318(a) shall apply. For purposes of applying the preceding sentence to paragraph (3), the rules of section 304(c)(3)(B) shall apply.
+  (d) Stock rights
+     For purposes of this section–
+    (1) stock rights shall be treated as stock, and
+    (2) stock acquired through the exercise of stock rights shall be treated as stock distributed at the time of the distribution of the stock rights, to the extent of the fair market value of such rights at the time of the distribution.
+  (e) Convertible stock
+     For purposes of subsection (c)–
+    (1) if section 306 stock was issued with respect to common stock and later such section 306 stock is exchanged for common stock in the same corporation (whether or not such exchange is pursuant to a conversion privilege contained in the section 306 stock), then (except as provided in paragraph (2)) the common stock so received shall not be treated as section 306 stock; and
+    (2) common stock with respect to which there is a privilege of converting into stock other than common stock (or into property), whether or not the conversion privilege is contained in such stock, shall not be treated as common stock.
+  (f) Source of gain
+     The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under the preceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
+  (g) Change in terms and conditions of stock
+     If a substantial change is made in the terms and conditions of any stock, then, for purposes of this section–
+    (1) the fair market value of such stock shall be the fair market value at the time of the distribution or at the time of such change, whichever such value is higher;
+    (2) such stock“s ratable share of the amount which would have been a dividend if money had been distributed in lieu of stock shall be determined as of the time of distribution or as of the time of such change, whichever such ratable share is higher; and
+    (3) subsection (c)(2) shall not apply unless the stock meets the requirements of such subsection both at the time of such distribution and at the time of such change.

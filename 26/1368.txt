@@ -1,0 +1,43 @@
+  (a) General rule
+     A distribution of property made by an S corporation with respect to its stock to which (but for this subsection) section 301(c) would apply shall be treated in the manner provided in subsection (b) or (c), whichever applies.
+  (b) S corporation having no earnings and profits
+     In the case of a distribution described in subsection (a) by an S corporation which has no accumulated earnings and profits–
+    (1) Amount applied against basis
+       The distribution shall not be included in gross income to the extent that it does not exceed the adjusted basis of the stock.
+    (2) Amount in excess of basis
+       If the amount of the distribution exceeds the adjusted basis of the stock, such excess shall be treated as gain from the sale or exchange of property.
+  (c) S corporation having earnings and profits
+     In the case of a distribution described in subsection (a) by an S corporation which has accumulated earnings and profits–
+    (1) Accumulated adjustments account
+       That portion of the distribution which does not exceed the accumulated adjustments account shall be treated in the manner provided by subsection (b).
+    (2) Dividend
+       That portion of the distribution which remains after the application of paragraph (1) shall be treated as a dividend to the extent it does not exceed the accumulated earnings and profits of the S corporation.
+    (3) Treatment of remainder
+       Any portion of the distribution remaining after the application of paragraph (2) of this subsection shall be treated in the manner provided by subsection (b).
+       Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.
+  (d) Certain adjustments taken into account
+     Subsections (b) and (c) shall be applied by taking into account (to the extent proper)–
+    (1) the adjustments to the basis of the shareholder“s stock described in section 1367, and
+    (2) the adjustments to the accumulated adjustments account which are required by subsection (e)(1).
+       In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.
+  (e) Definitions and special rules
+     For purposes of this section–
+    (1) Accumulated adjustments account
+      (A) In general
+         Except as otherwise provided in this paragraph, the term ””accumulated adjustments account““ means an account of the S corporation which is adjusted for the S period in a manner similar to the adjustments under section 1367 (except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ””(but not below zero)““ shall be disregarded in section 1367(a)(2)) and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation.
+      (B) Amount of adjustment in the case of redemptions
+         In the case of any redemption which is treated as an exchange under section 302(a) or 303(a), the adjustment in the accumulated adjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
+      (C) Net loss for year disregarded
+        (i) In general
+           In applying this section to distributions made during any taxable year, the amount in the accumulated adjustments account as of the close of such taxable year shall be determined without regard to any net negative adjustment for such taxable year.
+        (ii) Net negative adjustment
+           For purposes of clause (i), the term ””net negative adjustment““ means, with respect to any taxable year, the excess (if any) of–
+          (I) the reductions in the account for the taxable year (other than for distributions), over
+          (II) the increases in such account for such taxable year.
+    (2) S period
+       The term ””S period““ means the most recent continuous period during which the corporation has been an S corporation. Such period shall not include any taxable year beginning before January 1, 1983.
+    (3) Election to distribute earnings first
+      (A) In general
+         An S corporation may, with the consent of all of its affected shareholders, elect to have paragraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
+      (B) Affected shareholder
+         For purposes of subparagraph (A), the term ””affected shareholder““ means any shareholder to whom a distribution is made by the S corporation during the taxable year.

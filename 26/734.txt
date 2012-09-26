@@ -1,9 +1,20 @@
-  (a) State authority
-     Nothing in this Act shall affect the power of the State of Texas to enact special legislation benefitting the tribe, and the State is authorized to perform any services benefitting the tribe that are not inconsistent with the provisions of this Act.
-  (b) Current constitution and bylaws to remain in effect
-     Subject to the provisions of section 733(a) of this title, the constitution and bylaws of the tribe on file with the Committee on Natural Resources of the House of Representatives is hereby declared to be approved for the purposes of section 476 of this title except that all reference to the Texas Indian Commission shall be considered as reference to the Secretary of the Interior.
-  (c) Authority and capacity of Tribal Council
-     No provision contained in this subchapter shall affect the power of the Tribal Council to take any action under the constitution and bylaws described in subsection (b) of this section. The Tribal Council shall represent the tribe and its members in the implementation of this subchapter and shall have full authority and capacity–
-    (1) to enter into contracts, grant agreements, and other arrangements with any Federal department or agency;
-    (2) to administer or operate any program or activity under or in connection with any such contract, agreement, or arrangement, to enter into subcontracts or award grants to provide for the administration of any such program or activity, or to conduct any other activity under or in connection with any such contract, agreement, or arrangement; and
-    (3) to bind any tribal governing body selected under any new constitution adopted in accordance with section 735 of this title as the successor in interest to the Tribal Council.
+  (a) General rule
+     The basis of partnership property shall not be adjusted as the result of a distribution of property to a partner unless the election, provided in section 754 (relating to optional adjustment to basis of partnership property), is in effect with respect to such partnership or unless there is a substantial basis reduction with respect to such distribution.
+  (b) Method of adjustment
+     In the case of a distribution of property to a partner by a partnership with respect to which the election provided in section 754 is in effect or with respect to which there is a substantial basis reduction, the partnership shall–
+    (1) increase the adjusted basis of partnership property by–
+      (A) the amount of any gain recognized to the distributee partner with respect to such distribution under section 731(a)(1), and
+      (B) in the case of distributed property to which section 732(a)(2) or (b) applies, the excess of the adjusted basis of the distributed property to the partnership immediately before the distribution (as adjusted by section 732(d)) over the basis of the distributed property to the distributee, as determined under section 732, or
+    (2) decrease the adjusted basis of partnership property by–
+      (A) the amount of any loss recognized to the distributee partner with respect to such distribution under section 731(a)(2), and
+      (B) in the case of distributed property to which section 732(b) applies, the excess of the basis of the distributed property to the distributee, as determined under section 732, over the adjusted basis of the distributed property to the partnership immediately before such distribution (as adjusted by section 732(d)).
+         Paragraph (1)(B) shall not apply to any distributed property which is an interest in another partnership with respect to which the election provided in section 754 is not in effect.
+  (c) Allocation of basis
+     The allocation of basis among partnership properties where subsection (b) is applicable shall be made in accordance with the rules provided in section 755.
+  (d) Substantial basis reduction
+    (1) In general
+       For purposes of this section, there is a substantial basis reduction with respect to a distribution if the sum of the amounts described in subparagraphs (A) and (B) of subsection (b)(2) exceeds $250,000.
+    (2) Regulations
+       T2For regulations to carry out this subsection, see section 743(d)(2).
+  (e) Exception for securitization partnerships
+     For purposes of this section, a securitization partnership (as defined in section 743(f)) shall not be treated as having a substantial basis reduction with respect to any distribution of property to a partner.

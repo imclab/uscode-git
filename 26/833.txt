@@ -1,0 +1,72 @@
+  (a) General rule
+     In the case of any organization to which this section applies–
+    (1) Treated as stock company
+       Such organization shall be taxable under this part in the same manner as if it were a stock insurance company.
+    (2) Special deduction allowed
+       The deduction determined under subsection (b) for any taxable year shall be allowed.
+    (3) Reductions in unearned premium reserves not to apply
+       Subparagraph (B) of paragraph (4) of section 832(b) shall be applied by substituting ””100 percent““ for ””80 percent““, and subparagraph (C) of such paragraph (4) shall not apply.
+  (b) Amount of deduction
+    (1) In general
+       Except as provided in paragraph (2), the deduction determined under this subsection for any taxable year is the excess (if any) of–
+      (A) 25 percent of the sum of–
+        (i) the claims incurred during the taxable year and liabilities incurred during the taxable year under cost-plus contracts, and
+        (ii) the expenses incurred during the taxable year in connection with the administration, adjustment, or settlement of claims or in connection with the administration of cost-plus contracts, over
+      (B) the adjusted surplus as of the beginning of the taxable year.
+    (2) Limitation
+       The deduction determined under paragraph (1) for any taxable year shall not exceed taxable income for such taxable year (determined without regard to such deduction).
+    (3) Adjusted surplus
+       For purposes of this subsection–
+      (A) In general
+         The adjusted surplus as of the beginning of any taxable year is an amount equal to the adjusted surplus as of the beginning of the preceding taxable year–
+        (i) increased by the amount of any adjusted taxable income for such preceding taxable year, or
+        (ii) decreased by the amount of any adjusted net operating loss for such preceding taxable year.
+      (B) Special rule
+         The adjusted surplus as of the beginning of the organization“s 1st taxable year beginning after December 31, 1986, shall be its surplus as of such time. For purposes of the preceding sentence and subsection (c)(3)(C), the term ””surplus““ means the excess of the total assets over total liabilities as shown on the annual statement.
+      (C) Adjusted taxable income
+         The term ””adjusted taxable income““ means taxable income determined–
+        (i) without regard to the deduction determined under this subsection,
+        (ii) without regard to any carryforward or carryback to such taxable year, and
+        (iii) by increasing gross income by an amount equal to the net exempt income for the taxable year.
+      (D) Adjusted net operating loss
+         The term ””adjusted net operating loss““ means the net operating loss for any taxable year determined with the adjustments set forth in subparagraph (C).
+      (E) Net exempt income
+         The term ””net exempt income““ means–
+        (i) any tax-exempt interest received or accrued during the taxable year, reduced by any amount (not otherwise deductible) which would have been allowable as a deduction for the taxable year if such interest were not tax-exempt, and
+        (ii) the aggregate amount allowed as a deduction for the taxable year under sections 243, 244, and 245.
+         The amount determined under clause (ii) shall be reduced by the amount of any decrease in deductions allowable for the taxable year by reason of section 832(b)(5)(B) to the extent such decrease is attributable to deductions under sections 243, 244, and 245.
+    (4) Only health-related items taken into account
+       Any determination under this subsection shall be made by only taking into account items attributable to the health-related business of the taxpayer.
+  (c) Organizations to which section applies
+    (1) In general
+       This section shall apply to–
+      (A) any existing Blue Cross or Blue Shield organization, and
+      (B) any other organization meeting the requirements of paragraph (3).
+    (2) Existing Blue Cross or Blue Shield organization
+       The term ””existing Blue Cross or Blue Shield organization““ means any Blue Cross or Blue Shield organization if–
+      (A) such organization was in existence on August 16, 1986,
+      (B) such organization is determined to be exempt from tax for its last taxable year beginning before January 1, 1987, and
+      (C) no material change has occurred in the operations of such organization or in its structure after August 16, 1986, and before the close of the taxable year.
+       To the extent permitted by the Secretary, any successor to an organization meeting the requirements of the preceding sentence, and any organization resulting from the merger or consolidation of organizations each of which met such requirements, shall be treated as an existing Blue Cross or Blue Shield organization.
+    (3) Other organizations
+      (A) In general
+         An organization meets the requirements of this paragraph for any taxable year if–
+        (i) substantially all the activities of such organization involve the providing of health insurance,
+        (ii) at least 10 percent of the health insurance provided by such organization is provided to individuals and small groups (not taking into account any medicare supplemental coverage),
+        (iii) such organization provides continuous full-year open enrollment (including conversions) for individuals and small groups,
+        (iv) such organization“s policies covering individuals provide full coverage of pre-existing conditions of high-risk individuals without a price differential (with a reasonable waiting period), and coverage is provided without regard to age, income, or employment status of individuals under age 65,
+        (v) at least 35 percent of its premiums are determined on a community rated basis, and
+        (vi) no part of its net earnings inures to the benefit of any private shareholder or individual.
+      (B) Small group defined
+         For purposes of subparagraph (A), the term ””small group““ means the lesser of–
+        (i) 15 individuals, or
+        (ii) the number of individuals required for a small group under applicable State law.
+      (C) Special rule for determining adjusted surplus
+         For purposes of subsection (b), the adjusted surplus of any organization meeting the requirements of this paragraph as of the beginning of the 1st taxable year for which it meets such requirements shall be its surplus as of such time.
+    (4) Treatment as existing Blue Cross or Blue Shield organization
+      (A) In general
+         Paragraph (2) shall be applied to an organization described in subparagraph (B) as if it were a Blue Cross or Blue Shield organization.
+      (B) Applicable organization
+         An organization is described in this subparagraph if it–
+        (i) is organized under, and governed by, State laws which are specifically and exclusively applicable to not-for-profit health insurance or health service type organizations, and
+        (ii) is not a Blue Cross or Blue Shield organization or health maintenance organization.

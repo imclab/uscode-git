@@ -1,1 +1,44 @@
-   No undisputed claims to be paid from individual moneys of restricted allottees, or their heirs, or uncontested agricultural and mineral leases (excluding oil and gas leases) made by individual restricted Indian allottees, or their heirs, shall be forwarded to the Secretary of the Interior for approval, but all such undisputed claims or uncontested leases (except oil and gas leases) shall be paid, approved, rejected, or disapproved by the Superintendent for the Five Civilized Tribes of Oklahoma: T3Provided, howeverK, That any party aggrieved by any decision or order of the Superintendent for the Five Civilized Tribes of Oklahoma may appeal from the same to the Secretary of the Interior within thirty days from the date of said decision or order.
+  (a) Gain on exchanges
+    (1) Recognition of gain
+       If–
+      (A) section 354 or 355 would apply to an exchange but for the fact that
+      (B) the property received in the exchange consists not only of property permitted by section 354 or 355 to be received without the recognition of gain but also of other property or money,
+       then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property.
+    (2) Treatment as dividend
+       If an exchange is described in paragraph (1) but has the effect of the distribution of a dividend (determined with the application of section 318(a)), then there shall be treated as a dividend to each distributee such an amount of the gain recognized under paragraph (1) as is not in excess of his ratable share of the undistributed earnings and profits of the corporation accumulated after February 28, 1913. The remainder, if any, of the gain recognized under paragraph (1) shall be treated as gain from the exchange of property.
+  (b) Additional consideration received in certain distributions
+     If–
+    (1) section 355 would apply to a distribution but for the fact that
+    (2) the property received in the distribution consists not only of property permitted by section 355 to be received without the recognition of gain, but also of other property or money,
+       then an amount equal to the sum of such money and the fair market value of such other property shall be treated as a distribution of property to which section 301 applies.
+  (c) Loss
+     If–
+    (1) section 354 would apply to an exchange or section 355 would apply to an exchange or distribution, but for the fact that
+    (2) the property received in the exchange or distribution consists not only of property permitted by section 354 or 355 to be received without the recognition of gain or loss, but also of other property or money,
+       then no loss from the exchange or distribution shall be recognized.
+  (d) Securities as other property
+     For purposes of this section–
+    (1) In general
+       Except as provided in paragraph (2), the term ””other property““ includes securities.
+    (2) Exceptions
+      (A) Securities with respect to which nonrecognition of gain would be permitted
+         The term ””other property““ does not include securities to the extent that, under section 354 or 355, such securities would be permitted to be received without the recognition of gain.
+      (B) Greater principal amount in section 354 exchange
+         If–
+        (i) in an exchange described in section 354 (other than subsection (c) thereof), securities of a corporation a party to the reorganization are surrendered and securities of any corporation a party to the reorganization are received, and
+        (ii) the principal amount of such securities received exceeds the principal amount of such securities surrendered,
+         then, with respect to such securities received, the term ””other property““ means only the fair market value of such excess. For purposes of this subparagraph and subparagraph (C) if no securities are surrendered, the excess shall be the entire principal amount of the securities received.
+      (C) Greater principal amount in section 355 transaction
+         If, in an exchange or distribution described in section 355, the principal amount of the securities in the controlled corporation which are received exceeds the principal amount of the securities in the distributing corporation which are surrendered, then, with respect to such securities received, the term ””other property““ means only the fair market value of such excess.
+  (e) Nonqualified preferred stock treated as other property
+     For purposes of this section–
+    (1) In general
+       Except as provided in paragraph (2), the term ””other property““ includes nonqualified preferred stock (as defined in section 351(g)(2)).
+    (2) Exception
+       The term ””other property““ does not include nonqualified preferred stock (as so defined) to the extent that, under section 354 or 355, such preferred stock would be permitted to be received without the recognition of gain.
+  (f) Exchanges for section 306 stock
+     Notwithstanding any other provision of this section, to the extent that any of the other property (or money) is received in exchange for section 306 stock, an amount equal to the fair market value of such other property (or the amount of such money) shall be treated as a distribution of property to which section 301 applies.
+  (g) Transactions involving gift or compensation
+     T2For special rules for a transaction described in section 354, 355, or this section, but which–
+     T2(1) results in a gift, see section 2501 and following, or
+     T2(2) has the effect of the payment of compensation, see section 61(a)(1).

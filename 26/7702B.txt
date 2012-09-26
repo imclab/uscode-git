@@ -1,0 +1,152 @@
+  (a) In general
+     For purposes of this title–
+    (1) a qualified long-term care insurance contract shall be treated as an accident and health insurance contract,
+    (2) amounts (other than policyholder dividends, as defined in section 808, or premium refunds) received under a qualified long-term care insurance contract shall be treated as amounts received for personal injuries and sickness and shall be treated as reimbursement for expenses actually incurred for medical care (as defined in section 213(d)),
+    (3) any plan of an employer providing coverage under a qualified long-term care insurance contract shall be treated as an accident and health plan with respect to such coverage,
+    (4) except as provided in subsection (e)(3), amounts paid for a qualified long-term care insurance contract providing the benefits described in subsection (b)(2)(A) shall be treated as payments made for insurance for purposes of section 213(d)(1)(D), and
+    (5) a qualified long-term care insurance contract shall be treated as a guaranteed renewable contract subject to the rules of section 816(e).
+  (b) Qualified long-term care insurance contract
+     For purposes of this title–
+    (1) In general
+       The term ””qualified long-term care insurance contract““ means any insurance contract if–
+      (A) the only insurance protection provided under such contract is coverage of qualified long-term care services,
+      (B) such contract does not pay or reimburse expenses incurred for services or items to the extent that such expenses are reimbursable under title XVIII of the Social Security Act or would be so reimbursable but for the application of a deductible or coinsurance amount,
+      (C) such contract is guaranteed renewable,
+      (D) such contract does not provide for a cash surrender value or other money that can be–
+        (i) paid, assigned, or pledged as collateral for a loan, or
+        (ii) borrowed,
+       other than as provided in subparagraph (E) or paragraph (2)(C),
+      (E) all refunds of premiums, and all policyholder dividends or similar amounts, under such contract are to be applied as a reduction in future premiums or to increase future benefits, and
+      (F) such contract meets the requirements of subsection (g).
+    (2) Special rules
+      (A) Per diem, etc. payments permitted
+         A contract shall not fail to be described in subparagraph (A) or (B) of paragraph (1) by reason of payments being made on a per diem or other periodic basis without regard to the expenses incurred during the period to which the payments relate.
+      (B) Special rules relating to medicare
+        (i) Paragraph (1)(B) shall not apply to expenses which are reimbursable under title XVIII of the Social Security Act only as a secondary payor.
+        (ii) No provision of law shall be construed or applied so as to prohibit the offering of a qualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
+      (C) Refunds of premiums
+         Paragraph (1)(E) shall not apply to any refund on the death of the insured, or on a complete surrender or cancellation of the contract, which cannot exceed the aggregate premiums paid under the contract. Any refund on a complete surrender or cancellation of the contract shall be includible in gross income to the extent that any deduction or exclusion was allowable with respect to the premiums.
+  (c) Qualified long-term care services
+     For purposes of this section–
+    (1) In general
+       The term ””qualified long-term care services““ means necessary diagnostic, preventive, therapeutic, curing, treating, mitigating, and rehabilitative services, and maintenance or personal care services, which–
+      (A) are required by a chronically ill individual, and
+      (B) are provided pursuant to a plan of care prescribed by a licensed health care practitioner.
+    (2) Chronically ill individual
+      (A) In general
+         The term ””chronically ill individual““ means any individual who has been certified by a licensed health care practitioner as–
+        (i) being unable to perform (without substantial assistance from another individual) at least 2 activities of daily living for a period of at least 90 days due to a loss of functional capacity,
+        (ii) having a level of disability similar (as determined under regulations prescribed by the Secretary in consultation with the Secretary of Health and Human Services) to the level of disability described in clause (i), or
+        (iii) requiring substantial supervision to protect such individual from threats to health and safety due to severe cognitive impairment.
+         Such term shall not include any individual otherwise meeting the requirements of the preceding sentence unless within the preceding 12-month period a licensed health care practitioner has certified that such individual meets such requirements.
+      (B) Activities of daily living
+         For purposes of subparagraph (A), each of the following is an activity of daily living:
+        (i) Eating.
+        (ii) Toileting.
+        (iii) Transferring.
+        (iv) Bathing.
+        (v) Dressing.
+        (vi) Continence.
+         A contract shall not be treated as a qualified long-term care insurance contract unless the determination of whether an individual is a chronically ill individual described in subparagraph (A)(i) takes into account at least 5 of such activities.
+    (3) Maintenance or personal care services
+       The term ””maintenance or personal care services““ means any care the primary purpose of which is the provision of needed assistance with any of the disabilities as a result of which the individual is a chronically ill individual (including the protection from threats to health and safety due to severe cognitive impairment).
+    (4) Licensed health care practitioner
+       The term ””licensed health care practitioner““ means any physician (as defined in section 1861(r)(1) of the Social Security Act) and any registered professional nurse, licensed social worker, or other individual who meets such requirements as may be prescribed by the Secretary.
+  (d) Aggregate payments in excess of limits
+    (1) In general
+       If the aggregate of–
+      (A) the periodic payments received for any period under all qualified long-term care insurance contracts which are treated as made for qualified long-term care services for an insured, and
+      (B) the periodic payments received for such period which are treated under section 101(g) as paid by reason of the death of such insured,
+       exceeds the per diem limitation for such period, such excess shall be includible in gross income without regard to section 72. A payment shall not be taken into account under subparagraph (B) if the insured is a terminally ill individual (as defined in section 101(g)) at the time the payment is received.
+    (2) Per diem limitation
+       For purposes of paragraph (1), the per diem limitation for any period is an amount equal to the excess (if any) of–
+      (A) the greater of–
+        (i) the dollar amount in effect for such period under paragraph (4), or
+        (ii) the costs incurred for qualified long-term care services provided for the insured for such period, over
+      (B) the aggregate payments received as reimbursements (through insurance or otherwise) for qualified long-term care services provided for the insured during such period.
+    (3) Aggregation rules
+       For purposes of this subsection–
+      (A) all persons receiving periodic payments described in paragraph (1) with respect to the same insured shall be treated as 1 person, and
+      (B) the per diem limitation determined under paragraph (2) shall be allocated first to the insured and any remaining limitation shall be allocated among the other such persons in such manner as the Secretary shall prescribe.
+    (4) Dollar amount
+       The dollar amount in effect under this subsection shall be $175 per day (or the equivalent amount in the case of payments on another periodic basis).
+    (5) Inflation adjustment
+       In the case of a calendar year after 1997, the dollar amount contained in paragraph (4) shall be increased at the same time and in the same manner as amounts are increased pursuant to section 213(d)(10).
+    (6) Periodic payments
+       For purposes of this subsection, the term ””periodic payment““ means any payment (whether on a periodic basis or otherwise) made without regard to the extent of the costs incurred by the payee for qualified long-term care services.
+  (e) Treatment of coverage provided as part of a life insurance contract
+     Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as part of a life insurance contract–
+    (1) In general
+       This section shall apply as if the portion of the contract providing such coverage is a separate contract.
+    (2) Application of section 7702
+       Section 7702(c)(2) (relating to the guideline premium limitation) shall be applied by increasing the guideline premium limitation with respect to a life insurance contract, as of any date–
+      (A) by the sum of any charges (but not premium payments) against the life insurance contract“s cash surrender value (within the meaning of section 7702(f)(2)(A)) for such coverage made to that date under the contract, less
+      (B) any such charges the imposition of which reduces the premiums paid for the contract (within the meaning of section 7702(f)(1)).
+    (3) Application of section 213
+       No deduction shall be allowed under section 213(a) for charges against the life insurance contract“s cash surrender value described in paragraph (2), unless such charges are includible in income as a result of the application of section 72(e)(10) and the rider is a qualified long-term care insurance contract under subsection (b).
+    (4) Portion defined
+       For purposes of this subsection, the term ””portion““ means only the terms and benefits under a life insurance contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.
+  (f) Treatment of certain State-maintained plans
+    (1) In general
+       If–
+      (A) an individual receives coverage for qualified long-term care services under a State long-term care plan, and
+      (B) the terms of such plan would satisfy the requirements of subsection (b) were such plan an insurance contract,
+       such plan shall be treated as a qualified long-term care insurance contract for purposes of this title.
+    (2) State long-term care plan
+       For purposes of paragraph (1), the term ””State long-term care plan““ means any plan–
+      (A) which is established and maintained by a State or an instrumentality of a State,
+      (B) which provides coverage only for qualified long-term care services, and
+      (C) under which such coverage is provided only to–
+        (i) employees and former employees of a State (or any political subdivision or instrumentality of a State),
+        (ii) the spouses of such employees, and
+        (iii) individuals bearing a relationship to such employees or spouses which is described in any of subparagraphs (A) through (G) of section 152(d)(2).
+  (g) Consumer protection provisions
+    (1) In general
+       The requirements of this subsection are met with respect to any contract if the contract meets–
+      (A) the requirements of the model regulation and model Act described in paragraph (2),
+      (B) the disclosure requirement of paragraph (3), and
+      (C) the requirements relating to nonforfeitability under paragraph (4).
+    (2) Requirements of model regulation and Act
+      (A) In general
+         The requirements of this paragraph are met with respect to any contract if such contract meets–
+        (i) Model regulation
+           The following requirements of the model regulation:
+          (I) Section 7A (relating to guaranteed renewal or noncancellability), and the requirements of section 6B of the model Act relating to such section 7A.
+          (II) Section 7B (relating to prohibitions on limitations and exclusions).
+          (III) Section 7C (relating to extension of benefits).
+          (IV) Section 7D (relating to continuation or conversion of coverage).
+          (V) Section 7E (relating to discontinuance and replacement of policies).
+          (VI) Section 8 (relating to unintentional lapse).
+          (VII) Section 9 (relating to disclosure), other than section 9F thereof.
+          (VIII) Section 10 (relating to prohibitions against post-claims underwriting).
+          (IX) Section 11 (relating to minimum standards).
+          (X) Section 12 (relating to requirement to offer inflation protection), except that any requirement for a signature on a rejection of inflation protection shall permit the signature to be on an application or on a separate form.
+          (XI) Section 23 (relating to prohibition against preexisting conditions and probationary periods in replacement policies or certificates).
+        (ii) Model Act
+           The following requirements of the model Act:
+          (I) Section 6C (relating to preexisting conditions).
+          (II) Section 6D (relating to prior hospitalization).
+      (B) Definitions
+         For purposes of this paragraph–
+        (i) Model provisions
+           The terms ””model regulation““ and ””model Act““ mean the long-term care insurance model regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of January 1993).
+        (ii) Coordination
+           Any provision of the model regulation or model Act listed under clause (i) or (ii) of subparagraph (A) shall be treated as including any other provision of such regulation or Act necessary to implement the provision.
+        (iii) Determination
+           For purposes of this section and section 4980C, the determination of whether any requirement of a model regulation or the model Act has been met shall be made by the Secretary.
+    (3) Disclosure requirement
+       The requirement of this paragraph is met with respect to any contract if such contract meets the requirements of section 4980C(d).
+    (4) Nonforfeiture requirements
+      (A) In general
+         The requirements of this paragraph are met with respect to any level premium contract, if the issuer of such contract offers to the policyholder, including any group policyholder, a nonforfeiture provision meeting the requirements of subparagraph (B).
+      (B) Requirements of provision
+         The nonforfeiture provision required under subparagraph (A) shall meet the following requirements:
+        (i) The nonforfeiture provision shall be appropriately captioned.
+        (ii) The nonforfeiture provision shall provide for a benefit available in the event of a default in the payment of any premiums and the amount of the benefit may be adjusted subsequent to being initially granted only as necessary to reflect changes in claims, persistency, and interest as reflected in changes in rates for premium paying contracts approved by the appropriate State regulatory agency for the same contract form.
+        (iii) The nonforfeiture provision shall provide at least one of the following:
+          (I) Reduced paid-up insurance.
+          (II) Extended term insurance.
+          (III) Shortened benefit period.
+          (IV) Other similar offerings approved by the appropriate State regulatory agency.
+    (5) Cross reference
+       T2For coordination of the requirements of this subsection with State requirements, see section 4980C(f).

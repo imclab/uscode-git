@@ -1,4 +1,67 @@
-  (a) Assignment, sale, hypothecation, attachment or levy void unless approved
-     Equalization allotments made pursuant to this subchapter shall not be subject to assignment, sale, or hypothecation or to any attachment or levy for claims or debts created before or after September 21, 1959, without the written approval of the Secretary, and any such assignment, sale, hypothecation, attachment, or levy that has not been so approved by the Secretary shall be absolutely null and void.
-  (b) Liens and lis pendens; legal services
-     No equalization allotment made pursuant to this subchapter, and no basic allotment made prior to this Act, shall be subject to an equitable charging lien or other charge or lien or enforced sale for any advantage or benefit which the allottee has received or will receive under or as a consequence of enactment of this subchapter, nor shall any lis pendens heretofore or hereafter filed upon such lands while in a restricted status be of any effect or constitute notice of any action. Whoever directly or indirectly accepts or receives any money or other form of compensation for legal services in connection with such restricted lands from any person who has not expressly employed him as his attorney shall be liable, in a civil action brought by the payor or his heirs or devisees or by the United States on his behalf, for twice the amount so accepted or received unless, prior to the time of acceptance or receipt of said compensation, the right to such compensation has been determined and the amount thereof fixed by a formal order of the Federal court having jurisdiction to make such order. Nothing herein provided shall be construed to prevent any attorney from petitioning the Federal court having jurisdiction to fix and determine the fees to which he is entitled and to pursue and enforce payment thereof in any lawful manner after the court has made such order.
+  (a) General rule
+     In the case of any controlled foreign corporation, the amount determined under this section with respect to any United States shareholder for any taxable year is the lesser of–
+    (1) the excess (if any) of–
+      (A) such shareholder“s pro rata share of the average of the amounts of United States property held (directly or indirectly) by the controlled foreign corporation as of the close of each quarter of such taxable year, over
+      (B) the amount of earnings and profits described in section 959(c)(1)(A) with respect to such shareholder, or
+    (2) such shareholder“s pro rata share of the applicable earnings of such controlled foreign corporation.
+       The amount taken into account under paragraph (1) with respect to any property shall be its adjusted basis as determined for purposes of computing earnings and profits, reduced by any liability to which the property is subject.
+  (b) Special rules
+    (1) Applicable earnings
+       For purposes of this section, the term ””applicable earnings““ means, with respect to any controlled foreign corporation, the sum of–
+      (A) the amount (not including a deficit) referred to in section 316(a)(1) to the extent such amount was accumulated in prior taxable years, and
+      (B) the amount referred to in section 316(a)(2),
+       but reduced by distributions made during the taxable year and by earnings and profits described in section 959(c)(1).
+    (2) Special rule for U.S. property acquired before corporation is a controlled foreign corporation
+       In applying subsection (a) to any taxable year, there shall be disregarded any item of United States property which was acquired by the controlled foreign corporation before the first day on which such corporation was treated as a controlled foreign corporation. The aggregate amount of property disregarded under the preceding sentence shall not exceed the portion of the applicable earnings of such controlled foreign corporation which were accumulated during periods before such first day.
+    (3) Special rule where corporation ceases to be controlled foreign corporation
+       If any foreign corporation ceases to be a controlled foreign corporation during any taxable year–
+      (A) the determination of any United States shareholder“s pro rata share shall be made on the basis of stock owned (within the meaning of section 958(a)) by such shareholder on the last day during the taxable year on which the foreign corporation is a controlled foreign corporation,
+      (B) the average referred to in subsection (a)(1)(A) for such taxable year shall be determined by only taking into account quarters ending on or before such last day, and
+      (C) in determining applicable earnings, the amount taken into account by reason of being described in paragraph (2) of section 316(a) shall be the portion of the amount so described which is allocable (on a pro rata basis) to the part of such year during which the corporation is a controlled foreign corporation.
+  (c) United States property defined
+    (1) In general
+       For purposes of subsection (a), the term ””United States property““ means any property acquired after December 31, 1962, which is–
+      (A) tangible property located in the United States;
+      (B) stock of a domestic corporation;
+      (C) an obligation of a United States person; or
+      (D) any right to the use in the United States of–
+        (i) a patent or copyright,
+        (ii) an invention, model, or design (whether or not patented),
+        (iii) a secret formula or process, or
+        (iv) any other similar right,
+       which is acquired or developed by the controlled foreign corporation for use in the United States.
+    (2) Exceptions
+       For purposes of subsection (a), the term ””United States property““ does not include–
+      (A) obligations of the United States, money, or deposits with–
+        (i) any bank (as defined by section 2(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)), without regard to subparagraphs (C) and (G) of paragraph (2) of such section), or
+        (ii) any corporation not described in clause (i) with respect to which a bank holding company (as defined by section 2(a) of such Act) or financial holding company (as defined by section 2(p) of such Act) owns directly or indirectly more than 80 percent by vote or value of the stock of such corporation;
+      (B) property located in the United States which is purchased in the United States for export to, or use in, foreign countries;
+      (C) any obligation of a United States person arising in connection with the sale or processing of property if the amount of such obligation outstanding at no time during the taxable year exceeds the amount which would be ordinary and necessary to carry on the trade or business of both the other party to the sale or processing transaction and the United States person had the sale or processing transaction been made between unrelated persons;
+      (D) any aircraft, railroad rolling stock, vessel, motor vehicle, or container used in the transportation of persons or property in foreign commerce and used predominantly outside the United States;
+      (E) an amount of assets of an insurance company equivalent to the unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business attributable to contracts which are not contracts described in section 953(a)(1); \1\N
+      (F) the stock or obligations of a domestic corporation which is neither a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, nor a domestic corporation, 25 percent or more of the total combined voting power of which, immediately after the acquisition of any stock in such domestic corporation by the controlled foreign corporation, is owned, or is considered as being owned, by such United States shareholders in the aggregate;
+      (G) any movable property (other than a vessel or aircraft) which is used for the purpose of exploring for, developing, removing, or transporting resources from ocean waters or under such waters when used on the Continental Shelf of the United States;
+      (H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
+      (I) to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by a FSC and which is related to the export activities of such FSC;
+      (J) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person“s business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forward contract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
+      (K) an obligation of a United States person to the extent the principal amount of the obligation does not exceed the fair market value of readily marketable securities sold or purchased pursuant to a sale and repurchase agreement or otherwise posted or received as collateral for the obligation in the ordinary course of its business by a United States or foreign person which is a dealer in securities or commodities;
+      (L) securities acquired and held by a controlled foreign corporation in the ordinary course of its business as a dealer in securities if–
+        (i) the dealer accounts for the securities as securities held primarily for sale to customers in the ordinary course of business, and
+        (ii) the dealer disposes of the securities (or such securities mature while held by the dealer) within a period consistent with the holding of securities for sale to customers in the ordinary course of business; and
+      (M) an obligation of a United States person which–
+        (i) is not a domestic corporation, and
+        (ii) is not–
+          (I) a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, or
+          (II) a partnership, estate, or trust in which the controlled foreign corporation, or any related person (as defined in section 954(d)(3)), is a partner, beneficiary, or trustee immediately after the acquisition of any obligation of such partnership, estate, or trust by the controlled foreign corporation.
+       For purposes of subparagraphs (J), (K), and (L), the term ””dealer in securities““ has the meaning given such term by section 475(c)(1), and the term ””dealer in commodities““ has the meaning given such term by section 475(e), except that such term shall include a futures commission merchant.
+    (3) Certain trade or service receivables acquired from related United States persons
+      (A) In general
+         Notwithstanding paragraph (2) (other than subparagraph (H) thereof), the term ””United States property““ includes any trade or service receivable if–
+        (i) such trade or service receivable is acquired (directly or indirectly) from a related person who is a United States person, and
+        (ii) the obligor under such receivable is a United States person.
+      (B) Definitions
+         For purposes of this paragraph, the term ””trade or service receivable““ and ””related person““ have the respective meanings given to such terms by section 864(d).
+  (d) Pledges and guarantees
+     For purposes of subsection (a), a controlled foreign corporation shall, under regulations prescribed by the Secretary, be considered as holding an obligation of a United States person if such controlled foreign corporation is a pledgor or guarantor of such obligations.
+  (e) Regulations
+     The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisons \2\N of this section through reorganizations or otherwise.

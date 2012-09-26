@@ -1,1 +1,35 @@
-   The Secretary of the Interior is authorized, whenever it can be done advantageously, to purchase for use in the Indian Service, from Indian manual and training schools, in the manner customary among individuals such articles as may be manufactured at such schools, and which are used in the Indian Service. Accounts of such transactions shall be kept in the Indian Bureau and in the training schools, and reports thereof made from time to time.
+  (a) In general
+     Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include–
+    (1) amounts received under workmen“s compensation acts as compensation for personal injuries or sickness;
+    (2) the amount of any damages (other than punitive damages) received (whether by suit or agreement and whether as lump sums or as periodic payments) on account of personal physical injuries or physical sickness;
+    (3) amounts received through accident or health insurance (or through an arrangement having the effect of accident or health insurance) for personal injuries or sickness (other than amounts received by an employee, to the extent such amounts (A) are attributable to contributions by the employer which were not includible in the gross income of the employee, or (B) are paid by the employer);
+    (4) amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980; and
+    (5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
+       For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
+  (b) Termination of application of subsection (a)(4) in certain cases
+    (1) In general
+       Subsection (a)(4) shall not apply in the case of any individual who is not described in paragraph (2).
+    (2) Individuals to whom subsection (a)(4) continues to apply
+       An individual is described in this paragraph if–
+      (A) on or before September 24, 1975, he was entitled to receive any amount described in subsection (a)(4),
+      (B) on September 24, 1975, he was a member of any organization (or reserve component thereof) referred to in subsection (a)(4) or under a binding written commitment to become such a member,
+      (C) he receives an amount described in subsection (a)(4) by reason of a combat-related injury, or
+      (D) on application therefor, he would be entitled to receive disability compensation from the Veterans“ Administration.
+    (3) Special rules for combat-related injuries
+       For purposes of this subsection, the term ””combat-related injury““ means personal injury or sickness–
+      (A) which is incurred–
+        (i) as a direct result of armed conflict,
+        (ii) while engaged in extrahazardous service, or
+        (iii) under conditions simulating war; or
+      (B) which is caused by an instrumentality of war.
+       In the case of an individual who is not described in subparagraph (A) or (B) of paragraph (2), except as provided in paragraph (4), the only amounts taken into account under subsection (a)(4) shall be the amounts which he receives by reason of a combat-related injury.
+    (4) Amount excluded to be not less than veterans“ disability compensation
+       In the case of any individual described in paragraph (2), the amounts excludable under subsection (a)(4) for any period with respect to any individual shall not be less than the maximum amount which such individual, on application therefor, would be entitled to receive as disability compensation from the Veterans“ Administration.
+  (c) Application of prior law in certain cases
+     The phrase ””(other than punitive damages)““ shall not apply to punitive damages awarded in a civil action–
+    (1) which is a wrongful death action, and
+    (2) with respect to which applicable State law (as in effect on September 13, 1995 and without regard to any modification after such date) provides, or has been construed to provide by a court of competent jurisdiction pursuant to a decision issued on or before September 13, 1995, that only punitive damages may be awarded in such an action.
+       This subsection shall cease to apply to any civil action filed on or after the first date on which the applicable State law ceases to provide (or is no longer construed to provide) the treatment described in paragraph (2).
+  (d) Cross references
+     T2(1) For exclusion from employee“s gross income of employer contributions to accident and health plans, see section 106.
+     T2(2) For exclusion of part of disability retirement pay from the application of subsection (a)(4) of this section, see section 1403 of title 10, United States Code (relating to career compensation laws).

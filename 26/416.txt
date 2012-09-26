@@ -1,1 +1,163 @@
-   Any trust or restricted Indian lands, whether tribally or individually owned, located on the San Xavier Indian Reservation and the Salt River Pima-Maricopa Indian Reservation, in the State of Arizona, may be leased by the Indian owners, with the approval of the Secretary of the Interior, for public, religious, educational, recreational, residential, business, farming or grazing purposes, including the development or utilization of natural resources in connection with operations under such leases, but no lease shall be executed under sections 416 to 416j of this title for purposes that are subject to the laws governing mining leases on Indian lands. The term of a grazing lease shall not exceed ten years, the term of a farming lease that does not require the making of a substantial investment in the improvement of the land shall not exceed ten years, and the term of a farming lease that requires the making of a substantial investment in the improvement of the land shall not exceed forty years. The term of any other lease shall not exceed ninety-nine years. No lease shall contain an option to renew which, if exercised, will extend the total term beyond the maximum term permitted by sections 416 to 416j of this title. The Secretary of the Interior shall not approve any lease with a term that is longer than is necessary in his judgment to obtain maximum economic benefits for the Indian owners.
+  (a) General rule
+     A trust shall not constitute a qualified trust under section 401(a) for any plan year if the plan of which it is a part is a top-heavy plan for such plan year unless such plan meets–
+    (1) the vesting requirements of subsection (b), and
+    (2) the minimum benefit requirements of subsection (c).
+  (b) Vesting requirements
+    (1) In general
+       A plan satisfies the requirements of this subsection if it satisfies the requirements of either of the following subparagraphs:
+      (A) 3-year vesting
+         A plan satisfies the requirements of this subparagraph if an employee who has completed at least 3 years of service with the employer or employers maintaining the plan has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions.
+      (B) 6-year graded vesting
+         A plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of his accrued benefit derived from employer contributions determined under the following table:
+          xl
+         T2The nonforfeitable
+         xlT2Years of service
+         T2percentage is:
+         2L   20
+         3L   40
+         4L   60
+         5L   80
+         6 or moreL   100
+    (2) Certain rules made applicable
+       Except to the extent inconsistent with the provisions of this subsection, the rules of section 411 shall apply for purposes of this subsection.
+  (c) Plan must provide minimum benefits
+    (1) Defined benefit plans
+      (A) In general
+         A defined benefit plan meets the requirements of this subsection if the accrued benefit derived from employer contributions of each participant who is a non-key employee, when expressed as an annual retirement benefit, is not less than the applicable percentage of the participant“s average compensation for years in the testing period.
+      (B) Applicable percentage
+         For purposes of subparagraph (A), the term ””applicable percentage““ means the lesser of–
+        (i) 2 percent multiplied by the number of years of service with the employer, or
+        (ii) 20 percent.
+      (C) Years of service
+         For purposes of this paragraph–
+        (i) In general
+           Except as provided in clause (ii) or (iii), years of service shall be determined under the rules of paragraphs (4), (5), and (6) of section 411(a).
+        (ii) Exception for years during which plan was not top-heavy
+           A year of service with the employer shall not be taken into account under this paragraph if–
+          (I) the plan was not a top-heavy plan for any plan year ending during such year of service, or
+          (II) such year of service was completed in a plan year beginning before January 1, 1984.
+        (iii) Exception for plan under which no key employee (or former key employee) benefits for plan year
+           For purposes of determining an employee“s years of service with the employer, any service with the employer shall be disregarded to the extent that such service occurs during a plan year when the plan benefits (within the meaning of section 410(b)) no key employee or former key employee.
+      (D) Average compensation for high 5 years
+         For purposes of this paragraph–
+        (i) In general
+           A participant“s testing period shall be the period of consecutive years (not exceeding 5) during which the participant had the greatest aggregate compensation from the employer.
+        (ii) Year must be included in year of service
+           The years taken into account under clause (i) shall be properly adjusted for years not included in a year of service.
+        (iii) Certain years not taken into account
+           Except to the extent provided in the plan, a year shall not be taken into account under clause (i) if–
+          (I) such year ends in a plan year beginning before January 1, 1984, or
+          (II) such year begins after the close of the last year in which the plan was a top-heavy plan.
+      (E) Annual retirement benefit
+         For purposes of this paragraph, the term ””annual retirement benefit““ means a benefit payable annually in the form of a single life annuity (with no ancillary benefits) beginning at the normal retirement age under the plan.
+    (2) Defined contribution plans
+      (A) In general
+         A defined contribution plan meets the requirements of the subsection if the employer contribution for the year for each participant who is a non-key employee is not less than 3 percent of such participant“s compensation (within the meaning of section 415). Employer matching contributions (as defined in section 401(m)(4)(A)) shall be taken into account for purposes of this subparagraph (and any reduction under this sentence shall not be taken into account in determining whether section 401(k)(4)(A) applies).
+      (B) Special rule where maximum contribution less than 3 percent
+        (i) In general
+           The percentage referred to in subparagraph (A) for any year shall not exceed the percentage at which contributions are made (or required to be made) under the plan for the year for the key employee for whom such percentage is the highest for the year.
+        (ii) Treatment of aggregation groups
+          (I) For purposes of this subparagraph, all defined contribution plans required to be included in an aggregation group under subsection (g)(2)(A)(i) shall be treated as one plan.
+          (II) This subparagraph shall not apply to any plan required to be included in an aggregation group if such plan enables a defined benefit plan required to be included in such group to meet the requirements of section 401(a)(4) or 410.
+             [(d) Repealed. Pub. L. 99–514, title XI, § 1106(d)(3)(B)(i), Oct. 22, 1986, 100 Stat. 2424]
+  (e) Plan must meet requirements without taking into account social security and similar contributions and benefits
+     A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
+  (f) Coordination where employer has 2 or more plans
+     The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.
+  (g) Top-heavy plan defined
+     For purposes of this section–
+    (1) In general
+      (A) Plans not required to be aggregated
+         Except as provided in subparagraph (B), the term ””top-heavy plan““ means, with respect to any plan year–
+        (i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percent of the present value of the cumulative accrued benefits under the plan for all employees, and
+        (ii) any defined contribution plan if, as of the determination date, the aggregate of the accounts of key employees under the plan exceeds 60 percent of the aggregate of the accounts of all employees under such plan.
+      (B) Aggregated plans
+         Each plan of an employer required to be included in an aggregation group shall be treated as a top-heavy plan if such group is a top-heavy group.
+    (2) Aggregation
+       For purposes of this subsection–
+      (A) Aggregation group
+        (i) Required aggregation
+           The term ””aggregation group““ means–
+          (I) each plan of the employer in which a key employee is a participant, and
+          (II) each other plan of the employer which enables any plan described in subclause (I) to meet the requirements of section 401(a)(4) or 410.
+        (ii) Permissive aggregation
+           The employer may treat any plan not required to be included in an aggregation group under clause (i) as being part of such group if such group would continue to meet the requirements of sections 401(a)(4) and 410 with such plan being taken into account.
+      (B) Top-heavy group
+         The term ””top-heavy group““ means any aggregation group if–
+        (i) the sum (as of the determination date) of–
+          (I) the present value of the cumulative accrued benefits for key employees under all defined benefit plans included in such group, and
+          (II) the aggregate of the accounts of key employees under all defined contribution plans included in such group,
+        (ii) exceeds 60 percent of a similar sum determined for all employees.
+    (3) Distributions during last year before determination date taken into account
+      (A) In general
+         For purposes of determining–
+        (i) the present value of the cumulative accrued benefit for any employee, or
+        (ii) the amount of the account of any employee,
+         such present value or amount shall be increased by the aggregate distributions made with respect to such employee under the plan during the 1-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group.
+      (B) 5-year period in case of in-service distribution
+         In the case of any distribution made for a reason other than severance from employment, death, or disability, subparagraph (A) shall be applied by substituting ””5-year period““ for ””1-year period““.
+    (4) Other special rules
+       For purposes of this subsection–
+      (A) Rollover contributions to plan not taken into account
+         Except to the extent provided in regulations, any rollover contribution (or similar transfer) initiated by the employee and made after December 31, 1983, to a plan shall not be taken into account with respect to the transferee plan for purposes of determining whether such plan is a top-heavy plan (or whether any aggregation group which includes such plan is a top-heavy group).
+      (B) Benefits not taken into account if employee ceases to be key employee
+         If any individual is a non-key employee with respect to any plan for any plan year, but such individual was a key employee with respect to such plan for any prior plan year, any accrued benefit for such employee (and the account of such employee) shall not be taken into account.
+      (C) Determination date
+         The term ””determination date““ means, with respect to any plan year–
+        (i) the last day of the preceding plan year, or
+        (ii) in the case of the first plan year of any plan, the last day of such plan year.
+      (D) Years
+         To the extent provided in regulations, this section shall be applied on the basis of any year specified in such regulations in lieu of plan years.
+      (E) Benefits not taken into account if employee not employed for last year before determination date
+         If any individual has not performed services for the employer maintaining the plan at any time during the 1-year period ending on the determination date, any accrued benefit for such individual (and the account of such individual) shall not be taken into account.
+      (F) Accrued benefits treated as accruing ratably
+         The accrued benefit of any employee (other than a key employee) shall be determined–
+        (i) under the method which is used for accrual purposes for all plans of the employer, or
+        (ii) if there is no method described in clause (i), as if such benefit accrued not more rapidly than the slowest accrual rate permitted under section 411(b)(1)(C).
+      (G) Simple retirement accounts
+         The term ””top-heavy plan““ shall not include a simple retirement account under section 408(p).
+      (H) Cash or deferred arrangements using alternative methods of meeting nondiscrimination requirements
+         The term ””top-heavy plan““ shall not include a plan which consists solely of–
+        (i) a cash or deferred arrangement which meets the requirements of section 401(k)(12), and
+        (ii) matching contributions with respect to which the requirements of section 401(m)(11) are met.
+           [(h) Repealed. Pub. L. 104–188, title I, § 1452(c)(7), Aug. 20, 1996, 110 Stat. 1816]
+          (i) Definitions
+             For purposes of this section–
+            (1) Key employee
+              (A) In general
+                 The term ””key employee““ means an employee who, at any time during the plan year, is–
+                (i) an officer of the employer having an annual compensation greater than $130,000,
+                (ii) a 5-percent owner of the employer, or
+                (iii) a 1-percent owner of the employer having an annual compensation from the employer of more than $150,000.
+                 For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. In the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
+              (B) Percentage owners
+                (i) 5-percent owner
+                   For purposes of this paragraph, the term ””5-percent owner““ means–
+                  (I) if the employer is a corporation, any person who owns (or is considered as owning within the meaning of section 318) more than 5 percent of the outstanding stock of the corporation or stock possessing more than 5 percent of the total combined voting power of all stock of the corporation, or
+                  (II) if the employer is not a corporation, any person who owns more than 5 percent of the capital or profits interest in the employer.
+                (ii) 1-percent owner
+                   For purposes of this paragraph, the term ””1-percent owner““ means any person who would be described in clause (i) if ””1 percent““ were substituted for ””5 percent““ each place it appears in clause (i).
+                (iii) Constructive ownership rules
+                   For purposes of this subparagraph–
+                  (I) subparagraph (C) of section 318(a)(2) shall be applied by substituting ””5 percent““ for ””50 percent““, and
+                  (II) in the case of any employer which is not a corporation, ownership in such employer shall be determined in accordance with regulations prescribed by the Secretary which shall be based on principles similar to the principles of section 318 (as modified by subclause (I)).
+              (C) Aggregation rules do not apply for purposes of determining ownership in the employer
+                 The rules of subsections (b), (c), and (m) of section 414 shall not apply for purposes of determining ownership in the employer.
+              (D) Compensation
+                 For purposes of this paragraph, the term ””compensation““ has the meaning given such term by section 414(q)(4).
+            (2) Non-key employee
+               The term ””non-key employee““ means any employee who is not a key employee.
+            (3) Self-employed individuals
+               In the case of a self-employed individual described in section 401(c)(1)–
+              (A) such individual shall be treated as an employee, and
+              (B) such individual“s earned income (within the meaning of section 401(c)(2)) shall be treated as compensation.
+            (4) Treatment of employees covered by collective bargaining agreements
+               The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+            (5) Treatment of beneficiaries
+               The terms ””employee“““ and ””key employee““ include their beneficiaries.
+            (6) Treatment of simplified employee pensions
+              (A) Treatment as defined contribution plans
+                 A simplified employee pension shall be treated as a defined contribution plan.
+              (B) Election to have determinations based on employer contributions
+                 In the case of a simplified employee pension, at the election of the employer, paragraphs (1)(A)(ii) and (2)(B) of subsection (g) shall be applied by taking into account aggregate employer contributions in lieu of the aggregate of the accounts of employees.
+         If, but for this subparagraph, a plan would be treated as a top-heavy plan because it is a member of an aggregation group which is a top-heavy group, contributions under the plan may be taken into account in determining whether any other plan in the group meets the requirements of subsection (c)(2).

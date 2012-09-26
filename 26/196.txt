@@ -1,1 +1,23 @@
-   The President of the United States may from year to year in his discretion under such regulations as he may prescribe authorize the Indians residing on reservations or allotments, the fee to which remains in the United States, to fell, cut, remove, sell or otherwise dispose of the dead timber standing, or fallen, on such reservation or allotment for the sole benefit of such Indian or Indians. But whenever there is reasonable cause to believe that such timber has been killed, burned, girdled, or otherwise injured for the purpose of securing its sale under this section then in that case such authority shall not be granted.
+  (a) Allowance of deduction
+     If any portion of the qualified business credits determined for any taxable year has not, after the application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
+  (b) Taxpayer“s dying or ceasing to exist
+     If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
+  (c) Qualified business credits
+     For purposes of this section, the term ””qualified business credits““ means–
+    (1) the investment credit determined under section 46 (but only to the extent attributable to property the basis of which is reduced by section 50(c)),
+    (2) the work opportunity credit determined under section 51(a),
+    (3) the alcohol fuels credit determined under section 40(a),
+    (4) the research credit determined under section 41(a) (other than such credit determined under section 280C(c)(3)) for taxable years beginning after December 31, 1988,
+    (5) the enhanced oil recovery credit determined under section 43(a),
+    (6) the empowerment zone employment credit determined under section 1396(a),
+    (7) the Indian employment credit determined under section 45A(a),
+    (8) the employer Social Security credit determined under section 45B(a),
+    (9) the new markets tax credit determined under section 45D(a),
+    (10) the small employer pension plan startup cost credit determined under section 45E(a),
+    (11) the biodiesel fuels credit determined under section 40A(a),
+    (12) the low sulfur diesel fuel production credit determined under section 45H(a), and
+    (13) the new energy efficient home credit determined under section 45L(a).
+  (d) Special rule for investment tax credit and research credit
+     Subsection (a) shall be applied by substituting ””an amount equal to 50 percent of““ for ””an amount equal to““ in the case of–
+    (1) the investment credit determined under section 46 (other than the rehabilitation credit), and
+    (2) the research credit determined under section 41(a) for a taxable year beginning before January 1, 1990.

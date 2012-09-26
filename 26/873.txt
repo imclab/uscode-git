@@ -1,6 +1,12 @@
-  (a) Enrollees, next of kin or legatees
-     The Secretary shall make per capita payments directly to a living enrollee, except as provided in subsection (b) of this section. The Secretary shall distribute the share of a person determined to be eligible for enrollment but who dies subsequent to May 9, 1958, and on whose behalf the application is filed and approved, and the share of a deceased enrollee, directly to his next of kin or legatee as determined by the laws of the place of domicile of the decedent, upon proof of death and inheritance satisfactory to the Secretary, whose findings upon such proof shall be final and conclusive.
-  (b) Minors and persons under legal disability
-     Per capita payments due persons under twenty-one years of age or persons under legal disability shall be made in accordance with the laws of the place of domicile of such person, or in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
-  (c) Payments not subject to debts; tax exemption
-     No part of any per capita payment shall be subject to any debt or debts, other than to the United States, created prior to May 9, 1958, by a person of Indian blood, and such per capita payments shall not be taxable.
+  (a) General rule
+     In the case of a nonresident alien individual, the deductions shall be allowed only for purposes of section 871(b) and (except as provided by subsection (b)) only if and to the extent that they are connected with income which is effectively connected with the conduct of a trade or business within the United States; and the proper apportionment and allocation of the deductions for this purpose shall be determined as provided in regulations prescribed by the Secretary.
+  (b) Exceptions
+     The following deductions shall be allowed whether or not they are connected with income which is effectively connected with the conduct of a trade or business within the United States:
+    (1) Losses
+       The deduction allowed by section 165 for casualty or theft losses described in paragraph (2) or (3) of section 165(c), but only if the loss is of property located within the United States.
+    (2) Charitable contributions
+       The deduction for charitable contributions and gifts allowed by section 170.
+    (3) Personal exemption
+       The deduction for personal exemptions allowed by section 151, except that only one exemption shall be allowed under section 151 unless the taxpayer is a resident of a contiguous country or is a national of the United States.
+  (c) Cross reference
+     T2For rule that certain foreign taxes are not to be taken into account in determining deduction or credit, see section 906(b)(1).

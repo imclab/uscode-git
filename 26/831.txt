@@ -1,0 +1,28 @@
+  (a) General rule
+     Taxes computed as provided in section 11 shall be imposed for each taxable year on the taxable income of every insurance company other than a life insurance company.
+  (b) Alternative tax for certain small companies
+    (1) In general
+       In lieu of the tax otherwise applicable under subsection (a), there is hereby imposed for each taxable year on the income of every insurance company to which this subsection applies a tax computed by multiplying the taxable investment income of such company for such taxable year by the rates provided in section 11(b).
+    (2) Companies to which this subsection applies
+      (A) In general
+         This subsection shall apply to every insurance company other than life (including interinsurers and reciprocal underwriters) if–
+        (i) the net written premiums (or, if greater, direct written premiums) for the taxable year do not exceed $1,200,000, and
+        (ii) such company elects the application of this subsection for such taxable year.
+         The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.
+      (B) Controlled group rules
+        (i) In general
+           For purposes of subparagraph (A), in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treated as receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made.
+        (ii) Controlled group
+           For purposes of clause (i), the term ””controlled group““ means any controlled group of corporations (as defined in section 1563(a)); except that–
+          (I) ””more than 50 percent““ shall be substituted for ””at least 80 percent““ each place it appears in section 1563(a), and
+          (II) subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply.
+    (3) Limitation on use of net operating losses
+       For purposes of this part, except as provided in section 844, a net operating loss (as defined in section 172) shall not be carried–
+      (A) to or from any taxable year for which the insurance company is not subject to the tax imposed by subsection (a), or
+      (B) to any taxable year if, between the taxable year from which such loss is being carried and such taxable year, there is an intervening taxable year for which the insurance company was not subject to the tax imposed by subsection (a).
+  (c) Insurance company defined
+     For purposes of this section, the term ””insurance company““ has the meaning given to such term by section 816(a)).\1\N
+  (d) Cross references
+     T2(1) For alternative tax in case of capital gains, see section 1201(a).
+     T2(2) For taxation of foreign corporations carrying on an insurance business within the United States, see section 842.
+     T2(3) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).

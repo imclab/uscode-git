@@ -1,0 +1,66 @@
+  (a) Reduction in amount allowed as foreign tax under section 901
+     In applying section 901, the amount of any oil and gas extraction taxes paid or accrued (or deemed to have been paid) during the taxable year which would (but for this subsection) be taken into account for purposes of section 901 shall be reduced by the amount (if any) by which the amount of such taxes exceeds the product of–
+    (1) the amount of the foreign oil and gas extraction income for the taxable year,
+    (2) multiplied by–
+      (A) in the case of a corporation, the percentage which is equal to the highest rate of tax specified under section 11(b), or
+      (B) in the case of an individual, a fraction the numerator of which is the tax against which the credit under section 901(a) is taken and the denominator of which is the taxpayer“s entire taxable income.
+  (b) Foreign taxes on foreign oil related income
+     For purposes of this subtitle, in the case of taxes paid or accrued to any foreign country with respect to foreign oil related income, the term ””income, war profits, and excess profits taxes““ shall not include any amount paid or accrued after December 31, 1982, to the extent that the Secretary determines that the foreign law imposing such amount of tax is structured, or in fact operates, so that the amount of tax imposed with respect to foreign oil related income will generally be materially greater, over a reasonable period of time, than the amount generally imposed on income that is neither foreign oil related income nor foreign oil and gas extraction income. In computing the amount not treated as tax under this subsection, such amount shall be treated as a deduction under the foreign law.
+  (c) Foreign income definitions and special rules
+     For purposes of this section–
+    (1) Foreign oil and gas extraction income
+       The term ””foreign oil and gas extraction income““ means the taxable income derived from sources without the United States and its possessions from–
+      (A) the extraction (by the taxpayer or any other person) of minerals from oil or gas wells, or
+      (B) the sale or exchange of assets used by the taxpayer in the trade or business described in subparagraph (A).
+       Such term does not include any dividend or interest income which is passive income (as defined in section 904(d)(2)(A)).
+    (2) Foreign oil related income
+       The term ””foreign oil related income““ means the taxable income derived from sources outside the United States and its possessions from–
+      (A) the processing of minerals extracted (by the taxpayer or by any other person) from oil or gas wells into their primary products,
+      (B) the transportation of such minerals or primary products,
+      (C) the distribution or sale of such minerals or primary products,
+      (D) the disposition of assets used by the taxpayer in the trade or business described in subparagraph (A), (B), or (C), or
+      (E) the performance of any other related service.
+       Such term does not include any dividend or interest income which is passive income (as defined in section 904(d)(2)(A)).
+    (3) Dividends, interest, partnership distribution, etc.
+       The term ””foreign oil and gas extraction income““ and the term ””foreign oil related income““ include–
+      (A) dividends and interest from a foreign corporation in respect of which taxes are deemed paid by the taxpayer under section 902,
+      (B) amounts with respect to which taxes are deemed paid under section 960(a), and
+      (C) the taxpayer“s distributive share of the income of partnerships.\1\N
+       to the extent such dividends, interest, amounts, or distributive share is attributable to foreign oil and gas extraction income, or to foreign oil related income, as the case may be; except that interest described in subparagraph (A) shall not be taken into account in computing foreign oil and gas extraction income but shall be taken into account in computing foreign oil-related income.
+    (4) Recapture of foreign oil and gas extraction losses by recharacterizing later extraction income
+      (A) In general
+         That portion of the income of the taxpayer for the taxable year which (but for this paragraph) would be treated as foreign oil and gas extraction income shall be treated as income (from sources without the United States) which is not foreign oil and gas extraction income to the extent of the excess of–
+        (i) the aggregate amount of foreign oil extraction losses for preceding taxable years beginning after December 31, 1982, over
+        (ii) so much of such aggregate amount as was recharacterized under this subparagraph for preceding taxable years beginning after December 31, 1982.
+      (B) Foreign oil extraction loss defined
+        (i) In general
+           For purposes of this paragraph, the term ””foreign oil extraction loss““ means the amount by which–
+          (I) the gross income for the taxable year from sources without the United States and its possessions (whether or not the taxpayer chooses the benefits of this subpart for such taxable year) taken into account in determining the foreign oil and gas extraction income for such year, is exceeded by
+          (II) the sum of the deductions properly apportioned or allocated thereto.
+        (ii) Net operating loss deduction not taken into account
+           For purposes of clause (i), the net operating loss deduction allowable for the taxable year under section 172(a) shall not be taken into account.
+        (iii) Expropriation and casualty losses not taken into account
+           For purposes of clause (i), there shall not be taken into account–
+          (I) any foreign expropriation loss (as defined in section 172(h) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)) for the taxable year, or
+          (II) any loss for the taxable year which arises from fire, storm, shipwreck, or other casualty, or from theft,
+              to the extent such loss is not compensated for by insurance or otherwise.
+    (5) Oil and gas extraction taxes
+       The term ””oil and gas extraction taxes““ means any income, war profits, and excess profits tax paid or accrued (or deemed to have been paid under section 902 or 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
+  (d) Disregard of certain posted prices, etc.
+     For purposes of this chapter, in determining the amount of taxable income in the case of foreign oil and gas extraction income, if the oil or gas is disposed of, or is acquired other than from the government of a foreign country, at a posted price (or other pricing arrangement) which differs from the fair market value for such oil or gas, such fair market value shall be used in lieu of such posted price (or other pricing arrangement).
+     [(e) Repealed. Pub. L. 101–508, title XI, § 11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521]
+  (f) Carryback and carryover of disallowed credits
+    (1) In general
+       If the amount of the oil and gas extraction taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the ””unused credit year““), such excess shall be deemed to be oil and gas extraction taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable year,\2\N in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
+    (2) Limitation
+       The amount of the unused oil and gas extraction taxes which under paragraph (1) may be deemed paid or accrued in any preceding or succeeding taxable year shall not exceed the lesser of–
+      (A) the amount by which the limitation provided by subsection (a) for such taxable year exceeds the sum of–
+        (i) the oil and gas extraction taxes paid or accrued during such taxable year, plus
+        (ii) the amounts of the oil and gas extraction taxes which by reason of this subsection are deemed paid or accrued in such taxable year and are attributable to taxable years preceding the unused credit year; or
+      (B) the amount by which the limitation provided by section 904 for such taxable year exceeds the sum of–
+        (i) the taxes paid or accrued (or deemed to have been paid under section 902 or 960) to all foreign countries and possessions of the United States during such taxable year,
+        (ii) the amount of such taxes which were deemed paid or accrued in such taxable year under section 904(c) and which are attributable to taxable years preceding the unused credit year, plus
+        (iii) the amount of the oil and gas extraction taxes which by reason of this subsection are deemed paid or accrued in such taxable year and are attributable to taxable years preceding the unused credit year.
+    (3) Special rules
+      (A) In the case of any taxable year which is an unused credit year under this subsection and which is an unused credit year under section 904(c), the provisions of this subsection shall be applied before section 904(c).
+      (B) For purposes of determining the amount of taxes paid or accrued in any taxable year which may be deemed paid or accrued in a preceding or succeeding taxable year under section 904(c), any tax deemed paid or accrued in such preceding or succeeding taxable year under this subsection shall be considered to be tax paid or accrued in such preceding or succeeding taxable year.

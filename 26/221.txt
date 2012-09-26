@@ -1,0 +1,63 @@
+  (a) Allowance of deduction
+     In the case of an individual, there shall be allowed as a deduction for the taxable year an amount equal to the interest paid by the taxpayer during the taxable year on any qualified education loan.
+  (b) Maximum deduction
+    (1) In general
+       Except as provided in paragraph (2), the deduction allowed by subsection (a) for the taxable year shall not exceed the amount determined in accordance with the following table:
+       T2 In the case of taxable years
+       T2The dollar
+       T2  beginning in:
+       T2amount is:
+        1998
+       $1,000  
+        1999
+       $1,500  
+        2000
+       $2,000  
+        2001 or thereafter
+       $2,500.
+    (2) Limitation based on modified adjusted gross income
+      (A) In general
+         The amount which would (but for this paragraph) be allowable as a deduction under this section shall be reduced (but not below zero) by the amount determined under subparagraph (B).
+      (B) Amount of reduction
+         The amount determined under this subparagraph is the amount which bears the same ratio to the amount which would be so taken into account as–
+        (i) the excess of–
+          (I) the taxpayer“s modified adjusted gross income for such taxable year, over
+          (II) $50,000 ($100,000 in the case of a joint return), bears to
+        (ii) $15,000 ($30,000 in the case of a joint return).
+      (C) Modified adjusted gross income
+         The term ””modified adjusted gross income““ means adjusted gross income determined–
+        (i) without regard to this section and sections 199, 222, 911, 931, and 933, and
+        (ii) after application of sections 86, 135, 137, 219, and 469.
+  (c) Dependents not eligible for deduction
+     No deduction shall be allowed by this section to an individual for the taxable year if a deduction under section 151 with respect to such individual is allowed to another taxpayer for the taxable year beginning in the calendar year in which such individual“s taxable year begins.
+  (d) Definitions
+     For purposes of this section–
+    (1) Qualified education loan
+       The term ””qualified education loan““ means any indebtedness incurred by the taxpayer solely to pay qualified higher education expenses–
+      (A) which are incurred on behalf of the taxpayer, the taxpayer“s spouse, or any dependent of the taxpayer as of the time the indebtedness was incurred,
+      (B) which are paid or incurred within a reasonable period of time before or after the indebtedness is incurred, and
+      (C) which are attributable to education furnished during a period during which the recipient was an eligible student.
+       Such term includes indebtedness used to refinance indebtedness which qualifies as a qualified education loan. The term ””qualified education loan““ shall not include any indebtedness owed to a person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5).
+    (2) Qualified higher education expenses
+       The term ””qualified higher education expenses““ means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087T3llK, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) at an eligible educational institution, reduced by the sum of–
+      (A) the amount excluded from gross income under section 127, 135, 529, or 530 by reason of such expenses, and
+      (B) the amount of any scholarship, allowance, or payment described in section 25A(g)(2).
+       For purposes of the preceding sentence, the term ””eligible educational institution““ has the same meaning given such term by section 25A(f)(2), except that such term shall also include an institution conducting an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility which offers postgraduate training.
+    (3) Eligible student
+       The term ””eligible student““ has the meaning given such term by section 25A(b)(3).
+    (4) Dependent
+       The term ””dependent““ has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
+  (e) Special rules
+    (1) Denial of double benefit
+       No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter.
+    (2) Married couples must file joint return
+       If the taxpayer is married at the close of the taxable year, the deduction shall be allowed under subsection (a) only if the taxpayer and the taxpayer“s spouse file a joint return for the taxable year.
+    (3) Marital status
+       Marital status shall be determined in accordance with section 7703.
+  (f) Inflation adjustments
+    (1) In general
+       In the case of a taxable year beginning after 2002, the $50,000 and $100,000 amounts in subsection (b)(2) shall each be increased by an amount equal to–
+      (A) such dollar amount, multiplied by
+      (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2001““ for ””calendar year 1992““ in subparagraph (B) thereof.
+    (2) Rounding
+       If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.

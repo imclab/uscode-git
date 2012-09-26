@@ -1,0 +1,137 @@
+  (a) Election
+    (1) In general
+       Except as provided in subsection (g), a small business corporation may elect, in accordance with the provisions of this section, to be an S corporation.
+    (2) All shareholders must consent to election
+       An election under this subsection shall be valid only if all persons who are shareholders in such corporation on the day on which such election is made consent to such election.
+  (b) When made
+    (1) In general
+       An election under subsection (a) may be made by a small business corporation for any taxable year–
+      (A) at any time during the preceding taxable year, or
+      (B) at any time during the taxable year and on or before the 15th day of the 3d month of the taxable year.
+    (2) Certain elections made during 1st 2\1/2\ months treated as made for next taxable year
+       If–
+      (A) an election under subsection (a) is made for any taxable year during such year and on or before the 15th day of the 3d month of such year, but
+      (B) either–
+        (i) on 1 or more days in such taxable year before the day on which the election was made the corporation did not meet the requirements of subsection (b) of section 1361, or
+        (ii) 1 or more of the persons who held stock in the corporation during such taxable year and before the election was made did not consent to the election,
+       then such election shall be treated as made for the following taxable year.
+    (3) Election made after 1st 2\1/2\ months treated as made for following taxable year
+       If–
+      (A) a small business corporation makes an election under subsection (a) for any taxable year, and
+      (B) such election is made after the 15th day of the 3d month of the taxable year and on or before the 15th day of the 3rd month of the following taxable year,
+       then such election shall be treated as made for the following taxable year.
+    (4) Taxable years of 2\1/2\ months or less
+       For purposes of this subsection, an election for a taxable year made not later than 2 months and 15 days after the first day of the taxable year shall be treated as timely made during such year.
+    (5) Authority to treat late elections, etc., as timely
+       If–
+      (A) an election under subsection (a) is made for any taxable year (determined without regard to paragraph (3)) after the date prescribed by this subsection for making such election for such taxable year or no such election is made for any taxable year, and
+      (B) the Secretary determines that there was reasonable cause for the failure to timely make such election,
+       the Secretary may treat such an election as timely made for such taxable year (and paragraph (3) shall not apply).
+  (c) Years for which effective
+     An election under subsection (a) shall be effective for the taxable year of the corporation for which it is made and for all succeeding taxable years of the corporation, until such election is terminated under subsection (d).
+  (d) Termination
+    (1) By revocation
+      (A) In general
+         An election under subsection (a) may be terminated by revocation.
+      (B) More than one-half of shares must consent to revocation
+         An election may be revoked only if shareholders holding more than one-half of the shares of stock of the corporation on the day on which the revocation is made consent to the revocation.
+      (C) When effective
+         Except as provided in subparagraph (D)–
+        (i) a revocation made during the taxable year and on or before the 15th day of the 3d month thereof shall be effective on the 1st day of such taxable year, and
+        (ii) a revocation made during the taxable year but after such 15th day shall be effective on the 1st day of the following taxable year.
+      (D) Revocation may specify prospective date
+         If the revocation specifies a date for revocation which is on or after the day on which the revocation is made, the revocation shall be effective on and after the date so specified.
+    (2) By corporation ceasing to be small business corporation
+      (A) In general
+         An election under subsection (a) shall be terminated whenever (at any time on or after the 1st day of the 1st taxable year for which the corporation is an S corporation) such corporation ceases to be a small business corporation.
+      (B) When effective
+         Any termination under this paragraph shall be effective on and after the date of cessation.
+    (3) Where passive investment income exceeds 25 percent of gross receipts for 3 consecutive taxable years and corporation has accumulated earnings and profits
+      (A) Termination
+        (i) In general
+           An election under subsection (a) shall be terminated whenever the corporation–
+          (I) has accumulated earnings and profits at the close of each of 3 consecutive taxable years, and
+          (II) has gross receipts for each of such taxable years more than 25 percent of which are passive investment income.
+        (ii) When effective
+           Any termination under this paragraph shall be effective on and after the first day of the first taxable year beginning after the third consecutive taxable year referred to in clause (i).
+        (iii) Years taken into account
+           A prior taxable year shall not be taken into account under clause (i) unless–
+          (I) such taxable year began after December 31, 1981, and
+          (II) the corporation was an S corporation for such taxable year.
+      (B) Gross receipts from sales of capital assets (other than stock and securities)
+         For purposes of this paragraph, in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom.
+      (C) Passive investment income defined
+         For purposes of this paragraph–
+        (i) In general
+           Except as otherwise provided in this subparagraph, the term ””passive investment income““ means gross receipts derived from royalties, rents, dividends, interest, annuities, and sales or exchanges of stock or securities (gross receipts from such sales or exchanges being taken into account for purposes of this paragraph only to the extent of gains therefrom).
+        (ii) Exception for interest on notes from sales of inventory
+           The term ””passive investment income““ shall not include interest on any obligation acquired in the ordinary course of the corporation“s trade or business from its sale of property described in section 1221(a)(1).
+        (iii) Treatment of certain lending or finance companies
+           If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term ””passive investment income““ shall not include gross receipts for the taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).
+        (iv) Treatment of certain liquidations
+           Gross receipts derived from sales or exchanges of stock or securities shall not include amounts received by an S corporation which are treated under section 331 (relating to corporate liquidations) as payments in exchange for stock where the S corporation owned more than 50 percent of each class of stock of the liquidating corporation.
+      (D) Special rule for options and commodity dealings
+        (i) In general
+           In the case of any options dealer or commodities dealer, passive investment income shall be determined by not taking into account any gain or loss (in the normal course of the taxpayer“s activity of dealing in or trading section 1256 contracts) from any section 1256 contract or property related to such a contract.
+        (ii) Definitions
+           For purposes of this subparagraph–
+          (I) Options dealer
+             The term ””options dealer““ has the meaning given such term by section 1256(g)(8).
+          (II) Commodities dealer
+             The term ””commodities dealer““ means a person who is actively engaged in trading section 1256 contracts and is registered with a domestic board of trade which is designated as a contract market by the Commodities Futures Trading Commission.
+          (III) Section 1256 contract
+             The term ””section 1256 contract““ has the meaning given to such term by section 1256(b).
+      (E) Treatment of certain dividends
+         If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term ””passive investment income““ shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
+      (F) Exception for banks; etc.
+         In the case of a bank (as defined in section 581),\1\N a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),\2\N the term ””passive investment income““ shall not include–
+        (i) interest income earned by such bank or company, or
+        (ii) dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
+  (e) Treatment of S termination year
+    (1) In general
+       In the case of an S termination year, for purposes of this title–
+      (A) S short year
+         The portion of such year ending before the 1st day for which the termination is effective shall be treated as a short taxable year for which the corporation is an S corporation.
+      (B) C short year
+         The portion of such year beginning on such 1st day shall be treated as a short taxable year for which the corporation is a C corporation.
+    (2) Pro rata allocation
+       Except as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6), the determination of which items are to be taken into account for each of the short taxable years referred to in paragraph (1) shall be made–
+      (A) first by determining for the S termination year–
+        (i) the amount of each of the items of income, loss, deduction, or credit described in section 1366(a)(1)(A), and
+        (ii) the amount of the nonseparately computed income or loss, and
+      (B) then by assigning an equal portion of each amount determined under subparagraph (A) to each day of the S termination year.
+    (3) Election to have items assigned to each short taxable year under normal tax accounting rules
+      (A) In general
+         A corporation may elect to have paragraph (2) not apply.
+      (B) Shareholders must consent to election
+         An election under this subsection shall be valid only if all persons who are shareholders in the corporation at any time during the S short year and all persons who are shareholders in the corporation on the first day of the C short year consent to such election.
+    (4) S termination year
+       For purposes of this subsection, the term ””S termination year““ means any taxable year of a corporation (determined without regard to this subsection) in which a termination of an election made under subsection (a) takes effect (other than on the 1st day thereof).
+    (5) Tax for C short year determined on annualized basis
+      (A) In general
+         The taxable income for the short year described in subparagraph (B) of paragraph (1) shall be placed on an annual basis by multiplying the taxable income for such short year by the number of days in the S termination year and by dividing the result by the number of days in the short year. The tax shall be the same part of the tax computed on the annual basis as the number of days in such short year is of the number of days in the S termination year.
+      (B) Section 443(d)(2) to apply
+         Subsection (d) of section 443 shall apply to the short taxable year described in subparagraph (B) of paragraph (1).
+    (6) Other special rules
+       For purposes of this title–
+      (A) Short years treated as 1 year for carryover purposes
+         The short taxable year described in subparagraph (A) of paragraph (1) shall not be taken into account for purposes of determining the number of taxable years to which any item may be carried back or carried forward by the corporation.
+      (B) Due date for S year
+         The due date for filing the return for the short taxable year described in subparagraph (A) of paragraph (1) shall be the same as the due date for filing the return for the short taxable year described in subparagraph (B) of paragraph (1) (including extensions thereof).
+      (C) Paragraph (2) not to apply to items resulting from section 338
+         Paragraph (2) shall not apply with respect to any item resulting from the application of section 338.
+      (D) Pro rata allocation for S termination year not to apply if 50-percent change in ownership
+         Paragraph (2) shall not apply to an S termination year if there is a sale or exchange of 50 percent or more of the stock in such corporation during such year.
+  (f) Inadvertent invalid elections or terminations
+     If–
+    (1) an election under subsection (a), section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii) by any corporation–
+      (A) was not effective for the taxable year for which made (determined without regard to subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
+      (B) was terminated under paragraph (2) or (3) of subsection (d), section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii),
+    (2) the Secretary determines that the circumstances resulting in such ineffectiveness or termination were inadvertent,
+    (3) no later than a reasonable period of time after discovery of the circumstances resulting in such ineffectiveness or termination, steps were taken–
+      (A) so that the corporation for which the election was made or the termination occurred is a small business corporation or a qualified subchapter S subsidiary, as the case may be, or
+      (B) to acquire the required shareholder consents, and
+    (4) the corporation for which the election was made or the termination occurred, and each person who was a shareholder in such corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such corporation as an S corporation or a qualified subchapter S subsidiary, as the case may be) as may be required by the Secretary with respect to such period,
+       then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be \3\N during the period specified by the Secretary.
+  (g) Election after termination
+     If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.

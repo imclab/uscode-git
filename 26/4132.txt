@@ -1,23 +1,47 @@
-   Affordable housing activities under this subchapter are activities, in accordance with the requirements of this subchapter, to develop or to support affordable housing for rental or homeownership, or to provide housing services with respect to affordable housing, through the following activities:
-  (1) Indian housing assistance
-     The provision of modernization or operating assistance for housing previously developed or operated pursuant to a contract between the Secretary and an Indian housing authority.
-  (2) Development
-     The acquisition, new construction, reconstruction, or moderate or substantial rehabilitation of affordable housing, which may include real property acquisition, site improvement, development of utilities and utility services, conversion, demolition, financing, administration and planning, and other related activities.
-  (3) Housing services
-     The provision of housing-related services for affordable housing, such as housing counseling in connection with rental or homeownership assistance, establishment and support of resident organizations and resident management corporations, energy auditing, activities related to the provision of self-sufficiency and other services, and other services related to assisting owners, tenants, contractors, and other entities, participating or seeking to participate in other housing activities assisted pursuant to this section.
-  (4) Housing management services
-     The provision of management services for affordable housing, including preparation of work specifications, loan processing, inspections, tenant selection, management of tenant-based rental assistance, and management of affordable housing projects.
-  (5) Crime prevention and safety activities
-     The provision of safety, security, and law enforcement measures and activities appropriate to protect residents of affordable housing from crime.
-  (6) Model activities
-     Housing activities under model programs that are designed to carry out the purposes of this chapter and are specifically approved by the Secretary as appropriate for such purpose.
-  (7) Community development demonstration project
-    (A) In general
-       Consistent with principles of Indian self-determination and the findings of this chapter, the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes, tribal organizations, or tribal consortia are authorized to expend amounts received pursuant to the Native American Housing Assistance and Self-Determination Reauthorization Act of 2002 in order to design, implement, and operate community development demonstration projects.
-    (B) Study
-       Not later than 1 year after November 13, 2002, the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
-  (8) Self-Determination Act demonstration project
-    (A) In general
-       Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
-    (B) Study
-       Not later than 1 year after November 13, 2002, the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
+  (a) Definitions relating to taxable vaccines
+     For purposes of this subchapter–
+    (1) Taxable vaccine
+       The term ””taxable vaccine““ means any of the following vaccines which are manufactured or produced in the United States or entered into the United States for consumption, use, or warehousing:
+      (A) Any vaccine containing diphtheria toxoid.
+      (B) Any vaccine containing tetanus toxoid.
+      (C) Any vaccine containing pertussis bacteria, extracted or partial cell bacteria, or specific pertussis antigens.
+      (D) Any vaccine against measles.
+      (E) Any vaccine against mumps.
+      (F) Any vaccine against rubella.
+      (G) Any vaccine containing polio virus.
+      (H) Any HIB vaccine.
+      (I) Any vaccine against hepatitis A.
+      (J) Any vaccine against hepatitis B.
+      (K) Any vaccine against chicken pox.
+      (L) Any vaccine against rotavirus gastroenteritis.
+      (M) Any conjugate vaccine against streptococcus pneumoniae.
+      (N) Any trivalent vaccine against influenza.
+    (2) Vaccine
+       The term ””vaccine““ means any substance designed to be administered to a human being for the prevention of 1 or more diseases.
+    (3) United States
+       The term ””United States““ has the meaning given such term by section 4612(a)(4).
+    (4) Importer
+       The term ””importer““ means the person entering the vaccine for consumption, use, or warehousing.
+  (b) Credit or refund where vaccine returned to manufacturer, etc., or destroyed
+    (1) In general
+       Under regulations prescribed by the Secretary, whenever any vaccine on which tax was imposed by section 4131 is–
+      (A) returned (other than for resale) to the person who paid such tax, or
+      (B) destroyed,
+       the Secretary shall abate such tax or allow a credit, or pay a refund (without interest), to such person equal to the tax paid under section 4131 with respect to such vaccine.
+    (2) Claim must be filed within 6 months
+       Paragraph (1) shall apply to any returned or destroyed vaccine only with respect to claims filed within 6 months after the date the vaccine is returned or destroyed.
+    (3) Condition of allowance of credit or refund
+       No credit or refund shall be allowed or made under paragraph (1) with respect to any vaccine unless the person who paid the tax establishes that he–
+      (A) has repaid or agreed to repay the amount of the tax to the ultimate purchaser of the vaccine, or
+      (B) has obtained the written consent of such purchaser to the allowance of the credit or the making of the refund.
+    (4) Tax imposed only once
+       No tax shall be imposed by section 4131 on the sale of any vaccine if tax was imposed by section 4131 on any prior sale of such vaccine and such tax is not abated, credited, or refunded.
+  (c) Other special rules
+    (1) Certain uses treated as sales
+       Any manufacturer, producer, or importer of a vaccine which uses such vaccine before it is sold shall be liable for the tax imposed by section 4131 in the same manner as if such vaccine were sold by such manufacturer, producer, or importer.
+    (2) Treatment of vaccines shipped to United States possessions
+       Section 4221(a)(2) shall not apply to any vaccine shipped to a possession of the United States.
+    (3) Fractional part of a dose
+       In the case of a fraction of a dose, the tax imposed by section 4131 shall be the same fraction of the amount of such tax imposed by a whole dose.
+    (4) Disposition of revenues from Puerto Rico and the Virgin Islands
+       The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4131.

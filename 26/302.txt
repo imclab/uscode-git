@@ -1,1 +1,73 @@
-   The Commissioner of Indian Affairs, under the direction of the Secretary of the Interior, is authorized and directed to select and designate some one of the schools or other institution herein specifically provided for as an ””Indian Reform School““, and to make all needful rules and regulations for its conduct, and the placing of Indian youth therein: T3ProvidedK, That the appropriation for collection and transportation, and so forth, of pupils, and the specific appropriation for such school so selected shall be available for its support and maintenance: T3Provided furtherK, That the consent of parents, guardians, or next of kin shall not be required to place Indian youth in said school.
+  (a) General rule
+     If a corporation redeems its stock (within the meaning of section 317(b)), and if paragraph (1), (2), (3), or (4) of subsection (b) applies, such redemption shall be treated as a distribution in part or full payment in exchange for the stock.
+  (b) Redemptions treated as exchanges
+    (1) Redemptions not equivalent to dividends
+       Subsection (a) shall apply if the redemption is not essentially equivalent to a dividend.
+    (2) Substantially disproportionate redemption of stock
+      (A) In general
+         Subsection (a) shall apply if the distribution is substantially disproportionate with respect to the shareholder.
+      (B) Limitation
+         This paragraph shall not apply unless immediately after the redemption the shareholder owns less than 50 percent of the total combined voting power of all classes of stock entitled to vote.
+      (C) Definitions
+         For purposes of this paragraph, the distribution is substantially disproportionate if–
+        (i) the ratio which the voting stock of the corporation owned by the shareholder immediately after the redemption bears to all of the voting stock of the corporation at such time,
+         is less than 80 percent of–
+        (ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bears to all of the voting stock of the corporation at such time.
+         For purposes of this paragraph, no distribution shall be treated as substantially disproportionate unless the shareholder“s ownership of the common stock of the corporation (whether voting or nonvoting) after and before redemption also meets the 80 percent requirement of the preceding sentence. For purposes of the preceding sentence, if there is more than one class of common stock, the determinations shall be made by reference to fair market value.
+      (D) Series of redemptions
+         This paragraph shall not apply to any redemption made pursuant to a plan the purpose or effect of which is a series of redemptions resulting in a distribution which (in the aggregate) is not substantially disproportionate with respect to the shareholder.
+    (3) Termination of shareholder“s interest
+       Subsection (a) shall apply if the redemption is in complete redemption of all of the stock of the corporation owned by the shareholder.
+    (4) Redemption from noncorporate shareholder in partial liquidation
+       Subsection (a) shall apply to a distribution if such distribution is–
+      (A) in redemption of stock held by a shareholder who is not a corporation, and
+      (B) in partial liquidation of the distributing corporation.
+    (5) Application of paragraphs
+       In determining whether a redemption meets the requirements of paragraph (1), the fact that such redemption fails to meet the requirements of paragraph (2), (3), or (4) shall not be taken into account. If a redemption meets the requirements of paragraph (3) and also the requirements of paragraph (1), (2), or (4), then so much of subsection (c)(2) as would (but for this sentence) apply in respect of the acquisition of an interest in the corporation within the 10-year period beginning on the date of the distribution shall not apply.
+  (c) Constructive ownership of stock
+    (1) In general
+       Except as provided in paragraph (2) of this subsection, section 318(a) shall apply in determining the ownership of stock for purposes of this section.
+    (2) For determining termination of interest
+      (A) In the case of a distribution described in subsection (b)(3), section 318(a)(1) shall not apply if–
+        (i) immediately after the distribution the distributee has no interest in the corporation (including an interest as officer, director, or employee), other than an interest as a creditor,
+        (ii) the distributee does not acquire any such interest (other than stock acquired by bequest or inheritance) within 10 years from the date of such distribution, and
+        (iii) the distributee, at such time and in such manner as the Secretary by regulations prescribes, files an agreement to notify the Secretary of any acquisition described in clause (ii) and to retain such records as may be necessary for the application of this paragraph.
+       If the distributee acquires such an interest in the corporation (other than by bequest or inheritance) within 10 years from the date of the distribution, then the periods of limitation provided in sections 6501 and 6502 on the making of an assessment and the collection by levy or a proceeding in court shall, with respect to any deficiency (including interest and additions to the tax) resulting from such acquisition, include one year immediately following the date on which the distributee (in accordance with regulations prescribed by the Secretary) notifies the Secretary of such acquisition; and such assessment and collection may be made notwithstanding any provision of law or rule of law which otherwise would prevent such assessment and collection.
+      (B) Subparagraph (A) of this paragraph shall not apply if–
+        (i) any portion of the stock redeemed was acquired, directly or indirectly, within the 10-year period ending on the date of the distribution by the distributee from a person the ownership of whose stock would (at the time of distribution) be attributable to the distributee under section 318(a), or
+        (ii) any person owns (at the time of the distribution) stock the ownership of which is attributable to the distributee under section 318(a) and such person acquired any stock in the corporation, directly or indirectly, from the distributee within the 10-year period ending on the date of the distribution, unless such stock so acquired from the distributee is redeemed in the same transaction.
+       The preceding sentence shall not apply if the acquisition (or, in the case of clause (ii), the disposition) by the distributee did not have as one of its principal purposes the avoidance of Federal income tax.
+      (C) Special rule for waivers by entities
+        (i) In general
+           Subparagraph (A) shall not apply to a distribution to any entity unless–
+          (I) such entity and each related person meet the requirements of clauses (i), (ii), and (iii) of subparagraph (A), and
+          (II) each related person agrees to be jointly and severally liable for any deficiency (including interest and additions to tax) resulting from an acquisition described in clause (ii) of subparagraph (A).
+              In any case to which the preceding sentence applies, the second sentence of subparagraph (A) and subparagraph (B)(ii) shall be applied by substituting ””distributee or any related person““ for ””distributee““ each place it appears.
+        (ii) Definitions
+           For purposes of this subparagraph–
+          (I) the term ””entity““ means a partnership, estate, trust, or corporation; and
+          (II) the term ””related person““ means any person to whom ownership of stock in the corporation is (at the time of the distribution) attributable under section 318(a)(1) if such stock is further attributable to the entity under section 318(a)(3).
+  (d) Redemptions treated as distributions of property
+     Except as otherwise provided in this subchapter, if a corporation redeems its stock (within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
+  (e) Partial liquidation defined
+    (1) In general
+       For purposes of subsection (b)(4), a distribution shall be treated as in partial liquidation of a corporation if–
+      (A) the distribution is not essentially equivalent to a dividend (determined at the corporate level rather than at the shareholder level), and
+      (B) the distribution is pursuant to a plan and occurs within the taxable year in which the plan is adopted or within the succeeding taxable year.
+    (2) Termination of business
+       The distributions which meet the requirements of paragraph (1)(A) shall include (but shall not be limited to) a distribution which meets the requirements of subparagraphs (A) and (B) of this paragraph:
+      (A) The distribution is attributable to the distributing corporation“s ceasing to conduct, or consists of the assets of, a qualified trade or business.
+      (B) Immediately after the distribution, the distributing corporation is actively engaged in the conduct of a qualified trade or business.
+    (3) Qualified trade or business
+       For purposes of paragraph (2), the term ””qualified trade or business““ means any trade or business which–
+      (A) was actively conducted throughout the 5-year period ending on the date of the redemption, and
+      (B) was not acquired by the corporation within such period in a transaction in which gain or loss was recognized in whole or in part.
+    (4) Redemption may be pro rata
+       Whether or not a redemption meets the requirements of subparagraphs (A) and (B) of paragraph (2) shall be determined without regard to whether or not the redemption is pro rata with respect to all of the shareholders of the corporation.
+    (5) Treatment of certain pass-thru entities
+       For purposes of determining under subsection (b)(4) whether any stock is held by a shareholder who is not a corporation, any stock held by a partnership, estate, or trust shall be treated as if it were actually held proportionately by its partners or beneficiaries.
+  (f) Cross references
+     T2For special rules relating to redemption–
+     T2(1) Death Taxes.–Of stock to pay death taxes, see section 303.
+     T2(2) Section 306 Stock.–Of section 306 stock, see section 306.
+     T2(3) Liquidations.–Of stock in complete liquidation, see section 331.

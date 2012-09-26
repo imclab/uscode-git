@@ -1,1 +1,19 @@
-   The provisions of section 935 \1\N of title 43 relating to the rights of several railroads through any canyon, pass, or defile are extended and made applicable to rights of way granted under sections 312 to 318 of this title and to railroad companies obtaining such rights of way.
+  (a) General rule
+     For purposes of this subtitle, the term ””dividend““ means any distribution of property made by a corporation to its shareholders–
+    (1) out of its earnings and profits accumulated after February 28, 1913, or
+    (2) out of its earnings and profits of the taxable year (computed as of the close of the taxable year without diminution by reason of any distributions made during the taxable year), without regard to the amount of the earnings and profits at the time the distribution was made.
+       Except as otherwise provided in this subtitle, every distribution is made out of earnings and profits to the extent thereof, and from the most recently accumulated earnings and profits. To the extent that any distribution is, under any provision of this subchapter, treated as a distribution of property to which section 301 applies, such distribution shall be treated as a distribution of property for purposes of this subsection.
+  (b) Special rules
+    (1) Certain insurance company dividends
+       The definition in subsection (a) shall not apply to the term ””dividend““ as used in subchapter L in any case where the reference is to dividends of insurance companies paid to policyholders as such.
+    (2) Distributions by personal holding companies
+      (A) In the case of a corporation which–
+        (i) under the law applicable to the taxable year in which the distribution is made, is a personal holding company (as defined in section 542), or
+        (ii) for the taxable year in respect of which the distribution is made under section 563(b) (relating to dividends paid after the close of the taxable year), or section 547 (relating to deficiency dividends), or the corresponding provisions of prior law, is a personal holding company under the law applicable to such taxable year,
+       the term ””dividend““ also means any distribution of property (whether or not a dividend as defined in subsection (a)) made by the corporation to its shareholders, to the extent of its undistributed personal holding company income (determined under section 545 without regard to distributions under this paragraph) for such year.
+      (B) For purposes of subparagraph (A), the term ””distribution of property““ includes a distribution in complete liquidation occurring within 24 months after the adoption of a plan of liquidation, but–
+        (i) only to the extent of the amounts distributed to distributees other than corporate shareholders, and
+        (ii) only to the extent that the corporation designates such amounts as a dividend distribution and duly notifies such distributees of such designation, under regulations prescribed by the Secretary, but
+        (iii) not in excess of the sum of such distributees“ allocable share of the undistributed personal holding company income for such year, computed without regard to this subparagraph or section 562(b).
+    (3) Deficiency dividend distributions by a regulated investment company or real estate investment trust
+       The term ””dividend““ also means any distribution of property (whether or not a dividend as defined in subsection (a)) which constitutes a ””deficiency dividend““ as defined in section 860(f).

@@ -1,1 +1,40 @@
-   Whenever the Secretary of the Interior shall find any Indian afflicted with tuberculosis, trachoma, or other contagious or infectious diseases, he may, if in his judgment the health of the afflicted Indian or that of other persons require it, isolate or quarantine such afflicted Indian in a hospital or other place for treatment. The Secretary of the Interior may employ such means as may be necessary in the isolation, or quarantine, of such Indian, and it shall be the duty of such Indian so afflicted to obey any order or regulation made by the Secretary of the Interior in carrying out this provision.
+  (a) In general
+     A taxpayer may elect to treat any qualified environmental remediation expenditure which is paid or incurred by the taxpayer as an expense which is not chargeable to capital account. Any expenditure which is so treated shall be allowed as a deduction for the taxable year in which it is paid or incurred.
+  (b) Qualified environmental remediation expenditure
+     For purposes of this section–
+    (1) In general
+       The term ””qualified environmental remediation expenditure““ means any expenditure–
+      (A) which is otherwise chargeable to capital account, and
+      (B) which is paid or incurred in connection with the abatement or control of hazardous substances at a qualified contaminated site.
+    (2) Special rule for expenditures for depreciable property
+       Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that the portion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
+  (c) Qualified contaminated site
+     For purposes of this section–
+    (1) In general
+       The term ””qualified contaminated site““ means any area–
+      (A) which is held by the taxpayer for use in a trade or business or for the production of income, or which is property described in section 1221(a)(1) in the hands of the taxpayer, and
+      (B) at or on which there has been a release (or threat of release) or disposal of any hazardous substance.
+    (2) National priorities listed sites not included
+       Such term shall not include any site which is on, or proposed for, the national priorities list under section 105(a)(8)(B) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this section).
+    (3) Taxpayer must receive statement from State environmental agency
+       An area shall be treated as a qualified contaminated site with respect to expenditures paid or incurred during any taxable year only if the taxpayer receives a statement from the appropriate agency of the State in which such area is located that such area meets the requirement of paragraph (1)(B).
+    (4) Appropriate State agency
+       For purposes of paragraph (3), the chief executive officer of each State may, in consultation with the Administrator of the Environmental Protection Agency, designate the appropriate State environmental agency within 60 days of the date of the enactment of this section. If the chief executive officer of a State has not designated an appropriate environmental agency within such 60-day period, the appropriate environmental agency for such State shall be designated by the Administrator of the Environmental Protection Agency.
+  (d) Hazardous substance
+     For purposes of this section–
+    (1) In general
+       The term ””hazardous substance““ means–
+      (A) any substance which is a hazardous substance as defined in section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and
+      (B) any substance which is designated as a hazardous substance under section 102 of such Act.
+    (2) Exception
+       Such term shall not include any substance with respect to which a removal or remedial action is not permitted under section 104 of such Act by reason of subsection (a)(3) thereof.
+  (e) Deduction recaptured as ordinary income on sale, etc.
+     Solely for purposes of section 1245, in the case of property to which a qualified environmental remediation expenditure would have been capitalized but for this section–
+    (1) the deduction allowed by this section for such expenditure shall be treated as a deduction for depreciation, and
+    (2) such property (if not otherwise section 1245 property) shall be treated as section 1245 property solely for purposes of applying section 1245 to such deduction.
+  (f) Coordination with other provisions
+     Sections 280B and 468 shall not apply to amounts which are treated as expenses under this section.
+  (g) Regulations
+     The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+  (h) Termination
+     This section shall not apply to expenditures paid or incurred after December 31, 2005.

@@ -1,0 +1,42 @@
+  (a) In general
+     Section 421(a) shall apply with respect to the transfer of a share of stock to an individual pursuant to his exercise of an incentive stock option if–
+    (1) no disposition of such share is made by him within 2 years from the date of the granting of the option nor within 1 year after the transfer of such share to him, and
+    (2) at all times during the period beginning on the date of the granting of the option and ending on the day 3 months before the date of such exercise, such individual was an employee of either the corporation granting such option, a parent or subsidiary corporation of such corporation, or a corporation or a parent or subsidiary corporation of such corporation issuing or assuming a stock option in a transaction to which section 424(a) applies.
+  (b) Incentive stock option
+     For purposes of this part, the term ””incentive stock option““ means an option granted to an individual for any reason connected with his employment by a corporation, if granted by the employer corporation or its parent or subsidiary corporation, to purchase stock of any of such corporations, but only if–
+    (1) the option is granted pursuant to a plan which includes the aggregate number of shares which may be issued under options and the employees (or class of employees) eligible to receive options, and which is approved by the stockholders of the granting corporation within 12 months before or after the date such plan is adopted;
+    (2) such option is granted within 10 years from the date such plan is adopted, or the date such plan is approved by the stockholders, whichever is earlier;
+    (3) such option by its terms is not exercisable after the expiration of 10 years from the date such option is granted;
+    (4) the option price is not less than the fair market value of the stock at the time such option is granted;
+    (5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
+    (6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+       Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.
+  (c) Special rules
+    (1) Good faith efforts to value of stock
+       If a share of stock is transferred pursuant to the exercise by an individual of an option which would fail to qualify as an incentive stock option under subsection (b) because there was a failure in an attempt, made in good faith, to meet the requirement of subsection (b)(4), the requirement of subsection (b)(4) shall be considered to have been met. To the extent provided in regulations by the Secretary, a similar rule shall apply for purposes of subsection (d).
+    (2) Certain disqualifying dispositions where amount realized is less than value at exercise
+       If–
+      (A) an individual who has acquired a share of stock by the exercise of an incentive stock option makes a disposition of such share within either of the periods described in subsection (a)(1), and
+      (B) such disposition is a sale or exchange with respect to which a loss (if sustained) would be recognized to such individual,
+       then the amount which is includible in the gross income of such individual, and the amount which is deductible from the income of his employer corporation, as compensation attributable to the exercise of such option shall not exceed the excess (if any) of the amount realized on such sale or exchange over the adjusted basis of such share.
+    (3) Certain transfers by insolvent individuals
+       If an insolvent individual holds a share of stock acquired pursuant to his exercise of an incentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
+    (4) Permissible provisions
+       An option which meets the requirements of subsection (b) shall be treated as an incentive stock option even if–
+      (A) the employee may pay for the stock with stock of the corporation granting the option,
+      (B) the employee has a right to receive property at the time of exercise of the option, or
+      (C) the option is subject to any condition not inconsistent with the provisions of subsection (b).
+       Subparagraph (B) shall apply to a transfer of property (other than cash) only if section 83 applies to the property so transferred.
+    (5) 10-percent shareholder rule
+       Subsection (b)(6) shall not apply if at the time such option is granted the option price is at least 110 percent of the fair market value of the stock subject to the option and such option by its terms is not exercisable after the expiration of 5 years from the date such option is granted.
+    (6) Special rule when disabled
+       For purposes of subsection (a)(2), in the case of an employee who is disabled (within the meaning of section 22(e)(3)), the 3-month period of subsection (a)(2) shall be 1 year.
+    (7) Fair market value
+       For purposes of this section, the fair market value of stock shall be determined without regard to any restriction other than a restriction which, by its terms, will never lapse.
+  (d) $100,000 per year limitation
+    (1) In general
+       To the extent that the aggregate fair market value of stock with respect to which incentive stock options (determined without regard to this subsection) are exercisable for the 1st time by any individual during any calendar year (under all plans of the individual“s employer corporation and its parent and subsidiary corporations) exceeds $100,000, such options shall be treated as options which are not incentive stock options.
+    (2) Ordering rule
+       Paragraph (1) shall be applied by taking options into account in the order in which they were granted.
+    (3) Determination of fair market value
+       For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.

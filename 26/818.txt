@@ -1,0 +1,56 @@
+  (a) Pension plan contracts
+     For purposes of this part, the term ””pension plan contract““ means any contract–
+    (1) entered into with trusts which (as of the time the contracts were entered into) were deemed to be trusts described in section 401(a) and exempt from tax under section 501(a) (or trusts exempt from tax under section 165 of the Internal Revenue Code of 1939 or the corresponding provisions of prior revenue laws);
+    (2) entered into under plans which (as of the time the contracts were entered into) were deemed to be plans described in section 403(a), or plans meeting the requirements of paragraphs (3), (4), (5), and (6) of section 165(a) of the Internal Revenue Code of 1939;
+    (3) provided for employees of the life insurance company under a plan which, for the taxable year, meets the requirements of paragraphs (3), (4), (5), (6), (7), (8), (11), (12), (13), (14), (15), (16), (17), (19), (20), (22), (26), and (27) of section 401(a);
+    (4) purchased to provide retirement annuities for its employees by an organization which (as of the time the contracts were purchased) was an organization described in section 501(c)(3) which was exempt from tax under section 501(a) (or was an organization exempt from tax under section 101(6) of the Internal Revenue Code of 1939 or the corresponding provisions of prior revenue laws), or purchased to provide retirement annuities for employees described in section 403(b)(1)(A)(ii) by an employer which is a State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing;
+    (5) entered into with trusts which (at the time the contracts were entered into) were individual retirement accounts described in section 408(a) or under contracts entered into with individual retirement annuities described in section 408(b); or
+    (6) purchased by–
+      (A) a governmental plan (within the meaning of section 414(d)) or an eligible deferred compensation plan (within the meaning of section 457(b)), or
+      (B) the Government of the United States, the government of any State or political subdivision thereof, or by any agency or instrumentality of the foregoing, or any organization (other than a governmental unit) exempt from tax under this subtitle, for use in satisfying an obligation of such government, political subdivision, agency or instrumentality, or organization to provide a benefit under a plan described in subparagraph (A).
+  (b) Treatment of capital gains and losses, etc.
+     In the case of a life insurance company–
+    (1) in applying section 1231(a), the term ””property used in the trade or business““ shall be treated as including only–
+      (A) property used in carrying on an insurance business, of a character which is subject to the allowance for depreciation provided in section 167, held for more than 1 year, and real property used in carrying on an insurance business, held for more than 1 year, which is not described in section 1231(b)(1)(A), (B), or (C), and
+      (B) property described in section 1231(b)(2), and
+    (2) in applying section 1221(a)(2), the reference to property used in trade or business shall be treated as including only property used in carrying on an insurance business.
+  (c) Gain on property held on December 31, 1958 and certain substituted property acquired after 1958
+    (1) Property held on December 31, 1958
+       In the case of property held by the taxpayer on December 31, 1958, if–
+      (A) the fair market value of such property on such date exceeds the adjusted basis for determining gain as of such date, and
+      (B) the taxpayer has been a life insurance company at all times on and after December 31, 1958,
+       the gain on the sale or other disposition of such property shall be treated as an amount (not less than zero) equal to the amount by which the gain (determined without regard to this subsection) exceeds the difference between the fair market value on December 31, 1958, and the adjusted basis for determining gain as of such date.
+    (2) Certain property acquired after December 31, 1958
+       In the case of property acquired after December 31, 1958, and having a substituted basis (within the meaning of section 1016(b))–
+      (A) for purposes of paragraph (1), such property shall be deemed held continuously by the taxpayer since the beginning of the holding period thereof, determined with reference to section 1223,
+      (B) the fair market value and adjusted basis referred to in paragraph (1) shall be that of that property for which the holding period taken into account includes December 31, 1958,
+      (C) paragraph (1) shall apply only if the property or properties the holding periods of which are taken into account were held only by life insurance companies after December 31, 1958, during the holding periods so taken into account,
+      (D) the difference between the fair market value and adjusted basis referred to in paragraph (1) shall be reduced (to not less than zero) by the excess of (i) the gain that would have been recognized but for this subsection on all prior sales or dispositions after December 31, 1958, of properties referred to in subparagraph (C), over (ii) the gain which was recognized on such sales or other dispositions, and
+      (E) the basis of such property shall be determined as if the gain which would have been recognized but for this subsection were recognized gain.
+    (3) Property defined
+       For purposes of paragraphs (1) and (2), the term ””property““ does not include insurance and annuity contracts and property described in paragraph (1) of section 1221(a).
+  (d) Insurance or annuity contract includes contracts supplementary thereto
+     For purposes of this part, the term ””insurance or annuity contract““ includes any contract supplementary thereto.
+  (e) Special rules for consolidated returns
+    (1) Items of companies other than life insurance companies
+       If an election under section 1504(c)(2) is in effect with respect to an affiliated group for the taxable year, all items of the members of such group which are not life insurance companies shall not be taken into account in determining the amount of the tentative LICTI of members of such group which are life insurance companies.
+    (2) Dividends within group
+       In the case of a life insurance company filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group was not filing a consolidated return.
+  (f) Allocation of certain items for purposes of foreign tax credit, etc.
+    (1) In general
+       Under regulations, in applying sections 861, 862, and 863 to a life insurance company, the deduction for policyholder dividends (determined under section 808(c)), reserve adjustments under subsections (a) and (b) of section 807, and death benefits and other amounts described in section 805(a)(1) shall be treated as items which cannot definitely be allocated to an item or class of gross income.
+    (2) Election of alternative allocation
+      (A) In general
+         On or before September 15, 1985, any life insurance company may elect to treat items described in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
+      (B) Election irrevocable
+         Any election under subparagraph (A), once made, may be revoked only with the consent of the Secretary.
+    (3) Items described in section 807(c) treated as not interest for source rules, etc.
+       For purposes of part I of subchapter N, items described in any paragraph of section 807(c) shall be treated as amounts which are not interest.
+  (g) Qualified accelerated death benefit riders treated as life insurance
+     For purposes of this part–
+    (1) In general
+       Any reference to a life insurance contract shall be treated as including a reference to a qualified accelerated death benefit rider on such contract.
+    (2) Qualified accelerated death benefit riders
+       For purposes of this subsection, the term ””qualified accelerated death benefit rider““ means any rider on a life insurance contract if the only payments under the rider are payments meeting the requirements of section 101(g).
+    (3) Exception for long-term care riders
+       Paragraph (1) shall not apply to any rider which is treated as a long-term care insurance contract under section 7702B.

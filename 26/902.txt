@@ -1,0 +1,57 @@
+  (a) Taxes paid by foreign corporation treated as paid by domestic corporation
+     For purposes of this subpart, a domestic corporation which owns 10 percent or more of the voting stock of a foreign corporation from which it receives dividends in any taxable year shall be deemed to have paid the same proportion of such foreign corporation“s post-1986 foreign income taxes as–
+    (1) the amount of such dividends (determined without regard to section 78), bears to
+    (2) such foreign corporation“s post-1986 undistributed earnings.
+  (b) Deemed taxes increased in case of certain lower tier corporations
+    (1) In general
+       If–
+      (A) any foreign corporation is a member of a qualified group, and
+      (B) such foreign corporation owns 10 percent or more of the voting stock of another member of such group from which it receives dividends in any taxable year,
+       such foreign corporation shall be deemed to have paid the same proportion of such other member“s post-1986 foreign income taxes as would be determined under subsection (a) if such foreign corporation were a domestic corporation.
+    (2) Qualified group
+       For purposes of paragraph (1), the term ””qualified group““ means–
+      (A) the foreign corporation described in subsection (a), and
+      (B) any other foreign corporation if–
+        (i) the domestic corporation owns at least 5 percent of the voting stock of such other foreign corporation indirectly through a chain of foreign corporations connected through stock ownership of at least 10 percent of their voting stock,
+        (ii) the foreign corporation described in subsection (a) is the first tier corporation in such chain, and
+        (iii) such other corporation is not below the sixth tier in such chain.
+       The term ””qualified group““ shall not include any foreign corporation below the third tier in the chain referred to in clause (i) unless such foreign corporation is a controlled foreign corporation (as defined in section 957) and the domestic corporation is a United States shareholder (as defined in section 951(b)) in such foreign corporation. Paragraph (1) shall apply to those taxes paid by a member of the qualified group below the third tier only with respect to periods during which it was a controlled foreign corporation.
+  (c) Definitions and special rules
+     For purposes of this section–
+    (1) Post-1986 undistributed earnings
+       The term ””post-1986 undistributed earnings““ means the amount of the earnings and profits of the foreign corporation (computed in accordance with sections 964(a) and 986) accumulated in taxable years beginning after December 31, 1986–
+      (A) as of the close of the taxable year of the foreign corporation in which the dividend is distributed, and
+      (B) without diminution by reason of dividends distributed during such taxable year.
+    (2) Post-1986 foreign income taxes
+       The term ””post-1986 foreign income taxes““ means the sum of–
+      (A) the foreign income taxes with respect to the taxable year of the foreign corporation in which the dividend is distributed, and
+      (B) the foreign income taxes with respect to prior taxable years beginning after December 31, 1986, to the extent such foreign taxes were not attributable to dividends distributed by the foreign corporation in prior taxable years.
+    (3) Special rule where foreign corporation first qualifies after December 31, 1986
+      (A) In general
+         If the 1st day on which the requirements of subparagraph (B) are met with respect to any foreign corporation is in a taxable year of such corporation beginning after December 31, 1986, the post-1986 undistributed earnings and the post-1986 foreign income taxes of such foreign corporation shall be determined by taking into account only periods beginning on and after the 1st day of the 1st taxable year in which such requirements are met.
+      (B) Ownership requirements
+         The requirements of this subparagraph are met with respect to any foreign corporation if–
+        (i) 10 percent or more of the voting stock of such foreign corporation is owned by a domestic corporation, or
+        (ii) the requirements of subsection (b)(2) are met with respect to such foreign corporation.
+    (4) Foreign income taxes
+      (A) In general
+         The term ””foreign income taxes““ means any income, war profits, or excess profits taxes paid by the foreign corporation to any foreign country or possession of the United States.
+      (B) Treatment of deemed taxes
+         Except for purposes of determining the amount of the post-1986 foreign income taxes of a sixth tier foreign corporation referred to in subsection (b)(2), the term ””foreign income taxes““ includes any such taxes deemed to be paid by the foreign corporation under this section.
+    (5) Accounting periods
+       In the case of a foreign corporation the income, war profits, and excess profits taxes of which are determined on the basis of an accounting period of less than 1 year, the word ””year““ as used in this subsection shall be construed to mean such accounting period.
+    (6) Treatment of distributions from earnings before 1987
+      (A) In general
+         In the case of any dividend paid by a foreign corporation out of accumulated profits (as defined in this section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) for taxable years beginning before the 1st taxable year taken into account in determining the post-1986 undistributed earnings of such corporation–
+        (i) this section (as amended by the Tax Reform Act of 1986) shall not apply, but
+        (ii) this section (as in effect on the day before the date of the enactment of such Act) shall apply.
+      (B) Dividends paid first out of post-1986 earnings
+         Any dividend in a taxable year beginning after December 31, 1986, shall be treated as made out of post-1986 undistributed earnings to the extent thereof.
+    (7) Constructive ownership through partnerships
+       Stock owned, directly or indirectly, by or for a partnership shall be considered as being owned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
+    (8) Regulations
+       The Secretary shall provide such regulations as may be necessary or appropriate to carry out the provisions of this section and section 960, including provisions which provide for the separate application of this section and section 960 to reflect the separate application of section 904 to separate types of income and loss.
+  (d) Cross references
+     T2(1) For inclusion in gross income of an amount equal to taxes deemed paid under subsection (a), see section 78.
+     T2(2) For application of subsections (a) and (b) with respect to taxes deemed paid in a prior taxable year by a United States shareholder with respect to a controlled foreign corporation, see section 960.
+     T2(3) For reduction of credit with respect to dividends paid out of post-1986 undistributed earnings for years for which certain information is not furnished, see section 6038.

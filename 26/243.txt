@@ -1,0 +1,45 @@
+  (a) General rule
+     In the case of a corporation, there shall be allowed as a deduction an amount equal to the following percentages of the amount received as dividends from a domestic corporation which is subject to taxation under this chapter:
+    (1) 70 percent, in the case of dividends other than dividends described in paragraph (2) or (3);
+    (2) 100 percent, in the case of dividends received by a small business investment company operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following); and
+    (3) 100 percent, in the case of qualifying dividends (as defined in subsection (b)(1)).
+  (b) Qualifying dividends
+    (1) In general
+       For purposes of this section, the term ””qualifying dividend““ means any dividend received by a corporation–
+      (A) if at the close of the day on which such dividend is received, such corporation is a member of the same affiliated group as the corporation distributing such dividend, and
+      (B) if–
+        (i) such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963, for which an election under section 1562 was not in effect, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group, or
+        (ii) such dividend is paid by a corporation with respect to which an election under section 936 is in effect for the taxable year in which such dividend is paid.
+    (2) Affiliated group
+       For purposes of this subsection:
+      (A) In general
+         The term ””affiliated group““ has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2), 1504(b)(4), and 1504(c) shall not apply.
+      (B) Group must be consistent in foreign tax treatment
+         The requirements of paragraph (1)(A) shall not be treated as being met with respect to any dividend received by a corporation if, for any taxable year which includes the day on which such dividend is received–
+        (i) 1 or more members of the affiliated group referred to in paragraph (1)(A) choose to any extent to take the benefits of section 901, and
+        (ii) 1 or more other members of such group claim to any extent a deduction for taxes otherwise creditable under section 901.
+    (3) Special rule for groups which include life insurance companies
+      (A) In general
+         In the case of an affiliated group which includes 1 or more insurance companies under section 801, no dividend by any member of such group shall be treated as a qualifying dividend unless an election under this paragraph is in effect for the taxable year in which the dividend is received. The preceding sentence shall not apply in the case of a dividend described in paragraph (1)(B)(ii).
+      (B) Effect of election
+         If an election under this paragraph is in effect with respect to any affiliated group–
+        (i) part II of subchapter B of chapter 6 (relating to certain controlled corporations) shall be applied with respect to the members of such group without regard to sections 1563(a)(4) and 1563(b)(2)(D), and
+        (ii) for purposes of this subsection, a distribution by any member of such group which is subject to tax under section 801 shall not be treated as a qualifying dividend if such distribution is out of earnings and profits for a taxable year for which an election under this paragraph is not effective and for which such distributing corporation was not a component member of a controlled group of corporations within the meaning of section 1563 solely by reason of section 1563(b)(2)(D).
+      (C) Election
+         An election under this paragraph shall be made by the common parent of the affiliated group and at such time and in such manner as the Secretary shall by regulations prescribe. Any such election shall be binding on all members of such group and may be revoked only with the consent of the Secretary.
+  (c) Retention of 80-percent dividends received deduction for dividends from 20-percent owned corporations
+    (1) In general
+       In the case of any dividend received from a 20-percent owned corporation–
+      (A) subsection (a)(1) of this section, and
+      (B) subsections (a)(3) and (b)(2) of section 244,
+       shall be applied by substituting ””80 percent““ for ””70 percent““.
+    (2) 20-percent owned corporation
+       For purposes of this section, the term ””20-percent owned corporation““ means any corporation if 20 percent or more of the stock of such corporation (by vote and value) is owned by the taxpayer. For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.
+  (d) Special rules for certain distributions
+     For purposes of subsection (a)–
+    (1) Any amount allowed as a deduction under section 591 (relating to deduction for dividends paid by mutual savings banks, etc.) shall not be treated as a dividend.
+    (2) A dividend received from a regulated investment company shall be subject to the limitations prescribed in section 854.
+    (3) Any dividend received from a real estate investment trust which, for the taxable year of the trust in which the dividend is paid, qualifies under part II of subchapter M (section 856 and following) shall not be treated as a dividend.
+    (4) Any dividend received which is described in section 244 (relating to dividends received on preferred stock of a public utility) shall not be treated as a dividend.
+  (e) Certain dividends from foreign corporations
+     For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulated by a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.

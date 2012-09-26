@@ -1,0 +1,112 @@
+  (a) Limitation on preexisting condition exclusion period; crediting for periods of previous coverage
+     Subject to subsection (d), a group health plan may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if–
+    (1) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
+    (2) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date; and
+    (3) the period of any such preexisting condition exclusion is reduced by the length of the aggregate of the periods of creditable coverage (if any) applicable to the participant or beneficiary as of the enrollment date.
+  (b) Definitions
+     For purposes of this section–
+    (1) Preexisting condition exclusion
+      (A) In general
+         The term ””preexisting condition exclusion““ means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+      (B) Treatment of genetic information
+         For purposes of this section, genetic information shall not be treated as a condition described in subsection (a)(1) in the absence of a diagnosis of the condition related to such information.
+    (2) Enrollment date
+       The term ””enrollment date““ means, with respect to an individual covered under a group health plan, the date of enrollment of the individual in the plan or, if earlier, the first day of the waiting period for such enrollment.
+    (3) Late enrollee
+       The term ””late enrollee““ means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during–
+      (A) the first period in which the individual is eligible to enroll under the plan, or
+      (B) a special enrollment period under subsection (f).
+    (4) Waiting period
+       The term ””waiting period““ means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+  (c) Rules relating to crediting previous coverage
+    (1) Creditable coverage defined
+       For purposes of this part, the term ””creditable coverage““ means, with respect to an individual, coverage of the individual under any of the following:
+      (A) A group health plan.
+      (B) Health insurance coverage.
+      (C) Part A or part B of title XVIII of the Social Security Act.
+      (D) Title XIX of the Social Security Act, other than coverage consisting solely of benefits under section 1928.
+      (E) Chapter 55 of title 10, United States Code.
+      (F) A medical care program of the Indian Health Service or of a tribal organization.
+      (G) A State health benefits risk pool.
+      (H) A health plan offered under chapter 89 of title 5, United States Code.
+      (I) A public health plan (as defined in regulations).
+      (J) A health benefit plan under section 5(e) of the Peace Corps Act (22 U.S.C. 2504(e)).
+       Such term does not include coverage consisting solely of coverage of excepted benefits (as defined in section 9832(c)).
+    (2) Not counting periods before significant breaks in coverage
+      (A) In general
+         A period of creditable coverage shall not be counted, with respect to enrollment of an individual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
+      (B) Waiting period not treated as a break in coverage
+         For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group health plan or is in an affiliation period shall not be taken into account in determining the continuous period under subparagraph (A).
+      (C) Affiliation period
+        (i) In general
+           For purposes of this section, the term ””affiliation period““ means a period which, under the terms of the health insurance coverage offered by the health maintenance organization, must expire before the health insurance coverage becomes effective. During such an affiliation period, the organization is not required to provide health care services or benefits and no premium shall be charged to the participant or beneficiary.
+        (ii) Beginning
+           Such period shall begin on the enrollment date.
+        (iii) Runs concurrently with waiting periods
+           Any such affiliation period shall run concurrently with any waiting period under the plan.
+    (3) Method of crediting coverage
+      (A) Standard method
+         Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3), a group health plan shall count a period of creditable coverage without regard to the specific benefits for which coverage is offered during the period.
+      (B) Election of alternative method
+         A group health plan may elect to apply subsection (a)(3) based on coverage of any benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
+      (C) Plan notice
+         In the case of an election with respect to a group health plan under subparagraph (B), the plan shall–
+        (i) prominently state in any disclosure statements concerning the plan, and state to each enrollee at the time of enrollment under the plan, that the plan has made such election, and
+        (ii) include in such statements a description of the effect of this election.
+    (4) Establishment of period
+       Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
+  (d) Exceptions
+    (1) Exclusion not applicable to certain newborns
+       Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
+    (2) Exclusion not applicable to certain adopted children
+       Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
+    (3) Exclusion not applicable to pregnancy
+       For purposes of this section, a group health plan may not impose any preexisting condition exclusion relating to pregnancy as a preexisting condition.
+    (4) Loss if break in coverage
+       Paragraphs (1) and (2) shall no longer apply to an individual after the end of the first 63-day period during all of which the individual was not covered under any creditable coverage.
+  (e) Certifications and disclosure of coverage
+    (1) Requirement for certification of period of creditable coverage
+      (A) In general
+         A group health plan shall provide the certification described in subparagraph (B)–
+        (i) at the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision,
+        (ii) in the case of an individual becoming covered under such a provision, at the time the individual ceases to be covered under such provision, and
+        (iii) on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in clause (i) or (ii), whichever is later.
+         The certification under clause (i) may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.
+      (B) Certification
+         The certification described in this subparagraph is a written certification of–
+        (i) the period of creditable coverage of the individual under such plan and the coverage under such COBRA continuation provision, and
+        (ii) the waiting period (if any) (and affiliation period, if applicable) imposed with respect to the individual for any coverage under such plan.
+      (C) Issuer compliance
+         To the extent that medical care under a group health plan consists of health insurance coverage offered in connection with the plan, the plan is deemed to have satisfied the certification requirement under this paragraph if the issuer provides for such certification in accordance with this paragraph.
+    (2) Disclosure of information on previous benefits
+      (A) In general
+         In the case of an election described in subsection (c)(3)(B) by a group health plan, if the plan enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)–
+        (i) upon request of such plan, the entity which issued the certification provided by the individual shall promptly disclose to such requesting plan information on coverage of classes and categories of health benefits available under such entity“s plan, and
+        (ii) such entity may charge the requesting plan or issuer for the reasonable cost of disclosing such information.
+    (3) Regulations
+       The Secretary shall establish rules to prevent an entity“s failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
+  (f) Special enrollment periods
+    (1) Individuals losing other coverage
+       A group health plan shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if each of the following conditions is met:
+      (A) The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or individual.
+      (B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor (or the health insurance issuer offering health insurance coverage in connection with the plan) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
+      (C) The employee“s or dependent“s coverage described in subparagraph (A)–
+        (i) was under a COBRA continuation provision and the coverage under such provision was exhausted; or
+        (ii) was not under such a provision and either the coverage was terminated as a result of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
+      (D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion of coverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
+    (2) For dependent beneficiaries
+      (A) In general
+         If–
+        (i) a group health plan makes coverage available with respect to a dependent of an individual,
+        (ii) the individual is a participant under the plan (or has met any waiting period applicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period), and
+        (iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
+         the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person (or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
+      (B) Dependent special enrollment period
+         The dependent special enrollment period under this subparagraph shall be a period of not less than 30 days and shall begin on the later of–
+        (i) the date dependent coverage is made available, or
+        (ii) the date of the marriage, birth, or adoption or placement for adoption (as the case may be) described in subparagraph (A)(iii).
+      (C) No waiting period
+         If an individual seeks coverage of a dependent during the first 30 days of such a dependent special enrollment period, the coverage of the dependent shall become effective–
+        (i) in the case of marriage, not later than the first day of the first month beginning after the date the completed request for enrollment is received;
+        (ii) in the case of a dependent“s birth, as of the date of such birth; or
+        (iii) in the case of a dependent“s adoption or placement for adoption, the date of such adoption or placement for adoption.

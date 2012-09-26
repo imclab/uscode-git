@@ -1,0 +1,50 @@
+  (a) Allowance of credit
+     In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of so much of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,000.
+  (b) Applicable percentage
+     For purposes of this section, the applicable percentage is the percentage determined in accordance with the following table:
+      
+       D$30,000 D  D$22,500 D  D$15,000 D50
+     30,000 D 32,500 D22,500 D 24,375 D15,000 D 16,250 D20
+     32,500 D 50,000 D24,375 D 37,500 D16,250 D 25,000 D10
+     50,000 D  D37,500 D  D25,000 D  D0
+  (c) Eligible individual
+     For purposes of this section–
+    (1) In general
+       The term ””eligible individual““ means any individual if such individual has attained the age of 18 as of the close of the taxable year.
+    (2) Dependents and full-time students not eligible
+       The term ””eligible individual““ shall not include–
+      (A) any individual with respect to whom a deduction under section 151 is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual“s taxable year begins, and
+      (B) any individual who is a student (as defined in section 152(f)(2)).
+  (d) Qualified retirement savings contributions
+     For purposes of this section–
+    (1) In general
+       The term ””qualified retirement savings contributions““ means, with respect to any taxable year, the sum of–
+      (A) the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
+      (B) the amount of–
+        (i) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
+        (ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and
+      (C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)).
+    (2) Reduction for certain distributions
+      (A) In general
+         The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
+      (B) Testing period
+         For purposes of subparagraph (A), the testing period, with respect to a taxable year, is the period which includes–
+        (i) such taxable year,
+        (ii) the 2 preceding taxable years, and
+        (iii) the period after such taxable year and before the due date (including extensions) for filing the return of tax for such taxable year.
+      (C) Excepted distributions
+         There shall not be taken into account under subparagraph (A)–
+        (i) any distribution referred to in section 72(p), 401(k)(8), 401(m)(6), 402(g)(2), 404(k), or 408(d)(4), and
+        (ii) any distribution to which section 408A(d)(3) applies.
+      (D) Treatment of distributions received by spouse of individual
+         For purposes of determining distributions received by an individual under subparagraph (A) for any taxable year, any distribution received by the spouse of such individual shall be treated as received by such individual if such individual and spouse file a joint return for such taxable year and for the taxable year during which the spouse receives the distribution.
+  (e) Adjusted gross income
+     For purposes of this section, adjusted gross income shall be determined without regard to sections 911, 931, and 933.
+  (f) Investment in the contract
+     Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
+  (g) Limitation based on amount of tax
+     In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of–
+    (1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+    (2) the sum of the credits allowable under this subpart (other than this section and section 23) and section 27 for the taxable year.
+  (h) Termination
+     This section shall not apply to taxable years beginning after December 31, 2006.

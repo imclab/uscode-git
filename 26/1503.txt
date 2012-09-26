@@ -1,0 +1,76 @@
+  (a) [General rule] \1\N
+     In any case in which a consolidated return is made or is required to be made, the tax shall be determined, computed, assessed, collected, and adjusted in accordance with the regulations under section 1502 prescribed before the last day prescribed by law for the filing of such return.
+     [(b) Repealed. Pub. L. 94–455, title X, § 1052(c)(5), Oct. 4, 1976, 90 Stat. 1648]
+  (c) Special rule for application of certain losses against income of insurance companies taxed under section 801
+    (1) In general
+       If an election under section 1504(c)(2) is in effect for the taxable year and the consolidated taxable income of the members of the group not taxed under section 801 results in a consolidated net operating loss for such taxable year, then under regulations prescribed by the Secretary, the amount of such loss which cannot be absorbed in the applicable carry-back periods against the taxable income of such members not taxed under section 801 shall be taken into account in determining the consolidated taxable income of the affiliated group for such taxable year to the extent of 35 percent of such loss or 35 percent of the taxable income of the members taxed under section 801, whichever is less. The unused portion of such loss shall be available as a carryover, subject to the same limitations (applicable to the sum of the loss for the carryover year and the loss (or losses) carried over to such year), in applicable carryover years.
+    (2) Losses of recent nonlife affiliates
+       Notwithstanding the provisions of paragraph (1), a net operating loss for a taxable year of a member of the group not taxed under section 801 shall not be taken into account in determining the taxable income of a member taxed under section 801 (either for the taxable year or as a carryover or carryback) if such taxable year precedes the sixth taxable year such members have been members of the same affiliated group (determined without regard to section 1504(b)(2)).
+  (d) Dual consolidated loss
+    (1) In general
+       The dual consolidated loss for any taxable year of any corporation shall not be allowed to reduce the taxable income of any other member of the affiliated group for the taxable year or any other taxable year.
+    (2) Dual consolidated loss
+       For purposes of this section–
+      (A) In general
+         Except as provided in subparagraph (B), the term ””dual consolidated loss““ means any net operating loss of a domestic corporation which is subject to an income tax of a foreign country on its income without regard to whether such income is from sources in or outside of such foreign country, or is subject to such a tax on a residence basis.
+      (B) Special rule where loss not used under foreign law
+         To the extent provided in regulations, the term ””dual consolidated loss““ shall not include any loss which, under the foreign income tax law, does not offset the income of any foreign corporation.
+    (3) Treatment of losses of separate business units
+       To the extent provided in regulations, any loss of a separate unit of a domestic corporation shall be subject to the limitations of this subsection in the same manner as if such unit were a wholly owned subsidiary of such corporation.
+    (4) Income on assets acquired after the loss
+       The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this subsection by contributing assets to the corporation with the dual consolidated loss after such loss was sustained.
+  (e) Special rule for determining adjustments to basis
+    (1) In general
+       Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of an excess loss account, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)–
+      (A) such earnings and profits shall be determined as if section 312 were applied for such taxable year (and all preceding consolidated years of the member with respect to such group) without regard to subsections (k) and (n) thereof, and
+      (B) earnings and profits shall not include any amount excluded from gross income under section 108 to the extent the amount so excluded was not applied to reduce tax attributes (other than basis in property).
+    (2) Definitions
+       For purposes of this subsection–
+      (A) Intragroup stock
+         The term ””intragroup stock““ means any stock which–
+        (i) is in a corporation which is or was a member of an affiliated group of corporations, and
+        (ii) is held by another corporation which is or was a member of such group.
+         Such term includes any other property the basis of which is determined (in whole or in part) by reference to the basis of stock described in the preceding sentence.
+      (B) Consolidated year
+         The term ””consolidated year““ means any taxable year for which the affiliated group makes a consolidated return.
+      (C) Application of section 312(n)(7) not affected
+         The reference in paragraph (1) to subsection (n) of section 312 shall be treated as not including a reference to paragraph (7) of such subsection.
+    (3) Adjustments
+       Under regulations prescribed by the Secretary, proper adjustments shall be made in the application of paragraph (1)–
+      (A) in the case of any property acquired by the corporation before consolidation, for the difference between the adjusted basis of such property for purposes of computing taxable income and its adjusted basis for purposes of computing earnings and profits, and
+      (B) in the case of any property, for any basis adjustment under section 50(c).
+    (4) Elimination of election to reduce basis of indebtedness
+       Nothing in the regulations prescribed under section 1502 shall permit any reduction in the amount otherwise included in gross income by reason of an excess loss account if such reduction is on account of a reduction in the basis of indebtedness.
+  (f) Limitation on use of group losses to offset income of subsidiary paying preferred dividends
+    (1) In general
+       In the case of any subsidiary distributing during any taxable year dividends on any applicable preferred stock–
+      (A) no group loss item shall be allowed to reduce the disqualified separately computed income of such subsidiary for such taxable year, and
+      (B) no group credit item shall be allowed against the tax imposed by this chapter on such disqualified separately computed income.
+    (2) Group items
+       For purposes of this subsection–
+      (A) Group loss item
+         The term ””group loss item““ means any of the following items of any other member of the affiliated group which includes the subsidiary:
+        (i) Any net operating loss and any net operating loss carryover or carryback under section 172.
+        (ii) Any loss from the sale or exchange of any capital asset and any capital loss carryover or carryback under section 1212.
+      (B) Group credit item
+         The term ””group credit item““ means any credit allowable under part IV of subchapter A of chapter 1 (other than section 34) to any other member of the affiliated group which includes the subsidiary and any carryover or carryback of any such credit.
+    (3) Other definitions
+       For purposes of this subsection–
+      (A) Disqualified separately computed income
+         The term ””disqualified separately computed income““ means the portion of the separately computed taxable income of the subsidiary which does not exceed the dividends distributed by the subsidiary during the taxable year on applicable preferred stock.
+      (B) Separately computed taxable income
+         The term ””separately computed taxable income““ means the separate taxable income of the subsidiary for the taxable year determined–
+        (i) by taking into account gains and losses from the sale or exchange of a capital asset and section 1231 gains and losses,
+        (ii) without regard to any net operating loss or capital loss carryover or carryback, and
+        (iii) with such adjustments as the Secretary may prescribe.
+      (C) Subsidiary
+         The term ””subsidiary““ means any corporation which is a member of an affiliated group filing a consolidated return other than the common parent.
+      (D) Applicable preferred stock
+         The term ””applicable preferred stock““ means stock described in section 1504(a)(4) in the subsidiary which is–
+        (i) issued after November 17, 1989, and
+        (ii) held by a person other than a member of the same affiliated group as the subsidiary.
+    (4) Regulations
+       The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this subsection, including regulations–
+      (A) to prevent the avoidance of this subsection through the transfer of built-in losses to the subsidiary,
+      (B) to provide rules for cases in which the subsidiary owns (directly or indirectly) stock in another member of the affiliated group, and
+      (C) to provide for the application of this subsection where dividends are not paid currently, where the redemption and liquidation rights of the applicable preferred stock exceed the issue price for such stock, or where the stock is otherwise structured to avoid the purposes of this subsection.

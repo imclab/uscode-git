@@ -1,1 +1,59 @@
-   It shall be the duty of the Secretary of the Interior, and the officers charged by law with the distribution of supplies to the Indians, under appropriations made by law, to distribute them and pay them out to the Indians entitled to them, in such proper proportions as that the amount of appropriation made for the current year shall not be expended before the end of such current year, so as to prevent deficiencies; and no expenditure shall be made or liability incurred on the part of the Government on account of the Indian Service for any fiscal year (unless in compliance with existing law) beyond the amount of money previously appropriated for said service during such year.
+  (a) General rule
+     In the case of an individual who pays qualified higher education expenses during the taxable year, no amount shall be includible in gross income by reason of the redemption during such year of any qualified United States savings bond.
+  (b) Limitations
+    (1) Limitation where redemption proceeds exceed higher education expenses
+      (A) In general
+         If–
+        (i) the aggregate proceeds of qualified United States savings bonds redeemed by the taxpayer during the taxable year exceed
+        (ii) the qualified higher education expenses paid by the taxpayer during such taxable year,
+         the amount excludable from gross income under subsection (a) shall not exceed the applicable fraction of the amount excludable from gross income under subsection (a) without regard to this subsection.
+      (B) Applicable fraction
+         For purposes of subparagraph (A), the term ””applicable fraction““ means the fraction the numerator of which is the amount described in subparagraph (A)(ii) and the denominator of which is the amount described in subparagraph (A)(i).
+    (2) Limitation based on modified adjusted gross income
+      (A) In general
+         If the modified adjusted gross income of the taxpayer for the taxable year exceeds $40,000 ($60,000 in the case of a joint return), the amount which would (but for this paragraph) be excludable from gross income under subsection (a) shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which would be so excludable as such excess bears to $15,000 ($30,000 in the case of a joint return).
+      (B) Inflation adjustment
+         In the case of any taxable year beginning in a calendar year after 1990, the $40,000 and $60,000 amounts contained in subparagraph (A) shall be increased by an amount equal to–
+        (i) such dollar amount, multiplied by
+        (ii) the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 1989““ for ””calendar year 1992““ in subparagraph (B) thereof.
+      (C) Rounding
+         If any amount as adjusted under subparagraph (B) is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
+  (c) Definitions
+     For purposes of this section–
+    (1) Qualified United States savings bond
+       The term ””qualified United States savings bond““ means any United States savings bond issued–
+      (A) after December 31, 1989,
+      (B) to an individual who has attained age 24 before the date of issuance, and
+      (C) at discount under section 3105 of title 31, United States Code.
+    (2) Qualified higher education expenses
+      (A) In general
+         The term ””qualified higher education expenses““ means tuition and fees required for the enrollment or attendance of–
+        (i) the taxpayer,
+        (ii) the taxpayer“s spouse, or
+        (iii) any dependent of the taxpayer with respect to whom the taxpayer is allowed a deduction under section 151,
+         at an eligible educational institution.
+      (B) Exception for education involving sports, etc.
+         Such term shall not include expenses with respect to any course or other education involving sports, games, or hobbies other than as part of a degree program.
+      (C) Contributions to qualified tuition program and Coverdell education savings accounts
+         Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
+    (3) Eligible educational institution
+       The term ””eligible educational institution““ has the meaning given such term by section 529(e)(5).
+    (4) Modified adjusted gross income
+       The term ””modified adjusted gross income““ means the adjusted gross income of the taxpayer for the taxable year determined–
+      (A) without regard to this section and sections 137, 199, 221, 222, 911, 931, and 933, and
+      (B) after the application of sections 86, 469, and 219.
+  (d) Special rules
+    (1) Adjustment for certain scholarships and veterans benefits
+       The amount of qualified higher education expenses otherwise taken into account under subsection (a) with respect to the education of an individual shall be reduced (before the application of subsection (b)) by the sum of the amounts received with respect to such individual for the taxable year as–
+      (A) a qualified scholarship which under section 117 is not includable in gross income,
+      (B) an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code,
+      (C) a payment (other than a gift, bequest, devise, or inheritance within the meaning of section 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States, or
+      (D) a payment, waiver, or reimbursement of qualified higher education expenses under a qualified tuition program (within the meaning of section 529(b)).
+    (2) Coordination with other higher education benefits
+       The amount of the qualified higher education expenses otherwise taken into account under subsection (a) with respect to the education of an individual shall be reduced (before the application of subsection (b)) by–
+      (A) the amount of such expenses which are taken into account in determining the credit allowed to the taxpayer or any other person under section 25A with respect to such expenses; and
+      (B) the amount of such expenses which are taken into account in determining the exclusions under sections 529(c)(3)(B) and 530(d)(2).
+    (3) No exclusion for married individuals filing separate returns
+       If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and his spouse file a joint return for the taxable year.
+    (4) Regulations
+       The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.s

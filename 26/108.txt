@@ -1,0 +1,207 @@
+  (a) Exclusion from gross income
+    (1) In general
+       Gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of indebtedness of the taxpayer if–
+      (A) the discharge occurs in a title 11 case,
+      (B) the discharge occurs when the taxpayer is insolvent,
+      (C) the indebtedness discharged is qualified farm indebtedness, or
+      (D) in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness.
+    (2) Coordination of exclusions
+      (A) Title 11 exclusion takes precedence
+         Subparagraphs (B), (C), and (D) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case.
+      (B) Insolvency exclusion takes precedence over qualified farm exclusion and qualified real property business exclusion
+         Subparagraphs (C) and (D) of paragraph (1) shall not apply to a discharge to the extent the taxpayer is insolvent.
+    (3) Insolvency exclusion limited to amount of insolvency
+       In the case of a discharge to which paragraph (1)(B) applies, the amount excluded under paragraph (1)(B) shall not exceed the amount by which the taxpayer is insolvent.
+  (b) Reduction of tax attributes
+    (1) In general
+       The amount excluded from gross income under subparagraph (A), (B), or (C) of subsection (a)(1) shall be applied to reduce the tax attributes of the taxpayer as provided in paragraph (2).
+    (2) Tax attributes affected; order of reduction
+       Except as provided in paragraph (5), the reduction referred to in paragraph (1) shall be made in the following tax attributes in the following order:
+      (A) NOL
+         Any net operating loss for the taxable year of the discharge, and any net operating loss carryover to such taxable year.
+      (B) General business credit
+         Any carryover to or from the taxable year of a discharge of an amount for purposes for determining the amount allowable as a credit under section 38 (relating to general business credit).
+      (C) Minimum tax credit
+         The amount of the minimum tax credit available under section 53(b) as of the beginning of the taxable year immediately following the taxable year of the discharge.
+      (D) Capital loss carryovers
+         Any net capital loss for the taxable year of the discharge, and any capital loss carryover to such taxable year under section 1212.
+      (E) Basis reduction
+        (i) In general
+           The basis of the property of the taxpayer.
+        (ii) Cross reference
+           T2For provisions for making the reduction described in clause (i), see section 1017.
+      (F) Passive activity loss and credit carryovers
+         Any passive activity loss or credit carryover of the taxpayer under section 469(b) from the taxable year of the discharge.
+      (G) Foreign tax credit carryovers
+         Any carryover to or from the taxable year of the discharge for purposes of determining the amount of the credit allowable under section 27.
+    (3) Amount of reduction
+      (A) In general
+         Except as provided in subparagraph (B), the reductions described in paragraph (2) shall be one dollar for each dollar excluded by subsection (a).
+      (B) Credit carryover reduction
+         The reductions described in subparagraphs (B), (C), and (G) shall be 33\1/3\ cents for each dollar excluded by subsection (a). The reduction described in subparagraph (F) in any passive activity credit carryover shall be 33\1/3\ cents for each dollar excluded by subsection (a).
+    (4) Ordering rules
+      (A) Reductions made after determination of tax for year
+         The reductions described in paragraph (2) shall be made after the determination of the tax imposed by this chapter for the taxable year of the discharge.
+      (B) Reductions under subparagraph (A) or (D) of paragraph (2)
+         The reductions described in subparagraph (A) or (D) of paragraph (2) (as the case may be) shall be made first in the loss for the taxable year of the discharge and then in the carryovers to such taxable year in the order of the taxable years from which each such carryover arose.
+      (C) Reductions under subparagraphs (B) and (G) of paragraph (2)
+         The reductions described in subparagraphs (B) and (G) of paragraph (2) shall be made in the order in which carryovers are taken into account under this chapter for the taxable year of the discharge.
+    (5) Election to apply reduction first against depreciable property
+      (A) In general
+         The taxpayer may elect to apply any portion of the reduction referred to in paragraph (1) to the reduction under section 1017 of the basis of the depreciable property of the taxpayer.
+      (B) Limitation
+         The amount to which an election under subparagraph (A) applies shall not exceed the aggregate adjusted bases of the depreciable property held by the taxpayer as of the beginning of the taxable year following the taxable year in which the discharge occurs.
+      (C) Other tax attributes not reduced
+         Paragraph (2) shall not apply to any amount to which an election under this paragraph applies.
+  (c) Treatment of discharge of qualified real property business indebtedness
+    (1) Basis reduction
+      (A) In general
+         The amount excluded from gross income under subparagraph (D) of subsection (a)(1) shall be applied to reduce the basis of the depreciable real property of the taxpayer.
+      (B) Cross reference
+         For provisions making the reduction described in subparagraph (A), see section 1017.
+    (2) Limitations
+      (A) Indebtedness in excess of value
+         The amount excluded under subparagraph (D) of subsection (a)(1) with respect to any qualified real property business indebtedness shall not exceed the excess (if any) of–
+        (i) the outstanding principal amount of such indebtedness (immediately before the discharge), over
+        (ii) the fair market value of the real property described in paragraph (3)(A) (as of such time), reduced by the outstanding principal amount of any other qualified real property business indebtedness secured by such property (as of such time).
+      (B) Overall limitation
+         The amount excluded under subparagraph (D) of subsection (a)(1) shall not exceed the aggregate adjusted bases of depreciable real property (determined after any reductions under subsections (b) and (g)) held by the taxpayer immediately before the discharge (other than depreciable real property acquired in contemplation of such discharge).
+    (3) Qualified real property business indebtedness
+       The term ””qualified real property business indebtedness““ means indebtedness which–
+      (A) was incurred or assumed by the taxpayer in connection with real property used in a trade or business and is secured by such real property,
+      (B) was incurred or assumed before January 1, 1993, or if incurred or assumed on or after such date, is qualified acquisition indebtedness, and
+      (C) with respect to which such taxpayer makes an election to have this paragraph apply.
+       Such term shall not include qualified farm indebtedness. Indebtedness under subparagraph (B) shall include indebtedness resulting from the refinancing of indebtedness under subparagraph (B) (or this sentence), but only to the extent it does not exceed the amount of the indebtedness being refinanced.
+    (4) Qualified acquisition indebtedness
+       For purposes of paragraph (3)(B), the term ””qualified acquisition indebtedness““ means, with respect to any real property described in paragraph (3)(A), indebtedness incurred or assumed to acquire, construct, reconstruct, or substantially improve such property.
+    (5) Regulations
+       The Secretary shall issue such regulations as are necessary to carry out this subsection, including regulations preventing the abuse of this subsection through cross-collateralization or other means.
+  (d) Meaning of terms; special rules relating to certain provisions
+    (1) Indebtedness of taxpayer
+       For purposes of this section, the term ””indebtedness of the taxpayer““ means any indebtedness–
+      (A) for which the taxpayer is liable, or
+      (B) subject to which the taxpayer holds property.
+    (2) Title 11 case
+       For purposes of this section, the term ””title 11 case““ means a case under title 11 of the United States Code (relating to bankruptcy), but only if the taxpayer is under the jurisdiction of the court in such case and the discharge of indebtedness is granted by the court or is pursuant to a plan approved by the court.
+    (3) Insolvent
+       For purposes of this section, the term ””insolvent““ means the excess of liabilities over the fair market value of assets. With respect to any discharge, whether or not the taxpayer is insolvent, and the amount by which the taxpayer is insolvent, shall be determined on the basis of the taxpayer“s assets and liabilities immediately before the discharge.
+       [(4) Repealed. Pub. L. 99–514, title VIII, § 822(b)(3)(A), Oct. 22, 1986, 100 Stat. 2373]
+  (5) Depreciable property
+     The term ””depreciable property““ has the same meaning as when used in section 1017.
+  (6) Certain provisions to be applied at partner level
+     In the case of a partnership, subsections (a), (b), (c), and (g) shall be applied at the partner level.
+  (7) Special rules for S corporation
+    (A) Certain provisions to be applied at corporate level
+       In the case of an S corporation, subsections (a), (b), (c), and (g) shall be applied at the corporate level, including by not taking into account under section 1366(a) any amount excluded under subsection (a) of this section.
+    (B) Reduction in carryover of disallowed losses and deductions
+       In the case of an S corporation, for purposes of subparagraph (A) of subsection (b)(2), any loss or deduction which is disallowed for the taxable year of the discharge under section 1366(d)(1) shall be treated as a net operating loss for such taxable year. The preceding sentence shall not apply to any discharge to the extent that subsection (a)(1)(D) applies to such discharge.
+    (C) Coordination with basis adjustments under section 1367(b)(2)
+       For purposes of subsection (e)(6), a shareholder“s adjusted basis in indebtedness of an S corporation shall be determined without regard to any adjustments made under section 1367(b)(2).
+  (8) Reductions of tax attributes in title 11 cases of individuals to be made by estate
+     In any case under chapter 7 or 11 of title 11 of the United States Code to which section 1398 applies, for purposes of paragraphs (1) and (5) of subsection (b) the estate (and not the individual) shall be treated as the taxpayer. The preceding sentence shall not apply for purposes of applying section 1017 to property transferred by the estate to the individual.
+  (9) Time for making election, etc.
+    (A) Time
+       An election under paragraph (5) of subsection (b) or under paragraph (3)(C) of subsection (c) shall be made on the taxpayer“s return for the taxable year in which the discharge occurs or at such other time as may be permitted in regulations prescribed by the Secretary.
+    (B) Revocation only with consent
+       An election referred to in subparagraph (A), once made, may be revoked only with the consent of the Secretary.
+    (C) Manner
+       An election referred to in subparagraph (A) shall be made in such manner as the Secretary may by regulations prescribe.
+  (10) Cross reference
+     T2For provision that no reduction is to be made in the basis of exempt property of an individual debtor, see section 1017(c)(1).
+  (e) General rules for discharge of indebtedness (including discharges not in title 11 cases or insolvency)
+     For purposes of this title–
+    (1) No other insolvency exception
+       Except as otherwise provided in this section, there shall be no insolvency exception from the general rule that gross income includes income from the discharge of indebtedness.
+    (2) Income not realized to extent of lost deductions
+       No income shall be realized from the discharge of indebtedness to the extent that payment of the liability would have given rise to a deduction.
+    (3) Adjustments for unamortized premium and discount
+       The amount taken into account with respect to any discharge shall be properly adjusted for unamortized premium and unamortized discount with respect to the indebtedness discharged.
+    (4) Acquisition of indebtedness by person related to debtor
+      (A) Treated as acquisition by debtor
+         For purposes of determining income of the debtor from discharge of indebtedness, to the extent provided in regulations prescribed by the Secretary, the acquisition of outstanding indebtedness by a person bearing a relationship to the debtor specified in section 267(b) or 707(b)(1) from a person who does not bear such a relationship to the debtor shall be treated as the acquisition of such indebtedness by the debtor. Such regulations shall provide for such adjustments in the treatment of any subsequent transactions involving the indebtedness as may be appropriate by reason of the application of the preceding sentence.
+      (B) Members of family
+         For purposes of this paragraph, sections 267(b) and 707(b)(1) shall be applied as if section 267(c)(4) provided that the family of an individual consists of the individual“s spouse, the individual“s children, grandchildren, and parents, and any spouse of the individual“s children or grandchildren.
+      (C) Entities under common control treated as related
+         For purposes of this paragraph, two entities which are treated as a single employer under subsection (b) or (c) of section 414 shall be treated as bearing a relationship to each other which is described in section 267(b).
+    (5) Purchase-money debt reduction for solvent debtor treated as price reduction
+       If–
+      (A) the debt of a purchaser of property to the seller of such property which arose out of the purchase of such property is reduced,
+      (B) such reduction does not occur–
+        (i) in a title 11 case, or
+        (ii) when the purchaser is insolvent, and
+      (C) but for this paragraph, such reduction would be treated as income to the purchaser from the discharge of indebtedness,
+       then such reduction shall be treated as a purchase price adjustment.
+    (6) Indebtedness contributed to capital
+       Except as provided in regulations, for purposes of determining income of the debtor from discharge of indebtedness, if a debtor corporation acquires its indebtedness from a shareholder as a contribution to capital–
+      (A) section 118 shall not apply, but
+      (B) such corporation shall be treated as having satisfied the indebtedness with an amount of money equal to the shareholder“s adjusted basis in the indebtedness.
+    (7) Recapture of gain on subsequent sale of stock
+      (A) In general
+         If a creditor acquires stock of a debtor corporation in satisfaction of such corporation“s indebtedness, for purposes of section 1245–
+        (i) such stock (and any other property the basis of which is determined in whole or in part by reference to the adjusted basis of such stock) shall be treated as section 1245 property,
+        (ii) the aggregate amount allowed to the creditor–
+          (I) as deductions under subsection (a) or (b) of section 166 (by reason of the worthlessness or partial worthlessness of the indebtedness), or
+          (II) as an ordinary loss on the exchange,
+              shall be treated as an amount allowed as a deduction for depreciation, and
+        (iii) an exchange of such stock qualifying under section 354(a), 355(a), or 356(a) shall be treated as an exchange to which section 1245(b)(3) applies.
+         The amount determined under clause (ii) shall be reduced by the amount (if any) included in the creditor“s gross income on the exchange.
+      (B) Special rule for cash basis taxpayers
+         In the case of any creditor who computes his taxable income under the cash receipts and disbursements method, proper adjustment shall be made in the amount taken into account under clause (ii) of subparagraph (A) for any amount which was not included in the creditor“s gross income but which would have been included in such gross income if such indebtedness had been satisfied in full.
+      (C) Stock of parent corporation
+         For purposes of this paragraph, stock of a corporation in control (within the meaning of section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
+      (D) Treatment of successor corporation
+         For purposes of this paragraph, the term ””debtor corporation““ includes a successor corporation.
+      (E) Partnership rule
+         Under regulations prescribed by the Secretary, rules similar to the rules of the foregoing subparagraphs of this paragraph shall apply with respect to the indebtedness of a partnership.
+    (8) Indebtedness satisfied by corporate stock or partnership interest
+       For purposes of determining income of a debtor from discharge of indebtedness, if–
+      (A) a debtor corporation transfers stock, or
+      (B) a debtor partnership transfers a capital or profits interest in such partnership,
+       to a creditor in satisfaction of its recourse or nonrecourse indebtedness, such corporation or partnership shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock or interest. In the case of any partnership, any discharge of indebtedness income recognized under this paragraph shall be included in the distributive shares of taxpayers which were the partners in the partnership immediately before such discharge.
+    (9) Discharge of indebtedness income not taken into account in determining whether entity meets REIT qualifications
+       Any amount included in gross income by reason of the discharge of indebtedness shall not be taken into account for purposes of paragraphs (2) and (3) of section 856(c).
+    (10) Indebtedness satisfied by issuance of debt instrument
+      (A) In general
+         For purposes of determining income of a debtor from discharge of indebtedness, if a debtor issues a debt instrument in satisfaction of indebtedness, such debtor shall be treated as having satisfied the indebtedness with an amount of money equal to the issue price of such debt instrument.
+      (B) Issue price
+         For purposes of subparagraph (A), the issue price of any debt instrument shall be determined under sections 1273 and 1274. For purposes of the preceding sentence, section 1273(b)(4) shall be applied by reducing the stated redemption price of any instrument by the portion of such stated redemption price which is treated as interest for purposes of this chapter.
+  (f) Student loans
+    (1) In general
+       In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan if such discharge was pursuant to a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers.
+    (2) Student loan
+       For purposes of this subsection, the term ””student loan““ means any loan to an individual to assist the individual in attending an educational organization described in section 170(b)(1)(A)(ii) made by–
+      (A) the United States, or an instrumentality or agency thereof,
+      (B) a State, territory, or possession of the United States, or the District of Columbia, or any political subdivision thereof,
+      (C) a public benefit corporation–
+        (i) which is exempt from taxation under section 501(c)(3),
+        (ii) which has assumed control over a State, county, or municipal hospital, and
+        (iii) whose employees have been deemed to be public employees under State law, or
+      (D) any educational organization described in section 170(b)(1)(A)(ii) if such loan is made–
+        (i) pursuant to an agreement with any entity described in subparagraph (A), (B), or (C) under which the funds from which the loan was made were provided to such educational organization, or
+        (ii) pursuant to a program of such educational organization which is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a).
+       The term ””student loan““ includes any loan made by an educational organization described in section 170(b)(1)(A)(ii) or by an organization exempt from tax under section 501(a) to refinance a loan to an individual to assist the individual in attending any such educational organization but only if the refinancing loan is pursuant to a program of the refinancing organization which is designed as described in subparagraph (D)(ii).
+    (3) Exception for discharges on account of services performed for certain lenders
+       Paragraph (1) shall not apply to the discharge of a loan made by an organization described in paragraph (2)(D) if the discharge is on account of services performed for either such organization.
+    (4) Payments under National Health Service Corps Loan Repayment Program and certain State loan repayment programs
+       In the case of an individual, gross income shall not include any amount received under section 338B(g) of the Public Health Service Act or under a State program described in section 338I of such Act.
+  (g) Special rules for discharge of qualified farm indebtedness
+    (1) Discharge must be by qualified person
+      (A) In general
+         Subparagraph (C) of subsection (a)(1) shall apply only if the discharge is by a qualified person.
+      (B) Qualified person
+         For purposes of subparagraph (A), the term ””qualified person““ has the meaning given to such term by section 49(a)(1)(D)(iv); except that such term shall include any Federal, State, or local government or agency or instrumentality thereof.
+    (2) Qualified farm indebtedness
+       For purposes of this section, indebtedness of a taxpayer shall be treated as qualified farm indebtedness if–
+      (A) such indebtedness was incurred directly in connection with the operation by the taxpayer of the trade or business of farming, and
+      (B) 50 percent or more of the aggregate gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the discharge of such indebtedness occurs is attributable to the trade or business of farming.
+    (3) Amount excluded cannot exceed sum of tax attributes and business and investment assets
+      (A) In general
+         The amount excluded under subparagraph (C) of subsection (a)(1) shall not exceed the sum of–
+        (i) the adjusted tax attributes of the taxpayer, and
+        (ii) the aggregate adjusted bases of qualified property held by the taxpayer as of the beginning of the taxable year following the taxable year in which the discharge occurs.
+      (B) Adjusted tax attributes
+         For purposes of subparagraph (A), the term ””adjusted tax attributes““ means the sum of the tax attributes described in subparagraphs (A), (B), (C), (D), (F), and (G) of subsection (b)(2) determined by taking into account $3 for each $1 of the attributes described in subparagraphs (B), (C), and (G) of subsection (b)(2) and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover.
+      (C) Qualified property
+         For purposes of this paragraph, the term ””qualified property““ means any property which is used or is held for use in a trade or business or for the production of income.
+      (D) Coordination with insolvency exclusion
+         For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).

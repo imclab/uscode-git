@@ -1,1 +1,45 @@
-   The Secretary of the Interior is authorized, in his discretion, to acquire by purchase, relinquishment, gift, exchange, or assignment, any interest in lands, water rights, or surface rights to lands, within or without existing Indian reservations, including trust or otherwise restricted lands now in Indian ownership: T3ProvidedK, That such lands shall be agricultural and grazing lands of good character and quality in proportion to the respective needs of the particular Indian or Indians for whom such purchases are made. Title to all lands so acquired shall be taken in the name of the United States, in trust for the tribe, band, group, or individual Indian for whose benefit such land is so acquired, and while the title thereto is held by the United States said lands shall be free from any and all taxes, save that the State of Oklahoma is authorized to levy and collect a gross-production tax, not in excess of the rate applied to production from lands in private ownership, upon all oil and gas produced from said lands, which said tax the Secretary of the Interior is authorized and directed to cause to be paid.
+  (a) Amount constituting interest
+     For purposes of this title, in the case of any payment–
+    (1) under any contract for the sale or exchange of any property, and
+    (2) to which this section applies,
+       there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment.
+  (b) Total unstated interest
+     For purposes of this section, the term ””total unstated interest““ means, with respect to a contract for the sale or exchange of property, an amount equal to the excess of–
+    (1) the sum of the payments to which this section applies which are due under the contract, over
+    (2) the sum of the present values of such payments and the present values of any interest payments due under the contract.
+       For purposes of the preceding sentence, the present value of a payment shall be determined under the rules of section 1274(b)(2) using a discount rate equal to the applicable Federal rate determined under section 1274(d).
+  (c) Payments to which subsection (a) applies
+    (1) In general
+       Except as provided in subsection (d), this section shall apply to any payment on account of the sale or exchange of property which constitutes part or all of the sales price and which is due more than 6 months after the date of such sale or exchange under a contract–
+      (A) under which some or all of the payments are due more than 1 year after the date of such sale or exchange, and
+      (B) under which there is total unstated interest.
+    (2) Treatment of other debt instruments
+       For purposes of this section, a debt instrument of the purchaser which is given in consideration for the sale or exchange of property shall not be treated as a payment, and any payment due under such debt instrument shall be treated as due under the contract for the sale or exchange.
+    (3) Debt instrument defined
+       For purposes of this subsection, the term ””debt instrument““ has the meaning given such term by section 1275(a)(1).
+  (d) Exceptions and limitations
+    (1) Coordination with original issue discount rules
+       This section shall not apply to any debt instrument for which an issue price is determined under section 1273(b) (other than paragraph (4) thereof) or section 1274.
+    (2) Sales prices of $3,000 or less
+       This section shall not apply to any payment on account of the sale or exchange of property if it can be determined at the time of such sale or exchange that the sales price cannot exceed $3,000.
+    (3) Carrying charges
+       In the case of the purchaser, the tax treatment of amounts paid on account of the sale or exchange of property shall be made without regard to this section if any such amounts are treated under section 163(b) as if they included interest.
+    (4) Certain sales of patents
+       In the case of any transfer described in section 1235(a) (relating to sale or exchange of patents), this section shall not apply to any amount contingent on the productivity, use, or disposition of the property transferred.
+  (e) Maximum rate of interest on certain transfers of land between related parties
+    (1) In general
+       In the case of any qualified sale, the discount rate used in determining the total unstated interest rate under subsection (b) shall not exceed 6 percent, compounded semiannually.
+    (2) Qualified sale
+       For purposes of this subsection, the term ””qualified sale““ means any sale or exchange of land by an individual to a member of such individual“s family (within the meaning of section 267(c)(4)).
+    (3) $500,000 limitation
+       Paragraph (1) shall not apply to any qualified sale between individuals made during any calendar year to the extent that the sales price for such sale (when added to the aggregate sales price for prior qualified sales between such individuals during the calendar year) exceeds $500,000.
+    (4) Nonresident alien individuals
+       Paragraph (1) shall not apply to any sale or exchange if any party to such sale or exchange is a nonresident alien individual.
+  (f) Regulations
+     The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section including regulations providing for the application of this section in the case of–
+    (1) any contract for the sale or exchange of property under which the liability for, or the amount or due date of, a payment cannot be determined at the time of the sale or exchange, or
+    (2) any change in the liability for, or the amount or due date of, any payment (including interest) under a contract for the sale or exchange of property.
+  (g) Cross references
+     T2(1) For treatment of assumptions, see section l274(c)(4).
+     T2(2) For special rules for certain transactions where stated principal amount does not exceed $2,800,000, see section 1274A.
+     T2(3) For special rules in case of the borrower under certain loans for personal use, see section 1275(b).

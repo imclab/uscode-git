@@ -1,0 +1,128 @@
+  (a) Election to waive qualified joint and survivor annuity or qualified preretirement survivor annuity
+    (1) In general
+       A plan meets the requirements of section 401(a)(11) only if–
+      (A) under the plan, each participant–
+        (i) may elect at any time during the applicable election period to waive the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit (or both), and
+        (ii) may revoke any such election at any time during the applicable election period, and
+      (B) the plan meets the requirements of paragraphs (2), (3), and (4) of this subsection.
+    (2) Spouse must consent to election
+       Each plan shall provide that an election under paragraph (1)(A)(i) shall not take effect unless–
+      (A)        (i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse“s consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
+      (B) it is established to the satisfaction of a plan representative that the consent required under subparagraph (A) may not be obtained because there is no spouse, because the spouse cannot be located, or because of such other circumstances as the Secretary may by regulations prescribe.
+       Any consent by a spouse (or establishment that the consent of a spouse may not be obtained) under the preceding sentence shall be effective only with respect to such spouse.
+    (3) Plan to provide written explanations
+      (A) Explanation of joint and survivor annuity
+         Each plan shall provide to each participant, within a reasonable period of time before the annuity starting date (and consistent with such regulations as the Secretary may prescribe), a written explanation of–
+        (i) the terms and conditions of the qualified joint and survivor annuity,
+        (ii) the participant“s right to make, and the effect of, an election under paragraph (1) to waive the joint and survivor annuity form of benefit,
+        (iii) the rights of the participant“s spouse under paragraph (2), and
+        (iv) the right to make, and the effect of, a revocation of an election under paragraph (1).
+      (B) Explanation of qualified preretirement survivor annuity
+        (i) In general
+           Each plan shall provide to each participant, within the applicable period with respect to such participant (and consistent with such regulations as the Secretary may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).
+        (ii) Applicable period
+           For purposes of clause (i), the term ””applicable period““ means, with respect to a participant, whichever of the following periods ends last:
+          (I) The period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35.
+          (II) A reasonable period after the individual becomes a participant.
+          (III) A reasonable period ending after paragraph (5) ceases to apply to the participant.
+          (IV) A reasonable period ending after section 401(a)(11) applies to the participant.
+              In the case of a participant who separates from service before attaining age 35, the applicable period shall be a reasonable period after separation.
+    (4) Requirement of spousal consent for using plan assets as security for loans
+       Each plan shall provide that, if section 401(a)(11) applies to a participant when part or all of the participant“s accrued benefit is to be used as security for a loan, no portion of the participant“s accrued benefit may be used as security for such loan unless–
+      (A) the spouse of the participant (if any) consents in writing to such use during the 90-day period ending on the date on which the loan is to be so secured, and
+      (B) requirements comparable to the requirements of paragraph (2) are met with respect to such consent.
+    (5) Special rules where plan fully subsidizes costs
+      (A) In general
+         The requirements of this subsection shall not apply with respect to the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit, as the case may be, if such benefit may not be waived (or another beneficiary selected) and if the plan fully subsidizes the costs of such benefit.
+      (B) Definition
+         For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit if under the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
+    (6) Applicable election period defined
+       For purposes of this subsection, the term ””applicable election period““ means–
+      (A) in the case of an election to waive the qualified joint and survivor annuity form of benefit, the 90-day period ending on the annuity starting date, or
+      (B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of the plan year in which the participant attains age 35 and ends on the date of the participant“s death.
+       In the case of a participant who is separated from service, the applicable election period under subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
+    (7) Special rules relating to time for written explanation
+       Notwithstanding any other provision of this subsection–
+      (A) Explanation may be provided after annuity starting date
+        (i) In general
+           A plan may provide the written explanation described in paragraph (3)(A) after the annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (6) shall not end before the 30th day after the date on which such explanation is provided.
+        (ii) Regulatory authority
+           The Secretary may by regulations limit the application of clause (i), except that such regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
+      (B) Waiver of 30-day period
+         A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuity starting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
+  (b) Definition of qualified joint and survivor annuity
+     For purposes of this section and section 401(a)(11), the term ””qualified joint and survivor annuity““ means an annuity–
+    (1) for the life of the participant with a survivor annuity for the life of the spouse which is not less than 50 percent of (and is not greater than 100 percent of) the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
+    (2) which is the actuarial equivalent of a single annuity for the life of the participant.
+       Such term also includes any annuity in a form having the effect of an annuity described in the preceding sentence.
+  (c) Definition of qualified preretirement survivor annuity
+     For purposes of this section and section 401(a)(11)–
+    (1) In general
+       Except as provided in paragraph (2), the term ””qualified preretirement survivor annuity““ means a survivor annuity for the life of the surviving spouse of the participant if–
+      (A) the payments to the surviving spouse under such annuity are not less than the amounts which would be payable as a survivor annuity under the qualified joint and survivor annuity under the plan (or the actuarial equivalent thereof) if–
+        (i) in the case of a participant who dies after the date on which the participant attained the earliest retirement age, such participant had retired with an immediate qualified joint and survivor annuity on the day before the participant“s date of death, or
+        (ii) in the case of a participant who dies on or before the date on which the participant would have attained the earliest retirement age, such participant had–
+          (I) separated from service on the date of death,
+          (II) survived to the earliest retirement age,
+          (III) retired with an immediate qualified joint and survivor annuity at the earliest retirement age, and
+          (IV) died on the day after the day on which such participant would have attained the earliest retirement age, and
+      (B) under the plan, the earliest period for which the surviving spouse may receive a payment under such annuity is not later than the month in which the participant would have attained the earliest retirement age under the plan.
+       In the case of an individual who separated from service before the date of such individual“s death, subparagraph (A)(ii)(I) shall not apply.
+    (2) Special rule for defined contribution plans
+       In the case of any defined contribution plan or participant described in clause (ii) or (iii) of section 401(a)(11)(B), the term ””qualified preretirement survivor annuity““ means an annuity for the life of the surviving spouse the actuarial equivalent of which is not less than 50 percent of the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 411(a)).
+    (3) Security interests taken into account
+       For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
+  (d) Survivor annuities need not be provided if participant and spouse married less than 1 year
+    (1) In general
+       Except as provided in paragraph (2), a plan shall not be treated as failing to meet the requirements of section 401(a)(11) merely because the plan provides that a qualified joint and survivor annuity (or a qualified preretirement survivor annuity) will not be provided unless the participant and spouse had been married throughout the 1-year period ending on the earlier of–
+      (A) the participant“s annuity starting date, or
+      (B) the date of the participant“s death.
+    (2) Treatment of certain marriages within 1 year of annuity starting date for purposes of qualified joint and survivor annuities
+       For purposes of paragraph (1), if–
+      (A) a participant marries within 1 year before the annuity starting date, and
+      (B) the participant and the participant“s spouse in such marriage have been married for at least a 1-year period ending on or before the date of the participant“s death,
+       such participant and such spouse shall be treated as having been married throughout the 1-year period ending on the participant“s annuity starting date.
+  (e) Restrictions on cash-outs
+    (1) Plan may require distribution if present value not in excess of dollar limit
+       A plan may provide that the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity will be immediately distributed if such value does not exceed the amount that can be distributed without the participant“s consent under section 411(a)(11). No distribution may be made under the preceding sentence after the annuity starting date unless the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consents in writing to such distribution.
+    (2) Plan may distribute benefit in excess of dollar limit only with consent
+       If–
+      (A) the present value of the qualified joint and survivor annuity or the qualified preretirement survivor annuity exceeds the amount that can be distributed without the participant“s consent under section 411(a)(11), and
+      (B) the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consent in writing to the distribution,
+       the plan may immediately distribute the present value of such annuity.
+    (3) Determination of present value
+      (A) In general
+        (i) Present value
+           Except as provided in subparagraph (B), for purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
+        (ii) Definitions
+           For purposes of clause (i)–
+          (I) Applicable mortality table
+             The term ””applicable mortality table““ means the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners“ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date as of which present value is being determined (without regard to any other subparagraph of section 807(d)(5)).
+          (II) Applicable interest rate
+             The term ””applicable interest rate““ means the annual rate of interest on 30-year Treasury securities for the month before the date of distribution or such other time as the Secretary may by regulations prescribe.
+      (B) Exception
+         In the case of a distribution from a plan that was adopted and in effect before the date of the enactment of the Retirement Protection Act of 1994, the present value of any distribution made before the earlier of–
+        (i) the later of the date a plan amendment applying subparagraph (A) is adopted or made effective, or
+        (ii) the first day of the first plan year beginning after December 31, 1999,
+         shall be calculated, for purposes of paragraphs (1) and (2), using the interest rate determined under the regulations of the Pension Benefit Guaranty Corporation for determining the present value of a lump sum distribution on plan termination that were in effect on September 1, 1993, and using the provisions of the plan as in effect on the day before such date of enactment; but only if such provisions of the plan met the requirements of section 417(e)(3) as in effect on the day before such date of enactment.
+  (f) Other definitions and special rules
+     For purposes of this section and section 401(a)(11)–
+    (1) Vested participant
+       The term ””vested participant““ means any participant who has a nonforfeitable right (within the meaning of section 411(a)) to any portion of such participant“s accrued benefit.
+    (2) Annuity starting date
+      (A) In general
+         The term ””annuity starting date““ means–
+        (i) the first day of the first period for which an amount is payable as an annuity, or
+        (ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
+      (B) Special rule for disability benefits
+         For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+    (3) Earliest retirement age
+       The term ””earliest retirement age““ means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
+    (4) Plan may take into account increased costs
+       A plan may take into account in any equitable manner (as determined by the Secretary) any increased costs resulting from providing a qualified joint or survivor annuity or a qualified preretirement survivor annuity.
+    (5) Distributions by reason of security interests
+       If the use of any participant“s accrued benefit (or any portion thereof) as security for a loan meets the requirements of subsection (a)(4), nothing in this section or section 411(a)(11) shall prevent any distribution required by reason of a failure to comply with the terms of such loan.
+    (6) Requirements for certain spousal consents
+       No consent of a spouse shall be effective for purposes of subsection (e)(1) or (e)(2) (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (a)(1)(A) are met.
+    (7) Consultation with the Secretary of Labor
+       In prescribing regulations under this section and section 401(a)(11), the Secretary shall consult with the Secretary of Labor.

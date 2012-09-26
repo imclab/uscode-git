@@ -1,0 +1,206 @@
+  (a) Requirements applicable to real estate investment trusts
+     The provisions of this part (other than subsection (d) of this section and subsection (g) of section 856) shall not apply to a real estate investment trust for a taxable year unless–
+    (1) the deduction for dividends paid during the taxable year (as defined in section 561, but determined without regard to capital gains dividends) equals or exceeds–
+      (A) the sum of–
+        (i) 90 percent of the real estate investment trust taxable income for the taxable year (determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain); and
+        (ii) 90 percent of the excess of the net income from foreclosure property over the tax imposed on such income by subsection (b)(4)(A); minus
+      (B) any excess noncash income (as determined under subsection (e)); and
+    (2) either–
+      (A) the provisions of this part apply to the real estate investment trust for all taxable years beginning after February 28, 1986, or
+      (B) as of the close of the taxable year, the real estate investment trust has no earnings and profits accumulated in any non-REIT year.
+         For purposes of the preceding sentence, the term ””non-REIT year““ means any taxable year to which the provisions of this part did not apply with respect to the entity. The Secretary may waive the requirements of paragraph (1) for any taxable year if the real estate investment trust establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4981.
+  (b) Method of taxation of real estate investment trusts and holders of shares or certificates of beneficial interest
+    (1) Imposition of tax on real estate investment trusts
+       There is hereby imposed for each taxable year on the real estate investment trust taxable income of every real estate investment trust a tax computed as provided in section 11, as though the real estate investment trust taxable income were the taxable income referred to in section 11.
+    (2) Real estate investment trust taxable income
+       For purposes of this part, the term ””real estate investment trust taxable income““ means the taxable income of the real estate investment trust, adjusted as follows:
+      (A) The deductions for corporations provided in part VIII (except section 248) of subchapter B (section 241 and following, relating to the deduction for dividends received, etc.) shall not be allowed.
+      (B) The deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to that portion of such deduction which is attributable to the amount excluded under subparagraph (D).
+      (C) The taxable income shall be computed without regard to section 443(b) (relating to computation of tax on change of annual accounting period).
+      (D) There shall be excluded an amount equal to the net income from foreclosure property.
+      (E) There shall be deducted an amount equal to the tax imposed by paragraphs (5) and (7) of this subsection, section 856(c)(7)(C), and section 856(g)(5) for the taxable year.
+      (F) There shall be excluded an amount equal to any net income derived from prohibited transactions.
+    (3) Capital gains
+      (A) Alternative tax in case of capital gains
+         If for any taxable year a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is hereby imposed a tax (if such tax is less than the tax imposed by such subsection) which shall consist of the sum of–
+        (i) a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and
+        (ii) a tax determined at the rate provided in section 1201(a) on the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
+      (B) Treatment of capital gain dividends by shareholders
+         A capital gain dividend shall be treated by the shareholders or holders of beneficial interests as a gain from the sale or exchange of a capital asset held for more than 1 year.
+      (C) Definition of capital gain dividend
+         For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the real estate investment trust as a capital gain dividend in a written notice mailed to its shareholders or holders of beneficial interests at any time before the expiration of 30 days after the close of its taxable year (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year); except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the trust (including capital gain dividends paid after the close of the taxable year described in section 858) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for any taxable year which is not a calendar year shall be determined without regard to any net capital loss attributable to transactions after December 31 of such year, and any such net capital loss shall be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the real estate investment trust.
+      (D) Treatment by shareholders of undistributed capital gains
+        (i) Every shareholder of a real estate investment trust at the close of the trust“s taxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the trust“s taxable year falls, such amount as the trust shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after the close of its taxable year (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year), but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A)(ii) which he would have received if all of such amount had been distributed as capital gain dividends by the trust to the holders of such shares at the close of its taxable year.
+        (ii) For purposes of this title, every such shareholder shall be deemed to have paid, for his taxable year under clause (i), the tax imposed by subparagraph (A)(ii) on the amounts required by this subparagraph to be included in respect of such shares in computing his long-term capital gains for that year; and such shareholders shall be allowed credit or refund as the case may be, for the tax so deemed to have been paid by him.
+        (iii) The adjusted basis of such shares in the hands of the holder shall be increased with respect to the amounts required by this subparagraph to be included in computing his long-term capital gains, by the difference between the amount of such includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).
+        (iv) In the event of such designation, the tax imposed by subparagraph (A)(ii) shall be paid by the real estate investment trust within 30 days after the close of its taxable year.
+        (v) The earnings and profits of such real estate investment trust, and the earnings and profits of any such shareholder which is a corporation, shall be appropriately adjusted in accordance with regulations prescribed by the Secretary.
+        (vi) As used in this subparagraph, the terms ””shares““ and ””shareholders““ shall include beneficial interests and holders of beneficial interests, respectively.
+      (E) Coordination with net operating loss provisions
+         For purposes of section 172, if a real estate investment trust pays capital gain dividends during any taxable year, the amount of the net capital gain for such taxable year (to the extent such gain does not exceed the amount of such capital gain dividends) shall be excluded in determining–
+        (i) the net operating loss for the taxable year, and
+        (ii) the amount of the net operating loss of any prior taxable year which may be carried through such taxable year under section 172(b)(2) to a succeeding taxable year.
+      (F) Certain distributions
+         In the case of a shareholder of a real estate investment trust to whom section 897 does not apply by reason of the second sentence of section 897(h)(1), the amount which would be included in computing long-term capital gains for such shareholder under subparagraph (B) or (D) (without regard to this subparagraph)–
+        (i) shall not be included in computing such shareholder“s long-term capital gains, and
+        (ii) shall be included in such shareholder“s gross income as a dividend from the real estate investment trust.
+    (4) Income from foreclosure property
+      (A) Imposition of tax
+         A tax is hereby imposed for each taxable year on the net income from foreclosure property of every real estate investment trust. Such tax shall be computed by multiplying the net income from foreclosure property by the highest rate of tax specified in section 11(b).
+      (B) Net income from foreclosure property
+         For purposes of this part, the term ””net income from foreclosure property““ means the excess of–
+        (i) gain from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3), over
+        (ii) the deductions allowed by this chapter which are directly connected with the production of the income referred to in clause (i).
+    (5) Imposition of tax in case of failure to meet certain requirements
+       If section 856(c)(6) applies to a real estate investment trust for any taxable year, there is hereby imposed on such trust a tax in an amount equal to the greater of–
+      (A) the excess of–
+        (i) 95 percent of the gross income (excluding gross income from prohibited transactions) of the real estate investment trust, over
+        (ii) the amount of such gross income which is derived from sources referred to in section 856(c)(2); or
+      (B) the excess of–
+        (i) 75 percent of the gross income (excluding gross income from prohibited transactions) of the real estate investment trust, over
+        (ii) the amount of such gross income which is derived from sources referred to in section 856(c)(3),
+       multiplied by a fraction the numerator of which is the real estate investment trust taxable income for the taxable year (determined without regard to the deductions provided in paragraphs (2)(B) and (2)(E), without regard to any net operating loss deduction, and by excluding any net capital gain) and the denominator of which is the gross income for the taxable year (excluding gross income from prohibited transactions; gross income and gain from foreclosure property (as defined in section 856(e), but only to the extent such gross income and gain is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3)); long-term capital gain; and short-term capital gain to the extent of any short-term capital loss).
+    (6) Income from prohibited transactions
+      (A) Imposition of tax
+         There is hereby imposed for each taxable year of every real estate investment trust a tax equal to 100 percent of the net income derived from prohibited transactions.
+      (B) Definitions
+         For purposes of this part–
+        (i) the term ””net income derived from prohibited transactions““ means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;
+        (ii) in determining the amount of the net income derived from prohibited transactions, there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss; and
+        (iii) the term ””prohibited transaction““ means a sale or other disposition of property described in section 1221(a)(1) which is not foreclosure property.
+      (C) Certain sales not to constitute prohibited transactions
+         For purposes of this part, the term ””prohibited transaction““ does not include a sale of property which is a real estate asset as defined in section 856(c)(5)(B) if–
+        (i) the trust has held the property for not less than 4 years;
+        (ii) aggregate expenditures made by the trust, or any partner of the trust, during the 4-year period preceding the date of sale which are includible in the basis of the property do not exceed 30 percent of the net selling price of the property;
+        (iii)          (I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year;
+        (iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 4 years for production of rental income; and
+        (v) if the requirement of clause (iii)(I) is not satisfied, substantially all of the marketing and development expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income.
+      (D) Certain sales not to constitute prohibited transactions
+         For purposes of this part, the term ””prohibited transaction““ does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) if–
+        (i) the trust held the property for not less than 4 years in connection with the trade or business of producing timber,
+        (ii) the aggregate expenditures made by the trust, or a partner of the trust, during the 4-year period preceding the date of sale which–
+          (I) are includible in the basis of the property (other than timberland acquisition expenditures), and
+          (II) are directly related to operation of the property for the production of timber or for the preservation of the property for use as timberland,
+              do not exceed 30 percent of the net selling price of the property,
+        (iii) the aggregate expenditures made by the trust, or a partner of the trust, during the 4-year period preceding the date of sale which–
+          (I) are includible in the basis of the property (other than timberland acquisition expenditures), and
+          (II) are not directly related to operation of the property for the production of timber, or for the preservation of the property for use as timberland,
+              do not exceed 5 percent of the net selling price of the property,
+        (iv)          (I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or
+          (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year,
+        (v) in the case that the requirement of clause (iv)(I) is not satisfied, substantially all of the marketing expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income, and
+        (vi) the sales price of the property sold by the trust is not based in whole or in part on income or profits, including income or profits derived from the sale or operation of such property.
+      (E) Special rules
+         In applying subparagraphs (C) and (D) the following special rules apply:
+        (i) The holding period of property acquired through foreclosure (or deed in lieu of foreclosure), or termination of the lease, includes the period for which the trust held the loan which such property secured, or the lease of such property.
+        (ii) In the case of a property acquired through foreclosure (or deed in lieu of foreclosure), or termination of a lease, expenditures made by, or for the account of, the mortgagor or lessee after default became imminent will be regarded as made by the trust.
+        (iii) Expenditures (including expenditures regarded as made directly by the trust, or indirectly by any partner of the trust, under clause (ii)) will not be taken into account if they relate to foreclosure property and did not cause the property to lose its status as foreclosure property.
+        (iv) Expenditures will not be taken into account if they are made solely to comply with standards or requirements of any government or governmental authority having relevant jurisdiction, or if they are made to restore the property as a result of losses arising from fire, storm or other casualty.
+        (v) The term ””expenditures““ does not include advances on a loan made by the trust.
+        (vi) The sale of more than one property to one buyer as part of one transaction constitutes one sale.
+        (vii) The term ””sale““ does not include any transaction in which the net selling price is less than $10,000.
+      (F) Sales not meeting requirements
+         In determining whether or not any sale constitutes a ””prohibited transaction““ for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted.
+    (7) Income from redetermined rents, redetermined deductions, and excess interest
+      (A) Imposition of tax
+         There is hereby imposed for each taxable year of the real estate investment trust a tax equal to 100 percent of redetermined rents, redetermined deductions, and excess interest.
+      (B) Redetermined rents
+        (i) In general
+           The term ””redetermined rents““ means rents from real property (as defined in section 856(d)) to the extent the amount of the rents would (but for subparagraph (E)) be reduced on distribution, apportionment, or allocation under section 482 to clearly reflect income as a result of services furnished or rendered by a taxable REIT subsidiary of the real estate investment trust to a tenant of such trust.
+        (ii) Exception for de minimis amounts
+           Clause (i) shall not apply to amounts described in section 856(d)(7)(A) with respect to a property to the extent such amounts do not exceed the one percent threshold described in section 856(d)(7)(B) with respect to such property.
+        (iii) Exception for comparably priced services
+           Clause (i) shall not apply to any service rendered by a taxable REIT subsidiary of a real estate investment trust to a tenant of such trust if–
+          (I) such subsidiary renders a significant amount of similar services to persons other than such trust and tenants of such trust who are unrelated (within the meaning of section 856(d)(8)(F)) to such subsidiary, trust, and tenants, but
+          (II) only to the extent the charge for such service so rendered is substantially comparable to the charge for the similar services rendered to persons referred to in subclause (I).
+        (iv) Exception for certain separately charged services
+           Clause (i) shall not apply to any service rendered by a taxable REIT subsidiary of a real estate investment trust to a tenant of such trust if–
+          (I) the rents paid to the trust by tenants (leasing at least 25 percent of the net leasable space in the trust“s property) who are not receiving such service from such subsidiary are substantially comparable to the rents paid by tenants leasing comparable space who are receiving such service from such subsidiary, and
+          (II) the charge for such service from such subsidiary is separately stated.
+        (v) Exception for certain services based on subsidiary“s income from the services
+           Clause (i) shall not apply to any service rendered by a taxable REIT subsidiary of a real estate investment trust to a tenant of such trust if the gross income of such subsidiary from such service is not less than 150 percent of such subsidiary“s direct cost in furnishing or rendering the service.
+        (vi) Exceptions granted by Secretary
+           The Secretary may waive the tax otherwise imposed by subparagraph (A) if the trust establishes to the satisfaction of the Secretary that rents charged to tenants were established on an arms“ length basis even though a taxable REIT subsidiary of the trust provided services to such tenants.
+      (C) Redetermined deductions
+         The term ””redetermined deductions““ means deductions (other than redetermined rents) of a taxable REIT subsidiary of a real estate investment trust to the extent the amount of such deductions would (but for subparagraph (E)) be decreased on distribution, apportionment, or allocation under section 482 to clearly reflect income as between such subsidiary and such trust.
+      (D) Excess interest
+         The term ””excess interest““ means any deductions for interest payments by a taxable REIT subsidiary of a real estate investment trust to such trust to the extent that the interest payments are in excess of a rate that is commercially reasonable.
+      (E) Coordination with section 482
+         The imposition of tax under subparagraph (A) shall be in lieu of any distribution, apportionment, or allocation under section 482.
+      (F) Regulatory authority
+         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph. Until the Secretary prescribes such regulations, real estate investment trusts and their taxable REIT subsidiaries may base their allocations on any reasonable method.
+    (8) Loss on sale or exchange of stock held 6 months or less
+      (A) In general
+         If–
+        (i) subparagraph (B) or (D) of paragraph (3) provides that any amount with respect to any share or beneficial interest is to be treated as a long-term capital gain, and
+        (ii) the taxpayer has held such share or interest for 6 months or less,
+         then any loss on the sale or exchange of such share or interest shall, to the extent of the amount described in clause (i), be treated as a long-term capital loss.
+      (B) Determination of holding period
+         For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock or beneficial interest; except that ””6 months““ shall be substituted for the number of days specified in subparagraph (B) \1\N of section 246(c)(3).
+      (C) Exception for losses incurred under periodic liquidation plans
+         To the extent provided in regulations, subparagraph (A) shall not apply to any loss incurred on the sale or exchange of shares of stock of, or beneficial interest in, a real estate investment trust pursuant to a plan which provides for the periodic liquidation of such shares or interests.
+    (9) Time certain dividends taken into account
+       For purposes of this title, any dividend declared by a real estate investment trust in October, November, or December of any calendar year and payable to shareholders of record on a specified date in such a month shall be deemed–
+      (A) to have been received by each shareholder on December 31 of such calendar year, and
+      (B) to have been paid by such trust on December 31 of such calendar year (or, if earlier, as provided in section 858).
+       The preceding sentence shall apply only if such dividend is actually paid by the company during January of the following calendar year.
+  (c) Restrictions applicable to dividends received from real estate investment trusts
+    (1) Section 243
+       For purposes of section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered a dividend.
+    (2) Section (1)(h)(11)
+      (A) In general
+         In any case in which–
+        (i) a dividend is received from a real estate investment trust (other than a capital gain dividend), and
+        (ii) such trust meets the requirements of section 856(a) for the taxable year during which it paid such dividend,
+         then, in computing qualified dividend income, there shall be taken into account only that portion of such dividend designated by the real estate investment trust.
+      (B) Limitation
+         The aggregate amount which may be designated as qualified dividend income under subparagraph (A) shall not exceed the sum of–
+        (i) the qualified dividend income of the trust for the taxable year,
+        (ii) the excess of–
+          (I) the sum of the real estate investment trust taxable income computed under section 857(b)(2) for the preceding taxable year and the income subject to tax by reason of the application of the regulations under section 337(d) for such preceding taxable year, over
+          (II) the sum of the taxes imposed on the trust for such preceding taxable year under section 857(b)(1) and by reason of the application of such regulations, and
+        (iii) the amount of any earnings and profits which were distributed by the trust for such taxable year and accumulated in a taxable year with respect to which this part did not apply.
+      (C) Notice to shareholders
+         The amount of any distribution by a real estate investment trust which may be taken into account as qualified dividend income shall not exceed the amount so designated by the trust in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.
+      (D) Qualified dividend income
+         For purposes of this paragraph, the term ””qualified dividend income““ has the meaning given such term by section 1(h)(11)(B).
+  (d) Earnings and profits
+    (1) In general
+       The earnings and profits of a real estate investment trust for any taxable year (but not its accumulated earnings) shall not be reduced by any amount which is not allowable in computing its taxable income for such taxable year. For purposes of this subsection, the term ””real estate investment trust““ includes a domestic corporation, trust, or association which is a real estate investment trust determined without regard to the requirements of subsection (a).
+    (2) Coordination with tax on undistributed income
+       A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
+    (3) Distributions to meet requirements of subsection (a)(2)(B)
+       Any distribution which is made in order to comply with the requirements of subsection (a)(2)(B)–
+      (A) shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from earnings and profits which, but for the distribution, would result in a failure to meet such requirements (and allocated to such earnings on a first-in, first-out basis), and
+      (B) to the extent treated under subparagraph (A) as made from accumulated earnings and profits, shall not be treated as a distribution for purposes of subsection (b)(2)(B) and section 858.
+  (e) Excess noncash income
+    (1) In general
+       For purposes of subsection (a)(1)(B), the term ””excess noncash income““ means the excess (if any) of–
+      (A) the amount determined under paragraph (2) for the taxable year, over
+      (B) 5 percent of the real estate investment trust taxable income for the taxable year determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain.
+    (2) Determination of amount
+       The amount determined under this paragraph for the taxable year is the sum of–
+      (A) the amount (if any) by which–
+        (i) the amounts includible in gross income under section 467 (relating to certain payments for the use of property or services), exceed
+        (ii) the amounts which would have been includible in gross income without regard to such section,
+      (B) any income on the disposition of a real estate asset if–
+        (i) there is a determination (as defined in section 860(e)) that such income is not eligible for nonrecognition under section 1031, and
+        (ii) failure to meet the requirements of section 1031 was due to reasonable cause and not to willful neglect,
+      (C) the amount (if any) by which–
+        (i) the amounts includible in gross income with respect to instruments to which section 860E(a) or 1272 applies, exceed
+        (ii) the amount of money and the fair market value of other property received during the taxable year under such instruments, and
+      (D) amounts includible in income by reason of cancellation of indebtedness.
+  (f) Real estate investment trusts to ascertain ownership
+    (1) In general
+       Each real estate investment trust shall each taxable year comply with regulations prescribed by the Secretary for the purposes of ascertaining the actual ownership of the outstanding shares, or certificates of beneficial interest, of such trust.
+    (2) Failure to comply
+      (A) In general
+         If a real estate investment trust fails to comply with the requirements of paragraph (1) for a taxable year, such trust shall pay (on notice and demand by the Secretary and in the same manner as tax) a penalty of $25,000.
+      (B) Intentional disregard
+         If any failure under paragraph (1) is due to intentional disregard of the requirement under paragraph (1), the penalty under subparagraph (A) shall be $50,000.
+      (C) Failure to comply after notice
+         The Secretary may require a real estate investment trust to take such actions as the Secretary determines appropriate to ascertain actual ownership if the trust fails to meet the requirements of paragraph (1). If the trust fails to take such actions, the trust shall pay (on notice and demand by the Secretary and in the same manner as tax) an additional penalty equal to the penalty determined under subparagraph (A) or (B), whichever is applicable.
+      (D) Reasonable cause
+         No penalty shall be imposed under this paragraph with respect to any failure if it is shown that such failure is due to reasonable cause and not to willful neglect.
+  (g) Cross reference
+     T2For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.

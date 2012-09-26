@@ -1,1 +1,169 @@
-   Any school district educating Indian students who are members of recognized Indian tribes, who do not normally reside in the State in which such school district is located, and who are residing in Federal boarding facilities for the purposes of attending public schools within such district may, in the discretion of the Secretary of the Interior, be reimbursed by him for the full per capita costs of educating such Indian students.
+  (a) Year of inclusion in gross income
+    (1) In general
+       Any amount of compensation deferred under an eligible deferred compensation plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income–
+      (A) is paid to the participant or other beneficiary, in the case of a plan of an eligible employer described in subsection (e)(1)(A), and
+      (B) is paid or otherwise made available to the participant or other beneficiary, in the case of a plan of an eligible employer described in subsection (e)(1)(B).
+    (2) Special rule for rollover amounts
+       To the extent provided in section 72(t)(9), section 72(t) shall apply to any amount includible in gross income under this subsection.
+  (b) Eligible deferred compensation plan defined
+     For purposes of this section, the term ””eligible deferred compensation plan““ means a plan established and maintained by an eligible employer–
+    (1) in which only individuals who perform service for the employer may be participants,
+    (2) which provides that (except as provided in paragraph (3)) the maximum amount which may be deferred under the plan for the taxable year (other than rollover amounts) shall not exceed the lesser of–
+      (A) the applicable dollar amount, or
+      (B) 100 percent of the participant“s includible compensation,
+    (3) which may provide that, for 1 or more of the participant“s last 3 taxable years ending before he attains normal retirement age under the plan, the ceiling set forth in paragraph (2) shall be the lesser of–
+      (A) twice the dollar amount in effect under subsection (b)(2)(A), or
+      (B) the sum of–
+        (i) the plan ceiling established for purposes of paragraph (2) for the taxable year (determined without regard to this paragraph), plus
+        (ii) so much of the plan ceiling established for purposes of paragraph (2) for taxable years before the taxable year as has not previously been used under paragraph (2) or this paragraph,
+    (4) which provides that compensation will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
+    (5) which meets the distribution requirements of subsection (d), and
+    (6) except as provided in subsection (g), which provides that–
+      (A) all amounts of compensation deferred under the plan,
+      (B) all property and rights purchased with such amounts, and
+      (C) all income attributable to such amounts, property, or rights,
+         A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year.
+     shall remain (until made available to the participant or other beneficiary) solely the property and rights of the employer (without being restricted to the provision of benefits under the plan), subject only to the claims of the employer“s general creditors.
+  (c) Limitation
+     The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
+  (d) Distribution requirements
+    (1) In general
+       For purposes of subsection (b)(5), a plan meets the distribution requirements of this subsection if–
+      (A) under the plan amounts will not be made available to participants or beneficiaries earlier than–
+        (i) the calendar year in which the participant attains age 70\1/2\,
+        (ii) when the participant has a severance from employment with the employer, or
+        (iii) when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations),
+      (B) the plan meets the minimum distribution requirements of paragraph (2), and
+      (C) in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31).
+       Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of transfer.
+    (2) Minimum distribution requirements
+       A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of section 401(a)(9).
+    (3) Special rule for government plan
+       An eligible deferred compensation plan of an employer described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely by reason of making a distribution described in subsection (e)(9)(A).
+  (e) Other definitions and special rules
+     For purposes of this section–
+    (1) Eligible employer
+       The term ””eligible employer““ means–
+      (A) a State, political subdivision of a State, and any agency or instrumentality of a State or political subdivision of a State, and
+      (B) any other organization (other than a governmental unit) exempt from tax under this subtitle.
+    (2) Performance of service
+       The performance of service includes performance of service as an independent contractor and the person (or governmental unit) for whom such services are performed shall be treated as the employer.
+    (3) Participant
+       The term ””participant““ means an individual who is eligible to defer compensation under the plan.
+    (4) Beneficiary
+       The term ””beneficiary““ means a beneficiary of the participant, his estate, or any other person whose interest in the plan is derived from the participant.
+    (5) Includible compensation
+       The term ””includible compensation““ has the meaning given to the term ””participant“s compensation““ by section 415(c)(3).
+    (6) Compensation taken into account at present value
+       Compensation shall be taken into account at its present value.
+    (7) Community property laws
+       The amount of includible compensation shall be determined without regard to any community property laws.
+    (8) Income attributable
+       Gains from the disposition of property shall be treated as income attributable to such property.
+    (9) Benefits of tax exempt organization plans not treated as made available by reason of certain elections, etc.
+       In the case of an eligible deferred compensation plan of an employer described in subsection (e)(1)(B)–
+      (A) Total amount payable is dollar limit or less
+         The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant“s consent) if–
+        (i) the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D)) does not exceed the dollar limit under section 411(a)(11)(A), and
+        (ii) such amount may be distributed only if–
+          (I) no amount has been deferred under the plan with respect to such participant during the 2-year period ending on the date of the distribution, and
+          (II) there has been no prior distribution under the plan to such participant to which this subparagraph applied.
+         A plan shall not be treated as failing to meet the distribution requirements of subsection (d) by reason of a distribution to which this subparagraph applies.
+      (B) Election to defer commencement of distributions
+         The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to defer commencement of distributions under the plan if–
+        (i) such election is made after amounts may be available under the plan in accordance with subsection (d)(1)(A) and before commencement of such distributions, and
+        (ii) the participant may make only 1 such election.
+    (10) Transfers between plans
+       A participant shall not be required to include in gross income any portion of the entire amount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
+    (11) Certain plans excluded
+      (A) In general
+         The following plans shall be treated as not providing for the deferral of compensation:
+        (i) Any bona fide vacation leave, sick leave, compensatory time, severance pay, disability pay, or death benefit plan.
+        (ii) Any plan paying solely length of service awards to bona fide volunteers (or their beneficiaries) on account of qualified services performed by such volunteers.
+      (B) Special rules applicable to length of service award plans
+        (i) Bona fide volunteer
+           An individual shall be treated as a bona fide volunteer for purposes of subparagraph (A)(ii) if the only compensation received by such individual for performing qualified services is in the form of–
+          (I) reimbursement for (or a reasonable allowance for) reasonable expenses incurred in the performance of such services, or
+          (II) reasonable benefits (including length of service awards), and nominal fees for such services, customarily paid by eligible employers in connection with the performance of such services by volunteers.
+        (ii) Limitation on accruals
+           A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $3,000.
+      (C) Qualified services
+         For purposes of this paragraph, the term ””qualified services““ means fire fighting and prevention services, emergency medical services, and ambulance services.
+    (12) Exception for nonelective deferred compensation of nonemployees
+      (A) In general
+         This section shall not apply to nonelective deferred compensation attributable to services not performed as an employee.
+      (B) Nonelective deferred compensation
+         For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
+    (13) Special rule for churches
+       The term ””eligible employer““ shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+    (14) Treatment of qualified governmental excess benefit arrangements
+       Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
+    (15) Applicable dollar amount
+      (A) In general
+         The applicable dollar amount shall be the amount determined in accordance with the following table:
+         T2 For taxable years
+         T2The applicable
+         T2  beginning in
+         T2dollar amount:
+         T2  calendar year:
+         T2 
+         2002
+         $11,000  
+         2003
+         $12,000  
+         2004
+         $13,000  
+         2005
+         $14,000  
+         2006 or thereafter
+         $15,000.
+      (B) Cost-of-living adjustments
+         In the case of taxable years beginning after December 31, 2006, the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+    (16) Rollover amounts
+      (A) General rule
+         In the case of an eligible deferred compensation plan established and maintained by an employer described in subsection (e)(1)(A), if–
+        (i) any portion of the balance to the credit of an employee in such plan is paid to such employee in an eligible rollover distribution (within the meaning of section 402(c)(4)),
+        (ii) the employee transfers any portion of the property such employee receives in such distribution to an eligible retirement plan described in section 402(c)(8)(B), and
+        (iii) in the case of a distribution of property other than money, the amount so transferred consists of the property distributed,
+         then such distribution (to the extent so transferred) shall not be includible in gross income for the taxable year in which paid.
+      (B) Certain rules made applicable
+         The rules of paragraphs (2) through (7) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
+      (C) Reporting
+         Rollovers under this paragraph shall be reported to the Secretary in the same manner as rollovers from qualified retirement plans (as defined in section 4974(c)).
+    (17) Trustee-to-trustee transfers to purchase permissive service credit
+       No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is–
+      (A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
+      (B) a repayment to which section 415 does not apply by reason of subsection (k)(3) thereof.
+    (18) Coordination with catch-up contributions for individuals age 50 or older
+       In the case of an individual who is an eligible participant (as defined by section 414(v)) and who is a participant in an eligible deferred compensation plan of an employer described in paragraph (1)(A), subsections (b)(3) and (c) shall be applied by substituting for the amount otherwise determined under the applicable subsection the greater of–
+      (A) the sum of–
+        (i) the plan ceiling established for purposes of subsection (b)(2) (without regard to subsection (b)(3)), plus
+        (ii) the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
+      (B) the amount determined under the applicable subsection (without regard to this paragraph).
+  (f) Tax treatment of participants where plan or arrangement of employer is not eligible
+    (1) In general
+       In the case of a plan of an eligible employer providing for a deferral of compensation, if such plan is not an eligible deferred compensation plan, then–
+      (A) the compensation shall be included in the gross income of the participant or beneficiary for the 1st taxable year in which there is no substantial risk of forfeiture of the rights to such compensation, and
+      (B) the tax treatment of any amount made available under the plan to a participant or beneficiary shall be determined under section 72 (relating to annuities, etc.).
+    (2) Exceptions
+       Paragraph (1) shall not apply to–
+      (A) a plan described in section 401(a) which includes a trust exempt from tax under section 501(a),
+      (B) an annuity plan or contract described in section 403,
+      (C) that portion of any plan which consists of a transfer of property described in section 83,
+      (D) that portion of any plan which consists of a trust to which section 402(b) applies, and
+      (E) a qualified governmental excess benefit arrangement described in section 415(m).
+    (3) Definitions
+       For purposes of this subsection–
+      (A) Plan includes arrangements, etc.
+         The term ””plan““ includes any agreement or arrangement.
+      (B) Substantial risk of forfeiture
+         The rights of a person to compensation are subject to a substantial risk of forfeiture if such person“s rights to such compensation are conditioned upon the future performance of substantial services by any individual.
+  (g) Governmental plans must maintain set-asides for exclusive benefit of participants
+    (1) In general
+       A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not be treated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.
+    (2) Taxability of trusts and participants
+       For purposes of this title–
+      (A) a trust described in paragraph (1) shall be treated as an organization exempt from taxation under section 501(a), and
+      (B) notwithstanding any other provision of this title, amounts in the trust shall be includible in the gross income of participants and beneficiaries only to the extent, and at the time, provided in this section.
+    (3) Custodial accounts and contracts
+       For purposes of this subsection, custodial accounts and contracts described in section 401(f) shall be treated as trusts under rules similar to the rules under section 401(f).

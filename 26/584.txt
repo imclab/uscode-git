@@ -1,1 +1,59 @@
-   The remainder of the award shall be apportioned between the Shoshone-Bannock Tribes of the Fort Hall Reservation and the Shoshone Tribe of the Wind River Reservation in accordance with an agreement entered into between the Shoshone-Bannock Tribes and the Shoshone Tribe of the Wind River Reservation in May 1965, approved by the Associate Commissioner of Indian Affairs in December 1965.
+  (a) Definitions
+     For purposes of this subtitle, the term ””common trust fund““ means a fund maintained by a bank–
+    (1) exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity–
+      (A) as a trustee, executor, administrator, or guardian, or
+      (B) as a custodian of accounts–
+        (i) which the Secretary determines are established pursuant to a State law which is substantially similar to the Uniform Gifts to Minors Act as published by the American Law Institute, and
+        (ii) with respect to which the bank establishes, to the satisfaction of the Secretary, that it has duties and responsibilities similar to duties and responsibilities of a trustee or guardian; and
+    (2) in conformity with the rules and regulations, prevailing from time to time, of the Board of Governors of the Federal Reserve System or the Comptroller of the Currency pertaining to the collective investment of trust funds by national banks.
+       For purposes of this subsection, two or more banks which are members of the same affiliated group (within the meaning of section 1504) shall be treated as one bank for the period of affiliation with respect to any fund of which any of the member banks is trustee or two or more of the member banks are cotrustees.
+  (b) Taxation of common trust funds
+     A common trust fund shall not be subject to taxation under this chapter and for purposes of this chapter shall not be considered a corporation.
+  (c) Income of participants in fund
+     Each participant in the common trust fund in computing its taxable income shall include, whether or not distributed and whether or not distributable–
+    (1) as part of its gains and losses from sales or exchanges of capital assets held for not more than 1 year, its proportionate share of the gains and losses of the common trust fund from sales or exchanges of capital assets held for not more than 1 year,
+    (2) as part of its gains and losses from sales or exchanges of capital assets held for more than 1 year, its proportionate share of the gains and losses of the common trust fund from sales or exchanges of capital assets held for more than 1 year, and
+    (3) its proportionate share of the ordinary taxable income or the ordinary net loss of the common trust fund, computed as provided in subsection (d).
+       The proportionate share of each participant in the amount of dividends received by the common trust fund and to which section 1(h)(11) applies shall be considered for purposes of such paragraph as having been received by such participant.
+  (d) Computation of common trust fund income
+     The taxable income of a common trust fund shall be computed in the same manner and on the same basis as in the case of an individual, except that–
+    (1) there shall be segregated the gains and losses from sales or exchanges of capital assets;
+    (2) after excluding all items of gain and loss from sales or exchanges of capital assets, there shall be computed–
+      (A) an ordinary taxable income which shall consist of the excess of the gross income over deductions; or
+      (B) an ordinary net loss which shall consist of the excess of the deductions over the gross income; and
+    (3) the deduction provided by section 170 (relating to charitable, etc., contributions and gifts) shall not be allowed.
+  (e) Admission and withdrawal
+     No gain or loss shall be realized by the common trust fund by the admission or withdrawal of a participant. The admission of a participant shall be treated with respect to the participant as the purchase of, or an exchange for, the participating interest. The withdrawal of any participating interest by a participant shall be treated as a sale or exchange of such interest by the participant.
+  (f) Different taxable years of common trust fund and participant
+     If the taxable year of the common trust fund is different from that of a participant, the inclusions with respect to the taxable income of the common trust fund, in computing the taxable income of the participant for its taxable year, shall be based upon the taxable income of the common trust fund for any taxable year of the common trust fund ending within or with the taxable year of the participant.
+  (g) Net operating loss deduction
+     The benefit of the deduction for net operating losses provided by section 172 shall not be allowed to a common trust fund, but shall be allowed to the participants in the common trust fund under regulations prescribed by the Secretary.
+  (h) Nonrecognition treatment for certain transfers to regulated investment companies
+    (1) In general
+       If–
+      (A) a common trust fund transfers substantially all of its assets to one or more regulated investment companies in exchange solely for stock in the company or companies to which such assets are so transferred, and
+      (B) such stock is distributed by such common trust fund to participants in such common trust fund in exchange solely for their interests in such common trust fund,
+       no gain or loss shall be recognized by such common trust fund by reason of such transfer or distribution, and no gain or loss shall be recognized by any participant in such common trust fund by reason of such exchange.
+    (2) Basis rules
+      (A) Regulated investment company
+         The basis of any asset received by a regulated investment company in a transfer referred to in paragraph (1)(A) shall be the same as it would be in the hands of the common trust fund.
+      (B) Participants
+         The basis of the stock which is received in an exchange referred to in paragraph (1)(B) shall be the same as that of the property exchanged. If stock in more than one regulated investment company is received in such exchange, the basis determined under the preceding sentence shall be allocated among the stock in each such company on the basis of respective fair market values.
+    (3) Treatment of assumptions of liability
+      (A) In general
+         In determining whether the transfer referred to in paragraph (1)(A) is in exchange solely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
+      (B) Special rule where assumed liabilities exceed basis
+        (i) In general
+           If, in any transfer referred to in paragraph (1)(A), the assumed liabilities exceed the aggregate adjusted bases (in the hands of the common trust fund) of the assets transferred to the regulated investment company or companies–
+          (I) notwithstanding paragraph (1), gain shall be recognized to the common trust fund on such transfer in an amount equal to such excess,
+          (II) the basis of the assets received by the regulated investment company or companies in such transfer shall be increased by the amount so recognized, and
+          (III) any adjustment to the basis of a participant“s interest in the common trust fund as a result of the gain so recognized shall be treated as occurring immediately before the exchange referred to in paragraph (1)(B).
+              If the transfer referred to in paragraph (1)(A) is to two or more regulated investment companies, the basis increase under subclause (II) shall be allocated among such companies on the basis of the respective fair market values of the assets received by each of such companies.
+        (ii) Assumed liabilities
+           For purposes of clause (i), the term ””assumed liabilities““ means any liability of the common trust fund assumed by any regulated investment company in connection with the transfer referred to in paragraph (1)(A).
+      (C) Assumption
+         For purposes of this paragraph, in determining the amount of any liability assumed, the rules of section 357(d) shall apply.
+    (4) Common trust fund must meet diversification rules
+       This subsection shall not apply to any common trust fund which would not meet the requirements of section 368(a)(2)(F)(ii) if it were a corporation. For purposes of the preceding sentence, Government securities shall not be treated as securities of an issuer in applying the 25-percent and 50-percent test and such securities shall not be excluded for purposes of determining total assets under clause (iv) of section 368(a)(2)(F).
+      (i) Taxable year of common trust fund
+         For purposes of this subtitle, the taxable year of any common trust fund shall be the calendar year.

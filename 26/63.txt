@@ -1,1 +1,68 @@
-   The President may, in his discretion, consolidate two or more agencies into one, and where Indians are located on reservations created by Executive order he may, with the consent of the tribes to be affected thereby, expressed in the usual manner, consolidate one or more tribes, and abolish such agencies as are thereby rendered unnecessary.
+  (a) In general
+     Except as provided in subsection (b), for purposes of this subtitle, the term ””taxable income““ means gross income minus the deductions allowed by this chapter (other than the standard deduction).
+  (b) Individuals who do not itemize their deductions
+     In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term ””taxable income““ means adjusted gross income, minus–
+    (1) the standard deduction, and
+    (2) the deduction for personal exemptions provided in section 151.
+  (c) Standard deduction
+     For purposes of this subtitle–
+    (1) In general
+       Except as otherwise provided in this subsection, the term ””standard deduction““ means the sum of–
+      (A) the basic standard deduction, and
+      (B) the additional standard deduction.
+    (2) Basic standard deduction
+       For purposes of paragraph (1), the basic standard deduction is–
+      (A) 200 percent of the dollar amount in effect under subparagraph (C) for the taxable year in the case of–
+        (i) a joint return, or
+        (ii) a surviving spouse (as defined in section 2(a)),
+      (B) $4,400 in the case of a head of household (as defined in section 2(b)), or
+      (C) $3,000 in any other case.
+    (3) Additional standard deduction for aged and blind
+       For purposes of paragraph (1), the additional standard deduction is the sum of each additional amount to which the taxpayer is entitled under subsection (f).
+    (4) Adjustments for inflation
+       In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2)(B), (2)(C), or (5) or subsection (f) shall be increased by an amount equal to–
+      (A) such dollar amount, multiplied by
+      (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for ””calendar year 1992““ in subparagraph (B) thereof–
+        (i) ””calendar year 1987““ in the case of the dollar amounts contained in paragraph (2)(B), (2)(C), or (5)(A) or subsection (f), and
+        (ii) ””calendar year 1997““ in the case of the dollar amount contained in paragraph (5)(B).
+    (5) Limitation on basic standard deduction in the case of certain dependents
+       In the case of an individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual“s taxable year begins, the basic standard deduction applicable to such individual for such individual“s taxable year shall not exceed the greater of–
+      (A) $500, or
+      (B) the sum of $250 and such individual“s earned income.
+    (6) Certain individuals, etc., not eligible for standard deduction
+       In the case of–
+      (A) a married individual filing a separate return where either spouse itemizes deductions,
+      (B) a nonresident alien individual,
+      (C) an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period, or
+      (D) an estate or trust, common trust fund, or partnership,
+       the standard deduction shall be zero.
+  (d) Itemized deductions
+     For purposes of this subtitle, the term ””itemized deductions““ means the deductions allowable under this chapter other than–
+    (1) the deductions allowable in arriving at adjusted gross income, and
+    (2) the deduction for personal exemptions provided by section 151.
+  (e) Election to itemize
+    (1) In general
+       Unless an individual makes an election under this subsection for the taxable year, no itemized deduction shall be allowed for the taxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
+    (2) Time and manner of election
+       Any election under this subsection shall be made on the taxpayer“s return, and the Secretary shall prescribe the manner of signifying such election on the return.
+    (3) Change of election
+       Under regulations prescribed by the Secretary, a change of election with respect to itemized deductions for any taxable year may be made after the filing of the return for such year. If the spouse of the taxpayer filed a separate return for any taxable year corresponding to the taxable year of the taxpayer, the change shall not be allowed unless, in accordance with such regulations–
+      (A) the spouse makes a change of election with respect to itemized deductions, for the taxable year covered in such separate return, consistent with the change of treatment sought by the taxpayer, and
+      (B) the taxpayer and his spouse consent in writing to the assessment (within such period as may be agreed on with the Secretary) of any deficiency, to the extent attributable to such change of election, even though at the time of the filing of such consent the assessment of such deficiency would otherwise be prevented by the operation of any law or rule of law.
+       This paragraph shall not apply if the tax liability of the taxpayer“s spouse for the taxable year corresponding to the taxable year of the taxpayer has been compromised under section 7122.
+  (f) Aged or blind additional amounts
+    (1) Additional amounts for the aged
+       The taxpayer shall be entitled to an additional amount of $600–
+      (A) for himself if he has attained age 65 before the close of his taxable year, and
+      (B) for the spouse of the taxpayer if the spouse has attained age 65 before the close of the taxable year and an additional exemption is allowable to the taxpayer for such spouse under section 151(b).
+    (2) Additional amount for blind
+       The taxpayer shall be entitled to an additional amount of $600–
+      (A) for himself if he is blind at the close of the taxable year, and
+      (B) for the spouse of the taxpayer if the spouse is blind as of the close of the taxable year and an additional exemption is allowable to the taxpayer for such spouse under section 151(b).
+       For purposes of subparagraph (B), if the spouse dies during the taxable year the determination of whether such spouse is blind shall be made as of the time of such death.
+    (3) Higher amount for certain unmarried individuals
+       In the case of an individual who is not married and is not a surviving spouse, paragraphs (1) and (2) shall be applied by substituting ””$750““ for ””$600““.
+    (4) Blindness defined
+       For purposes of this subsection, an individual is blind only if his central visual acuity does not exceed 20/200 in the better eye with correcting lenses, or if his visual acuity is greater than 20/200 but is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees.
+  (g) Marital status
+     For purposes of this section, marital status shall be determined under section 7703.

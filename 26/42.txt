@@ -1,1 +1,332 @@
-   Section, R.S. § 2068, provided for interpreters for Indian agencies under Department of the Interior.
+  (a) General rule
+     For purposes of section 38, the research credit determined under this section for the taxable year shall be an amount equal to the sum of–
+    (1) 20 percent of the excess (if any) of–
+      (A) the qualified research expenses for the taxable year, over
+      (B) the base amount,
+    (2) 20 percent of the basic research payments determined under subsection (e)(1)(A), and
+    (3) 20 percent of the amounts paid or incurred by the taxpayer in carrying on any trade or business of the taxpayer during the taxable year (including as contributions) to an energy research consortium.
+  (b) Qualified research expenses
+     For purposes of this section–
+    (1) Qualified research expenses
+       The term ””qualified research expenses““ means the sum of the following amounts which are paid or incurred by the taxpayer during the taxable year in carrying on any trade or business of the taxpayer–
+      (A) in-house research expenses, and
+      (B) contract research expenses.
+    (2) In-house research expenses
+      (A) In general
+         The term ””in-house research expenses““ means–
+        (i) any wages paid or incurred to an employee for qualified services performed by such employee,
+        (ii) any amount paid or incurred for supplies used in the conduct of qualified research, and
+        (iii) under regulations prescribed by the Secretary, any amount paid or incurred to another person for the right to use computers in the conduct of qualified research.
+         Clause (iii) shall not apply to any amount to the extent that the taxpayer (or any person with whom the taxpayer must aggregate expenditures under subsection (f)(1)) receives or accrues any amount from any other person for the right to use substantially identical personal property.
+      (B) Qualified services
+         The term ””qualified services““ means services consisting of–
+        (i) engaging in qualified research, or
+        (ii) engaging in the direct supervision or direct support of research activities which constitute qualified research.
+         If substantially all of the services performed by an individual for the taxpayer during the taxable year consists of services meeting the requirements of clause (i) or (ii), the term ””qualified services““ means all of the services performed by such individual for the taxpayer during the taxable year.
+      (C) Supplies
+         The term ””supplies““ means any tangible property other than–
+        (i) land or improvements to land, and
+        (ii) property of a character subject to the allowance for depreciation.
+      (D) Wages
+        (i) In general
+           The term ””wages““ has the meaning given such term by section 3401(a).
+        (ii) Self-employed individuals and owner-employees
+           In the case of an employee (within the meaning of section 401(c)(1)), the term ””wages““ includes the earned income (as defined in section 401(c)(2)) of such employee.
+        (iii) Exclusion for wages to which work opportunity credit applies
+           The term ””wages““ shall not include any amount taken into account in determining the work opportunity credit under section 51(a).
+    (3) Contract research expenses
+      (A) In general
+         The term ””contract research expenses““ means 65 percent of any amount paid or incurred by the taxpayer to any person (other than an employee of the taxpayer) for qualified research.
+      (B) Prepaid amounts
+         If any contract research expenses paid or incurred during any taxable year are attributable to qualified research to be conducted after the close of such taxable year, such amount shall be treated as paid or incurred during the period during which the qualified research is conducted.
+      (C) Amounts paid to certain research consortia
+        (i) In general
+           Subparagraph (A) shall be applied by substituting ””75 percent““ for ””65 percent““ with respect to amounts paid or incurred by the taxpayer to a qualified research consortium for qualified research on behalf of the taxpayer and 1 or more unrelated taxpayers. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as related taxpayers.
+        (ii) Qualified research consortium
+           The term ””qualified research consortium““ means any organization which–
+          (I) is described in section 501(c)(3) or 501(c)(6) and is exempt from tax under section 501(a),
+          (II) is organized and operated primarily to conduct scientific research, and
+          (III) is not a private foundation.
+      (D) Amounts paid to eligible small businesses, universities, and Federal laboratories
+        (i) In general
+           In the case of amounts paid by the taxpayer to–
+          (I) an eligible small business,
+          (II) an institution of higher education (as defined in section 3304(f)), or
+          (III) an organization which is a Federal laboratory,
+              for qualified research which is energy research, subparagraph (A) shall be applied by substituting ””100 percent““ for ””65 percent““.
+        (ii) Eligible small business
+           For purposes of this subparagraph, the term ””eligible small business““ means a small business with respect to which the taxpayer does not own (within the meaning of section 318) 50 percent or more of–
+          (I) in the case of a corporation, the outstanding stock of the corporation (either by vote or value), and
+          (II) in the case of a small business which is not a corporation, the capital and profits interests of the small business.
+        (iii) Small business
+           For purposes of this subparagraph–
+          (I) In general
+             The term ””small business““ means, with respect to any calendar year, any person if the annual average number of employees employed by such person during either of the 2 preceding calendar years was 500 or fewer. For purposes of the preceding sentence, a preceding calendar year may be taken into account only if the person was in existence throughout the year.
+          (II) Startups, controlled groups, and predecessors
+             Rules similar to the rules of subparagraphs (B) and (D) of section 220(c)(4) shall apply for purposes of this clause.
+        (iv) Federal laboratory
+           For purposes of this subparagraph, the term ””Federal laboratory““ has the meaning given such term by section 4(6) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(6)), as in effect on the date of the enactment of the Energy Tax Incentives Act of 2005.
+    (4) Trade or business requirement disregarded for in-house research expenses of certain startup ventures
+       In the case of in-house research expenses, a taxpayer shall be treated as meeting the trade or business requirement of paragraph (1) if, at the time such in-house research expenses are paid or incurred, the principal purpose of the taxpayer in making such expenditures is to use the results of the research in the active conduct of a future trade or business–
+      (A) of the taxpayer, or
+      (B) of 1 or more other persons who with the taxpayer are treated as a single taxpayer under subsection (f)(1).
+  (c) Base amount
+    (1) In general
+       The term ””base amount““ means the product of–
+      (A) the fixed-base percentage, and
+      (B) the average annual gross receipts of the taxpayer for the 4 taxable years preceding the taxable year for which the credit is being determined (hereinafter in this subsection referred to as the ””credit year““).
+    (2) Minimum base amount
+       In no event shall the base amount be less than 50 percent of the qualified research expenses for the credit year.
+    (3) Fixed-base percentage
+      (A) In general
+         Except as otherwise provided in this paragraph, the fixed-base percentage is the percentage which the aggregate qualified research expenses of the taxpayer for taxable years beginning after December 31, 1983, and before January 1, 1989, is of the aggregate gross receipts of the taxpayer for such taxable years.
+      (B) Start-up companies
+        (i) Taxpayers to which subparagraph applies
+           The fixed-base percentage shall be determined under this subparagraph if–
+          (I) the first taxable year in which a taxpayer had both gross receipts and qualified research expenses begins after December 31, 1983, or
+          (II) there are fewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.
+        (ii) Fixed-base percentage
+           In a case to which this subparagraph applies, the fixed-base percentage is–
+          (I) 3 percent for each of the taxpayer“s 1st 5 taxable years beginning after December 31, 1993, for which the taxpayer has qualified research expenses,
+          (II) in the case of the taxpayer“s 6th such taxable year, \1/6\ of the percentage which the aggregate qualified research expenses of the taxpayer for the 4th and 5th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
+          (III) in the case of the taxpayer“s 7th such taxable year, \1/3\ of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th and 6th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
+          (IV) in the case of the taxpayer“s 8th such taxable year, \1/2\ of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, and 7th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
+          (V) in the case of the taxpayer“s 9th such taxable year, \2/3\ of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, and 8th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
+          (VI) in the case of the taxpayer“s 10th such taxable year, \5/6\ of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, 8th, and 9th such taxable years is of the aggregate gross receipts of the taxpayer for such years, and
+          (VII) for taxable years thereafter, the percentage which the aggregate qualified research expenses for any 5 taxable years selected by the taxpayer from among the 5th through the 10th such taxable years is of the aggregate gross receipts of the taxpayer for such selected years.
+        (iii) Treatment of de minimis amounts of gross receipts and qualified research expenses
+           The Secretary may prescribe regulations providing that de minimis amounts of gross receipts and qualified research expenses shall be disregarded under clauses (i) and (ii).
+      (C) Maximum fixed-base percentage
+         In no event shall the fixed-base percentage exceed 16 percent.
+      (D) Rounding
+         The percentages determined under subparagraphs (A) and (B)(ii) shall be rounded to the nearest 1/100th of 1 percent.
+    (4) Election of alternative incremental credit
+      (A) In general
+         At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to the sum of–
+        (i) 2.65 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
+        (ii) 3.2 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
+        (iii) 3.75 percent of so much of such expenses as exceeds 2 percent of such average.
+      (B) Election
+         An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
+    (5) Consistent treatment of expenses required
+      (A) In general
+         Notwithstanding whether the period for filing a claim for credit or refund has expired for any taxable year taken into account in determining the fixed-base percentage, the qualified research expenses taken into account in computing such percentage shall be determined on a basis consistent with the determination of qualified research expenses for the credit year.
+      (B) Prevention of distortions
+         The Secretary may prescribe regulations to prevent distortions in calculating a taxpayer“s qualified research expenses or gross receipts caused by a change in accounting methods used by such taxpayer between the current year and a year taken into account in computing such taxpayer“s fixed-base percentage.
+    (6) Gross receipts
+       For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
+  (d) Qualified research defined
+     For purposes of this section–
+    (1) In general
+       The term ””qualified research““ means research–
+      (A) with respect to which expenditures may be treated as expenses under section 174,
+      (B) which is undertaken for the purpose of discovering information–
+        (i) which is technological in nature, and
+        (ii) the application of which is intended to be useful in the development of a new or improved business component of the taxpayer, and
+      (C) substantially all of the activities of which constitute elements of a process of experimentation for a purpose described in paragraph (3).
+       Such term does not include any activity described in paragraph (4).
+    (2) Tests to be applied separately to each business component
+       For purposes of this subsection–
+      (A) In general
+         Paragraph (1) shall be applied separately with respect to each business component of the taxpayer.
+      (B) Business component defined
+         The term ””business component““ means any product, process, computer software, technique, formula, or invention which is to be–
+        (i) held for sale, lease, or license, or
+        (ii) used by the taxpayer in a trade or business of the taxpayer.
+      (C) Special rule for production processes
+         Any plant process, machinery, or technique for commercial production of a business component shall be treated as a separate business component (and not as part of the business component being produced).
+    (3) Purposes for which research may qualify for credit
+       For purposes of paragraph (1)(C)–
+      (A) In general
+         Research shall be treated as conducted for a purpose described in this paragraph if it relates to–
+        (i) a new or improved function,
+        (ii) performance, or
+        (iii) reliability or quality.
+      (B) Certain purposes not qualified
+         Research shall in no event be treated as conducted for a purpose described in this paragraph if it relates to style, taste, cosmetic, or seasonal design factors.
+    (4) Activities for which credit not allowed
+       The term ””qualified research““ shall not include any of the following:
+      (A) Research after commercial production
+         Any research conducted after the beginning of commercial production of the business component.
+      (B) Adaptation of existing business components
+         Any research related to the adaptation of an existing business component to a particular customer“s requirement or need.
+      (C) Duplication of existing business component
+         Any research related to the reproduction of an existing business component (in whole or in part) from a physical examination of the business component itself or from plans, blueprints, detailed specifications, or publicly available information with respect to such business component.
+      (D) Surveys, studies, etc.
+         Any–
+        (i) efficiency survey,
+        (ii) activity relating to management function or technique,
+        (iii) market research, testing, or development (including advertising or promotions),
+        (iv) routine data collection, or
+        (v) routine or ordinary testing or inspection for quality control.
+      (E) Computer software
+         Except to the extent provided in regulations, any research with respect to computer software which is developed by (or for the benefit of) the taxpayer primarily for internal use by the taxpayer, other than for use in–
+        (i) an activity which constitutes qualified research (determined with regard to this subparagraph), or
+        (ii) a production process with respect to which the requirements of paragraph (1) are met.
+      (F) Foreign research
+         Any research conducted outside the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
+      (G) Social sciences, etc.
+         Any research in the social sciences, arts, or humanities.
+      (H) Funded research
+         Any research to the extent funded by any grant, contract, or otherwise by another person (or governmental entity).
+  (e) Credit allowable with respect to certain payments to qualified organizations for basic research
+     For purposes of this section–
+    (1) In general
+       In the case of any taxpayer who makes basic research payments for any taxable year–
+      (A) the amount of basic research payments taken into account under subsection (a)(2) shall be equal to the excess of–
+        (i) such basic research payments, over
+        (ii) the qualified organization base period amount, and
+      (B) that portion of such basic research payments which does not exceed the qualified organization base period amount shall be treated as contract research expenses for purposes of subsection (a)(1).
+    (2) Basic research payments defined
+       For purposes of this subsection–
+      (A) In general
+         The term ””basic research payment““ means, with respect to any taxable year, any amount paid in cash during such taxable year by a corporation to any qualified organization for basic research but only if–
+        (i) such payment is pursuant to a written agreement between such corporation and such qualified organization, and
+        (ii) such basic research is to be performed by such qualified organization.
+      (B) Exception to requirement that research be performed by the organization
+         In the case of a qualified organization described in subparagraph (C) or (D) of paragraph (6), clause (ii) of subparagraph (A) shall not apply.
+    (3) Qualified organization base period amount
+       For purposes of this subsection, the term ””qualified organization base period amount““ means an amount equal to the sum of–
+      (A) the minimum basic research amount, plus
+      (B) the maintenance-of-effort amount.
+    (4) Minimum basic research amount
+       For purposes of this subsection–
+      (A) In general
+         The term ””minimum basic research amount““ means an amount equal to the greater of–
+        (i) 1 percent of the average of the sum of amounts paid or incurred during the base period for–
+          (I) any in-house research expenses, and
+          (II) any contract research expenses, or
+        (ii) the amounts treated as contract research expenses during the base period by reason of this subsection (as in effect during the base period).
+      (B) Floor amount
+         Except in the case of a taxpayer which was in existence during a taxable year (other than a short taxable year) in the base period, the minimum basic research amount for any base period shall not be less than 50 percent of the basic research payments for the taxable year for which a determination is being made under this subsection.
+    (5) Maintenance-of-effort amount
+       For purposes of this subsection–
+      (A) In general
+         The term ””maintenance-of-effort amount““ means, with respect to any taxable year, an amount equal to the excess (if any) of–
+        (i) an amount equal to–
+          (I) the average of the nondesignated university contributions paid by the taxpayer during the base period, multiplied by
+          (II) the cost-of-living adjustment for the calendar year in which such taxable year begins, over
+        (ii) the amount of nondesignated university contributions paid by the taxpayer during such taxable year.
+      (B) Nondesignated university contributions
+         For purposes of this paragraph, the term ””nondesignated university contribution““ means any amount paid by a taxpayer to any qualified organization described in paragraph (6)(A)–
+        (i) for which a deduction was allowable under section 170, and
+        (ii) which was not taken into account–
+          (I) in computing the amount of the credit under this section (as in effect during the base period) during any taxable year in the base period, or
+          (II) as a basic research payment for purposes of this section.
+      (C) Cost-of-living adjustment defined
+        (i) In general
+           The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting ””calendar year 1987““ for ””calendar year 1992““ in subparagraph (B) thereof.
+        (ii) Special rule where base period ends in a calendar year other than 1983 or 1984
+           If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(B) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 1992. Such substitution shall be in lieu of the substitution under clause (i).
+    (6) Qualified organization
+       For purposes of this subsection, the term ””qualified organization““ means any of the following organizations:
+      (A) Educational institutions
+         Any educational organization which–
+        (i) is an institution of higher education (within the meaning of section 3304(f)), and
+        (ii) is described in section 170(b)(1)(A)(ii).
+      (B) Certain scientific research organizations
+         Any organization not described in subparagraph (A) which–
+        (i) is described in section 501(c)(3) and is exempt from tax under section 501(a),
+        (ii) is organized and operated primarily to conduct scientific research, and
+        (iii) is not a private foundation.
+      (C) Scientific tax-exempt organizations
+         Any organization which–
+        (i) is described in–
+          (I) section 501(c)(3) (other than a private foundation), or
+          (II) section 501(c)(6),
+        (ii) is exempt from tax under section 501(a),
+        (iii) is organized and operated primarily to promote scientific research by qualified organizations described in subparagraph (A) pursuant to written research agreements, and
+        (iv) currently expends–
+          (I) substantially all of its funds, or
+          (II) substantially all of the basic research payments received by it,
+              for grants to, or contracts for basic research with, an organization described in subparagraph (A).
+      (D) Certain grant organizations
+         Any organization not described in subparagraph (B) or (C) which–
+        (i) is described in section 501(c)(3) and is exempt from tax under section 501(a) (other than a private foundation),
+        (ii) is established and maintained by an organization established before July 10, 1981, which meets the requirements of clause (i),
+        (iii) is organized and operated exclusively for the purpose of making grants to organizations described in subparagraph (A) pursuant to written research agreements for purposes of basic research, and
+        (iv) makes an election, revocable only with the consent of the Secretary, to be treated as a private foundation for purposes of this title (other than section 4940, relating to excise tax based on investment income).
+    (7) Definitions and special rules
+       For purposes of this subsection–
+      (A) Basic research
+         The term ””basic research““ means any original investigation for the advancement of scientific knowledge not having a specific commercial objective, except that such term shall not include–
+        (i) basic research conducted outside of the United States, and
+        (ii) basic research in the social sciences, arts, or humanities.
+      (B) Base period
+         The term ””base period““ means the 3-taxable-year period ending with the taxable year immediately preceding the 1st taxable year of the taxpayer beginning after December 31, 1983.
+      (C) Exclusion from incremental credit calculation
+         For purposes of determining the amount of credit allowable under subsection (a)(1) for any taxable year, the amount of the basic research payments taken into account under subsection (a)(2)–
+        (i) shall not be treated as qualified research expenses under subsection (a)(1)(A), and
+        (ii) shall not be included in the computation of base amount under subsection (a)(1)(B).
+      (D) Trade or business qualification
+         For purposes of applying subsection (b)(1) to this subsection, any basic research payments shall be treated as an amount paid in carrying on a trade or business of the taxpayer in the taxable year in which it is paid (without regard to the provisions of subsection (b)(3)(B)).
+      (E) Certain corporations not eligible
+         The term ””corporation““ shall not include–
+        (i) an S corporation,
+        (ii) a personal holding company (as defined in section 542), or
+        (iii) a service organization (as defined in section 414(m)(3)).
+  (f) Special rules
+     For purposes of this section–
+    (1) Aggregation of expenditures
+      (A) Controlled group of corporations
+         In determining the amount of the credit under this section–
+        (i) all members of the same controlled group of corporations shall be treated as a single taxpayer, and
+        (ii) the credit (if any) allowable by this section to each such member shall be its proportionate shares of the qualified research expenses and basic research payments giving rise to the credit.
+      (B) Common control
+         Under regulations prescribed by the Secretary, in determining the amount of the credit under this section–
+        (i) all trades or businesses (whether or not incorporated) which are under common control shall be treated as a single taxpayer, and
+        (ii) the credit (if any) allowable by this section to each such person shall be its proportionate shares of the qualified research expenses and basic research payments giving rise to the credit.
+         The regulations prescribed under this subparagraph shall be based on principles similar to the principles which apply in the case of subparagraph (A).
+    (2) Allocations
+      (A) Pass-thru in the case of estates and trusts
+         Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+      (B) Allocation in the case of partnerships
+         In the case of partnerships, the credit shall be allocated among partners under regulations prescribed by the Secretary.
+    (3) Adjustments for certain acquisitions, etc.
+       Under regulations prescribed by the Secretary–
+      (A) Acquisitions
+         If, after December 31, 1983, a taxpayer acquires the major portion of a trade or business of another person (hereinafter in this paragraph referred to as the ””predecessor““) or the major portion of a separate unit of a trade or business of a predecessor, then, for purposes of applying this section for any taxable year ending after such acquisition, the amount of qualified research expenses paid or incurred by the taxpayer during periods before such acquisition shall be increased by so much of such expenses paid or incurred by the predecessor with respect to the acquired trade or business as is attributable to the portion of such trade or business or separate unit acquired by the taxpayer, and the gross receipts of the taxpayer for such periods shall be increased by so much of the gross receipts of such predecessor with respect to the acquired trade or business as is attributable to such portion.
+      (B) Dispositions
+         If, after December 31, 1983–
+        (i) a taxpayer disposes of the major portion of any trade or business or the major portion of a separate unit of a trade or business in a transaction to which subparagraph (A) applies, and
+        (ii) the taxpayer furnished the acquiring person such information as is necessary for the application of subparagraph (A),
+         then, for purposes of applying this section for any taxable year ending after such disposition, the amount of qualified research expenses paid or incurred by the taxpayer during periods before such disposition shall be decreased by so much of such expenses as is attributable to the portion of such trade or business or separate unit disposed of by the taxpayer, and the gross receipts of the taxpayer for such periods shall be decreased by so much of the gross receipts as is attributable to such portion.
+      (C) Certain reimbursements taken into account in determining fixed-base percentage
+         If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of–
+        (i) the amount of the decrease under subparagraph (B) which is allocable to taxable years so taken into account, or
+        (ii) the product of the number of taxable years so taken into account, multiplied by the amount of the reimbursement described in this subparagraph.
+    (4) Short taxable years
+       In the case of any short taxable year, qualified research expenses and gross receipts shall be annualized in such circumstances and under such methods as the Secretary may prescribe by regulation.
+    (5) Controlled group of corporations
+       The term ””controlled group of corporations““ has the same meaning given to such term by section 1563(a), except that–
+      (A) ””more than 50 percent““ shall be substituted for ””at least 80 percent““ each place it appears in section 1563(a)(1), and
+      (B) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
+    (6) Energy research consortium
+      (A) In general
+         The term ””energy research consortium““ means any organization–
+        (i) which is–
+          (I) described in section 501(c)(3) and is exempt from tax under section 501(a) and is organized and operated primarily to conduct energy research, or
+          (II) organized and operated primarily to conduct energy research in the public interest (within the meaning of section 501(c)(3)),
+        (ii) which is not a private foundation,
+        (iii) to which at least 5 unrelated persons paid or incurred during the calendar year in which the taxable year of the organization begins amounts (including as contributions) to such organization for energy research, and
+        (iv) to which no single person paid or incurred (including as contributions) during such calendar year an amount equal to more than 50 percent of the total amounts received by such organization during such calendar year for energy research.
+      (B) Treatment of persons
+         All persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as related persons for purposes of subparagraph (A)(iii) and as a single person for purposes of subparagraph (A)(iv).
+      (C) Foreign research
+         For purposes of subsection (a)(3), amounts paid or incurred for any energy research conducted outside the United States, the Commonwealth of Puerto Rico, or any possession of the United States shall not be taken into account.
+      (D) Denial of double benefit
+         Any amount taken into account under subsection (a)(3) shall not be taken into account under paragraph (1) or (2) of subsection (a).
+  (g) Special rule for pass-thru of credit
+     In the case of an individual who–
+    (1) owns an interest in an unincorporated trade or business,
+    (2) is a partner in a partnership,
+    (3) is a beneficiary of an estate or trust, or
+    (4) is a shareholder in an S corporation,
+       the amount determined under subsection (a) for any taxable year shall not exceed an amount (separately computed with respect to such person“s interest in such trade or business or entity) equal to the amount of tax attributable to that portion of a person“s taxable income which is allocable or apportionable to the person“s interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
+  (h) Termination
+    (1) In general
+       This section shall not apply to any amount paid or incurred–
+      (A) after June 30, 1995, and before July 1, 1996, or
+      (B) after December 31, 2005.
+    (2) Computation of base amount
+       In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.

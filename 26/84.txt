@@ -1,1 +1,9 @@
-   Section, R.S. § 2106, related to restrictions on assignments of contracts.
+  (a) General rule
+     If–
+    (1) any person transfers property to a political organization, and
+    (2) the fair market value of such property exceeds its adjusted basis,
+       then for purposes of this chapter the transferor shall be treated as having sold such property to the political organization on the date of the transfer, and the transferor shall be treated as having realized an amount equal to the fair market value of such property on such date.
+  (b) Basis of property
+     In the case of a transfer of property to a political organization to which subsection (a) applies, the basis of such property in the hands of the political organization shall be the same as it would be in the hands of the transferor, increased by the amount of gain recognized to the transferor by reason of such transfer.
+  (c) Political organization defined
+     For purposes of this section, the term ””political organization““ has the meaning given to such term by section 527(e)(1).

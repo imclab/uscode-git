@@ -1,1 +1,143 @@
-   In no event shall any portion of the said judgment fund become liable, payable, or subject to any debt or debts contracted prior to the passage of this subchapter by any Indian of the Klamath Tribe except debts to the United States or to the tribe.
+  (a) General rule
+     For purposes of this subtitle, the term ””personal holding company income““ means the portion of the adjusted ordinary gross income which consists of:
+    (1) Dividends, etc.
+       Dividends, interest, royalties (other than mineral, oil, or gas royalties or copyright royalties), and annuities. This paragraph shall not apply to–
+      (A) interest constituting rent (as defined in subsection (b)(3)),
+      (B) interest on amounts set aside in a reserve fund under section 511 or 607 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1161 or 1177),
+      (C) active business computer software royalties (within the meaning of subsection (d)), and
+      (D) interest received by a broker or dealer (within the meaning of section 3(a)(4) or (5) of the Securities and Exchange Act of 1934) in connection with–
+        (i) any securities or money market instruments held as property described in section 1221(a)(1),
+        (ii) margin accounts, or
+        (iii) any financing for a customer secured by securities or money market instruments.
+    (2) Rents
+       The adjusted income from rents; except that such adjusted income shall not be included if–
+      (A) such adjusted income constitutes 50 percent or more of the adjusted ordinary gross income, and
+      (B) the sum of–
+        (i) the dividends paid during the taxable year (determined under section 562),
+        (ii) the dividends considered as paid on the last day of the taxable year under section 563(d) \1\N (as limited by the second sentence of section 563(b)), and
+        (iii) the consent dividends for the taxable year (determined under section 565),
+       equals or exceeds the amount, if any, by which the personal holding company income for the taxable year (computed without regard to this paragraph and paragraph (6), and computed by including as personal holding company income copyright royalties and the adjusted income from mineral, oil, and gas royalties) exceeds 10 percent of the ordinary gross income.
+    (3) Mineral, oil, and gas royalties
+       The adjusted income from mineral, oil, and gas royalties; except that such adjusted income shall not be included if–
+      (A) such adjusted income constitutes 50 percent or more of the adjusted ordinary gross income,
+      (B) the personal holding company income for the taxable year (computed without regard to this paragraph, and computed by including as personal holding company income copyright royalties and the adjusted income from rents) is not more than 10 percent of the ordinary gross income, and
+      (C) the sum of the deductions which are allowable under section 162 (relating to trade or business expenses) other than–
+        (i) deductions for compensation for personal services rendered by the shareholders, and
+        (ii) deductions which are specifically allowable under sections other than section 162,
+       equals or exceeds 15 percent of the adjusted ordinary gross income.
+    (4) Copyright royalties
+       Copyright royalties; except that copyright royalties shall not be included if–
+      (A) such royalties (exclusive of royalties received for the use of, or right to use, copyrights or interests in copyrights on works created in whole, or in part, by any shareholder) constitute 50 percent or more of the ordinary gross income,
+      (B) the personal holding company income for the taxable year computed–
+        (i) without regard to copyright royalties, other than royalties received for the use of, or right to use, copyrights or interests in copyrights in works created in whole, or in part, by any shareholder owning more than 10 percent of the total outstanding capital stock of the corporation,
+        (ii) without regard to dividends from any corporation in which the taxpayer owns at least 50 percent of all classes of stock entitled to vote and at least 50 percent of the total value of all classes of stock and which corporation meets the requirements of this subparagraph and subparagraphs (A) and (C), and
+        (iii) by including as personal holding company income the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties,
+       is not more than 10 percent of the ordinary gross income, and
+      (C) the sum of the deductions which are properly allocable to such royalties and which are allowable under section 162, other than–
+        (i) deductions for compensation for personal services rendered by the shareholders,
+        (ii) deductions for royalties paid or accrued, and
+        (iii) deductions which are specifically allowable under sections other than section 162,
+       equals or exceeds 25 percent of the amount by which the ordinary gross income exceeds the sum of the royalties paid or accrued and the amounts allowable as deductions under section 167 (relating to depreciation) with respect to copyright royalties.
+       For purposes of this subsection, the term ””copyright royalties““ means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue of any international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term ””shareholder““ shall include any person who owns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
+       This paragraph shall apply with respect to amounts received for services under a particular contract only if at some time during the taxable year 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for the individual who has performed, is to perform, or may be designated (by name or by description) as the one to perform, such services.
+    (5) Produced film rents
+      (A) Produced film rents; except that such rents shall not be included if such rents constitute 50 percent or more of the ordinary gross income.
+      (B) For purposes of this section, the term ””produced film rents““ means payments received with respect to an interest in a film for the use of, or right to use, such film, but only to the extent that such interest was acquired before substantial completion of production of such film. In the case of a producer who actively participates in the production of the film, such term includes an interest in the proceeds or profits from the film, but only to the extent such interest is attributable to such active participation.
+    (6) Use of corporate property by shareholder
+      (A) Amounts received as compensation (however designated and from whomever received) for the use of, or the right to use, tangible property of the corporation in any case where, at any time during the taxable year, 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for an individual entitled to the use of the property (whether such right is obtained directly from the corporation or by means of a sublease or other arrangement).
+      (B) Subparagraph (A) shall apply only to a corporation which has personal holding company income in excess of 10 percent of its ordinary gross income.
+      (C) For purposes of the limitation in subparagraph (B), personal holding company income shall be computed–
+        (i) without regard to subparagraph (A) or paragraph (2),
+        (ii) by excluding amounts received as compensation for the use of (or right to use) intangible property (other than mineral, oil, or gas royalties or copyright royalties) if a substantial part of the tangible property used in connection with such intangible property is owned by the corporation and all such tangible and intangible property is used in the active conduct of a trade or business by an individual or individuals described in subparagraph (A), and
+        (iii) by including copyright royalties and adjusted income from mineral, oil, and gas royalties.
+    (7) Personal service contracts
+      (A) Amounts received under a contract under which the corporation is to furnish personal services; if some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or if the individual who is to perform the services is designated (by name or by description) in the contract; and
+      (B) amounts received from the sale or other disposition of such a contract.
+    (8) Estates and trusts
+       Amounts includible in computing the taxable income of the corporation under part I of subchapter J (sec. 641 and following, relating to estates, trusts, and beneficiaries).
+  (b) Definitions
+     For purposes of this part–
+    (1) Ordinary gross income
+       The term ””ordinary gross income““ means the gross income determined by excluding–
+      (A) all gains from the sale or other disposition of capital assets, and
+      (B) all gains (other than those referred to in subparagraph (A)) from the sale or other disposition of property described in section 1231(b).
+    (2) Adjusted ordinary gross income
+       The term ””adjusted ordinary gross income““ means the ordinary gross income adjusted as follows:
+      (A) Rents
+         From the gross income from rents (as defined in the second sentence of paragraph (3) of this subsection) subtract the amount allowable as deductions for–
+        (i) exhaustion, wear and tear, obsolescence, and amortization of property other than tangible personal property which is not customarily retained by any one lessee for more than three years,
+        (ii) property taxes,
+        (iii) interest, and
+        (iv) rent,
+         to the extent allocable, under regulations prescribed by the Secretary, to such gross income from rents. The amount subtracted under this subparagraph shall not exceed such gross income from rents.
+      (B) Mineral royalties, etc.
+         From the gross income from mineral, oil, and gas royalties described in paragraph (4), and from the gross income from working interests in an oil or gas well, subtract the amount allowable as deductions for–
+        (i) exhaustion, wear and tear, obsolescence, amortization, and depletion,
+        (ii) property and severance taxes,
+        (iii) interest, and
+        (iv) rent,
+         to the extent allocable, under regulations prescribed by the Secretary, to such gross income from royalties or such gross income from working interests in oil or gas wells. The amount subtracted under this subparagraph with respect to royalties shall not exceed the gross income from such royalties, and the amount subtracted under this subparagraph with respect to working interests shall not exceed the gross income from such working interests.
+      (C) Interest
+         There shall be excluded–
+        (i) interest received on a direct obligation of the United States held for sale to customers in the ordinary course of trade or business by a regular dealer who is making a primary market in such obligations, and
+        (ii) interest on a condemnation award, a judgment, and a tax refund.
+      (D) Certain excluded rents
+         From the gross income consisting of compensation described in subparagraph (D) of paragraph (3) subtract the amount allowable as deductions for the items described in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the extent allocable, under regulations prescribed by the Secretary, to such gross income. The amount subtracted under this subparagraph shall not exceed such gross income.
+    (3) Adjusted income from rents
+       The term ””adjusted income from rents““ means the gross income from rents, reduced by the amount subtracted under paragraph (2)(A) of this subsection. For purposes of the preceding sentence, the term ””rents““ means compensation, however designated, for the use of, or right to use, property, and the interest on debts owed to the corporation, to the extent such debts represent the price for which real property held primarily for sale to customers in the ordinary course of its trade or business was sold or exchanged by the corporation; but such term does not include–
+      (A) amounts constituting personal holding company income under subsection (a)(6),
+      (B) copyright royalties (as defined in subsection (a)(4)),
+      (C) produced film rents (as defined in subsection (a)(5)(B)),
+      (D) compensation, however designated, for the use of, or the right to use, any tangible personal property manufactured or produced by the taxpayer, if during the taxable year the taxpayer is engaged in substantial manufacturing or production of tangible personal property of the same type, or
+      (E) active business computer software royalties (as defined in subsection (d)).
+    (4) Adjusted income from mineral, oil, and gas royalties
+       The term ””adjusted income from mineral, oil, and gas royalties““ means the gross income from mineral, oil, and gas royalties (including production payments and overriding royalties), reduced by the amount subtracted under paragraph (2)(B) of this subsection in respect of such royalties.
+  (c) Gross income of insurance companies other than life insurance companies
+     In the case of an insurance company other than a life insurance company, the term ””gross income““ as used in this part means the gross income, as defined in section 832(b)(1), increased by the amount of losses incurred, as defined in section 832(b)(5), and the amount of expenses incurred, as defined in section 832(b)(6), and decreased by the amount deductible under section 832(c)(7) (relating to tax-free interest).
+  (d) Active business computer software royalties
+    (1) In general
+       For purposes of this section, the term ””active business computer software royalties““ means any royalties–
+      (A) received by any corporation during the taxable year in connection with the licensing of computer software, and
+      (B) with respect to which the requirements of paragraphs (2), (3), (4), and (5) are met.
+    (2) Royalties must be received by corporation actively engaged in computer software business
+       The requirements of this paragraph are met if the royalties described in paragraph (1)–
+      (A) are received by a corporation engaged in the active conduct of the trade or business of developing, manufacturing, or producing computer software, and
+      (B) are attributable to computer software which–
+        (i) is developed, manufactured, or produced by such corporation (or its predecessor) in connection with the trade or business described in subparagraph (A), or
+        (ii) is directly related to such trade or business.
+    (3) Royalties must constitute at least 50 percent of income
+       The requirements of this paragraph are met if the royalties described in paragraph (1) constitute at least 50 percent of the ordinary gross income of the corporation for the taxable year.
+    (4) Deductions under sections 162 and 174 relating to royalties must equal or exceed 25 percent of ordinary gross income
+      (A) In general
+         The requirements of this paragraph are met if–
+        (i) the sum of the deductions allowable to the corporation under sections 162, 174, and 195 for the taxable year which are properly allocable to the trade or business described in paragraph (2) equals or exceeds 25 percent of the ordinary gross income of such corporation for such taxable year, or
+        (ii) the average of such deductions for the 5-taxable year period ending with such taxable year equals or exceeds 25 percent of the average ordinary gross income of such corporation for such period.
+         If a corporation has not been in existence during the 5-taxable year period described in clause (ii), then the period of existence of such corporation shall be substituted for such 5-taxable year period.
+      (B) Deductions allowable under section 162
+         For purposes of subparagraph (A), a deduction shall not be treated as allowable under section 162 if it is specifically allowable under another section.
+      (C) Limitation on allowable deductions
+         For purposes of subparagraph (A), no deduction shall be taken into account with respect to compensation for personal services rendered by the 5 individual shareholders holding the largest percentage (by value) of the outstanding stock of the corporation. For purposes of the preceding sentence–
+        (i) individuals holding less than 5 percent (by value) of the stock of such corporation shall not be taken into account, and
+        (ii) stock deemed to be owned by a shareholder solely by attribution from a partner under section 544(a)(2) shall be disregarded.
+    (5) Dividends must equal or exceed excess of personal holding company income over 10 percent of ordinary gross income
+      (A) In general
+         The requirements of this paragraph are met if the sum of–
+        (i) the dividends paid during the taxable year (determined under section 562),
+        (ii) the dividends considered as paid on the last day of the taxable year under section 563(d) \1\ (as limited by the second sentence of section 563(b)), and
+        (iii) the consent dividends for the taxable year (determined under section 565),
+         equals or exceeds the amount, if any, by which the personal holding company income for the taxable year exceeds 10 percent of the ordinary gross income of such corporation for such taxable year.
+      (B) Computation of personal holding company income
+         For purposes of this paragraph, personal holding company income shall be computed–
+        (i) without regard to amounts described in subsection (a)(1)(C),
+        (ii) without regard to interest income during any taxable year–
+          (I) which is in the 5-taxable year period beginning with the later of the 1st taxable year of the corporation or the 1st taxable year in which the corporation conducted the trade or business described in paragraph (2)(A), and
+          (II) during which the corporation meets the requirements of paragraphs (2), (3), and (4), and
+        (iii) by including adjusted income from rents and adjusted income from mineral, oil, and gas royalties (within the meaning of paragraphs (2) and (3) of subsection (a)).
+    (6) Special rules for affiliated group members
+      (A) In general
+         In any case in which–
+        (i) the taxpayer receives royalties in connection with the licensing of computer software, and
+        (ii) another corporation which is a member of the same affiliated group as the taxpayer meets the requirements of paragraphs (2), (3), (4), and (5) with respect to such computer software,
+         the taxpayer shall be treated as having met such requirements.
+      (B) Affiliated group
+         For purposes of this paragraph, the term ””affiliated group““ has the meaning given such term by section 1504(a).

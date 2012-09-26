@@ -1,0 +1,31 @@
+  (a) General rule
+     If for the taxable year an S corporation has–
+    (1) accumulated earnings and profits at the close of such taxable year, and
+    (2) gross receipts more than 25 percent of which are passive investment income,
+       then there is hereby imposed a tax on the income of such corporation for such taxable year. Such tax shall be computed by multiplying the excess net passive income by the highest rate of tax specified in section 11(b).
+  (b) Definitions
+     For purposes of this section–
+    (1) Excess net passive income
+      (A) In general
+         Except as provided in subparagraph (B), the term ””excess net passive income““ means an amount which bears the same ratio to the net passive income for the taxable year as–
+        (i) the amount by which the passive investment income for the taxable year exceeds 25 percent of the gross receipts for the taxable year, bears to
+        (ii) the passive investment income for the taxable year.
+      (B) Limitation
+         The amount of the excess net passive income for any taxable year shall not exceed the amount of the corporation“s taxable income for such taxable year as determined under section 63(a)–
+        (i) without regard to the deductions allowed by part VIII of subchapter B (other than the deduction allowed by section 248, relating to organization expenditures), and
+        (ii) without regard to the deduction under section 172.
+    (2) Net passive income
+       The term ””net passive income““ means–
+      (A) passive investment income, reduced by
+      (B) the deductions allowable under this chapter which are directly connected with the production of such income (other than deductions allowable under section 172 and part VIII of subchapter B).
+    (3) Passive investment income, etc.
+       The terms ””passive investment income““ and ””gross receipts““ have the same respective meanings as when used in paragraph (3) of section 1362(d).
+    (4) Coordination with section 1374
+       Notwithstanding paragraph (3), the amount of passive investment income shall be determined by not taking into account any recognized built-in gain or loss of the S corporation for any taxable year in the recognition period. Terms used in the preceding sentence shall have the same respective meanings as when used in section 1374.
+  (c) Credits not allowable
+     No credit shall be allowed under part IV of subchapter A of this chapter (other than section 34) against the tax imposed by subsection (a).
+  (d) Waiver of tax in certain cases
+     If the S corporation establishes to the satisfaction of the Secretary that–
+    (1) it determined in good faith that it had no accumulated earnings and profits at the close of a taxable year, and
+    (2) during a reasonable period of time after it was determined that it did have accumulated earnings and profits at the close of such taxable year such earnings and profits were distributed,
+       the Secretary may waive the tax imposed by subsection (a) for such taxable year.
