@@ -1,7 +1,9 @@
-  (a) T4DefinitionsK.–In this section and section 14506, the following definitions apply:
+  (a) T4DefinitionsK.–In this section and section 14506 (except as provided in paragraph (5)), the following definitions apply:
     (1) T4Commercial motor vehicle.–
-      (A) T4In generalK.–Except as provided in subparagraph (B), the term ””commercial motor vehicle““ has the meaning such term has under section 31101.
-      (B) T4ExceptionK.–With respect to a motor carrier required to make any filing or pay any fee to a State with respect to the motor carrier“s authority or insurance related to operation within such State, the motor carrier shall have the option to include, in addition to commercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
+      (A) T4In generalK.–Except as provided in subparagraph (B), the term ””commercial motor vehicle““–
+        (i) for calendar years 2008 and 2009, has the meaning given the term in section 31101; and
+        (ii) for years beginning after December 31, 2009, means a self-propelled vehicle described in section 31101.
+      (B) T4ExceptionK.–With respect to determining the size of a motor carrier or motor private carrier“s fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier shall have the option to include, in addition to commercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
     (2) T4Base-state.–
       (A) T4In generalK.–Subject to subparagraph (B), the term ””base-State““ means, with respect to a unified carrier registration agreement, a State–
         (i) that is in compliance with the requirements of subsection (e); and
@@ -11,7 +13,17 @@
         (ii) the motor carrier, motor private carrier, broker, freight forwarder, or leasing company does not have a principal place of business in the United States.
     (3) T4Intrastate feeK.–The term ””intrastate fee““ means any fee, tax, or other type of assessment, including per vehicle fees and gross receipts taxes, imposed on a motor carrier or motor private carrier for the renewal of the intrastate authority or insurance filings of such carrier with a State.
     (4) T4Leasing companyK.–The term ””leasing company““ means a lessor that is engaged in the business of leasing or renting for compensation motor vehicles without drivers to a motor carrier, motor private carrier, or freight forwarder.
-    (5) T4Motor carrierK.–The term ””motor carrier““ includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.
+    (5) T4Motor carrier.–
+      (A) T4This sectionK.–In this section:
+        (i) T4In generalK.–The term ””motor carrier““ includes all carriers that are otherwise exempt from this part–
+          (I) under subchapter I of chapter 135; or
+          (II) through exemption actions by the former Interstate Commerce Commission under this title.
+        (ii) T4ExclusionsK.–In this section, the term ””motor carrier““ does not include–
+          (I) any carrier subject to section 13504; or
+          (II) any other carrier that the board of directors of the unified carrier registration plan determines to be appropriate pursuant to subsection (d)(4)(C).
+      (B) T4Section 14506K.–In section 14506, the term ””motor carrier““ includes all carriers that are otherwise exempt from this part–
+        (i) under subchapter I of chapter 135; or
+        (ii) through exemption actions by the former Interstate Commerce Commission under this title.
     (6) T4Participating stateK.–The term ””participating State““ means a State that has complied with the requirements of subsection (e).
     (7) SSRS.–The term ””SSRS““ means the single state registration system in effect on the date of enactment of this section.
     (8) T4Unified carrier registration agreementK.–The terms ””unified carrier registration agreement““ and ””UCR agreement““ mean the interstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
@@ -21,15 +33,15 @@
   (c) T4Unreasonable BurdenK.–For purposes of this section, it shall be considered an unreasonable burden upon interstate commerce for any State or any political subdivision of a State, or any political authority of two or more States–
     (1) to enact, impose, or enforce any requirement or standards with respect to, or levy any fee or charge on, any motor carrier or motor private carrier providing transportation or service subject to jurisdiction under subchapter I of chapter 135 (in this section referred to as an ””interstate motor carrier““ and an ””interstate motor private carrier““, respectively) in connection with–
       (A) the registration with the State of the interstate operations of the motor carrier or motor private carrier;
-      (B) the filing with the State of information relating to the financial responsibility of the a \1\N motor carrier or motor private carrier pursuant to sections 31138 or 31139;
-      (C) the filing with the State of the name of the local agent for service of process of the motor carrier or motor private carrier pursuant to sections \2\N 503 or 13304; or
+      (B) the filing with the State of information relating to the financial responsibility of a motor carrier or motor private carrier pursuant to sections 31138 or 31139;
+      (C) the filing with the State of the name of the local agent for service of process of the motor carrier or motor private carrier pursuant to sections \1\N 503 or 13304; or
       (D) the annual renewal of the intrastate authority, or the insurance filings, of the motor carrier or motor private carrier, or other intrastate filing requirement necessary to operate within the State if the motor carrier or motor private carrier is–
         (i) registered under section 13902 or section 13905(b); and
         (ii) in compliance with the laws and regulations of the State authorizing the carrier to operate in the State in accordance with section 14501(c)(2)(A); except with respect to–
           (I) intrastate service provided by motor carriers of passengers that is not subject to the preemption provisions of section 14501(a);
-          (II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2).\3\N
+          (II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2).\2\N
           (III) the intrastate transportation of waste or recyclable materials by any carrier; or
-    (2) to require any interstate motor carrier or motor private carrier that also performs intrastate operations to pay any fee or tax which \1\ a carrier engaged exclusively in interstate operations is exempt.
+    (2) to require any interstate motor carrier or motor private carrier that also performs intrastate operations to pay any fee or tax which \3\N a carrier engaged exclusively in intrastate operations is exempt.
   (d) T4Unified Carrier Registration Plan.–
     (1) T4Board of directors.–
       (A) T4Governance of plan; establishmentK.–The unified carrier registration plan shall have a board of directors consisting of representatives of the Department of Transportation, participating States, and the motor carrier industry. The Secretary shall establish the board.
@@ -59,7 +71,7 @@
     (4) T4Meetings.–
       (A) T4In generalK.–The board shall meet at least once per year. Additional meetings may be called, as needed, by the chairperson of the board, a majority of the directors, or the Secretary.
       (B) T4QuorumK.–A majority of directors shall constitute a quorum.
-      (C) T4VotingK.–Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting.
+      (C) T4VotingK.–Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term ””motor carrier““ under subsection (a)(5) shall require an affirmative vote of \3/4\ of all such directors..\3\
       (D) T4Open meetingsK.–Meetings of the board and any subcommittees or task forces appointed under paragraph (5) shall be subject to the provisions of section 552b of title 5.
     (5) T4Subcommittees.–
       (A) T4Industry advisory subcommitteeK.–The chairperson shall appoint an industry advisory subcommittee. The industry advisory subcommittee shall consider any matter before the board and make recommendations to the board.
@@ -90,8 +102,8 @@
     (5) T4Provision of plan to chairpersonK.–The Secretary shall provide a copy of each plan submitted under this subsection to the chairperson of the board of directors not later than 10 days after date of submission of the plan.
   (f) T4Contents of Unified Carrier Registration AgreementK.–The unified carrier registration agreement shall provide the following:
     (1) T4FeesK.–(A) Fees charged–
-      (i) to a motor carrier, motor private carrier, or freight forwarder in connection with the filing of proof of financial responsibility under the UCR agreement shall be based on the number of commercial motor vehicles owned or operated by the motor carrier, motor private carrier, or freight forwarder; and
-      (ii) to a broker or leasing company in connection with such a filing shall be equal to the smallest fee charged to a motor carrier, motor private carrier, and freight forwarder or under this paragraph.
+      (i) to a motor carrier, motor private carrier, or freight forwarder under the UCR agreement shall be based on the number of commercial motor vehicles owned or operated by the motor carrier, motor private carrier, or freight forwarder; and
+      (ii) to a broker or leasing company under the UCR agreement shall be equal to the smallest fee charged to a motor carrier, motor private carrier, and freight forwarder under this paragraph.
   (B) The fees shall be determined by the Secretary based upon the recommendation of the board under subsection (d)(7).
   (C) The board shall develop for purposes of charging fees no more than 6 and no less than 4 brackets of carriers (including motor private carriers) based on the size of fleet.
   (D) The fee scale shall be progressive in the amount of the fee.

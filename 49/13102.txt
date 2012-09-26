@@ -11,11 +11,11 @@
   (6) T4Foreign motor carrierK.–The term ””foreign motor carrier““ means a person (including a motor carrier of property but excluding a motor private carrier)–
     (A)      (i) that is domiciled in a contiguous foreign country; or
       (ii) that is owned or controlled by persons of a contiguous foreign country; and
-    (B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
+    (B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
   (7) T4Foreign motor private carrierK.–The term ””foreign motor private carrier““ means a person (including a motor private carrier but excluding a motor carrier of property)–
     (A)      (i) that is domiciled in a contiguous foreign country; or
       (ii) that is owned or controlled by persons of a contiguous foreign country; and
-    (B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
+    (B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
   (8) T4Freight forwarderK.–The term ””freight forwarder““ means a person holding itself out to the general public (other than as a pipeline, rail, motor, or water carrier) to provide transportation of property for compensation and in the ordinary course of its business–
     (A) assembles and consolidates, or provides for assembling and consolidating, shipments and performs or provides for break-bulk and distribution operations of the shipments;
     (B) assumes responsibility for the transportation from the place of receipt to the place of destination; and
@@ -39,8 +39,8 @@
     (B) is identified as the shipper, consignor, or consignee on the face of the bill of lading;
     (C) owns the goods being transported; and
     (D) pays his or her own tariff transportation charges.
-  (14) T4Motor carrierK.–The term ””motor carrier““ means a person providing commercial motor vehicle (as defined in section 31132) transportation for compensation.
-  (15) T4Motor private carrierK.–The term ””motor private carrier““ means a person, other than a motor carrier, transporting property by commercial motor vehicle (as defined in section 31132) when–
+  (14) T4Motor carrierK.–The term ””motor carrier““ means a person providing motor vehicle transportation for compensation.
+  (15) T4Motor private carrierK.–The term ””motor private carrier““ means a person, other than a motor carrier, transporting property by motor vehicle when–
     (A) the transportation is as provided in section 13501 of this title;
     (B) the person is the owner, lessee, or bailee of the property being transported; and
     (C) the property is being transported for sale, lease, rent, or bailment or to further a commercial enterprise.
@@ -61,3 +61,4 @@
   (24) T4United statesK.–The term ””United States““ means the States of the United States and the District of Columbia.
   (25) T4VesselK.–The term ””vessel““ means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
   (26) T4Water carrierK.–The term ””water carrier““ means a person providing water transportation for compensation.
+  (27) T4Over-the-road busK.–The term ””over-the-road bus““ means a bus characterized by an elevated passenger deck located over a baggage compartment.

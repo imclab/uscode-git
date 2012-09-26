@@ -36,14 +36,18 @@
     (19) ””pipeline transportation““ means transporting gas and transporting hazardous liquid;
     (20) ””State““ means a State of the United States, the District of Columbia, and Puerto Rico;
     (21) ””transporting gas““–
-      (A) means the gathering, transmission, or distribution of gas by pipeline, or the storage of gas, in interstate or foreign commerce; but
-      (B) does not include the gathering of gas, other than gathering through regulated gathering lines, in those rural locations that are located outside the limits of any incorporated or unincorporated city, town, or village, or any other designated residential or commercial area (including a subdivision, business, shopping center, or community development) or any similar populated area that the Secretary of Transportation determines to be a nonrural area, except that the term ””transporting gas““ includes the movement of gas through regulated gathering lines;
+      (A) means–
+        (i) the gathering, transmission, or distribution of gas by pipeline, or the storage of gas, in interstate or foreign commerce; and
+        (ii) the movement of gas through regulated gathering lines; but
+      (B) does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area.\1\N
     (22) ””transporting hazardous liquid““–
-      (A) means the movement of hazardous liquid by pipeline, or the storage of hazardous liquid incidental to the movement of hazardous liquid by pipeline, in or affecting interstate or foreign commerce; but
+      (A) means–
+        (i) the movement of hazardous liquid by pipeline, or the storage of hazardous liquid incidental to the movement of hazardous liquid by pipeline, in or affecting interstate or foreign commerce; and
+        (ii) the movement of hazardous liquid through regulated gathering lines; but
       (B) does not include moving hazardous liquid through–
-        (i) gathering lines in a rural area;
+        (i) gathering lines (except regulated gathering lines) in a rural area;
         (ii) onshore production, refining, or manufacturing facilities; or
-        (iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities;
+        (iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities.\1\
     (23) ””risk management““ means the systematic application, by the owner or operator of a pipeline facility, of management policies, procedures, finite resources, and practices to the tasks of identifying, analyzing, assessing, reducing, and controlling risk in order to protect employees, the general public, the environment, and pipeline facilities;
     (24) ””risk management plan““ means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management; and
     (25) ””Secretary““ means the Secretary of Transportation.

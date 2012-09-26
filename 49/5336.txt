@@ -15,7 +15,7 @@
      An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.
     (C) Under subparagraph (A) of this paragraph, fixed guideway revenue vehicle- or route-miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
     (D) A recipient“s apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
-  (c) \1\N T4Based on Bus Revenue Vehicle-Miles and Passenger-MilesK.–Of the amount apportioned under subsection (a)(2) of this section, 66.71 percent shall be apportioned as follows:
+  (c) T4Based on Bus Revenue Vehicle-Miles and Passenger-MilesK.–Of the amount apportioned under subsection (a)(2) of this section, 66.71 percent shall be apportioned as follows:
     (1) 90.8 percent of the total amount apportioned under this subsection shall be apportioned as follows:
       (A) 73.39 percent of the 90.8 percent apportioned under this paragraph shall be apportioned so that each urbanized area with a population of at least 1,000,000 is entitled to receive an amount equal to–
         (i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus revenue vehicle-miles operated in or directly serving the urbanized area divided by the total bus revenue vehicle-miles attributable to all areas;
@@ -29,7 +29,7 @@
       (A) the number of bus passenger-miles traveled multiplied by the number of bus passenger-miles traveled for each dollar of operating cost in an area; divided by
       (B) the total number of bus passenger-miles traveled multiplied by the total number of bus passenger-miles traveled for each dollar of operating cost in all areas.
   (d) T4Date of ApportionmentK.–The Secretary of Transportation shall–
-    (1) apportion amounts appropriated under subsections (a) and (h)(2) of section 5338 \2\N of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
+    (1) apportion amounts appropriated under subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338 of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
     (2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
   (e) T4Amounts Not Apportioned to Designated RecipientsK.–The chief executive officer of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient as defined in section 5307(a) of this title.
   (f) T4Transfers of ApportionmentsK.–(1) The chief executive officer of a State may transfer any part of the State“s apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c) of this title or amounts apportioned to urbanized areas under this subsection. The chief executive officer may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
@@ -57,13 +57,13 @@
           (i) the number of performance categories for which each eligible area meets or exceeds the industry average in urbanized areas with a population of at least 200,000 but not more than 999,999; bears to
           (ii) the aggregate number of performance categories for which all eligible areas meet or exceed the industry average in urbanized areas with a population of at least 200,000 but not more than 999,999.
         (B) T4Data used in formulaK.–The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
-  (c) \3\N T4Study on Incentives in Formula Programs.–
-    (1) T4StudyK.–The Secretary shall conduct a study to assess the feasibility and appropriateness of developing and implementing an incentive funding system under sections 5307 and 5311 for operators of public transportation.
-    (2) T4Report.–
-      (A) T4In generalK.–Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2005, the Secretary shall submit a report on the results of the study conducted under paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-      (B) T4ContentsK.–The report submitted under subparagraph (A) shall include–
-        (i) an analysis of the availability of appropriate measures to be used as a basis for the distribution of incentive payments;
-        (ii) the optimal number and size of any incentive programs;
-        (iii) what types of systems should compete for various incentives;
-        (iv) how incentives should be distributed; and
-        (v) the likely effects of the incentive funding system.
+    (k) T4Study on Incentives in Formula Programs.–
+      (1) T4StudyK.–The Secretary shall conduct a study to assess the feasibility and appropriateness of developing and implementing an incentive funding system under sections 5307 and 5311 for operators of public transportation.
+      (2) T4Report.–
+        (A) T4In generalK.–Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2005, the Secretary shall submit a report on the results of the study conducted under paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+        (B) T4ContentsK.–The report submitted under subparagraph (A) shall include–
+          (i) an analysis of the availability of appropriate measures to be used as a basis for the distribution of incentive payments;
+          (ii) the optimal number and size of any incentive programs;
+          (iii) what types of systems should compete for various incentives;
+          (iv) how incentives should be distributed; and
+          (v) the likely effects of the incentive funding system.

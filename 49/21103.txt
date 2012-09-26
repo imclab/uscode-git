@@ -1,6 +1,19 @@
-  (a) T4GeneralK.–Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to remain or go on duty–
-    (1) unless that employee has had at least 8 consecutive hours off duty during the prior 24 hours; or
-    (2) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty.
+  (a) T4In GeneralK.–Except as provided in subsection (d) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to–
+    (1) remain on duty, go on duty, wait for deadhead transportation, be in deadhead transportation from a duty assignment to the place of final release, or be in any other mandatory service for the carrier in any calendar month where the employee has spent a total of 276 hours–
+      (A) on duty;
+      (B) waiting for deadhead transportation, or in deadhead transportation from a duty assignment to the place of final release; or
+      (C) in any other mandatory service for the carrier;
+    (2) remain or go on duty for a period in excess of 12 consecutive hours;
+    (3) remain or go on duty unless that employee has had at least 10 consecutive hours off duty during the prior 24 hours; or
+    (4) remain or go on duty after that employee has initiated an on-duty period each day for–
+      (A) 6 consecutive days, unless that employee has had at least 48 consecutive hours off duty at the employee“s home terminal during which time the employee is unavailable for any service for any railroad carrier except that–
+        (i) an employee may work a seventh consecutive day if that employee completed his or her final period of on-duty time on his or her sixth consecutive day at a terminal other than his or her home terminal; and
+        (ii) any employee who works a seventh consecutive day pursuant to subparagraph (i) shall have at least 72 consecutive hours off duty at the employee“s home terminal during which time the employee is unavailable for any service for any railroad carrier; or
+      (B) except as provided in subparagraph (A), 7 consecutive days, unless that employee has had at least 72 consecutive hours off duty at the employee“s home terminal during which time the employee is unavailable for any service for any railroad carrier, if–
+        (i) for a period of 18 months following the date of enactment of the Rail Safety Improvement Act of 2008, an existing collective bargaining agreement expressly provides for such a schedule or, following the expiration of 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, collective bargaining agreements entered into during such period expressly provide for such a schedule;
+        (ii) such a schedule is provided for by a pilot program authorized by a collective bargaining agreement; or
+        (iii) such a schedule is provided for by a pilot program under section 21108 of this chapter related to employees“ work and rest cycles.
+           The Secretary may waive paragraph (4), consistent with the procedural requirements of section 20103, if a collective bargaining agreement provides a different arrangement and such an arrangement is in the public interest and consistent with railroad safety.
   (b) T4Determining Time on DutyK.–In determining under subsection (a) of this section the time a train employee is on or off duty, the following rules apply:
     (1) Time on duty begins when the employee reports for duty and ends when the employee is finally released from duty.
     (2) Time the employee is engaged in or connected with the movement of a train is time on duty.
@@ -13,4 +26,27 @@
       (B) a track obstruction.
       (C) an act of God.
       (D) a derailment or major equipment failure resulting from a cause that was unknown and unforeseeable to the railroad carrier or its officer or agent in charge of that employee when that employee left the designated terminal.
-  (c) T4EmergenciesK.–A train employee on the crew of a wreck or relief train may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of the crew is related to the emergency. In this subsection, an emergency ends when the track is cleared and the railroad line is open for traffic.
+  (c) T4Limbo Time Limitation and Additional Rest Requirement.–
+    (1) A railroad carrier may not require or allow an employee–
+      (A) to exceed a total of 40 hours per calendar month spent–
+        (i) waiting for deadhead transportation; or
+        (ii) in deadhead transportation from a duty assignment to the place of final release,
+       following a period of 12 consecutive hours on duty that is neither time on duty nor time off duty, not including interim rest periods, during the period from the date of enactment of the Rail Safety Improvement Act of 2008 to one year after such date of enactment; and
+      (B) to exceed a total of 30 hours per calendar month spent–
+        (i) waiting for deadhead transportation; or
+        (ii) in deadhead transportation from a duty assignment to the place of final release,
+       following a period of 12 consecutive hours on duty that is neither time on duty nor time off duty, not including interim rest periods, during the period beginning one year after the date of enactment of the Rail Safety Improvement Act of 2008 except that the Secretary may further limit the monthly limitation pursuant to regulations prescribed under section 21109.
+    (2) The limitations in paragraph (1) shall apply unless the train carrying the employee is directly delayed by–
+      (A) a casualty;
+      (B) an accident;
+      (C) an act of God;
+      (D) a derailment;
+      (E) a major equipment failure that prevents the train from advancing; or
+      (F) a delay resulting from a cause unknown and unforeseeable to a railroad carrier or its officer or agent in charge of the employee when the employee left a terminal.
+    (3) Each railroad carrier shall report to the Secretary, in accordance with procedures established by the Secretary, each instance where an employee subject to this section spends time waiting for deadhead transportation or in deadhead transportation from a duty assignment to the place of final release in excess of the requirements of paragraph (1).
+    (4) If–
+      (A) the time spent waiting for deadhead transportation or in deadhead transportation from a duty assignment to the place of final release that is not time on duty, plus
+      (B) the time on duty,
+     exceeds 12 consecutive hours, the railroad carrier and its officers and agents shall provide the employee with additional time off duty equal to the number of hours by which such sum exceeds 12 hours.
+  (d) T4EmergenciesK.–A train employee on the crew of a wreck or relief train may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of the crew is related to the emergency. In this subsection, an emergency ends when the track is cleared and the railroad line is open for traffic.
+  (e) T4Communication During Time Off DutyK.–During a train employee“s minimum off-duty period of 10 consecutive hours, as provided under subsection (a) or during an interim period of at least 4 consecutive hours available for rest under subsection (b)(7) or during additional off-duty hours under subsection (c)(4), a railroad carrier, and its officers and agents, shall not communicate with the train employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee“s rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary. The Secretary may waive the requirements of this paragraph for commuter or intercity passenger railroads if the Secretary determines that such a waiver will not reduce safety and is necessary to maintain such railroads“ efficient operations and on-time performance of its trains.

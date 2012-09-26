@@ -2,10 +2,16 @@
   (1) ””auto-ferry transportation““ means intercity rail passenger transportation–
     (A) of automobiles or recreational vehicles and their occupants; and
     (B) when space is available, of used unoccupied vehicles.
-  (2) ””basic system““ means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) \1\N of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.
-  (3) ””commuter authority““ means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
-  (4) ””commuter rail passenger transportation““ means short-haul rail passenger transportation in metropolitan and suburban areas usually having reduced fare, multiple-ride, and commuter tickets and morning and evening peak period operations.
-  (5) ””intercity rail passenger transportation““ means rail passenger transportation, except commuter rail passenger transportation.
+  (2) ””commuter authority““ means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
+  (3) ””commuter rail passenger transportation““ means short-haul rail passenger transportation in metropolitan and suburban areas usually having reduced fare, multiple-ride, and commuter tickets and morning and evening peak period operations.
+  (4) ””intercity rail passenger transportation““ means rail passenger transportation, except commuter rail passenger transportation.
+  (5) ””national rail passenger transportation system““ means–
+    (A) the segment of the continuous Northeast Corridor railroad line between Boston, Massachusetts, and Washington, District of Columbia;
+    (B) rail corridors that have been designated by the Secretary of Transportation as high-speed rail corridors (other than corridors described in subparagraph (A)), but only after regularly scheduled intercity service over a corridor has been established;
+    (C) long-distance routes of more than 750 miles between endpoints operated by Amtrak as of the date of enactment of the Passenger Rail Investment and Improvement Act of 2008; and
+    (D) short-distance corridors, or routes of not more than 750 miles between endpoints, operated by–
+      (i) Amtrak; or
+      (ii) another rail carrier that receives funds under chapter 244.
   (6) ””Northeast Corridor““ means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
   (7) ””rail carrier““ means a person, including a unit of State or local government, providing rail transportation for compensation.
   (8) ””rate““ means a rate, fare, or charge for rail transportation.
