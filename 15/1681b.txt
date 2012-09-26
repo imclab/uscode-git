@@ -85,8 +85,9 @@
        A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) of this section in connection with any credit or insurance transaction that is not initiated by the consumer only if–
       (A) the consumer authorizes the agency to provide such report to such person; or
       (B)        (i) the transaction consists of a firm offer of credit or insurance;
-        (ii) the consumer reporting agency has complied with subsection (e) of this section; and
-        (iii) there is not in effect an election by the consumer, made in accordance with subsection (e) of this section, to have the consumer“s name and address excluded from lists of names provided by the agency pursuant to this paragraph.
+        (ii) the consumer reporting agency has complied with subsection (e) of this section;
+        (iii) there is not in effect an election by the consumer, made in accordance with subsection (e) of this section, to have the consumer“s name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
+        (iv) the consumer report does not contain a date of birth that shows that the consumer has not attained the age of 21, or, if the date of birth on the consumer report shows that the consumer has not attained the age of 21, such consumer consents to the consumer reporting agency to such furnishing.
     (2) Limits on information received under paragraph (1)(B)
        A person may receive pursuant to paragraph (1)(B) only–
       (A) the name and address of a consumer;

@@ -1,9 +1,24 @@
   (a) In general
-     Except as may be established in any investment contract between a servicer of pooled residential mortgages and an investor, a servicer of pooled residential mortgages–
-    (1) owes any duty to maximize the net present value of the pooled mortgages in an investment to all investors and parties having a direct or indirect interest in such investment, not to any individual party or group of parties; and
-    (2) shall be deemed to act in the best interests of all such investors and parties if the servicer agrees to or implements a modification or workout plan, including any modification or refinancing undertaken pursuant to the HOPE for Homeowners Act of 2008, for a residential mortgage or a class of residential mortgages that constitute a part or all of the pooled mortgages in such investment, provided that any mortgage so modified meets the following criteria:
-      (A) Default on the payment of such mortgage has occurred or is reasonably foreseeable.
-      (B) The property securing such mortgage is occupied by the mortgagor of such mortgage.
-      (C) The anticipated recovery on the principal outstanding obligation of the mortgage under the modification or workout plan exceeds, on a net present value basis, the anticipated recovery on the principal outstanding obligation of the mortgage through foreclosure.
-  (b) Definition
-     As used in this section, the term ””servicer““ means the person responsible for servicing of a loan (including the person who makes or holds a loan if such person also services the loan).
+     Notwithstanding any other provision of law, whenever a servicer of residential mortgages agrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, including mortgages held in a securitization or other investment vehicle–
+    (1) to the extent that the servicer owes a duty to investors or other parties to maximize the net present value of such mortgages, the duty shall be construed to apply to all such investors and parties, and not to any individual party or group of parties; and
+    (2) the servicer shall be deemed to have satisfied the duty set forth in paragraph (1) if, before December 31, 2012, the servicer implements a qualified loss mitigation plan that meets the following criteria:
+      (A) Default on the payment of such mortgage has occurred, is imminent, or is reasonably foreseeable, as such terms are defined by guidelines issued by the Secretary of the Treasury or his designee under the Emergency Economic Stabilization Act of 2008 [12 U.S.C. 5201 et seq.].
+      (B) The mortgagor occupies the property securing the mortgage as his or her principal residence.
+      (C) The servicer reasonably determined, consistent with the guidelines issued by the Secretary of the Treasury or his designee, that the application of such qualified loss mitigation plan to a mortgage or class of mortgages will likely provide an anticipated recovery on the outstanding principal mortgage debt that will exceed the anticipated recovery through foreclosures.
+  (b) No liability
+     A servicer that is deemed to be acting in the best interests of all investors or other parties under this section shall not be liable to any party who is owed a duty under subsection (a)(1), and shall not be subject to any injunction, stay, or other equitable relief to such party, based solely upon the implementation by the servicer of a qualified loss mitigation plan.
+  (c) Standard industry practice
+     The qualified loss mitigation plan guidelines issued by the Secretary of the Treasury under the Emergency Economic Stabilization Act of 2008 [12 U.S.C. 5201 et seq.] shall constitute standard industry practice for purposes of all Federal and State laws.
+  (d) Scope of safe harbor
+     Any person, including a trustee, issuer, and loan originator, shall not be liable for monetary damages or be subject to an injunction, stay, or other equitable relief, based solely upon the cooperation of such person with a servicer when such cooperation is necessary for the servicer to implement a qualified loss mitigation plan that meets the requirements of subsection (a).
+  (e) Reporting
+     Each servicer that engages in qualified loss mitigation plans under this section shall regularly report to the Secretary of the Treasury the extent, scope, and results of the servicer“s modification activities. The Secretary of the Treasury shall prescribe regulations or guidance specifying the form, content, and timing of such reports.
+  (f) Definitions
+     As used in this section–
+    (1) the term ””qualified loss mitigation plan““ means–
+      (A) a residential loan modification, workout, or other loss mitigation plan, including to the extent that the Secretary of the Treasury determines appropriate, a loan sale, real property disposition, trial modification, pre-foreclosure sale, and deed in lieu of foreclosure, that is described or authorized in guidelines issued by the Secretary of the Treasury or his designee under the Emergency Economic Stabilization Act of 2008 [12 U.S.C. 5201 et seq.]; and
+      (B) a refinancing of a mortgage under the Hope for Homeowners program;
+    (2) the term ””servicer““ means the person responsible for the servicing for others of residential mortgage loans (including of a pool of residential mortgage loans); and
+    (3) the term ””securitization vehicle““ means a trust, special purpose entity, or other legal structure that is used to facilitate the issuing of securities, participation certificates, or similar instruments backed by or referring to a pool of assets that includes residential mortgages (or instruments that are related to residential mortgages such as credit-linked notes).
+  (g) Rule of construction
+     No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
