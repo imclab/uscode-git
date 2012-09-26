@@ -40,7 +40,7 @@
     (D) the recreational, economic, and scenic values of the waters and resources referred to in subclauses (A)–(C) of this clause.
   (15a) ””mobile offshore drilling unit““ means a vessel capable of engaging in drilling operations for the exploration or exploitation of subsea resources.
   (16) ””motor vessel““ means a vessel propelled by machinery other than steam.
-  (17) ””nautical school vessel““ means a vessel operated by or in connection with a nautical school or an educational institution under section 13 of the Coast Guard Authorization Act of 1986.
+  (17) ””nautical school vessel““ means a vessel operated by or in connection with a nautical school or an educational institution under section 558 of title 40.
   (17a) ””navigable waters of the United States““ includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
   (17b) ””numbered vessel““ means a vessel for which a number has been issued under chapter 123 of this title.
   (18) ””oceanographic research vessel““ means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including those studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
@@ -100,7 +100,7 @@
   (32) ””seagoing barge““ means a non-self-propelled vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
   (33) ””seagoing motor vessel““ means a motor vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
   (34) ””Secretary““, except in part H, means the head of the department in which the Coast Guard is operating.
-  (35) ””small passenger vessel““ means a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title–
+  (35) ””small passenger vessel““ means a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title–
     (A) carrying more than 6 passengers, including at least one passenger for hire;
     (B) that is chartered with the crew provided or specified by the owner or the owner“s representative and carrying more than 6 passengers;
     (C) that is chartered with no crew provided or specified by the owner or the owner“s representative and carrying more than 12 passengers; or
@@ -131,3 +131,4 @@
     (B) bearing the external marks distinguishing vessels of war of that country;
     (C) under the command of an officer commissioned by the government of that country and whose name appears in the appropriate service list or its equivalent; and
     (D) staffed by a crew under regular armed forces discipline.
+  (48) ””wing-in-ground craft““ means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water“s surface.
