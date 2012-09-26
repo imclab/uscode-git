@@ -1,9 +1,16 @@
-  (a) A person operating a vessel in a negligent manner that endangers the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $1,000.
+  (a) A person operating a vessel in a negligent manner or interfering with the safe operation of a vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $1,000.
   (b) A person operating a vessel in a grossly negligent manner that endangers the life, limb, or property of a person commits a class A misdemeanor.
   (c) An individual who is under the influence of alcohol, or a dangerous drug in violation of a law of the United States when operating a vessel, as determined under standards prescribed by the Secretary by regulation–
-    (1) is liable to the United States Government for a civil penalty of not more than $1,000 for a first violation and not more than $5,000 for a subsequent violation; or
+    (1) is liable to the United States Government for a civil penalty of not more than $5,000; or
     (2) commits a class A misdemeanor.
   (d) For a penalty imposed under this section, the vessel also is liable in rem unless the vessel is–
     (1) owned by a State or a political subdivision of a State;
     (2) operated principally for governmental purposes; and
     (3) identified clearly as a vessel of that State or subdivision.
+  (e)    (1) A vessel may not transport Government-impelled cargoes if–
+      (A) the vessel has been detained and determined to be substandard by the Secretary for violation of an international safety convention to which the United States is a party, and the Secretary has published notice of that detention and determination in an electronic form, including the name of the owner of the vessel; or
+      (B) the operator of the vessel has on more than one occasion had a vessel detained and determined to be substandard by the Secretary for violation of an international safety convention to which the United States is a party, and the Secretary has published notice of that detention and determination in an electronic form, including the name of the owner of the vessel.
+    (2) The prohibition in paragraph (1) expires for a vessel on the earlier of–
+      (A) 1 year after the date of the publication in electronic form on which the prohibition is based; or
+      (B) any date on which the owner or operator of the vessel prevails in an appeal of the violation of the relevant international convention on which the detention is based.
+    (3) As used in this subsection, the term ””Government-impelled cargo““ means cargo for which a Federal agency contracts directly for shipping by water or for which (or the freight of which) a Federal agency provides financing, including financing by grant, loan, or loan guarantee, resulting in shipment of the cargo by water.
