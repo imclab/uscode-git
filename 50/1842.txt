@@ -14,16 +14,31 @@
     (2) An order issued under this section–
       (A) shall specify–
         (i) the identity, if known, of the person who is the subject of the investigation;
-        (ii) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied;
-        (iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order.\1\N
+        (ii) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied; and
+        (iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order;
       (B) shall direct that–
         (i) upon request of the applicant, the provider of a wire or electronic communication service, landlord, custodian, or other person shall furnish any information, facilities, or technical assistance necessary to accomplish the installation and operation of the pen register or trap and trace device in such a manner as will protect its secrecy and produce a minimum amount of interference with the services that such provider, landlord, custodian, or other person is providing the person concerned;
         (ii) such provider, landlord, custodian, or other person–
           (I) shall not disclose the existence of the investigation or of the pen register or trap and trace device to any person unless or until ordered by the court; and
-          (II) shall maintain, under security procedures approved by the Attorney General and the Director of National Intelligence pursuant to section 1805(b)(2)(C) \2\N of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
-        (iii) the applicant shall compensate such provider, landlord, custodian, or other person for reasonable expenses incurred by such provider, landlord, custodian, or other person in providing such information, facilities, or technical assistance.
+          (II) shall maintain, under security procedures approved by the Attorney General and the Director of National Intelligence pursuant to section 1805(b)(2)(C) \1\N of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
+        (iii) the applicant shall compensate such provider, landlord, custodian, or other person for reasonable expenses incurred by such provider, landlord, custodian, or other person in providing such information, facilities, or technical assistance; and
+      (C) shall direct that, upon the request of the applicant, the provider of a wire or electronic communication service shall disclose to the Federal officer using the pen register or trap and trace device covered by the order–
+        (i) in the case of the customer or subscriber using the service covered by the order (for the period specified by the order)–
+          (I) the name of the customer or subscriber;
+          (II) the address of the customer or subscriber;
+          (III) the telephone or instrument number, or other subscriber number or identifier, of the customer or subscriber, including any temporarily assigned network address or associated routing or transmission information;
+          (IV) the length of the provision of service by such provider to the customer or subscriber and the types of services utilized by the customer or subscriber;
+          (V) in the case of a provider of local or long distance telephone service, any local or long distance telephone records of the customer or subscriber;
+          (VI) if applicable, any records reflecting period of usage (or sessions) by the customer or subscriber; and
+          (VII) any mechanisms and sources of payment for such service, including the number of any credit card or bank account utilized for payment for such service; and
+        (ii) if available, with respect to any customer or subscriber of incoming or outgoing communications to or from the service covered by the order–
+          (I) the name of such customer or subscriber;
+          (II) the address of such customer or subscriber;
+          (III) the telephone or instrument number, or other subscriber number or identifier, of such customer or subscriber, including any temporarily assigned network address or associated routing or transmission information; and
+          (IV) the length of the provision of service by such provider to such customer or subscriber and the types of services utilized by such customer or subscriber.
   (e) Time limitation
-     An order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d) of this section. The period of extension shall be for a period not to exceed 90 days.
+    (1) Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d) of this section. The period of extension shall be for a period not to exceed 90 days.
+    (2) In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extension of an order, under this section may be for a period not to exceed one year.
   (f) Cause of action barred
      No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance under subsection (d) of this section in accordance with the terms of an order issued under this section.
   (g) Furnishing of results
