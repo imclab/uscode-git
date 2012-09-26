@@ -54,3 +54,95 @@
     (1) any person not a member or a designated representative of a member of a national securities exchange effecting transactions on such exchange without the services of another person acting as a broker, or
     (2) any broker or dealer not a member of a national securities exchange effecting transactions on such exchange on a regular basis,
        to comply with such rules of such exchange as the Commission may specify.
+  (g) Notice registration of security futures product exchanges
+    (1) Registration required
+       An exchange that lists or trades security futures products may register as a national securities exchange solely for the purposes of trading security futures products if–
+      (A) the exchange is a board of trade, as that term is defined by the Commodity Exchange Act (7 U.S.C. 1a(2)) [7 U.S.C. 1 et seq.], that–
+        (i) has been designated a contract market by the Commodity Futures Trading Commission and such designation is not suspended by order of the Commodity Futures Trading Commission; or
+        (ii) is registered as a derivative transaction execution facility under section 5a of the Commodity Exchange Act [7 U.S.C. 7a] and such registration is not suspended by the Commodity Futures Trading Commission; and
+      (B) such exchange does not serve as a market place for transactions in securities other than–
+        (i) security futures products; or
+        (ii) futures on exempted securities or groups or indexes of securities or options thereon that have been authorized under section 2(a)(1)(C) of the Commodity Exchange Act [7 U.S.C. 2(a)(1)(C)].
+    (2) Registration by notice filing
+      (A) Form and content
+         An exchange required to register only because such exchange lists or trades security futures products may register for purposes of this section by filing with the Commission a written notice in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents concerning such exchange, comparable to the information and documents required for national securities exchanges under subsection (a) of this section, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. If such exchange has filed documents with the Commodity Futures Trading Commission, to the extent that such documents contain information satisfying the Commission“s informational requirements, copies of such documents may be filed with the Commission in lieu of the required written notice.
+      (B) Immediate effectiveness
+         Such registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to the Commission, except that such registration shall not be effective if such registration would be subject to suspension or revocation.
+      (C) Termination
+         Such registration shall be terminated immediately if any of the conditions for registration set forth in this subsection are no longer satisfied.
+    (3) Public availability
+       The Commission shall promptly publish in the Federal Register an acknowledgment of receipt of all notices the Commission receives under this subsection and shall make all such notices available to the public.
+    (4) Exemption of exchanges from specified provisions
+      (A) Transaction exemptions
+         An exchange that is registered under paragraph (1) of this subsection shall be exempt from, and shall not be required to enforce compliance by its members with, and its members shall not, solely with respect to those transactions effected on such exchange in security futures products, be required to comply with, the following provisions of this chapter and the rules thereunder:
+        (i) Subsections (b)(2), (b)(3), (b)(4), (b)(7), (b)(9), (c), (d), and (e) of this section.
+        (ii) Section 78h of this title.
+        (iii) Section 78k of this title.
+        (iv) Subsections (d), (f), and (k) of section 78q of this title.
+        (v) Subsections (a), (f), and (h) of section 78s of this title.
+      (B) Rule change exemptions
+         An exchange that registered under paragraph (1) of this subsection shall also be exempt from submitting proposed rule changes pursuant to section 78s(b) of this title, except that–
+        (i) such exchange shall file proposed rule changes related to higher margin levels, fraud or manipulation, recordkeeping, reporting, listing standards, or decimal pricing for security futures products, sales practices for security futures products for persons who effect transactions in security futures products, or rules effectuating such exchange“s obligation to enforce the securities laws pursuant to section 78s(b)(7) of this title;
+        (ii) such exchange shall file pursuant to sections 78s(b)(1) and 78s(b)(2) of this title proposed rule changes related to margin, except for changes resulting in higher margin levels; and
+        (iii) such exchange shall file pursuant to section 78s(b)(1) of this title proposed rule changes that have been abrogated by the Commission pursuant to section 78s(b)(7)(C) of this title.
+    (5) Trading in security futures products
+      (A) In general
+         Subject to subparagraph (B), it shall be unlawful for any person to execute or trade a security futures product until the later of–
+        (i) 1 year after December 21, 2000; or
+        (ii) such date that a futures association registered under section 17 of the Commodity Exchange Act [7 U.S.C. 21] has met the requirements set forth in section 78T3oK–3(k)(2) of this title.
+      (B) Principal-to-principal transactions
+         Notwithstanding subparagraph (A), a person may execute or trade a security futures product transaction if–
+        (i) the transaction is entered into–
+          (I) on a principal-to-principal basis between parties trading for their own accounts or as described in section 1a(12)(B)(ii) of the Commodity Exchange Act [7 U.S.C. 1a(12)(B)(ii)]; and
+          (II) only between eligible contract participants (as defined in subparagraphs (A), (B)(ii), and (C) of such section 1a(12) [7 U.S.C. 1a(12)(A), (B)(ii), (C)]) at the time at which the persons enter into the agreement, contract, or transaction; and
+        (ii) the transaction is entered into on or after the later of–
+          (I) 8 months after December 21, 2000; or
+          (II) such date that a futures association registered under section 17 of the Commodity Exchange Act [7 U.S.C. 21] has met the requirements set forth in section 78T3oK–3(k)(2) of this title.
+  (h) Trading in security futures products
+    (1) Trading on exchange or association required
+       It shall be unlawful for any person to effect transactions in security futures products that are not listed on a national securities exchange or a national securities association registered pursuant to section 78T3oK–3(a) of this title.
+    (2) Listing standards required
+       Except as otherwise provided in paragraph (7), a national securities exchange or a national securities association registered pursuant to section 78T3oK–3(a) of this title may trade only security futures products that (A) conform with listing standards that such exchange or association files with the Commission under section 78s(b) of this title and (B) meet the criteria specified in section 2(a)(1)(D)(i) of the Commodity Exchange Act [7 U.S.C. 2(a)(1)(D)(i)].
+    (3) Requirements for listing standards and conditions for trading
+       Such listing standards shall–
+      (A) except as otherwise provided in a rule, regulation, or order issued pursuant to paragraph (4), require that any security underlying the security future, including each component security of a narrow-based security index, be registered pursuant to section 78T3lK of this title;
+      (B) require that if the security futures product is not cash settled, the market on which the security futures product is traded have arrangements in place with a registered clearing agency for the payment and delivery of the securities underlying the security futures product;
+      (C) be no less restrictive than comparable listing standards for options traded on a national securities exchange or national securities association registered pursuant to section 78T3oK–3(a) of this title;
+      (D) except as otherwise provided in a rule, regulation, or order issued pursuant to paragraph (4), require that the security future be based upon common stock and such other equity securities as the Commission and the Commodity Futures Trading Commission jointly determine appropriate;
+      (E) require that the security futures product is cleared by a clearing agency that has in place provisions for linked and coordinated clearing with other clearing agencies that clear security futures products, which permits the security futures product to be purchased on one market and offset on another market that trades such product;
+      (F) require that only a broker or dealer subject to suitability rules comparable to those of a national securities association registered pursuant to section 78T3oK–3(a) of this title effect transactions in the security futures product;
+      (G) require that the security futures product be subject to the prohibition against dual trading in section 4j of the Commodity Exchange Act (7 U.S.C. 6j) and the rules and regulations thereunder or the provisions of section 78k(a) of this title and the rules and regulations thereunder, except to the extent otherwise permitted under this chapter and the rules and regulations thereunder;
+      (H) require that trading in the security futures product not be readily susceptible to manipulation of the price of such security futures product, nor to causing or being used in the manipulation of the price of any underlying security, option on such security, or option on a group or index including such securities;
+      (I) require that procedures be in place for coordinated surveillance among the market on which the security futures product is traded, any market on which any security underlying the security futures product is traded, and other markets on which any related security is traded to detect manipulation and insider trading;
+      (J) require that the market on which the security futures product is traded has in place audit trails necessary or appropriate to facilitate the coordinated surveillance required in subparagraph (I);
+      (K) require that the market on which the security futures product is traded has in place procedures to coordinate trading halts between such market and any market on which any security underlying the security futures product is traded and other markets on which any related security is traded; and
+      (L) require that the margin requirements for a security futures product comply with the regulations prescribed pursuant to section 78g(c)(2)(B) of this title, except that nothing in this subparagraph shall be construed to prevent a national securities exchange or national securities association from requiring higher margin levels for a security futures product when it deems such action to be necessary or appropriate.
+    (4) Authority to modify certain listing standard requirements
+      (A) Authority to modify
+         The Commission and the Commodity Futures Trading Commission, by rule, regulation, or order, may jointly modify the listing standard requirements specified in subparagraph (A) or (D) of paragraph (3) to the extent such modification fosters the development of fair and orderly markets in security futures products, is necessary or appropriate in the public interest, and is consistent with the protection of investors.
+      (B) Authority to grant exemptions
+         The Commission and the Commodity Futures Trading Commission, by order, may jointly exempt any person from compliance with the listing standard requirement specified in subparagraph (E) of paragraph (3) to the extent such exemption fosters the development of fair and orderly markets in security futures products, is necessary or appropriate in the public interest, and is consistent with the protection of investors.
+    (5) Requirements for other persons trading security future products
+       It shall be unlawful for any person (other than a national securities exchange or a national securities association registered pursuant to section 78T3oK–3(a) of this title) to constitute, maintain, or provide a marketplace or facilities for bringing together purchasers and sellers of security future products or to otherwise perform with respect to security future products the functions commonly performed by a stock exchange as that term is generally understood, unless a national securities association registered pursuant to section 78T3oK–3(a) of this title or a national securities exchange of which such person is a member–
+      (A) has in place procedures for coordinated surveillance among such person, the market trading the securities underlying the security future products, and other markets trading related securities to detect manipulation and insider trading;
+      (B) has rules to require audit trails necessary or appropriate to facilitate the coordinated surveillance required in subparagraph (A); and
+      (C) has rules to require such person to coordinate trading halts with markets trading the securities underlying the security future products and other markets trading related securities.
+    (6) Deferral of options on security futures trading
+       No person shall offer to enter into, enter into, or confirm the execution of any put, call, straddle, option, or privilege on a security future, except that, after 3 years after December 21, 2000, the Commission and the Commodity Futures Trading Commission may by order jointly determine to permit trading of puts, calls, straddles, options, or privileges on any security future authorized to be traded under the provisions of this chapter and the Commodity Exchange Act [7 U.S.C. 1 et seq.].
+    (7) Deferral of linked and coordinated clearing
+      (A) Notwithstanding paragraph (2), until the compliance date, a national securities exchange or national securities association registered pursuant to section 78T3oK–3(a) of this title may trade a security futures product that does not–
+        (i) conform with any listing standard promulgated to meet the requirement specified in subparagraph (E) of paragraph (3); or
+        (ii) meet the criterion specified in section 2(a)(1)(D)(i)(IV) of the Commodity Exchange Act [7 U.S.C. 2(a)(1)(D)(i)(IV)].
+      (B) The Commission and the Commodity Futures Trading Commission shall jointly publish in the Federal Register a notice of the compliance date no later than 165 days before the compliance date.
+      (C) For purposes of this paragraph, the term ””compliance date““ means the later of–
+        (i) 180 days after the end of the first full calendar month period in which the average aggregate comparable share volume for all security futures products based on single equity securities traded on all national securities exchanges, any national securities associations registered pursuant to section 78T3oK–3(a) of this title, and all other persons equals or exceeds 10 percent of the average aggregate comparable share volume of options on single equity securities traded on all national securities exchanges and any national securities associations registered pursuant to section 78T3oK–3(a) of this title; or
+        (ii) 2 years after the date on which trading in any security futures product commences under this chapter.
+          (i) Rules to avoid duplicative regulation of dual registrants
+             Consistent with this chapter, each national securities exchange registered pursuant to subsection (a) of this section shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any broker or dealer registered with the Commission pursuant to section 78T3oK(b) of this title (except paragraph (11) thereof), that is also registered with the Commodity Futures Trading Commission pursuant to section 4f(a) of the Commodity Exchange Act [7 U.S.C. 6f(a)] (except paragraph (2) thereof), with respect to the application of–
+            (1) rules of such national securities exchange of the type specified in section 78T3oK(c)(3)(B) of this title involving security futures products; and
+            (2) similar rules of national securities exchanges registered pursuant to subsection (g) of this section and national securities associations registered pursuant to section 78T3oK–3(k) of this title involving security futures products.
+          (j) Procedures and rules for security future products
+             A national securities exchange registered pursuant to subsection (a) of this section shall implement the procedures specified in subsection (h)(5)(A) of this section and adopt the rules specified in subparagraphs (B) and (C) of subsection (h)(5) of this section not later than 8 months after the date of receipt of a request from an alternative trading system for such implementation and rules.
+          (k) Rules relating to security futures products traded on foreign boards of trade
+            (1) To the extent necessary or appropriate in the public interest, to promote fair competition, and consistent with the promotion of market efficiency, innovation, and expansion of investment opportunities, the protection of investors, and the maintenance of fair and orderly markets, the Commission and the Commodity Futures Trading Commission shall jointly issue such rules, regulations, or orders as are necessary and appropriate to permit the offer and sale of a security futures product traded on or subject to the rules of a foreign board of trade to United States persons.
+            (2) The rules, regulations, or orders adopted under paragraph (1) shall take into account, as appropriate, the nature and size of the markets that the securities underlying the security futures product reflect.

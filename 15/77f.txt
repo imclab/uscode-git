@@ -4,27 +4,61 @@
     (1) Recovery of cost of services
        The Commission shall, in accordance with this subsection, collect registration fees that are designed to recover the costs to the government of the securities registration process, and costs related to such process, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.
     (2) Fee payment required
-       At the time of filing a registration statement, the applicant shall pay to the Commission a fee that shall be equal to the sum of the amounts (if any) determined under the rates established by paragraphs (3) and (4). The Commission shall publish in the Federal Register notices of the fee rates applicable under this section for each fiscal year.
-    (3) General revenue fees
-       The rate determined under this paragraph is a rate equal to $200 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2007 and any succeeding fiscal year such rate is equal to $67 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered. Fees collected during any fiscal year pursuant to this paragraph shall be deposited and credited as general revenues of the Treasury.
-    (4) Offsetting collection fees
-      (A) In general
-         Except as provided in subparagraphs (B) and (C), the rate determined under this paragraph is a rate equal to the following amount per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered:
-        (i) $95 during fiscal year 1998;
-        (ii) $78 during fiscal year 1999;
-        (iii) $64 during fiscal year 2000;
-        (iv) $50 during fiscal year 2001;
-        (v) $39 during fiscal year 2002;
-        (vi) $28 during fiscal year 2003;
-        (vii) $9 during fiscal year 2004;
-        (viii) $5 during fiscal year 2005; and
-        (ix) $0 during fiscal year 2006 or any succeeding fiscal year.
-      (B) Limitation; deposit
-         Except as provided in subparagraph (C), no amounts shall be collected pursuant to this paragraph (4) for any fiscal year except to the extent provided in advance in appropriations Acts. Fees collected during any fiscal year pursuant to this paragraph shall be deposited and credited as offsetting collections in accordance with appropriations Acts.
-      (C) Lapse of appropriations
-         If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this paragraph at the rate in effect during the preceding fiscal year, until such a regular appropriation is enacted.
-    (5) Pro rata application of rates
-       The rates required by this subsection shall be applied pro rata to amounts and balances equal to less than $1,000,000.
+       At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (5) or (6).
+    (3) Offsetting collections
+       Fees collected pursuant to this subsection for any fiscal year–
+      (A) shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission; and
+      (B) except as provided in paragraph (9), shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
+    (4) General revenues prohibited
+       No fees collected pursuant to this subsection for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
+    (5) Annual adjustment
+       For each of the fiscal years 2003 through 2011, the Commission shall by order adjust the rate required by paragraph (2) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate fee collections under this subsection that are equal to the target offsetting collection amount for such fiscal year.
+    (6) Final rate adjustment
+       For fiscal year 2012 and all of the succeeding fiscal years, the Commission shall by order adjust the rate required by paragraph (2) for all of such fiscal years to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for fiscal year 2012, is reasonably likely to produce aggregate fee collections under this subsection in fiscal year 2012 equal to the target offsetting collection amount for fiscal year 2011.
+    (7) Pro rata application
+       The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
+    (8) Review and effective date
+       In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (5) or (6) and published under paragraph (10) shall not be subject to judicial review. Subject to paragraphs (3)(B) and (9)–
+      (A) an adjusted rate prescribed under paragraph (5) shall take effect on the later of–
+        (i) the first day of the fiscal year to which such rate applies; or
+        (ii) five days after the date on which a regular appropriation to the Commission for such fiscal year is enacted; and
+      (B) an adjusted rate prescribed under paragraph (6) shall take effect on the later of–
+        (i) the first day of fiscal year 2012; or
+        (ii) five days after the date on which a regular appropriation to the Commission for fiscal year 2012 is enacted.
+    (9) Lapse of appropriation
+       If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this subsection at the rate in effect during the preceding fiscal year, until 5 days after the date such a regular appropriation is enacted.
+    (10) Publication
+       The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) \1\N of this title for each fiscal year not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
+    (11) Definitions
+       For purposes of this subsection:
+      (A) Target offsetting collection amount
+         The target offsetting collection amount for each of the fiscal years 2002 through 2011 is determined according to the following table:
+          
+         T2Target offsetting
+         T2Fiscal year:
+         T2collection amount
+          2002
+         $377,000,000
+          2003
+         $435,000,000
+          2004
+         $467,000,000
+          2005
+         $570,000,000
+          2006
+         $689,000,000
+          2007
+         $214,000,000
+          2008
+         $234,000,000
+          2009
+         $284,000,000
+          2010
+         $334,000,000
+          2011
+         $394,000,000
+      (B) Baseline estimate of the aggregate maximum offering prices
+         The baseline estimate of the aggregate maximum offering prices for any fiscal year is the baseline estimate of the aggregate maximum offering price at which securities are proposed to be offered pursuant to registration statements filed with the Commission during such fiscal year as determined by the Commission, after consultation with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for projections pursuant to section 907 of title 2.
   (c) Time registration effective
      The filing with the Commission of a registration statement, or of an amendment to a registration statement, shall be deemed to have taken place upon the receipt thereof, but the filing of a registration statement shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under subsection (b) of this section.
   (d) Information available to public
