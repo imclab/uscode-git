@@ -3,8 +3,12 @@
     (1) detailed assessments with respect to each foreign country–
       (A) in which acts of international terrorism occurred which were, in the opinion of the Secretary, of major significance;
       (B) about which the Congress was notified during the preceding five years pursuant to section 2405(j) of the Appendix to title 50; and
-      (C) which the Secretary determines should be the subject of such report; and
-    (2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, and any other known international terrorist group which the Secretary determines should be the subject of such report.
+      (C) which the Secretary determines should be the subject of such report;
+    (2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+    (3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on–
+      (A) the extent to which the government of the foreign country is cooperating with the United States Government in apprehending, convicting, and punishing the individual or individuals responsible for the act; and
+      (B) the extent to which the government of the foreign country is cooperating in preventing further acts of terrorism against United States citizens in the foreign country; and
+    (4) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
   (b) Provisions to be included in report
      The report required under subsection (a) of this section should to the extent feasible include (but not be limited to)–
     (1) with respect to subsection (a)(1)–
@@ -22,7 +26,8 @@
       (D) provision by foreign governments of sanctuary from prosecution to these groups or their members responsible for the commission, attempt, or planning of an act of international terrorism; and
       (E) efforts by the United States to eliminate international financial support provided to those groups directly or provided in support of their activities.
   (c) Classification of report
-     The report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+    (1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+    (2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
   (d) Definitions
      As used in this section–
     (1) the term ””international terrorism““ means terrorism involving citizens or the territory of more than 1 country;

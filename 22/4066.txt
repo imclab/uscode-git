@@ -1,10 +1,26 @@
-  (a) Composition; election and return
-     \1\N The voluntary contribution account shall be the sum of unrefunded amounts voluntarily contributed prior to February 15, 1981, by any participant or former participant under any prior law authorizing such contributions to the Fund, plus interest compounded at the rate of 3 percent per year to the date of separation from the Service or (in case of participant or former participant separated with entitlement to a deferred annuity) to the date the voluntary contribution account is claimed, the commencing date fixed for the deferred annuity, or the date of death, whichever is earlier. Effective on the date the participant becomes eligible for an annuity or a deferred annuity and at the election of the participant, his or her account shall be–
-    (1) returned in a lump sum;
-    (2) used to purchase an additional life annuity;
-    (3) used to purchase an additional life annuity for the participant and to provide for a cash payment on his or her death to a beneficiary whose name shall be notified in writing to the Secretary of State by the participant; or
-    (4) used to purchase an additional life annuity for the participant and a life annuity commencing on his or her death payable to a beneficiary whose name shall be notified in writing to the Secretary of State by the participant, with a guaranteed return to the beneficiary or his or her legal representative of an amount equal to the cash payment referred to in paragraph (3).
-  (b) Computation of benefits
-     The benefits provided by subsection (a) (2), (3), or (4) of this section shall be actuarially equivalent in value to the payment provided for by subsection (a)(1) of this section and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Secretary of the Treasury.
-  (c) Lump-sum payment; time; order of precedence
-     A voluntary contribution account shall be paid in a lump sum following receipt of an application therefor from a present or former participant if application is filed prior to payment of any additional annuity. If not sooner paid, the account shall be paid at such time as the participant separates from the Service for any reason without entitlement to an annuity or a deferred annuity or at such time as a former participant dies or withdraws compulsory contributions to the Fund. In case of death, the account shall be paid in the order of precedence specified in section 4055(f) of this title.
+  (a) Effective date
+     A cost-of-living annuity increase shall become effective under this section on the effective date of each such increase under section 8340(b) of title 5. Each such increase shall be applied to each annuity payable from the Fund under this part which has a commencing date not later than the effective date of the increase.
+  (b) Applicability of increases under other provisions of law
+     Each annuity increase under this section shall be identical to the corresponding percentage increase under section 8340(b) of title 5.
+  (c) Eligibility for increases
+     Eligibility for an annuity increase under this section shall be governed by the commencing date of each annuity payable from the Fund under this part as of the effective date of an increase except as follows:
+    (1) The first increase (if any) made under this section to an annuity which is payable from the Fund to a participant or to the surviving spouse or former spouse of a deceased participant who died in service or a deceased annuitant whose annuity was not increased under this section, shall be equal to the product (adjusted to the nearest \1/10\ of 1 percent) of–
+      (A) \1/12\ of the applicable percent change computed under subsection (b) of this section, multiplied by
+      (B) the number of months (counting any portion of a month as a month)–
+        (i) for which the annuity was payable from the Fund before the effective date of the increase, or
+        (ii) in the case of a surviving spouse or former spouse of a deceased annuitant whose annuity has not been so increased, since the annuity was first payable to the deceased annuitant.
+    (2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
+    (3) For purposes of computing or recomputing an annuity to a child under section 4046(c) or (d) of this title or section 4049(c) or (d) of this title, the items $900, $1,080, $2,700, and $3,240 appearing in section 4046(c) of this title shall be increased by the total percentage increases by which corresponding amounts are being increased under section 8340 of title 5 on the date the annuity of the child becomes effective.
+  (d) Exclusion of additional annuity purchased after retirement by voluntary contribution
+     No increase in annuity provided by this section shall be computed on any additional annuity purchased at retirement by voluntary contributions.
+  (e) Rounding off of amount; minimum increases
+     The monthly installment of annuity after adjustment under this section shall be rounded to the next lowest dollar, except such installment shall after adjustment reflect an increase of at least $1.
+  (f) Rate of increase for surviving spouses of annuitants electing reduced annuity
+     Effective from its commencing date, there shall be an increase of 10 percent in the annuity of each surviving spouse whose entitlement to annuity resulted from the death of an annuitant who, prior to October 1, 1976, elected a reduced annuity in order to provide a spouse“s survivor annuity.
+  (g) Maximum annuity
+    (1) An annuity shall not be increased by reason of any adjustment under this section to an amount which exceeds the greater of–
+      (A) the maximum pay rate payable for class FS–1 under section 3963 of this title, 30 days before the effective date of the adjustment under this section; or
+      (B) the final pay (or average pay, if higher) of the former participant with respect to whom the annuity is paid, increased by the overall annual average percentage adjustments (compounded) in rates of pay of the Foreign Service Schedule under such section 3963 of this title during the period–
+        (i) beginning on the date the annuity commenced (or, in the case of a survivor of the retired participant, the date the participant“s annuity commenced), and
+        (ii) ending on the effective date of the adjustment under this section.
+    (2) For the purposes of paragraph (1) of this subsection, ””pay““ means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
