@@ -1,0 +1,24 @@
+  (a) Trigger price determination
+    (1) In general
+       The Secretary shall determine–
+      (A) each period of 5 consecutive business days in which the daily price for frozen concentrated orange juice is less than the trigger price; and
+      (B) for each period determined under subparagraph (A), the first period occurring thereafter of 5 consecutive business days in which the daily price for frozen concentrated orange juice is greater than the trigger price.
+    (2) Notice of determinations
+       The Secretary shall immediately notify the Commissioner of Customs and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
+  (b) Imports of Mexican articles
+     Whenever after any determination date for a determination under subsection (a)(1)(A) of this section, the quantity of Mexican articles of frozen concentrated orange juice that is entered exceeds–
+    (1) 264,978,000 liters (single strength equivalent) in any of calendar years 1994 through 2002; or
+    (2) 340,560,000 liters (single strength equivalent) in any of calendar years 2003 through 2007;
+       the rate of duty on Mexican articles of frozen concentrated orange juice that are entered after the date on which the applicable limitation in paragraph (1) or (2) is reached and before the determination date for the related determination under subsection (a)(1)(B) of this section shall be the rate of duty specified in subsection (c) of this section.
+  (c) Rate of duty
+     The rate of duty specified for purposes of subsection (b) of this section for articles entered on any day is the rate in the HTS that is the lower of–
+    (1) the column 1 general rate of duty in effect for such articles on July 1, 1991; or
+    (2) the column 1 general rate of duty in effect on that day.
+  (d) Definitions
+     For purposes of this section–
+    (1) The term ””daily price““ means the daily closing price of the New York Cotton Exchange, or any successor as determined by the Secretary, for the closest month in which contracts for frozen concentrated orange juice are being traded on the Exchange.
+    (2) The term ””business day““ means a day in which contracts for frozen concentrated orange juice are being traded on the New York Cotton Exchange, or any successor as determined by the Secretary.
+    (3) The term ””entered““ means entered or withdrawn from warehouse for consumption, in the customs territory of the United States.
+    (4) The term ””frozen concentrated orange juice““ means all products classifiable under subheading 2009.11.00 of the HTS.
+    (5) The term ””Secretary““ means the Secretary of Agriculture.
+    (6) The term ””trigger price““ means the average daily closing price of the New York Cotton Exchange, or any successor as determined by the Secretary, for the corresponding month during the previous 5-year period, excluding the year with the highest average price for the corresponding month and the year with the lowest average price for the corresponding month.

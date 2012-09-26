@@ -1,20 +1,77 @@
-  (a) Any person who–
-    (1) knowingly transports or ships in interstate or foreign commerce by any means including by computer or mails, any visual depiction, if–
-      (A) the producing of such visual depiction involves the use of a minor engaging in sexually explicit conduct; and
-      (B) such visual depiction is of such conduct;
-    (2) knowingly receives, or distributes, any visual depiction that has been mailed, or has been shipped or transported in interstate or foreign commerce, or which contains materials which have been mailed or so shipped or transported, by any means including by computer, or knowingly reproduces any visual depiction for distribution in interstate or foreign commerce or through the mails, if–
-      (A) the producing of such visual depiction involves the use of a minor engaging in sexually explicit conduct; and
-      (B) such visual depiction is of such conduct;
-    (3) either–
-      (A) in the special maritime and territorial jurisdiction of the United States, or on any land or building owned by, leased to, or otherwise used by or under the control of the Government of the United States, or in the Indian country as defined in section 1151 of this title, knowingly sells or possesses with intent to sell any visual depiction; or
-      (B) knowingly sells or possesses with intent to sell any visual depiction that has been mailed, or has been shipped or transported in interstate or foreign commerce, or which was produced using materials which have been mailed or so shipped or transported, by any means, including by computer, if–
-        (i) the producing of such visual depiction involves the use of a minor engaging in sexually explicit conduct; and
-        (ii) such visual depiction is of such conduct; or
-    (4) either–
-      (A) in the special maritime and territorial jurisdiction of the United States, or on any land or building owned by, leased to, or otherwise used by or under the control of the Government of the United States, or in the Indian country as defined in section 1151 of this title, knowingly possesses 3 or more books, magazines, periodicals, films, video tapes, or other matter which contain any visual depiction; or
-      (B) knowingly possesses 3 or more books, magazines, periodicals, films, video tapes, or other matter which contain any visual depiction that has been mailed, or has been shipped or transported in interstate or foreign commerce, or which was produced using materials which have been mailed or so shipped or transported, by any means including by computer, if–
-        (i) the producing of such visual depiction involves the use of a minor engaging in sexually explicit conduct; and
-        (ii) such visual depiction is of such conduct;
-           shall be punished as provided in subsection (b) of this section.
-  (b)    (1) Whoever violates, or attempts or conspires to violate, paragraph (1), (2), or (3) of subsection (a) shall be fined under this title or imprisoned not more than ten years, or both, but, if such person has a prior conviction under this chapter or chapter 109A, such person shall be fined under this title and imprisoned for not less than five years nor more than fifteen years.
-    (2) Whoever violates, or attempts or conspires to violate, paragraph (4) of subsection (a) shall be fined under this title or imprisoned for not more than five years, or both.
+  (a) In general
+    (1)      (A) After receiving a report under section 2252(f) of this title containing an affirmative finding regarding serious injury, or the threat thereof, to a domestic industry, the President shall take all appropriate and feasible action within his power which the President determines will facilitate efforts by the domestic industry to make a positive adjustment to import competition and provide greater economic and social benefits than costs.
+      (B) The action taken by the President under subparagraph (A) shall be to such extent, and for such duration, subject to subsection (e)(1) of this section, that the President determines to be appropriate and feasible under such subparagraph.
+      (C) The interagency trade organization established under section 1872(a) of this title shall, with respect to each affirmative determination reported under section 2252(f) of this title, make a recommendation to the President as to what action the President should take under subparagraph (A).
+    (2) In determining what action to take under paragraph (1), the President shall take into account–
+      (A) the recommendation and report of the Commission;
+      (B) the extent to which workers and firms in the domestic industry are–
+        (i) benefitting from adjustment assistance and other manpower programs, and
+        (ii) engaged in worker retraining efforts;
+      (C) the efforts being made, or to be implemented, by the domestic industry (including the efforts included in any adjustment plan or commitment submitted to the Commission under section 2252(a) of this title) to make a positive adjustment to import competition;
+      (D) the probable effectiveness of the actions authorized under paragraph (3) to facilitate positive adjustment to import competition;
+      (E) the short- and long-term economic and social costs of the actions authorized under paragraph (3) relative to their short- and long-term economic and social benefits and other considerations relative to the position of the domestic industry in the United States economy;
+      (F) other factors related to the national economic interest of the United States, including, but not limited to–
+        (i) the economic and social costs which would be incurred by taxpayers, communities, and workers if import relief were not provided under this part,
+        (ii) the effect of the implementation of actions under this section on consumers and on competition in domestic markets for articles, and
+        (iii) the impact on United States industries and firms as a result of international obligations regarding compensation;
+      (G) the extent to which there is diversion of foreign exports to the United States market by reason of foreign restraints;
+      (H) the potential for circumvention of any action taken under this section;
+      (I) the national security interests of the United States; and
+      (J) the factors required to be considered by the Commission under section 2252(e)(5) of this title.
+    (3) The President may, for purposes of taking action under paragraph (1)–
+      (A) proclaim an increase in, or the imposition of, any duty on the imported article;
+      (B) proclaim a tariff-rate quota on the article;
+      (C) proclaim a modification or imposition of any quantitative restriction on the importation of the article into the United States;
+      (D) implement one or more appropriate adjustment measures, including the provision of trade adjustment assistance under part 2 of this subchapter;
+      (E) negotiate, conclude, and carry out agreements with foreign countries limiting the export from foreign countries and the import into the United States of such article;
+      (F) proclaim procedures necessary to allocate among importers by the auction of import licenses quantities of the article that are permitted to be imported into the United States;
+      (G) initiate international negotiations to address the underlying cause of the increase in imports of the article or otherwise to alleviate the injury or threat thereof;
+      (H) submit to Congress legislative proposals to facilitate the efforts of the domestic industry to make a positive adjustment to import competition;
+      (I) take any other action which may be taken by the President under the authority of law and which the President considers appropriate and feasible for purposes of paragraph (1); and
+      (J) take any combination of actions listed in subparagraphs (A) through (I).
+    (4)      (A) Subject to subparagraph (B), the President shall take action under paragraph (1) within 60 days (50 days if the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned) after receiving a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title (or a determination under such section which he considers to be an affirmative determination by reason of section 1330(d) of this title).
+      (B) If a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received, except that, in a case in which the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned, action by the President under paragraph (1) may not be taken later than the 200th day after the provisional relief was proclaimed.
+    (5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President“s request, furnish additional information with respect to the industry in a supplemental report.
+  (b) Reports to Congress
+    (1) On the day the President takes action under subsection (a)(1) of this section, the President shall transmit to Congress a document describing the action and the reasons for taking the action. If the action taken by the President differs from the action required to be recommended by the Commission under section 2252(e)(1) of this title, the President shall state in detail the reasons for the difference.
+    (2) On the day on which the President decides that there is no appropriate and feasible action to take under subsection (a)(1) of this section with respect to a domestic industry, the President shall transmit to Congress a document that sets forth in detail the reasons for the decision.
+    (3) On the day on which the President takes any action under subsection (a)(1) of this section that is not reported under paragraph (1), the President shall transmit to Congress a document setting forth the action being taken and the reasons therefor.
+  (c) Implementation of action recommended by Commission
+     If the President reports under subsection (b)(1) or (2) of this section that–
+    (1) the action taken under subsection (a)(1) of this section differs from the action recommended by the Commission under section 2252(e)(1) of this title; or
+    (2) no action will be taken under subsection (a)(1) of this section with respect to the domestic industry;
+       the action recommended by the Commission shall take effect (as provided in subsection (d)(2) of this section) upon the enactment of a joint resolution described in section 2192(a)(1)(A) of this title within the 90-day period beginning on the date on which the document referred to in subsection (b)(1) or (2) of this section is transmitted to the Congress.
+  (d) Time for taking effect of certain relief
+    (1) Except as provided in paragraph (2), any action described in subsection (a)(3)(A), (B), or (C) of this section, that is taken under subsection (a)(1) of this section shall take effect within 15 days after the day on which the President proclaims the action, unless the President announces, on the date he decides to take such action, his intention to negotiate one or more agreements described in subsection (a)(3)(E) of this section in which case the action under subsection (a)(3)(A), (B), or (C) of this section shall be proclaimed and take effect within 90 days after the date of such decision.
+    (2) If the contingency set forth in subsection (c) of this section occurs, the President shall, within 30 days after the date of the enactment of the joint resolution referred to in such subsection, proclaim the action recommended by the Commission under section 2252(e)(1) of this title.
+  (e) Limitations on actions
+    (1)      (A) Subject to subparagraph (B), the duration of the period in which an action taken under this section may be in effect shall not exceed 4 years. Such period shall include the period, if any, in which provisional relief under section 2252(d) of this title was in effect.
+      (B)        (i) Subject to clause (ii), the President, after receiving an affirmative determination from the Commission under section 2254(c) of this title (or, if the Commission is equally divided in its determination, a determination which the President considers to be an affirmative determination of the Commission), may extend the effective period of any action under this section if the President determines that–
+          (I) the action continues to be necessary to prevent or remedy the serious injury; and
+          (II) there is evidence that the domestic industry is making a positive adjustment to import competition.
+        (ii) The effective period of any action under this section, including any extensions thereof, may not, in the aggregate, exceed 8 years.
+    (2) Action of a type described in subsection (a)(3)(A), (B), or (C) of this section may be taken under subsection (a)(1) of this section, under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title only to the extent the cumulative impact of such action does not exceed the amount necessary to prevent or remedy the serious injury.
+    (3) No action may be taken under this section which would increase a rate of duty to (or impose a rate) which is more than 50 percent ad valorem above the rate (if any) existing at the time the action is taken.
+    (4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the United States in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
+    (5) An action described in subsection (a)(3)(A), (B), or (C) of this section that has an effective period of more than 1 year shall be phased down at regular intervals during the period in which the action is in effect.
+    (6)      (A) The suspension, pursuant to any action taken under this section, of–
+        (i) subheadings 9802.00.60 or 9802.00.80 of the Harmonized Tariff Schedule of the United States with respect to an article; and
+        (ii) the designation of any article as an eligible article for purposes of subchapter V of this chapter;
+           shall be treated as an increase in duty.
+      (B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be–
+        (i) the application of subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
+        (ii) the designation of the article as an eligible article for the purposes of subchapter V of this chapter.
+    (7)      (A) If an article was the subject of an action under subparagraph (A), (B), (C), or (E) of subsection (a)(3) of this section, no new action may be taken under any of those subparagraphs with respect to such article for–
+        (i) a period beginning on the date on which the previous action terminates that is equal to the period in which the previous action was in effect, or
+        (ii) a period of 2 years beginning on the date on which the previous action terminates,
+           whichever is greater.
+      (B) Notwithstanding subparagraph (A), if the previous action under subparagraph (A), (B), (C), or (E) of subsection (a)(3) of this section with respect to an article was in effect for a period of 180 days or less, the President may take a new action under any of those subparagraphs with respect to such article if–
+        (i) at least 1 year has elapsed since the previous action went into effect; and
+        (ii) an action described in any of those subparagraphs has not been taken with respect to such article more than twice in the 5-year period immediately preceding the date on which the new action with respect to such article first becomes effective.
+  (f) Certain agreements
+    (1) If the President takes action under this section other than the implemention of agreements of the type described in subsection (a)(3)(E) of this section, the President may, after such action takes effect, negotiate agreements of the type described in subsection (a)(3)(E) of this section, and may, after such agreements take effect, suspend or terminate, in whole or in part, any action previously taken.
+    (2) If an agreement implemented under subsection (a)(3)(E) of this section is not effective, the President may, consistent with the limitations contained in subsection (e) of this section, take additional action under subsection (a) of this section.
+  (g) Regulations
+    (1) The President shall by regulation provide for the efficient and fair administration of all actions taken for the purpose of providing import relief under this part.
+    (2) In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) of this section that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered by such agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
+    (3) Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.

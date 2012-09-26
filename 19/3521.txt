@@ -1,3 +1,281 @@
-  (a) When the testimony of a person who is serving a sentence, is in pretrial detention, or is otherwise being held in custody, in a foreign country, is needed in a State or Federal criminal proceeding, the Attorney General shall, when he deems it appropriate in the exercise of his discretion, have the authority to request the temporary transfer of that person to the United States for the purposes of giving such testimony, to transport such person to the United States in custody, to maintain the custody of such person while he is in the United States, and to return such person to the foreign country.
-  (b) Where the transfer to the United States of a person in custody for the purposes of giving testimony is provided for by treaty or convention, by this section, or both, that person shall be returned to the foreign country from which he is transferred. In no event shall the return of such person require any request for extradition or extradition proceedings, or proceedings under the immigration laws.
-  (c) Where there is a treaty or convention between the United States and the foreign country in which the witness is being held in custody which provides for the transfer, custody and return of such witnesses, the terms and conditions of that treaty shall apply. Where there is no such treaty or convention, the Attorney General may exercise the authority described in paragraph (a) if both the foreign country and the witness give their consent.
+  (a) In general
+     In addition to the authority provided by section 2902 of this title, the President shall have the authority to proclaim–
+    (1) such other modification of any duty,
+    (2) such other staged rate reduction, or
+    (3) such additional duties,
+       as the President determines to be necessary or appropriate to carry out Schedule XX.
+  (b) Other tariff modifications
+     Subject to the consultation and layover requirements of section 3524 of this title, the President may proclaim–
+    (1) the modification of any duty or staged rate reduction of any duty set forth in Schedule XX if–
+      (A) the United States agrees to such modification or staged rate reduction in a multilateral negotiation under the auspices of the WTO, and
+      (B) such modification or staged rate reduction applies to the rate of duty on an article contained in a tariff category that was the subject of reciprocal duty elimination or harmonization negotiations during the Uruguay Round of multilateral trade negotiations, and
+    (2) such modifications as are necessary to correct technical errors in Schedule XX or to make other rectifications to the Schedule.
+  (c) Authority to increase duties on articles from certain countries
+    (1) In general
+      (A) Determination with respect to certain countries
+         Notwithstanding section 1881 of this title, after the entry into force of the WTO Agreement with respect to the United States, if the President–
+        (i) determines that a foreign country (other than a foreign country that is a WTO member country) is not according adequate trade benefits to the United States, including substantially equal competitive opportunities for the commerce of the United States, and
+        (ii) consults with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate,
+         the President may proclaim an increase in the rate of duty with respect to any article of such country in accordance with subparagraph (B).
+      (B) Rate of duty described
+         The President may proclaim a rate of duty on any article of a country identified under subparagraph (A) that is equal to the greater of–
+        (i) the rate of duty set forth for such article in the base rate of duty column of Schedule XX, or
+        (ii) the rate of duty set forth for such article in the bound rate of duty column of Schedule XX.
+    (2) Termination of increased duties
+       The President shall terminate any increase in the rate of duty proclaimed under this subsection by a proclamation which shall be effective on the earlier of–
+      (A) the date set out in such proclamation of termination, or
+      (B) the date the WTO Agreement enters into force with respect to the foreign country with respect to which the determination under paragraph (1) was made.
+    (3) Publication of determination and termination
+       The President shall publish in the Federal Register notice of a determination made under paragraph (1) and a termination occurring by reason of paragraph (2).
+  (d) Adjustments to certain column 2 rates of duty
+     At such time as the President proclaims any modification to the HTS to implement the provisions of Schedule XX, the President shall also proclaim the rate of duty set forth in Column B as the column 2 rate of duty for the subheading of the HTS that corresponds to the subheading in Schedule XX listed in Column A.
+      
+     0201.10.50 D31.1%
+     0201.20.80 D31.1%
+     0201.30.80 D31.1%
+     0202.10.50 D31.1%
+     0202.20.80 D31.1%
+     0202.30.80 D31.1%
+     0401.30.25 D90.8¢/liter
+     0401.30.75 D$1.936/kg
+     0402.10.50 D$1.018/kg
+     0402.21.25 D$1.018/kg
+     0402.21.50 D$1.285/kg
+     0402.21.90 D$1.831/kg
+     0402.29.50 D$1.299/kg + 17.5%
+     0402.91.60 D36.8¢/kg
+     0402.99.50 D58.4¢/kg
+     0402.99.90 D54.5¢/kg + 17.5%
+     0403.10.50 D$1.217/kg + 20%
+     0403.90.16 D90.8¢/liter
+     0403.90.45 D$1.03/kg
+     0403.90.55 D$1.285/kg
+     0403.90.65 D$1.831/kg
+     0403.90.78 D$1.936/kg
+     0403.90.95 D$1.217/kg + 20%
+     0404.10.11 D20%
+     0404.10.15 D$1.217/kg + 10%
+     0404.10.90 D$1.03/kg
+     0404.90.30 D25%
+     0404.90.50 D$1.399/kg + 10%
+     0405.00.40 D$1.813/kg
+     0405.00.90 D$2.194/kg + 10%
+     0406.10.08 D$1.775/kg
+     0406.10.18 D$2.67/kg
+     0406.10.28 D$1.443/kg
+     0406.10.38 D$1.241/kg
+     0406.10.48 D$2.121/kg
+     0406.10.58 D$2.525/kg
+     0406.10.68 D$1.631/kg
+     0406.10.78 D$1.328/kg
+     0406.10.88 D$1.775/kg
+     0406.20.28 D$2.67/kg
+     0406.20.33 D$1.443/kg
+     0406.20.39 D$1.241/kg
+     0406.20.48 D$2.121/kg
+     0406.20.53 D$2.525/kg
+     0406.20.63 D$2.67/kg
+     0406.20.67 D$1.443/kg
+     0406.20.71 D$1.241/kg
+     0406.20.75 D$2.121/kg
+     0406.20.79 D$2.525/kg
+     0406.20.83 D$1.631/kg
+     0406.20.87 D$1.328/kg
+     0406.20.91 D$1.775/kg
+     0406.30.18 D$2.67/kg
+     0406.30.28 D$1.443/kg
+     0406.30.38 D$1.241/kg
+     0406.30.48 D$2.121/kg
+     0406.30.53 D$1.631/kg
+     0406.30.63 D$2.67/kg
+     0406.30.67 D$1.443/kg
+     0406.30.71 D$1.241/kg
+     0406.30.75 D$2.121/kg
+     0406.30.79 D$2.525/kg
+     0406.30.83 D$1.631/kg
+     0406.30.87 D$1.328/kg
+     0406.30.91 D$1.775/kg
+     0406.40.70 D$2.67/kg
+     0406.90.12 D$1.443/kg
+     0406.90.18 D$2.121/kg
+     0406.90.33 D$2.525/kg
+     0406.90.38 D$2.525/kg
+     0406.90.43 D$2.525/kg
+     0406.90.48 D$2.208/kg
+     0406.90.64 D$1.241/kg
+     0406.90.68 D$2.525/kg
+     0406.90.74 D$2.67/kg
+     0406.90.78 D$1.443/kg
+     0406.90.84 D$1.241/kg
+     0406.90.88 D$2.121/kg
+     0406.90.92 D$1.631/kg
+     0406.90.94 D$1.328/kg
+     0406.90.97 D$1.775/kg
+     1202.10.80 D192.7%
+     1202.20.80 D155%
+     1517.90.60 D40.2¢/kg
+     1701.11.50 D39.85¢/kg
+     1701.12.10 D6.58170¢/kg less 0.0622005¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 5.031562¢/kg
+     1701.12.50 D42.05¢/kg
+     1701.91.10 D6.58170¢/kg less 0.0622005¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 5.031562¢/kg
+     1701.91.30 D42.05¢/kg
+     1701.91.48 D39.9¢/kg + 6%
+     1701.91.58 D39.9¢/kg + 6%
+     1701.99.10 D6.58170¢/kg less 0.0622005¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 5.031562¢/kg
+     1701.99.50 D42.05¢/kg
+     1702.20.28 D19.9¢/kg of total sugars + 6%
+     1702.30.28 D19.9¢/kg of total sugars + 6%
+     1702.40.28 D39.9¢/kg of total sugars + 6%
+     1702.60.28 D39.9¢/kg of total sugars + 6%
+     1702.90.10 D6.58170¢/kg of total sugars
+     1702.90.20 D42.05¢/kg
+     1702.90.58 D39.9¢/kg of total sugars + 6%
+     1702.90.68 D39.9¢/kg + 6%
+     1704.90.58 D47.4¢/kg + 12.2%
+     1704.90.68 D47.4¢/kg + 12.2%
+     1704.90.78 D47.4¢/kg + 12.2%
+     1806.10.15 D25.5¢/kg
+     1806.10.28 D39.5¢/kg
+     1806.10.38 D39.5¢/kg
+     1806.10.55 D39.5¢/kg
+     1806.10.75 D39.5¢/kg
+     1806.20.26 D43.8¢/kg + 5%
+     1806.20.28 D62.1¢/kg + 5%
+     1806.20.36 D43.8¢/kg + 5%
+     1806.20.38 D62.1¢/kg + 5%
+     1806.20.73 D35.9¢/kg + 10%
+     1806.20.77 D35.9¢/kg + 10%
+     1806.20.82 D43.8¢/kg + 10%
+     1806.20.83 D62.1¢/kg + 10%
+     1806.20.87 D43.8¢/kg + 10%
+     1806.20.89 D62.1¢/kg + 10%
+     1806.20.92 D43.8¢/kg + 10%
+     1806.20.93 D62.1¢/kg + 10%
+     1806.20.96 D43.8¢/kg + 10%
+     1806.20.97 D62.1¢/kg + 10%
+     1806.32.06 D43.8¢/kg + 5%
+     1806.32.08 D62.1¢/kg + 5%
+     1806.32.16 D43.8¢/kg + 5%
+     1806.32.18 D62.1¢/kg + 5%
+     1806.32.70 D43.8¢/kg + 7%
+     1806.32.80 D62.1¢/kg + 7%
+     1806.90.08 D43.8¢/kg + 7%
+     1806.90.10 D62.1¢/kg + 7%
+     1806.90.18 D43.8¢/kg + 7%
+     1806.90.20 D62.1¢/kg + 7%
+     1806.90.28 D43.8¢/kg + 7%
+     1806.90.30 D62.1¢/kg + 7%
+     1806.90.38 D43.8¢/kg + 7%
+     1806.90.40 D62.1¢/kg + 7%
+     1806.90.48 D43.8¢/kg + 7%
+     1806.90.50 D62.1¢/kg + 7%
+     1806.90.58 D43.8¢/kg + 7%
+     1806.90.60 D62.1¢/kg + 7%
+     1901.10.30 D$1.217/kg + 17.5%
+     1901.10.40 D$1.217/kg + 17.5%
+     1901.10.75 D$1.217/kg + 17.5%
+     1901.10.85 D$1.217/kg + 17.5%
+     1901.20.15 D49.8¢/kg + 10%
+     1901.20.25 D49.8¢/kg + 10%
+     1901.20.35 D49.8¢/kg + 10%
+     1901.20.50 D49.8¢/kg + 10%
+     1901.20.60 D49.8¢/kg + 10%
+     1901.20.70 D49.8¢/kg + 10%
+     1901.90.36 D$1.328/kg
+     1901.90.42 D25%
+     1901.90.44 D$1.217/kg + 16%
+     1901.90.46 D25%
+     1901.90.48 D$1.217/kg + 16%
+     1901.90.54 D27.9¢/kg + 10%
+     1901.90.58 D27.9¢/kg + 10%
+     2008.11.15 D155%
+     2008.11.35 D155%
+     2008.11.60 D155%
+     2101.10.38 D35.9¢/kg + 10%
+     2101.10.48 D35.9¢/kg + 10%
+     2101.10.58 D35.9¢/kg + 10%
+     2101.20.38 D35.9¢/kg + 10%
+     2101.20.48 D35.9¢/kg + 10%
+     2101.20.58 D35.9¢/kg + 10%
+     2103.90.78 D35.9¢/kg + 7.5%
+     2105.00.20 D59¢/kg + 20%
+     2105.00.40 D59¢/kg + 20%
+     2106.90.02 D$1.014/kg
+     2106.90.04 D$2.348/kg
+     2106.90.08 D$2.348/kg
+     2106.90.11 D6.58170¢/kg of total sugars
+     2106.90.12 D42.05¢/kg
+     2106.90.34 D82.8¢/kg + 10%
+     2106.90.38 D82.8¢/kg + 10%
+     2106.90.44 D82.8¢/kg + 10%
+     2106.90.48 D82.8¢/kg + 10%
+     2106.90.57 D33.9¢/kg + 10%
+     2106.90.67 D33.9¢/kg + 10%
+     2106.90.77 D33.9¢/kg + 10%
+     2106.90.87 D33.9¢/kg + 10%
+     2202.90.28 D27.6¢/liter + 17.5%
+     2309.90.28 D94.6¢/kg + 7.5%
+     2309.90.48 D94.6¢/kg + 7.5%
+     2401.10.70 D85¢/kg
+     2401.10.90 D85¢/kg
+     2401.20.30 D$1.21/kg
+     2401.20.45 D$1.15/kg
+     2401.20.55 D$1.15/kg
+     2801.30.20 D37%
+     2805.30.00 D31.3%
+     2805.40.00 D5.7%
+     2811.19.10 D4.9%
+     2818.10.20 D4.1%
+     2822.00.00 D1.7%
+     2827.39.20 D31.9%
+     2833.11.50 D3.6%
+     2833.27.00 D4.2%
+     2836.40.20 D4.8%
+     2836.60.00 D8.4%
+     2837.20.10 D5.1%
+     2840.11.00 D1.2%
+     2840.19.00 D0.4%
+     2849.20.20 D1.6%
+     2903.15.00 D88%
+     2903.16.00 D33.3%
+     2903.30.05 D46.3%
+     2906.11.00 D6.2%
+     2907.12.00 D48.3%
+     2909.11.00 D4%
+     2912.11.00 D12.1%
+     2916.15.10 D35.2%
+     2916.19.30 D24.4%
+     2923.20.20 D33.4%
+     3213.90.00 D48.6%
+     3307.10.20 D81.7%
+     3307.49.00 D73.2%
+     3403.11.20 D0.4%
+     3403.19.10 D0.4%
+     3506.10.10 D30.4%
+     3603.00.30 D8.3%
+     3603.00.90 D0.3%
+     3604.10.00 D12.5%
+     3606.90.30 D56.7%
+     3706.10.30 D7%
+     3807.00.00 D0.2%
+     3823.90.33 D26.3%
+     3904.61.00 D34.1%
+     3916.90.10 D40.6%
+     3920.51.50 D48.2%
+     3920.59.80 D51.7%
+     3926.90.65 D8.4%
+     5201.00.18 D36.9¢/kg
+     5201.00.28 D36.9¢/kg
+     5201.00.38 D36.9¢/kg
+     5201.00.80 D36.9¢/kg
+     5202.99.30 D9.2¢/kg
+     5203.00.30 D36.9¢/kg
+  (e) Authority to consolidate subheadings and modify column 2 rates of duty for tariff simplification purposes
+    (1) In general
+       Whenever the HTS column 1 general rates of duty for 2 or more 8-digit subheadings are at the same level and such subheadings are subordinate to a provision required by the International Convention on the Harmonized Commodity Description and Coding System, the President may proclaim, subject to the consultation and layover requirements of section 3524 of this title, that the goods described in such subheadings be provided for in a single 8-digit subheading of the HTS, and that–
+      (A) the HTS column 1 general rate of duty for such single subheading be the column 1 general rate of duty common to all such subheadings, and
+      (B) the HTS column 2 rate of duty for such single subheading be the highest column 2 rate of duty for such subheadings that is in effect on the day before the effective date of such proclamation.
+    (2) Same level of duty
+       The provisions of this subsection apply to subheadings described in paragraph (1) that have the same column 1 general rate of duty–
+      (A) on December 8, 1994, or
+      (B) after December 8, 1994, as a result of a staged reduction in such column 1 rates of duty.

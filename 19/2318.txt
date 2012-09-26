@@ -1,11 +1,31 @@
-  (a) Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a motion picture or other audiovisual work, shall be fined under this title or imprisoned for not more than five years, or both.
-  (b) As used in this section–
-    (1) the term ””counterfeit label““ means an identifying label or container that appears to be genuine, but is not;
-    (2) the term ””traffic““ means to transport, transfer or otherwise dispose of, to another, as consideration for anything of value or to make or obtain control of with intent to so transport, transfer or dispose of; and
-    (3) the terms ””copy““, ””phonorecord““, ””motion picture““, and ””audiovisual work““ have, respectively, the meanings given those terms in section 101 (relating to definitions) of title 17.
-  (c) The circumstances referred to in subsection (a) of this section are–
-    (1) the offense is committed within the special maritime and territorial jurisdiction of the United States; or within the special aircraft jurisdiction of the United States (as defined in section 46501 of title 49);
-    (2) the mail or a facility of interstate or foreign commerce is used or intended to be used in the commission of the offense; or
-    (3) the counterfeit label is affixed to or encloses, or is designed to be affixed to or enclose, a copyrighted motion picture or other audiovisual work, or a phonorecord of a copyrighted sound recording.
-  (d) When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels and all articles to which counterfeit labels have been affixed or which were intended to have had such labels affixed.
-  (e) Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).
+  (a) Establishment of projects; purpose
+     The Secretary shall establish one or more demonstration projects during fiscal years 1989 and 1990 for the purpose of–
+    (1) determining the attractiveness of a supplemental wage allowance to various categories of workers eligible for assistance under this part, based on the amount and duration of the supplement;
+    (2) determining the effectiveness of a supplemental wage allowance as an option under this part in facilitating the readjustment of adversely affected workers; and
+    (3) determining whether a supplemental wage allowance should be made an option under the Trade Adjustment Assistance program for all fiscal years.
+  (b) Supplemental wage allowances
+    (1) For purposes of this section, the term ””supplemental wage allowance““ means a payment that is made to an adversely affected worker who–
+      (A) accepts full-time employment at an average weekly wage that is less than the average weekly wage of the worker in the adversely affected employment,
+      (B) prior to such acceptance, is eligible for trade readjustment allowances under sections 2291 to 2294 of this title, and
+      (C) voluntarily elects to receive such payment in lieu of any trade readjustment allowances that the worker would otherwise be eligible to receive with respect to the period covered by the certification made under subpart A of this part that applies to such worker.
+    (2) A supplemental wage allowance shall be provided under any demonstration project established under subsection (a) of this section to a worker described in paragraph (1) for each week during which the worker performs services in the full-time employment referred to in paragraph (1)(A) in an amount that does not exceed the lesser of–
+      (A) the amount of the trade readjustment allowance that the worker would have been eligible to receive for any week under sections 2291 to 2294 of this title if the worker had not accepted the full-time employment and had not made the election described in paragraph (1)(C), or
+      (B) the excess of–
+        (i) an amount equal to 80 percent of the average weekly wage of the worker in the adversely affected employment, over
+        (ii) the average weekly wage in the full-time employment.
+    (3)      (A) Supplemental wage allowances shall not be provided under any demonstration project established under subsection (a) of this section for more than 52 weeks.
+      (B) The total amount of supplemental wage allowances that may be paid to any worker under any demonstration project established under subsection (a) of this section with respect to the period covered by the certification applicable to such worker shall not exceed an amount that is equal to the excess of–
+        (i) the amount of the limitation imposed under section 2293(a)(1) of this title with respect to such worker for such period, over
+        (ii) the amount of the trade readjustment allowances paid under sections 2291 to 2294 of this title to such worker for such period.
+  (c) Evaluation of projects
+     The Secretary shall provide for an evaluation of demonstration projects conducted under this section to determine at least the following:
+    (1) the extent to which different age groups of eligible recipients utilize the supplemental wage allowance;
+    (2) the effect of the amount and duration of the supplemental wage allowance on the utilization of the allowance;
+    (3) the extent to which the supplemental wage allowance affects the demand for training and the appropriateness thereof;
+    (4) the extent to which the supplemental wage allowance facilitates the readjustment of workers who would not otherwise utilize benefits provided under this part;
+    (5) the extent to which the allowance affects the cost of carrying out the provisions of this part; and
+    (6) the effectiveness of the supplemental wage allowance as an option under this part in facilitating the readjustment of adversely affected workers.
+  (d) Report to Congress; evaluation and recommendation
+     By no later than the date that is 6 years after August 23, 1988, the Secretary shall transmit to the Congress a report that includes–
+    (1) an evaluation of the projects authorized under this section that is conducted in accordance with subsection (c) of this section, and
+    (2) a recommendation as to whether the supplemental wage allowance should be available on a permanent basis as an option for some or all workers eligible for assistance under this part.

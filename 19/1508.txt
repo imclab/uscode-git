@@ -1,5 +1,55 @@
-   Whoever knowingly and willfully, by any means or device whatsoever–
-  (a) records, or attempts to record, the proceedings of any grand or petit jury in any court of the United States while such jury is deliberating or voting; or
-  (b) listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting–
-     shall be fined under this title or imprisoned not more than one year, or both.
-     Nothing in paragraph (a) of this section shall be construed to prohibit the taking of notes by a grand or petit juror in any court of the United States in connection with and solely for the purpose of assisting him in the performance of his duties as such juror.
+  (a) Requirements
+     Any–
+    (1) owner, importer, consignee, importer of record, entry filer, or other party who–
+      (A) imports merchandise into the customs territory of the United States, files a drawback claim, or transports or stores merchandise carried or held under bond, or
+      (B) knowingly causes the importation or transportation or storage of merchandise carried or held under bond into or from the customs territory of the United States;
+    (2) agent of any party described in paragraph (1); or
+    (3) person whose activities require the filing of a declaration or entry, or both;
+       shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to, statements, declarations, documents and electronically generated or machine readable data) which–
+      (A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
+      (B) are normally kept in the ordinary course of business.
+  (b) Exportations to free trade countries
+    (1) Definitions
+       As used in this subsection–
+      (A) The term ””associated records““ means, in regard to an exported good under paragraph (2), records associated with–
+        (i) the purchase of, cost of, value of, and payment for, the good;
+        (ii) the purchase of, cost of, value of, and payment for, all material, including indirect materials, used in the production of the good; and
+        (iii) the production of the good.
+       For purposes of this subparagraph, the terms ””indirect material““, ””material““, ””preferential tariff treatment““, ””used““, and ””value““ have the respective meanings given them in articles 415 and 514 of the North American Free Trade Agreement.
+      (B) The term ””NAFTA Certificate of Origin““ means the certification, established under article 501 of the North American Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+    (2) Exports to NAFTA countries
+      (A) In general
+         Any person who completes and signs a NAFTA Certificate of Origin for a good for which preferential treatment under the North American Free Trade Agreement is claimed shall make, keep, and render for examination and inspection all records relating to the origin of the good (including the Certificate or copies thereof) and the associated records.
+      (B) Claims for certain waivers, reductions, or refunds of duties or for credit against bonds
+        (i) In general
+           Any person that claims with respect to an article–
+          (I) a waiver or reduction of duty under the last paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the last proviso to section 81c(a) of this title;
+          (II) a credit against a bond under section 1312(d) of this title; or
+          (III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (T3oK)(1) of this title;
+              must disclose to the Customs Service the information described in clause (ii).
+        (ii) Information required
+           Within 30 days after making a claim described in clause (i) with respect to an article, the person making the claim must disclose to the Customs Service whether that person has prepared, or has knowledge that another person has prepared, a NAFTA Certificate of Origin for the article. If after such 30-day period the person making the claim either–
+          (I) prepares a NAFTA Certificate of Origin for the article; or
+          (II) learns of the existence of such a Certificate for the article;
+              that person, within 30 days after the occurrence described in subclause (I) or (II), must disclose the occurrence to the Customs Service.
+        (iii) Action on claim
+           If the Customs Service determines that a NAFTA Certificate of Origin has been prepared with respect to an article for which a claim described in clause (i) is made, the Customs Service may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+    (3) Exports under the Canadian agreement
+       Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
+  (c) Period of time
+     The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that–
+    (1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+    (2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
+    (3) records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.
+  (d) Limitation
+     For the purposes of this section and section 1509 of this title, a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless–
+    (1) the terms and conditions of the importation are controlled by the person placing the order; or
+    (2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.
+  (e) Subsection (b) penalties
+    (1) Relating to NAFTA exports
+       Any person who fails to retain records required by paragraph (2) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for–
+      (A) a civil penalty not to exceed $10,000; or
+      (B) the general recordkeeping penalty that applies under the customs laws;
+       whichever penalty is higher.
+    (2) Relating to Canadian agreement exports
+       Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.

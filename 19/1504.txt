@@ -1,2 +1,16 @@
-   Whoever attempts to influence the action or decision of any grand or petit juror of any court of the United States upon any issue or matter pending before such juror, or before the jury of which he is a member, or pertaining to his duties, by writing or sending to him any written communication, in relation to such issue or matter, shall be fined under this title or imprisoned not more than six months, or both.
-   Nothing in this section shall be construed to prohibit the communication of a request to appear before the grand jury.
+  (a) Liquidation
+     Unless an entry is extended under subsection (b) of this section or suspended as required by statute or court order, except as provided in section 1675(a)(3) of this title, an entry of merchandise not liquidated within one year from:
+    (1) the date of entry of such merchandise;
+    (2) the date of the final withdrawal of all such merchandise covered by a warehouse entry;
+    (3) the date of withdrawal from warehouse of such merchandise for consumption where, pursuant to regulations issued under section 1505(a) of this title, duties may be deposited after the filing of an entry or withdrawal from warehouse; or
+    (4) if a reconciliation is filed, or should have been filed, the date of the filing under section 1484 of this title or the date the reconciliation should have been filed;
+       shall be deemed liquidated at the rate of duty, value, quantity, and amount of duties asserted at the time of entry by the importer of record. Notwithstanding section 1500(e) of this title, notice of liquidation need not be given of an entry deemed liquidated.
+  (b) Extension
+     The Secretary may extend the period in which to liquidate an entry if–
+    (1) the information needed for the proper appraisement or classification of the merchandise, or for insuring compliance with applicable law, is not available to the Customs Service; or
+    (2) the importer of record requests such extension and shows good cause therefor.
+       The Secretary shall give notice of an extension under this subsection to the importer of record and the surety of such importer of record. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record at the expiration of 4 years from the applicable date specified in subsection (a) of this section.
+  (c) Notice of suspension
+     If the liquidation of any entry is suspended, the Secretary shall by regulation require that notice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record and to any authorized agent and surety of such importer of record.
+  (d) Removal of suspension
+     Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b) of this section, within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b) of this section) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record.
