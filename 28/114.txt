@@ -1,9 +1,2 @@
-   North Dakota constitutes one judicial district comprising four divisions.
-  (1) The Southwestern Division comprises the counties of Adams, Billings, Bowman, Burleigh, Dunn, Emmons, Golden Valley, Grant, Hettinger, Kidder, Logan, McIntosh, McLean, Mercer, Morton, Oliver, Sioux, Slope, and Stark.
-     Court for the Southwestern Division shall be held at Bismarck.
-  (2) The Southeastern Division comprises the counties of Barnes, Cass, Dickey, Eddy, Foster, Griggs, La Moure, Ransom, Richland, Sargent, Steele, and Stutsman.
-     Court for the Southeastern Division shall be held at Fargo.
-  (3) The Northeastern Division comprises the counties of Benson, Cavalier, Grand Forks, Nelson, Pembina, Ramsey, Rolette, Towner, Traill, and Walsh.
-     Court for the Northeastern Division shall be held at Grand Forks.
-  (4) The Northwestern Division comprises the counties of Bottineau, Burke, Divide, McHenry, McKenzie, Mountrail, Pierce, Renville, Sheridan, Ward, Wells, and Williams.
-     Court for the Northwestern Division shall be held at Minot.
+   North Dakota constitutes one judicial district.
+   Court shall be held at Bismarck, Fargo, Grand Forks, and Minot.
