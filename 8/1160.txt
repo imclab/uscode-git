@@ -49,13 +49,22 @@
     (4) Treatment of applications by designated entities
        Each designated entity must agree to forward to the Attorney General applications filed with it in accordance with paragraph (1)(A)(ii) but not to forward to the Attorney General applications filed with it unless the applicant has consented to such forwarding. No such entity may make a determination required by this section to be made by the Attorney General.
     (5) Limitation on access to information
-       Files and records prepared for purposes of this section by designated entities operating under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien.
+       Files and records prepared for purposes of this section by designated entities operating under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien, except as allowed by a court order issued pursuant to paragraph (6) of this subsection.
     (6) Confidentiality of information
-       Neither the Attorney General, nor any other official or employee of the Department of Justice, or bureau or agency thereof, may–
-      (A) use the information furnished pursuant to an application filed under this section for any purpose other than to make a determination on the application including a determination under subparagraph \1\N (a)(3)(B), or for enforcement of paragraph (7).\2\N
-      (B) make any publication whereby the information furnished by any particular individual can be identified, or
-      (C) permit anyone other than the sworn officers and employees of the Department or bureau or agency or, with respect to applications filed with a designated entity, that designated entity, to examine individual applications.
-       Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
+      (A) In general
+         Except as provided in this paragraph, neither the Attorney General, nor any other official or employee of the Department of Justice, or bureau or agency thereof, may–
+        (i) use the information furnished by the applicant pursuant to an application filed under this section for any purpose other than to make a determination on the application, including a determination under subsection (a)(3)(B) of this section, or for enforcement of paragraph (7);
+        (ii) make any publication whereby the information furnished by any particular individual can be identified; or
+        (iii) permit anyone other than the sworn officers and employees of the Department or bureau or agency or, with respect to applications filed with a designated entity, that designated entity, to examine individual applications.
+      (B) Required disclosures
+         The Attorney General shall provide information furnished under this section, and any other information derived from such furnished information, to a duly recognized law enforcement entity in connection with a criminal investigation or prosecution, when such information is requested in writing by such entity, or to an official coroner for purposes of affirmatively identifying a deceased individual (whether or not such individual is deceased as a result of a crime).
+      (C) Construction
+        (i) In general
+           Nothing in this paragraph shall be construed to limit the use, or release, for immigration enforcement purposes or law enforcement purposes of information contained in files or records of the Service pertaining to an application filed under this section, other than information furnished by an applicant pursuant to the application, or any other information derived from the application, that is not available from any other source.
+        (ii) Criminal convictions
+           Information concerning whether the applicant has at any time been convicted of a crime may be used or released for immigration enforcement or law enforcement purposes.
+      (D) Crime
+         Whoever knowingly uses, publishes, or permits information to be examined in violation of this paragraph shall be fined not more than $10,000.
     (7) Penalties for false statements in applications
       (A) Criminal penalty
          Whoever–
@@ -106,11 +115,11 @@
          Such administrative appellate review shall be based solely upon the administrative record established at the time of the determination on the application and upon such additional or newly discovered evidence as may not have been available at the time of the determination.
     (3) Judicial review
       (A) Limitation to review of exclusion or deportation
-         There shall be judicial review of such a denial only in the judicial review of an order of exclusion or deportation under section 1105a of this title.
+         There shall be judicial review of such a denial only in the judicial review of an order of exclusion or deportation under section 1105a of this title (as in effect before October 1, 1996).
       (B) Standard for judicial review
          Such judicial review shall be based solely upon the administrative record established at the time of the review by the appellate authority and the findings of fact and determinations contained in such record shall be conclusive unless the applicant can establish abuse of discretion or that the findings are directly contrary to clear and convincing facts contained in the record considered as a whole.
   (f) Temporary disqualification of newly legalized aliens from receiving aid to families with dependent children
-     During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law, the alien is not eligible for aid under a State plan approved under part A of title IV of the Social Security Act [42 U.S.C. 601 et seq.]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for aid under a State plan approved under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph (3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
+     During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act [42 U.S.C. 601 et seq.]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph (3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
   (g) Treatment of special agricultural workers
      For all purposes (subject to subsections (a)(5) and (f) of this section) an alien whose status is adjusted under this section to that of an alien lawfully admitted for permanent residence, such status not having changed, shall be considered to be an alien lawfully admitted for permanent residence (within the meaning of section 1101(a)(20) of this title).
   (h) ””Seasonal agricultural services““ defined

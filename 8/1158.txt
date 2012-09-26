@@ -1,10 +1,77 @@
-  (a) Establishment by Attorney General; coverage
-     The Attorney General shall establish a procedure for an alien physically present in the United States or at a land border or port of entry, irrespective of such alien“s status, to apply for asylum, and the alien may be granted asylum in the discretion of the Attorney General if the Attorney General determines that such alien is a refugee within the meaning of section 1101(a)(42)(A) of this title.
-  (b) Termination of asylum by Attorney General; criteria
-     Asylum granted under subsection (a) of this section may be terminated if the Attorney General, pursuant to such regulations as the Attorney General may prescribe, determines that the alien is no longer a refugee within the meaning of section 1101(a)(42)(A) of this title owing to a change in circumstances in the alien“s country of nationality or, in the case of an alien having no nationality, in the country in which the alien last habitually resided.
-  (c) Status of spouse or child of alien granted asylum
-     A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under subsection (a) of this section may, if not otherwise eligible for asylum under such subsection, be granted the same status as the alien if accompanying, or following to join, such alien.
-  (d) Aliens convicted of aggravated felony
-     An alien who has been convicted of an aggravated felony, notwithstanding subsection (a) of this section, may not apply for or be granted asylum.
-  (e) Employment authorization
-     An applicant for asylum is not entitled to employment authorization except as may be provided by regulation in the discretion of the Attorney General.
+  (a) Authority to apply for asylum
+    (1) In general
+       Any alien who is physically present in the United States or who arrives in the United States (whether or not at a designated port of arrival and including an alien who is brought to the United States after having been interdicted in international or United States waters), irrespective of such alien“s status, may apply for asylum in accordance with this section or, where applicable, section 1225(b) of this title.
+    (2) Exceptions
+      (A) Safe third country
+         Paragraph (1) shall not apply to an alien if the Attorney General determines that the alien may be removed, pursuant to a bilateral or multilateral agreement, to a country (other than the country of the alien“s nationality or, in the case of an alien having no nationality, the country of the alien“s last habitual residence) in which the alien“s life or freedom would not be threatened on account of race, religion, nationality, membership in a particular social group, or political opinion, and where the alien would have access to a full and fair procedure for determining a claim to asylum or equivalent temporary protection, unless the Attorney General finds that it is in the public interest for the alien to receive asylum in the United States.
+      (B) Time limit
+         Subject to subparagraph (D), paragraph (1) shall not apply to an alien unless the alien demonstrates by clear and convincing evidence that the application has been filed within 1 year after the date of the alien“s arrival in the United States.
+      (C) Previous asylum applications
+         Subject to subparagraph (D), paragraph (1) shall not apply to an alien if the alien has previously applied for asylum and had such application denied.
+      (D) Changed circumstances
+         An application for asylum of an alien may be considered, notwithstanding subparagraphs (B) and (C), if the alien demonstrates to the satisfaction of the Attorney General either the existence of changed circumstances which materially affect the applicant“s eligibility for asylum or extraordinary circumstances relating to the delay in filing an application within the period specified in subparagraph (B).
+    (3) Limitation on judicial review
+       No court shall have jurisdiction to review any determination of the Attorney General under paragraph (2).
+  (b) Conditions for granting asylum
+    (1) In general
+       The Attorney General may grant asylum to an alien who has applied for asylum in accordance with the requirements and procedures established by the Attorney General under this section if the Attorney General determines that such alien is a refugee within the meaning of section 1101(a)(42)(A) of this title.
+    (2) Exceptions
+      (A) In general
+         Paragraph (1) shall not apply to an alien if the Attorney General determines that–
+        (i) the alien ordered, incited, assisted, or otherwise participated in the persecution of any person on account of race, religion, nationality, membership in a particular social group, or political opinion;
+        (ii) the alien, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of the United States;
+        (iii) there are serious reasons for believing that the alien has committed a serious nonpolitical crime outside the United States prior to the arrival of the alien in the United States;
+        (iv) there are reasonable grounds for regarding the alien as a danger to the security of the United States;
+        (v) the alien is inadmissible under subclause (I), (II), (III), or (IV) of section 1182(a)(3)(B)(i) of this title or removable under section 1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien inadmissible under subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General“s discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
+        (vi) the alien was firmly resettled in another country prior to arriving in the United States.
+      (B) Special rules
+        (i) Conviction of aggravated felony
+           For purposes of clause (ii) of subparagraph (A), an alien who has been convicted of an aggravated felony shall be considered to have been convicted of a particularly serious crime.
+        (ii) Offenses
+           The Attorney General may designate by regulation offenses that will be considered to be a crime described in clause (ii) or (iii) of subparagraph (A).
+      (C) Additional limitations
+         The Attorney General may by regulation establish additional limitations and conditions, consistent with this section, under which an alien shall be ineligible for asylum under paragraph (1).
+      (D) No judicial review
+         There shall be no judicial review of a determination of the Attorney General under subparagraph (A)(v).
+    (3) Treatment of spouse and children
+       A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+  (c) Asylum status
+    (1) In general
+       In the case of an alien granted asylum under subsection (b) of this section, the Attorney General–
+      (A) shall not remove or return the alien to the alien“s country of nationality or, in the case of a person having no nationality, the country of the alien“s last habitual residence;
+      (B) shall authorize the alien to engage in employment in the United States and provide the alien with appropriate endorsement of that authorization; and
+      (C) may allow the alien to travel abroad with the prior consent of the Attorney General.
+    (2) Termination of asylum
+       Asylum granted under subsection (b) of this section does not convey a right to remain permanently in the United States, and may be terminated if the Attorney General determines that–
+      (A) the alien no longer meets the conditions described in subsection (b)(1) of this section owing to a fundamental change in circumstances;
+      (B) the alien meets a condition described in subsection (b)(2) of this section;
+      (C) the alien may be removed, pursuant to a bilateral or multilateral agreement, to a country (other than the country of the alien“s nationality or, in the case of an alien having no nationality, the country of the alien“s last habitual residence) in which the alien“s life or freedom would not be threatened on account of race, religion, nationality, membership in a particular social group, or political opinion, and where the alien is eligible to receive asylum or equivalent temporary protection;
+      (D) the alien has voluntarily availed himself or herself of the protection of the alien“s country of nationality or, in the case of an alien having no nationality, the alien“s country of last habitual residence, by returning to such country with permanent resident status or the reasonable possibility of obtaining such status with the same rights and obligations pertaining to other permanent residents of that country; or
+      (E) the alien has acquired a new nationality and enjoys the protection of the country of his or her new nationality.
+    (3) Removal when asylum is terminated
+       An alien described in paragraph (2) is subject to any applicable grounds of inadmissibility or deportability under section \1\N 1182(a) and 1227(a) of this title, and the alien“s removal or return shall be directed by the Attorney General in accordance with sections 1229a and 1231 of this title.
+  (d) Asylum procedure
+    (1) Applications
+       The Attorney General shall establish a procedure for the consideration of asylum applications filed under subsection (a) of this section. The Attorney General may require applicants to submit fingerprints and a photograph at such time and in such manner to be determined by regulation by the Attorney General.
+    (2) Employment
+       An applicant for asylum is not entitled to employment authorization, but such authorization may be provided under regulation by the Attorney General. An applicant who is not otherwise eligible for employment authorization shall not be granted such authorization prior to 180 days after the date of filing of the application for asylum.
+    (3) Fees
+       The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Such fees shall not exceed the Attorney General“s costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
+    (4) Notice of privilege of counsel and consequences of frivolous application
+       At the time of filing an application for asylum, the Attorney General shall–
+      (A) advise the alien of the privilege of being represented by counsel and of the consequences, under paragraph (6), of knowingly filing a frivolous application for asylum; and
+      (B) provide the alien a list of persons (updated not less often than quarterly) who have indicated their availability to represent aliens in asylum proceedings on a pro bono basis.
+    (5) Consideration of asylum applications
+      (A) Procedures
+         The procedure established under paragraph (1) shall provide that–
+        (i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, including the Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
+        (ii) in the absence of exceptional circumstances, the initial interview or hearing on the asylum application shall commence not later than 45 days after the date an application is filed;
+        (iii) in the absence of exceptional circumstances, final administrative adjudication of the asylum application, not including administrative appeal, shall be completed within 180 days after the date an application is filed;
+        (iv) any administrative appeal shall be filed within 30 days of a decision granting or denying asylum, or within 30 days of the completion of removal proceedings before an immigration judge under section 1229a of this title, whichever is later; and
+        (v) in the case of an applicant for asylum who fails without prior authorization or in the absence of exceptional circumstances to appear for an interview or hearing, including a hearing under section 1229a of this title, the application may be dismissed or the applicant may be otherwise sanctioned for such failure.
+      (B) Additional regulatory conditions
+         The Attorney General may provide by regulation for any other conditions or limitations on the consideration of an application for asylum not inconsistent with this chapter.
+    (6) Frivolous applications
+       If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
+    (7) No private right of action
+       Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.

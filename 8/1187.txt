@@ -1,11 +1,11 @@
   (a) Establishment of pilot program
-     The Attorney General and the Secretary of State are authorized to establish a pilot program (hereinafter in this section referred to as the ””pilot program““) under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a) of this title may be waived by the Attorney General and the Secretary of State, acting jointly and in accordance with this section, in the case of an alien who meets the following requirements:
+     The Attorney General and the Secretary of State are authorized to establish a pilot program (hereinafter in this section referred to as the ””pilot program““) under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a) of this title may be waived by the Attorney General, in consultation with the Secretary of State and in accordance with this section, in the case of an alien who meets the following requirements:
     (1) Seeking entry as tourist for 90 days or less
        The alien is applying for admission during the pilot program period (as defined in subsection (e) of this section) as a nonimmigrant visitor (described in section 1101(a)(15)(B) of this title) for a period not exceeding 90 days.
     (2) National of pilot program country
        The alien is a national of, and presents a passport issued by, a country which–
       (A) extends (or agrees to extend) reciprocal privileges to citizens and nationals of the United States, and
-      (B) is designated as a pilot program country under subsection (c) of this section or is designated as a pilot program country with probationary status under subsection (g) of this section.
+      (B) is designated as a pilot program country under subsection (c) of this section.
     (3) Executes immigration forms
        The alien before the time of such admission completes such immigration form as the Attorney General shall establish.
     (4) Entry into the United States
@@ -19,12 +19,12 @@
   (b) Waiver of rights
      An alien may not be provided a waiver under the pilot program unless the alien has waived any right–
     (1) to review or appeal under this chapter of an immigration officer“s determination as to the admissibility of the alien at the port of entry into the United States, or
-    (2) to contest, other than on the basis of an application for asylum, any action for deportation against the alien.
+    (2) to contest, other than on the basis of an application for asylum, any action for removal of the alien.
   (c) Designation of pilot program countries
     (1) In general
-       The Attorney General and the Secretary of State acting jointly may designate any country as a pilot program country if it meets the requirements of paragraph (2).
+       The Attorney General, in consultation with the Secretary of State, may designate any country as a pilot program country if it meets the requirements of paragraph (2).
     (2) Qualifications
-       Except as provided in subsection (g)(4) of this section, a country may not be designated as a pilot program country unless the following requirements are met:
+       Except as provided in subsection (g)(4) \1\N of this section, a country may not be designated as a pilot program country unless the following requirements are met:
       (A) Low nonimmigrant visa refusal rate for previous 2-year period
          The average number of refusals of nonimmigrant visitor visas for nationals of that country during the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
       (B) Low nonimmigrant visa refusal rate for each of 2 previous years
@@ -37,7 +37,7 @@
        For each fiscal year (within the pilot program period) after the initial period–
       (A) Continuing qualification
          In the case of a country which was a pilot program country in the previous fiscal year, a country may not be designated as a pilot program country unless the sum of–
-        (i) the total of the number of nationals of that country who were excluded from admission or withdrew their application for admission during such previous fiscal year as a nonimmigrant visitor, and
+        (i) the total of the number of nationals of that country who were denied admission at the time of arrival or withdrew their application for admission during such previous fiscal year as a nonimmigrant visitor, and
         (ii) the total number of nationals of that country who were admitted as nonimmigrant visitors during such previous fiscal year and who violated the terms of such admission,
          was less than 2 percent of the total number of nationals of that country who applied for admission as nonimmigrant visitors during such previous fiscal year.
       (B) New countries
@@ -49,7 +49,7 @@
     (4) Initial period
        For purposes of paragraphs (2) and (3), the term ””initial period““ means the period beginning at the end of the 30-day period described in subsection (b)(1) of this section and ending on the last day of the first fiscal year which begins after such 30-day period.
   (d) Authority
-     Notwithstanding any other provision of this section, the Attorney General and the Secretary of State, acting jointly, may for any reason (including national security) refrain from waiving the visa requirement in respect to nationals of any country which may otherwise qualify for designation or may, at any time, rescind any waiver or designation previously granted under this section.
+     Notwithstanding any other provision of this section, the Attorney General, in consultation with the Secretary of State, may for any reason (including national security) refrain from waiving the visa requirement in respect to nationals of any country which may otherwise qualify for designation or may, at any time, rescind any waiver or designation previously granted under this section.
   (e) Carrier agreements
     (1) In general
        The agreement referred to in subsection (a)(4) of this section is an agreement between a carrier and the Attorney General under which the carrier agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the pilot program–
@@ -59,32 +59,25 @@
     (2) Termination of agreements
        The Attorney General may terminate an agreement under paragraph (1) with five days“ notice to the carrier for the carrier“s failure to meet the terms of such agreement.
   (f) ””Pilot program period““ defined
-     For purposes of this section, the term ””pilot program period““ means the period beginning on October 1, 1988, and ending on September 30, 1996 \1\N
-  (g) Pilot program country with probationary status
+     For purposes of this section, the term ””pilot program period““ means the period beginning on October 1, 1988, and ending on September 30, 1997.
+  (g) Duration and termination of designation
     (1) In general
-       The Attorney General and the Secretary of State acting jointly may designate any country as a pilot program country with probationary status if it meets the requirements of paragraph (2).
-    (2) Qualifications
-       A country may not be designated as a pilot program country with probationary status unless the following requirements are met:
-      (A) Nonimmigrant visa refusal rate for previous 2-year period
-         The average number of refusals of nonimmigrant visitor visas for nationals of the country during the two previous full fiscal years was less than 3.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
-      (B) Nonimmigrant visa refusal rate for previous year
-         The number of refusals of nonimmigrant visitor visas for nationals of the country during the previous full fiscal year was less than 3 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year.
-      (C) Low exclusions and violations rate for previous year
-         The sum of–
-        (i) the total number of nationals of that country who were excluded from admission or withdrew their application for admission during the preceding fiscal year as a nonimmigrant visitor, and
-        (ii) the total number of nationals of that country who were admitted as nonimmigrant visitors during the preceding fiscal year and who violated the terms of such admission,
-         was less than 1.5 percent of the total number of nationals of that country who applied for admission as nonimmigrant visitors during the preceding fiscal year.
-      (D) Machine readable passport program
-         The government of the country certifies that it has or is in the process of developing a program to issue machine-readable passports to its citizens.
-    (3) Continuing and subsequent qualifications for pilot program countries with probationary status
-       The designation of a country as a pilot program country with probationary status shall terminate if either of the following occurs:
-      (A) The sum of–
-        (i) the total number of nationals of that country who were excluded from admission or withdrew their application for admission during the preceding fiscal year as a nonimmigrant visitor, and
-        (ii) the total number of nationals of that country who were admitted as visitors during the preceding fiscal year and who violated the terms of such admission,
-       is more than 2.0 percent of the total number of nationals of that country who applied for admission as nonimmigrant visitors during the preceding fiscal year.
-      (B) The country is not designated as a pilot program country under subsection (c) of this section within 3 fiscal years of its designation as a pilot program country with probationary status under this subsection.
-    (4) Designation of pilot program countries with probationary status as pilot program countries
-       In the case of a country which was a pilot program country with probationary status in the preceding fiscal year, a country may be designated by the Attorney General and the Secretary of State, acting jointly, as a pilot program country under subsection (c) of this section if–
-      (A) the total of the number of nationals of that country who were excluded from admission or withdrew their application for admission during the preceding fiscal year as a nonimmigrant visitor, and
-      (B) the total number of nationals of that country who were admitted as nonimmigrant visitors during the preceding fiscal year and who violated the terms of such admission,
-       was less than 2 percent of the total number of nationals of that country who applied for admission as nonimmigrant visitors during such preceding fiscal year.
+      (A) Determination and notification of disqualification rate
+         Upon determination by the Attorney General that a pilot program country“s disqualification rate is 2 percent or more, the Attorney General shall notify the Secretary of State.
+      (B) Probationary status
+         If the program country“s disqualification rate is greater than 2 percent but less than 3.5 percent, the Attorney General shall place the program country in probationary status for a period not to exceed 2 full fiscal years following the year in which the determination under subparagraph (A) is made.
+      (C) Termination of designation
+         Subject to paragraph (3), if the program country“s disqualification rate is 3.5 percent or more, the Attorney General shall terminate the country“s designation as a pilot program country effective at the beginning of the second fiscal year following the fiscal year in which the determination under subparagraph (A) is made.
+    (2) Termination of probationary status
+      (A) In general
+         If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section \2\N (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a pilot program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a pilot program country.
+      (B) Effective date
+         A termination of the designation of a country under subparagraph (A) shall take effect on the first day of the first fiscal year following the fiscal year in which the determination under such subparagraph is made. Until such date, nationals of the country shall remain eligible for a waiver under subsection (a) of this section.
+    (3) Nonapplicability of certain provisions
+       Paragraph (1)(C) shall not apply unless the total number of nationals of a pilot program country described in paragraph (4)(A) exceeds 100.
+    (4) ””Disqualification rate““ defined
+       For purposes of this subsection, the term ””disqualification rate““ means the percentage which–
+      (A) the total number of nationals of the pilot program country who were–
+        (i) denied admission at the time of arrival or withdrew their application for admission during the most recent fiscal year for which data are available; and
+        (ii) admitted as nonimmigrant visitors during such fiscal year and who violated the terms of such admission; bears to
+      (B) the total number of nationals of such country who applied for admission as nonimmigrant visitors during such fiscal year.

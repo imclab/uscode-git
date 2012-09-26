@@ -1,14 +1,14 @@
   (a) Granting of status
     (1) In general
        In the case of an alien who is a national of a foreign state designated under subsection (b) of this section (or in the case of an alien having no nationality, is a person who last habitually resided in such designated state) and who meets the requirements of subsection (c) of this section, the Attorney General, in accordance with this section–
-      (A) may grant the alien temporary protected status in the United States and shall not deport the alien from the United States during the period in which such status is in effect, and
+      (A) may grant the alien temporary protected status in the United States and shall not remove the alien from the United States during the period in which such status is in effect, and
       (B) shall authorize the alien to engage in employment in the United States and provide the alien with an ””employment authorized““ endorsement or other appropriate work permit.
     (2) Duration of work authorization
        Work authorization provided under this section shall be effective throughout the period the alien is in temporary protected status under this section.
     (3) Notice
       (A) Upon the granting of temporary protected status under this section, the Attorney General shall provide the alien with information concerning such status under this section.
-      (B) If, at the time of initiation of a deportation proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b) of this section, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
-      (C) If, at the time of designation of a foreign state under subsection (b) of this section, an alien (who is a national of such state) is in a deportation proceeding under this subchapter, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
+      (B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b) of this section, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
+      (C) If, at the time of designation of a foreign state under subsection (b) of this section, an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
       (D) Notices under this paragraph shall be provided in a form and language that the alien can understand.
     (4) Temporary treatment for eligible aliens
       (A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
@@ -43,7 +43,7 @@
       (A) Designations
          There is no judicial review of any determination of the Attorney General with respect to the designation, or termination or extension of a designation, of a foreign state under this subsection.
       (B) Application to individuals
-         The Attorney General shall establish an administrative procedure for the review of the denial of benefits to aliens under this subsection. Such procedure shall not prevent an alien from asserting protection under this section in deportation proceedings if the alien demonstrates that the alien is a national of a state designated under paragraph (1).
+         The Attorney General shall establish an administrative procedure for the review of the denial of benefits to aliens under this subsection. Such procedure shall not prevent an alien from asserting protection under this section in removal proceedings if the alien demonstrates that the alien is a national of a state designated under paragraph (1).
   (c) Aliens eligible for temporary protected status
     (1) In general
       (A) Nationals of designated foreign states
@@ -66,7 +66,7 @@
       (B) Aliens ineligible
          An alien shall not be eligible for temporary protected status under this section if the Attorney General finds that–
         (i) the alien has been convicted of any felony or 2 or more misdemeanors committed in the United States, or
-        (ii) the alien is described in section 1253(h)(2) of this title.
+        (ii) the alien is described in section 1158(b)(2)(A) of this title.
     (3) Withdrawal of temporary protected status
        The Attorney General shall withdraw temporary protected status granted to an alien under this section if–
       (A) the Attorney General finds that the alien was not in fact eligible for such status under this section,
@@ -88,8 +88,8 @@
        If the Attorney General terminates the designation of a foreign state (or part of such foreign state) under subsection (b)(3)(B) of this section, such termination shall only apply to documentation and authorization issued or renewed after the effective date of the publication of notice of the determination under that subsection (or, at the Attorney General“s option, after such period after the effective date of the determination as the Attorney General determines to be appropriate in order to provide for an orderly transition).
     (4) Detention of alien
        An alien provided temporary protected status under this section shall not be detained by the Attorney General on the basis of the alien“s immigration status in the United States.
-  (e) Relation of period of temporary protected status to suspension of deportation
-     With respect to an alien granted temporary protected status under this section, the period of such status shall not be counted as a period of physical presence in the United States for purposes of section 1254(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
+  (e) Relation of period of temporary protected status to cancellation of removal
+     With respect to an alien granted temporary protected status under this section, the period of such status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
   (f) Benefits and status during period of temporary protected status
      During a period in which an alien is granted temporary protected status under this section–
     (1) the alien shall not be considered to be permanently residing in the United States under color of law;

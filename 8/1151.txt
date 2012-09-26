@@ -7,8 +7,8 @@
      Aliens described in this subsection, who are not subject to the worldwide levels or numerical limitations of subsection (a) of this section, are as follows:
     (1)      (A) Special immigrants described in subparagraph (A) or (B) of section 1101(a)(27) of this title.
       (B) Aliens who are admitted under section 1157 of this title or whose status is adjusted under section 1159 of this title.
-      (C) Aliens whose status is adjusted to permanent residence under section 1160, 1161,\1\N or 1255a of this title.
-      (D) Aliens whose deportation is suspended under section 1254(a) of this title.
+      (C) Aliens whose status is adjusted to permanent residence under section 1160 or 1255a of this title.
+      (D) Aliens whose removal is canceled under section 1229b(a) of this title.
       (E) Aliens provided permanent resident status under section 1259 of this title.
     (2)      (A)        (i) T4Immediate relativesK.–For purposes of this subsection, the term ””immediate relatives““ means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States for at least 2 years at the time of the citizen“s death and was not legally separated from the citizen at the time of the citizen“s death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen“s death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries.
         (ii) Aliens admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent who is such an immediate relative.
@@ -16,7 +16,7 @@
   (c) Worldwide level of family-sponsored immigrants
     (1)      (A) The worldwide level of family-sponsored immigrants under this subsection for a fiscal year is, subject to subparagraph (B), equal to–
         (i) 480,000, minus
-        (ii) the number computed under paragraph (2), plus
+        (ii) the sum of the number computed under paragraph (2) and the number computed under paragraph (4), plus
         (iii) the number (if any) computed under paragraph (3).
       (B)        (i) For each of fiscal years 1992, 1993, and 1994, 465,000 shall be substituted for 480,000 in subparagraph (A)(i).
         (ii) In no case shall the number computed under subparagraph (A) be less than 226,000.
@@ -24,6 +24,10 @@
     (3)      (A) The number computed under this paragraph for fiscal year 1992 is zero.
       (B) The number computed under this paragraph for fiscal year 1993 is the difference (if any) between the worldwide level established under paragraph (1) for the previous fiscal year and the number of visas issued under section 1153(a) of this title during that fiscal year.
       (C) The number computed under this paragraph for a subsequent fiscal year is the difference (if any) between the maximum number of visas which may be issued under section 1153(b) of this title (relating to employment-based immigrants) during the previous fiscal year and the number of visas issued under that section during that year.
+    (4) The number computed under this paragraph for a fiscal year (beginning with fiscal year 1999) is the number of aliens who were paroled into the United States under section 1182(d)(5) of this title in the second preceding fiscal year–
+      (A) who did not depart from the United States (without advance parole) within 365 days; and
+      (B) who (i) did not acquire the status of aliens lawfully admitted to the United States for permanent residence in the two preceding fiscal years, or (ii) acquired such status in such years under a provision of law (other than subsection (b) of this section) which exempts such adjustment from the numerical limitation on the worldwide level of immigration under this section.
+    (5) If any alien described in paragraph (4) (other than an alien described in paragraph (4)(B)(ii)) is subsequently admitted as an alien lawfully admitted for permanent residence, such alien shall not again be considered for purposes of paragraph (1).
   (d) Worldwide level of employment-based immigrants
     (1) The worldwide level of employment-based immigrants under this subsection for a fiscal year is equal to–
       (A) 140,000, plus

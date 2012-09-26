@@ -1,15 +1,108 @@
-  (a) Maintenance expenses
-    (1) Any alien (other than an alien crewman) arriving in the United States who is excluded under this chapter, shall be immediately deported, in accommodations of the same class in which he arrived, unless the Attorney General, in an individual case, in his discretion, concludes that immediate deportation is not practicable or proper. Deportation shall be to the country in which the alien boarded the vessel or aircraft on which he arrived in the United States, unless the alien boarded such vessel or aircraft in foreign territory contiguous to the United States or in any island adjacent thereto or adjacent to the United States and the alien is not a native, citizen, subject or national of, or does not have a residence in, such foreign contiguous territory or adjacent island, in which case the deportation shall instead be to the country in which is located the port at which the alien embarked for such foreign contiguous territory or adjacent island. The cost of the maintenance including detention expenses and expenses incident to detention of any such alien while he is being detained shall be borne by the owner or owners of the vessel or aircraft on which he arrived, except that the cost of maintenance (including detention expenses and expenses incident to detention while the alien is being detained prior to the time he is offered for deportation to the transportation line which brought him to the United States) shall not be assessed against the owner or owners of such vessel or aircraft if (A) the alien was in possession of a valid, unexpired immigrant visa, or (B) the alien (other than an alien crewman) was in possession of a valid, unexpired nonimmigrant visa or other document authorizing such alien to apply for temporary admission to the United States or an unexpired reentry permit issued to him, and (i) such application was made within one hundred and twenty days of the date of issuance of the visa or other document, or in the case of an alien in possession of a reentry permit, within one hundred and twenty days of the date on which the alien was last examined and admitted by the Service, or (ii) in the event the application was made later than one hundred and twenty days of the date of issuance of the visa or other document or such examination and admission, if the owner or owners of such vessel or aircraft established to the satisfaction of the Attorney General that the ground of exclusion could not have been ascertained by the exercise of due diligence prior to the alien“s embarkation, or (C) the person claimed United States nationality or citizenship and was in possession of an unexpired United States passport issued to him by competent authority.
-    (2) If the government of the country designated in paragraph (1) will not accept the alien into its territory, the alien“s deportation shall be directed by the Attorney General, in his discretion and without necessarily giving any priority or preference because of their order as herein set forth, either to–
-      (A) the country of which the alien is a subject, citizen, or national;
-      (B) the country in which he was born;
-      (C) the country in which he has a residence; or
-      (D) any country which is willing to accept the alien into its territory, if deportation to any of the foregoing countries is impracticable, inadvisable, or impossible.
-  (b) Unlawful practice of transportation lines
-     It shall be unlawful for any master, commanding officer, purser, person in charge, agent, owner, or consignee of any vessel or aircraft (1) to refuse to receive any alien (other than an alien crewman), ordered deported under this section back on board such vessel or aircraft or another vessel or aircraft owned or operated by the same interests; (2) to fail to detain any alien (other than an alien crewman) on board any such vessel or at the airport of arrival of the aircraft when required by this chapter or if so ordered by an immigration officer, or to fail or refuse to deliver him for medical or other inspection, or for further medical or other inspection, as and when so ordered by such officer; (3) to refuse or fail to remove him from the United States to the country to which his deportation has been directed; (4) to fail to pay the cost of his maintenance while being detained as required by this section; (5) to take any fee, deposit, or consideration on a contingent basis to be kept or returned in case the alien is landed or excluded; or (6) knowingly to bring to the United States any alien (other than an alien crewman) excluded or arrested and deported under any provision of law until such alien may be lawfully entitled to reapply for admission to the United States. If it shall appear to the satisfaction of the Attorney General that any such master, commanding officer, purser, person in charge, agent, owner, or consignee of any vessel or aircraft has violated any of the provisions of this section, such master, commanding officer, purser, person in charge, agent, owner, or consignee shall pay to the Commissioner the sum of $2,000 for each violation. No such vessel or aircraft shall have clearance from any port of the United States while any such fine is unpaid or while the question of liability to pay any such fine is being determined, nor shall any such fine be remitted or refunded, except that clearance may be granted prior to the determination of such question upon the deposit with the Commissioner of a bond or undertaking approved by the Attorney General or a sum sufficient to cover such fine.
-  (c) Transportation expense of deportation
-     An alien shall be deported on a vessel or aircraft owned by the same person who owns the vessel or aircraft on which the alien arrived in the United States, unless it is impracticable to so deport the alien within a reasonable time. The transportation expense of the alien“s deportation shall be borne by the owner or owners of the vessel or aircraft on which the alien arrived. If the deportation is effected on a vessel or aircraft not owned by such owner or owners, the transportation expense of the alien“s deportation may be paid from the appropriation for the enforcement of this chapter and recovered by civil suit from any owner, agent, or consignee of the vessel or aircraft on which the alien arrived.
-  (d) Stay of deportation; payment of maintenance expenses
-     The Attorney General, under such conditions as are by regulations prescribed, may stay the deportation of any alien deportable under this section, if in his judgment the testimony of such alien is necessary on behalf of the United States in the prosecution of offenders against any provision of this chapter or other laws of the United States. The cost of maintenance of any person so detained resulting from a stay of deportation under this subsection and a witness fee in the sum of $1 per day for each day such person is so detained may be paid from the appropriation for the enforcement of this subchapter. Such alien may be released under bond in the penalty of not less than $500 with security approved by the Attorney General on condition that such alien shall be produced when required as a witness and for deportation, and on such other conditions as the Attorney General may prescribe.
-  (e) Deportation of alien accompanying physically disabled alien
-     Upon the certificate of an examining medical officer to the effect that an alien ordered to be excluded and deported under this section is helpless from sickness or mental and physical disability, or infancy, if such alien is accompanied by another alien whose protection or guardianship is required by the alien ordered excluded and deported, such accompanying alien may also be excluded and deported, and the master, commanding officer, agent, owner, or consignee of the vessel or aircraft in which such alien and accompanying alien arrived in the United States shall be required to return the accompanying alien in the same manner as other aliens denied admission and ordered deported under this section.
+  (a) Classes of deportable aliens
+     Any alien (including an alien crewman) in and admitted to the United States shall, upon the order of the Attorney General, be removed if the alien is within one or more of the following classes of deportable aliens:
+    (1) Inadmissible at time of entry or of adjustment of status or violates status
+      (A) Inadmissible aliens
+         Any alien who at the time of entry or adjustment of status was within one or more of the classes of aliens inadmissible by the law existing at such time is deportable.
+      (B) Present in violation of law
+         Any alien who is present in the United States in violation of this chapter or any other law of the United States is deportable.
+      (C) Violated nonimmigrant status or condition of entry
+        (i) Nonimmigrant status violators
+           Any alien who was admitted as a nonimmigrant and who has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status, is deportable.
+        (ii) Violators of conditions of entry
+           Any alien whom the Secretary of Health and Human Services certifies has failed to comply with terms, conditions, and controls that were imposed under section 1182(g) of this title is deportable.
+      (D) Termination of conditional permanent residence
+        (i) In general
+           Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) or under section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
+        (ii) Exception
+           Clause (i) shall not apply in the cases described in section 1186a(c)(4) of this title (relating to certain hardship waivers).
+      (E) Smuggling
+        (i) In general
+           Any alien who (prior to the date of entry, at the time of any entry, or within 5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
+        (ii) Special rule in the case of family reunification
+           Clause (i) shall not apply in the case of alien who is an eligible immigrant (as defined in section 301(b)(1) of the Immigration Act of 1990), was physically present in the United States on May 5, 1988, and is seeking admission as an immediate relative or under section 1153(a)(2) of this title (including under section 112 of the Immigration Act of 1990) or benefits under section 301(a) of the Immigration Act of 1990 if the alien, before May 5, 1988, has encouraged, induced, assisted, abetted, or aided only the alien“s spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
+        (iii) Waiver authorized
+           The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) in the case of any alien lawfully admitted for permanent residence if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of the offense was the alien“s spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
+      (F) Repealed. Pub. L. 104–208, div. C, title VI, § 671(d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–723
+      (G) Marriage fraud
+         An alien shall be considered to be deportable as having procured a visa or other documentation by fraud (within the meaning of section 1182(a)(6)(C)(i) of this title) and to be in the United States in violation of this chapter (within the meaning of subparagraph (B)) if–
+        (i) the alien obtains any admission into the United States with an immigrant visa or other documentation procured on the basis of a marriage entered into less than 2 years prior to such admission of the alien and which, within 2 years subsequent to any admission of the alien in the United States, shall be judicially annulled or terminated, unless the alien establishes to the satisfaction of the Attorney General that such marriage was not contracted for the purpose of evading any provisions of the immigration laws, or
+        (ii) it appears to the satisfaction of the Attorney General that the alien has failed or refused to fulfill the alien“s marital agreement which in the opinion of the Attorney General was made for the purpose of procuring the alien“s admission as an immigrant.
+      (H) Waiver authorized for certain misrepresentations
+         The provisions of this paragraph relating to the removal of aliens within the United States on the ground that they were inadmissible at the time of admission as aliens described in section 1182(a)(6)(C)(i) of this title, whether willful or innocent, may, in the discretion of the Attorney General, be waived for any alien (other than an alien described in paragraph (4)(D)) who–
+        (i) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
+        (ii) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+         A waiver of removal for fraud or misrepresentation granted under this subparagraph shall also operate to waive removal based on the grounds of inadmissibility directly resulting from such fraud or misrepresentation.
+    (2) Criminal offenses
+      (A) General crimes
+        (i) Crimes of moral turpitude
+           Any alien who–
+          (I) is convicted of a crime involving moral turpitude committed within five years (or 10 years in the case of an alien provided lawful permanent resident status under section 1255(j) of this title) after the date of admission, and
+          (II) is convicted of a crime for which a sentence of one year or longer may be imposed,
+              is deportable.
+        (ii) Multiple criminal convictions
+           Any alien who at any time after admission is convicted of two or more crimes involving moral turpitude, not arising out of a single scheme of criminal misconduct, regardless of whether confined therefor and regardless of whether the convictions were in a single trial, is deportable.
+        (iii) Aggravated felony
+           Any alien who is convicted of an aggravated felony at any time after admission is deportable.
+        (iv) High speed flight
+           Any alien who is convicted of a violation of section 758 of title 18 (relating to high speed flight from an immigration checkpoint) is deportable.
+        (v) Waiver authorized
+           Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has been granted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
+      (B) Controlled substances
+        (i) Conviction
+           Any alien who at any time after admission has been convicted of a violation of (or a conspiracy or attempt to violate) any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21), other than a single offense involving possession for one“s own use of 30 grams or less of marijuana, is deportable.
+        (ii) Drug abusers and addicts
+           Any alien who is, or at any time after admission has been, a drug abuser or addict is deportable.
+      (C) Certain firearm offenses
+         Any alien who at any time after admission is convicted under any law of purchasing, selling, offering for sale, exchanging, using, owning, possessing, or carrying, or of attempting or conspiring to purchase, sell, offer for sale, exchange, use, own, possess, or carry, any weapon, part, or accessory which is a firearm or destructive device (as defined in section 921(a) of title 18) in violation of any law is deportable.
+      (D) Miscellaneous crimes
+         Any alien who at any time has been convicted (the judgment on such conviction becoming final) of, or has been so convicted of a conspiracy or attempt to violate–
+        (i) any offense under chapter 37 (relating to espionage), chapter 105 (relating to sabotage), or chapter 115 (relating to treason and sedition) of title 18 for which a term of imprisonment of five or more years may be imposed;
+        (ii) any offense under section 871 or 960 of title 18;
+        (iii) a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.); or
+        (iv) a violation of section 1185 or 1328 of this title,
+         is deportable.
+      (E) Crimes of domestic violence, stalking, or violation of protection order, crimes against children and
+        (i) Domestic violence, stalking, and child abuse
+           Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term ””crime of domestic violence““ means any crime of violence (as defined in section 16 of title 18) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual“s acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.
+        (ii) Violators of protection orders
+           Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued is deportable. For purposes of this clause, the term ””protection order““ means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
+    (3) Failure to register and falsification of documents
+      (A) Change of address
+         An alien who has failed to comply with the provisions of section 1305 of this title is deportable, unless the alien establishes to the satisfaction of the Attorney General that such failure was reasonably excusable or was not willful.
+      (B) Failure to register or falsification of documents
+         Any alien who at any time has been convicted–
+        (i) under section 1306(c) of this title or under section 36(c) of the Alien Registration Act, 1940,
+        (ii) of a violation of, or an attempt or a conspiracy to violate, any provision of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et seq.), or
+        (iii) of a violation of, or an attempt or a conspiracy to violate, section 1546 of title 18 (relating to fraud and misuse of visas, permits, and other entry documents),
+         is deportable.
+      (C) Document fraud
+        (i) In general
+           An alien who is the subject of a final order for violation of section 1324c of this title is deportable.
+        (ii) Waiver authorized
+           The Attorney General may waive clause (i) in the case of an alien lawfully admitted for permanent residence if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was incurred solely to assist, aid, or support the alien“s spouse or child (and no other individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this clause.
+      (D) Falsely claiming citizenship
+         Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title) or any Federal or State law is deportable.
+    (4) Security and related grounds
+      (A) In general
+         Any alien who has engaged, is engaged, or at any time after admission engages in–
+        (i) any activity to violate any law of the United States relating to espionage or sabotage or to violate or evade any law prohibiting the export from the United States of goods, technology, or sensitive information,
+        (ii) any other criminal activity which endangers public safety or national security, or
+        (iii) any activity a purpose of which is the opposition to, or the control or overthrow of, the Government of the United States by force, violence, or other unlawful means,
+         is deportable.
+      (B) Terrorist activities
+         Any alien who has engaged, is engaged, or at any time after admission engages in any terrorist activity (as defined in section 1182(a)(3)(B)(iii) of this title) is deportable.
+      (C) Foreign policy
+        (i) In general
+           An alien whose presence or activities in the United States the Secretary of State has reasonable ground to believe would have potentially serious adverse foreign policy consequences for the United States is deportable.
+        (ii) Exceptions
+           The exceptions described in clauses (ii) and (iii) of section 1182(a)(3)(C) of this title shall apply to deportability under clause (i) in the same manner as they apply to inadmissibility under section 1182(a)(3)(C)(i) of this title.
+      (D) Assisted in Nazi persecution or engaged in genocide
+         Any alien described in clause (i) or (ii) of section 1182(a)(3)(E) of this title is deportable.
+    (5) Public charge
+       Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
+    (6) Unlawful voters
+       Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+  (b) Deportation of certain nonimmigrants
+     An alien, admitted as a nonimmigrant under the provision of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
+  (c) Waiver of grounds for deportation
+     Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
