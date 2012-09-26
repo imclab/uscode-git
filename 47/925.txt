@@ -1,7 +1,7 @@
   (a) Allocation and assignment of immediately available frequencies
      With respect to the frequencies made available for immediate reallocation pursuant to section 923(e)(2) of this title, the Commission, not later than 18 months after August 10, 1993, shall issue regulations to allocate such frequencies and shall propose regulations to assign such frequencies.
   (b) Allocation and assignment of remaining available frequencies
-     With respect to the frequencies made available for reallocation pursuant to section 923(e)(3) of this title, the Commission shall, not later than 1 year after receipt of the report required by section 923(a) of this title, prepare, submit to the President and the Congress, and implement, a plan for the allocation and assignment under the 1934 Act [47 U.S.C. 151 et seq.] of such frequencies. Such plan shall–
+     With respect to the frequencies made available for reallocation pursuant to section 923(e)(3) of this title, the Commission shall, not later than 1 year after receipt of the initial reallocation report required by section 923(a) of this title, prepare, submit to the President and the Congress, and implement, a plan for the allocation and assignment under the 1934 Act [47 U.S.C. 151 et seq.] of such frequencies. Such plan shall–
     (1) not propose the immediate allocation and assignment of all such frequencies but, taking into account the timetable recommended by the Secretary pursuant to section 923(e) of this title, shall propose–
       (A) gradually to allocate and assign the frequencies remaining, after making the reservation required by subparagraph (B), over the course of 10 years beginning on the date of submission of such plan; and
       (B) to reserve a significant portion of such frequencies for allocation and assignment beginning after the end of such 10-year period;
@@ -12,3 +12,8 @@
     (3) address (A) the feasibility of reallocating portions of the spectrum from current commercial and other non-Federal uses to provide for more efficient use of the spectrum, and (B) innovation and marketplace developments that may affect the relative efficiencies of different spectrum allocations;
     (4) not prevent the Commission from allocating frequencies, and assigning licenses to use frequencies, not included in the plan; and
     (5) not preclude the Commission from making changes to the plan in future proceedings.
+  (c) Allocation and assignment of frequencies identified in second reallocation report
+    (1) Plan and implementation
+       With respect to the frequencies made available for reallocation pursuant to section 923(b)(3) of this title, the Commission shall, not later than one year after receipt of the second reallocation report required by section 923(a) of this title, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment under the 1934 Act [47 U.S.C. § 151 et seq.] of all such frequencies in accordance with section 309(j) of such Act [47 U.S.C. 309(j)].
+    (2) Contents
+       The plan prepared by the Commission under paragraph (1) shall consist of a schedule of allocation and assignment of those frequencies in accordance with section 309(j) of the 1934 Act in time for the assignment of those licenses or permits by September 30, 2002.

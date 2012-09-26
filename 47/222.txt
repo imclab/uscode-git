@@ -21,7 +21,7 @@
     (1) Customer proprietary network information
        The term ””customer proprietary network information““ means–
       (A) information that relates to the quantity, technical configuration, type, destination, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship; and
-      (B) information contained in the bills pertaining to telephone exchange service or telephone toll service received by a customer of a carrier; 
+      (B) information contained in the bills pertaining to telephone exchange service or telephone toll service received by a customer of a carrier;
        except that such term does not include subscriber list information.
     (2) Aggregate information
        The term ””aggregate customer information““ means collective data that relates to a group or category of services or customers, from which individual customer identities and characteristics have been removed.

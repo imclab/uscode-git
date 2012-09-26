@@ -33,7 +33,7 @@
   (15) Dialing parity
      The term ””dialing parity““ means that a person that is not an affiliate of a local exchange carrier is able to provide telecommunications services in such a manner that customers have the ability to route automatically, without the use of any access code, their telecommunications to the telecommunications services provider of the customer“s designation from among 2 or more telecommunications services providers (including such local exchange carrier).
   (16) Exchange access
-     The term ””exchange access““ means the offering of access to telephone exchange services or facilities for the purpose of the origination or termination of telephone toll services. 
+     The term ””exchange access““ means the offering of access to telephone exchange services or facilities for the purpose of the origination or termination of telephone toll services.
   (17) Foreign communication
      The term ””foreign communication““ or ””foreign transmission““ means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
   (18) Great Lakes Agreement
@@ -83,7 +83,7 @@
     (A) provides common carrier service to any local exchange carrier study area that does not include either–
       (i) any incorporated place of 10,000 inhabitants or more, or any part thereof, based on the most recently available population statistics of the Bureau of the Census; or
       (ii) any territory, incorporated or unincorporated, included in an urbanized area, as defined by the Bureau of the Census as of August 10, 1993;
-    (B) provides telephone exchange service, including exchange access, to fewer than 50,000 access lines; 
+    (B) provides telephone exchange service, including exchange access, to fewer than 50,000 access lines;
     (C) provides telephone exchange service to any local exchange carrier study area with fewer than 100,000 access lines; or
     (D) has less than 15 percent of its access lines in communities of more than 50,000 on February 8, 1996.
   (38) Safety convention
@@ -112,9 +112,14 @@
      The term ””telephone exchange service““ means (A) service within a telephone exchange, or within a connected system of telephone exchanges within the same exchange area operated to furnish to subscribers intercommunicating service of the character ordinarily furnished by a single exchange, and which is covered by the exchange service charge, or (B) comparable service provided through a system of switches, transmission equipment, or other facilities (or combination thereof) by which a subscriber can originate and terminate a telecommunications service.
   (48) Telephone toll service
      The term ””telephone toll service““ means telephone service between stations in different exchange areas for which there is made a separate charge not included in contracts with subscribers for exchange service.
-  (49) Transmission of energy by radio
+  (49) Television service
+    (A) Analog television service
+       The term ””analog television service““ means television service provided pursuant to the transmission standards prescribed by the Commission in section 73.682(a) of its regulations (47 C.F.R. 73.682(a)).
+    (B) Digital television service
+       The term ””digital television service““ means television service provided pursuant to the transmission standards prescribed by the Commission in section 73.682(d) of its regulations (47 C.F.R. 73.682(d)).
+  (50) Transmission of energy by radio
      The term ””transmission of energy by radio““ or ””radio transmission of energy““ includes both such transmission and all instrumentalities, facilities, and services incidental to such transmission.
-  (50) United States
+  (51) United States
      The term ””United States““ means the several States and Territories, the District of Columbia, and the possessions of the United States, but does not include the Canal Zone.
-  (51) Wire communication
+  (52) Wire communication
      The term ””wire communication““ or ””communication by wire““ means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
