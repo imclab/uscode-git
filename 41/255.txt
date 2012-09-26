@@ -1,33 +1,37 @@
-  (a) Payment authority
-     Any executive agency may–
-    (1) make advance, partial, progress or other payments under contracts for property or services made by the agency; and
-    (2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
-  (b) Performance-based payments
-     Whenever practicable, payments under subsection (a) of this section shall be made on any of the following bases:
-    (1) Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.
-    (2) Accomplishment of events defined in the program management plan.
-    (3) Other quantifiable measures of results.
-  (c) Payment amount
-     Payments made under subsection (a) of this section may not exceed the unpaid contract price.
-  (d) Security for advance payments
-     Advance payments under subsection (a) of this section may be made only upon adequate security and a determination by the agency head that to do so would be in the public interest. Such security may be in the form of a lien in favor of the Government on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien shall be paramount to all other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
-  (e) Conditions for progress payments
-    (1) The executive agency shall ensure that any payment for work in progress (including materials, labor, and other items) under a contract of an executive agency that provides for such payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide such information and evidence as the executive agency determines necessary to permit the executive agency to carry out the preceding sentence.
-    (2) The executive agency shall ensure that progress payments referred to in paragraph (1) are not made for more than 80 percent of the work accomplished under the contract so long as the executive agency has not made the contractual terms, specifications, and price definite.
-    (3) This subsection applies to any contract in an amount greater than $25,000.
-  (f) Conditions for payments for commercial items
-    (1) Payments under subsection (a) of this section for commercial items may be made under such terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
-    (2) Advance payments made under subsection (a) of this section for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
-    (3) The conditions of subsections (d) and (e) of this section need not be applied if they would be inconsistent, as determined by the head of the executive agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
-  (g) Action in case of fraud
-    (1) In any case in which the remedy coordination official of an executive agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
-    (2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor“s request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
-    (3) The extent of any reduction or suspension of payments by an executive agency under paragraph (2) on the basis of fraud shall be reasonably commensurate with the anticipated loss to the United States resulting from the fraud.
-    (4) A written justification for each decision of the head of an executive agency whether to reduce or suspend payments under paragraph (2), and for each recommendation received by the executive agency in connection with such decision, shall be prepared and be retained in the files of the executive agency.
-    (5) The head of each executive agency shall prescribe procedures to ensure that, before the head of the executive agency decides to reduce or suspend payments in the case of a contractor under paragraph (2), the contractor is afforded notice of the proposed reduction or suspension and an opportunity to submit matters to the executive agency in response to such proposed reduction or suspension.
-    (6) Not later than 180 days after the date on which the head of an executive agency reduces or suspends payments to a contractor under paragraph (2), the remedy coordination official of the executive agency shall–
-      (A) review the determination of fraud on which the reduction or suspension is based; and
-      (B) transmit a recommendation to the head of such executive agency whether the suspension or reduction should continue.
-    (7) The head of each executive agency who receives recommendations made by a remedy coordination official of the executive agency to reduce or suspend payments under paragraph (2) during a fiscal year shall prepare for such year a report that contains the recommendations, the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. Any such report shall be available to any Member of Congress upon request.
-    (8) The head of an executive agency may not delegate responsibilities under this subsection to any person in a position below level IV of the Executive Schedule.
-    (9) In this subsection, the term ””remedy coordination official““, with respect to an executive agency, means the person or entity in that executive agency who coordinates within that executive agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
+  (a) Agency authority
+    (1) The head of an executive agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of–
+      (A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that executive agency under this subchapter; and
+      (B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
+    (2) The head of an executive agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to section 254b \1\N of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to–
+      (A) the proposal for the contract or subcontract;
+      (B) the discussions conducted on the proposal;
+      (C) pricing of the contract or subcontract; or
+      (D) performance of the contract or subcontract.
+  (b) Subpoena power
+    (1) The Inspector General of an executive agency appointed under section 3 or 8G \1\ of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
+    (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
+    (3) The authority provided by paragraph (1) may not be delegated.
+    (4) In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives a report on the exercise of such authority during such preceding year and the reasons why such authority was exercised in any instance.
+  (c) Comptroller General authority
+    (1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
+    (2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required–
+      (A) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its records available for examination; and
+      (B) where the executive agency determines, after taking into account the price and availability of the property and services from United States sources, that the public interest would be best served by not applying paragraph (1).
+    (3) Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
+  (d) Limitation on preaward audits relating to indirect costs
+     An executive agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this subchapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer“s determination.
+  (e) Limitation
+     The authority of an executive agency under subsection (a) of this section, and the authority of the Comptroller General under subsection (c) of this section, with respect to a contract or subcontract shall expire three years after final payment under such contract or subcontract.
+  (f) Inapplicability to certain contracts
+     This section does not apply to the following contracts:
+    (1) Contracts for utility services at rates not exceeding those established to apply uniformly to the public, plus any applicable reasonable connection charge.
+    (2) A contract or subcontract that is not greater than the simplified acquisition threshold.
+  (g) Form of original record storage
+     Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form.
+  (h) Use of images of original records
+     An executive agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
+    (1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
+    (2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
+    (3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
+      (i) ””Records““ defined
+         In this section, the term ””records““ includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
