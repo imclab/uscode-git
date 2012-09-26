@@ -5,7 +5,7 @@
      Middle D3  
      Southern D3  
      Alaska D3  
-     Arizona D8  
+     Arizona D11  
      Arkansas:
      Eastern D5  
      Western D3  
@@ -20,7 +20,7 @@
      District of Columbia D15  
      Florida:
      Northern D4  
-     Middle D11  
+     Middle D15  
      Southern D16  
      Georgia:
      Northern D11  
@@ -63,7 +63,7 @@
      Eastern and Western D2  
      Montana D3  
      Nebraska D3  
-     Nevada D4  
+     Nevada D6  
      New Hampshire D3  
      New Jersey D17  
      New Mexico D5  
