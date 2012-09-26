@@ -53,6 +53,8 @@
         (i) evaluates the effect that the country“s designation would have on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
         (ii) determines that such interests would not be compromised by the designation of the country; and
         (iii) submits a written report to the Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate regarding the country“s qualification for designation that includes an explanation of such determination.
+      (D) Reporting passport thefts
+         The government of the country certifies that it reports to the United States Government on a timely basis the theft of blank passports issued by that country.
     (3) Continuing and subsequent qualifications
        For each fiscal year after the initial period–
       (A) Continuing qualification
@@ -71,7 +73,7 @@
     (5) Written reports on continuing qualification; designation terminations
       (A) Periodic evaluations
         (i) In general
-           The Attorney General, in consultation with the Secretary of State, periodically (but not less than once every 5 years)–
+           The Attorney General, in consultation with the Secretary of State, periodically (but not less than once every 2 years)–
           (I) shall evaluate the effect of each program country“s continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
           (II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d) of this section; and
           (III) shall submit a written report to the Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate regarding the continuation or termination of the country“s designation that includes an explanation of such determination and the effects described in subclause (I).
@@ -153,6 +155,8 @@
         (i) denied admission at the time of arrival or withdrew their application for admission during the most recent fiscal year for which data are available; and
         (ii) admitted as nonimmigrant visitors during such fiscal year and who violated the terms of such admission; bears to
       (B) the total number of nationals of such country who applied for admission as nonimmigrant visitors during such fiscal year.
+    (5) Failure to report passport thefts
+       If the Attorney General and the Secretary of State jointly determine that the program country is not reporting the theft of blank passports, as required by subsection (c)(2)(D) of this section, the Attorney General shall terminate the designation of the country as a program country.
   (g) Visa application sole method to dispute denial of waiver based on a ground of inadmissibility
      In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in section 1182(a) of this title that is discovered at the time of the alien“s application for the waiver or through the use of an automated electronic database required under subsection (a)(9) of this section, the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
   (h) Use of information technology systems

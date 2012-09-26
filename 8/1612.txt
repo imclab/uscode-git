@@ -39,9 +39,10 @@
          With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to an alien who is lawfully residing in the United States and who was receiving such benefits on August 22, 1996.
       (F) Disabled aliens lawfully residing in the United States on August 22, 1996
          With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien who–
-        (i) was lawfully residing in the United States on August 22, 1996; and
-        (ii)          (I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act [42 U.S.C. 1382c(a)(2), (3)]; and
-          (II) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(r) of the Food Stamp Act of 1977 (7 U.S.C. 2012(r))).
+        (i) in the case of the specified Federal program described in paragraph (3)(A)–
+          (I) was lawfully residing in the United States on August 22, 1996; and
+          (II) is blind or disabled (as defined in paragraph (2) or (3) of section 1614(a) of the Social Security Act (42 U.S.C. 1382c(a))); and
+        (ii) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(r) of the Food Stamp Act of 1977 (7 U.S.C. 2012(r))).
       (G) Exception for certain Indians
          With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), section 1611(a) of this title and paragraph (1) shall not apply to any individual–
         (i) who is an American Indian born in Canada to whom the provisions of section 289 of the Immigration and Nationality Act (8 U.S.C. 1359) apply; or
@@ -55,9 +56,7 @@
             (i) was lawfully residing in the United States; and
             (ii) was 65 years of age or older.
           (J) Food stamp exception for certain children
-             With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who–
-            (i) was lawfully residing in the United States on August 22, 1996; and
-            (ii) is under 18 years of age.
+             With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who is under 18 years of age.
           (K) Food stamp exception for certain Hmong and Highland Laotians
              With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to–
             (i) any individual who–
@@ -65,6 +64,8 @@
               (II) was a member of a Hmong or Highland Laotian tribe at the time that the tribe rendered assistance to United States personnel by taking part in a military or rescue operation during the Vietnam era (as defined in section 101 of title 38);
             (ii) the spouse, or an unmarried dependent child, of such an individual; or
             (iii) the unremarried surviving spouse of such an individual who is deceased.
+          (L) Food stamp exception for certain qualified aliens
+             With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term ””qualified alien““ for a period of 5 years or more beginning on the date of the alien“s entry into the United States.
     (3) ””Specified Federal program““ defined
        For purposes of this chapter, the term ””specified Federal program““ means any of the following:
       (A) SSI

@@ -1,9 +1,9 @@
-  (a) Availability of commodities
-     No agricultural commodity shall be available for disposition under this chapter if the Secretary determines that the disposition would reduce the domestic supply of the commodity below the supply needed to meet domestic requirements and provide adequate carryover (as determined by the Secretary), unless the Secretary determines that some part of the supply should be used to carry out urgent humanitarian purposes under this chapter.
-  (b) Ineligible commodities
-    (1) Alcoholic beverages
-       Alcoholic beverages shall not be made available for disposition under this chapter.
-    (2) Tobacco
-       Tobacco or the products thereof shall not be made available under section 1727b of this title or subchapter III of this chapter.
-  (c) Market development activities
-     Subsection (b)(1) of this section shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
+  (a) Development of system
+     In developing the integrated entry and exit data system for the ports of entry, as required by the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215), the Attorney General and the Secretary of State shall–
+    (1) implement, fund, and use a technology standard under section 1379 of this title at United States ports of entry and at consular posts abroad;
+    (2) establish a database containing the arrival and departure data from machine-readable visas, passports, and other travel and entry documents possessed by aliens; and
+    (3) make interoperable all security databases relevant to making determinations of admissibility under section 1182 of this title.
+  (b) Implementation
+     In implementing the provisions of subsection (a) of this section, the Immigration and Naturalization Service and the Department of State shall–
+    (1) utilize technologies that facilitate the lawful and efficient cross-border movement of commerce and persons without compromising the safety and security of the United States; and
+    (2) consider implementing the North American National Security Program described in section 1751 of this title.

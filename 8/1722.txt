@@ -1,55 +1,49 @@
-  (a) Emergency assistance
-     Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
-  (b) Nonemergency assistance
-    (1) In general
-       The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
-    (2) Limitation
-       The Administrator may not deny a request for funds submitted under this subsection because the program for which the funds are requested–
-      (A) would be carried out by the eligible organization in a foreign country in which the Agency for International Development does not have a mission, office, or other presence; or
-      (B) is not part of a development plan for the country prepared by the Agency.
-    (3) Program diversity
-       The Administrator shall–
-      (A) encourage eligible organizations to propose and implement program plans to address 1 or more aspects of the program under section 1721 of this title; and
-      (B) consider proposals that incorporate a variety of program objectives and strategic plans based on the identification by eligible organizations of appropriate activities, consistent with section 1721 of this title, to assist development of foreign countries.
-  (c) Uses of assistance
-     Agricultural commodities provided under this subchapter may be made available for direct distribution, sale, barter, or other appropriate disposition.
-  (d) Eligible organizations
-     To be eligible to receive assistance under subsection (b) of this section an organization shall be–
-    (1) a private voluntary organization or cooperative that is, to the extent practicable, registered with the Administrator; or
-    (2) an intergovernmental organization, such as the World Food Program.
-  (e) Support for eligible organizations
-    (1) In general
-       Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 5 percent nor more than 10 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in–
-      (A) establishing new programs under this subchapter; and
-      (B) meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter.
-    (2) Request for funds
-       To receive funds made available under paragraph (1), an eligible organization described in subsection (d) of this section shall submit a request for the funds that is subject to approval by the Administrator.
-    (3) Assistance with respect to sale
-       Upon the request of an eligible organization, the Administrator may provide assistance to the eligible organization with respect to the sale of agricultural commodities made available to it under this subchapter.
-  (f) Effective use of commodities
-     To ensure that agricultural commodities made available under this subchapter are used effectively and in the areas of greatest need, organizations or cooperatives through which such commodities are distributed shall–
-    (1) to the extent feasible, work with indigenous institutions and employ indigenous workers;
-    (2) assess and take into account nutritional and other needs of beneficiary groups;
-    (3) help such beneficiary groups design and carry out mutually acceptable projects;
-    (4) recommend to the Administrator methods of making assistance available that are the most appropriate for each local setting;
-    (5) supervise the distribution of commodities provided and the implementation of programs carried out under this subchapter; and
-    (6) periodically evaluate the effectiveness of projects undertaken under this subchapter.
-  (g) Labeling
-     Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
-  (h) Streamlined program management
-    (1) Improvements
-       Not later than 1 year after May 13, 2002, the Administrator shall–
-      (A) streamline program procedures and guidelines under this subchapter for agreements with eligible organizations for programs in 1 or more countries; and
-      (B) effective beginning with fiscal year 2004, to the maximum extent practicable, incorporate the changes into the procedures and guidelines for programs and the guidelines for resource requests.
-    (2) Streamlined procedures and guidelines
-       In carrying out paragraph (1), the Administrator shall make improvements in the Office of Food for Peace management systems that include–
-      (A) expedition of and greater consistency in the program review and approval process under this subchapter;
-      (B) streamlining of information collection and reporting systems by identifying the critical information that needs to be monitored and reported on by eligible organizations; and
-      (C) for approved programs, provision of greater flexibility for an eligible organization to make modifications in program activities to achieve program results with streamlined procedures for reporting such modifications.
-    (3) Consultation
+  (a) Interoperable law enforcement and intelligence electronic data system
+    (1) Requirement for integrated immigration and naturalization data system
+       The Immigration and Naturalization Service shall fully integrate all databases and data systems maintained by the Service that process or contain information on aliens. The fully integrated data system shall be an interoperable component of the electronic data system described in paragraph (2).
+    (2) Requirement for interoperable data system
+       Upon the date of commencement of implementation of the plan required by section 1721(c) of this title, the President shall develop and implement an interoperable electronic data system to provide current and immediate access to information in databases of Federal law enforcement agencies and the intelligence community that is relevant to determine whether to issue a visa or to determine the admissibility or deportability of an alien (also known as the ””Chimera system““).
+    (3) Consultation requirement
+       In the development and implementation of the data system under this subsection, the President shall consult with the Director of the National Institute of Standards and Technology (NIST) and any such other agency as may be deemed appropriate.
+    (4) Technology standard
       (A) In general
-         Paragraphs (1) and (2) shall be carried out in accordance with section 1725 of this title and subsections (b) and (c) of section 1726a of this title.
-      (B) Consultation with congressional committees
-         Not later than 180 days after May 13, 2002, the Administrator shall consult with the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on progress made in carrying out this subsection.
-    (4) Report
-       Not later than 270 days after May 13, 2002, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the improvements made and planned upgrades in the information management, procurement, and financial management systems to administer this subchapter.
+         The data system developed and implemented under this subsection, and the databases referred to in paragraph (2), shall utilize the technology standard established pursuant to section 1379 of this title.
+      (B) Omitted
+    (5) Access to information in data system
+       Subject to paragraph (6), information in the data system under this subsection shall be readily and easily accessible–
+      (A) to any consular officer responsible for the issuance of visas;
+      (B) to any Federal official responsible for determining an alien“s admissibility to or deportability from the United States; and
+      (C) to any Federal law enforcement or intelligence officer determined by regulation to be responsible for the investigation or identification of aliens.
+    (6) Limitation on access
+       The President shall, in accordance with applicable Federal laws, establish procedures to restrict access to intelligence information in the data system under this subsection, and the databases referred to in paragraph (2), under circumstances in which such information is not to be disclosed directly to Government officials under paragraph (5).
+  (b) Name-search capacity and support
+    (1) In general
+       The interoperable electronic data system required by subsection (a) of this section shall–
+      (A) have the capacity to compensate for disparate name formats among the different databases referred to in subsection (a) of this section;
+      (B) be searchable on a linguistically sensitive basis;
+      (C) provide adequate user support;
+      (D) to the extent practicable, utilize commercially available technology; and
+      (E) be adjusted and improved, based upon experience with the databases and improvements in the underlying technologies and sciences, on a continuing basis.
+    (2) Linguistically sensitive searches
+      (A) In general
+         To satisfy the requirement of paragraph (1)(B), the interoperable electronic database shall be searchable based on linguistically sensitive algorithms that–
+        (i) account for variations in name formats and transliterations, including varied spellings and varied separation or combination of name elements, within a particular language; and
+        (ii) incorporate advanced linguistic, mathematical, statistical, and anthropological research and methods.
+      (B) Languages required
+        (i) Priority languages
+           Linguistically sensitive algorithms shall be developed and implemented for no fewer than 4 languages designated as high priorities by the Secretary of State, after consultation with the Attorney General and the Director of Central Intelligence.
+        (ii) Implementation schedule
+           Of the 4 linguistically sensitive algorithms required to be developed and implemented under clause (i)–
+          (I) the highest priority language algorithms shall be implemented within 18 months after May 14, 2002; and
+          (II) an additional language algorithm shall be implemented each succeeding year for the next three years.
+    (3) Adequate user support
+       The Secretary of State and the Attorney General shall jointly prescribe procedures to ensure that consular and immigration officers can, as required, obtain assistance in resolving identity and other questions that may arise about the names of aliens seeking visas or admission to the United States that may be subject to variations in format, transliteration, or other similar phenomenon.
+    (4) Interim reports
+       Six months after May 14, 2002, the President shall submit a report to the appropriate committees of Congress on the progress in implementing each requirement of this section.
+    (5) Reports by intelligence agencies
+      (A) Current standards
+         Not later than 60 days after May 14, 2002, the Director of Central Intelligence shall complete the survey and issue the report previously required by section 309(a) of the Intelligence Authorization Act for Fiscal Year 1998 (50 U.S.C. 403–3 note).
+      (B) Guidelines
+         Not later than 120 days after May 14, 2002, the Director of Central Intelligence shall issue the guidelines and submit the copy of those guidelines previously required by section 309(b) of the Intelligence Authorization Act for Fiscal Year 1998 (50 U.S.C. 403–3 note).
+    (6) Authorization of appropriations
+       There are authorized to be appropriated such sums as are necessary to carry out the provisions of this subsection.

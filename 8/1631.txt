@@ -1,103 +1,26 @@
-  (a) Congressional findings
-     Congress finds that–
-    (1) certain State laws permit a secured lender to enforce liens against a purchaser of farm products even if the purchaser does not know that the sale of the products violates the lender“s security interest in the products, lacks any practical method for discovering the existence of the security interest, and has no reasonable means to ensure that the seller uses the sales proceeds to repay the lender;
-    (2) these laws subject the purchaser of farm products to double payment for the products, once at the time of purchase, and again when the seller fails to repay the lender;
-    (3) the exposure of purchasers of farm products to double payment inhibits free competition in the market for farm products; and
-    (4) this exposure constitutes a burden on and an obstruction to interstate commerce in farm products.
-  (b) Declaration of purpose
-     The purpose of this section is to remove such burden on and obstruction to interstate commerce in farm products.
-  (c) Definitions
-     For the purposes of this section–
-    (1) The term ””buyer in the ordinary course of business““ means a person who, in the ordinary course of business, buys farm products from a person engaged in farming operations who is in the business of selling farm products.
-    (2) The term ””central filing system““ means a system for filing effective financing statements or notice of such financing statements on a statewide basis and which has been certified by the Secretary of the United States Department of Agriculture; the Secretary shall certify such system if the system complies with the requirements of this section; specifically under such system–
-      (A) effective financing statements or notice of such financing statements are filed with the office of the Secretary of State of a State;
-      (B) the Secretary of State records the date and hour of the filing of such statements;
-      (C) the Secretary of State compiles all such statements into a master list–
-        (i) organized according to farm products;
-        (ii) arranged within each such product–
-          (I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
-          (II) in numerical order according to the social security number of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number of such debtors; and
-          (III) geographically by county or parish; and
-          (IV) by crop year;
-        (iii) containing the information referred to in paragraph (4)(D);
-      (D) the Secretary of State maintains a list of all buyers of farm products, commission merchants, and selling agents who register with the Secretary of State, on a form indicating–
-        (i) the name and address of each buyer, commission merchant and selling agent;
-        (ii) the interest of each buyer, commission merchant, and selling agent in receiving the lists described in subparagraph (E); and
-        (iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
-      (E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph \1\N (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
-      (F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section \2\N oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
-    (3) The term ””commission merchant““ means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
-    (4) The term ””effective financing statement““ means a statement that–
-      (A) is an original or reproduced copy of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
-      (B) other than in the case of an electronically reproduced copy of the statement, is signed, authorized, or otherwise authenticated by the debtor, and filed with the Secretary of State of a State by the secured party;
-      (C) contains,
-        (i) the name and address of the secured party;
-        (ii) the name and address of the person indebted to the secured party;
-        (iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
-        (iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
-      (D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
-      (E) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
-      (F) lapses on either the expiration of the effective period of the statement or the filing of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first;
-      (G) is accompanied by the requisite filing fee set by the Secretary of State; and
-      (H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
-    (5) The term ””farm product““ means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
-    (6) The term ””knows““ or ””knowledge““ means actual knowledge.
-    (7) The term ””security interest““ means an interest in farm products that secures payment or performance of an obligation.
-    (8) The term ””selling agent““ means any person, other than a commission merchant, who is engaged in the business of negotiating the sale and purchase of any farm product on behalf of a person engaged in farming operations.
-    (9) The term ””State““ means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
-    (10) The term ””person““ means any individual, partnership, corporation, trust, or any other business entity.
-    (11) The term ””Secretary of State““ means the Secretary of State or the designee of the State.
-  (d) Purchases free of security interest
-     Except as provided in subsection (e) of this section and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
-  (e) Purchases subject to security interest
-     A buyer of farm products takes subject to a security interest created by the seller if–
-    (1)      (A) within 1 year before the sale of the farm products, the buyer has received from the secured party or the seller written notice of the security interest organized according to farm products that–
-        (i) is an original or reproduced copy thereof;
-        (ii) contains,
-          (I) the name and address of the secured party;
-          (II) the name and address of the person indebted to the secured party;
-          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
-          (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
-        (iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
-        (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
-        (v) contains any payment obligations imposed on the buyer by the secured party as conditions for waiver or release of the security interest; and
-      (B) the buyer has failed to perform the payment obligations, or
-    (2) in the case of a farm product produced in a State that has established a central filing system–
-      (A) the buyer has failed to register with the Secretary of State of such State prior to the purchase of farm products; and
-      (B) the secured party has filed an effective financing statement or notice that covers the farm products being sold; or
-    (3) in the case of a farm product produced in a State that has established a central filing system, the buyer–
-      (A) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm product being sold by such seller as being subject to an effective financing statement or notice; and
-      (B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
-  (f) Law governing ””receipt““
-     What constitutes receipt, as used in this section, shall be determined by the law of the State in which the buyer resides.
-  (g) Commission merchants or selling agents: sales free of or subject to security interest; law governing ””receipt““
-    (1) Except as provided in paragraph (2) and notwithstanding any other provision of Federal, State, or local law, a commission merchant or selling agent who sells, in the ordinary course of business, a farm product for others, shall not be subject to a security interest created by the seller in such farm product even though the security interest is perfected and even though the commission merchant or selling agent knows of the existence of such interest.
-    (2) A commission merchant or selling agent who sells a farm product for others shall be subject to a security interest created by the seller in such farm product if–
-      (A) within 1 year before the sale of such farm product the commission merchant or selling agent has received from the secured party or the seller written notice of the security interest; organized according to farm products, that–
-        (i) is an original or reproduced copy thereof;
-        (ii) contains,
-          (I) the name and address of the secured party;
-          (II) the name and address of the person indebted to the secured party;
-          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
-          (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
-        (iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
-        (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
-        (v) contains any payment obligations imposed on the commission merchant or selling agent by the secured party as conditions for waiver or release of the security interest; and
-      (B) the commission merchant or selling agent has failed to perform the payment obligations;
-      (C) in the case of a farm product produced in a State that has established a central filing system–
-        (i) the commission merchant or selling agent has failed to register with the Secretary of State of such State prior to the purchase of farm products; and
-        (ii) the secured party has filed an effective financing statement or notice that covers the farm products being sold; or
-      (D) in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent–
-        (i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
-        (ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
-    (3) What constitutes receipt, as used in this section, shall be determined by the law of the State in which the buyer resides.
-  (h) Security agreements; identity lists; notice of identity or accounting for proceeds; violations
-    (1) A security agreement in which a person engaged in farming operations creates a security interest in a farm product may require the person to furnish to the secured party a list of the buyers, commission merchants, and selling agents to or through whom the person engaged in farming operations may sell such farm product.
-    (2) If a security agreement contains a provision described in paragraph (1) and such person engaged in farming operations sells the farm product collateral to a buyer or through a commission merchant or selling agent not included on such list, the person engaged in farming operations shall be subject to paragraph (3) unless the person–
-      (A) has notified the secured party in writing of the identity of the buyer, commission merchant, or selling agent at least 7 days prior to such sale; or
-      (B) has accounted to the secured party for the proceeds of such sale not later than 10 days after such sale.
-    (3) A person violating paragraph (2) shall be fined $5,000 or 15 per centum of the value or benefit received for such farm product described in the security agreement, whichever is greater.
-      (i) Regulations
-         The Secretary of Agriculture shall prescribe regulations not later than 90 days after December 23, 1985, to aid States in the implementation and management of a central filing system.
-      (j) Effective date
-         This section shall become effective 12 months after December 23, 1985.
+  (a) In general
+     Notwithstanding any other provision of law, in determining the eligibility and the amount of benefits of an alien for any Federal means-tested public benefits program (as provided under section 1613 of this title), the income and resources of the alien shall be deemed to include the following:
+    (1) The income and resources of any person who executed an affidavit of support pursuant to section 213A of the Immigration and Nationality Act [8 U.S.C. 1183a] (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) on behalf of such alien.
+    (2) The income and resources of the spouse (if any) of the person.
+  (b) Duration of attribution period
+     Subsection (a) of this section shall apply with respect to an alien until such time as the alien–
+    (1) achieves United States citizenship through naturalization pursuant to chapter 2 of title III of the Immigration and Nationality Act [8 U.S.C. 1421 et seq.]; or
+    (2)      (A) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act [42 U.S.C. 401 et seq.] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (B) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+  (c) Review of income and resources of alien upon reapplication
+     Whenever an alien is required to reapply for benefits under any Federal means-tested public benefits program, the applicable agency shall review the income and resources attributed to the alien under subsection (a) of this section.
+  (d) Application
+    (1) If on August 22, 1996, a Federal means-tested public benefits program attributes a sponsor“s income and resources to an alien in determining the alien“s eligibility and the amount of benefits for an alien, this section shall apply to any such determination beginning on the day after August 22, 1996.
+    (2) If on August 22, 1996, a Federal means-tested public benefits program does not attribute a sponsor“s income and resources to an alien in determining the alien“s eligibility and the amount of benefits for an alien, this section shall apply to any such determination beginning 180 days after August 22, 1996.
+    (3) This section shall not apply to assistance or benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) to the extent that a qualified alien is eligible under section 1612(a)(2)(J) of this title.
+  (e) Indigence exception
+    (1) In general
+       For an alien for whom an affidavit of support under section 213A of the Immigration and Nationality Act [8 U.S.C. 1183a] has been executed, if a determination described in paragraph (2) is made, the amount of income and resources of the sponsor or the sponsor“s spouse which shall be attributed to the sponsored alien shall not exceed the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date.
+    (2) Determination described
+       A determination described in this paragraph is a determination by an agency that a sponsored alien would, in the absence of the assistance provided by the agency, be unable to obtain food and shelter, taking into account the alien“s own income, plus any cash, food, housing, or other assistance provided by other individuals, including the sponsor. The agency shall notify the Attorney General of each such determination, including the names of the sponsor and the sponsored alien involved.
+  (f) Special rule for battered spouse and child
+    (1) In general
+       Subject to paragraph (2) and notwithstanding any other provision of this section, subsection (a) of this section shall not apply to benefits–
+      (A) during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent“s family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, (ii) the alien“s child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse“s or parent“s family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent“s spouse, or by a member of the spouse“s family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
+      (B) after a 12 month period (regarding the batterer“s income and resources only) if the alien demonstrates that such battery or cruelty under subparagraph (A) has been recognized in an order of a judge or administrative law judge or a prior determination of the Immigration and Naturalization Service, and that such battery or cruelty (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the benefits.
+    (2) Limitation
+       The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.

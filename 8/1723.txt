@@ -1,11 +1,17 @@
-  (a) Local sale and barter of commodities
-     An agreement entered into between the Administrator and a private voluntary organization or cooperative to provide food assistance through such organization or cooperative under this subchapter may provide for the sale or barter in 1 or more recipient countries, or 1 or more countries in the same region, of the commodities to be provided under such agreement.
-  (b) Minimum level of local sales
-     In carrying out agreements of the type referred to in subsection (a) of this section, the Administrator shall permit private voluntary organizations and cooperatives to sell, 1 \1\N or more recipient countries, or in 1 or more countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate proceeds to be used as provided in this section.
-  (c) Description of intended uses
-     A private voluntary organization or cooperative submitting a proposal to enter into a non-emergency food assistance agreement under this subchapter shall include in such proposal a description of the intended uses of any proceeds that may be generated through the sale, in 1 or more recipient countries, or in 1 or more countries in the same region, of any commodities provided under an agreement entered into between the Administrator and the organization or cooperative.
-  (d) Use
-     Proceeds generated from any partial or full sale or barter of commodities by a private voluntary organization or cooperative under a non-emergency food assistance agreement under this subchapter may–
-    (1) be used to transport, store, distribute, and otherwise enhance the effectiveness of the use of agricultural commodities provided under this subchapter;
-    (2) be used to implement income-generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within 1 or more recipient countries or within 1 or more countries in the same region; or
-    (3) be invested, and any interest earned on such investment may be used, for the purposes for which the assistance was provided to that organization, without further appropriation by Congress.
+  (a) Establishment
+     Not later than one year after October 26, 2001, the President shall establish a Commission on Interoperable Data Sharing (in this section referred to as the ””Commission““). The purposes of the Commission shall be to–
+    (1) monitor the protections described in section 1721(c)(3) of this title;
+    (2) provide oversight of the interoperable electronic data system described in section 1722 of this title; and
+    (3) report to Congress annually on the Commission“s findings and recommendations.
+  (b) Composition
+     The Commission shall consist of nine members, who shall be appointed by the President, as follows:
+    (1) One member, who shall serve as Chair of the Commission.
+    (2) Eight members, who shall be appointed from a list of nominees jointly provided by the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Majority Leader of the Senate, and the Minority Leader of the Senate.
+  (c) Considerations
+     The Commission shall consider recommendations regarding the following issues:
+    (1) Adequate protection of privacy concerns inherent in the design, implementation, or operation of the interoperable electronic data system.
+    (2) Timely adoption of security innovations, consistent with generally accepted security standards, to protect the integrity and confidentiality of information to prevent the risks of accidental or unauthorized loss, access, destruction, use modification, or disclosure of information.
+    (3) The adequacy of mechanisms to permit the timely correction of errors in data maintained by the interoperable data system.
+    (4) Other protections against unauthorized use of data to guard against the misuse of the interoperable data system or the data maintained by the system, including recommendations for modifications to existing laws and regulations to sanction misuse of the system.
+  (d) Authorization of appropriations
+     There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
