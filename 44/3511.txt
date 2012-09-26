@@ -1,8 +1,8 @@
-  (a) There is established in the Office of Information and Regulatory Affairs a Federal Information Locator System (hereafter in this section referred to as the ””system““) which shall be composed of a directory of information resources, a data element dictionary, and an information referral service. The system shall serve as the authoritative register of all information collection requests, and shall be designed so as to assist agencies and the public in locating existing Government information derived from information collection requests.
-  (b) In designing and operating the System, the Director shall–
-    (1) design and operate an indexing system for the System;
-    (2) require the head of each agency to prepare in a form specified by the Director, and to submit to the Director for inclusion in the System, a data profile for each information collection request of such agency;
-    (3) compare data profiles for proposed information collection requests against existing profiles in the System, and make available the results of such comparison to–
-      (A) agency officials who are planning new information collection activities; and
-      (B) on request, members of the general public; and
-    (4) ensure that no actual data, except descriptive data profiles necessary to identify duplicative data or to locate information, are contained within the System.
+  (a) In order to assist agencies and the public in locating information and to promote information sharing and equitable access by the public, the Director shall–
+    (1) cause to be established and maintained a distributed agency-based electronic Government Information Locator Service (hereafter in this section referred to as the ””Service““), which shall identify the major information systems, holdings, and dissemination products of each agency;
+    (2) require each agency to establish and maintain an agency information locator service as a component of, and to support the establishment and operation of the Service;
+    (3) in cooperation with the Archivist of the United States, the Administrator of General Services, the Public Printer, and the Librarian of Congress, establish an interagency committee to advise the Secretary of Commerce on the development of technical standards for the Service to ensure compatibility, promote information sharing, and uniform access by the public;
+    (4) consider public access and other user needs in the establishment and operation of the Service;
+    (5) ensure the security and integrity of the Service, including measures to ensure that only information which is intended to be disclosed to the public is disclosed through the Service; and
+    (6) periodically review the development and effectiveness of the Service and make recommendations for improvement, including other mechanisms for improving public access to Federal agency public information.
+  (b) This section shall not apply to operational files as defined by the Central Intelligence Agency Information Act (50 U.S.C. 431 et seq.).

@@ -1,7 +1,15 @@
-   The purpose of this chapter is–
-  (1) to minimize the Federal paperwork burden for individuals, small businesses, State and local governments, and other persons;
-  (2) to minimize the cost to the Federal Government of collecting, maintaining, using, and disseminating information;
-  (3) to maximize the usefulness of information collected, maintained, and disseminated by the Federal Government;
-  (4) to coordinate, integrate and, to the extent practicable and appropriate, make uniform Federal information policies and practices;
-  (5) to ensure that automatic data processing, telecommunications, and other information technologies are acquired and used by the Federal Government in a manner which improves service delivery and program management, increases productivity, improves the quality of decisionmaking, reduces waste and fraud, and wherever practicable and appropriate, reduces the information processing burden for the Federal Government and for persons who provide information to and for the Federal Government; and
-  (6) to ensure that the collection, maintenance, use and dissemination of information by the Federal Government is consistent with applicable laws relating to confidentiality, including section 552a of title 5, United States Code, known as the Privacy Act.
+   The purposes of this chapter are to–
+  (1) minimize the paperwork burden for individuals, small businesses, educational and nonprofit institutions, Federal contractors, State, local and tribal governments, and other persons resulting from the collection of information by or for the Federal Government;
+  (2) ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the Federal Government;
+  (3) coordinate, integrate, and to the extent practicable and appropriate, make uniform Federal information resources management policies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
+  (4) improve the quality and use of Federal information to strengthen decisionmaking, accountability, and openness in Government and society;
+  (5) minimize the cost to the Federal Government of the creation, collection, maintenance, use, dissemination, and disposition of information;
+  (6) strengthen the partnership between the Federal Government and State, local, and tribal governments by minimizing the burden and maximizing the utility of information created, collected, maintained, used, disseminated, and retained by or for the Federal Government;
+  (7) provide for the dissemination of public information on a timely basis, on equitable terms, and in a manner that promotes the utility of the information to the public and makes effective use of information technology;
+  (8) ensure that the creation, collection, maintenance, use, dissemination, and disposition of information by or for the Federal Government is consistent with applicable laws, including laws relating to–
+    (A) privacy and confidentiality, including section 552a of title 5;
+    (B) security of information, including the Computer Security Act of 1987 (Public Law 100–235); and
+    (C) access to information, including section 552 of title 5;
+  (9) ensure the integrity, quality, and utility of the Federal statistical system;
+  (10) ensure that information technology is acquired, used, and managed to improve performance of agency missions, including the reduction of information collection burdens on the public; and
+  (11) improve the responsibility and accountability of the Office of Management and Budget and all other Federal agencies to Congress and to the public for implementing the information collection review process, information resources management, and related policies and guidelines established under this chapter.

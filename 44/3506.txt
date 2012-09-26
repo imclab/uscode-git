@@ -1,12 +1,90 @@
-  (a) Each agency shall be responsible for carrying out its information management activities in an efficient, effective, and economical manner, and for complying with the information policies, principles, standards, and guidelines prescribed by the Director.
-  (b) The head of each agency shall designate, within three months after the effective date of this Act, a senior official or, in the case of military departments, and the Office of the Secretary of Defense, officials who report directly to such agency head to carry out the responsibilities of the agency under this chapter. If more than one official is appointed for the military departments the respective duties of the officials shall be clearly delineated.
-  (c) Each agency shall–
-    (1) systematically inventory its major information systems and periodically review its information resources management activities;
-    (2) ensure its information systems do not overlap each other or duplicate the systems of other agencies;
-    (3) develop procedures for assessing the paperwork and reporting burden of proposed legislation affecting such agency;
-    (4) assign to the official designated under subsection (b) the responsibility for the conduct of and accountability for any acquisitions made pursuant to a delegation of authority under section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759);
-    (5) ensure that information collection requests required by law or to obtain a benefit, and submitted to nine or fewer persons, contain a statement to inform the person receiving the request that the request is not subject to the requirements of section 3507 of this chapter; and \1\N
-    (6) implement applicable Government-wide and agency information policies, principles, standards, and guidelines with respect to information collection, paperwork reduction, statistical activities, records management activities, privacy and security of records, sharing and dissemination of information, acquisition and use of information technology, and other information resource management functions;
-    (7) periodically evaluate and, as needed, improve, the accuracy, completeness, and reliability of data and records contained within Federal information systems; and
-    (8) develop and annually revise a 5-year plan, in accordance with appropriate guidance provided by the Director, for meeting the agency“s information technology needs.
-  (d) The head of each agency shall establish such procedures as necessary to ensure the compliance of the agency with the requirements of the Federal Information Locator System, including necessary screening and compliance activities.
+  (a)    (1) The head of each agency shall be responsible for–
+      (A) carrying out the agency“s information resources management activities to improve agency productivity, efficiency, and effectiveness; and
+      (B) complying with the requirements of this chapter and related policies established by the Director.
+    (2)      (A) Except as provided under subparagraph (B), the head of each agency shall designate a senior official who shall report directly to such agency head to carry out the responsibilities of the agency under this chapter.
+      (B) The Secretary of the Department of Defense and the Secretary of each military department may each designate senior officials who shall report directly to such Secretary to carry out the responsibilities of the department under this chapter. If more than one official is designated, the respective duties of the officials shall be clearly delineated.
+    (3) The senior official designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementation of the information policies and information resources management responsibilities established under this chapter, including the reduction of information collection burdens on the public. The senior official and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this chapter.
+    (4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with the senior official designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
+  (b) With respect to general information resources management, each agency shall–
+    (1) manage information resources to–
+      (A) reduce information collection burdens on the public;
+      (B) increase program efficiency and effectiveness; and
+      (C) improve the integrity, quality, and utility of information to all users within and outside the agency, including capabilities for ensuring dissemination of public information, public access to government information, and protections for privacy and security;
+    (2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that shall describe how information resources management activities help accomplish agency missions;
+    (3) develop and maintain an ongoing process to–
+      (A) ensure that information resources management operations and decisions are integrated with organizational planning, budget, financial management, human resources management, and program decisions;
+      (B) in cooperation with the agency Chief Financial Officer (or comparable official), develop a full and accurate accounting of information technology expenditures, related expenses, and results; and
+      (C) establish goals for improving information resources management“s contribution to program productivity, efficiency, and effectiveness, methods for measuring progress towards those goals, and clear roles and responsibilities for achieving those goals;
+    (4) in consultation with the Director, the Administrator of General Services, and the Archivist of the United States, maintain a current and complete inventory of the agency“s information resources, including directories necessary to fulfill the requirements of section 3511 of this chapter; and
+    (5) in consultation with the Director and the Director of the Office of Personnel Management, conduct formal training programs to educate agency program and management officials about information resources management.
+  (c) With respect to the collection of information and the control of paperwork, each agency shall–
+    (1) establish a process within the office headed by the official designated under subsection (a), that is sufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved under this chapter, to–
+      (A) review each collection of information before submission to the Director for review under this chapter, including–
+        (i) an evaluation of the need for the collection of information;
+        (ii) a functional description of the information to be collected;
+        (iii) a plan for the collection of the information;
+        (iv) a specific, objectively supported estimate of burden;
+        (v) a test of the collection of information through a pilot program, if appropriate; and
+        (vi) a plan for the efficient and effective management and use of the information to be collected, including necessary resources;
+      (B) ensure that each information collection–
+        (i) is inventoried, displays a control number and, if appropriate, an expiration date;
+        (ii) indicates the collection is in accordance with the clearance requirements of section 3507; and
+        (iii) informs the person receiving the collection of information of–
+          (I) the reasons the information is being collected;
+          (II) the way such information is to be used;
+          (III) an estimate, to the extent practicable, of the burden of the collection;
+          (IV) whether responses to the collection of information are voluntary, required to obtain a benefit, or mandatory; and
+          (V) the fact that an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid control number; and
+      (C) assess the information collection burden of proposed legislation affecting the agency;
+    (2)      (A) except as provided under subparagraph (B) or section 3507(j), provide 60-day notice in the Federal Register, and otherwise consult with members of the public and affected agencies concerning each proposed collection of information, to solicit comment to–
+        (i) evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility;
+        (ii) evaluate the accuracy of the agency“s estimate of the burden of the proposed collection of information;
+        (iii) enhance the quality, utility, and clarity of the information to be collected; and
+        (iv) minimize the burden of the collection of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology; and
+      (B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv); and
+    (3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507–
+      (A) is necessary for the proper performance of the functions of the agency, including that the information has practical utility;
+      (B) is not unnecessarily duplicative of information otherwise reasonably accessible to the agency;
+      (C) reduces to the extent practicable and appropriate the burden on persons who shall provide information to or for the agency, including with respect to small entities, as defined under section 601(6) of title 5, the use of such techniques as–
+        (i) establishing differing compliance or reporting requirements or timetables that take into account the resources available to those who are to respond;
+        (ii) the clarification, consolidation, or simplification of compliance and reporting requirements; or
+        (iii) an exemption from coverage of the collection of information, or any part thereof;
+      (D) is written using plain, coherent, and unambiguous terminology and is understandable to those who are to respond;
+      (E) is to be implemented in ways consistent and compatible, to the maximum extent practicable, with the existing reporting and recordkeeping practices of those who are to respond;
+      (F) indicates for each recordkeeping requirement the length of time persons are required to maintain the records specified;
+      (G) contains the statement required under paragraph (1)(B)(iii);
+      (H) has been developed by an office that has planned and allocated resources for the efficient and effective management and use of the information to be collected, including the processing of the information in a manner which shall enhance, where appropriate, the utility of the information to agencies and the public;
+      (I) uses effective and efficient statistical survey methodology appropriate to the purpose for which the information is to be collected; and
+      (J) to the maximum extent practicable, uses information technology to reduce burden and improve data quality, agency efficiency and responsiveness to the public.
+  (d) With respect to information dissemination, each agency shall–
+    (1) ensure that the public has timely and equitable access to the agency“s public information, including ensuring such access through–
+      (A) encouraging a diversity of public and private sources for information based on government public information;
+      (B) in cases in which the agency provides public information maintained in electronic format, providing timely and equitable access to the underlying data (in whole or in part); and
+      (C) agency dissemination of public information in an efficient, effective, and economical manner;
+    (2) regularly solicit and consider public input on the agency“s information dissemination activities;
+    (3) provide adequate notice when initiating, substantially modifying, or terminating significant information dissemination products; and
+    (4) not, except where specifically authorized by statute–
+      (A) establish an exclusive, restricted, or other distribution arrangement that interferes with timely and equitable availability of public information to the public;
+      (B) restrict or regulate the use, resale, or redissemination of public information by the public;
+      (C) charge fees or royalties for resale or redissemination of public information; or
+      (D) establish user fees for public information that exceed the cost of dissemination.
+  (e) With respect to statistical policy and coordination, each agency shall–
+    (1) ensure the relevance, accuracy, timeliness, integrity, and objectivity of information collected or created for statistical purposes;
+    (2) inform respondents fully and accurately about the sponsors, purposes, and uses of statistical surveys and studies;
+    (3) protect respondents“ privacy and ensure that disclosure policies fully honor pledges of confidentiality;
+    (4) observe Federal standards and practices for data collection, analysis, documentation, sharing, and dissemination of information;
+    (5) ensure the timely publication of the results of statistical surveys and studies, including information about the quality and limitations of the surveys and studies; and
+    (6) make data available to statistical agencies and readily accessible to the public.
+  (f) With respect to records management, each agency shall implement and enforce applicable policies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
+  (g) With respect to privacy and security, each agency shall–
+    (1) implement and enforce applicable policies, procedures, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for the agency;
+    (2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, the Computer Security Act of 1987 (40 U.S.C. 759 note), and related information management laws; and
+    (3) consistent with the Computer Security Act of 1987 (40 U.S.C. 759 note), identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
+  (h) With respect to Federal information technology, each agency shall–
+    (1) implement and enforce applicable Governmentwide and agency information technology management policies, principles, standards, and guidelines;
+    (2) assume responsibility and accountability for information technology investments;
+    (3) promote the use of information technology by the agency to improve the productivity, efficiency, and effectiveness of agency programs, including the reduction of information collection burdens on the public and improved dissemination of public information;
+    (4) propose changes in legislation, regulations, and agency procedures to improve information technology practices, including changes that improve the ability of the agency to use technology to reduce burden; and
+    (5) assume responsibility for maximizing the value and assessing and managing the risks of major information systems initiatives through a process that is–
+      (A) integrated with budget, financial, and program management decisions; and
+      (B) used to select, control, and evaluate the results of major information systems initiatives.

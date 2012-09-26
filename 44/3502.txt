@@ -1,25 +1,33 @@
    As used in this chapter–
-  (1) the term ””agency““ means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include the General Accounting Office, Federal Election Commission, the governments of the District of Columbia and of the territories and possessions of the United States, and their various subdivisions, or Government-owned contractor-operated facilities including laboratories engaged in national defense research and production activities;
-  (2) the terms ””automatic data processing,““ ””automatic data processing equipment,““ and ””telecommunications““ do not include any data processing or telecommunications system or equipment, the function, operation or use of which–
-    (A) involves intelligence activities;
-    (B) involves cryptologic activities related to national security;
-    (C) involves the direct command and control of military forces;
-    (D) involves equipment which is an integral part of a weapon or weapons system; or
-    (E) is critical to the direct fulfillment of military or intelligence missions, provided that this exclusion shall not include automatic data processing or telecommunications equipment used for routine administrative and business applications such as payroll, finance, logistics, and personnel management;
-  (3) the term ””burden““ means the time, effort, or financial resources expended by persons to provide information to a Federal agency;
-  (4) the term ””collection of information““ means the obtaining or soliciting of facts or opinions by an agency through the use of written report forms, application forms, schedules, questionnaires, reporting or recordkeeping requirements, or other similar methods calling for either–
-    (A) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
-    (B) answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes;
-  (5) the term ””data element““ means a distinct piece of information such as a name, term, number, abbreviation, or symbol;
-  (6) the term ””data element dictionary““ means a system containing standard and uniform definitions and cross references for commonly used data elements;
-  (7) the term ””data profile““ means a synopsis of the questions contained in an information collection request and the official name of the request, the location of information obtained or to be obtained through the request, a description of any compilations, analyses, or reports derived or to be derived from such information, any record retention requirements associated with the request, the agency responsible for the request, the statute authorizing the request, and any other information necessary to identify, obtain, or use the data contained in such information;
-  (8) the term ””Director““ means the Director of the Office of Management and Budget;
-  (9) the term ””directory of information resources““ means a catalog of information collection requests, containing a data profile for each request;
-  (10) the term ””independent regulatory agency““ means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the the \1\N Federal Housing Finance Board, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Rate Commission, the Securities and Exchange Commission, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
-  (11) the term ””information collection request““ means a written report form, application form, schedule, questionnaire, reporting or recordkeeping requirement, collection of information requirement, or other similar method calling for the collection of information;
-  (12) the term ””information referral service““ means the function that assists officials and persons in obtaining access to the Federal Information Locator System;
-  (13) the term ””information resources management““ means the planning, budgeting, organizing, directing, training, promoting, controlling, and management activities associated with the burden, collection, creation, use, and dissemination of information by agencies, and includes the management of information and related resources such as automatic data processing equipment (as such term is defined in section 111(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a));
-  (14) the term ””information systems““ means management information systems;
-  (15) the term ””person““ means an individual, partnership, association, corporation, business trust, or legal representative, an organized group of individuals, a State, territorial, or local government or branch thereof, or a political subdivision of a State, territory, or local government or a branch of a political subdivision;
-  (16) the term ””practical utility““ means the ability of an agency to use information it collects, particularly the capability to process such information in a timely and useful fashion; and
-  (17) the term ””recordkeeping requirement““ means requirement imposed by an agency on persons to maintain specified records.
+  (1) the term ””agency““ means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include–
+    (A) the General Accounting Office;
+    (B) Federal Election Commission;
+    (C) the governments of the District of Columbia and of the territories and possessions of the United States, and their various subdivisions; or
+    (D) Government-owned contractor-operated facilities, including laboratories engaged in national defense research and production activities;
+  (2) the term ””burden““ means time, effort, or financial resources expended by persons to generate, maintain, or provide information to or for a Federal agency, including the resources expended for–
+    (A) reviewing instructions;
+    (B) acquiring, installing, and utilizing technology and systems;
+    (C) adjusting the existing ways to comply with any previously applicable instructions and requirements;
+    (D) searching data sources;
+    (E) completing and reviewing the collection of information; and
+    (F) transmitting, or otherwise disclosing the information;
+  (3) the term ””collection of information““–
+    (A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either–
+      (i) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
+      (ii) answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes; and
+    (B) shall not include a collection of information described under section 3518(c)(1);
+  (4) the term ””Director““ means the Director of the Office of Management and Budget;
+  (5) the term ””independent regulatory agency““ means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the Federal Housing Finance Board, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Rate Commission, the Securities and Exchange Commission, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
+  (6) the term ””information resources““ means information and related resources, such as personnel, equipment, funds, and information technology;
+  (7) the term ””information resources management““ means the process of managing information resources to accomplish agency missions and to improve agency performance, including through the reduction of information collection burdens on the public;
+  (8) the term ””information system““ means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information;
+  (9) the term ””information technology““ has the same meaning as the term ””automatic data processing equipment““ as defined by section 111(a)(2) and (3)(C)(i) through (v) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2) and (3)(C)(i) through (v));
+  (10) the term ””person““ means an individual, partnership, association, corporation, business trust, or legal representative, an organized group of individuals, a State, territorial, tribal, or local government or branch thereof, or a political subdivision of a State, territory, tribal, or local government or a branch of a political subdivision;
+  (11) the term ””practical utility““ means the ability of an agency to use information, particularly the capability to process such information in a timely and useful fashion;
+  (12) the term ””public information““ means any information, regardless of form or format, that an agency discloses, disseminates, or makes available to the public;
+  (13) the term ””recordkeeping requirement““ means a requirement imposed by or for an agency on persons to maintain specified records, including a requirement to–
+    (A) retain such records;
+    (B) notify third parties, the Federal Government, or the public of the existence of such records;
+    (C) disclose such records to third parties, the Federal Government, or the public; or
+    (D) report to third parties, the Federal Government, or the public regarding such records; and
+  (14) the term ””penalty““ includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
