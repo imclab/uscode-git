@@ -3,7 +3,7 @@
        Not later than 30 days after November 2, 1992, and periodically thereafter, the Secretary of Commerce, in consultation with the Secretary of State, shall publish a list of nations whose nationals or vessels conduct large-scale driftnet fishing beyond the exclusive economic zone of any nation.
     (2) Denial of port privileges
        The Secretary of the Treasury shall, in accordance with recognized principles of international law–
-      (A) withhold or revoke the clearance required by section 91 of title 46, Appendix, for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1); and
+      (A) withhold or revoke the clearance required by section 60105 of title 46 for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1); and
       (B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States.
     (3) Notification of nation
        Before the publication of a list of nations under paragraph (1), the Secretary of State shall notify each nation included on that list regarding–
@@ -13,14 +13,14 @@
     (1) Identifications
       (A) Initial identifications
          Not later than January 10, 1993, the Secretary of Commerce shall–
-        (i) identify each nation whose nationals or vessels are conducting large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
+        (i) identify each nation whose nationals or vessels are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation; and
         (ii) notify the President and that nation of the identification under clause (i).
       (B) Additional identifications
-         At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall–
+         At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall–
         (i) identify that nation; and
         (ii) notify the President and that nation of the identification under clause (i).
     (2) Consultations
-       Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
+       Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing or illegal, unreported, or unregulated fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
     (3) Prohibition on imports of fish and fish products and sport fishing equipment
       (A) Prohibition
          The President–
@@ -33,7 +33,7 @@
     (4) Additional economic sanctions
       (A) Determination of effectiveness of sanctions
          Not later than six months after the date the Secretary of Commerce identifies a nation under paragraph (1), the Secretary shall determine whether–
-        (i) any prohibition established under paragraph (3) is insufficient to cause that nation to terminate large-scale driftnet fishing conducted by its nationals and vessels beyond the exclusive economic zone of any nation; or
+        (i) any prohibition established under paragraph (3) is insufficient to cause that nation to terminate large-scale driftnet fishing or illegal, unreported, or unregulated fishing conducted by its nationals and vessels beyond the exclusive economic zone of any nation; or
         (ii) that nation has retaliated against the United States as a result of that prohibition.
       (B) Certification
          The Secretary of Commerce shall certify to the President each affirmative determination under subparagraph (A) with respect to a nation.

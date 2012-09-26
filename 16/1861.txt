@@ -6,8 +6,9 @@
         (i) arrest any person, if he has reasonable cause to believe that such person has committed an act prohibited by section 1857 of this title;
         (ii) board, and search or inspect, any fishing vessel which is subject to the provisions of this chapter;
         (iii) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter;
-        (iv) seize any fish (wherever found) taken or retained in violation of any provision of this chapter; and
-        (v) seize any other evidence related to any violation of any provision of this chapter;
+        (iv) seize any fish (wherever found) taken or retained in violation of any provision of this chapter;
+        (v) seize any other evidence related to any violation of any provision of this chapter; and
+        (vi) access, directly or indirectly, for enforcement purposes any data or information required to be provided under this subchapter or regulations under this subchapter, including data from vessel monitoring systems, satellite-based maritime distress and safety systems, or any similar system, subject to the confidentiality provisions of section 1881a of this title;
       (B) execute any warrant or other process issued by any court of competent jurisdiction; and
       (C) exercise any other lawful authority.
     (2) Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony. The arrest authority described in the preceding sentence may be conferred upon an officer or employee of a State agency, subject to such conditions and restrictions as are set forth by agreement between the State agency, the Secretary, and, with respect to enforcement operations within the exclusive economic zone, the Secretary of the department in which the Coast Guard is operating.
@@ -49,7 +50,28 @@
        Amounts available to the Secretary under this chapter which are attributable to fines and penalties imposed for violations of the Northeast Multispecies Fishery Management Plan shall be used by the Secretary pursuant to this section to enforce that Plan.
   (g) Enforcement in Pacific Insular Areas
      The Secretary, in consultation with the Governors of the Pacific Insular Areas and the Western Pacific Council, shall to the extent practicable support cooperative enforcement agreements between Federal and Pacific Insular Area authorities.
-  (h) Definitions
-     For purposes of this section–
-    (1) The term ””provisions of this chapter““ includes (A) any regulation or permit issued pursuant to this chapter, and (B) any provision of, or regulation issued pursuant to, any international fishery agreement under which foreign fishing is authorized by section 1821(b) or (c) of this title, or section 1824(d) of this title, with respect to fishing subject to the exclusive fishery management authority of the United States.
-    (2) The term ””violation of any provision of this chapter““ includes (A) the commission of any act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
+  (h) Joint enforcement agreements
+    (1) In general
+       The Governor of an eligible State may apply to the Secretary for execution of a joint enforcement agreement with the Secretary that will authorize the deputization and funding of State law enforcement officers with marine law enforcement responsibilities to perform duties of the Secretary relating to law enforcement provisions under this subchapter or any other marine resource law enforced by the Secretary. Upon receiving an application meeting the requirements of this subsection, the Secretary may enter into a joint enforcement agreement with the requesting State.
+    (2) Eligible State
+       A State is eligible to participate in the cooperative enforcement agreements under this section if it is in, or bordering on, the Atlantic Ocean (including the Caribbean Sea), the Pacific Ocean, the Arctic Ocean, the Gulf of Mexico, Long Island Sound, or 1 or more of the Great Lakes.
+    (3) Requirements
+       Joint enforcement agreements executed under paragraph (1)–
+      (A) shall be consistent with the purposes and intent of this section to the extent applicable to the regulated activities;
+      (B) may include specifications for joint management responsibilities as provided by section 1525 of title 15; and
+      (C) shall provide for confidentiality of data and information submitted to the State under section 1881a of this title.
+    (4) Allocation of funds
+       The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+      (i) Improved data sharing
+        (1) In general
+           Notwithstanding any other provision of this chapter, as soon as practicable but no later than 21 months after January 12, 2007, the Secretary shall implement data-sharing measures to make any data required to be provided by this chapter from satellite-based maritime distress and safety systems, vessel monitoring systems, or similar systems–
+          (A) directly accessible by State enforcement officers authorized under subsection (a) of this section; and
+          (B) available to a State management agency involved in, or affected by, management of a fishery if the State has entered into an agreement with the Secretary under section 1881a(b)(1)(B) of this title.
+        (2) Agreement required
+           The Secretary shall promptly enter into an agreement with a State under section 1881a(b)(1)(B) of this title if–
+          (A) the Attorney General or highest ranking legal officer of the State provides a written opinion or certification that State law allows the State to maintain the confidentiality of information required by Federal law to be kept confidential; or
+          (B) the Secretary is provided other reasonable assurance that the State can and will protect the identity or business of any person to which such information relates.
+      (j) Definitions
+         For purposes of this section–
+        (1) The term ””provisions of this chapter““ includes (A) any regulation or permit issued pursuant to this chapter, and (B) any provision of, or regulation issued pursuant to, any international fishery agreement under which foreign fishing is authorized by section 1821(b) or (c) of this title, or section 1824(d) of this title, with respect to fishing subject to the exclusive fishery management authority of the United States.
+        (2) The term ””violation of any provision of this chapter““ includes (A) the commission of any act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).

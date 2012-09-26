@@ -1,11 +1,20 @@
-  (a) Determinations
-     Neither the Attorney General nor the Commission may conduct an investigation under section 6202 of this title, apply for an order under section 6203 of this title, or provide antitrust evidence to a foreign antitrust authority under an antitrust mutual assistance agreement, unless the Attorney General or the Commission, as the case may be, determines in the particular instance in which the investigation, application, or antitrust evidence is requested that–
-    (1) the foreign antitrust authority–
-      (A) will satisfy the assurances, terms, and conditions described in subparagraphs (A), (B), and (E) of section 6211(2) of this title, and
-      (B) is capable of complying with and will comply with the confidentiality requirements applicable under such agreement to the requested antitrust evidence,
-    (2) providing the requested antitrust evidence will not violate section 6204 of this title, and
-    (3) conducting such investigation, applying for such order, or providing the requested antitrust evidence, as the case may be, is consistent with the public interest of the United States, taking into consideration, among other factors, whether the foreign state or regional economic integration organization represented by the foreign antitrust authority holds any proprietary interest that could benefit or otherwise be affected by such investigation, by the granting of such order, or by the provision of such antitrust evidence.
-  (b) Limitation on disclosure of certain antitrust evidence
-     Neither the Attorney General nor the Commission may disclose in violation of an antitrust mutual assistance agreement any antitrust evidence received under such agreement, except that such agreement may not prevent the disclosure of such antitrust evidence to a defendant in an action or proceeding brought by the Attorney General or the Commission for a violation of any of the Federal laws if such disclosure would otherwise be required by Federal law.
-  (c) Required disclosure of notice received
-     If the Attorney General or the Commission receives a notice described in section 6211(2)(H) of this title, the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
+  (a) In general
+     The Secretary shall adjust the cabin user fee annually, using a rolling 5-year average of a published price index in accordance with subsection (b) or (c) of this section that reports changes in rural or similar land values in the State, county, or market area in which the lot is located.
+  (b) Initial index
+    (1) In general
+       For the period of 10 years beginning on October 11, 2000, the Secretary shall use changes in agricultural land prices in the appropriate State or county, as reported in the Index of Agricultural Land Prices published by the Department of Agriculture, to determine the annual adjustment to the cabin user fee in accordance with subsections (a) and (d) of this section.
+    (2) Statewide changes
+       In determining the annual adjustment to the cabin user fee for an authorization located in a county in which agricultural land prices are influenced by the criteria described in section 6205(b)(2) of this title, the Secretary shall use average statewide changes in the State in which the lot is located.
+  (c) New index
+    (1) In general
+       Not later than 10 years after October 11, 2000, the Secretary may select and use an index other than the method of adjustment of a cabin user fee described in subsection (b)(2) of this section to adjust a cabin user fee if the Secretary determines that a different index better reflects change in the value of a lot over time.
+    (2) Selection process
+       Before selecting a new index, the Secretary shall–
+      (A) solicit and consider comments from the public; and
+      (B) not later than 60 days before the date on which the Secretary makes a final index selection, submit any proposed selection of a new index to–
+        (i) the Committee on Resources of the House of Representatives; and
+        (ii) the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+  (d) Limitation
+     In calculating an annual adjustment to the base cabin user fee as determined by the initial index described in section \1\N (b) of this section, the Secretary shall–
+    (1) limit any annual fee adjustment to an amount that is not more than 5 percent per year when the change in agricultural land values exceeds 5 percent in any 1 year; and
+    (2) apply the amount of any adjustment that exceeds 5 percent to the annual fee payment for the next year in which the change in the index factor is less than 5 percent.

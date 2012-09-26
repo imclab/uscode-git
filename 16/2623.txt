@@ -1,16 +1,19 @@
-  (a) In general
-     The Administrator shall evaluate on a continuing basis the potential effects on employment (including reductions in employment or loss of employment from threatened plant closures) of–
-    (1) the issuance of a rule or order under section 2603, 2604, or 2605 of this title, or
-    (2) a requirement of section 2604 or 2605 of this title.
-  (b) Investigations
-    (1) Any employee (or any representative of an employee) may request the Administrator to make an investigation of–
-      (A) a discharge or layoff or threatened discharge or layoff of the employee, or
-      (B) adverse or threatened adverse effects on the employee“s employment,
-         allegedly resulting from a rule or order under section 2603, 2604, or 2605 of this title or a requirement of section 2604 or 2605 of this title. Any such request shall be made in writing, shall set forth with reasonable particularity the grounds for the request, and shall be signed by the employee, or representative of such employee, making the request.
-    (2)      (A) Upon receipt of a request made in accordance with paragraph (1) the Administrator shall (i) conduct the investigation requested, and (ii) if requested by any interested person, hold public hearings on any matter involved in the investigation unless the Administrator, by order issued within 45 days of the date such hearings are requested, denies the request for the hearings because the Administrator determines there are no reasonable grounds for holding such hearings. If the Administrator makes such a determination, the Administrator shall notify in writing the person requesting the hearing of the determination and the reasons therefor and shall publish the determination and the reasons therefor in the Federal Register.
-      (B) If public hearings are to be held on any matter involved in an investigation conducted under this subsection–
-        (i) at least five days“ notice shall be provided the person making the request for the investigation and any person identified in such request,
-        (ii) such hearings shall be held in accordance with section 2605(c)(3) of this title, and
-        (iii) each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
-    (3) Upon completion of an investigation under paragraph (2), the Administrator shall make findings of fact, shall make such recommendations as the Administrator deems appropriate, and shall make available to the public such findings and recommendations.
-    (4) This section shall not be construed to require the Administrator to amend or repeal any rule or order in effect under this chapter.
+  (a) Adoption of standards
+     Not later than two years after November 9, 1978, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) of this section and, on the basis of such hearing, shall–
+    (1) adopt the standards established by subsection (b) of this section (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
+    (2) adopt the standard established by subsection (b)(4) of this section if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
+       For purposes of any determination under paragraphs (1) or (2) and any review of such determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any such standard, pursuant to its authority under otherwise applicable State law.
+  (b) Establishment
+     The following Federal standards are hereby established:
+    (1) Master metering
+       To the extent determined appropriate under section 2625(d) of this title, master metering of electric service in the case of new buildings shall be prohibited or restricted to the extent necessary to carry out the purposes of this chapter.
+    (2) Automatic adjustment clauses
+       No electric utility may increase any rate pursuant to an automatic adjustment clause unless such clause meets the requirements of section 2625(e) of this title.
+    (3) Information to consumers
+       Each electric utility shall transmit to each of its electric consumers information regarding rate schedules in accordance with the requirements of section 2625(f) of this title.
+    (4) Procedures for termination of electric service
+       No electric utility may terminate electric service to any electric consumer except pursuant to procedures described in section 2625(g) of this title.
+    (5) Advertising
+       No electric utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 2625(h) of this title.
+  (c) Procedural requirements
+     Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a) of this section, shall (1) adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.

@@ -25,9 +25,9 @@
       (B) the Secretary may promulgate emergency regulations or interim measures under paragraph (1) to address the emergency or overfishing if the Council, by less than a unanimous vote, requests the taking of such action.
     (3) Any emergency regulation or interim measure which changes any existing fishery management plan or amendment shall be treated as an amendment to such plan for the period in which such regulation is in effect. Any emergency regulation or interim measure promulgated under this subsection–
       (A) shall be published in the Federal Register together with the reasons therefor;
-      (B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 180 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, the Council is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
+      (B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 186 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, the Council is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
       (C) that responds to a public health emergency or an oil spill may remain in effect until the circumstances that created the emergency no longer exist, T3ProvidedK, That the public has an opportunity to comment after the regulation is published, and, in the case of a public health emergency, the Secretary of Health and Human Services concurs with the Secretary“s action; and
-      (D) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, except for emergency regulations promulgated under paragraph (2) in which case such early termination may be made only upon the agreement of the Secretary and the Council concerned.
+      (D) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, except for emergency regulations or interim measures promulgated under paragraph (2) in which case such early termination may be made only upon the agreement of the Secretary and the Council concerned.
   (d) Responsibility of Secretary
      The Secretary shall have general responsibility to carry out any fishery management plan or amendment approved or prepared by him, in accordance with the provisions of this chapter. The Secretary may promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to discharge such responsibility or to carry out any other provision of this chapter.
   (e) Effect of certain laws on certain time requirements
@@ -46,7 +46,7 @@
     (2) If a negotiation panel submits a report, such report shall specify all the areas where consensus was reached by the panel, including, if appropriate, proposed conservation and management measures, as well as any other information submitted by members of the negotiation panel. Upon receipt, the Secretary shall publish such report in the Federal Register for public comment.
     (3) Nothing in this subsection shall be construed to require either a Council or the Secretary, whichever is appropriate, to use all or any portion of a report from a negotiation panel established under this subsection in the development of specific conservation and management measures for the fishery for which the panel was established.
   (h) Central registry system for limited access system permits
-    (1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including individual fishing quotas, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related matters deemed appropriate by the Secretary. Such registry system shall–
+    (1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including limited access privileges, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related matters deemed appropriate by the Secretary. Such registry system shall–
       (A) provide a mechanism for filing notice of a nonjudicial foreclosure or enforcement of a judgment by which the holder of a senior security interest acquires or conveys ownership of a permit, and in the event of a nonjudicial foreclosure, by which the interests of the holders of junior security interests are released when the permit is transferred;
       (B) provide for public access to the information filed under such system, notwithstanding section 1881a(b) of this title; and
       (C) provide such notice and other requirements of applicable law that the Secretary deems necessary for an effective registry system.
@@ -58,29 +58,96 @@
         (i) administering the central registry system; and
         (ii) administering and implementing this chapter in the fishery in which the fees were collected. Sums in the Fund that are not currently needed for these purposes shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
           (i) Alaska and western Pacific community development programs
-            (1)              (A) The North Pacific Council and the Secretary shall establish a western Alaska community development quota program under which a percentage of the total allowable catch of any Bering Sea fishery is allocated to the program.
-              (B) To be eligible to participate in the western Alaska community development quota program under subparagraph (A) a community shall–
-                (i) be located within 50 nautical miles from the baseline from which the breadth of the territorial sea is measured along the Bering Sea coast from the Bering Strait to the western most of the Aleutian Islands, or on an island within the Bering Sea;
-                (ii) not be located on the Gulf of Alaska coast of the north Pacific Ocean;
-                (iii) meet criteria developed by the Governor of Alaska, approved by the Secretary, and published in the Federal Register;
-                (iv) be certified by the Secretary of the Interior pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) to be a Native village;
-                (v) consist of residents who conduct more than one-half of their current commercial or subsistence fishing effort in the waters of the Bering Sea or waters surrounding the Aleutian Islands; and
-                (vi) not have previously developed harvesting or processing capability sufficient to support substantial participation in the groundfish fisheries in the Bering Sea, unless the community can show that the benefits from an approved Community Development Plan would be the only way for the community to realize a return from previous investments.
-              (C)                (i) Prior to October 1, 2001, the North Pacific Council may not submit to the Secretary any fishery management plan, plan amendment, or regulation that allocates to the western Alaska community development quota program a percentage of the total allowable catch of any Bering Sea fishery for which, prior to October 1, 1995, the Council had not approved a percentage of the total allowable catch for allocation to such community development quota program. The expiration of any plan, amendment, or regulation that meets the requirements of clause (ii) prior to October 1, 2001, shall not be construed to prohibit the Council from submitting a revision or extension of such plan, amendment, or regulation to the Secretary if such revision or extension complies with the other requirements of this paragraph.
-                (ii) With respect to a fishery management plan, plan amendment, or regulation for a Bering Sea fishery that–
-                  (I) allocates to the western Alaska community development quota program a percentage of the total allowable catch of such fishery; and
-                  (II) was approved by the North Pacific Council prior to October 1, 1995;
-                     the Secretary shall, except as provided in clause (iii) and after approval of such plan, amendment, or regulation under section 1854 of this title, allocate to the program the percentage of the total allowable catch described in such plan, amendment, or regulation. Prior to October 1, 2001, the percentage submitted by the Council and approved by the Secretary for any such plan, amendment, or regulation shall be no greater than the percentage approved by the Council for such fishery prior to October 1, 1995.
-                (iii) The Secretary shall phase in the percentage for community development quotas approved in 1995 by the North Pacific Council for the Bering Sea crab fisheries as follows:
-                  (I) 3.5 percent of the total allowable catch of each such fishery for 1998 shall be allocated to the western Alaska community development quota program;
-                  (II) 5 percent of the total allowable catch of each such fishery for 1999 shall be allocated to the western Alaska community development quota program; and
-                  (III) 7.5 percent of the total allowable catch of each such fishery for 2000 and thereafter shall be allocated to the western Alaska community development quota program, unless the North Pacific Council submits and the Secretary approves a percentage that is no greater than 7.5 percent of the total allowable catch of each such fishery for 2001 or the North Pacific Council submits and the Secretary approves any other percentage on or after October 1, 2001.
-              (D) This paragraph shall not be construed to require the North Pacific Council to resubmit, or the Secretary to reapprove, any fishery management plan or plan amendment approved by the North Pacific Council prior to October 1, 1995, that includes a community development quota program, or any regulations to implement such plan or amendment.
+            (1) Western Alaska community development quota program
+              (A) In general
+                 There is established the western Alaska community development quota program in order–
+                (i) to provide eligible western Alaska villages with the opportunity to participate and invest in fisheries in the Bering Sea and Aleutian Islands Management Area;
+                (ii) to support economic development in western Alaska;
+                (iii) to alleviate poverty and provide economic and social benefits for residents of western Alaska; and
+                (iv) to achieve sustainable and diversified local economies in western Alaska.
+              (B) Program allocation
+                (i) In general
+                   Except as provided in clause (ii), the annual percentage of the total allowable catch, guideline harvest level, or other annual catch limit allocated to the program in each directed fishery of the Bering Sea and Aleutian Islands shall be the percentage approved by the Secretary, or established by Federal law, as of March 1, 2006, for the program. The percentage for each fishery shall be either a directed fishing allowance or include both directed fishing and nontarget needs based on existing practice with respect to the program as of March 1, 2006, for each fishery.
+                (ii) Exceptions
+                   Notwithstanding clause (i)–
+                  (I) the allocation under the program for each directed fishery of the Bering Sea and Aleutian Islands (other than a fishery for halibut, sablefish, pollock, and crab) shall be a total allocation (directed and nontarget combined) of 10.7 percent effective January 1, 2008; and
+                  (II) the allocation under the program in any directed fishery of the Bering Sea and Aleutian Islands (other than a fishery for halibut, sablefish, pollock, and crab) established after July 11, 2006, shall be a total allocation (directed and nontarget combined) of 10.7 percent.
+                      The total allocation (directed and nontarget combined) for a fishery to which subclause (I) or (II) applies may not be exceeded.
+                (iii) Processing and other rights
+                   Allocations to the program include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006.
+                (iv) Regulation of harvest
+                   The harvest of allocations under the program for fisheries with individual quotas or fishing cooperatives shall be regulated by the Secretary in a manner no more restrictive than for other participants in the applicable sector, including with respect to the harvest of nontarget species.
+              (C) Allocations to entities
+                 Each entity eligible to participate in the program shall be authorized under the program to harvest annually the same percentage of each species allocated to the program under subparagraph (B) that it was authorized by the Secretary to harvest of such species annually as of March 1, 2006, except to the extent that its allocation is adjusted under subparagraph (H). Such allocation shall include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006. Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.
+              (D) Eligible villages
+                 The following villages shall be eligible to participate in the program through the following entities:
+                (i) The villages of Akutan, Atka, False Pass, Nelson Lagoon, Nikolski, and Saint George through the Aleutian Pribilof Island Community Development Association.
+                (ii) The villages of Aleknagik, Clark“s Point, Dillingham, Egegik, Ekuk, Ekwok, King Salmon/Savonoski, Levelock, Manokotak, Naknek, Pilot Point, Port Heiden, Portage Creek, South Naknek, Togiak, Twin Hills, and Ugashik through the Bristol Bay Economic Development Corporation.
+                (iii) The village of Saint Paul through the Central Bering Sea Fishermen“s Association.
+                (iv) The villages of Chefornak, Chevak, Eek, Goodnews Bay, Hooper Bay, Kipnuk, Kongiganak, Kwigillingok, Mekoryuk, Napakiak, Napaskiak, Newtok, Nightmute, Oscarville, Platinum, Quinhagak, Scammon Bay, Toksook Bay, Tuntutuliak, and Tununak through the Coastal Villages Region Fund.
+                (v) The villages of Brevig Mission, Diomede, Elim, Gambell, Golovin, Koyuk, Nome, Saint Michael, Savoonga, Shaktoolik, Stebbins, Teller, Unalakleet, Wales, and White Mountain through the Norton Sound Economic Development Corporation.
+                (vi) The villages of Alakanuk, Emmonak, Grayling, Kotlik, Mountain Village, and Nunam Iqua through the Yukon Delta Fisheries Development Association.
+              (E) Eligibility requirements for participating entities
+                 To be eligible to participate in the program, an entity referred to in subparagraph (D) shall meet the following requirements:
+                (i) Board of directors
+                   The entity shall be governed by a board of directors. At least 75 percent of the members of the board shall be resident fishermen from the entity“s member villages. The board shall include at least one director selected by each such member village.
+                (ii) Panel representative
+                   The entity shall elect a representative to serve on the panel established by subparagraph (G).
+                (iii) Other investments
+                   The entity may make up to 20 percent of its annual investments in any combination of the following:
+                  (I) For projects that are not fishery-related and that are located in its region.
+                  (II) On a pooled or joint investment basis with one or more other entities participating in the program for projects that are not fishery-related and that are located in one or more of their regions.
+                  (III) For matching Federal or State grants for projects or programs in its member villages without regard to any limitation on the Federal or State share, or restriction on the source of any non-Federal or non-State matching funds, of any grant program under any other provision of law.
+                (iv) Fishery-related investments
+                   The entity shall make the remainder percent of its annual investments in fisheries-related projects or for other purposes consistent with the practices of the entity prior to March 1, 2006.
+                (v) Annual statement of compliance
+                   Each year the entity, following approval by its board of directors and signed by its chief executive officer, shall submit a written statement to the Secretary and the State of Alaska that summarizes the purposes for which it made investments under clauses (iii) and (iv) during the preceding year.
+                (vi) Other panel requirements
+                   The entity shall comply with any other requirements established by the panel under subparagraph (G).
+              (F) Entity status, limitations, and regulation
+                 The entity–
+                (i) shall be subject to any excessive share ownership, harvesting, or processing limitations in the fisheries of the Bering Sea and Aleutian Islands Management Area only to the extent of the entity“s proportional ownership, excluding any program allocations, and notwithstanding any other provision of law;
+                (ii) shall comply with State of Alaska law requiring annual reports to the entity“s member villages summarizing financial operations for the previous calendar year, including general and administrative costs and compensation levels of the top 5 highest paid personnel;
+                (iii) shall comply with State of Alaska laws to prevent fraud that are administered by the Alaska Division of Banking and Securities, except that the entity and the State shall keep confidential from public disclosure any information if the disclosure would be harmful to the entity or its investments; and
+                (iv) is exempt from compliance with any State law requiring approval of financial transactions, community development plans, or amendments thereto, except as required by subparagraph (H).
+              (G) Administrative panel
+                (i) Establishment
+                   There is established a community development quota program panel.
+                (ii) Membership
+                   The panel shall consist of 6 members. Each entity participating in the program shall select one member of the panel.
+                (iii) Functions
+                   The panel shall–
+                  (I) administer those aspects of the program not otherwise addressed in this paragraph, either through private contractual arrangement or through recommendations to the North Pacific Council, the Secretary, or the State of Alaska, as the case may be; and
+                  (II) coordinate and facilitate activities of the entities under the program.
+                (iv) Unanimity required
+                   The panel may act only by unanimous vote of all 6 members of the panel and may not act if there is a vacancy in the membership of the panel.
+              (H) Decennial review and adjustment of entity allocations
+                (i) In general
+                   During calendar year 2012 and every 10 years thereafter, the State of Alaska shall evaluate the performance of each entity participating in the program based on the criteria described in clause (ii).
+                (ii) Criteria
+                   The panel shall establish a system to be applied under this subparagraph that allows each entity participating in the program to assign relative values to the following criteria to reflect the particular needs of its villages:
+                  (I) Changes during the preceding 10-year period in population, poverty level, and economic development in the entity“s member villages.
+                  (II) The overall financial performance of the entity, including fishery and nonfishery investments by the entity.
+                  (III) Employment, scholarships, and training supported by the entity.
+                  (IV) Achieving of the goals of the entity“s community development plan.
+                (iii) Adjustment of allocations
+                   After the evaluation required by clause (i), the State of Alaska shall make a determination, on the record and after an opportunity for a hearing, with respect to the performance of each entity participating in the program for the criteria described in clause (ii). If the State determines that the entity has maintained or improved its overall performance with respect to the criteria, the allocation to such entity under the program shall be extended by the State for the next 10-year period. If the State determines that the entity has not maintained or improved its overall performance with respect to the criteria–
+                  (I) at least 90 percent of the entity“s allocation for each species under subparagraph (C) shall be extended by the State for the next 10-year period; and
+                  (II) the State may determine, or the Secretary may determine (if State law prevents the State from making the determination), and implement an appropriate reduction of up to 10 percent of the entity“s allocation for each species under subparagraph (C) for all or part of such 10-year period.
+                (iv) Reallocation of reduced amount
+                   If the State or the Secretary reduces an entity“s allocation under clause (iii), the reduction shall be reallocated among other entities participating in the program whose allocations are not reduced during the same period in proportion to each such entity“s allocation of the applicable species under subparagraph (C).
+                  (I) Secretarial approval not required
+                     Notwithstanding any other provision of law or regulation thereunder, the approval by the Secretary of a community development plan, or an amendment thereof, under the program is not required.
+                  (J) Community development plan defined
+                     In this paragraph, the term ””community development plan““ means a plan, prepared by an entity referred to in subparagraph (D), for the program that describes how the entity intends–
+                    (i) to harvest its share of fishery resources allocated to the program, or
+                    (ii) to use its share of fishery resources allocated to the program, and any revenue derived from such use, to assist its member villages with projects to advance economic development,
+                     but does not include a plan that allocates fishery resources to the program.
             (2)              (A) The Western Pacific Council and the Secretary may establish a western Pacific community development program for any fishery under the authority of such Council in order to provide access to such fishery for western Pacific communities that participate in the program.
               (B) To be eligible to participate in the western Pacific community development program, a community shall–
                 (i) be located within the Western Pacific Regional Fishery Management Area;
                 (ii) meet criteria developed by the Western Pacific Council, approved by the Secretary and published in the Federal Register;
-                (iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishing practices in the waters of the Western \2\N Pacific region;
+                (iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishing practices in the waters of the Western Pacific region;
                 (iv) not have previously developed harvesting or processing capability sufficient to support substantial participation in fisheries in the Western Pacific Regional Fishery Management Area; and
                 (v) develop and submit a Community Development Plan to the Western Pacific Council and the Secretary.
               (C) In developing the criteria for eligible communities under subparagraph (B)(ii), the Western Pacific Council shall base such criteria on traditional fishing practices in or dependence on the fishery, the cultural and social framework relevant to the fishery, and economic barriers to access to the fishery.
@@ -88,3 +155,21 @@
               (E) Notwithstanding any other provision of this chapter, the Western Pacific Council shall take into account traditional indigenous fishing practices in preparing any fishery management plan.
             (3) The Secretary shall deduct from any fees collected from a community development quota program under section 1854(d)(2) of this title the costs incurred by participants in the program for observer and reporting requirements which are in addition to observer and reporting requirements of other participants in the fishery in which the allocation to such program has been made.
             (4) After October 11, 1996, the North Pacific Council and Western Pacific Council may not submit to the Secretary a community development quota program that is not in compliance with this subsection.
+          (j) Western Pacific and Northern Pacific regional marine education and training
+            (1) In general
+               The Secretary shall establish a pilot program for regionally-based marine education and training programs in the Western Pacific and the Northern Pacific to foster understanding, practical use of knowledge (including native Hawaiian, Alaskan Native, and other Pacific Islander-based knowledge), and technical expertise relevant to stewardship of living marine resources. The Secretary shall, in cooperation with the Western Pacific and the North Pacific Regional Fishery Management Councils, regional educational institutions, and local Western Pacific and Northern Pacific community training entities, establish programs or projects that will improve communication, education, and training on marine resource issues throughout the region and increase scientific education for marine-related professions among coastal community residents, including indigenous Pacific islanders, Native Hawaiians, Alaskan Natives, and other underrepresented groups in the region.
+            (2) Program components
+               The program shall–
+              (A) include marine science and technology education and training programs focused on preparing community residents for employment in marine related professions, including marine resource conservation and management, marine science, marine technology, and maritime operations;
+              (B) include fisheries and seafood-related training programs, including programs for fishery observers, seafood safety and seafood marketing, focused on increasing the involvement of coastal community residents in fishing, fishery management, and seafood-related operations;
+              (C) include outreach programs and materials to educate and inform consumers about the quality and sustainability of wild fish or fish products farmed through responsible aquaculture, particularly in Hawaii, Alaska, the Western Pacific, the Northern Pacific, and the Central Pacific;
+              (D) include programs to identify, with the fishing industry, methods and technologies that will improve the data collection, quality, and reporting and increase the sustainability of fishing practices, and to transfer such methods and technologies among fisheries sectors and to other nations in the Western, Northern, and Central Pacific;
+              (E) develop means by which local and traditional knowledge (including Pacific islander, Native Hawaiian, and Alaskan Native knowledge) can enhance science-based management of fishery resources of the region; and
+              (F) develop partnerships with other Western Pacific Island and Alaskan agencies, academic institutions, and other entities to meet the purposes of this section.
+          (k) Multispecies groundfish
+            (1) In general
+               Within 60 days after January 12, 2007, the Secretary of Commerce shall determine whether fishing in State waters–
+              (A) without a New England multispecies groundfish fishery permit on regulated species within the multispecies complex is not consistent with the applicable Federal fishery management plan; or
+              (B) without a Federal bottomfish and seamount groundfish permit in the Hawaiian archipelago on regulated species within the complex is not consistent with the applicable Federal fishery management plan or State data are not sufficient to make such a determination.
+            (2) Cure
+               If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.

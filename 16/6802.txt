@@ -1,27 +1,96 @@
-  (a) Notice requirements
-     Except as otherwise provided in this subchapter, a financial institution may not, directly or through any affiliate, disclose to a nonaffiliated third party any nonpublic personal information, unless such financial institution provides or has provided to the consumer a notice that complies with section 6803 of this title.
-  (b) Opt out
-    (1) In general
-       A financial institution may not disclose nonpublic personal information to a nonaffiliated third party unless–
-      (A) such financial institution clearly and conspicuously discloses to the consumer, in writing or in electronic form or other form permitted by the regulations prescribed under section 6804 of this title, that such information may be disclosed to such third party;
-      (B) the consumer is given the opportunity, before the time that such information is initially disclosed, to direct that such information not be disclosed to such third party; and
-      (C) the consumer is given an explanation of how the consumer can exercise that nondisclosure option.
-    (2) Exception
-       This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution“s own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of this title, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
-  (c) Limits on reuse of information
-     Except as otherwise provided in this subchapter, a nonaffiliated third party that receives from a financial institution nonpublic personal information under this section shall not, directly or through an affiliate of such receiving third party, disclose such information to any other person that is a nonaffiliated third party of both the financial institution and such receiving third party, unless such disclosure would be lawful if made directly to such other person by the financial institution.
-  (d) Limitations on the sharing of account number information for marketing purposes
-     A financial institution shall not disclose, other than to a consumer reporting agency, an account number or similar form of access number or access code for a credit card account, deposit account, or transaction account of a consumer to any nonaffiliated third party for use in telemarketing, direct mail marketing, or other marketing through electronic mail to the consumer.
-  (e) General exceptions
-     Subsections (a) and (b) of this section shall not prohibit the disclosure of nonpublic personal information–
-    (1) as necessary to effect, administer, or enforce a transaction requested or authorized by the consumer, or in connection with–
-      (A) servicing or processing a financial product or service requested or authorized by the consumer;
-      (B) maintaining or servicing the consumer“s account with the financial institution, or with another entity as part of a private label credit card program or other extension of credit on behalf of such entity; or
-      (C) a proposed or actual securitization, secondary market sale (including sales of servicing rights), or similar transaction related to a transaction of the consumer;
-    (2) with the consent or at the direction of the consumer;
-    (3)      (A) to protect the confidentiality or security of the financial institution“s records pertaining to the consumer, the service or product, or the transaction therein; (B) to protect against or prevent actual or potential fraud, unauthorized transactions, claims, or other liability; (C) for required institutional risk control, or for resolving customer disputes or inquiries; (D) to persons holding a legal or beneficial interest relating to the consumer; or (E) to persons acting in a fiduciary or representative capacity on behalf of the consumer;
-    (4) to provide information to insurance rate advisory organizations, guaranty funds or agencies, applicable rating agencies of the financial institution, persons assessing the institution“s compliance with industry standards, and the institution“s attorneys, accountants, and auditors;
-    (5) to the extent specifically permitted or required under other provisions of law and in accordance with the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.], to law enforcement agencies (including a Federal functional regulator, the Secretary of the Treasury with respect to subchapter II of chapter 53 of title 31, and chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951–1959), a State insurance authority, or the Federal Trade Commission), self-regulatory organizations, or for an investigation on a matter related to public safety;
-    (6)      (A) to a consumer reporting agency in accordance with the Fair Credit Reporting Act [15 U.S.C. 1681 et seq.], or (B) from a consumer report reported by a consumer reporting agency;
-    (7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
-    (8) to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
+  (a) Authority of Secretary
+     Beginning in fiscal year 2005 and thereafter, the Secretary may establish, modify, charge, and collect recreation fees at Federal recreational lands and waters as provided for in this section.
+  (b) Basis for recreation fees
+     Recreation fees shall be established in a manner consistent with the following criteria:
+    (1) The amount of the recreation fee shall be commensurate with the benefits and services provided to the visitor.
+    (2) The Secretary shall consider the aggregate effect of recreation fees on recreation users and recreation service providers.
+    (3) The Secretary shall consider comparable fees charged elsewhere and by other public agencies and by nearby private sector operators.
+    (4) The Secretary shall consider the public policy or management objectives served by the recreation fee.
+    (5) The Secretary shall obtain input from the appropriate Recreation Resource Advisory Committee, as provided in section 6803(d) of this title.
+    (6) The Secretary shall consider such other factors or criteria as determined appropriate by the Secretary.
+  (c) Special considerations
+     The Secretary shall establish the minimum number of recreation fees and shall avoid the collection of multiple or layered recreation fees for similar uses, activities, or programs.
+  (d) Limitations on recreation fees
+    (1) Prohibition on fees for certain activities or services
+       The Secretary shall not charge any standard amenity recreation fee or expanded amenity recreation fee for Federal recreational lands and waters administered by the Bureau of Land Management, the Forest Service, or the Bureau of Reclamation under this chapter for any of the following:
+      (A) Solely for parking, undesignated parking, or picnicking along roads or trailsides.
+      (B) For general access unless specifically authorized under this section.
+      (C) For dispersed areas with low or no investment unless specifically authorized under this section.
+      (D) For persons who are driving through, walking through, boating through, horseback riding through, or hiking through Federal recreational lands and waters without using the facilities and services.
+      (E) For camping at undeveloped sites that do not provide a minimum number of facilities and services as described in subsection (g)(2)(A).
+      (F) For use of overlooks or scenic pullouts.
+      (G) For travel by private, noncommercial vehicle over any national parkway or any road or highway established as a part of the Federal-aid System, as defined in section 101 of title 23, which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
+      (H) For travel by private, noncommercial vehicle, boat, or aircraft over any road or highway, waterway, or airway to any land in which such person has any property right if such land is within any unit or area at which recreation fees are charged under this chapter.
+      (I) For any person who has a right of access for hunting or fishing privileges under a specific provision of law or treaty.
+      (J) For any person who is engaged in the conduct of official Federal, State, Tribal, or local government business.
+      (K) For special attention or extra services necessary to meet the needs of the disabled.
+    (2) Relation to fees for use of highways or roads
+       An entity that pays a special recreation permit fee or similar permit fee shall not be subject to a road cost-sharing fee or a fee for the use of highways or roads that are open to private, noncommercial use within the boundaries of any Federal recreational lands or waters, as authorized under section 537 of this title.
+    (3) Prohibition on fees for certain persons or places
+       The Secretary shall not charge an entrance fee or standard amenity recreation fee for the following:
+      (A) Any person under 16 years of age.
+      (B) Outings conducted for noncommercial educational purposes by schools or bona fide academic institutions.
+      (C) The U.S.S. Arizona Memorial, Independence National Historical Park, any unit of the National Park System within the District of Columbia, or Arlington House-Robert E. Lee National Memorial.
+      (D) The Flight 93 National Memorial.
+      (E) Entrance on other routes into the Great Smoky Mountains National Park or any part thereof unless fees are charged for entrance into that park on main highways and thoroughfares.
+      (F) Entrance on units of the National Park System containing deed restrictions on charging fees.
+      (G) An area or unit covered under section 203 of the Alaska National Interest Lands Conservation Act (Public Law 96–487; 16 U.S.C. 410hh–2), with the exception of Denali National Park and Preserve.
+      (H) A unit of the National Wildlife Refuge System created, expanded, or modified by the Alaska National Interest Lands Conservation Act (Public Law 96–487).
+      (I) Any person who visits a unit or area under the jurisdiction of the United States Fish and Wildlife Service and who has been issued a valid migratory bird hunting and conservation stamp issued under section 718b of this title.
+      (J) Any person engaged in a nonrecreational activity authorized under a valid permit issued under any other Act, including a valid grazing permit.
+    (4) No restriction on recreation opportunities
+       Nothing in this chapter shall limit the use of recreation opportunities only to areas designated for collection of recreation fees.
+  (e) Entrance fee
+    (1) Authorized sites for entrance fees
+       The Secretary of the Interior may charge an entrance fee for a unit of the National Park System, including a national monument administered by the National Park Service, or for a unit of the National Wildlife Refuge System.
+    (2) Prohibited sites
+       The Secretary shall not charge an entrance fee for Federal recreational lands and waters managed by the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service.
+  (f) Standard amenity recreation fee
+     Except as limited by subsection (d), the Secretary may charge a standard amenity recreation fee for Federal recreational lands and waters under the jurisdiction of the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service, but only at the following:
+    (1) A National Conservation Area.
+    (2) A National Volcanic Monument.
+    (3) A destination visitor or interpretive center that provides a broad range of interpretive services, programs, and media.
+    (4) An area–
+      (A) that provides significant opportunities for outdoor recreation;
+      (B) that has substantial Federal investments;
+      (C) where fees can be efficiently collected; and
+      (D) that contains all of the following amenities:
+        (i) Designated developed parking.
+        (ii) A permanent toilet facility.
+        (iii) A permanent trash receptacle.
+        (iv) Interpretive sign, exhibit, or kiosk.
+        (v) Picnic tables.
+        (vi) Security services.
+  (g) Expanded amenity recreation fee
+    (1) NPS and USFWS authority
+       Except as limited by subsection (d), the Secretary of the Interior may charge an expanded amenity recreation fee, either in addition to an entrance fee or by itself, at Federal recreational lands and waters under the jurisdiction of the National Park Service or the United States Fish and Wildlife Service when the Secretary of the Interior determines that the visitor uses a specific or specialized facility, equipment, or service.
+    (2) Other Federal land management agencies
+       Except as limited by subsection (d), the Secretary may charge an expanded amenity recreation fee, either in addition to a standard amenity fee or by itself, at Federal recreational lands and waters under the jurisdiction of the Forest Service, the Bureau of Land Management, or the Bureau of Reclamation, but only for the following facilities or services:
+      (A) Use of developed campgrounds that provide at least a majority of the following:
+        (i) Tent or trailer spaces.
+        (ii) Picnic tables.
+        (iii) Drinking water.
+        (iv) Access roads.
+        (v) The collection of the fee by an employee or agent of the Federal land management agency.
+        (vi) Reasonable visitor protection.
+        (vii) Refuse containers.
+        (viii) Toilet facilities.
+        (ix) Simple devices for containing a campfire.
+      (B) Use of highly developed boat launches with specialized facilities or services such as mechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
+      (C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-use or overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
+      (D) Use of hookups for electricity, cable, or sewer.
+      (E) Use of sanitary dump stations.
+      (F) Participation in an enhanced interpretive program or special tour.
+      (G) Use of reservation services.
+      (H) Use of transportation services.
+      (I) Use of areas where emergency medical or first-aid services are administered from facilities staffed by public employees or employees under a contract or reciprocal agreement with the Federal Government.
+      (J) Use of developed swimming sites that provide at least a majority of the following:
+        (i) Bathhouse with showers and flush toilets.
+        (ii) Refuse containers.
+        (iii) Picnic areas.
+        (iv) Paved parking.
+        (v) Attendants, including lifeguards.
+        (vi) Floats encompassing the swimming area.
+        (vii) Swimming deck.
+  (h) Special recreation permit fee
+     The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.

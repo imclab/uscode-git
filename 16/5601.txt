@@ -1,17 +1,46 @@
-   The Congress finds and declares the following:
-  (1) The continuous collection and utilization of land remote sensing data from space are of major benefit in studying and understanding human impacts on the global environment, in managing the Earth“s natural resources, in carrying out national security functions, and in planning and conducting many other activities of scientific, economic, and social importance.
-  (2) The Federal Government“s Landsat system established the United States as the world leader in land remote sensing technology.
-  (3) The national interest of the United States lies in maintaining international leadership in satellite land remote sensing and in broadly promoting the beneficial use of remote sensing data.
-  (4) The cost of Landsat data has impeded the use of such data for scientific purposes, such as for global environmental change research, as well as for other public sector applications.
-  (5) Given the importance of the Landsat program to the United States, urgent actions, including expedited procurement procedures, are required to ensure data continuity.
-  (6) Full commercialization of the Landsat program cannot be achieved within the foreseeable future, and thus should not serve as the near-term goal of national policy on land remote sensing; however, commercialization of land remote sensing should remain a long-term goal of United States policy.
-  (7) Despite the success and importance of the Landsat system, funding and organizational uncertainties over the past several years have placed its future in doubt and have jeopardized United States leadership in land remote sensing.
-  (8) Recognizing the importance of the Landsat program in helping to meet national and commercial objectives, the President approved, on February 11, 1992, a National Space Policy Directive which was developed by the National Space Council and commits the United States to ensuring the continuity of Landsat coverage into the 21st century.
-  (9) Because Landsat data are particularly important for national security purposes and global environmental change research, management responsibilities for the program should be transferred from the Department of Commerce to an integrated program management involving the Department of Defense and the National Aeronautics and Space Administration.
-  (10) Regardless of management responsibilities for the Landsat program, the Nation“s broad civilian, national security, commercial, and foreign policy interests in remote sensing will best be served by ensuring that Landsat remains an unclassified program that operates according to the principles of open skies and nondiscriminatory access.
-  (11) Technological advances aimed at reducing the size and weight of satellite systems hold the potential for dramatic reductions in the cost, and substantial improvements in the capabilities, of future land remote sensing systems, but such technological advances have not been demonstrated for land remote sensing and therefore cannot be relied upon as the sole means of achieving data continuity for the Landsat program.
-  (12) A technology demonstration program involving advanced remote sensing technologies could serve a vital role in determining the design of a follow-on spacecraft to Landsat 7, while also helping to determine whether such a spacecraft should be funded by the United States Government, by the private sector, or by an international consortium.
-  (13) To maximize the value of the Landsat program to the American public, unenhanced Landsat 4 through 6 data should be made available, at a minimum, to United States Government agencies, to global environmental change researchers, and to other researchers who are financially supported by the United States Government, at the cost of fulfilling user requests, and unenhanced Landsat 7 data should be made available to all users at the cost of fulfilling user requests.
-  (14) To stimulate development of the commercial market for unenhanced data and value-added services, the United States Government should adopt a data policy for Landsat 7 which allows competition within the private sector for distribution of unenhanced data and value-added services.
-  (15) Development of the remote sensing market and the provision of commercial value-added services based on remote sensing data should remain exclusively the function of the private sector.
-  (16) It is in the best interest of the United States to maintain a permanent, comprehensive Government archive of global Landsat and other land remote sensing data for long-term monitoring and study of the changing global environment.
+  (a) Commissioners
+    (1) Appointments, generally
+       The Secretary shall appoint not more than 3 individuals to serve as the representatives of the United States on the General Council and the Fisheries Commission, who shall each–
+      (A) be known as a ””United States Commissioner to the Northwest Atlantic Fisheries Organization““; and
+      (B) serve at the pleasure of the Secretary.
+    (2) Requirements for appointments
+      (A) The Secretary shall ensure that of the individuals serving as Commissioners–
+        (i) at least 1 is appointed from among representatives of the commercial fishing industry;
+        (ii) 1 (but no more than 1) is an official of the Government; and
+        (iii) 1, other than the individual appointed under clause (ii), is a voting member of the New England Fishery Management Council.
+      (B) The Secretary may not appoint as a Commissioner an individual unless the individual is knowledgeable and experienced concerning the fishery resources to which the Convention applies.
+    (3) Terms
+      (A) The term of an individual appointed as a Commissioner–
+        (i) shall be specified by the Secretary at the time of appointment; and
+        (ii) may not exceed 4 years.
+      (B) An individual who is not a Government official may not serve more than 2 consecutive terms as a Commissioner.
+  (b) Alternate Commissioners
+    (1) Appointment
+       The Secretary may, for any anticipated absence of a duly appointed Commissioner at a meeting of the General Council or the Fisheries Commission, designate an individual to serve as an Alternate Commissioner.
+    (2) Functions
+       An Alternate Commissioner may exercise all powers and perform all duties of the Commissioner for whom the Alternate Commissioner is designated, at any meeting of the General Council or the Fisheries Commission for which the Alternate Commissioner is designated.
+  (c) Representatives
+    (1) Appointment
+       The Secretary shall appoint not more than 3 individuals to serve as the representatives of the United States on the Scientific Council, who shall each be known as a ””United States Representative to the Northwest Atlantic Fisheries Organization Scientific Council““.
+    (2) Eligibility for appointment
+      (A) The Secretary may not appoint an individual as a Representative unless the individual is knowledgeable and experienced concerning the scientific issues dealt with by the Scientific Council.
+      (B) The Secretary shall appoint as a Representative at least 1 individual who is an official of the Government.
+    (3) Term
+       An individual appointed as a Representative–
+      (A) shall serve for a term of not to exceed 4 years, as specified by the Secretary at the time of appointment;
+      (B) may be reappointed; and
+      (C) shall serve at the pleasure of the Secretary.
+  (d) Alternate Representatives
+    (1) Appointment
+       The Secretary may, for any anticipated absence of a duly appointed Representative at a meeting of the Scientific Council, designate an individual to serve as an Alternate Representative.
+    (2) Functions
+       An Alternate Representative may exercise all powers and perform all duties of the Representative for whom the Alternate Representative is designated, at any meeting of the Scientific Council for which the Alternate Representative is designated.
+  (e) Experts and advisers
+     The Commissioners, Alternate Commissioners, Representatives, and Alternate Representatives may be accompanied at meetings of the Organization by experts and advisers.
+  (f) Coordination and consultation
+    (1) In general
+       In carrying out their functions under the Convention, Commissioners, Alternate Commissioners, Representatives, and Alternate Representatives shall–
+      (A) coordinate with the appropriate Regional Fishery Management Councils established by section 1852 of this title; and
+      (B) consult with the committee established under section 5607 of this title.
+    (2) Relationship to other law
+       The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to coordination and consultations under this subsection.

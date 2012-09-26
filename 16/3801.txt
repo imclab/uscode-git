@@ -1,14 +1,48 @@
-  (a) The Congress finds and declares that–
-    (1) gasoline and diesel fuel for vehicular use are in short supply and constitute a sizable portion of domestic petroleum consumption;
-    (2) methane use in fleet-operated vehicles would result in substantial reduction in oil imports;
-    (3) methane is in more abundant domestic supply than petroleum products, is the primary component of natural gas and can be derived in increased quantities from coal, biomass, waste products, and other renewable resources;
-    (4) recoverable methane presently available in the United States is not fully utilized;
-    (5) test results to date indicate that methane use as a substitute for gasoline as a motor fuel can result in emission reductions;
-    (6) experience to date has shown methane to be a safe motor fuel in properly modified vehicles and is therefore particularly suitable as fuel for fleet vehicles; and
-    (7) the introduction into commerce of methane-fueled vehicles would be expedited and facilitated by the establishment of a Federal program of research, development, and demonstration to explore and refine technologies related to methane use as a vehicular fuel.
-  (b) It is therefore declared to be the policy of the Congress in this chapter to–
-    (1) provide for and support advanced and accelerated research into, and development of, methane vehicle design, and related technologies;
-    (2) demonstrate the economic and technological practicalities of methane-fueled vehicles for fleet use and of methane-fueled farm equipment;
-    (3) facilitate, and remove barriers to, the use of methane-fueled vehicles in lieu of gasoline- or diesel-powered motor vehicles where practicable;
-    (4) promote the substitution of methane-fueled vehicles for gasoline- and diesel-powered vehicles currently used on farms and in fleet operations, particularly in areas where such substitution would facilitate plans to meet air quality standards set under the Clean Air Act, as amended [42 U.S.C. 7401 et seq.]; and
-    (5) supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
+  (a) For purposes of subchapters I through V of this chapter:
+    (1) The term ””agricultural commodity““ means–
+      (A) any agricultural commodity planted and produced in a State by annual tilling of the soil, including tilling by one-trip planters; or
+      (B) sugarcane planted and produced in a State.
+    (2) T4Conservation planK.–The term ””conservation plan““ means the document that–
+      (A) applies to highly erodible cropland;
+      (B) describes the conservation system applicable to the highly erodible cropland and describes the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule; and
+      (C) is approved by the local soil conservation district, in consultation with the local committees established under section 590h(b)(5) of this title and the Secretary, or by the Secretary.
+    (3) T4Conservation systemK.–The term ””conservation system““ means a combination of 1 or more conservation measures or management practices that–
+      (A) are based on local resource conditions, available conservation technology, and the standards and guidelines contained in the Natural Resources Conservation Service field office technical guides; and
+      (B) are designed to achieve, in a cost effective and technically practicable manner, a substantial reduction in soil erosion or a substantial improvement in soil conditions on a field or group of fields containing highly erodible cropland when compared to the level of erosion or soil conditions that existed before the application of the conservation measures and management practices.
+    (4) The term ””conservation district““ means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a ””conservation district““, ””soil conservation district““, ””soil and water conservation district““, ””resource conservation district““, ””natural resource district““, ””land conservation committee““, or a similar name.
+    (5) The term ””cost sharing payment““ means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland under the provisions of section 3834(b) of this title.
+    (6)      (A) The term ””converted wetland““ means wetland that has been drained, dredged, filled, leveled, or otherwise manipulated (including any activity that results in impairing or reducing the flow, circulation, or reach of water) for the purpose or to have the effect of making the production of an agricultural commodity possible if–
+        (i) such production would not have been possible but for such action; and
+        (ii) before such action–
+          (I) such land was wetland; and
+          (II) such land was neither highly erodible land nor highly erodible cropland.
+      (B) Wetland shall not be considered converted wetland if production of an agricultural commodity on such land during a crop year–
+        (i) is possible as a result of a natural condition, such as drought; and
+        (ii) is not assisted by an action of the producer that destroys natural wetland characteristics.
+    (7) T4FieldK.–The term ””field““ means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
+    (8) The term ””highly erodible cropland““ means highly erodible land that is in cropland use, as determined by the Secretary.
+    (9)      (A) The term ””highly erodible land““ means land–
+        (i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII land under the land capability classification system in effect on December 23, 1985; or
+        (ii) that has, or that if used to produce an agricultural commodity, would have an excessive average annual rate of erosion in relation to the soil loss tolerance level, as established by the Secretary, and as determined by the Secretary through application of factors from the universal soil loss equation and the wind erosion equation, including factors for climate, soil erodibility, and field slope.
+      (B) For purposes of this paragraph, the land capability class or rate of erosion for a field shall be that determined by the Secretary to be the predominant class or rate of erosion under regulations issued by the Secretary.
+      (C) T4EquationsK.–Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that date except following notice and comment in a manner consistent with section 553 of title 5.
+    (10) The term ””hydric soil““ means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
+    (11) The term ””hydrophytic vegetation““ means a plant growing in–
+      (A) water; or
+      (B) a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
+    (12) The term ””in-kind commodities““ means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
+    (13) The term ””rental payment““ means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
+    (14) The term ””Secretary““ means the Secretary of Agriculture.
+    (15) The term ””shelterbelt““ means a vegetative barrier with a linear configuration composed of trees, shrubs, and other approved perennial vegetation.
+    (16) The term ””State““ means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+    (17) The term ””vegetative cover““ means–
+      (A) perennial grasses, legumes, forbs, or shrubs with an expected life span of 5 or more years; or
+      (B) trees.
+    (18) The term ””wetland““, except when such term is part of the term ””converted wetland““, means land that–
+      (A) has a predominance of hydric soils;
+      (B) is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions; and
+      (C) under normal circumstances does support a prevalence of such vegetation.
+     For purposes of this Act, and any other Act, this term shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
+  (b) The Secretary shall develop–
+    (1) criteria for the identification of hydric soils and hydrophytic vegetation; and
+    (2) lists of such soils and such vegetation.
