@@ -24,14 +24,16 @@
     (1) In general
        The Attorney General, in consultation with the Secretary of State, may designate any country as a pilot program country if it meets the requirements of paragraph (2).
     (2) Qualifications
-       Except as provided in subsection (g)(4) \1\N of this section, a country may not be designated as a pilot program country unless the following requirements are met:
-      (A) Low nonimmigrant visa refusal rate for previous 2-year period
-         The average number of refusals of nonimmigrant visitor visas for nationals of that country during the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
-      (B) Low nonimmigrant visa refusal rate for each of 2 previous years
-         The average number of refusals of nonimmigrant visitor visas for nationals of that country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year.
-      (C) Machine readable passport program
+       Except as provided in subsection (g) of this section, a country may not be designated as a pilot program country unless the following requirements are met:
+      (A) Low nonimmigrant visa refusal rate
+         Either–
+        (i) the average number of refusals of nonimmigrant visitor visas for nationals of that country during–
+          (I) the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years; and
+          (II) either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year; or
+        (ii) such refusal rate for nationals of that country during the previous full fiscal year was less than 3.0 percent.
+      (B) Machine readable passport program
          The government of the country certifies that it has or is in the process of developing a program to issue machine-readable passports to its citizens.
-      (D) Law enforcement interests
+      (C) Law enforcement interests
          The Attorney General determines that the United States law enforcement interests would not be compromised by the designation of the country.
     (3) Continuing and subsequent qualifications
        For each fiscal year (within the pilot program period) after the initial period–
@@ -59,7 +61,7 @@
     (2) Termination of agreements
        The Attorney General may terminate an agreement under paragraph (1) with five days“ notice to the carrier for the carrier“s failure to meet the terms of such agreement.
   (f) ””Pilot program period““ defined
-     For purposes of this section, the term ””pilot program period““ means the period beginning on October 1, 1988, and ending on April 30, 1998.
+     For purposes of this section, the term ””pilot program period““ means the period beginning on October 1, 1988, and ending on April 30, 2000.
   (g) Duration and termination of designation
     (1) In general
       (A) Determination and notification of disqualification rate
@@ -70,7 +72,7 @@
          Subject to paragraph (3), if the program country“s disqualification rate is 3.5 percent or more, the Attorney General shall terminate the country“s designation as a pilot program country effective at the beginning of the second fiscal year following the fiscal year in which the determination under subparagraph (A) is made.
     (2) Termination of probationary status
       (A) In general
-         If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section \2\N (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a pilot program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a pilot program country.
+         If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section \1\N (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a pilot program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a pilot program country.
       (B) Effective date
          A termination of the designation of a country under subparagraph (A) shall take effect on the first day of the first fiscal year following the fiscal year in which the determination under such subparagraph is made. Until such date, nationals of the country shall remain eligible for a waiver under subsection (a) of this section.
     (3) Nonapplicability of certain provisions

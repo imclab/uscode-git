@@ -3,20 +3,12 @@
        Notwithstanding any other provision of law and except as provided in paragraph (2), an alien who is a qualified alien (as defined in section 1641 of this title) is not eligible for any specified Federal program (as defined in paragraph (3)).
     (2) Exceptions
       (A) Time-limited exception for refugees and asylees
-        (i) SSI
-           With respect to the specified Federal program described in paragraph (3)(A), paragraph (1) shall not apply to an alien until 7 years after the date–
-          (I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act [8 U.S.C. 1157];
-          (II) an alien is granted asylum under section 208 of such Act [8 U.S.C. 1158];
-          (III) an alien“s deportation is withheld under section 243(h) of such Act [8 U.S.C. 1253] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act [8 U.S.C. 1231(b)(3)] (as amended by section 305(a) of division C of Public Law 104–208);
-          (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-          (V) an alien is admitted to the United States as an Amerasian immigrant pursuant to section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 (as contained in section 101(e) of Public Law 100–202 and amended by the 9th proviso under T4migration and refugee assistanceK in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, as amended).
-        (ii) Food stamps
-           With respect to the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to an alien until 5 years after the date–
-          (I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act [8 U.S.C. 1157];
-          (II) an alien is granted asylum under section 208 of such Act [8 U.S.C. 1158];
-          (III) an alien“s deportation is withheld under section 243(h) of such Act [8 U.S.C. 1253] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act [8 U.S.C. 1231(b)(3)] (as amended by section 305(a) of division C of Public Law 104–208);
-          (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-          (V) an alien is admitted to the United States as an Amerasian immigrant as described in clause (i)(V).
+         With respect to the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien until 7 years after the date–
+        (i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act [8 U.S.C. 1157];
+        (ii) an alien is granted asylum under section 208 of such Act [8 U.S.C. 1158];
+        (iii) an alien“s deportation is withheld under section 243(h) of such Act [8 U.S.C. 1253] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act [8 U.S.C. 1231(b)(3)] (as amended by section 305(a) of division C of Public Law 104–208);
+        (iv) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
+        (v) an alien is admitted to the United States as an Amerasian immigrant pursuant to section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 (as contained in section 101(e) of Public Law 100–202 and amended by the 9th proviso under T4migration and refugee assistanceK in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, as amended).
       (B) Certain permanent resident aliens
          Paragraph (1) shall not apply to an alien who–
         (i) is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act [8 U.S.C. 1101 et seq.]; and
@@ -46,17 +38,33 @@
       (E) Aliens receiving SSI on August 22, 1996
          With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to an alien who is lawfully residing in the United States and who was receiving such benefits on August 22, 1996.
       (F) Disabled aliens lawfully residing in the United States on August 22, 1996
-         With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to an alien who–
+         With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien who–
         (i) was lawfully residing in the United States on August 22, 1996; and
-        (ii) is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act [42 U.S.C. 1382c(a)(2), (3)].
-      (G) SSI exception for certain Indians
-         With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), section 1611(a) of this title and paragraph (1) shall not apply to any individual–
+        (ii)          (I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act [42 U.S.C. 1382c(a)(2), (3)]; and
+          (II) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(r) of the Food Stamp Act of 1977 (7 U.S.C. 2012(r))).
+      (G) Exception for certain Indians
+         With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), section 1611(a) of this title and paragraph (1) shall not apply to any individual–
         (i) who is an American Indian born in Canada to whom the provisions of section 289 of the Immigration and Nationality Act (8 U.S.C. 1359) apply; or
         (ii) who is a member of an Indian tribe (as defined in section 450b(e) of title 25).
       (H) SSI exception for certain recipients on the basis of very old applications
          With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to any individual–
         (i) who is receiving benefits under such program for months after July 1996 on the basis of an application filed before January 1, 1979; and
         (ii) with respect to whom the Commissioner of Social Security lacks clear and convincing evidence that such individual is an alien ineligible for such benefits as a result of the application of this section.
+          (I) Food stamp exception for certain elderly individuals
+             With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996–
+            (i) was lawfully residing in the United States; and
+            (ii) was 65 years of age or older.
+          (J) Food stamp exception for certain children
+             With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who–
+            (i) was lawfully residing in the United States on August 22, 1996; and
+            (ii) is under 18 years of age.
+          (K) Food stamp exception for certain Hmong and Highland Laotians
+             With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to–
+            (i) any individual who–
+              (I) is lawfully residing in the United States; and
+              (II) was a member of a Hmong or Highland Laotian tribe at the time that the tribe rendered assistance to United States personnel by taking part in a military or rescue operation during the Vietnam era (as defined in section 101 of title 38);
+            (ii) the spouse, or an unmarried dependent child, of such an individual; or
+            (iii) the unremarried surviving spouse of such an individual who is deceased.
     (3) ””Specified Federal program““ defined
        For purposes of this chapter, the term ””specified Federal program““ means any of the following:
       (A) SSI
@@ -75,14 +83,14 @@
           (II) an alien is granted asylum under section 208 of such Act [8 U.S.C. 1158];
           (III) an alien“s deportation is withheld under section 243(h) of such Act [8 U.S.C. 1253] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act [8 U.S.C. 1231(b)(3)] (as amended by section 305(a) of division C of Public Law 104–208);
           (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-          (V) an alien \1\N admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) of this section until 5 years after the date of such alien“s entry into the United States.
+          (V) an alien \1\N admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) \2\N of this section until 5 years after the date of such alien“s entry into the United States.
         (ii) Other designated Federal programs
            With respect to the designated Federal programs under paragraph (3) (other than subparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date–
           (I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act [8 U.S.C. 1157];
           (II) an alien is granted asylum under section 208 of such Act [8 U.S.C. 1158];
           (III) an alien“s deportation is withheld under section 243(h) of such Act [8 U.S.C. 1253] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act [8 U.S.C. 1231(b)(3)] (as amended by section 305(a) of division C of Public Law 104–208);
           (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-          (V) an alien \1\ admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) of this section until 5 years after the date of such alien“s entry into the United States.
+          (V) an alien \1\ admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) \2\ of this section until 5 years after the date of such alien“s entry into the United States.
       (B) Certain permanent resident aliens
          An alien who–
         (i) is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act [8 U.S.C. 1101 et seq.]; and
