@@ -1,22 +1,32 @@
-  (a) Definitions
-     As used in this section:
-    (1) The term ””utility““ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
-    (2) The term ””Federal Government““ means the Government of the United States or any agency or instrumentality thereof.
-    (3) The term ””State““ means any State, territory, or possession of the United States, the District of Columbia, or any political subdivision, agency, or instrumentality thereof.
-    (4) The term ””pole attachment““ means any attachment by a cable television system to a pole, duct, conduit, or right-of-way owned or controlled by a utility.
-  (b) Authority of Commission to regulate rates, terms, and conditions; enforcement powers; promulgation of regulations
-    (1) Subject to the provisions of subsection (c) of this section, the Commission shall regulate the rates, terms, and conditions for pole attachments to provide that such rates, terms, and conditions are just and reasonable, and shall adopt procedures necessary and appropriate to hear and resolve complaints concerning such rates, terms, and conditions. For purposes of enforcing any determinations resulting from complaint procedures established pursuant to this subsection, the Commission shall take such action as it deems appropriate and necessary, including issuing cease and desist orders, as authorized by section 312(b) of this title.
-    (2) The Commission shall prescribe by rule regulations to carry out the provisions of this section.
-  (c) State regulatory authority over rates, terms, and conditions; preemption; certification; circumstances constituting State regulation
-    (1) Nothing in this section shall be construed to apply to, or to give the Commission jurisdiction with respect to rates, terms, and conditions for pole attachments in any case where such matters are regulated by a State.
-    (2) Each State which regulates the rates, terms, and conditions for pole attachments shall certify to the Commission that–
-      (A) it regulates such rates, terms, and conditions; and
-      (B) in so regulating such rates, terms, and conditions, the State has the authority to consider and does consider the interests of the subscribers of cable television services, as well as the interests of the consumers of the utility services.
-    (3) For purposes of this subsection, a State shall not be considered to regulate the rates, terms, and conditions for pole attachments–
-      (A) unless the State has issued and made effective rules and regulations implementing the State“s regulatory authority over pole attachments; and
-      (B) with respect to any individual matter, unless the State takes final action on a complaint regarding such matter–
-        (i) within 180 days after the complaint is filed with the State, or
-        (ii) within the applicable period prescribed for such final action in such rules and regulations of the State, if the prescribed period does not extend beyond 360 days after the filing of such complaint.
-  (d) Determination of just and reasonable rates; ””usable space““ defined
-    (1) For purposes of subsection (b) of this section, a rate is just and reasonable if it assures a utility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way.
-    (2) As used in this subsection, the term ””usable space““ means the space above the minimum grade level which can be used for the attachment of wires, cables, and associated equipment.
+  (a) Prohibited acts generally
+     Whoever–
+    (1) in the District of Columbia or in interstate or foreign communication by means of telephone–
+      (A) makes any comment, request, suggestion or proposal which is obscene, lewd, lascivious, filthy, or indecent;
+      (B) makes a telephone call, whether or not conversation ensues, without disclosing his identity and with intent to annoy, abuse, threaten, or harass any person at the called number;
+      (C) makes or causes the telephone of another repeatedly or continuously to ring, with intent to harass any person at the called number; or
+      (D) makes repeated telephone calls, during which conversation ensues, solely to harass any person at the called number; or
+    (2) knowingly permits any telephone facility under his control to be used for any purpose prohibited by this section,
+       shall be fined not more than $50,000 or imprisoned not more than six months, or both.
+  (b) Prohibited acts for commercial purposes; defense to prosecution
+    (1) Whoever knowingly–
+      (A) within the United States, by means of telephone, makes (directly or by recording device) any obscene communication for commercial purposes to any person, regardless of whether the maker of such communication placed the call; or
+      (B) permits any telephone facility under such person“s control to be used for an activity prohibited by subparagraph (A),
+         shall be fined in accordance with title 18 or imprisoned not more than two years, or both.
+    (2) Whoever knowingly–
+      (A) within the United States, by means of telephone, makes (directly or by recording device) any indecent communication for commercial purposes which is available to any person under 18 years of age or to any other person without that person“s consent, regardless of whether the maker of such communication placed the call; or
+      (B) permits any telephone facility under such person“s control to be used for an activity prohibited by subparagraph (A), shall be fined not more than $50,000 or imprisoned not more than six months, or both.
+    (3) It is a defense to prosecution under paragraph (2) of this subsection that the defendant restricted access to the prohibited communication to persons 18 years of age or older in accordance with subsection (c) of this section and with such procedures as the Commission may prescribe by regulation.
+    (4) In addition to the penalties under paragraph (1), whoever, within the United States, intentionally violates paragraph (1) or (2) shall be subject to a fine of not more than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
+    (5)      (A) In addition to the penalties under paragraphs (1), (2), and (5), whoever, within the United States, violates paragraph (1) or (2) shall be subject to a civil fine of not more than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
+      (B) A fine under this paragraph may be assessed either–
+        (i) by a court, pursuant to civil action by the Commission or any attorney employed by the Commission who is designated by the Commission for such purposes, or
+        (ii) by the Commission after appropriate administrative proceedings.
+    (6) The Attorney General may bring a suit in the appropriate district court of the United States to enjoin any act or practice which violates paragraph (1) or (2). An injunction may be granted in accordance with the Federal Rules of Civil Procedure.
+  (c) Restriction on access to subscribers by common carriers; judicial remedies respecting restrictions
+    (1) A common carrier within the District of Columbia or within any State, or in interstate or foreign commerce, shall not, to the extent technically feasible, provide access to a communication specified in subsection (b) of this section from the telephone of any subscriber who has not previously requested in writing the carrier to provide access to such communication if the carrier collects from subscribers an identifiable charge for such communication that the carrier remits, in whole or in part, to the provider of such communication.
+    (2) Except as provided in paragraph (3), no cause of action may be brought in any court or administrative agency against any common carrier, or any of its affiliates, including their officers, directors, employees, agents, or authorized representatives on account of–
+      (A) any action which the carrier demonstrates was taken in good faith to restrict access pursuant to paragraph (1) of this subsection; or
+      (B) any access permitted–
+        (i) in good faith reliance upon the lack of any representation by a provider of communications that communications provided by that provider are communications specified in subsection (b) of this section, or
+        (ii) because a specific representation by the provider did not allow the carrier, acting in good faith, a sufficient period to restrict access to restrict access to communications described in subsection (b) of this section.
+    (3) Notwithstanding paragraph (2) of this subsection, a provider of communications services to which subscribers are denied access pursuant to paragraph (1) of this subsection may bring an action for a declaratory judgment or similar action in a court. Any such action shall be limited to the question of whether the communications which the provider seeks to provide fall within the category of communications to which the carrier will provide access only to subscribers who have previously requested such access.
