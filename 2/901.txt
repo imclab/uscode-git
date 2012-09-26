@@ -26,44 +26,63 @@
          For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for the current year (if any) and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
   (b) Adjustments to discretionary spending limits
     (1) Preview report
-       When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the committees \1\N on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
-    (2) Sequestration reports
-       When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year through 2002, as follows:
-      (A) Emergency appropriations
-         If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates in statute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all fiscal years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
-      (B) Special outlay allowance
-         If, in any fiscal year, outlays for a category exceed the discretionary spending limit for that category but new budget authority does not exceed its limit for that category (after application of the first step of a sequestration described in subsection (a)(2) of this section, if necessary), the adjustment in outlays for a fiscal year is the amount of the excess but not to exceed 0.5 percent of the sum of the adjusted discretionary spending limits on outlays for that fiscal year.
-      (C) Continuing disability reviews
-        (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed–
-          (I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
-          (II) for fiscal year 1999, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
-          (III) for fiscal year 2000, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
-          (IV) for fiscal year 2001, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays; and
-          (V) for fiscal year 2002, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays.
-        (ii) As used in this subparagraph–
-          (I) the term ””continuing disability reviews““ means reviews or redeterminations as defined under section 401(g)(1)(A) of title 42 and reviews and redeterminations authorized under section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996;
-          (II) the term ””additional new budget authority““ means the amount provided for a fiscal year, in excess of $200,000,000, in an appropriations Act and specified to pay for the costs of continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration; and
-          (III) the term ””additional outlays““ means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, including outlays in that fiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
-      (D) Allowance for IMF
-         If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 that includes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to–
-        (i) an increase in the United States quota as part of the International Monetary Fund Eleventh General Review of Quotas (United States Quota); or
-        (ii) any increase in the maximum amount available to the Secretary of the Treasury pursuant to section 286e–2 of title 22, as amended from time to time (New Arrangements to Borrow).
-      (E) Allowance for international arrearages
-        (i) Adjustments
-           If an appropriation bill or joint resolution is enacted for fiscal year 1998, 1999, or 2000 that includes an appropriation for arrearages for international organizations, international peacekeeping, and multilateral development banks for that fiscal year, the adjustment shall be the amount of budget authority in that measure and the outlays flowing in all fiscal years from that budget authority.
-        (ii) Limitations
-           The total amount of adjustments made pursuant to this subparagraph for the period of fiscal years 1998 through 2000 shall not exceed $1,884,000,000 in budget authority.
-      (F) EITC compliance initiative
-         If an appropriation bill or joint resolution is enacted for a fiscal year that includes an appropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed–
-        (i) with respect to fiscal year 1998, $138,000,000 in new budget authority and $131,000,000 in outlays;
-        (ii) with respect to fiscal year 1999, $143,000,000 in new budget authority and $143,000,000 in outlays;
-        (iii) with respect to fiscal year 2000, $144,000,000 in new budget authority and $144,000,000 in outlays;
-        (iv) with respect to fiscal year 2001, $145,000,000 in new budget authority and $145,000,000 in outlays; and
-        (v) with respect to fiscal year 2002, $146,000,000 in new budget authority and $146,000,000 in outlays.
-      (G) Adoption incentive payments
-         Whenever a bill or joint resolution making appropriations for fiscal year 1999, 2000, 2001, 2002, or 2003 is enacted that specifies an amount for adoption incentive payments pursuant to this subchapter for the Department of Health and Human Services–
-        (i) the adjustments for new budget authority shall be the amounts of new budget authority provided in that measure for adoption incentive payments, but not to exceed $20,000,000; and
-        (ii) the adjustment for outlays shall be the additional outlays flowing from such amount.
+      (A) T4Concepts and definitionsK.–When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the committees \1\N on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
+      (B) T4Adjustment to align highway spending with revenuesK.–(i) When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to the highway category for the budget year and each outyear as provided in clause (ii)(I)(cc).
+  (ii)    (I)      (aa) OMB shall take the actual level of highway receipts for the year before the current year and subtract the sum of the estimated level of highway receipts in subclause (II) plus any amount previously calculated under item (bb) for that year.
+      (bb) OMB shall take the current estimate of highway receipts for the budget year and subtract the estimated level of receipts for that year.
+      (cc) OMB shall take the sum of the amounts calculated under items (aa) and (bb), add that sum to the amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century for the highway category for the budget year, and calculate the outlay change resulting from that change in obligations relative to that amount for the budget year and each outyear using current estimates. After making the calculation under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year by adding the sum of the amounts calculated under items (aa) and (bb).
+    (II) The estimated level of highway receipts for the purposes of this clause are–
+      (aa) for fiscal year 1998, $22,164,000,000;
+      (bb) for fiscal year 1999, $32,619,000,000;
+      (cc) for fiscal year 2000, $28,066,000,000;
+      (dd) for fiscal year 2001, $28,506,000,000;
+      (ee) for fiscal year 2002, $28,972,000,000; and
+      (ff) for fiscal year 2003, $29,471,000,000.
+    (III) In this clause, the term ””highway receipts““ means the governmental receipts credited to the highway account of the Highway Trust Fund.
+  (C)    (i) In addition to the adjustment required by subparagraph (B), when the President submits the budget under section 1105 of title 31 for fiscal years \2\N 2000, 2001, 2002, or 2003, OMB shall calculate and the budget shall include for the budget year and each outyear an adjustment to the limits on outlays for the highway category and the mass transit category equal to–
+      (I) the outlays for the applicable category calculated assuming obligation levels consistent with the estimates prepared pursuant to subparagraph (D), as adjusted, using current technical assumptions; minus
+      (II) the outlays for the applicable category set forth in the subparagraph (D) estimates, as adjusted.
+    (ii) The adjustment made pursuant to clause (i) in the fiscal years 2002 and 2003 budget submissions of the President under section 1105(a) of title 31 shall not exceed 4 percent plus cumulative carryovers. In this clause, the term ””cumulative carryovers““ means the total of each amount by which outlays for the highway and mass transit category for any fiscal year are less than the outlay limit for that category, as adjusted, for that year less any amount of carryover used in the previous year.
+  (D)    (i) When OMB and CBO submit their final sequester report for fiscal year 1999, that report shall include an estimate of the outlays for each of the categories that would result in fiscal years 2000 through 2003 from obligations at the levels specified in section 8103 of the Transportation Equity Act for the 21st Century using current assumptions.
+    (ii) When the President submits the budget under section 1105 of title 31 for fiscal years \2\ 2000, 2001, 2002, or 2003, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
+  (E) OMB shall consult with the Committees on the Budget and include a report on adjustments under subparagraphs (B) and (C) in the preview report.
+  (2) Sequestration reports
+     When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year through 2002, as follows:
+    (A) Emergency appropriations
+       If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates in statute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all fiscal years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
+    (B) Special outlay allowance
+       If, in any fiscal year, outlays for a category exceed the discretionary spending limit for that category but new budget authority does not exceed its limit for that category (after application of the first step of a sequestration described in subsection (a)(2) of this section, if necessary), the adjustment in outlays for a fiscal year is the amount of the excess but not to exceed 0.5 percent of the sum of the adjusted discretionary spending limits on outlays for that fiscal year.
+    (C) Continuing disability reviews
+      (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed–
+        (I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
+        (II) for fiscal year 1999, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
+        (III) for fiscal year 2000, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
+        (IV) for fiscal year 2001, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays; and
+        (V) for fiscal year 2002, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays.
+      (ii) As used in this subparagraph–
+        (I) the term ””continuing disability reviews““ means reviews or redeterminations as defined under section 401(g)(1)(A) of title 42 and reviews and redeterminations authorized under section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996;
+        (II) the term ””additional new budget authority““ means the amount provided for a fiscal year, in excess of $200,000,000, in an appropriations Act and specified to pay for the costs of continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration; and
+        (III) the term ””additional outlays““ means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, including outlays in that fiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
+    (D) Allowance for IMF
+       If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 that includes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to–
+      (i) an increase in the United States quota as part of the International Monetary Fund Eleventh General Review of Quotas (United States Quota); or
+      (ii) any increase in the maximum amount available to the Secretary of the Treasury pursuant to section 286e–2 of title 22, as amended from time to time (New Arrangements to Borrow).
+    (E) Allowance for international arrearages
+      (i) Adjustments
+         If an appropriation bill or joint resolution is enacted for fiscal year 1998, 1999, or 2000 that includes an appropriation for arrearages for international organizations, international peacekeeping, and multilateral development banks for that fiscal year, the adjustment shall be the amount of budget authority in that measure and the outlays flowing in all fiscal years from that budget authority.
+      (ii) Limitations
+         The total amount of adjustments made pursuant to this subparagraph for the period of fiscal years 1998 through 2000 shall not exceed $1,884,000,000 in budget authority.
+    (F) EITC compliance initiative
+       If an appropriation bill or joint resolution is enacted for a fiscal year that includes an appropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed–
+      (i) with respect to fiscal year 1998, $138,000,000 in new budget authority and $131,000,000 in outlays;
+      (ii) with respect to fiscal year 1999, $143,000,000 in new budget authority and $143,000,000 in outlays;
+      (iii) with respect to fiscal year 2000, $144,000,000 in new budget authority and $144,000,000 in outlays;
+      (iv) with respect to fiscal year 2001, $145,000,000 in new budget authority and $145,000,000 in outlays; and
+      (v) with respect to fiscal year 2002, $146,000,000 in new budget authority and $146,000,000 in outlays.
+    (G) Adoption incentive payments
+       Whenever a bill or joint resolution making appropriations for fiscal year 1999, 2000, 2001, 2002, or 2003 is enacted that specifies an amount for adoption incentive payments pursuant to this subchapter for the Department of Health and Human Services–
+      (i) the adjustments for new budget authority shall be the amounts of new budget authority provided in that measure for adoption incentive payments, but not to exceed $20,000,000; and
+      (ii) the adjustment for outlays shall be the additional outlays flowing from such amount.
   (c) Discretionary spending limit
      As used in this subchapter, the term ””discretionary spending limit““ means–
     (1) with respect to fiscal year 1997, for the discretionary category, the current adjusted limits of new budget authority and outlays;
@@ -73,11 +92,24 @@
       (C) for the violent crime reduction category: $5,500,000,000 in new budget authority and $3,592,000,000 in outlays;
     (3) with respect to fiscal year 1999–
       (A) for the defense category: $271,500,000,000 in new budget authority and $266,518,000,000 in outlays;
-      (B) for the nondefense category: $255,699,000,000 in new budget authority and $287,850,000,000 in outlays; and
+      (B) for the nondefense category: $255,699,000,000 in new budget authority and $287,850,000,000 in outlays;
       (C) for the violent crime reduction category: $5,800,000,000 in new budget authority and $4,953,000,000 in outlays;
+      (D) for the highway category: $21,885,000,000 in outlays; and
+      (E) for the mass transit category: $4,401,000,000 in outlays;
     (4) with respect to fiscal year 2000–
-      (A) for the discretionary category: $532,693,000,000 in new budget authority and $558,711,000,000 in outlays; and
+      (A) for the discretionary category: $532,693,000,000 in new budget authority and $558,711,000,000 in outlays;
       (B) for the violent crime reduction category: $4,500,000,000 in new budget authority and $5,554,000,000 in outlays;
-    (5) with respect to fiscal year 2001, for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays; and
-    (6) with respect to fiscal year 2002, for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;
-       as adjusted in strict conformance with subsection (b) of this section.
+      (C) for the highway category: $24,436,000,000 in outlays; and
+      (D) for the mass transit category: $4,761,000,000 in outlays;
+    (5) with respect to fiscal year 2001–
+      (A) for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays;
+      (B) for the highway category: $26,204,000,000 in outlays; and
+      (C) for the mass transit category: $5,190,000,000 in outlays;
+    (6) with respect to fiscal year 2002–
+      (A) for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;
+      (B) for the highway category: $26,977,000,000 in outlays; and
+      (C) for the mass transit category: $5,709,000,000 in outlays; and
+    (7) with respect to fiscal year 2003–
+      (A) for the highway category: $27,728,000,000 in outlays; and
+      (B) for the mass transit category: $6,256,000,000 in outlays.\3\N
+         as adjusted in strict conformance with subsection (b) of this section.

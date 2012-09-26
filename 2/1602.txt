@@ -10,7 +10,7 @@
     (C) any officer or employee, or any other individual functioning in the capacity of such an officer or employee, in the Executive Office of the President;
     (D) any officer or employee serving in a position in level I, II, III, IV, or V of the Executive Schedule, as designated by statute or Executive order;
     (E) any member of the uniformed services whose pay grade is at or above O–7 under section 201 of title 37; and
-    (F) any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2) of title 5.
+    (F) any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2)(B) of title 5.
   (4) Covered legislative branch official
      The term ””covered legislative branch official““ means–
     (A) a Member of Congress;
@@ -47,7 +47,7 @@
       (vi) made in the course of participation in an advisory committee subject to the Federal Advisory Committee Act;
       (vii) testimony given before a committee, subcommittee, or task force of the Congress, or submitted for inclusion in the public record of a hearing conducted by such committee, subcommittee, or task force;
       (viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
-      (ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency;
+      (ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
       (x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
       (xi) not possible to report without disclosing information, the unauthorized disclosure of which is prohibited by law;
       (xii) made to an official in an agency with regard to–
@@ -93,6 +93,6 @@
     (C) an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
     (D) an Indian tribe (as defined in section 450b(e) of title 25; \1\N
     (E) a national or State political party or any organizational unit thereof; or
-    (F) a national, regional, or local unit of any foreign government.
+    (F) a national, regional, or local unit of any foreign government, or a group of governments acting together as an international organization.
   (16) State
      The term ””State““ means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
