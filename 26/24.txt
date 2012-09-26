@@ -12,7 +12,7 @@
     (3) Limitation based on amount of tax
        In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of–
       (A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-      (B) the sum of the credits allowable under this subpart (other than this section and sections 23, 25B, 25D, and 30D) and section 27 for the taxable year.
+      (B) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25B, 25D, 30, 30B, and 30D) and section 27 for the taxable year.
   (c) Qualifying child
      For purposes of this section–
     (1) In general
@@ -45,8 +45,8 @@
       (A) such dollar amount, multiplied by
       (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ””calendar year 2000““ for ””calendar year 1992““ in subparagraph (B) thereof.
        Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
-    (4) Special rule for 2008
-       Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500.
+    (4) Special rule for 2009 and 2010
+       Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.
   (e) Identification requirement
      No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
   (f) Taxable year must be full taxable year

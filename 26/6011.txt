@@ -13,12 +13,21 @@
      The Secretary may by regulations require any individual who receives allowances which are excluded from gross income under section 912 for any taxable year to include on his return of the taxes imposed by subtitle A for such taxable year such information with respect to the amount and type of such allowances as the Secretary determines to be appropriate.
   (e) Regulations requiring returns on magnetic media, etc.
     (1) In general
-       The Secretary shall prescribe regulations providing standards for determining which returns must be filed on magnetic media or in other machine-readable form. The Secretary may not require returns of any tax imposed by subtitle A on individuals, estates, and trusts to be other than on paper forms supplied by the Secretary.
+       The Secretary shall prescribe regulations providing standards for determining which returns must be filed on magnetic media or in other machine-readable form. Except as provided in paragraph (3), the Secretary may not require returns of any tax imposed by subtitle A on individuals, estates, and trusts to be other than on paper forms supplied by the Secretary.
     (2) Requirements of regulations
        In prescribing regulations under paragraph (1), the Secretary–
       (A) shall not require any person to file returns on magnetic media unless such person is required to file at least 250 returns during the calendar year, and
       (B) shall take into account (among other relevant factors) the ability of the taxpayer to comply at reasonable cost with the requirements of such regulations.
        Notwithstanding the preceding sentence, the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.
+    (3) Special rule for tax return preparers
+      (A) In general
+         The Secretary shall require than \1\N any individual income tax return prepared by a tax return preparer be filed on magnetic media if–
+        (i) such return is filed by such tax return preparer, and
+        (ii) such tax return preparer is a specified tax return preparer for the calendar year during which such return is filed.
+      (B) Specified tax return preparer
+         For purposes of this paragraph, the term ””specified tax return preparer““ means, with respect to any calendar year, any tax return preparer unless such preparer reasonably expects to file 10 or fewer individual income tax returns during such calendar year.
+      (C) Individual income tax return
+         For purposes of this paragraph, the term ””individual income tax return““ means any return of the tax imposed by subtitle A on individuals, estates, or trusts.
   (f) Promotion of electronic filing
     (1) In general
        The Secretary is authorized to promote the benefits of and encourage the use of electronic tax administration programs, as they become available, through the use of mass communications and other means.

@@ -2,8 +2,9 @@
      There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of–
     (1) the new qualified fuel cell motor vehicle credit determined under subsection (b),
     (2) the new advanced lean burn technology motor vehicle credit determined under subsection (c),
-    (3) the new qualified hybrid motor vehicle credit determined under subsection (d), and
-    (4) the new qualified alternative fuel motor vehicle credit determined under subsection (e).
+    (3) the new qualified hybrid motor vehicle credit determined under subsection (d),
+    (4) the new qualified alternative fuel motor vehicle credit determined under subsection (e), and
+    (5) the plug-in conversion credit determined under subsection (i).
   (b) New qualified fuel cell motor vehicle credit
     (1) In general
        For purposes of subsection (a), the new qualified fuel cell motor vehicle credit determined under this subsection with respect to a new qualified fuel cell motor vehicle placed in service by the taxpayer during the taxable year is–
@@ -203,7 +204,7 @@
         (ii) Other motor vehicles
            In the case of a vehicle to which paragraph (2)(B) applies, the term ””maximum available power““ means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle“s total traction power. For purposes of the preceding sentence, the term ””total traction power““ means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
       (D) Exclusion of plug-in vehicles
-         Any vehicle with respect to which a credit is allowable under section 30D (determined without regard to subsection (d) thereof) shall not be taken into account under this section.
+         Any vehicle with respect to which a credit is allowable under section 30D (determined without regard to subsection (c) thereof) shall not be taken into account under this section.
   (e) New qualified alternative fuel motor vehicle credit
     (1) Allowance of credit
        Except as provided in paragraph (5), the new qualified alternative fuel motor vehicle credit determined under this subsection is an amount equal to the applicable percentage of the incremental cost of any new qualified alternative fuel motor vehicle placed in service by the taxpayer during the taxable year.
@@ -269,13 +270,16 @@
     (1) Business credit treated as part of general business credit
        So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
     (2) Personal credit
-       The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess (if any) of–
-      (A) the regular tax liability (as defined in section 26(b)) reduced by the sum of the credits allowable under subpart A and sections 27 and 30, over
-      (B) the tentative minimum tax for the taxable year.
+      (A) In general
+         For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+      (B) Limitation based on amount of tax
+         In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall not exceed the excess of–
+        (i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+        (ii) the sum of the credits allowable under subpart A (other than this section and sections 23, 25D, 30, and 30D) and section 27 for the taxable year.
   (h) Other definitions and special rules
      For purposes of this section–
     (1) Motor vehicle
-       The term ””motor vehicle““ has the meaning given such term by section 30(c)(2).
+       The term ””motor vehicle““ means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
     (2) City fuel economy
        The city fuel economy with respect to any vehicle shall be measured in a manner which is substantially similar to the manner city fuel economy is measured in accordance with procedures under part 600 of subchapter Q of chapter I of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this section.
     (3) Other terms
@@ -291,19 +295,28 @@
     (7) Property used outside United States, etc., not qualified
        No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1) or with respect to the portion of the cost of any property taken into account under section 179.
     (8) Recapture
-       The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).
+       The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).,\1\N except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
     (9) Election to not take credit
        No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
     (10) Interaction with air quality and motor vehicle safety standards
        Unless otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with–
       (A) the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
       (B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
-        (i) Regulations
+        (i) Plug-in conversion credit
+          (1) In general
+             For purposes of subsection (a), the plug-in conversion credit determined under this subsection with respect to any motor vehicle which is converted to a qualified plug-in electric drive motor vehicle is 10 percent of so much of the cost of the converting such vehicle as does not exceed $40,000.
+          (2) Qualified plug-in electric drive motor vehicle
+             For purposes of this subsection, the term ””qualified plug-in electric drive motor vehicle““ means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
+          (3) Credit allowed in addition to other credits
+             The credit allowed under this subsection shall be allowed with respect to a motor vehicle notwithstanding whether a credit has been allowed with respect to such motor vehicle under this section (other than this subsection) in any preceding taxable year.
+          (4) Termination
+             This subsection shall not apply to conversions made after December 31, 2011.
+        (j) Regulations
           (1) In general
              Except as provided in paragraph (2), the Secretary shall promulgate such regulations as necessary to carry out the provisions of this section.
           (2) Coordination in prescription of certain regulations
              The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section.
-        (j) Termination
+        (k) Termination
            This section shall not apply to any property purchased after–
           (1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2014,
           (2) in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,

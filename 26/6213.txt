@@ -45,8 +45,14 @@
       (K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit),
       (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, 32, or 6428 if–
         (i) such TIN is of an individual whose age affects the amount of the credit under such section, and
-        (ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual“s age based on such TIN, and
-      (M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child.
+        (ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual“s age based on such TIN,
+      (M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child,
+      (N) an omission of the reduction required under section 36A(c) with respect to the credit allowed under section 36A or an omission of the correct social security account number required under section 36A(d)(1)(B),
+      (O) an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36, and
+      (P) an entry on a return claiming the credit under section 36 if–
+        (i) the Secretary obtains information from the person issuing the TIN of the taxpayer that indicates that the taxpayer does not meet the age requirement of section 36(b)(4),
+        (ii) information provided to the Secretary by the taxpayer on an income tax return for at least one of the 2 preceding taxable years is inconsistent with eligibility for such credit, or
+        (iii) the taxpayer fails to attach to the return the form described in section 36(d)(4).
        A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
   (h) Cross references
      T2(1) For assessment as if a mathematical error on the return, in the case of erroneous claims for income tax prepayment credits, see section 6201(a)(3).

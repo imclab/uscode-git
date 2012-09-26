@@ -1,5 +1,5 @@
   (a) In general
-     In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 65 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+     In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 65 percent (80 percent in the case of eligible coverage months beginning before January 1, 2011) of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
   (b) Eligible coverage month
      For purposes of this section–
     (1) In general
@@ -20,7 +20,14 @@
       (B) an eligible alternative TAA recipient, and
       (C) an eligible PBGC pension recipient.
     (2) Eligible TAA recipient
-       The term ””eligible TAA recipient““ means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
+      (A) In general
+         Except as provided in subparagraph (B), the term ””eligible TAA recipient““ means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
+      (B) Special rule
+         In the case of any eligible coverage month beginning after the date of the enactment of this paragraph and before January 1, 2011, the term ””eligible TAA recipient““ means, with respect to any month, any individual who–
+        (i) is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974,
+        (ii) would be eligible to receive such allowance except that such individual is in a break in training provided under a training program approved under section 236 of such Act that exceeds the period specified in section 233(e) of such Act, but is within the period for receiving such allowances provided under section 233(a) of such Act, or
+        (iii) is receiving unemployment compensation (as defined in section 85(b)) for any day of such month and who would be eligible to receive such allowance for such month if section 231 of such Act were applied without regard to subsections (a)(3)(B) and (a)(5) thereof.
+         An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
     (3) Eligible alternative TAA recipient
        The term ””eligible alternative TAA recipient““ means, with respect to any month, any individual who–
       (A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and
@@ -61,6 +68,7 @@
         (ii) in the case of an eligible alternative TAA recipient, the benefit described in subsection (c)(3)(B), or
         (iii) in the case of any eligible PBGC pension recipient, the benefit described in subsection (c)(4)(B).
        For purposes of this subparagraph, the term ””individual health insurance““ means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
+      (K) In the case of eligible coverage months beginning before January 1, 2011, coverage under an employee benefit plan funded by a voluntary employees“ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
     (2) Requirements for state-based coverage
       (A) In general
          The term ””qualified health insurance““ does not include any coverage described in subparagraphs (B) through (H) of paragraph (1) unless the State involved has elected to have such coverage treated as qualified health insurance under this section and such coverage meets the following requirements:
@@ -123,5 +131,17 @@
          Payments made by the Secretary on behalf of any individual under section 7527 (relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
       (B) Payments by taxpayer
          Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
-    (9) Regulations
-       The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
+    (9) COBRA premium assistance
+       In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009 \1\N for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+    (10) \2\N Continued qualification of family members after certain events
+       In the case of eligible coverage months beginning before January 1, 2011–
+      (A) Medicare eligibility
+         In the case of any month which would be an eligible coverage month with respect to an eligible individual but for subsection (f)(2)(A), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the amount of the credit under this section with respect to any qualifying family members of such individual (and any advance payment of such credit under section 7527). This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in subsection (f)(2)(A).
+      (B) Divorce
+         In the case of the finalization of a divorce between an eligible individual and such individual“s spouse, such spouse shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization.
+      (C) Death
+         In the case of the death of an eligible individual–
+        (i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
+        (ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
+  (10) \2\ Regulations
+     The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.

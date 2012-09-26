@@ -3,20 +3,26 @@
   (b) Limitations
     (1) Dollar limitation
       (A) In general
-         Except as otherwise provided in this paragraph, the credit allowed under subsection (a) shall not exceed $7,500.
+         Except as otherwise provided in this paragraph, the credit allowed under subsection (a) shall not exceed $8,000.
       (B) Married individuals filing separately
-         In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting ””$3,750““ for ””$7,500““.
+         In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting ””$4,000““ for ””$8,000““.
       (C) Other individuals
-         If two or more individuals who are not married purchase a principal residence, the amount of the credit allowed under subsection (a) shall be allocated among such individuals in such manner as the Secretary may prescribe, except that the total amount of the credits allowed to all such individuals shall not exceed $7,500.
+         If two or more individuals who are not married purchase a principal residence, the amount of the credit allowed under subsection (a) shall be allocated among such individuals in such manner as the Secretary may prescribe, except that the total amount of the credits allowed to all such individuals shall not exceed $8,000.
+      (D) Special rule for long-time residents of same principal residence
+         In the case of a taxpayer to whom a credit under subsection (a) is allowed by reason of subsection (c)(6), subparagraphs (A), (B), and (C) shall be applied by substituting ””$6,500““ for ””$8,000““ and ””$3,250““ for ””$4,000““.
     (2) Limitation based on modified adjusted gross income
       (A) In general
          The amount allowable as a credit under subsection (a) (determined without regard to this paragraph) for the taxable year shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which is so allowable as–
         (i) the excess (if any) of–
           (I) the taxpayer“s modified adjusted gross income for such taxable year, over
-          (II) $75,000 ($150,000 in the case of a joint return), bears to
+          (II) $125,000 ($225,000 in the case of a joint return), bears to
         (ii) $20,000.
       (B) Modified adjusted gross income
          For purposes of subparagraph (A), the term ””modified adjusted gross income““ means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+    (3) Limitation based on purchase price
+       No credit shall be allowed under subsection (a) for the purchase of any residence if the purchase price of such residence exceeds $800,000.
+    (4) Age limitation
+       No credit shall be allowed under subsection (a) with respect to the purchase of any residence unless the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within the meaning of section 7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence if the taxpayer or the taxpayer“s spouse meets such age requirement.
   (c) Definitions
      For purposes of this section–
     (1) First-time homebuyer
@@ -26,7 +32,7 @@
     (3) Purchase
       (A) In general
          The term ””purchase““ means any acquisition, but only if–
-        (i) the property is not acquired from a person related to the person acquiring such property, and
+        (i) the property is not acquired from a person related to the person acquiring such property (or, if married, such individual“s spouse), and
         (ii) the basis of the property in the hands of the person acquiring such property is not determined–
           (I) in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or
           (II) under section 1014(a) (relating to property acquired from a decedent).
@@ -36,12 +42,14 @@
        The term ””purchase price““ means the adjusted basis of the principal residence on the date such residence is purchased.
     (5) Related persons
        A person shall be treated as related to another person if the relationship between such persons would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants).
+    (6) Exception for long-time residents of same principal residence
+       In the case of an individual (and, if married, such individual“s spouse) who has owned and used the same residence as such individual“s principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
   (d) Exceptions
      No credit under subsection (a) shall be allowed to any taxpayer for any taxable year with respect to the purchase of a residence if–
-    (1) a credit under section 1400C (relating to first-time homebuyer in the District of Columbia) is allowable to the taxpayer (or the taxpayer“s spouse) for such taxable year or any prior taxable year,
-    (2) the residence is financed by the proceeds of a qualified mortgage issue the interest on which is exempt from tax under section 103,
-    (3) the taxpayer is a nonresident alien, or
-    (4) the taxpayer disposes of such residence (or such residence ceases to be the principal residence of the taxpayer (and, if married, the taxpayer“s spouse)) before the close of such taxable year.
+    (1) the taxpayer is a nonresident alien,
+    (2) the taxpayer disposes of such residence (or such residence ceases to be the principal residence of the taxpayer (and, if married, the taxpayer“s spouse)) before the close of such taxable year,
+    (3) a deduction under section 151 with respect to such taxpayer is allowable to another taxpayer for such taxable year, or
+    (4) the taxpayer fails to attach to the return of tax for such taxable year a properly executed copy of the settlement statement used to complete such purchase.
   (e) Reporting
      If the Secretary requires information reporting under section 6045 by a person described in subsection (e)(2) thereof to verify the eligibility of taxpayers for the credit allowable by this section, the exception provided by section 6045(e) shall not apply.
   (f) Recapture of credit
@@ -62,6 +70,22 @@
          In the case of a transfer of a residence to which section 1041(a) applies–
         (i) paragraph (2) shall not apply to such transfer, and
         (ii) in the case of taxable years ending after such transfer, paragraphs (1) and (2) shall apply to the transferee in the same manner as if such transferee were the transferor (and shall not apply to the transferor).
+      (D) Waiver of recapture for purchases in 2009 and 2010
+         In the case of any credit allowed with respect to the purchase of a principal residence after December 31, 2008–
+        (i) paragraph (1) shall not apply, and
+        (ii) paragraph (2) shall apply only if the disposition or cessation described in paragraph (2) with respect to such residence occurs during the 36-month period beginning on the date of the purchase of such residence by the taxpayer.
+      (E) Special rule for members of the armed forces, etc.
+        (i) In general
+           In the case of the disposition of a principal residence by an individual (or a cessation referred to in paragraph (2)) after December 31, 2008, in connection with Government orders received by such individual, or such individual“s spouse, for qualified official extended duty service–
+          (I) paragraph (2) and subsection (d)(2) shall not apply to such disposition (or cessation), and
+          (II) if such residence was acquired before January 1, 2009, paragraph (1) shall not apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year.
+        (ii) Qualified official extended duty service
+           For purposes of this section, the term ””qualified official extended duty service““ means service on qualified official extended duty as–
+          (I) a member of the uniformed services,
+          (II) a member of the Foreign Service of the United States, or
+          (III) an employee of the intelligence community.
+        (iii) Definitions
+           Any term used in this subparagraph which is also used in paragraph (9) of section 121(d) shall have the same meaning as when used in such paragraph.
     (5) Joint returns
        In the case of a credit allowed under subsection (a) with respect to a joint return, half of such credit shall be treated as having been allowed to each individual filing such return for purposes of this subsection.
     (6) Return requirement
@@ -69,6 +93,13 @@
     (7) Recapture period
        For purposes of this subsection, the term ””recapture period““ means the 15 taxable years beginning with the second taxable year following the taxable year in which the purchase of the principal residence for which a credit is allowed under subsection (a) was made.
   (g) Election to treat purchase in prior year
-     In the case of a purchase of a principal residence after December 31, 2008, and before July 1, 2009, a taxpayer may elect to treat such purchase as made on December 31, 2008, for purposes of this section (other than subsection (c)).
+     In the case of a purchase of a principal residence after December 31, 2008, a taxpayer may elect to treat such purchase as made on December 31 of the calendar year preceding such purchase for purposes of this section (other than subsections (b)(4), (c), (f)(4)(D), and (h)).
   (h) Application of section
-     This section shall only apply to a principal residence purchased by the taxpayer on or after April 9, 2008, and before July 1, 2009.
+    (1) In general
+       This section shall only apply to a principal residence purchased by the taxpayer on or after April 9, 2008, and before May 1, 2010.
+    (2) Exception in case of binding contract
+       In the case of any taxpayer who enters into a written binding contract before May 1, 2010, to close on the purchase of a principal residence before July 1, 2010, paragraph (1) shall be applied by substituting ””July 1, 2010““ for ””May 1, 2010““.
+    (3) Special rule for individuals on qualified official extended duty outside the United States
+       In the case of any individual who serves on qualified official extended duty service (as defined in section 121(d)(9)(C)(i)) outside the United States for at least 90 days during the period beginning after December 31, 2008, and ending before May 1, 2010, and, if married, such individual“s spouse–
+      (A) paragraphs (1) and (2) shall each be applied by substituting ””May 1, 2011““ for ””May 1, 2010““, and
+      (B) paragraph (2) shall be applied by substituting ””July 1, 2011““ for ””July 1, 2010““.

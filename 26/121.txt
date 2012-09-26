@@ -125,16 +125,22 @@
            An election under subparagraph (A) may be revoked at any time.
     (10) Property acquired in like-kind exchange
        If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
-  (12) \2\N Peace Corps
-    (A) In general
-       At the election of an individual with respect to a property, the running of the 5-year period described in subsections (a) and (c)(1)(B) and paragraph (7) of this subsection with respect to such property shall be suspended during any period that such individual or such individual“s spouse is serving outside the United States–
-      (i) on qualified official extended duty (as defined in paragraph (9)(C)) as an employee of the Peace Corps, or
-      (ii) as an enrolled volunteer or volunteer leader under section 5 or 6 (as the case may be) of the Peace Corps Act (22 U.S.C. 2504, 2505).
-    (B) Applicable rules
-       For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) \3\N shall apply.
+    (11) Property acquired from a decedent
+       The exclusion under this section shall apply to property sold by–
+      (A) the estate of a decedent,
+      (B) any individual who acquired such property from the decedent (within the meaning of section 1022), and
+      (C) a trust which, immediately before the death of the decedent, was a qualified revocable trust (as defined in section 645(b)(1)) established by the decedent,
+       determined by taking into account the ownership and use by the decedent.
+    (12) Peace Corps
+      (A) In general
+         At the election of an individual with respect to a property, the running of the 5-year period described in subsections (a) and (c)(1)(B) and paragraph (7) of this subsection with respect to such property shall be suspended during any period that such individual or such individual“s spouse is serving outside the United States–
+        (i) on qualified official extended duty (as defined in paragraph (9)(C)) as an employee of the Peace Corps, or
+        (ii) as an enrolled volunteer or volunteer leader under section 5 or 6 (as the case may be) of the Peace Corps Act (22 U.S.C. 2504, 2505).
+      (B) Applicable rules
+         For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) \2\N shall apply.
   (e) Denial of exclusion for expatriates
      This section shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) applies to such individual.
   (f) Election to have section not apply
      This section shall not apply to any sale or exchange with respect to which the taxpayer elects not to have this section apply.
   (g) Residences acquired in rollovers under section 1034
-     For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 \4\N (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer“s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
+     For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 \3\N (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer“s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.

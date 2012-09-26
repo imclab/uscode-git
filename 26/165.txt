@@ -5,6 +5,7 @@
     (3) State and local, and foreign, income, war profits, and excess profits taxes.
     (4) The GST tax imposed on income distributions.
     (5) The environmental tax imposed by section 59A.
+    (6) Qualified motor vehicle taxes.
        In addition, there shall be allowed as a deduction State and local, and foreign, taxes not described in the preceding sentence which are paid or accrued within the taxable year in carrying on a trade or business or an activity described in section 212 (relating to expenses for production of income). Notwithstanding the preceding sentence, any tax (not described in the first sentence of this subsection) which is paid or accrued by the taxpayer in connection with an acquisition or disposition of property shall be treated as part of the cost of the acquired property or, in the case of a disposition, as a reduction in the amount realized on the disposition.
   (b) Definitions and special rules
      For purposes of this section–
@@ -56,6 +57,33 @@
           (III) need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b)).
             (I) Application of paragraph
                This paragraph shall apply to taxable years beginning after December 31, 2003, and before January 1, 2010.
+    (6) Qualified motor vehicle taxes
+      (A) In general
+         For purposes of this section, the term ””qualified motor vehicle taxes““ means any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle.
+      (B) Limitation based on vehicle price
+         The amount of any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle taken into account under subparagraph (A) shall not exceed the portion of such tax attributable to so much of the purchase price as does not exceed $49,500.
+      (C) Income limitation
+         The amount otherwise taken into account under subparagraph (A) (after the application of subparagraph (B)) for any taxable year shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which is so treated as–
+        (i) the excess (if any) of–
+          (I) the taxpayer“s modified adjusted gross income for such taxable year, over
+          (II) $125,000 ($250,000 in the case of a joint return), bears to
+        (ii) $10,000.
+         For purposes of the preceding sentence, the term ””modified adjusted gross income““ means the adjusted gross income of the taxpayer for the taxable year (determined without regard to sections 911, 931, and 933).
+      (D) Qualified motor vehicle
+         For purposes of this paragraph–
+        (i) In general
+           The term ””qualified motor vehicle““ means–
+          (I) a passenger automobile or light truck which is treated as a motor vehicle for purposes of title II of the Clean Air Act, the gross vehicle weight rating of which is not more than 8,500 pounds, and the original use of which commences with the taxpayer,
+          (II) a motorcycle the gross vehicle weight rating of which is not more than 8,500 pounds and the original use of which commences with the taxpayer, and
+          (III) a motor home the original use of which commences with the taxpayer.
+        (ii) Other terms
+           The terms ””motorcycle““ and ””motor home““ have the meanings given such terms under section 571.3 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of this paragraph).
+      (E) Qualified motor vehicle taxes not included in cost of acquired property
+         The last sentence of subsection (a) shall not apply to any qualified motor vehicle taxes.
+      (F) Coordination with general sales tax
+         This paragraph shall not apply in the case of a taxpayer who makes an election under paragraph (5) for the taxable year.
+      (G) Termination
+         This paragraph shall not apply to purchases after December 31, 2009.
   (c) Deduction denied in case of certain taxes
      No deduction shall be allowed for the following taxes:
     (1) Taxes assessed against local benefits of a kind tending to increase the value of the property assessed; but this paragraph shall not prevent the deduction of so much of such taxes as is properly allocable to maintenance or interest charges.

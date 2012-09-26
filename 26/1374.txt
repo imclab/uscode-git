@@ -58,7 +58,14 @@
       (A) such asset shall be treated as held by the S corporation as of the beginning of such 1st taxable year, and
       (B) any determination under paragraph (3)(B) or (4)(B) with respect to such asset shall be made by reference to the fair market value and adjusted basis of such other asset as of the beginning of such 1st taxable year.
     (7) Recognition period
-       The term ””recognition period““ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ””10-year““.
+      (A) In general
+         The term ””recognition period““ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation.
+      (B) Special rule for 2009 and 2010
+         In the case of any taxable year beginning in 2009 or 2010, no tax shall be imposed on the net recognized built-in gain of an S corporation if the 7th taxable year in the recognition period preceded such taxable year. The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.
+      (C) Special rule for distributions to shareholders
+         For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e)–
+        (i) subparagraph (A) shall be applied without regard to the phrase ””10-year““, and
+        (ii) subparagraph (B) shall not apply.
     (8) Treatment of transfer of assets from C corporation to S corporation
       (A) In general
          Except to the extent provided in regulations, if–

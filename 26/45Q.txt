@@ -2,10 +2,11 @@
      For purposes of section 38, the carbon dioxide sequestration credit for any taxable year is an amount equal to the sum of–
     (1) $20 per metric ton of qualified carbon dioxide which is–
       (A) captured by the taxpayer at a qualified facility, and
-      (B) disposed of by the taxpayer in secure geological storage, and
+      (B) disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (2)(B), and
     (2) $10 per metric ton of qualified carbon dioxide which is–
-      (A) captured by the taxpayer at a qualified facility, and
-      (B) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project.
+      (A) captured by the taxpayer at a qualified facility,
+      (B) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project, and
+      (C) disposed of by the taxpayer in secure geological storage.
   (b) Qualified carbon dioxide
      For purposes of this section–
     (1) In general
@@ -26,7 +27,7 @@
       (A) the United States (within the meaning of section 638(1)), or
       (B) a possession of the United States (within the meaning of section 638(2)).
     (2) Secure geological storage
-       The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under subsection (a)(1)(B) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations and unminable coal seems \1\N under such conditions as the Secretary may determine under such regulations.
+       The Secretary, in consultation with the Administrator of the Environmental Protection Agency \1\N the Secretary of Energy, and the Secretary of the Interior,,\2\N shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
     (3) Tertiary injectant
        The term ””tertiary injectant““ has the same meaning as when used within section 193(b)(1).
     (4) Qualified enhanced oil or natural gas recovery project
@@ -40,4 +41,4 @@
       (A) such dollar amount, multiplied by
       (B) the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting ””2008““ for ””1990““.
   (e) Application of section
-     The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been captured and disposed of or used as a tertiary injectant.
+     The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).

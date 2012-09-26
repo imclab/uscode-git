@@ -44,6 +44,12 @@
            Such period shall begin on the enrollment date.
         (iii) Runs concurrently with waiting periods
            Any such affiliation period shall run concurrently with any waiting period under the plan.
+      (D) TAA-eligible individuals
+         In the case of plan years beginning before January 1, 2011–
+        (i) TAA pre-certification period rule
+           In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date which is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 shall not be taken into account in determining the continuous period under subparagraph (A).
+        (ii) Definitions
+           The terms ””TAA-eligible individual““ and ””TAA-related loss of coverage““ have the meanings given such terms in section 4980B(f)(5)(C)(iv).
     (3) Method of crediting coverage
       (A) Standard method
          Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3), a group health plan shall count a period of creditable coverage without regard to the specific benefits for which coverage is offered during the period.
@@ -110,3 +116,18 @@
         (i) in the case of marriage, not later than the first day of the first month beginning after the date the completed request for enrollment is received;
         (ii) in the case of a dependent“s birth, as of the date of such birth; or
         (iii) in the case of a dependent“s adoption or placement for adoption, the date of such adoption or placement for adoption.
+    (3) Special rules relating to Medicaid and CHIP
+      (A) In general
+         A group health plan shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+        (i) Termination of Medicaid or CHIP coverage
+           The employee or dependent is covered under a Medicaid plan under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act and coverage of the employee or dependent under such a plan is terminated as a result of loss of eligibility for such coverage and the employee requests coverage under the group health plan not later than 60 days after the date of termination of such coverage.
+        (ii) Eligibility for employment assistance under Medicaid or CHIP
+           The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan under such Medicaid plan or State child health plan (including under any waiver or demonstration project conducted under or in relation to such a plan), if the employee requests coverage under the group health plan not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
+      (B) Employee outreach and disclosure
+        (i) Outreach to employees regarding availability of Medicaid and CHIP coverage
+          (I) In general
+             Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee“s dependents. For purposes of compliance with this clause, the employer may use any State-specific model notice developed in accordance with section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181(f)(3)(B)(i)(II)).
+          (II) Option to provide concurrent with provision of plan materials to employee
+             An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 104(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024).
+        (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
+           In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children“s Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.

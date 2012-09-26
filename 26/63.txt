@@ -10,8 +10,9 @@
        Except as otherwise provided in this subsection, the term ””standard deduction““ means the sum of–
       (A) the basic standard deduction,
       (B) the additional standard deduction,
-      (C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction, and
-      (D) the disaster loss deduction.
+      (C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
+      (D) the disaster loss deduction, and
+      (E) the motor vehicle sales tax deduction.
     (2) Basic standard deduction
        For purposes of paragraph (1), the basic standard deduction is–
       (A) 200 percent of the dollar amount in effect under subparagraph (C) for the taxable year in the case of–
@@ -45,6 +46,8 @@
        Any taxes taken into account under section 62(a) shall not be taken into account under this paragraph.
     (8) Disaster loss deduction
        For the purposes of paragraph (1), the term ””disaster loss deduction““ means the net disaster loss (as defined in section 165(h)(3)(B)).
+    (9) Motor vehicle sales tax deduction
+       For purposes of paragraph (1), the term ””motor vehicle sales tax deduction““ means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
   (d) Itemized deductions
      For purposes of this subtitle, the term ””itemized deductions““ means the deductions allowable under this chapter other than–
     (1) the deductions allowable in arriving at adjusted gross income, and

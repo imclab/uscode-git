@@ -6,12 +6,8 @@
     (4) 30 percent of the qualified small wind energy property expenditures made by the taxpayer during such year, and
     (5) 30 percent of the qualified geothermal heat pump property expenditures made by the taxpayer during such year.
   (b) Limitations
-    (1) Maximum credit
-       The credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed–
-      (A) $2,000 with respect to any qualified solar water heating property expenditures,
-      (B) $500 with respect to each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
-      (C) $500 with respect to each half kilowatt of capacity (not to exceed $4,000) of wind turbines for which qualified small wind energy property expenditures are made, and
-      (D) $2,000 with respect to any qualified geothermal heat pump property expenditures.
+    (1) Maximum credit for fuel cells
+       In the case of any qualified fuel cell property expenditure, the credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed $500 with respect to each half kilowatt of capacity of the qualified fuel cell property (as defined in section 48(c)(1)) to which such expenditure relates.
     (2) Certification of solar water heating property
        No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.
   (c) Limitation based on amount of tax; carryforward of unused credit
@@ -49,19 +45,16 @@
        No expenditure relating to a solar panel or other property installed as a roof (or portion thereof) shall fail to be treated as property described in paragraph (1) or (2) of subsection (d) solely because it constitutes a structural component of the structure on which it is installed.
     (3) Swimming pools, etc., used as storage medium
        Expenditures which are properly allocable to a swimming pool, hot tub, or any other energy storage medium which has a function other than the function of such storage shall not be taken into account for purposes of this section.
-    (4) Dollar amounts in case of joint occupancy
-       In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:
-      (A) T4Maximum expendituresK.–The maximum amount of expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be–
-        (i) $6,667 in the case of any qualified solar water heating property expenditures,
-        (ii) $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
-        (iii) $1,667 in the case of each half kilowatt of capacity (not to exceed $13,333) of wind turbines for which qualified small wind energy property expenditures are made, and
-        (iv) $6,667 in the case of any qualified geothermal heat pump property expenditures.
-      (B) T4Allocation of expendituresK.–The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of–
+    (4) Fuel cell expenditure limitations in case of joint occupancy
+       In the case of any dwelling unit with respect to which qualified fuel cell property expenditures are made and which is jointly occupied and used during any calendar year as a residence by two or more individuals, the following rules shall apply:
+      (A) Maximum expenditures for fuel cells
+         The maximum amount of such expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) with respect to which such expenditures relate.
+      (B) Allocation of expenditures
+         The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of–
         (i) the amount of expenditures made by such individual with respect to such dwelling during such calendar year, or
         (ii) the maximum amount of such expenditures set forth in subparagraph (A) multiplied by a fraction–
           (I) the numerator of which is the amount of such expenditures with respect to such dwelling made by such individual during such calendar year, and
           (II) the denominator of which is the total expenditures made by all such individuals with respect to such dwelling during such calendar year.
-      (C) Subparagraphs (A) and (B) shall be applied separately with respect to expenditures described in paragraphs (1), (2), and (3) of subsection (d).
     (5) Tenant-stockholder in cooperative housing corporation
        In the case of an individual who is a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), such individual shall be treated as having made his tenant-stockholder“s proportionate share (as defined in section 216(b)(3)) of any expenditures of such corporation.
     (6) Condominiums
@@ -76,8 +69,6 @@
          Except as provided in subparagraph (B), an expenditure with respect to an item shall be treated as made when the original installation of the item is completed.
       (B) Expenditures part of building construction
          In the case of an expenditure in connection with the construction or reconstruction of a structure, such expenditure shall be treated as made when the original use of the constructed or reconstructed structure by the taxpayer begins.
-    (9) Property financed by subsidized energy financing
-       For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).
   (f) Basis adjustments
      For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
   (g) Termination
