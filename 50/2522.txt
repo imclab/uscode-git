@@ -3,6 +3,32 @@
   (b) Coordination with Secretary of Defense
      The Secretary of Energy, in developing the criteria required by subsection (a), shall coordinate with the Secretary of Defense.
   (c) Report
-     Not later than March 1, 2000, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the efforts by the Department of Energy to develop the criteria required by subsection (a). The report shall include–
-    (1) a description of the information needed to determine that the nuclear weapons stockpile is safe and reliable and the relationship of the science-based tools to the collection of that information; and
-    (2) a description of the criteria required by subsection (a) to the extent they have been developed as of the date of the submission of the report.
+    (1) In each odd-numbered year, beginning in 2011, the Secretary of Energy shall include in the stockpile stewardship plan required by section 2523 of this title a report containing the following elements:
+      (A) A description of the information needed to determine that the nuclear weapons stockpile is safe and reliable and the relationship of the science-based tools to the collection of that information.
+      (B) A description of any updates to the criteria established under subsection (a) during–
+        (i) the previous two years; or
+        (ii) with respect to the report in 2011, the period beginning on the date of the submission of the report under section 3133 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1751; 50 U.S.C. 2523 note) and ending on the date of the submission of the 2011 stockpile stewardship plan required by section 2523 of this title.
+      (C) For each science-based tool to collect information needed to determine that the nuclear weapons stockpile is safe, secure, and reliable that is developed or modified by the Department of Energy during the relevant period described in subparagraph (B)–
+        (i) a description of the relationship of the science-based tool to the collection of such information; and
+        (ii) a description of criteria for assessing the effectiveness of the science-based tool in collecting such information.
+      (D) An assessment described in paragraph (2).
+    (2) An assessment described in this paragraph is an assessment of the stockpile stewardship program conducted by the Administrator for Nuclear Security in consultation with the directors of the national security laboratories. Such assessment shall set forth the following:
+      (A) An identification and description of–
+        (i) any key technical challenges to the stockpile stewardship program; and
+        (ii) the strategies to address such challenges without the use of nuclear testing.
+      (B) A strategy for using the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory to ensure that the nuclear weapons stockpile is safe, secure, and reliable without the use of nuclear testing.
+      (C) An assessment of the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program.
+      (D) An assessment of the core scientific and technical competencies required to achieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Department of Energy, including–
+        (i) the number of scientists, engineers, and technicians, by discipline, required to maintain such competencies; and
+        (ii) a description of any shortage of such individuals that exists at the time of the assessment compared with any shortage expected to exist during the period covered by the future-years nuclear security program.
+  (d) Definitions
+     In this section:
+    (1) The term ””future-years nuclear security program““ means the program required by section 2453 of this title.
+    (2) The term ””national security laboratory““ has the meaning given such term in section 2471 of this title.
+    (3) The term ””weapons activities““ means each activity within the budget category of weapons activities in the budget of the National Nuclear Security Administration.
+    (4) The term ””weapons-related activities““ means each activity under the Department of Energy that involves nuclear weapons, nuclear weapons technology, or fissile or radioactive materials, including activities related to–
+      (A) nuclear nonproliferation;
+      (B) nuclear forensics;
+      (C) nuclear intelligence;
+      (D) nuclear safety; and
+      (E) nuclear incident response.
