@@ -1,4 +1,4 @@
-  (a) T4Whistleblower Protection for Employees of Publicly Traded CompaniesK.–No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78T3lK), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78T3oK(d)), or any officer, employee, contractor, subcontractor, or agent of such company, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee–
+  (a) T4Whistleblower Protection for Employees of Publicly Traded CompaniesK.–No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78T3lK), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78T3oK(d)) including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company, or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),\1\N or any officer, employee, contractor, subcontractor, or agent of such company or nationally recognized statistical rating organization, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee–
     (1) to provide information, cause information to be provided, or otherwise assist in an investigation regarding any conduct which the employee reasonably believes constitutes a violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders, when the information or assistance is provided to or the investigation is conducted by–
       (A) a Federal regulatory or law enforcement agency;
       (B) any Member of Congress or any committee of Congress; or
@@ -12,7 +12,8 @@
       (A) T4In generalK.–An action under paragraph (1)(A) shall be governed under the rules and procedures set forth in section 42121(b) of title 49, United States Code.
       (B) T4ExceptionK.–Notification made under section 42121(b)(1) of title 49, United States Code, shall be made to the person named in the complaint and to the employer.
       (C) T4Burdens of proofK.–An action brought under paragraph (1)(B) shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49, United States Code.
-      (D) T4Statute of limitationsK.–An action under paragraph (1) shall be commenced not later than 90 days after the date on which the violation occurs.
+      (D) T4Statute of limitationsK.–An action under paragraph (1) shall be commenced not later than 180 days after the date on which the violation occurs, or after the date on which the employee became aware of the violation.
+      (E) T4Jury trialK.–A party to an action brought under paragraph (1)(B) shall be entitled to trial by jury.
   (c) T4Remedies.–
     (1) T4In generalK.–An employee prevailing in any action under subsection (b)(1) shall be entitled to all relief necessary to make the employee whole.
     (2) T4Compensatory damagesK.–Relief for any action under paragraph (1) shall include–
@@ -20,3 +21,6 @@
       (B) the amount of back pay, with interest; and
       (C) compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
   (d) T4Rights Retained by EmployeeK.–Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.
+  (e) T4Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.–
+    (1) T4Waiver of rights and remediesK.–The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+    (2) T4Predispute arbitration agreementsK.–No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.

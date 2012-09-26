@@ -1,12 +1,23 @@
   (a) It is unlawful to offer or display for sale or sell any good, with or without a Government trademark, in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian or Indian tribe or Indian arts and crafts organization, resident within the United States.
-  (b) Whoever knowingly violates subsection (a) shall–
-    (1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
-    (2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000.
+  (b) T4PenaltyK.–Any person that knowingly violates subsection (a) shall–
+    (1) in the case of a first violation by that person–
+      (A) if the applicable goods are offered or displayed for sale at a total price of $1,000 or more, or if the applicable goods are sold for a total price of $1,000 or more–
+        (i) in the case of an individual, be fined not more than $250,000, imprisoned for not more than 5 years, or both; and
+        (ii) in the case of a person other than an individual, be fined not more than $1,000,000; and
+      (B) if the applicable goods are offered or displayed for sale at a total price of less than $1,000, or if the applicable goods are sold for a total price of less than $1,000–
+        (i) in the case of an individual, be fined not more than $25,000, imprisoned for not more than 1 year, or both; and
+        (ii) in the case of a person other than an individual, be fined not more than $100,000; and
+    (2) in the case of a subsequent violation by that person, regardless of the amount for which any good is offered or displayed for sale or sold–
+      (A) in the case of an individual, be fined under this title, imprisoned for not more than 15 years, or both; and
+      (B) in the case of a person other than an individual, be fined not more than $5,000,000.
   (c) As used in this section–
     (1) the term ””Indian““ means any individual who is a member of an Indian tribe, or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
     (2) the terms ””Indian product““ and ””product of a particular Indian tribe or Indian arts and crafts organization““ has the meaning given such term in regulations which may be promulgated by the Secretary of the Interior;
-    (3) the term ””Indian tribe““ means–
-      (A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
-      (B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and
+    (3) the term ””Indian tribe““–
+      (A) has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b); and
+      (B) includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by–
+        (i) a State legislature;
+        (ii) a State commission; or
+        (iii) another similar organization vested with State legislative tribal recognition authority; and
     (4) the term ””Indian arts and crafts organization““ means any legally established arts and crafts marketing organization composed of members of Indian tribes.
   (d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
