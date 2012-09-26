@@ -79,15 +79,96 @@
       (A) T4Pilots of certain small aircraftK.–Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual“s employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
       (B) T4Good faith exceptionK.–Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists or from a foreign government or entity that employed the individual, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
     (15) T4Electronic access to faa recordsK.–For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
-      (i) T4Limitation on Liability; Preemption of State Law.–
-        (1) T4Limitation on liabilityK.–No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under paragraph (2), against–
-          (A) the air carrier requesting the records of that individual under subsection (h)(1);
+    (16) T4ApplicabilityK.–This subsection shall cease to be effective on the date specified in regulations issued under subsection (i).
+      (i) FAA T4Pilot Records Database.–
+        (1) T4In generalK.–Before allowing an individual to begin service as a pilot, an air carrier shall access and evaluate, in accordance with the requirements of this subsection, information pertaining to the individual from the pilot records database established under paragraph (2).
+        (2) T4Pilot records databaseK.–The Administrator shall establish an electronic database (in this subsection referred to as the ””database““) containing the following records:
+          (A) FAA T4recordsK.–From the Administrator–
+            (i) records that are maintained by the Administrator concerning current airman certificates, including airman medical certificates and associated type ratings and information on any limitations to those certificates and ratings;
+            (ii) records that are maintained by the Administrator concerning any failed attempt of an individual to pass a practical test required to obtain a certificate or type rating under part 61 of title 14, Code of Federal Regulations; and
+            (iii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
+          (B) T4Air carrier and other recordsK.–From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from the trustee in bankruptcy for the air carrier or person–
+            (i) records pertaining to the individual that are maintained by the air carrier (other than records relating to flight time, duty time, or rest time) or person, including records under regulations set forth in–
+              (I) section 121.683 of title 14, Code of Federal Regulations;
+              (II) section 121.111(a) of such title;
+              (III) section 121.219(a) of such title;
+              (IV) section 125.401 of such title; and
+              (V) section 135.63(a)(4) of such title; and
+            (ii) other records pertaining to the individual“s performance as a pilot that are maintained by the air carrier or person concerning–
+              (I) the training, qualifications, proficiency, or professional competence of the individual, including comments and evaluations made by a check airman designated in accordance with section 121.411, 125.295, or 135.337 of such title;
+              (II) any disciplinary action taken with respect to the individual that was not subsequently overturned; and
+              (III) any release from employment or resignation, termination, or disqualification with respect to employment.
+          (C) T4National driver register recordsK.–In accordance with section 30305(b)(8) of this title, from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
+        (3) T4Written consent; release from liabilityK.–An air carrier–
+          (A) shall obtain the written consent of an individual before accessing records pertaining to the individual under paragraph (1); and
+          (B) may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier in accordance with this section (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
+        (4) T4Reporting.–
+          (A) T4Reporting by administratorK.–The Administrator shall enter data described in paragraph (2)(A) into the database promptly to ensure that an individual“s records are current.
+          (B) T4Reporting by air carriers and other persons.–
+            (i) T4In generalK.–Air carriers and other persons shall report data described in paragraphs (2)(B) and (2)(C) to the Administrator promptly for entry into the database.
+            (ii) T4Data to be reportedK.–Air carriers and other persons shall report, at a minimum, under clause (i) the following data described in paragraph (2)(B):
+              (I) Records that are generated by the air carrier or other person after the date of enactment of this paragraph.
+              (II) Records that the air carrier or other person is maintaining, on such date of enactment, pursuant to subsection (h)(4).
+        (5) T4Requirement to maintain recordsK.–The Administrator–
+          (A) shall maintain all records entered into the database under paragraph (2) pertaining to an individual until the date of receipt of notification that the individual is deceased; and
+          (B) may remove the individual“s records from the database after that date.
+        (6) T4Receipt of consentK.–The Administrator shall not permit an air carrier to access records pertaining to an individual from the database under paragraph (1) without the air carrier first demonstrating to the satisfaction of the Administrator that the air carrier has obtained the written consent of the individual.
+        (7) T4Right of pilot to review certain records and correct inaccuraciesK.–Notwithstanding any other provision of law or agreement, the Administrator, upon receipt of written request from an individual–
+          (A) shall make available, not later than 30 days after the date of the request, to the individual for review all records referred to in paragraph (2) pertaining to the individual; and
+          (B) shall provide the individual with a reasonable opportunity to submit written comments to correct any inaccuracies contained in the records.
+        (8) T4Reasonable charges for processing requests and furnishing copies.–
+          (A) T4In generalK.–The Administrator may establish a reasonable charge for the cost of processing a request under paragraph (1) or (7) and for the cost of furnishing copies of requested records under paragraph (7).
+          (B) T4Crediting appropriationsK.–Funds received by the Administrator pursuant to this paragraph shall–
+            (i) be credited to the appropriation current when the amount is received;
+            (ii) be merged with and available for the purposes of such appropriation; and
+            (iii) remain available until expended.
+        (9) T4Privacy protections.–
+          (A) T4Use of recordsK.–An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+          (B) T4Disclosure of information.–
+            (i) T4In generalK.–Except as provided by clause (ii), information collected by the Administrator under paragraph (2) shall be exempt from the disclosure requirements of section 552 of title 5.
+            (ii) T4ExceptionsK.–Clause (i) shall not apply to–
+              (I) deidentified, summarized information to explain the need for changes in policies and regulations;
+              (II) information to correct a condition that compromises safety;
+              (III) information to carry out a criminal investigation or prosecution;
+              (IV) information to comply with section 44905, regarding information about threats to civil aviation; and
+              (V) such information as the Administrator determines necessary, if withholding the information would not be consistent with the safety responsibilities of the Federal Aviation Administration.
+        (10) T4Periodic reviewK.–Not later than 18 months after the date of enactment of this paragraph, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry–
+          (A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be included in the database under paragraph (2); or
+          (B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
+        (11) T4Regulations for protection and security of recordsK.–The Administrator shall prescribe such regulations as may be necessary–
+          (A) to protect and secure–
+            (i) the personal privacy of any individual whose records are accessed under paragraph (1); and
+            (ii) the confidentiality of those records; and
+          (B) to preclude the further dissemination of records received under paragraph (1) by the person who accessed the records.
+        (12) T4Good faith exceptionK.–Notwithstanding paragraph (1), an air carrier may allow an individual to begin service as a pilot, without first obtaining information described in paragraph (2)(B) from the database pertaining to the individual, if–
+          (A) the air carrier has made a documented good faith attempt to access the information from the database; and
+          (B) the air carrier has received written notice from the Administrator that the information is not contained in the database because the individual was employed by an air carrier or other person that no longer exists or by a foreign government or other entity that has not provided the information to the database.
+        (13) T4Limitations on electronic access to records.–
+          (A) T4Access by individuals designated by air carriersK.–For the purpose of increasing timely and efficient access to records described in paragraph (2), the Administrator may allow, under terms established by the Administrator, an individual designated by an air carrier to have electronic access to the database.
+          (B) T4TermsK.–The terms established by the Administrator under subparagraph (A) for allowing a designated individual to have electronic access to the database shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that–
+            (i) the designated individual has received the written consent of the pilot applicant to access the information; and
+            (ii) information obtained using such access will not be used for any purpose other than making the hiring decision.
+        (14) T4Authorized expendituresK.–Of amounts appropriated under section 106(k)(1), a total of $6,000,000 for fiscal years 2010 through 2013 may be used to carry out this subsection.
+        (15) T4Regulations.–
+          (A) T4In generalK.–The Administrator shall issue regulations to carry out this subsection.
+          (B) T4Effective dateK.–The regulations shall specify the date on which the requirements of this subsection take effect and the date on which the requirements of subsection (h) cease to be effective.
+          (C) T4ExceptionsK.–Notwithstanding subparagraph (B)–
+            (i) the Administrator shall begin to establish the database under paragraph (2) not later than 90 days after the date of enactment of this paragraph;
+            (ii) the Administrator shall maintain records in accordance with paragraph (5) beginning on the date of enactment of this paragraph; and
+            (iii) air carriers and other persons shall maintain records to be reported to the database under paragraph (4)(B) in the period beginning on such date of enactment and ending on the date that is 5 years after the requirements of subsection (h) cease to be effective pursuant to subparagraph (B).
+        (16) T4Special ruleK.–During the one-year period beginning on the date on which the requirements of this section become effective pursuant to paragraph (15)(B), paragraph (7)(A) shall be applied by substituting ””45 days““ for ””30 days““.
+      (j) T4Limitations on Liability; Preemption of State Law.–
+        (1) T4Limitation on liabilityK.–No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under subsection (h)(2) or (i)(3), against–
+          (A) the air carrier requesting the records of that individual under subsection (h)(1) or accessing the records of that individual under subsection (i)(1);
           (B) a person who has complied with such request;
           (C) a person who has entered information contained in the individual“s records; or
           (D) an agent or employee of a person described in subparagraph (A) or (B);
-         in the nature of an action for defamation, invasion of privacy, negligence, interference with contract, or otherwise, or under any Federal or State law with respect to the furnishing or use of such records in accordance with subsection (h).
-        (2) T4PreemptionK.–No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h).
-        (3) T4Provision of knowingly false informationK.–Paragraphs (1) and (2) shall not apply with respect to a person who furnishes information in response to a request made under subsection (h)(1), that–
+         in the nature of an action for defamation, invasion of privacy, negligence, interference with contract, or otherwise, or under any Federal or State law with respect to the furnishing or use of such records in accordance with subsection (h) or (i).
+        (2) T4PreemptionK.–No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h) or (i).
+        (3) T4Provision of knowingly false informationK.–Paragraphs (1) and (2) shall not apply with respect to a person who furnishes information in response to a request made under subsection (h)(1) or who furnished information to the database established under subsection (i)(2), that–
           (A) the person knows is false; and
           (B) was maintained in violation of a criminal statute of the United States.
-      (j) T4Limitation on Statutory ConstructionK.–Nothing in subsection (h) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
+        (4) T4Prohibition on actions and proceedings against air carriers.–
+          (A) T4Hiring decisionsK.–An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
+          (B) T4Actions and proceedingsK.–No action or proceeding may be brought against an air carrier by or on behalf of an individual who has applied for or is seeking a position as a pilot with the air carrier if the air carrier refused to hire the individual after the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute a release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
+      (k) T4Limitation on Statutory ConstructionK.–Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
