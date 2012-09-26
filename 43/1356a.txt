@@ -1,54 +1,119 @@
-  (a) In general
-     Nothing in this section shall be construed as a permanent authorization.
-  (b) Definitions
-     When used in this section:
-    (1) The term ””coastal political subdivision““ means a county, parish, or any equivalent subdivision of a Producing Coastal State all or part of which subdivision lies within the coastal zone (as defined in section 304(1) of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453(1)).
-    (2) The term ””coastal population““ means the population of all political subdivisions, as determined by the most recent official data of the Census Bureau, contained in whole or in part within the designated coastal boundary of a State as defined in a State“s coastal zone management program under the Coastal Zone Management Act \1\N (16 U.S.C. 1451 et seq.).
-    (3) The term ””Coastal State““ has the same meaning as provided by subsection 304(4) of the Coastal Zone Management Act \1\ (16 U.S.C. 1453(4)).
-    (4) The term ””coastline““ has the same meaning as the term ””coast line““ as defined in subsection \2\N 1301(c) of this title.
-    (5) The term ””distance““ means minimum great circle distance, measured in statute miles.
-    (6) The term ””leased tract““ means a tract maintained under section 1335 of this title or leased under section 1337 of this title for the purpose of drilling for, developing, and producing oil and natural gas resources.
-    (7) The term ””Producing Coastal State““ means a Coastal State with a coastal seaward boundary within 200 miles from the geographic center of a leased tract other than a leased tract within any area of the Outer Continental Shelf where a moratorium on new leasing was in effect as of January 1, 2000, unless the lease was issued prior to the establishment of the moratorium and was in production on January 1, 2000.
-    (8) The term ””qualified Outer Continental Shelf revenues““ means all amounts received by the United States from each leased tract or portion of a leased tract lying seaward of the zone defined and governed by section 1337(g) of this title, or lying within such zone but to which section 1337(g) of this title does not apply, the geographic center of which lies within a distance of 200 miles from any part of the coastline of any Coastal State, including bonus bids, rents, royalties (including payments for royalties taken in kind and sold), net profit share payments, and related late payment interest. Such term does not include any revenues from a leased tract or portion of a leased tract that is included within any area of the Outer Continental Shelf where a moratorium on new leasing was in effect as of January 1, 2000, unless the lease was issued prior to the establishment of the moratorium and was in production on January 1, 2000.
-    (9) The term ””Secretary““ means the Secretary of Commerce.
-  (c) Authorization
-     For fiscal year 2001, $150,000,000 is authorized to be appropriated for the purposes of this section.
-  (d) Impact assistance payments to States and political subdivisions
-     The Secretary shall make payments from the amounts available under this section to Producing Coastal States with an approved Coastal Impact Assistance Plan, and to coastal political subdivisions as follows:
-    (1) Allocations to Producing Coastal States
-       In each fiscal year, each Producing Coastal State“s allocable share shall be equal to the sum of the following:
-      (A) 60 percent of the amounts appropriated shall be equally divided among all Producing Coastal States;
-      (B) 40 percent of the amounts appropriated for the purposes of this section shall be divided among Producing Coastal States based on Outer Continental Shelf production, except that of such amounts no Producing Coastal State may receive more than 25 percent in any fiscal year.
-    (2) Calculation
-       The amount for each Producing Coastal State under paragraph (1)(B) shall be calculated based on the ratio of qualified OCS revenues generated off the coastline of the Producing Coastal State to the qualified OCS revenues generated off the coastlines of all Producing Coastal States for the period beginning on January 1, 1995 and ending on December 31, 2000. Where there is more than one Producing Coastal State within 200 miles of a leased tract, the amount of each Producing Coastal State“s payment under paragraph (1)(B) for such leased tract shall be inversely proportional to the distance between the nearest point on the coastline of such State and the geographic center of each leased tract or portion of the leased tract (to the nearest whole mile) that is within 200 miles of that coastline, as determined by the Secretary. A leased tract or portion of a leased tract shall be excluded if the tract or portion is located in a geographic area where a moratorium on new leasing was in effect on January 1, 2000, unless the lease was issued prior to the establishment of the moratorium and was in production on January 1, 2000.
-    (3) Payments to coastal political subdivisions
-       Thirty-five percent of each Producing Coastal State“s allocable share as determined under paragraph (1) shall be paid directly to the coastal political subdivisions by the Secretary based on the following formula, except that a coastal political subdivision in the State of California that has a coastal shoreline, that is not within 200 miles of the geographic center of a leased tract or portion of a leased tract, and in which there is located one or more oil refineries shall be eligible for that portion of the allocation described in paragraph (C) in the same manner as if that political subdivision were located within a distance of 50 miles from the geographic center of the closest leased tract with qualified Outer Continental Shelf revenues:
-      (A) Twenty-five percent shall be allocated based on the ratio of such coastal political subdivision“s coastal population to the coastal population of all coastal political subdivisions in the Producing Coastal State.
-      (B) Twenty-five percent shall be allocated based on the ratio of such coastal political subdivision“s coastline miles to the coastline miles of all coastal political subdivisions in the Producing Coastal State.
-      (C) Fifty percent shall be allocated based on the relative distance of such coastal political subdivision from any leased tract used to calculate that Producing Coastal State“s allocation using ratios that are inversely proportional to the distance between the point in the coastal political subdivision closest to the geographic center of each leased tract or portion, as determined by the Secretary. For purposes of the calculations under this subparagraph, a leased tract or portion of a leased tract shall be excluded if the leased tract or portion is located in a geographic area where a moratorium on new leasing was in effect on January 1, 2000, unless the lease was issued prior to the establishment of the moratorium and was in production on January 1, 2000.
-    (4) Failure to have plan approved
-       Any amount allocated to a Producing Coastal State or coastal political subdivision but not disbursed because of a failure to have an approved Coastal Impact Assistance Plan under this section shall be allocated equally by the Secretary among all other Producing Coastal States in a manner consistent with this subsection except that the Secretary shall hold in escrow such amount until the final resolution of any appeal regarding the disapproval of a plan submitted under this section. The Secretary may waive the provisions of this paragraph and hold a Producing Coastal State“s allocable share in escrow if the Secretary determines that such State is making a good faith effort to develop and submit, or update, a Coastal Impact Assistance Plan.
-  (e) Coastal Impact Assistance Plan
-    (1) Development and submission of State plans
-       The Governor of each Producing Coastal State shall prepare, and submit to the Secretary, a Coastal Impact Assistance Plan. The Governor shall solicit local input and shall provide for public participation in the development of the plan. The plan shall be submitted to the Secretary by July 1, 2001. Amounts received by Producing Coastal States and coastal political subdivisions may be used only for the purposes specified in the Producing Coastal State“s Coastal Impact Assistance Plan.
+  (a) Definitions
+     In this section:
+    (1) Coastal political subdivision
+       The term ””coastal political subdivision““ means a political subdivision of a coastal State any part of which political subdivision is–
+      (A) within the coastal zone (as defined in section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453)) of the coastal State as of August 8, 2005; and
+      (B) not more than 200 nautical miles from the geographic center of any leased tract.
+    (2) Coastal population
+       The term ””coastal population““ means the population, as determined by the most recent official data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State“s coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
+    (3) Coastal State
+       The term ””coastal State““ has the meaning given the term in section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453).
+    (4) Coastline
+       The term ””coastline““ has the meaning given the term ””coast line““ in section 1301 of this title.
+    (5) Distance
+       The term ””distance““ means the minimum great circle distance, measured in statute miles.
+    (6) Leased tract
+       The term ””leased tract““ means a tract that is subject to a lease under section 1335 or 1337 of this title for the purpose of drilling for, developing, and producing oil or natural gas resources.
+    (7) Leasing moratoria
+       The term ””leasing moratoria““ means the prohibitions on preleasing, leasing, and related activities on any geographic area of the outer Continental Shelf as contained in sections 107 through 109 of division E of the Consolidated Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 3063).
+    (8) Political subdivision
+       The term ””political subdivision““ means the local political jurisdiction immediately below the level of State government, including counties, parishes, and boroughs.
+    (9) Producing State
+      (A) In general
+         The term ””producing State““ means a coastal State that has a coastal seaward boundary within 200 nautical miles of the geographic center of a leased tract within any area of the outer Continental Shelf.
+      (B) Exclusion
+         The term ””producing State““ does not include a producing State, a majority of the coastline of which is subject to leasing moratoria, unless production was occurring on January 1, 2005, from a lease within 10 nautical miles of the coastline of that State.
+    (10) Qualified Outer Continental Shelf revenues
+      (A) In general
+         The term ””qualified Outer Continental Shelf revenues““ means all amounts received by the United States from each leased tract or portion of a leased tract–
+        (i) lying–
+          (I) seaward of the zone covered by section 1337(g) of this title; or
+          (II) within that zone, but to which section 1337(g) of this title does not apply; and
+        (ii) the geographic center of which lies within a distance of 200 nautical miles from any part of the coastline of any coastal State.
+      (B) Inclusions
+         The term ””qualified Outer Continental Shelf revenues““ includes bonus bids, rents, royalties (including payments for royalty taken in kind and sold), net profit share payments, and related late-payment interest from natural gas and oil leases issued under this subchapter.
+      (C) Exclusion
+         The term ””qualified Outer Continental Shelf revenues““ does not include any revenues from a leased tract or portion of a leased tract that is located in a geographic area subject to a leasing moratorium on January 1, 2005, unless the lease was in production on January 1, 2005.
+  (b) Payments to producing States and coastal political subdivisions
+    (1) In general
+       The Secretary shall, without further appropriation, disburse to producing States and coastal political subdivisions in accordance with this section $250,000,000 for each of fiscal years 2007 through 2010.
+    (2) Disbursement
+       In each fiscal year, the Secretary shall disburse to each producing State for which the Secretary has approved a plan under subsection (c) of this section, and to coastal political subdivisions under paragraph (4), such funds as are allocated to the producing State or coastal political subdivision, respectively, under this section for the fiscal year.
+    (3) Allocation among producing States
+      (A) In general
+         Except as provided in subparagraph (C) and subject to subparagraph (D), the amounts available under paragraph (1) shall be allocated to each producing State based on the ratio that–
+        (i) the amount of qualified outer Continental Shelf revenues generated off the coastline of the producing State; bears to
+        (ii) the amount of qualified outer Continental Shelf revenues generated off the coastline of all producing States.
+      (B) Amount of outer Continental Shelf revenues
+         For purposes of subparagraph (A)–
+        (i) the amount of qualified outer Continental Shelf revenues for each of fiscal years 2007 and 2008 shall be determined using qualified outer Continental Shelf revenues received for fiscal year 2006; and
+        (ii) the amount of qualified outer Continental Shelf revenues for each of fiscal years 2009 and 2010 shall be determined using qualified outer Continental Shelf revenues received for fiscal year 2008.
+      (C) Multiple producing States
+         In a case in which more than one producing State is located within 200 nautical miles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between–
+        (i) the nearest point on the coastline of the producing State; and
+        (ii) the geographic center of the leased tract.
+      (D) Minimum allocation
+         The amount allocated to a producing State under subparagraph (A) shall be at least 1 percent of the amounts available under paragraph (1).
+    (4) Payments to coastal political subdivisions
+      (A) In general
+         The Secretary shall pay 35 percent of the allocable share of each producing State, as determined under paragraph (3) to the coastal political subdivisions in the producing State.
+      (B) Formula
+         Of the amount paid by the Secretary to coastal political subdivisions under subparagraph (A)–
+        (i) 25 percent shall be allocated to each coastal political subdivision in the proportion that–
+          (I) the coastal population of the coastal political subdivision; bears to
+          (II) the coastal population of all coastal political subdivisions in the producing State;
+        (ii) 25 percent shall be allocated to each coastal political subdivision in the proportion that–
+          (I) the number of miles of coastline of the coastal political subdivision; bears to
+          (II) the number of miles of coastline of all coastal political subdivisions in the producing State; and
+        (iii) 50 percent shall be allocated in amounts that are inversely proportional to the respective distances between the points in each coastal political subdivision that are closest to the geographic center of each leased tract, as determined by the Secretary.
+      (C) Exception for the State of Louisiana
+         For the purposes of subparagraph (B)(ii), the coastline for coastal political subdivisions in the State of Louisiana without a coastline shall be considered to be \1/3\ the average length of the coastline of all coastal political subdivisions with a coastline in the State of Louisiana.
+      (D) Exception for the State of Alaska
+         For the purposes of carrying out subparagraph (B)(iii) in the State of Alaska, the amounts allocated shall be divided equally among the two coastal political subdivisions that are closest to the geographic center of a leased tract.
+      (E) Exclusion of certain leased tracts
+         For purposes of subparagraph (B)(iii), a leased tract or portion of a leased tract shall be excluded if the tract or portion of a leased tract is located in a geographic area subject to a leasing moratorium on January 1, 2005, unless the lease was in production on that date.
+    (5) No approved plan
+      (A) In general
+         Subject to subparagraph (B) and except as provided in subparagraph (C), in a case in which any amount allocated to a producing State or coastal political subdivision under paragraph (4) or (5) is not disbursed because the producing State does not have in effect a plan that has been approved by the Secretary under subsection (c) of this section, the Secretary shall allocate the undisbursed amount equally among all other producing States.
+      (B) Retention of allocation
+         The Secretary shall hold in escrow an undisbursed amount described in subparagraph (A) until such date as the final appeal regarding the disapproval of a plan submitted under subsection (c) of this section is decided.
+      (C) Waiver
+         The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c) of this section.
+  (c) Coastal impact assistance plan
+    (1) Submission of State plans
+      (A) In general
+         Not later than July 1, 2008, the Governor of a producing State shall submit to the Secretary a coastal impact assistance plan.
+      (B) Public participation
+         In carrying out subparagraph (A), the Governor shall solicit local input and provide for public participation in the development of the plan.
     (2) Approval
-       The Secretary shall approve a plan under paragraph (1) prior to disbursement of amounts under this section. The Secretary shall approve the plan if the Secretary determines that the plan is consistent with the uses set forth in subsection (f) of this section and if the plan contains each of the following:
-      (A) The name of the State agency that will have the authority to represent and act for the State in dealing with the Secretary for purposes of this section.
-      (B) A program for the implementation of the plan which describes how the amounts provided under this section will be used.
-      (C) A contact for each political subdivision and description of how coastal political subdivisions will use amounts provided under this section, including a certification by the Governor that such uses are consistent with the requirements of this section.
-      (D) Certification by the Governor that ample opportunity has been accorded for public participation in the development and revision of the plan.
-      (E) Measures for taking into account other relevant Federal resources and programs.
-    (3) Procedure
-       The Secretary shall approve or disapprove each plan or amendment within 90 days of its submission.
-    (4) Amendment
-       Any amendment to the plan shall be prepared in accordance with the requirements of this subsection and shall be submitted to the Secretary for approval or disapproval.
-  (f) Authorized uses
-     Producing Coastal States and coastal political subdivisions shall use amounts provided under this section, including any such amounts deposited in a State or coastal political subdivision administered trust fund dedicated to uses consistent with this subsection, in compliance with Federal and State law and only for one or more of the following purposes:
-    (1) uses set forth in new section 32(c)(4) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.) proposed by the amendment to H.R. 701 of the 106th Congress as reported by the Senate Committee on Energy and Natural Resources;
-    (2) projects and activities for the conservation, protection or restoration of wetlands;
-    (3) mitigating damage to fish, wildlife or natural resources, including such activities authorized under subtitle B of title IV of the Oil Pollution Act of 1990 (33 U.S.C. 1321(c), (d));
-    (4) planning assistance and administrative costs of complying with the provisions of this section;
-    (5) implementation of Federally approved marine, coastal, or comprehensive conservation management plans; and
-    (6) mitigating impacts of Outer Continental Shelf activities through funding of (A) onshore infrastructure projects and (B) other public service needs intended to mitigate the environmental effects of Outer Continental Shelf activities: T3ProvidedK, That funds made available under this paragraph shall not exceed 23 percent of the funds provided under this section.
-  (g) Compliance with authorized uses
-     If the Secretary determines that any expenditure made by a Producing Coastal State or coastal political subdivision is not consistent with the uses authorized in subsection (f) of this section, the Secretary shall not disburse any further amounts under this section to that Producing Coastal State or coastal political subdivision until the amounts used for the inconsistent expenditure have been repaid or obligated for authorized uses.
+      (A) In general
+         The Secretary shall approve a plan of a producing State submitted under paragraph (1) before disbursing any amount to the producing State, or to a coastal political subdivision located in the producing State, under this section.
+      (B) Components
+         The Secretary shall approve a plan submitted under paragraph (1) if–
+        (i) the Secretary determines that the plan is consistent with the uses described in subsection (d) of this section; and
+        (ii) the plan contains–
+          (I) the name of the State agency that will have the authority to represent and act on behalf of the producing State in dealing with the Secretary for purposes of this section;
+          (II) a program for the implementation of the plan that describes how the amounts provided under this section to the producing State will be used;
+          (III) for each coastal political subdivision that receives an amount under this section–
+            (aa) the name of a contact person; and
+            (bb) a description of how the coastal political subdivision will use amounts provided under this section;
+          (IV) a certification by the Governor that ample opportunity has been provided for public participation in the development and revision of the plan; and
+          (V) a description of measures that will be taken to determine the availability of assistance from other relevant Federal resources and programs.
+    (3) Amendment
+       Any amendment to a plan submitted under paragraph (1) shall be–
+      (A) developed in accordance with this subsection; and
+      (B) submitted to the Secretary for approval or disapproval under paragraph (4).
+    (4) Procedure
+       Not later than 90 days after the date on which a plan or amendment to a plan is submitted under paragraph (1) or (3), the Secretary shall approve or disapprove the plan or amendment.
+  (d) Authorized uses
+    (1) In general
+       A producing State or coastal political subdivision shall use all amounts received under this section, including any amount deposited in a trust fund that is administered by the State or coastal political subdivision and dedicated to uses consistent with this section, in accordance with all applicable Federal and State laws, only for one or more of the following purposes:
+      (A) Projects and activities for the conservation, protection, or restoration of coastal areas, including wetland.
+      (B) Mitigation of damage to fish, wildlife, or natural resources.
+      (C) Planning assistance and the administrative costs of complying with this section.
+      (D) Implementation of a federally-approved marine, coastal, or comprehensive conservation management plan.
+      (E) Mitigation of the impact of outer Continental Shelf activities through funding of onshore infrastructure projects and public service needs.
+    (2) Compliance with authorized uses
+       If the Secretary determines that any expenditure made by a producing State or coastal political subdivision is not consistent with this subsection, the Secretary shall not disburse any additional amount under this section to the producing State or the coastal political subdivision until such time as all amounts obligated for unauthorized uses have been repaid or reobligated for authorized uses.
+    (3) Limitation
+       Not more than 23 percent of amounts received by a producing State or coastal political subdivision for any 1 fiscal year shall be used for the purposes described in subparagraphs (C) and (E) of paragraph (1).
