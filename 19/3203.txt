@@ -95,7 +95,9 @@
       (B) Definitions
          In this paragraph–
         (i) United States vessel
-           A ””United States vessel““ is a vessel having a certificate of documentation with a fishery endorsement under chapter 121 of title 46.
+           A ””United States vessel““ is–
+          (I) a vessel that has a certificate of documentation with a fishery endorsement under chapter 121 of title 46; or
+          (II) in the case of a vessel without a fishery endorsement, a vessel that is documented under the laws of the United States and for which a license has been issued pursuant to section 973g of title 16.
         (ii) ATPDEA vessel
            An ””ATPDEA vessel““ is a vessel–
           (I) which is registered or recorded in an ATPDEA beneficiary country;
