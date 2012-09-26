@@ -4,8 +4,24 @@
     (2) copies of such person“s audited (or, if unavailable, unaudited) financial statements, and such other financial information as the corporation may prescribe in regulations.
   (b) Persons required to provide information
      The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor“s controlled group, of a single-employer plan covered by this subchapter, if–
-    (1) the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);
-    (2) the conditions for imposition of a lien described in section 1082(f)(1)(A) and (B) of this title or section 412(n)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
+    (1) the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
+    (2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
     (3) minimum funding waivers in excess of $1,000,000 have been granted with respect to any plan maintained by the contributing sponsor or any member of its controlled group, and any portion thereof is still outstanding.
   (c) Information exempt from disclosure requirements
      Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
+  (d) Additional information required
+    (1) In general
+       The information submitted to the corporation under subsection (a) shall include–
+      (A) the amount of benefit liabilities under the plan determined using the assumptions used by the corporation in determining liabilities;
+      (B) the funding target of the plan determined as if the plan has been in at-risk status for at least 5 plan years; and
+      (C) the funding target attainment percentage of the plan.
+    (2) Definitions
+       For purposes of this subsection:
+      (A) Funding target
+         The term ””funding target““ has the meaning provided under section 1083(d)(1) of this title.
+      (B) Funding target attainment percentage
+         The term ””funding target attainment percentage““ has the meaning provided under section 1082(d)(2) of this title.
+      (C) At-risk status
+         The term ””at-risk status““ has the meaning provided in section 1083(i)(4) of this title.
+  (e) Notice to Congress
+     The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.

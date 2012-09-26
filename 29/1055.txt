@@ -106,7 +106,7 @@
   (f) Employer treated as maintaining a plan
      For the purposes of this part, an employer shall be treated as maintaining a plan if any employee of such employer accrues benefits under such plan by reason of service with such employer.
   (g) Decrease of accrued benefits through amendment of plan
-    (1) The accrued benefit of a participant under a plan may not be decreased by an amendment of the plan, other than an amendment described in section 1082(c)(8) or 1441 of this title.
+    (1) The accrued benefit of a participant under a plan may not be decreased by an amendment of the plan, other than an amendment described in section 1082(d)(2) or 1441 of this title.
     (2) For purposes of paragraph (1), a plan amendment which has the effect of–
       (A) eliminating or reducing an early retirement benefit or a retirement-type subsidy (as defined in regulations), or
       (B) eliminating an optional form of benefit,
@@ -126,7 +126,7 @@
       (A) a single sum payment is available to such participant at the same time or times as the form of distribution being eliminated; and
       (B) such single sum payment is based on the same or greater portion of the participant“s account as the form of distribution being eliminated.
   (h) Notice of significant reduction in benefit accruals
-    (1) An applicable pension plan may not be amended so as to provide for a significant reduction in the rate of future benefit accrual unless the plan administrator provides the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals).
+    (1) An applicable pension plan may not be amended so as to provide for a significant reduction in the rate of future benefit accrual unless the plan administrator provides the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals) and to each employer who has an obligation to contribute to the plan.
     (2) The notice required by paragraph (1) shall be written in a manner calculated to be understood by the average plan participant and shall provide sufficient information (as determined in accordance with regulations prescribed by the Secretary of the Treasury) to allow applicable individuals to understand the effect of the plan amendment. The Secretary of the Treasury may provide a simplified form of notice for, or exempt from any notice requirement, a plan–
       (A) which has fewer than 100 participants who have accrued a benefit under the plan, or
       (B) which offers participants the option to choose between the new benefit formula and the old benefit formula.
@@ -158,11 +158,11 @@
              with respect to employees of the debtor, shall be effective prior to the effective date of such employer“s plan of reorganization.
         (2) Paragraph (1) shall not apply to any plan amendment that–
           (A) the Secretary of the Treasury determines to be reasonable and that provides for only de minimis increases in the liabilities of the plan with respect to employees of the debtor,
-          (B) only repeals an amendment described in section 1082(c)(8) of this title,
+          (B) only repeals an amendment described in section 1082(d)(2) of this title,
           (C) is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26, or
           (D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
-        (3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funded current liability percentage (within the meaning of section 1082(d)(8) of this title) is less than 100 percent after taking into account the effect of the amendment.
-        (4) For purposes of this subsection, the term ””employer““ has the meaning set forth in section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title.
+        (3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title) is less than 100 percent after taking into account the effect of the amendment.
+        (4) For purposes of this subsection, the term ””employer““ has the meaning set forth in section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title.
       (j) Diversification requirements for certain individual account plans
         (1) In general
            An applicable individual account plan shall meet the diversification requirements of paragraphs (2), (3), and (4).
