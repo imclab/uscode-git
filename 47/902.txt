@@ -44,5 +44,6 @@
       (T) The authority to establish, as permitted by law, such interagency committees and working groups composed of representatives of interested agencies and consulting with such departments and agencies as may be necessary for the effective performance of assigned functions.
     (3) Additional communications and information functions
        In addition to the functions described in paragraph (2), the Secretary under paragraph (1)–
-      (A) may assign to the NTIA the performance of functions under section 504(a) of the Communications Satellite Act of 1962 (47 U.S.C. 753(a)); and
-      (B) shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children“s Educational Television under section 394 of this title.
+      (A) may assign to the NTIA the performance of functions under section 504(a) of the Communications Satellite Act of 1962 (47 U.S.C. 753(a));
+      (B) shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children“s Educational Television under section 394 of this title; and
+      (C) shall assign to the NTIA responsibility for providing for the establishment, and overseeing operation, of a second-level Internet domain within the United States country code domain in accordance with section 941 of this title.
