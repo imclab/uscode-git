@@ -18,7 +18,7 @@
         (II) such violation directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons.
     (3) Procedures for collection
       (A) Payment of penalty to Treasury
-         A penalty imposed under this section shall be payable into the Treasury of the United States.
+         A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title.
       (B) Collection of penalties
          If a person upon whom such a penalty is imposed shall fail to pay such penalty within the time prescribed in the court“s order, the Commission may refer the matter to the Attorney General who shall recover such penalty by action in the appropriate United States district court.
       (C) Remedy not exclusive
@@ -28,6 +28,11 @@
     (4) Special provisions relating to a violation of a cease-and-desist order
        In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with such an order, each day of the failure to comply with the order shall be deemed a separate offense.
   (e) Authority of court to prohibit persons from serving as officers and directors
-     In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78T3lK of this title or that is required to file reports pursuant to section 78T3oK(d) of this title if the person“s conduct demonstrates substantial unfitness to serve as an officer or director of any such issuer.
+     In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78T3lK of this title or that is required to file reports pursuant to section 78T3oK(d) of this title if the person“s conduct demonstrates unfitness to serve as an officer or director of any such issuer.
   (f) Prohibition of attorneys“ fees paid from Commission disgorgement funds
      Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys“ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
+  (g) Authority of a court to prohibit persons from participating in an offering of penny stock
+    (1) In general
+       In any proceeding under subsection (a) of this section against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
+    (2) Definition
+       For purposes of this subsection, the term ””person participating in an offering of penny stock““ includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.

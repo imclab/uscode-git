@@ -35,9 +35,75 @@
       (C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness \2\ or insurability or does not furnish any required collateral;
       (D) the consumer has a right to prohibit information contained in the consumer“s file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
       (E) the consumer may exercise the right referred to in subparagraph (D) by notifying a notification system established under section 1681b(e) of this title.
-    (2) Disclosure of address and telephone number
-       A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title.
+    (2) Disclosure of address and telephone number; format
+       A statement under paragraph (1) shall–
+      (A) include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title; and
+      (B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Commission, by rule, in consultation with the Federal banking agencies and the National Credit Union Administration.
     (3) Maintaining criteria on file
        A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness \2\ or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
     (4) Authority of Federal agencies regarding unfair or deceptive acts or practices not affected
        This section is not intended to affect the authority of any Federal or State agency to enforce a prohibition against unfair or deceptive acts or practices, including the making of false or misleading statements in connection with a credit or insurance transaction that is not initiated by the consumer.
+  (e) Red flag guidelines and regulations required
+    (1) Guidelines
+       The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title–
+      (A) establish and maintain guidelines for use by each financial institution and each creditor regarding identity theft with respect to account holders at, or customers of, such entities, and update such guidelines as often as necessary;
+      (B) prescribe regulations requiring each financial institution and each creditor to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A), to identify possible risks to account holders or customers or to the safety and soundness of the institution or customers; and
+      (C) prescribe regulations applicable to card issuers to ensure that, if a card issuer receives notification of a change of address for an existing account, and within a short period of time (during at least the first 30 days after such notification is received) receives a request for an additional or replacement card for the same account, the card issuer may not issue the additional or replacement card, unless the card issuer, in accordance with reasonable policies and procedures–
+        (i) notifies the cardholder of the request at the former address of the cardholder and provides to the cardholder a means of promptly reporting incorrect address changes;
+        (ii) notifies the cardholder of the request by such other means of communication as the cardholder and the card issuer previously agreed to; or
+        (iii) uses other means of assessing the validity of the change of address, in accordance with reasonable policies and procedures established by the card issuer in accordance with the regulations prescribed under subparagraph (B).
+    (2) Criteria
+      (A) In general
+         In developing the guidelines required by paragraph (1)(A), the agencies described in paragraph (1) shall identify patterns, practices, and specific forms of activity that indicate the possible existence of identity theft.
+      (B) Inactive accounts
+         In developing the guidelines required by paragraph (1)(A), the agencies described in paragraph (1) shall consider including reasonable guidelines providing that when a transaction occurs with respect to a credit or deposit account that has been inactive for more than 2 years, the creditor or financial institution shall follow reasonable policies and procedures that provide for notice to be given to a consumer in a manner reasonably designed to reduce the likelihood of identity theft with respect to such account.
+    (3) Consistency with verification requirements
+       Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(T3lK) of title 31.
+  (f) Prohibition on sale or transfer of debt caused by identity theft
+    (1) In general
+       No person shall sell, transfer for consideration, or place for collection a debt that such person has been notified under section 1681c–2 of this title has resulted from identity theft.
+    (2) Applicability
+       The prohibitions of this subsection shall apply to all persons collecting a debt described in paragraph (1) after the date of a notification under paragraph (1).
+    (3) Rule of construction
+       Nothing in this subsection shall be construed to prohibit–
+      (A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
+      (B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
+      (C) the transfer of debt as a result of a merger, acquisition, purchase and assumption transaction, or transfer of substantially all of the assets of an entity.
+  (g) Debt collector communications concerning identity theft
+     If a person acting as a debt collector (as that term is defined in subchapter V of this chapter) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall–
+    (1) notify the third party that the information may be fraudulent or may be the result of identity theft; and
+    (2) upon request of the consumer to whom the debt purportedly relates, provide to the consumer all information to which the consumer would otherwise be entitled if the consumer were not a victim of identity theft, but wished to dispute the debt under provisions of law applicable to that person.
+  (h) Duties of users in certain credit transactions
+    (1) In general
+       Subject to rules prescribed as provided in paragraph (6), if any person uses a consumer report in connection with an application for, or a grant, extension, or other provision of, credit on material terms that are materially less favorable than the most favorable terms available to a substantial proportion of consumers from or through that person, based in whole or in part on a consumer report, the person shall provide an oral, written, or electronic notice to the consumer in the form and manner required by regulations prescribed in accordance with this subsection.
+    (2) Timing
+       The notice required under paragraph (1) may be provided at the time of an application for, or a grant, extension, or other provision of, credit or the time of communication of an approval of an application for, or grant, extension, or other provision of, credit, except as provided in the regulations prescribed under paragraph (6).
+    (3) Exceptions
+       No notice shall be required from a person under this subsection if–
+      (A) the consumer applied for specific material terms and was granted those terms, unless those terms were initially specified by the person after the transaction was initiated by the consumer and after the person obtained a consumer report; or
+      (B) the person has provided or will provide a notice to the consumer under subsection (a) of this section in connection with the transaction.
+    (4) Other notice not sufficient
+       A person that is required to provide a notice under subsection (a) of this section cannot meet that requirement by providing a notice under this subsection.
+    (5) Content and delivery of notice
+       A notice under this subsection shall, at a minimum–
+      (A) include a statement informing the consumer that the terms offered to the consumer are set based on information from a consumer report;
+      (B) identify the consumer reporting agency furnishing the report;
+      (C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge; and
+      (D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title).
+    (6) Rulemaking
+      (A) Rules required
+         The Commission and the Board shall jointly prescribe rules.
+      (B) Content
+         Rules required by subparagraph (A) shall address, but are not limited to–
+        (i) the form, content, time, and manner of delivery of any notice under this subsection;
+        (ii) clarification of the meaning of terms used in this subsection, including what credit terms are material, and when credit terms are materially less favorable;
+        (iii) exceptions to the notice requirement under this subsection for classes of persons or transactions regarding which the agencies determine that notice would not significantly benefit consumers;
+        (iv) a model notice that may be used to comply with this subsection; and
+        (v) the timing of the notice required under paragraph (1), including the circumstances under which the notice must be provided after the terms offered to the consumer were set based on information from a consumer report.
+    (7) Compliance
+       A person shall not be liable for failure to perform the duties required by this section if, at the time of the failure, the person maintained reasonable policies and procedures to comply with this section.
+    (8) Enforcement
+      (A) No civil actions
+         Sections 1681n and 1681T3oK of this title shall not apply to any failure by any person to comply with this section.
+      (B) Administrative enforcement
+         This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.

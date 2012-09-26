@@ -1,18 +1,42 @@
-  (a) Information required to be gathered
-     Each electric utility shall periodically gather information under such rules (promulgated by the Commission) as the Commission determines necessary to allow determination of the costs associated with providing electric service. For purposes of this section, and for purposes of any consideration and determination respecting the standard established by section 2621(d)(2) of this title, such costs shall be separated, to the maximum extent practicable, into the following components: customer cost component, demand cost component, and energy cost component. Rules under this subsection shall include requirements for the gathering of the following information with respect to each electric utility–
-    (1) the costs of serving each electric consumer class, including costs of serving different consumption patterns within such class, based on voltage level, time of use, and other appropriate factors;
-    (2) daily kilowatt demand load curves for all electric consumer classes combined representative of daily and seasonal differences in demand, and daily kilowatt demand load curves for each electric consumer class for which there is a separate rate, representative of daily and seasonal differences in demand;
-    (3) annual capital, operating, and maintenance costs–
-      (A) for transmission and distribution services, and
-      (B) for each type of generating unit; and
-    (4) costs of purchased power, including representative daily and seasonal differences in the amount of such costs.
-       Such rules shall provide that information required to be gathered under this section shall be presented in such categories and such detail as may be necessary to carry out the purposes of this section.
-  (b) Commission rules
-     The Commission shall, within 180 days after November 9, 1978, by rule, prescribe the methods, procedure, and format to be used by electric utilities in gathering the information described in this section. Such rules may provide for the exemption by the Commission of an electric utility or class of electric utilities from gathering all or part of such information, in cases where such utility or utilities show and the Commission finds, after public notice and opportunity for the presentation of written data, views, and arguments, that gathering such information is not likely to carry out the purposes of this section. The Commission shall periodically review such findings and may revise such rules.
-  (c) Filing and publication
-     Not later than two years after November 9, 1978, and periodically, but not less frequently than every two years thereafter, each electric utility shall file with–
-    (1) the Commission, and
-    (2) any State regulatory authority which has ratemaking authority for such utility,
-       the information gathered pursuant to this section and make such information available to the public in such form and manner as the Commission shall prescribe. In addition, at the time of application for, or proposal of, any rate increase, each electric utility shall make such information available to the public in such form and manner as the Commission shall prescribe. The two-year period after November 9, 1978, specified in this subsection may be extended by the Commission for a reasonable additional period in the case of any electric utility for good cause shown.
-  (d) Enforcement
-     For purposes of enforcement, any violation of a requirement of this section shall be treated as a violation of a provision of the Energy Supply and Environmental Coordination Act of 1974 [15 U.S.C. 791 et seq.] enforceable under section 12 of such Act [15 U.S.C. 797] (notwithstanding any expiration date in such Act) except that in applying the provisions of such section 12 any reference to the Federal Energy Administrator shall be treated as a reference to the Commission.
+   For purposes of this subchapter–
+  (1) Accredited asbestos contractor
+     The term ””accredited asbestos contractor““ means a person accredited pursuant to the provisions of section 2646 of this title.
+  (2) Administrator
+     The term ””Administrator““ means the Administrator of the Environmental Protection Agency.
+  (3) Asbestos
+     The term ””asbestos““ means asbestiform varieties of–
+    (A) chrysotile (serpentine),
+    (B) crocidolite (riebeckite),
+    (C) amosite (cummingtonite-grunerite),
+    (D) anthophyllite,
+    (E) tremolite, or
+    (F) actinolite.
+  (4) Asbestos-containing material
+     The term ””asbestos-containing material““ means any material which contains more than 1 percent asbestos by weight.
+  (5) EPA guidance document
+     The term ””Guidance for Controlling Asbestos-Containing Material in Buildings““, means the Environmental Protection Agency document with such title as in effect on March 31, 1986.
+  (6) Friable asbestos-containing material
+     The term ””friable asbestos-containing material““ means any asbestos-containing material applied on ceilings, walls, structural members, piping, duct work, or any other part of a building which when dry may be crumbled, pulverized, or reduced to powder by hand pressure. The term includes non-friable asbestos-containing material after such previously non-friable material becomes damaged to the extent that when dry it may be crumbled, pulverized, or reduced to powder by hand pressure.
+  (7) Local educational agency
+     The term ””local educational agency““ means–
+    (A) any local educational agency as defined in section 7801 of title 20,
+    (B) the owner of any private, nonprofit elementary or secondary school building, and
+    (C) the governing authority of any school operated under the defense dependents“ education system provided for under the Defense Dependents“ Education Act of 1978 (20 U.S.C. 921 et seq.).
+  (8) Most current guidance document
+     The term ””most current guidance document““ means the Environmental Protection Agency“s ””Guidance for Controlling Asbestos-Containing Material in Buildings““ as modified by the Environmental Protection Agency after March 31, 1986.
+  (9) Non-profit elementary or secondary school
+     The term ””non-profit elementary or secondary school““ means any elementary or secondary school (as defined in section 7801 of title 20) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+  (10) Public and commercial building
+     The term ””public and commercial building““ means any building which is not a school building, except that the term does not include any residential apartment building of fewer than 10 units.
+  (11) Response action
+     The term ””response action““ means methods that protect human health and the environment from asbestos-containing material. Such methods include methods described in chapters 3 and 5 of the Environmental Protection Agency“s ””Guidance for Controlling Asbestos-Containing Materials in Buildings““.
+  (12) School
+     The term ””school““ means any elementary or secondary school as defined in section 7801 of title 20.
+  (13) School building
+     The term ””school building““ means–
+    (A) any structure suitable for use as a classroom, including a school facility such as a laboratory, library, school eating facility, or facility used for the preparation of food,
+    (B) any gymnasium or other facility which is specially designed for athletic or recreational activities for an academic course in physical education,
+    (C) any other facility used for the instruction of students or for the administration of educational or research programs, and
+    (D) any maintenance, storage, or utility facility, including any hallway, essential to the operation of any facility described in subparagraphs (A), (B), or (C).
+  (14) State
+     The term ””State““ means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Marianas, the Trust Territory of the Pacific Islands, and the Virgin Islands.

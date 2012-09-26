@@ -16,7 +16,15 @@
       (B) a contract opportunity shall be awarded pursuant to this section on the basis of competition restricted to qualified HUBZone small business concerns if the contracting officer has a reasonable expectation that not less than 2 qualified HUBZone small business concerns will submit offers and that the award can be made at a fair market price; and
       (C) not later than 5 days from the date the Administration is notified of a procurement officer“s decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer“s decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer“s decision with the Secretary of the department or agency head.
     (3) Price evaluation preference in full and open competitions
-       In any case in which a contract is to be awarded on the basis of full and open competition, the price offered by a qualified HUBZone small business concern shall be deemed as being lower than the price offered by another offeror (other than another small business concern), if the price offered by the qualified HUBZone small business concern is not more than 10 percent higher than the price offered by the otherwise lowest, responsive, and responsible offeror.
+      (A) In general
+         Subject to subparagraph (B), in any case in which a contract is to be awarded on the basis of full and open competition, the price offered by a qualified HUBZone small business concern shall be deemed as being lower than the price offered by another offeror (other than another small business concern), if the price offered by the qualified HUBZone small business concern is not more than 10 percent higher than the price offered by the otherwise lowest, responsive, and responsible offeror.
+      (B) Procurement of commodities
+         For purchases by the Secretary of Agriculture of agricultural commodities, the price evaluation preference shall be–
+        (i) 10 percent, for the portion of a contract to be awarded that is not greater than 25 percent of the total volume being procured for each commodity in a single invitation;
+        (ii) 5 percent, for the portion of a contract to be awarded that is greater than 25 percent, but not greater than 40 percent, of the total volume being procured for each commodity in a single invitation; and
+        (iii) zero, for the portion of a contract to be awarded that is greater than 40 percent of the total volume being procured for each commodity in a single invitation.
+      (C) Treatment of preference
+         A contract awarded to a HUBZone small business concern under a preference described in subparagraph (B) shall not be counted toward the fulfillment of any requirement partially set aside for competition restricted to small business concerns.
     (4) Relationship to other contracting preferences
        A procurement may not be made from a source on the basis of a preference provided in paragraph (2) or (3), if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or the Javits-Wagner-O“Day Act (41 U.S.C. 46 et seq.).
   (c) Enforcement; penalties
@@ -32,3 +40,5 @@
        In addition to the penalties described in section 645(d) of this title, any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a ””HUBZone small business concern““ for purposes of this section, shall be subject to–
       (A) section 1001 of title 18; and
       (B) sections 3729 through 3733 of title 31.
+  (d) Authorization of appropriations
+     There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2001 through 2003.

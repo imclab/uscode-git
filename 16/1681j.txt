@@ -1,6 +1,43 @@
-  (a) Reasonable charges allowed for certain disclosures
+  (a) Free annual disclosure
+    (1) Nationwide consumer reporting agencies
+      (A) In general
+         All consumer reporting agencies described in subsections (p) and (w) of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any 12-month period upon request of the consumer and without charge to the consumer.
+      (B) Centralized source
+         Subparagraph (A) shall apply with respect to a consumer reporting agency described in section 1681a(p) of this title only if the request from the consumer is made using the centralized source established for such purpose in accordance with section 211(c) \1\N of the Fair and Accurate Credit Transactions Act of 2003.
+      (C) Nationwide specialty consumer reporting agency
+        (i) In general
+           The Commission shall prescribe regulations applicable to each consumer reporting agency described in section 1681a(w) of this title to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
+        (ii) Considerations
+           In prescribing regulations under clause (i), the Commission shall consider–
+          (I) the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
+          (II) appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and
+          (III) the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
+        (iii) Date of issuance
+           The Commission shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003.
+        (iv) Consideration of ability to comply
+           The regulations of the Commission under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) of this title) shall be required to comply with subsection (a) of this section, which effective date–
+          (I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a) of this section; and
+          (II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Commission determines appropriate).
+    (2) Timing
+       A consumer reporting agency shall provide a consumer report under paragraph (1) not later than 15 days after the date on which the request is received under paragraph (1).
+    (3) Reinvestigations
+       Notwithstanding the time periods specified in section 1681i(a)(1) of this title, a reinvestigation under that section by a consumer reporting agency upon a request of a consumer that is made after receiving a consumer report under this subsection shall be completed not later than 45 days after the date on which the request is received.
+    (4) Exception for first 12 months of operation
+       This subsection shall not apply to a consumer reporting agency that has not been furnishing consumer reports to third parties on a continuing basis during the 12-month period preceding a request under paragraph (1), with respect to consumers residing nationwide.
+  (b) Free disclosure after adverse notice to consumer
+     Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title, or of a notification from a debt collection agency affiliated with that consumer reporting agency stating that the consumer“s credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title.
+  (c) Free disclosure under certain other circumstances
+     Upon the request of the consumer, a consumer reporting agency shall make all disclosures pursuant to section 1681g of this title once during any 12-month period without charge to that consumer if the consumer certifies in writing that the consumer–
+    (1) is unemployed and intends to apply for employment in the 60-day period beginning on the date on which the certification is made;
+    (2) is a recipient of public welfare assistance; or
+    (3) has reason to believe that the file on the consumer at the agency contains inaccurate information due to fraud.
+  (d) Free disclosures in connection with fraud alerts
+     Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title, as applicable.
+  (e) Other charges prohibited
+     A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f) of this section.
+  (f) Reasonable charges allowed for certain disclosures
     (1) In general
-       Except as provided in subsections (b), (c), and (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer–
+       In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer–
       (A) for making a disclosure to the consumer pursuant to section 1681g of this title, which charge–
         (i) shall not exceed $8; and
         (ii) shall be indicated to the consumer before making the disclosure; and
@@ -9,12 +46,3 @@
         (ii) shall be indicated to the consumer before furnishing such information.
     (2) Modification of amount
        The Federal Trade Commission shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
-  (b) Free disclosure after adverse notice to consumer
-     Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title, or of a notification from a debt collection agency affiliated with that consumer reporting agency stating that the consumer“s credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title.
-  (c) Free disclosure under certain other circumstances
-     Upon the request of the consumer, a consumer reporting agency shall make all disclosures pursuant to section 1681g of this title once during any 12-month period without charge to that consumer if the consumer certifies in writing that the consumer–
-    (1) is unemployed and intends to apply for employment in the 60-day period beginning on the date on which the certification is made;
-    (2) is a recipient of public welfare assistance; or
-    (3) has reason to believe that the file on the consumer at the agency contains inaccurate information due to fraud.
-  (d) Other charges prohibited
-     A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (a) of this section.
