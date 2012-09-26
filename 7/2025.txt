@@ -1,5 +1,5 @@
   (a) Administrative costs
-     The Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency“s operation of the food stamp program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of coupons after their delivery to receiving points within the State, (3) the issuance of coupons to all eligible households, (4) food stamp informational activities, including those undertaken under section 2020(e)(1)(A) of this title, but not including recruitment activities, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g) of this section, (7) food stamp program investigations and prosecutions, and (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act (42 U.S.C. 1320b–7(d)): T3ProvidedK, That the Secretary is authorized at the Secretary“s discretion to pay any State agency administering the food stamp program on all or part of an Indian reservation under section 2020(d) of this title such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the food stamp program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
+     Subject to subsection (k) of this section, the Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency“s operation of the food stamp program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of coupons after their delivery to receiving points within the State, (3) the issuance of coupons to all eligible households, (4) food stamp informational activities, including those undertaken under section 2020(e)(1)(A) of this title, but not including recruitment activities, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g) of this section, (7) food stamp program investigations and prosecutions, and (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act (42 U.S.C. 1320b–7(d)): T3ProvidedK, That the Secretary is authorized at the Secretary“s discretion to pay any State agency administering the food stamp program on all or part of an Indian reservation under section 2020(d) of this title such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the food stamp program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
   (b) Work supplementation or support program
     (1) ””Work supplementation or support program““ defined
        In this subsection, the term ””work supplementation or support program““ means a program under which, as determined by the Secretary, public assistance (including any benefits provided under a program established by the State and the food stamp program) is provided to an employer to be used for hiring and employing a public assistance recipient who was not employed by the employer at the time the public assistance recipient entered the program.
@@ -87,10 +87,10 @@
           (II) an additional amount of $131,000,000;
         (iv) for fiscal year 1999–
           (I) $84,000,000; and
-          (II) an additional amount of $131,000,000;
+          (II) an additional amount of $31,000,000;
         (v) for fiscal year 2000–
           (I) $86,000,000; and
-          (II) an additional amount of $131,000,000;
+          (II) an additional amount of $86,000,000;
         (vi) for fiscal year 2001–
           (I) $88,000,000; and
           (II) an additional amount of $131,000,000; and
@@ -122,3 +122,63 @@
         (2) The Secretary may require a State agency to carry out new or modified procedures for the certification of households in areas identified under paragraph (1) if the Secretary determines such procedures would improve the integrity of the food stamp program and be cost effective.
       (j) Training materials regarding certification of farming households
          Not later than 180 days after September 19, 1988, and annually thereafter, the Secretary shall publish instructional materials specifically designed to be used by the State agency to provide intensive training to State agency personnel who undertake the certification of households that include a member who engages in farming.
+      (k) Reductions in payments for administrative costs
+        (1) Definitions
+           In this subsection:
+          (A) AFDC program
+             The term ””AFDC program““ means the program of aid to families with dependent children established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq. (as in effect, with respect to a State, during the base period for that State)).
+          (B) Base period
+             The term ””base period““ means the period used to determine the amount of the State family assistance grant for a State under section 403 of the Social Security Act (42 U.S.C. 603).
+          (C) Medicaid program
+             The term ””medicaid program““ means the program of medical assistance under a State plan or under a waiver of the plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+        (2) Determinations of amounts attributable to benefiting programs
+           Not later than 180 days after June 23, 1998, the Secretary of Health and Human Services, in consultation with the Secretary of Agriculture and the States, shall, with respect to the base period for each State, determine–
+          (A) the annualized amount the State received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as in effect during the base period)) for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDC program, the food stamp program, and the medicaid program that were allocated to the AFDC program; and
+          (B) the annualized amount the State would have received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as so in effect)), section 1903(a)(7) of the Social Security Act (42 U.S.C. 1396b(a)(7) (as so in effect)), and subsection (a) of this section (as so in effect), for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDC program, the food stamp program, and the medicaid program, if those costs had been allocated equally among such programs for which the individual, family, or household was eligible or applied for.
+        (3) Reduction in payment
+          (A) In general
+             Notwithstanding any other provision of this section, effective for each of fiscal years 1999 through 2002, the Secretary shall reduce, for each fiscal year, the amount paid under subsection (a) of this section to each State by an amount equal to the amount determined for the food stamp program under paragraph (2)(B). The Secretary shall, to the extent practicable, make the reductions required by this paragraph on a quarterly basis.
+          (B) Application
+             If the Secretary of Health and Human Services does not make the determinations required by paragraph (2) by September 30, 1999–
+            (i) during the fiscal year in which the determinations are made, the Secretary shall reduce the amount paid under subsection (a) of this section to each State by an amount equal to the sum of the amounts determined for the food stamp program under paragraph (2)(B) for fiscal year 1999 through the fiscal year during which the determinations are made; and
+            (ii) for each subsequent fiscal year through fiscal year 2002, subparagraph (A) applies.
+        (4) Appeal of determinations
+          (A) In general
+             Not later than 5 days after the date on which the Secretary of Health and Human Services makes any determination required by paragraph (2) with respect to a State, the Secretary shall notify the chief executive officer of the State of the determination.
+          (B) Review by administrative law judge
+            (i) In general
+               Not later than 60 days after the date on which a State receives notice under subparagraph (A) of a determination, the State may appeal the determination, in whole or in part, to an administrative law judge of the Department of Health and Human Services by filing an appeal with the administrative law judge.
+            (ii) Documentation
+               The administrative law judge shall consider an appeal filed by a State under clause (i) on the basis of such documentation as the State may submit and as the administrative law judge may require to support the final decision of the administrative law judge.
+            (iii) Review
+               In deciding whether to uphold a determination, in whole or in part, the administrative law judge shall conduct a thorough review of the issues and take into account all relevant evidence.
+            (iv) Deadline
+               Not later than 60 days after the date on which the record is closed, the administrative law judge shall–
+              (I) make a final decision with respect to an appeal filed under clause (i); and
+              (II) notify the chief executive officer of the State of the decision.
+          (C) Review by Departmental Appeals Board
+            (i) In general
+               Not later than 30 days after the date on which a State receives notice under subparagraph (B) of a final decision, the State may appeal the decision, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (referred to in this paragraph as the ””Board““) by filing an appeal with the Board.
+            (ii) Review
+               The Board shall review the decision on the record.
+            (iii) Deadline
+               Not later than 60 days after the date on which the appeal is filed, the Board shall–
+              (I) make a final decision with respect to an appeal filed under clause (i); and
+              (II) notify the chief executive officer of the State of the decision.
+          (D) Judicial review
+             The determinations of the Secretary of Health and Human Services under paragraph (2), and a final decision of the administrative law judge or Board under subparagraphs (B) and (C), respectively, shall not be subject to judicial review.
+          (E) Reduced payments pending appeal
+             The pendency of an appeal under this paragraph shall not affect the requirement that the Secretary reduce payments in accordance with paragraph (3).
+        (5) Allocation of administrative costs
+          (A) In general
+             No funds or expenditures described in subparagraph (B) may be used to pay for costs–
+            (i) eligible for reimbursement under subsection (a) of this section (or costs that would have been eligible for reimbursement but for this subsection); and
+            (ii) allocated for reimbursement to the food stamp program under a plan submitted by a State to the Secretary of Health and Human Services to allocate administrative costs for public assistance programs.
+          (B) Funds and expenditures
+             Subparagraph (A) applies to–
+            (i) funds made available to carry out part A of title IV, or title XX, of the Social Security Act (42 U.S.C. 601 et seq., 1397 et seq.);
+            (ii) expenditures made as qualified State expenditures (as defined in section 409(a)(7)(B) of that Act (42 U.S.C. 609(a)(7)(B)));
+            (iii) any other Federal funds (except funds provided under subsection (a) of this section); and
+            (iv) any other State funds that are–
+              (I) expended as a condition of receiving Federal funds; or
+              (II) used to match Federal funds under a Federal program other than the food stamp program.

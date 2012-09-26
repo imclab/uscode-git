@@ -1,21 +1,34 @@
-  (a) Program required
-     The Secretary of Agriculture (hereinafter in this section referred to as the ””Secretary““) shall conduct a research program for the purpose of–
-    (1) supporting basic and applied research and technology development in the area of plant genome structure and function;
-    (2) providing United States leadership in biotechnology; and
-    (3) providing crop varieties that may be cultivated profitably without negatively impacting the environment.
-  (b) Competitive grants
-     The Secretary may make competitive grants, for periods not to exceed five years, to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals for research projects in the research areas identified in subsection (c) of this section.
-  (c) Research areas
-     Grants available under subsection (b) of this section shall be awarded in the following research areas:
-    (1) Construction of plant genome maps.
-    (2) Identification, characterization, transfer, and expression of genes of agricultural importance.
-    (3) Technology development in the areas of plant genome mapping, sequencing, gene transfer, and data management.
-    (4) Research on microorganisms associated with plants, such as plant pathogens and plant symbionts.
-  (d) Plan for making grants
-     Not later than 90 days after November 28, 1990, the Secretary shall submit to the Congress a detailed plan for awarding grants under this section.
-  (e) Coordination of efforts
-     The Secretary shall coordinate activities under this section with related activities sponsored by the National Science Foundation, the National Institutes of Health, the Department of Energy, and the Department of Commerce.
-  (f) Proprietary interests
-     The Secretary shall require (when the Secretary considers it to be appropriate) licensing and patent agreements, copyright fees, royalties, or other fee arrangements on the sales of products and new uses, applications, technologies, or processes developed through assistance provided under this section.
-  (g) Authorization of appropriations
-     There are authorized to be appropriated for fiscal years 1996 and 1997 such sums as may be necessary to carry out this section.
+  (a) Goals
+     The goals of this section are–
+    (1) to expand the knowledge of public and private sector entities and persons concerning genomes for species of importance to the food and agriculture sectors in order to maximize the return on the investment in genomics of agriculturally important species;
+    (2) to focus on the species that will yield scientifically important results that will enhance the usefulness of many agriculturally important species;
+    (3) to build on genomic research, such as the Human Genome Initiative and the Arabidopsis Genome Project, to understand gene structure and function that is expected to have considerable payoffs in agriculturally important species;
+    (4) to develop improved bioinformatics to enhance both sequence or structure determination and analysis of the biological function of genes and gene products;
+    (5) to encourage Federal Government participants to maximize the utility of public and private partnerships for agricultural genome research;
+    (6) to allow resources developed under this section, including data, software, germplasm, and other biological materials, to be openly accessible to all persons, subject to any confidentiality requirements imposed by law; and
+    (7) to encourage international partnerships with each partner country responsible for financing its own strategy for agricultural genome research.
+  (b) Duties of Secretary
+     The Secretary of Agriculture (referred to in this section as the ””Secretary““) shall conduct a research initiative (to be known as the ””Agricultural Genome Initiative““) for the purpose of–
+    (1) studying and mapping agriculturally significant genes to achieve sustainable and secure agricultural production;
+    (2) ensuring that current gaps in existing agricultural genetics knowledge are filled;
+    (3) identifying and developing a functional understanding of genes responsible for economically important traits in agriculturally important species, including emerging plant and animal diseases causing economic hardship;
+    (4) ensuring future genetic improvement of agriculturally important species;
+    (5) supporting preservation of diverse germplasm;
+    (6) ensuring preservation of biodiversity to maintain access to genes that may be of importance in the future; and
+    (7) otherwise carrying out this section.
+  (c) Grants and cooperative agreements
+    (1) Authority
+       The Secretary may make grants or enter into cooperative agreements with individuals and organizations in accordance with section 3318 of this title.
+    (2) Competitive basis
+       A grant or cooperative agreement under this subsection shall be made or entered into on a competitive basis.
+  (d) Administration
+     Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply with respect to the making of a grant or cooperative agreement under this section.
+  (e) Matching of funds
+    (1) General requirement
+       If a grant or cooperative agreement under this section provides a particular benefit to a specific agricultural commodity, the Secretary shall require the recipient to provide funds or in-kind support to match the amount of funds provided by the Secretary under the grant or cooperative agreement.
+    (2) Waiver
+       The Secretary may waive the matching funds requirement of paragraph (1) with respect to a research project if the Secretary determines that–
+      (A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
+      (B) the project involves a minor commodity, the project deals with scientifically important research, and the recipient is unable to satisfy the matching funds requirement.
+  (f) Consultation with National Academy of Sciences
+     The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.

@@ -1,37 +1,43 @@
-   When used in this chapter–
-  (1) the term ””Advisory Board““ means the National Agricultural Research, Extension, Education, and Economics Advisory Board;
-  (2) the term ””agricultural research““ means research in the food and agricultural sciences;
-  (3) the term ””aquaculture““ means the propagation and rearing of aquacultural species, including, but not limited to, any species of finfish, mollusk, or crustacean (or other aquatic invertebrate), amphibian, reptile, ornamental fish, or aquatic plant, in controlled or selected environments;
-  (4) the terms ””college““ and ””university““ mean an educational institution in any State which (A) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, (B) is legally authorized within such State to provide a program of education beyond secondary education, (C) provides an educational program for which a bachelor“s degree or any other higher degree is awarded, (D) is a public or other nonprofit institution, and (E) is accredited by a nationally recognized accrediting agency or association;
-  (5) the term ””cooperative extension services““ means the organizations established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349), and section 209(b) of the Act of October 26, 1974 (88 Stat. 1428, as amended; D.C. Code, sec. 31–1719(b));
-  (6) the term ””Department of Agriculture““ means the United States Department of Agriculture;
-  (7) the term ””extension““ means the informal education programs conducted in the States in cooperation with the Department of Agriculture;
-  (8) the term ””food and agricultural sciences““ means basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to:
-    (A) agriculture, including soil and water conservation and use, the use of organic waste materials to improve soil tilth and fertility, plant and animal production and protection, and plant and animal health;
-    (B) the processing, distributing, marketing, and utilization of food and agricultural products;
-    (C) forestry, including range management, production of forest and range products, multiple use of forest and range lands, and urban forestry;
-    (D) aquaculture;
-    (E) home economics, including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;
-    (F) rural community welfare and development;
-    (G) youth development, including 4–H clubs;
-    (H) domestic and export market expansion for United States agricultural products;
-    (I) production inputs, such as energy, to improve productivity; and
-    (J) international food and agricultural issues, such as agricultural development, development of institutions, germ plasm collection and preservation, information exchange and storage, and scientific exchanges;
-  (9) the term ””Hispanic-serving institution““ has the meaning given the term by section 1059c(b)(1) of title 20;
-  (10) the term ””land-grant colleges and universities““ means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute;
-  (11) the term ””Secretary““ means the Secretary of Agriculture of the United States;
-  (12) the term ””State““ means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Marianas, the Trust Territory of the Pacific Islands, the Virgin Islands of the United States, and the District of Columbia;
-  (13) the term ””State agricultural experiment stations““ means those institutions eligible to receive funds under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i);
-  (14) the term ””teaching““ means formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees;
-  (15) the term ””cooperating forestry schools““ means those institutions eligible to receive funds under the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962;
-  (16) the term ””State cooperative institutions““ or ””State cooperative agents““ means institutions or agents designated by–
+   When used in this chapter:
+  (1) The term ””Advisory Board““ means the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+  (2) The term ””agricultural research““ means research in the food and agricultural sciences.
+  (3) The term ””aquaculture““ means the propagation and rearing of aquacultural species, including, but not limited to, any species of finfish, mollusk, or crustacean (or other aquatic invertebrate), amphibian, reptile, ornamental fish, or aquatic plant, in controlled or selected environments.
+  (4) The terms ””college““ and ””university““ mean an educational institution in any State which (A) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, (B) is legally authorized within such State to provide a program of education beyond secondary education, (C) provides an educational program for which a bachelor“s degree or any other higher degree is awarded, (D) is a public or other nonprofit institution, and (E) is accredited by a nationally recognized accrediting agency or association.
+  (5) The term ””cooperative extension services““ means the organizations established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349), and section 209(b) of the Act of October 26, 1974 (88 Stat. 1428, as amended; D.C. Code, sec. 31–1719(b)).
+  (6) The term ””Department of Agriculture““ means the United States Department of Agriculture.
+  (7) The term ””extension““ means the informal education programs conducted in the States in cooperation with the Department of Agriculture.
+  (8) T4Food and agricultural sciencesK.–The term ””food and agricultural sciences““ means basic, applied, and developmental research, extension, and teaching activities in food and fiber, agricultural, renewable natural resources, forestry, and physical and social sciences, including activities relating to the following:
+    (A) Animal health, production, and well-being.
+    (B) Plant health and production.
+    (C) Animal and plant germ plasm collection and preservation.
+    (D) Aquaculture.
+    (E) Food safety.
+    (F) Soil and water conservation and improvement.
+    (G) Forestry, horticulture, and range management.
+    (H) Nutritional sciences and promotion.
+    (I) Farm enhancement, including financial management, input efficiency, and profitability.
+    (J) Home economics.
+    (K) Rural human ecology.
+    (L) Youth development and agricultural education, including 4–H clubs.
+    (M) Expansion of domestic and international markets for agricultural commodities and products, including agricultural trade barrier identification and analysis.
+    (N) Information management and technology transfer related to agriculture.
+    (O) Biotechnology related to agriculture.
+    (P) The processing, distributing, marketing, and utilization of food and agricultural products.
+  (9) The term ””Hispanic-serving institution““ has the meaning given the term by section 1059c(b)(1) of title 20.
+  (10) The term ””land-grant colleges and universities““ means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
+  (11) The term ””Secretary““ means the Secretary of Agriculture of the United States.
+  (12) The term ””State““ means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Marianas, the Trust Territory of the Pacific Islands, the Virgin Islands of the United States, and the District of Columbia.
+  (13) The term ””State agricultural experiment stations““ means those institutions eligible to receive funds under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i).
+  (14) T4Teaching and educationK.–The terms ””teaching““ and ””education““ mean formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees.
+  (15) The term ””cooperating forestry schools““ means those institutions eligible to receive funds under the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962.
+  (16) The term ””State cooperative institutions““ or ””State cooperative agents““ means institutions or agents designated by–
     (A) the Act of July 2, 1862 (7 U.S.C. 301 et seq.), commonly known as the First Morrill Act;
-    (B) the Act of August 30, 1890 (7 U.S.C. 321 et seq.), commonly known as the Second Morrill Act, including the Tuskegee Institute;
+    (B) the Act of August 30, 1890 (7 U.S.C. 321 et seq.), commonly known as the Second Morrill Act, including Tuskegee University;
     (C) the Act of March 2, 1887 (7 U.S.C. 361a et seq.), commonly known as the Hatch Act of 1887;
     (D) the Act of May 8, 1914 (7 U.S.C. 341 et seq.), commonly known as the Smith-Lever Act;
     (E) the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962; and
-    (F) subchapters V, VI, XI, and XII of this chapter; and
-  (17) the term ””sustainable agriculture““ means an integrated system of plant and animal production practices having a site-specific application that will, over the long-term–
+    (F) subchapters V, VI, XI, and XII of this chapter.
+  (17) The term ””sustainable agriculture““ means an integrated system of plant and animal production practices having a site-specific application that will, over the long-term–
     (A) satisfy human food and fiber needs;
     (B) enhance environmental quality and the natural resource base upon which the agriculture economy depends;
     (C) make the most efficient use of nonrenewable resources and on-farm resources and integrate, where appropriate, natural biological cycles and controls;
