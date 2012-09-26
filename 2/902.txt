@@ -1,22 +1,40 @@
-  (a) Fiscal years 1992–1998 enforcement
-     The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.
-  (b) Sequestration; look-back
-     Within 15 calendar days after Congress adjourns to end a session (other than of the One Hundred First Congress) and on the same day as a sequestration (if any) under section 901 of this title and section 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase in that fiscal year and the prior fiscal year caused by all direct spending and receipts legislation enacted after November 5, 1990 (after adjusting for any prior sequestration as provided by paragraph (2)). OMB shall calculate the amount of deficit increase, if any, in those fiscal years by adding–
-    (1) all applicable estimates of direct spending and receipts legislation transmitted under subsection (d) of this section applicable to those fiscal years, other than any amounts included in such estimates resulting from–
-      (A) full funding of, and continuation of, the deposit insurance guarantee commitment in effect on November 5, 1990, and
-      (B) emergency provisions as designated under subsection (e) of this section; and
-    (2) the estimated amount of savings in direct spending programs applicable to those fiscal years resulting from the prior year“s sequestration under this section or section 903 of this title, if any (except for any amounts sequestered as a result of a net deficit increase in the fiscal year immediately preceding the prior fiscal year), as published in OMB“s end-of-session sequestration report for that prior year.
+  (a) Purpose
+     The purpose of this section is to assure that any legislation enacted before October 1, 2002, affecting direct spending or receipts that increases the deficit will trigger an offsetting sequestration.
+  (b) Sequestration
+    (1) Timing
+       Not later than 15 calendar days after the date Congress adjourns to end a session and on the same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002, as calculated under paragraph (2).
+    (2) Calculation of deficit increase
+       OMB shall calculate the amount of deficit increase or decrease by adding–
+      (A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
+      (B) the estimated amount of savings in direct spending programs applicable to budget year resulting from the prior year“s sequestration under this section or section 903 of this title, if any, as published in OMB“s final sequestration report for that prior year; and
+      (C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
   (c) Eliminating a deficit increase
     (1) The amount required to be sequestered in a fiscal year under subsection (b) of this section shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
       (A) First
          All reductions in automatic spending increases specified in section 906(a) of this title shall be made.
       (B) Second
-         If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed student loans) and 906(c) of this title (foster care and adoption assistance) shall be made.
+         If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed and direct student loans) and 906(c) of this title (foster care and adoption assistance) shall be made.
       (C) Third
         (i) If additional reductions in direct spending accounts are required to be made, each remaining non-exempt direct spending account shall be reduced by the uniform percentage necessary to make the reductions in direct spending required by paragraph (1); except that the medicare programs specified in section 906(d) of this title shall not be reduced by more than 4 percent and the uniform percentage applicable to all other direct spending programs under this paragraph shall be increased (if necessary) to a level sufficient to achieve the required reduction in direct spending.
         (ii) For purposes of determining reductions under clause (i), outlay reductions (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
     (2) For purposes of this subsection, accounts shall be assumed to be at the level in the baseline.
-  (d) OMB estimates
-     As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.
+  (d) Estimates
+    (1) CBO estimates
+       As soon as practicable after Congress completes action on any direct spending or receipts legislation, CBO shall provide an estimate to OMB of that legislation.
+    (2) OMB estimates
+       Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any direct spending or receipts legislation, OMB shall transmit a report to the House of Representatives and to the Senate containing–
+      (A) the CBO estimate of that legislation;
+      (B) an OMB estimate of that legislation using current economic and technical assumptions; and
+      (C) an explanation of any difference between the 2 estimates.
+    (3) Significant differences
+       If during the preparation of the report under paragraph (2) OMB determines that there is a significant difference between the OMB and CBO estimates, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation, to the extent practicable, shall include written communication to such committees that affords such committees the opportunity to comment before the issuance of that report.
+    (4) Scope of estimates
+       The estimates under this section shall include the amount of change in outlays or receipts for the current year (if applicable), the budget year, and each outyear excluding any amounts resulting from–
+      (A) full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates; and
+      (B) emergency provisions as designated under subsection (e) of this section.
+    (5) Scorekeeping guidelines
+       OMB and CBO, after consultation with each other and the Committees on the Budget of the House of Representatives and the Senate, shall–
+      (A) determine common scorekeeping guidelines; and
+      (B) in conformance with such guidelines, prepare estimates under this section.
   (e) Emergency legislation
-     If, for any fiscal year from 1991 through 1998, a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years through 1995 \1\N resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+     If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.

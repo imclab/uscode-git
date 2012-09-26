@@ -1,40 +1,83 @@
-  (a) Omitted
-  (b) General statement of budget enforcement through sequestration
-     This subchapter provides for the enforcement of the deficit reduction assumed in House Concurrent Resolution 310 (101st Congress, second session) and the applicable deficit targets for fiscal years 1991 through 1995. Enforcement, as necessary, is to be implemented through sequestration–
-    (1) to enforce discretionary spending levels assumed in that resolution (with adjustments as provided hereinafter);
-    (2) to enforce the requirement that any legislation increasing direct spending or decreasing revenues be on a pay-as-you-go basis; and
-    (3) to enforce the deficit targets specifically set forth in the Congressional Budget and Impoundment Control Act of 1974 (with adjustments as provided hereinafter);
-       applied in the order set forth above.
-  (c) Definitions
-     As used in this subchapter:
-    (1) The terms ””budget authority““, ””new budget authority““, ””outlays““, and ””deficit““ have the meanings given to such terms in section 3 of the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 622] (but including the treatment specified in section 907(b)(3) of this title of the Hospital Insurance Trust Fund) and the terms ””maximum deficit amount““ and ””discretionary spending limit““ shall mean the amounts specified in section 601 of that Act [2 U.S.C. 665] as adjusted under sections 901 and 903 of this title.
-    (2) The terms ””sequester““ and ””sequestration““ refer to or mean the cancellation of budgetary resources provided by discretionary appropriations or direct spending law.
-    (3) The term ””breach““ means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category“s discretionary spending limit for new budget authority or outlays for that year, as the case may be.
-    (4) The term ””category““ means:
-      (A) For fiscal years 1991, 1992, and 1993, any of the following subsets of discretionary appropriations: defense, international, or domestic. Discretionary appropriations in each of the three categories shall be those so designated in the joint statement of managers accompanying the conference report on the Omnibus Budget Reconciliation Act of 1990. New accounts or activities shall be categorized in consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate.
-      (B) For fiscal years 1994 and 1995, all discretionary appropriations.
-     Contributions to the United States to offset the cost of Operation Desert Shield shall not be counted within any category.
-    (5) The term ””baseline““ means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
-    (6) The term ””budgetary resources““ means–
-      (A) with respect to budget year 1991, new budget authority; unobligated balances; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; direct spending authority; and obligation limitations; or
-      (B) with respect to budget year 1992, 1993, 1994, or 1995, new budget authority; unobligated balances; direct spending authority; and obligation limitations.
-    (7) The term ””discretionary appropriations““ means budgetary resources (except to fund direct-spending programs) provided in appropriation Acts.
-    (8) The term ””direct spending““ means–
-      (A) budget authority provided by law other than appropriation Acts;
-      (B) entitlement authority; and
-      (C) the food stamp program.
-    (9) The term ””current““ means, with respect to OMB estimates included with a budget submission under section 1105(a) of title 31, the estimates consistent with the economic and technical assumptions underlying that budget and with respect to estimates made after submission of the fiscal year 1992 budget that are not included with a budget submission, estimates consistent with the economic and technical assumptions underlying the most recently submitted President“s budget.
-    (10) The term ””real economic growth““, with respect to any fiscal year, means the growth in the gross national product during such fiscal year, adjusted for inflation, consistent with Department of Commerce definitions.
-    (11) The term ””account““ means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget account identification code number in the President“s budget.
-    (12) The term ””budget year““ means, with respect to a session of Congress, the fiscal year of the Government that starts on October 1 of the calendar year in which that session begins.
-    (13) The term ””current year““ means, with respect to a budget year, the fiscal year that immediately precedes that budget year.
-    (14) The term ””outyear““ means, with respect to a budget year, any of the fiscal years that follow the budget year through fiscal year 1995.
-    (15) The term ””OMB““ means the Director of the Office of Management and Budget.
-    (16) The term ””CBO““ means the Director of the Congressional Budget Office.
-    (17) For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.
-    (18) As used in this subchapter, all references to entitlement authority shall include the list of mandatory appropriations included in the joint explanatory statement of managers accompanying the conference report on the Omnibus Budget Reconciliation Act of 1990.
-    (19) The term ””deposit insurance““ refers to the expenses of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.
-    (20) The term ””composite outlay rate““ means the percent of new budget authority that is converted to outlays in the fiscal year for which the budget authority is provided and subsequent fiscal years, as follows:
-      (A) For the international category, 46 percent for the first year, 20 percent for the second year, 16 percent for the third year, and 8 percent for the fourth year.
-      (B) For the domestic category, 53 percent for the first year, 31 percent for the second year, 12 percent for the third year, and 2 percent for the fourth year.
-    (21) The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ””prepayment of a loan““ means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ””in advance““ shall mean in advance of the slowest payment schedule allowed under such law or contract.
+  (a) Enforcement
+    (1) Sequestration
+       Within 15 calendar days after Congress adjourns to end a session and on the same day as a sequestration (if any) under section 902 of this title and section 903 of this title, there shall be a sequestration to eliminate a budget-year breach, if any, within any category.
+    (2) Eliminating a breach
+       Each non-exempt account within a category shall be reduced by a dollar amount calculated by multiplying the baseline level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to eliminate a breach within that category; except that the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent and the uniform percent applicable to all other programs under this paragraph shall be increased (if necessary) to a level sufficient to eliminate that breach. If, within a category, the discretionary spending limits for both new budget authority and outlays are breached, the uniform percentage shall be calculated by–
+      (A) first, calculating the uniform percentage necessary to eliminate the breach in new budget authority, and
+      (B) second, if any breach in outlays remains, increasing the uniform percentage to a level sufficient to eliminate that breach.
+    (3) Military personnel
+       If the President uses the authority to exempt any military personnel from sequestration under section 905(f) of this title, each account within subfunctional category 051 (other than those military personnel accounts for which the authority provided under section 905(f) of this title has been exercised) shall be further reduced by a dollar amount calculated by multiplying the enacted level of non-exempt budgetary resources in that account at that time by the uniform percentage necessary to offset the total dollar amount by which outlays are not reduced in military personnel accounts by reason of the use of such authority.
+    (4) Part-year appropriations
+       If, on the date specified in paragraph (1), there is in effect an Act making or continuing appropriations for part of a fiscal year for any budget account, then the dollar sequestration calculated for that account under paragraphs (2) and (3) shall be subtracted from–
+      (A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
+      (B) when a full-year appropriation for that account is enacted, from the amount otherwise provided by the full-year appropriation.
+    (5) Look-back
+       If, after June 30, an appropriation for the fiscal year in progress is enacted that causes a breach within a category for that year (after taking into account any sequestration of amounts within that category), the discretionary spending limits for that category for the next fiscal year shall be reduced by the amount or amounts of that breach.
+    (6) Within-session sequestration
+       If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
+    (7) Estimates
+      (A) CBO estimates
+         As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation.
+      (B) OMB estimates and explanation of differences
+         Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+      (C) Assumptions and guidelines
+         OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.
+      (D) Annual appropriations
+         For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for the current year (if any) and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
+  (b) Adjustments to discretionary spending limits
+    (1) Preview report
+       When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the committees \1\N on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
+    (2) Sequestration reports
+       When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year through 2002, as follows:
+      (A) Emergency appropriations
+         If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates in statute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all fiscal years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
+      (B) Special outlay allowance
+         If, in any fiscal year, outlays for a category exceed the discretionary spending limit for that category but new budget authority does not exceed its limit for that category (after application of the first step of a sequestration described in subsection (a)(2) of this section, if necessary), the adjustment in outlays for a fiscal year is the amount of the excess but not to exceed 0.5 percent of the sum of the adjusted discretionary spending limits on outlays for that fiscal year.
+      (C) Continuing disability reviews
+        (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed–
+          (I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
+          (II) for fiscal year 1999, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
+          (III) for fiscal year 2000, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays;
+          (IV) for fiscal year 2001, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays; and
+          (V) for fiscal year 2002, $520,000,000 in additional new budget authority and $520,000,000 in additional outlays.
+        (ii) As used in this subparagraph–
+          (I) the term ””continuing disability reviews““ means reviews or redeterminations as defined under section 401(g)(1)(A) of title 42 and reviews and redeterminations authorized under section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996;
+          (II) the term ””additional new budget authority““ means the amount provided for a fiscal year, in excess of $200,000,000, in an appropriations Act and specified to pay for the costs of continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration; and
+          (III) the term ””additional outlays““ means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading ””Limitation on Administrative Expenses““ for the Social Security Administration, including outlays in that fiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
+      (D) Allowance for IMF
+         If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 that includes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to–
+        (i) an increase in the United States quota as part of the International Monetary Fund Eleventh General Review of Quotas (United States Quota); or
+        (ii) any increase in the maximum amount available to the Secretary of the Treasury pursuant to section 286e–2 of title 22, as amended from time to time (New Arrangements to Borrow).
+      (E) Allowance for international arrearages
+        (i) Adjustments
+           If an appropriation bill or joint resolution is enacted for fiscal year 1998, 1999, or 2000 that includes an appropriation for arrearages for international organizations, international peacekeeping, and multilateral development banks for that fiscal year, the adjustment shall be the amount of budget authority in that measure and the outlays flowing in all fiscal years from that budget authority.
+        (ii) Limitations
+           The total amount of adjustments made pursuant to this subparagraph for the period of fiscal years 1998 through 2000 shall not exceed $1,884,000,000 in budget authority.
+      (F) EITC compliance initiative
+         If an appropriation bill or joint resolution is enacted for a fiscal year that includes an appropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed–
+        (i) with respect to fiscal year 1998, $138,000,000 in new budget authority and $131,000,000 in outlays;
+        (ii) with respect to fiscal year 1999, $143,000,000 in new budget authority and $143,000,000 in outlays;
+        (iii) with respect to fiscal year 2000, $144,000,000 in new budget authority and $144,000,000 in outlays;
+        (iv) with respect to fiscal year 2001, $145,000,000 in new budget authority and $145,000,000 in outlays; and
+        (v) with respect to fiscal year 2002, $146,000,000 in new budget authority and $146,000,000 in outlays.
+      (G) Adoption incentive payments
+         Whenever a bill or joint resolution making appropriations for fiscal year 1999, 2000, 2001, 2002, or 2003 is enacted that specifies an amount for adoption incentive payments pursuant to this subchapter for the Department of Health and Human Services–
+        (i) the adjustments for new budget authority shall be the amounts of new budget authority provided in that measure for adoption incentive payments, but not to exceed $20,000,000; and
+        (ii) the adjustment for outlays shall be the additional outlays flowing from such amount.
+  (c) Discretionary spending limit
+     As used in this subchapter, the term ””discretionary spending limit““ means–
+    (1) with respect to fiscal year 1997, for the discretionary category, the current adjusted limits of new budget authority and outlays;
+    (2) with respect to fiscal year 1998–
+      (A) for the defense category: $269,000,000,000 in new budget authority and $266,823,000,000 in outlays;
+      (B) for the nondefense category: $252,357,000,000 in new budget authority and $282,853,000,000 in outlays; and
+      (C) for the violent crime reduction category: $5,500,000,000 in new budget authority and $3,592,000,000 in outlays;
+    (3) with respect to fiscal year 1999–
+      (A) for the defense category: $271,500,000,000 in new budget authority and $266,518,000,000 in outlays;
+      (B) for the nondefense category: $255,699,000,000 in new budget authority and $287,850,000,000 in outlays; and
+      (C) for the violent crime reduction category: $5,800,000,000 in new budget authority and $4,953,000,000 in outlays;
+    (4) with respect to fiscal year 2000–
+      (A) for the discretionary category: $532,693,000,000 in new budget authority and $558,711,000,000 in outlays; and
+      (B) for the violent crime reduction category: $4,500,000,000 in new budget authority and $5,554,000,000 in outlays;
+    (5) with respect to fiscal year 2001, for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays; and
+    (6) with respect to fiscal year 2002, for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;
+       as adjusted in strict conformance with subsection (b) of this section.

@@ -1,19 +1,18 @@
   (a) In general
-     It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report as reported to the House or Senate which provides–
-    (1) new budget authority for a fiscal year;
-    (2) an increase or decrease in revenues to become effective during a fiscal year;
-    (3) an increase or decrease in the public debt limit to become effective during a fiscal year;
-    (4) new entitlement authority to become effective during a fiscal year;
-    (5) in the Senate only, new spending authority (as defined in section 651(c)(2) of this title) for a fiscal year; or
-    (6) in the Senate only, outlays,
-       until the concurrent resolution on the budget for such fiscal year (or, in the Senate, a concurrent resolution on the budget covering such fiscal year) has been agreed to pursuant to section 632 of this title.
-  (b) Exceptions
-    (1) In the House of Representatives, subsection (a) of this section does not apply to any bill or resolution–
-      (A) providing new budget authority which first becomes available in a fiscal year following the fiscal year to which the concurrent resolution applies; or
-      (B) increasing or decreasing revenues which first become effective in a fiscal year following the fiscal year to which the concurrent resolution applies.
-         After May 15 of any calendar year, subsection (a) of this section does not apply in the House of Representatives to any general appropriation bill, or amendment thereto, which provides new budget authority for the fiscal year beginning in such calendar year.
-    (2) In the Senate, subsection (a) of this section does not apply to any bill or resolution making advance appropriations for the fiscal year to which the concurrent resolution applies and the two succeeding fiscal years.
-  (c) Waiver in Senate
-    (1) The committee of the Senate which reports any bill or resolution (or amendment thereto) to which subsection (a) of this section applies may at or after the time it reports such bill or resolution (or amendment), report a resolution to the Senate (A) providing for the waiver of subsection (a) of this section with respect to such bill or resolution (or amendment), and (B) stating the reasons why the waiver is necessary. The resolution shall then be referred to the Committee on the Budget of the Senate. That committee shall report the resolution to the Senate within 10 days after the resolution is referred to it (not counting any day on which the Senate is not in session) beginning with the day following the day on which it is so referred, accompanied by that committee“s recommendations and reasons for such recommendations with respect to the resolution. If the committee does not report the resolution within such 10-day period, it shall automatically be discharged from further consideration of the resolution and the resolution shall be placed on the calendar.
-    (2) During the consideration of any such resolution, debate shall be limited to one hour, to be equally divided between, and controlled by, the majority leader and minority leader or their designees, and the time on any debatable motion or appeal shall be limited to twenty minutes, to be equally divided between, and controlled by, the mover and the manager of the resolution. In the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. Such leaders, or either of them, may, from the time under their control on the passage of such resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal. No amendment to the resolution is in order.
-    (3) If, after the Committee on the Budget has reported (or been discharged from further consideration of) the resolution, the Senate agrees to the resolution, then subsection (a) of this section shall not apply with respect to the bill or resolution (or amendment thereto) to which the resolution so agreed to applies.
+     Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that–
+    (1) first provides new budget authority for that fiscal year;
+    (2) first provides an increase or decrease in revenues during that fiscal year;
+    (3) provides an increase or decrease in the public debt limit to become effective during that fiscal year;
+    (4) in the Senate only, first provides new entitlement authority for that fiscal year; or
+    (5) in the Senate only, first provides for an increase or decrease in outlays for that fiscal year.
+  (b) Exceptions in House
+     In the House of Representatives, subsection (a) of this section does not apply–
+    (1)      (A) to any bill or joint resolution, as reported, providing advance discretionary new budget authority that first becomes available for the first or second fiscal year after the budget year; or
+      (B) to any bill or joint resolution, as reported, first increasing or decreasing revenues in a fiscal year following the fiscal year to which the concurrent resolution applies;
+    (2) after May 15, to any general appropriation bill or amendment thereto; or
+    (3) to any bill or joint resolution unless it is reported by a committee.
+  (c) Application to appropriation measures in Senate
+    (1) In general
+       Until the concurrent resolution on the budget for a fiscal year has been agreed to and an allocation has been made to the Committee on Appropriations of the Senate under section 633(a) of this title for that year, it shall not be in order in the Senate to consider any appropriation bill or joint resolution, amendment or motion thereto, or conference report thereon for that year or any subsequent year.
+    (2) Exception
+       Paragraph (1) does not apply to appropriations legislation making advance appropriations for the first or second fiscal year after the year the allocation referred to in that paragraph is made.

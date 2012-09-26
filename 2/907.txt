@@ -5,9 +5,11 @@
     (1) In general
        Laws providing or creating direct spending and receipts are assumed to operate in the manner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
     (2) Exceptions
-      (A) No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.
+      (A)        (i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differenes \1\N between CBO and OMB.
+        (ii) On the expiration of the suspension of a provision of law that is suspended under section 7301 of title 7 and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
       (B) The increase for veterans“ compensation for a fiscal year is assumed to be the same as that required by law for veterans“ pensions unless otherwise provided by law enacted in that session.
       (C) Excise taxes dedicated to a trust fund, if expiring, are assumed to be extended at current rates.
+      (D) If any law expires before the budget year or any outyear, then any program with estimated current year outlays greater than $50,000,000 that operates under that law shall be assumed to continue to operate under that law as in effect immediately before its expiration.
     (3) Hospital Insurance Trust Fund
        Notwithstanding any other provision of law, the receipts and disbursements of the Hospital Insurance Trust Fund shall be included in all calculations required by this Act.
   (c) Discretionary appropriations
@@ -21,10 +23,10 @@
     (4) Pay annualization; offset to pay absorption
        Current-year new budget authority for Federal employees shall be adjusted to reflect the full 12-month costs (without absorption) of any pay adjustment that occurred in that fiscal year.
     (5) Inflators
-       The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross national product fixed-weight price index for that fiscal year differs from the average of such estimated index for the current year.
+       The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
     (6) Current-year appropriations
        If, for any account, a continuing appropriation is in effect for less than the entire current year, then the current-year amount shall be assumed to equal the amount that would be available if that continuing appropriation covered the entire fiscal year. If law permits the transfer of budget authority among budget accounts in the current year, the current-year level for an account shall reflect transfers accomplished by the submission of, or assumed for the current year in, the President“s original budget for the budget year.
   (d) Up-to-date concepts
      In deriving the baseline for any budget year or outyear, current-year amounts shall be calculated using the concepts and definitions that are required for that budget year.
-  (e) Sale of assets or prepayment of loans
-     The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986; \1\N
+  (e) Asset sales
+     Amounts realized from the sale of an asset shall not be included in estimates under section 901, 902, or 903 of this title if that sale would result in a financial cost to the Federal Government as determined pursuant to scorekeeping guidelines.

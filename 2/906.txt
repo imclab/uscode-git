@@ -1,15 +1,10 @@
   (a) Automatic spending increases
      Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
-    (1) National Wool Act;
-    (2) Special milk program; and
-    (3) Vocational rehabilitation basic State grants.
+    (1) Special milk program; and
+    (2) Vocational rehabilitation basic State grants.
        In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter.
-  (b) Effect of orders on guaranteed student loan program
-    (1) Any reductions which are required to be achieved from the student loan programs operated pursuant to part B of title IV of the Higher Education Act of 1965 [20 U.S.C. 1071 et seq.], as a consequence of an order issued pursuant to section 904 of this title, shall be achieved only from loans described in paragraphs (2) and (3) by the application of the measures described in such paragraphs.
-    (2) For any loan made during the period beginning on the date that an order issued under section 904 of this title takes effect with respect to a fiscal year and ending at the close of such fiscal year, the rate used in computing the special allowance payment pursuant to section 438(b)(2)(A)(iii) of such Act [20 U.S.C. 1087–1(b)(2)(A)(iii)] for each of the first four special allowance payments for such loan shall be adjusted by reducing such rate by the lesser of–
-      (A) 0.40 percent, or
-      (B) the percentage by which the rate specified in such section exceeds 3 percent.
-    (3) For any loan made during the period beginning on the date that an order issued under section 904 of this title takes effect with respect to a fiscal year and ending at the close of such fiscal year, the origination fee which is authorized to be collected pursuant to section 438(c)(2) of such Act [20 U.S.C. 1087–1(c)(2)] shall be increased by 0.50 percent.
+  (b) Student loans
+     For all student loans under part B or D of title IV of the Higher Education Act of 1965 [20 U.S.C. 1071 et seq., 1087a et seq.] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and 455(c) of that Act [20 U.S.C. 1087–1(c)(2), 1087e(c)] shall each be increased by 0.50 percentage point.
   (c) Treatment of foster care and adoption assistance programs
      Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act [42 U.S.C. 670 et seq.]) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act [42 U.S.C. 674] (for such fiscal year) for that portion of the State“s payments which is attributable to the increases taking effect during that year. No State“s matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made.
   (d) Special rules for Medicare program
@@ -25,9 +20,7 @@
     (4) No effect on computation of AAPCC
        In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act [42 U.S.C. 1395mm(a)(4)], the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.
   (e) Community and migrant health centers, Indian health services and facilities, and veterans“ medical care
-    (1) The maximum permissible reduction in budget authority for any account listed in paragraph (2) for any fiscal year, pursuant to an order issued under section 904 of this title, shall be–
-      (A) 1 percent in the case of the fiscal year 1986, and
-      (B) 2 percent in the case of any subsequent fiscal year.
+    (1) The maximum permissible reduction in budget authority for any account listed in paragraph (2) for any fiscal year, pursuant to an order issued under section 904 of this title, shall be 2 percent.
     (2) The accounts referred to in paragraph (1) are as follows:
       (A) Community health centers (75-0350-0-1-550).
       (B) Migrant health centers (75-0350-0-1-550).
@@ -53,54 +46,44 @@
       (C) The term ””uniformed services““ shall have the meaning given that term in section 101(3) of title 37.
   (h) Treatment of Federal administrative expenses
     (1) Notwithstanding any other provision of this title,\1\N administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
-    (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this joint resolution.
+    (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
     (3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) \1\ of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
     (4) Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
       (A) Comptroller of the Currency.
       (B) Federal Deposit Insurance Corporation.
-      (C) Office of Thrift Supervision.\2\N
-      (D) Office of Thrift Supervision.\2\
-      (E) National Credit Union Administration.
-      (F) National Credit Union Administration, central liquidity facility.
-      (G) Federal Retirement Thrift Investment Board.
-      (H) Resolution Funding Corporation.
-        (I) Resolution Trust Corporation.
-          (i) Treatment of payments and advances made with respect to unemployment compensation programs
-            (1) For purposes of section 904 of this title–
-              (A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [42 U.S.C. 1104(a)]),
-              (B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [42 U.S.C. 1104(g)]) under title XII of such Act [42 U.S.C. 1321 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [42 U.S.C. 1323], and
-              (C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [42 U.S.C. 1109]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
-                 shall not be subject to reduction.
-            (2)              (A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970 for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
-              (B) A reduction by a State in accordance with subparagraph (A) shall not be considered as a failure to fulfill the requirements of section 3304(a)(11) of title 26.
-          (j) Commodity Credit Corporation
-            (1) Powers and authorities of the Commodity Credit Corporation
-               This title \3\N shall not restrict the Commodity Credit Corporation in the discharge of its authority and responsibility as a corporation to buy and sell commodities in world trade, to use the proceeds as a revolving fund to meet other obligations and otherwise operate as a corporation, the purpose for which it was created.
-            (2) Reduction in payments made under contracts
-              (A) Payments and loan eligibility under any contract entered into with a person by the Commodity Credit Corporation prior to the time an order has been issued under section 904 of this title shall not be reduced by an order subsequently issued. Subject to subparagraph (B), after an order is issued under such section for a fiscal year, any cash payments made by the Commodity Credit Corporation–
-                (i) under the terms of any one-year contract entered into in such fiscal year and after the issuance of the order; and
-                (ii) out of an entitlement account,
-               to any person (including any producer, lender, or guarantee entity) shall be subject to reduction under the order.
-              (B) Each contract entered into with producers or producer cooperatives with respect to a particular crop of a commodity and subject to reduction under subparagraph (A) shall be reduced in accordance with the same terms and conditions. If some, but not all, contracts applicable to a crop of a commodity have been entered into prior to the issuance of an order under section 904 of this title, the order shall provide that the necessary reduction in payments under contracts applicable to the commodity be uniformly applied to all contracts for the next succeeding crop of the commodity, under the authority provided in paragraph (3).
-            (3) Delayed reduction in outlays permissible
-               Notwithstanding any other provision of this joint resolution, if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies. No other account, or other program, project, or activity, shall bear an increased reduction for the fiscal year to which the order applies as a result of the operation of the preceding sentence.
-            (4) Uniform percentage rate of reduction and other limitations
-               All reductions described in paragraph (2) which are required to be made in connection with an order issued under section 904 of this title with respect to a fiscal year–
-              (A) shall be made so as to ensure that outlays for each program, project, activity, or account involved are reduced by a percentage rate that is uniform for all such programs, projects, activities, and accounts, and may not be made so as to achieve a percentage rate of reduction in any such item exceeding the rate specified in the order; and
-              (B) with respect to commodity price support and income protection programs, shall be made in such manner and under such procedures as will attempt to ensure that–
-                (i) uncertainty as to the scope of benefits under any such program is minimized;
-                (ii) any instability in market prices for agricultural commodities resulting from the reduction is minimized; and
-                (iii) normal production and marketing relationships among agricultural commodities (including both contract and non-contract commodities) are not distorted.
-               In meeting the criterion set out in clause (iii) of subparagraph (B) of the preceding sentence, the President shall take into consideration that reductions under an order may apply to programs for two or more agricultural commodities that use the same type of production or marketing resources or that are alternative commodities among which a producer could choose in making annual production decisions.
-            (5) No double reduction
-               No agricultural price support or income protection program that is subject to reduction under an order issued under section 904 of this title for a fiscal year may be subject, as well, to modification or suspension under such order as an automatic spending increase.
-            (6) Certain authority not to be limited
-               Nothing in this joint resolution shall limit or reduce, in any way, any appropriation that provides the Commodity Credit Corporation with budget authority to cover the Corporation“s net realized losses.
-          (k) Effects of sequestration
-             The effects of sequestration shall be as follows:
-            (1) Budgetary resources sequestered from any account other than a trust or special fund account shall be permanently cancelled.
-            (2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President“s budget).
-            (3) Administrative regulations or similar actions implementing a sequestration shall be made within 120 days of the sequestration order. To the extent that formula allocations differ at different levels of budgetary resources within an account, program, project, or activity, the sequestration shall be interpreted as producing a lower total appropriation, with the remaining amount of the appropriation being obligated in a manner consistent with program allocation formulas in substantive law.
-            (4) Except as otherwise provided, obligations in sequestered accounts shall be reduced only in the fiscal year in which a sequester occurs.
-            (5) If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
-            (6) Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.
+      (C) Office of Thrift Supervision.
+      (D) National Credit Union Administration.
+      (E) National Credit Union Administration, central liquidity facility.
+      (F) Federal Retirement Thrift Investment Board.
+      (G) Resolution Trust Corporation.
+      (H) Farm Credit Administration.
+        (i) Treatment of payments and advances made with respect to unemployment compensation programs
+          (1) For purposes of section 904 of this title–
+            (A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [42 U.S.C. 1104(a)]),
+            (B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [42 U.S.C. 1104(g)]) under title XII of such Act [42 U.S.C. 1321 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [42 U.S.C. 1323], and
+            (C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [42 U.S.C. 1109]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+               shall not be subject to reduction.
+          (2)            (A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970 for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
+            (B) A reduction by a State in accordance with subparagraph (A) shall not be considered as a failure to fulfill the requirements of section 3304(a)(11) of title 26.
+        (j) Commodity Credit Corporation
+          (1) Powers and authorities of the Commodity Credit Corporation
+             This title \2\N shall not restrict the Commodity Credit Corporation in the discharge of its authority and responsibility as a corporation to buy and sell commodities in world trade, to use the proceeds as a revolving fund to meet other obligations and otherwise operate as a corporation, the purpose for which it was created.
+          (2) Reduction in payments made under contracts
+            (A) Loan eligibility under any contract entered into with a person by the Commodity Credit Corporation prior to the time an order has been issued under section 904 of this title shall not be reduced by an order subsequently issued. Subject to subparagraph (B), after an order is issued under such section for a fiscal year, any cash payments for loans or loan deficiencies made by the Commodity Credit Corporation shall be subject to reduction under the order.
+            (B) Each loan contract entered into with producers or producer cooperatives with respect to a particular crop of a commodity and subject to reduction under subparagraph (A) shall be reduced in accordance with the same terms and conditions. If some, but not all, contracts applicable to a crop of a commodity have been entered into prior to the issuance of an order under section 904 of this title, the order shall provide that the necessary reduction in payments under contracts applicable to the commodity be uniformly applied to all contracts for the next succeeding crop of the commodity, under the authority provided in paragraph (3).
+          (3) Delayed reduction in outlays permissible
+             Notwithstanding any other provision of this title,\2\ if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+          (4) Uniform percentage rate of reduction and other limitations
+             All reductions described in paragraph (2) which are required to be made in connection with an order issued under section 904 of this title with respect to a fiscal year shall be made so as to ensure that outlays for each program, project, activity, or account involved are reduced by a percentage rate that is uniform for all such programs, projects, activities, and accounts, and may not be made so as to achieve a percentage rate of reduction in any such item exceeding the rate specified in the order.
+          (5) Dairy program
+             Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the day any sequestration order is issued under section 904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
+          (6) Certain authority not to be limited
+             Nothing in this joint resolution shall limit or reduce, in any way, any appropriation that provides the Commodity Credit Corporation with budget authority to cover the Corporation“s net realized losses.
+        (k) Effects of sequestration
+           The effects of sequestration shall be as follows:
+          (1) Budgetary resources sequestered from any account shall be permanently cancelled, except as provided in paragraph (5).
+          (2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President“s budget).
+          (3) Administrative regulations or similar actions implementing a sequestration shall be made within 120 days of the sequestration order. To the extent that formula allocations differ at different levels of budgetary resources within an account, program, project, or activity, the sequestration shall be interpreted as producing a lower total appropriation, with the remaining amount of the appropriation being obligated in a manner consistent with program allocation formulas in substantive law.
+          (4) Except as otherwise provided, obligations in sequestered accounts shall be reduced only in the fiscal year in which a sequester occurs.
+          (5) If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
+          (6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
