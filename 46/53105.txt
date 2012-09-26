@@ -1,6 +1,6 @@
   (a) T4Operation of VesselK.–An operating agreement under this chapter shall require that, during the period a vessel is operating under the agreement–
     (1) the vessel–
-      (A) shall be operated exclusively in the foreign commerce or in mixed foreign commerce and domestic trade allowed under a registry endorsement issued under section 12105 of this title; and
+      (A) shall be operated exclusively in the foreign commerce or in mixed foreign commerce and domestic trade allowed under a registry endorsement issued under section 12111 of this title; and
       (B) shall not otherwise be operated in the coastwise trade; and
     (2) the vessel shall be documented under chapter 121 of this title.
   (b) T4Annual Payments by SecretaryK.–
@@ -10,5 +10,7 @@
   (d) T4National Security RequirementsK.–
     (1) T4In generalK.–A contractor with respect to an operating agreement (including an agreement terminated under section 53104(c)(2)) shall continue to be bound by the provisions of section 53107 until the date the operating agreement would terminate according to its terms.
     (2) T4Emergency preparedness agreementK.–All terms and conditions of an Emergency Preparedness Agreement entered into under section 53107 shall remain in effect until the date the operating agreement would terminate according to its terms, except that the terms of such Emergency Preparedness Agreement may be modified by the mutual consent of the contractor, the Secretary of Transportation, and the Secretary of Defense.
-  (e) T4Transfer of Operating AgreementsK.–A contractor under an operating agreement may transfer the agreement (including all rights and obligations under the agreement) to any person that is eligible to enter into that operating agreement under this chapter, if the transfer is approved by the Secretary and the Secretary of Defense.
-  (f) T4Replacement VesselK.–A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approve replacement of the vessel.
+  (e) T4Transfer of Operating AgreementsK.–
+    (1) T4In generalK.–A contractor under an operating agreement may transfer the agreement (including all rights and obligations under the agreement) to any person that is eligible to enter into that operating agreement under this chapter, if the transfer is approved by the Secretary and the Secretary of Defense.
+    (2) T4LimitationK.–The Secretary of Defense may not approve under paragraph (1) transfer of an operating agreement to a person that is not a citizen of the United States under section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802),\1\N unless the Secretary of Defense determines that there is no person who is a citizen under such section and is interested in obtaining the operating agreement for a vessel that is otherwise eligible to be included in the Fleet under section 53102(b) and meets the requirements of the Department of Defense.
+  (f) T4Replacement VesselK.–A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approves replacement of the vessel.

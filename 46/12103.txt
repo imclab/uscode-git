@@ -1,13 +1,19 @@
-  (a) Except as provided in section 12123 of this title, on application by the owner of a vessel eligible for documentation, the Secretary of Transportation shall issue a certificate of documentation, or a temporary certificate of documentation, endorsed with one or more of the endorsements specified in sections 12105–12109 of this title.
-  (b)    (1) The Secretary may prescribe the form of, the manner of filing, and the information to be contained in, applications for certificates of documentation.
-    (2) The Secretary shall require each person applying to document a vessel to provide–
-      (A) the person“s social security number; or
-      (B) for a person other than an individual–
-        (i) the person“s taxpayer identification number; or
-        (ii) if the person does not have a taxpayer identification number, the social security number of an individual who is a corporate officer, general partner, or individual trustee of the person and who signs the application for documentation for the vessels.
-  (c) Each certificate of documentation shall–
-    (1) identify and describe the vessel;
-    (2) identify the owner of the vessel; and
-    (3) contain additional information prescribed by the Secretary.
-  (d) The Secretary shall prescribe procedures to ensure the integrity of, and the accuracy of information contained in, certificates of documentation.
-  (e) The owner and master of a documented vessel shall make the vessel“s certificate of documentation available for examination as the law or Secretary may require.
+  (a) T4In GeneralK.–Except as otherwise provided, a certificate of documentation for a vessel may be issued under this chapter only if the vessel is–
+    (1) wholly owned by one or more individuals or entities described in subsection (b);
+    (2) at least 5 net tons as measured under part J of this subtitle; and
+    (3) not documented under the laws of a foreign country.
+  (b) T4Eligible OwnersK.–For purposes of subsection (a)(1), the following are eligible owners:
+    (1) An individual who is a citizen of the United States.
+    (2) An association, trust, joint venture, or other entity if–
+      (A) each of its members is a citizen of the United States; and
+      (B) it is capable of holding title to a vessel under the laws of the United States or a State.
+    (3) A partnership if–
+      (A) each general partner is a citizen of the United States; and
+      (B) the controlling interest in the partnership is owned by citizens of the United States.
+    (4) A corporation if–
+      (A) it is incorporated under the laws of the United States or a State;
+      (B) its chief executive officer, by whatever title, and the chairman of its board of directors are citizens of the United States; and
+      (C) no more of its directors are noncitizens than a minority of the number necessary to constitute a quorum.
+    (5) The United States Government.
+    (6) The government of a State.
+  (c) T4Temporary Certificates Prior to MeasurementK.–Notwithstanding subsection (a)(2), the Secretary may issue a temporary certificate of documentation for a vessel before it is measured.

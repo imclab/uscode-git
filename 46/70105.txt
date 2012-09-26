@@ -1,35 +1,5 @@
-  (a) T4ProhibitionK.–(1) The Secretary shall prescribe regulations to prevent an individual from entering an area of a vessel or facility that is designated as a secure area by the Secretary for purposes of a security plan for the vessel or facility that is approved by the Secretary under section 70103 of this title unless the individual–
-    (A) holds a transportation security card issued under this section and is authorized to be in the area in accordance with the plan; or
-    (B) is accompanied by another individual who holds a transportation security card issued under this section and is authorized to be in the area in accordance with the plan.
-  (2) A person shall not admit an individual into such a secure area unless the entry of the individual into the area is in compliance with paragraph (1).
-  (b) T4Issuance of CardsK.–(1) The Secretary shall issue a biometric transportation security card to an individual specified in paragraph (2), unless the Secretary decides that the individual poses a security risk under subsection (c) warranting denial of the card.
-  (2) This subsection applies to–
-    (A) an individual allowed unescorted access to a secure area designated in a vessel or facility security plan approved under section 70103 of this title;
-    (B) an individual issued a license, certificate of registry, or merchant mariners document under part E of subtitle II of this title;
-    (C) a vessel pilot;
-    (D) an individual engaged on a towing vessel that pushes, pulls, or hauls alongside a tank vessel;
-    (E) an individual with access to security sensitive information as determined by the Secretary; and
-    (F) other individuals engaged in port security activities as determined by the Secretary.
-  (c) T4Determination of Terrorism Security RiskK.–(1) An individual may not be denied a transportation security card under subsection (b) unless the Secretary determines that individual–
-    (A) has been convicted within the preceding 7-year period of a felony or found not guilty by reason of insanity of a felony–
-      (i) that the Secretary believes could cause the individual to be a terrorism security risk to the United States; or
-      (ii) for causing a severe transportation security incident;
-    (B) has been released from incarceration within the preceding 5-year period for committing a felony described in subparagraph (A);
-    (C) may be denied admission to the United States or removed from the United States under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.); or
-    (D) otherwise poses a terrorism security risk to the United States.
-  (2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under paragraph (1). In deciding to issue a card to such an individual, the Secretary shall–
-    (A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
-    (B) issue a waiver to an individual without regard to whether that individual would otherwise be disqualified if the individual“s employer establishes alternate security arrangements acceptable to the Secretary.
-  (3) The Secretary shall establish an appeals process under this section for individuals found to be ineligible for a transportation security card that includes notice and an opportunity for a hearing.
-  (4) Upon application, the Secretary may issue a transportation security card to an individual if the Secretary has previously determined, under section 5103a of title 49, that the individual does not pose a security risk.
-  (d) T4Background Records CheckK.–(1) On request of the Secretary, the Attorney General shall–
-    (A) conduct a background records check regarding the individual; and
-    (B) upon completing the background records check, notify the Secretary of the completion and results of the background records check.
-  (2) A background records check regarding an individual under this subsection shall consist of the following:
-    (A) A check of the relevant criminal history databases.
-    (B) In the case of an alien, a check of the relevant databases to determine the status of the alien under the immigration laws of the United States.
-    (C) As appropriate, a check of the relevant international databases or other appropriate means.
-    (D) Review of any other national security-related information or database identified by the Attorney General for purposes of such a background records check.
-  (e) T4Restrictions on Use and Maintenance of InformationK.–(1) Information obtained by the Attorney General or the Secretary under this section may not be made available to the public, including the individual“s employer.
-  (2) Any information constituting grounds for denial of a transportation security card under this section shall be maintained confidentially by the Secretary and may be used only for making determinations under this section. The Secretary may share any such information with other Federal law enforcement agencies. An individual“s employer may only be informed of whether or not the individual has been issued the card under this section.
-  (f) T4DefinitionK.–In this section, the term ””alien““ has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)).
+  (a) T4Facility and Vessel Response PlansK.–The Secretary shall–
+    (1) establish security incident response plans for vessels and facilities that may be involved in a transportation security incident; and
+    (2) make those plans available to the Administrator of the Federal Emergency Management Agency for inclusion in the Administrator“s response plan for United States ports and waterways.
+  (b) T4ContentsK.–Response plans developed under subsection (a) shall provide a comprehensive response to an emergency, including notifying and coordinating with local, State, and Federal authorities, including the Administrator of the Federal Emergency Management Agency, securing the facility or vessel, and evacuating facility and vessel personnel.
+  (c) T4Inclusion in Security PlanK.–A response plan required under this subsection for a vessel or facility may be included in the security plan prepared under section 70103(c).

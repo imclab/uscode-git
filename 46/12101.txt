@@ -1,8 +1,5 @@
-  (a) In this chapter–
-    (1) ””fisheries““ includes processing, storing, transporting (except in foreign commerce), planting, cultivating, catching, taking, or harvesting fish, shellfish, marine animals, pearls, shells, or marine vegetation in the navigable waters of the United States or in the exclusive economic zone.
-    (2) ””rebuilt““ has the same meaning as in the second proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883).
-  (b) When used in a law, regulation, document, ruling, or other official act referring to the documentation of a vessel–
-    (1) ””certificate of registry““, ””register““, and ””registry““ mean a registry endorsement as provided in section 12105 of this title.
-    (2) ””license““, ””enrollment and license““, ””license for the coastwise (or coasting) trade““, and ””enrollment and license for the coastwise (or coasting) trade““ mean a coastwise endorsement as provided in section 12106 of this title.
-       [(3) Repealed. Pub. L. 104–324, title XI, § 1115(b)(2), Oct. 19, 1996, 110 Stat. 3972.]
-  (4) ””yacht““ means a recreational vessel even if not documented.
+  (a) T4Rebuilt in the United StatesK.–In this chapter, a vessel is deemed to have been rebuilt in the United States only if the entire rebuilding, including the construction of any major component of the hull or superstructure, was done in the United States.
+  (b) T4Related Terms in Other LawsK.–When the following terms are used in a law, regulation, document, ruling, or other official act referring to the documentation of a vessel, the following definitions apply:
+    (1) T4Registry endorsementK.–The terms ””certificate of registry““, ””register““, and ””registry““ mean a certificate of documentation with a registry endorsement issued under this chapter.
+    (2) T4Coastwise endorsementK.–The terms ””license““, ””enrollment and license““, ””license for the coastwise (or coasting) trade““, and ””enrollment and license for the coastwise (or coasting) trade““ mean a certificate of documentation with a coastwise endorsement issued under this chapter.
+    (3) T4YachtK.–The term ””yacht““ means a recreational vessel even if not documented.

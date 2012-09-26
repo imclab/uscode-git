@@ -1,13 +1,11 @@
-  (a) A certificate of documentation is invalid if the vessel for which it is issued–
-    (1) no longer meets the requirements of this chapter and regulations prescribed under this chapter applicable to that certificate of documentation; or
-    (2) is placed under the command of a person not a citizen of the United States in violation of section 12110(d) of this title.
-  (b) An invalid certificate of documentation must be surrendered as provided by regulations prescribed by the Secretary of Transportation.
-  (c)    (1) Notwithstanding subsection (a) of this section, until the certificate of documentation is surrendered with the approval of the Secretary, a documented vessel is deemed to continue to be documented under this chapter for purposes of–
-      (A) chapter 313 of this title for an instrument filed or recorded before the date of invalidation and an assignment after that date;
-      (B) sections 9 and 37(b) of the Shipping Act, 1916 (46 App. U.S.C. 808, 835(b));
-      (C) section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242); and
-      (D) any other law of the United States identified by the Secretary by regulation as a law to which the Secretary applies this subsection.
-    (2) This subsection does not apply when a vessel is forfeited or sold by order of a district court of the United States.
-    (3) The Secretary may approve the surrender of the certificate of documentation of a documented vessel covered by a mortgage filed or recorded under section 31321 of this title only if the mortgagee consents.
-  (d)    (1) The Secretary shall not refuse to approve the surrender of the certificate of documentation for a vessel solely on the basis that a notice of a claim of a lien on the vessel has been recorded under section 31343(a) of this title.
-    (2) The Secretary may condition approval of the surrender of the certificate of documentation for a vessel over 1,000 gross tons.
+  (a) T4RequirementsK.–A registry endorsement may be issued for a vessel that satisfies the requirements of section 12103 of this title.
+  (b) T4Authorized ActivityK.–A vessel for which a registry endorsement is issued may engage in foreign trade or trade with Guam, American Samoa, Wake, Midway, or Kingman Reef.
+  (c) T4Certain Vessels Owned by TrustsK.–
+    (1) T4Nonapplication of beneficiary citizenship requirementK.–For the issuance of a certificate of documentation with only a registry endorsement, the beneficiaries of a trust are not required to be citizens of the United States if the trust qualifies under paragraph (2) and the vessel is subject to a charter to a citizen of the United States.
+    (2) T4Requirements for trust to qualifyK.–
+      (A) T4In generalK.–Subject to subparagraph (B), a trust qualifies under this paragraph with respect to a vessel only if–
+        (i) each trustee is a citizen of the United States; and
+        (ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+      (B) T4Authority of non-citizensK.–If any person that is not a citizen of the United States has authority to direct or participate in directing a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee.
+      (C) T4Ownership by non-citizensK.–Subparagraphs (A) and (B) do not prohibit a person that is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
+    (3) T4Citizenship of person chartering vesselK.–If a person chartering a vessel from a trust that qualifies under paragraph (2) is a citizen of the United States under section 50501 of this title, the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except chapter 531 of this title.
