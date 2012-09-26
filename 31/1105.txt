@@ -1,5 +1,85 @@
-  (a) The President shall prepare budgets of the United States Government under section 1105 of this title and proposed deficiency and supplemental appropriations under section 1107 of this title. To the extent practicable, the President shall use uniform terms in stating the purposes and conditions of appropriations.
-  (b) Except as provided in this chapter, the President shall prescribe the contents and order of statements in the budget on expenditures and estimated expenditures and statements on proposed appropriations and information submitted with the budget and proposed appropriations. The President shall include with the budget and proposed appropriations information on personnel and other objects of expenditure in the way that information was included in the budget for fiscal year 1950. However, the requirement that information be included in the budget in that way may be waived or changed by joint action of the Committees on Appropriations of both Houses of Congress. This subsection does not limit the authority of a committee of Congress to request information in a form it prescribes.
-  (c) When the President makes a basic change in the form of the budget, the President shall submit with the budget information showing where items in the budget for the prior fiscal year are contained in the present budget. However, the President may change the functional categories in the budget only in consultation with the Committees on Appropriations and on the Budget of both Houses of Congress. Committees of the House of Representatives and Senate shall receive prompt notification of all such changes.
-  (d) The President shall develop programs and prescribe regulations to improve the compilation, analysis, publication, and dissemination of statistical information by executive agencies. The President shall carry out this subsection through the Administrator for the Office of Information and Regulatory Affairs in the Office of Management and Budget.
-  (e) Under regulations prescribed by the President, each agency shall provide information required by the President in carrying out this chapter. The President has access to, and may inspect, records of an agency to obtain information.
+  (a) On or after the first Monday in January but not later than the first Monday in February of each year, the President shall submit a budget of the United States Government for the following fiscal year. Each budget shall include a budget message and summary and supporting information. The President shall include in each budget the following:
+    (1) information on activities and functions of the Government.
+    (2) when practicable, information on costs and achievements of Government programs.
+    (3) other desirable classifications of information.
+    (4) a reconciliation of the summary information on expenditures with proposed appropriations.
+    (5) except as provided in subsection (b) of this section, estimated expenditures and proposed appropriations the President decides are necessary to support the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year.
+    (6) estimated receipts of the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year under–
+      (A) laws in effect when the budget is submitted; and
+      (B) proposals in the budget to increase revenues.
+    (7) appropriations, expenditures, and receipts of the Government in the prior fiscal year.
+    (8) estimated expenditures and receipts, and appropriations and proposed appropriations, of the Government for the current fiscal year.
+    (9) balanced statements of the–
+      (A) condition of the Treasury at the end of the prior fiscal year;
+      (B) estimated condition of the Treasury at the end of the current fiscal year; and
+      (C) estimated condition of the Treasury at the end of the fiscal year for which the budget is submitted if financial proposals in the budget are adopted.
+    (10) essential information about the debt of the Government.
+    (11) other financial information the President decides is desirable to explain in practicable detail the financial condition of the Government.
+    (12) for each proposal in the budget for legislation that would establish or expand a Government activity or function, a table showing–
+      (A) the amount proposed in the budget for appropriation and for expenditure because of the proposal in the fiscal year for which the budget is submitted; and
+      (B) the estimated appropriation required because of the proposal for each of the 4 fiscal years after that year that the proposal will be in effect.
+    (13) an allowance for additional estimated expenditures and proposed appropriations for the fiscal year for which the budget is submitted.
+    (14) an allowance for unanticipated uncontrollable expenditures for that year.
+    (15) a separate statement on each of the items referred to in section 301(a)(1)–(5) of the Congressional Budget Act of 1974 (2 U.S.C. 632(a)(1)–(5)).
+    (16) the level of tax expenditures under existing law in the tax expenditures budget (as defined in section 3(a)(3) of the Congressional Budget Act of 1974 (2 U.S.C. 622(a)(3)) for the fiscal year for which the budget is submitted, considering projected economic factors and changes in the existing levels based on proposals in the budget.
+    (17) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorized to be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
+    (18) a comparison of the total amount of budget outlays for the prior fiscal year, estimated in the budget submitted for that year, for each major program having relatively uncontrollable outlays with the total amount of outlays for that program in that year.
+    (19) a comparison of the total amount of receipts for the prior fiscal year, estimated in the budget submitted for that year, with receipts received in that year, and for each major source of receipts, a comparison of the amount of receipts estimated in that budget with the amount of receipts from that source in that year.
+    (20) an analysis and explanation of the differences between each amount compared under clauses (18) and (19) of this subsection.
+    (21) a horizontal budget showing–
+      (A) the programs for meteorology and of the National Climate Program established under section 5 of the National Climate Program Act (15 U.S.C. 2904);
+      (B) specific aspects of the program of, and appropriations for, each agency; and
+      (C) estimated goals and financial requirements.
+    (22) a statement of budget authority, proposed budget authority, budget outlays, and proposed budget outlays, and descriptive information in terms of–
+      (A) a detailed structure of national needs that refers to the missions and programs of agencies (as defined in section 101 of this title); and
+      (B) the missions and basic programs.
+    (23) separate appropriation accounts for appropriations under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.) and the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.).
+    (24) recommendations on the return of Government capital to the Treasury by a mixed-ownership corporation (as defined in section 9101(2) of this title) that the President decides are desirable.
+    (25) a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) of the Inspector General Act of 1978.
+    (26) a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
+    (27) a separate statement of the amount of appropriations requested for the Office of Federal Financial Management.
+    (28) beginning with fiscal year 1999, a Federal Government performance plan for the overall budget as provided for under section 1115.
+    (29) information about the Violent Crime Reduction Trust Fund, including a separate statement of amounts in that Trust Fund.
+    (30) an analysis displaying, by agency, proposed reductions in full-time equivalent positions compared to the current year“s level in order to comply with section 5 of the Federal Workforce Restructuring Act of 1994.
+  (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
+  (c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
+  (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
+  (e)    (1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain–
+      (A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
+      (B) the most recent assessment analysis and summary, in a standard format, of public civilian capital investment needs in each major program area over a period of ten years;
+      (C) an identification and analysis of the principal policy issues that affect estimated public civilian capital investment needs for each major program; and
+      (D) an identification and analysis of factors that affect estimated public civilian capital investment needs for each major program, including but not limited to the following factors:
+        (i) economic assumptions;
+        (ii) engineering standards;
+        (iii) estimates of spending for operation and maintenance;
+        (iv) estimates of expenditures for similar investments by State and local governments; and
+        (v) estimates of demand for public services derived from such capital investments and estimates of the service capacity of such investments.
+           To the extent that any analysis required by this paragraph relates to any program for which Federal financial assistance is distributed under a formula prescribed by law, such analysis shall be organized by State and within each State by major metropolitan area if data are available.
+    (2) For purposes of this subsection, any appropriation, new obligational authority, or outlay shall be classified as a public civilian capital investment to the extent that such appropriation, authority, or outlay will be used for the construction, acquisition, or rehabilitation of any physical asset that is capable of being used to produce services or other benefits for a number of years and is not classified as a military capital investment under paragraph (3). Such assets shall include (but not be limited to)–
+      (A) roadways or bridges,
+      (B) airports or airway facilities,
+      (C) mass transportation systems,
+      (D) wastewater treatment or related facilities,
+      (E) water resources projects,
+      (F) hospitals,
+      (G) resource recovery facilities,
+      (H) public buildings,
+      (I) space or communications facilities,
+      (J) railroads, and
+      (K) federally assisted housing.
+    (3) For purposes of this subsection, any appropriation, new obligational authority, or outlay shall be classified as a military capital investment to the extent that such appropriation, authority, or outlay will be used for the construction, acquisition, or rehabilitation of any physical asset that is capable of being used to produce services or other benefits for purposes of national defense and security for a number of years. Such assets shall include military bases, posts, installations, and facilities.
+    (4) Criteria and guidelines for use in the identification of public civilian and military capital investments, for distinguishing between public civilian and military capital investments, and for distinguishing between major and nonmajor capital investment programs shall be issued by the Director of the Office of Management and Budget after consultation with the Comptroller General and the Congressional Budget Office. The analysis submitted under this subsection shall be accompanied by an explanation of such criteria and guidelines.
+    (5) For purposes of this subsection–
+      (A) the term ””construction““ includes the design, planning, and erection of new structures and facilities, the expansion of existing structures and facilities, the reconstruction of a project at an existing site or adjacent to an existing site, and the installation of initial and replacement equipment for such structures and facilities;
+      (B) the term ””acquisition““ includes the addition of land, sites, equipment, structures, facilities, or rolling stock by purchase, lease-purchase, trade, or donation; and
+      (C) the term ””rehabilitation““ includes the alteration of or correction of deficiencies in an existing structure or facility so as to extend the useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
+         [(f) Omitted.]
+  (g)    (1) The Director of the Office of Management and Budget shall establish the funding for advisory and assistance services for each department and agency as a separate object class in each budget annually submitted to the Congress under this section.
+    (2)      (A) In paragraph (1), except as provided in subparagraph (B), the term ””advisory and assistance services““ means the following services when provided by nongovernmental sources:
+        (i) Management and professional support services.
+        (ii) Studies, analyses, and evaluations.
+        (iii) Engineering and technical services.
+      (B) In paragraph (1), the term ””advisory and assistance services““ does not include the following services:
+        (i) Routine automated data processing and telecommunications services unless such services are an integral part of a contract for the procurement of advisory and assistance services.
+        (ii) Architectural and engineering services, as defined in section 901 of the Brooks Architect-Engineers Act (40 U.S.C. 541).
+        (iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.

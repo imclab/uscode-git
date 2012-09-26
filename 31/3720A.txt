@@ -1,4 +1,4 @@
-  (a) Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.
+  (a) Any Federal agency that is owed by a person a past-due, legally enforceable debt (including debt administered by a third party acting as an agent for the Federal Government) shall, and any agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), owed such a debt may, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once each year of the amount of such debt.
   (b) No Federal agency may take action pursuant to subsection (a) with respect to any debt until such agency–
     (1) notifies the person incurring such debt that such agency proposes to take action pursuant to such paragraph with respect to such debt;
     (2) gives such person at least 60 days to present evidence that all or part of such debt is not past-due or not legally enforceable;
@@ -12,8 +12,15 @@
     (2)      (A) The requirements of subsection (b) shall not be treated as met in the case of the recovery of an OASDI overpayment from any individual under this section unless the notification under subsection (b)(1) describes the conditions under which the Commissioner of Social Security is required to waive recovery of an overpayment, as provided under section 204(b) of the Social Security Act.
       (B) In any case in which an individual files for a waiver under section 204(b) of the Social Security Act within the 60-day period referred to in subsection (b)(2), the Commissioner of Social Security shall not certify to the Secretary of the Treasury that the debt is valid under subsection (b)(4) before rendering a decision on the waiver request under such section 204(b). In lieu of payment, pursuant to subsection (c), to the Commissioner of Social Security of the amount of any reduction under this subsection based on an OASDI overpayment, the Secretary of the Treasury shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary of the Treasury as appropriate by the Commissioner of Social Security.
   (g) In the case of refunds of business associations, this section shall apply only to refunds payable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
-  (h) For purposes of this section–
-    (1) the term ””Federal agency““ means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code);
-    (2) the term ””past-due support““ means any delinquency subject to section 464 of the Social Security Act;
-    (3) the term ””OASDI overpayment““ means any overpayment of benefits made to an individual under title II of the Social Security Act; and
-    (4) the term ””person““ means an individual; or a sole proprietorship, partnership, corporation, nonprofit organization, or any other form of business association.
+  (h)    (1) \1\N The disbursing official of the Department of the Treasury–
+      (1) \1\ shall notify a taxpayer in writing of–
+        (A) the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
+        (B) the identity of the creditor agency requesting the offset; and
+        (C) a contact point within the creditor agency that will handle concerns regarding the offset;
+      (2) \1\ shall notify the Internal Revenue Service on a weekly basis of–
+        (A) the occurrence of an offset to satisfy a past-due legally enforceable non-tax \2\N debt;
+        (B) the amount of such offset; and
+        (C) any other information required by regulations; and
+      (3) shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
+  (h)    (2) \1\ The term ””disbursing official““ of the Department of the Treasury means the Secretary or his designee.
+      (i) An agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), may implement this section at its discretion.

@@ -1,15 +1,12 @@
-  (a) Except as provided in this section, a payment under a contract to provide a service or deliver an article for the United States Government may not be more than the value of the service already provided or the article already delivered.
-  (b) An advance of public money may be made only if it is authorized by–
-    (1) a specific appropriation or other law; or
-    (2) the President to be made to–
-      (A) a disbursing official if the President decides the advance is necessary to carry out–
-        (i) the duties of the official promptly and faithfully; and
-        (ii) an obligation of the Government; or
-      (B) an individual serving in the armed forces at a distant station if the President decides the advance is necessary to disburse regularly pay and allowances.
-  (c) Before the Secretary of the Treasury acts on a requisition for an advance, the Comptroller General shall act on the requisition under section 3522 of this title. The Comptroller General does not countersign a requisition for an advance.
-  (d) The head of an agency may pay in advance from appropriations available for the purpose–
-    (1) to the Secretary of the Army, charges for messages sent by the Secretary of the Army for the head of the agency, including charges for–
-      (A) payment of tolls of commercial carriers;
-      (B) leasing facilities for sending messages; and
-      (C) installing and maintaining facilities for sending messages; and
-    (2) charges for a publication printed or recorded in any way for the auditory or visual use of the agency.
+  (a) A disbursing official in the executive branch of the United States Government shall–
+    (1) disburse money only as provided by a voucher certified by–
+      (A) the head of the executive agency concerned; or
+      (B) an officer or employee of the executive agency having written authorization from the head of the agency to certify vouchers;
+    (2) examine a voucher if necessary to decide if it is–
+      (A) in proper form;
+      (B) certified and approved; and
+      (C) computed correctly on the facts certified; and
+    (3) except for the correctness of computations on a voucher or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,,\1\N be held accountable for carrying out clauses (1) and (2) of this subsection.
+  (b) In addition to officers and employees referred to in subsection (a)(1)(B) of this section as having authorization to certify vouchers, members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation.
+  (c) On request, the Secretary of the Treasury may provide to the appropriate officer or employee of the United States Government a list of persons receiving periodic payments from the Government. When certified and in proper form, the list may be used as a voucher on which the Secretary may disburse money.
+  (d) The head of an executive agency or an officer or employee of an executive agency referred to in subsection (a)(1)(B), as applicable, shall include with each certified voucher submitted to a disbursing official pursuant to this section the taxpayer identifying number of each person to whom payment may be made under the voucher.

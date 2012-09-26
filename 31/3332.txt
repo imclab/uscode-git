@@ -5,4 +5,29 @@
   (c)    (1) The Secretary of the Treasury may waive the requirements of subsection (a) of this section for any group of recipients upon request by the head of an agency under standards prescribed by the Secretary of the Treasury.
     (2) Federal wage, salary, or retirement payments shall be paid to any member of a group granted a waiver under paragraph (1) of this subsection by any method determined appropriate by the Secretary of the Treasury.
   (d) This section shall apply only to recipients of Federal wage or salary payments who begin to receive such payments on or after January 1, 1995, and recipients of Federal retirement payments who begin to receive such payments on or after January 1, 1995.
-  (e) The crediting of the amount of a payment to the appropriate account on the books of a financial institution or other authorized payment agent designated by a payment recipient under this section shall constitute a full acquittance to the United States for the amount of the payment.
+  (e)    (1) Notwithstanding subsections (a) through (d) of this section, sections 5120(a) and (d) of title 38, and any other provision of law, all Federal payments to a recipient who becomes eligible for that type of payment after 90 days after the date of the enactment of the Debt Collection Improvement Act of 1996 shall be made by electronic funds transfer.
+    (2) The head of a Federal agency shall, with respect to Federal payments made or authorized by the agency, waive the application of paragraph (1) to a recipient of those payments upon receipt of written certification from the recipient that the recipient does not have an account with a financial institution or an authorized payment agent.
+  (f)    (1) Notwithstanding any other provision of law (including subsections (a) through (e) of this section and sections 5120(a) and (d) of title 38), except as provided in paragraph (2) all Federal payments made after January 1, 1999, shall be made by electronic funds transfer.
+    (2)      (A) The Secretary of the Treasury may waive application of this subsection to payments–
+        (i) for individuals or classes of individuals for whom compliance imposes a hardship;
+        (ii) for classifications or types of checks; or
+        (iii) in other circumstances as may be necessary.
+      (B) The Secretary of the Treasury shall make determinations under subparagraph (A) based on standards developed by the Secretary.
+  (g) Each recipient of Federal payments required to be made by electronic funds transfer shall–
+    (1) designate 1 or more financial institutions or other authorized agents to which such payments shall be made; and
+    (2) provide to the Federal agency that makes or authorizes the payments information necessary for the recipient to receive electronic funds transfer payments through each institution or agent designated under paragraph (1).
+  (h) The crediting of the amount of a payment to the appropriate account on the books of a financial institution or other authorized payment agent designated by a payment recipient under this section shall constitute a full acquittance to the United States for the amount of the payment.
+    (i)      (1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
+      (2) Regulations under this subsection shall ensure that individuals required under subsection (g) to have an account at a financial institution because of the application of subsection (f)(1)–
+        (A) will have access to such an account at a reasonable cost; and
+        (B) are given the same consumer protections with respect to the account as other account holders at the same financial institution.
+    (j) For purposes of this section–
+      (1) The term ””electronic funds transfer““ means any transfer of funds, other than a transaction originated by cash, check, or similar paper instrument, that is initiated through an electronic terminal, telephone, computer, or magnetic tape, for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. The term includes Automated Clearing House transfers, Fed Wire transfers, transfers made at automatic teller machines, and point-of-sale terminals.
+      (2) The term ””Federal agency““ means–
+        (A) an agency (as defined in section 101 of this title); and
+        (B) a Government corporation (as defined in section 103 of title 5).
+      (3) The term ””Federal payments““ includes–
+        (A) Federal wage, salary, and retirement payments;
+        (B) vendor and expense reimbursement payments; and
+        (C) benefit payments.
+       Such term shall not include any payment under the Internal Revenue Code of 1986.

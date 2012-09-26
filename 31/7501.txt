@@ -1,30 +1,35 @@
-   As used in this chapter, the term–
-  (1) ””cognizant agency““ means a Federal agency which is assigned by the Director with the responsibility for implementing the requirements of this chapter with respect to a particular State or local government.
-  (2) ””Comptroller General““ means the Comptroller General of the United States.
-  (3) ””Director““ means the Director of the Office of Management and Budget.
-  (4) ””Federal financial assistance““ means assistance provided by a Federal agency in the form of grants, contracts, loans, loan guarantees, property, cooperative agreements, interest subsidies, insurance, or direct appropriations, but does not include direct Federal cash assistance to individuals.
-  (5) ””Federal agency““ has the same meaning as the term ””agency““ in section 551(1) of title 5, United States Code.
-  (6) ””generally accepted accounting principles““ has the meaning specified in the generally accepted government auditing standards.
-  (7) ””generally accepted government auditing standards““ means the standards for audit of governmental organizations, programs, activities, and functions, issued by the Comptroller General.
-  (8) ””independent auditor““ means–
-    (A) an external State or local government auditor who meets the independence standards included in generally accepted government auditing standards, or
-    (B) a public accountant who meets such independence standards.
-  (9) ””internal controls““ means the plan of organization and methods and procedures adopted by management to ensure that–
-    (A) resource use is consistent with laws, regulations, and policies;
-    (B) resources are safeguarded against waste, loss, and misuse; and
-    (C) reliable data are obtained, maintained, and fairly disclosed in reports.
-  (10) ””Indian tribe““ means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
-  (11) ””local government““ means any unit of local government within a State, including a county, borough, municipality, city, town, township, parish, local public authority, special district, school district, intrastate district, council of governments, and any other instrumentality of local government.
-  (12) ””major Federal assistance program““ means any program for which total expenditures of Federal financial assistance by the State or local government during the applicable year exceed–
-    (A) $20,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $7,000,000,000;
-    (B) $19,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $6,000,000,000 but are less than or equal to $7,000,000,000;
-    (C) $16,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $5,000,000,000 but are less than or equal to $6,000,000,000;
-    (D) $13,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $4,000,000,000 but are less than or equal to $5,000,000,000;
-    (E) $10,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $3,000,000,000 but are less than or equal to $4,000,000,000;
-    (F) $7,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $2,000,000,000 but are less than or equal to $3,000,000,000;
-    (G) $4,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $1,000,000,000 but are less than or equal to $2,000,000,000;
-    (H) $3,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $1,000,000,000; and
-      (I) the larger of (i) $300,000, or (ii) 3 percent of such total expenditures for all programs, in the case of a State or local government for which such total expenditures for all programs exceed $100,000 but are less than or equal to $100,000,000.
-  (13) ””public accountants““ means those individuals who meet the qualification standards included in generally accepted government auditing standards for personnel performing government audits.
-  (14) ””State““ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian tribe.
-  (15) ””subrecipient““ means any person or government department, agency, or establishment that receives Federal financial assistance through a State or local government, but does not include an individual that receives such assistance.
+  (a) As used in this chapter, the term–
+    (1) ””Comptroller General““ means the Comptroller General of the United States;
+    (2) ””Director““ means the Director of the Office of Management and Budget;
+    (3) ””Federal agency““ has the same meaning as the term ””agency““ in section 551(1) of title 5;
+    (4) ””Federal awards““ means Federal financial assistance and Federal cost-reimbursement contracts that non-Federal entities receive directly from Federal awarding agencies or indirectly from pass-through entities;
+    (5) ””Federal financial assistance““ means assistance that non-Federal entities receive or administer in the form of grants, loans, loan guarantees, property, cooperative agreements, interest subsidies, insurance, food commodities, direct appropriations, or other assistance, but does not include amounts received as reimbursement for services rendered to individuals in accordance with guidance issued by the Director;
+    (6) ””Federal program““ means all Federal awards to a non-Federal entity assigned a single number in the Catalog of Federal Domestic Assistance or encompassed in a group of numbers or other category as defined by the Director;
+    (7) ””generally accepted government auditing standards““ means the government auditing standards issued by the Comptroller General;
+    (8) ””independent auditor““ means–
+      (A) an external State or local government auditor who meets the independence standards included in generally accepted government auditing standards; or
+      (B) a public accountant who meets such independence standards;
+    (9) ””Indian tribe““ means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+    (10) ””internal controls““ means a process, effected by an entity“s management and other personnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:
+      (A) Effectiveness and efficiency of operations.\1\N
+      (B) Reliability of financial reporting.\1\
+      (C) Compliance with applicable laws and regulations;
+    (11) ””local government““ means any unit of local government within a State, including a county, borough, municipality, city, town, township, parish, local public authority, special district, school district, intrastate district, council of governments, any other instrumentality of local government and, in accordance with guidelines issued by the Director, a group of local governments;
+    (12) ””major program““ means a Federal program identified in accordance with risk-based criteria prescribed by the Director under this chapter, subject to the limitations described under subsection (b);
+    (13) ””non-Federal entity““ means a State, local government, or nonprofit organization;
+    (14) ””nonprofit organization““ means any corporation, trust, association, cooperative, or other organization that–
+      (A) is operated primarily for scientific, educational, service, charitable, or similar purposes in the public interest;
+      (B) is not organized primarily for profit; and
+      (C) uses net proceeds to maintain, improve, or expand the operations of the organization;
+    (15) ””pass-through entity““ means a non-Federal entity that provides Federal awards to a subrecipient to carry out a Federal program;
+    (16) ””program-specific audit““ means an audit of one Federal program;
+    (17) ””recipient““ means a non-Federal entity that receives awards directly from a Federal agency to carry out a Federal program;
+    (18) ””single audit““ means an audit, as described under section 7502(d), of a non-Federal entity that includes the entity“s financial statements and Federal awards;
+    (19) ””State““ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian tribe; and
+    (20) ””subrecipient““ means a non-Federal entity that receives Federal awards through another non-Federal entity to carry out a Federal program, but does not include an individual who receives financial assistance through such awards.
+  (b) In prescribing risk-based program selection criteria for major programs, the Director shall not require more programs to be identified as major for a particular non-Federal entity, except as prescribed under subsection (c) or as provided under subsection (d), than would be identified if the major programs were defined as any program for which total expenditures of Federal awards by the non-Federal entity during the applicable year exceed–
+    (1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity“s total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $10,000,000,000;
+    (2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity“s total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
+    (3) the larger of $300,000, or 3 percent of such total Federal expenditures for all programs, in the case of a non-Federal entity for which such total expenditures for all programs equal or exceed $300,000 but are less than or equal to $100,000,000.
+  (c) When the total expenditures of a non-Federal entity“s major programs are less than 50 percent of the non-Federal entity“s total expenditures of all Federal awards (or such lower percentage as specified by the Director), the auditor shall select and test additional programs as major programs as necessary to achieve audit coverage of at least 50 percent of Federal expenditures by the non-Federal entity (or such lower percentage as specified by the Director), in accordance with guidance issued by the Director.
+  (d) Loan or loan guarantee programs, as specified by the Director, shall not be subject to the application of subsection (b).
