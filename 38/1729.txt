@@ -1,4 +1,4 @@
-  (a)    (1) Subject to the provisions of this section, in any case in which a veteran is furnished care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect the reasonable cost of such care or services (as determined by the Secretary) from a third party to the extent that the veteran (or the provider of the care or services) would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished by a department or agency of the United States.
+  (a)    (1) Subject to the provisions of this section, in any case in which a veteran is furnished care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect reasonable charges for such care or services (as determined by the Secretary) from a third party to the extent that the veteran (or the provider of the care or services) would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished by a department or agency of the United States.
     (2) Paragraph (1) of this subsection applies to a non-service-connected disability–
       (A) that is incurred incident to the veteran“s employment and that is covered under a workers“ compensation law or plan that provides for payment for the cost of health care and services provided to the veteran by reason of the disability;
       (B) that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
@@ -6,7 +6,7 @@
       (D) that is incurred by a veteran–
         (i) who does not have a service-connected disability; and
         (ii) who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
-      (E) for which care and services are furnished before October 1, 1998, under this chapter to a veteran who–
+      (E) for which care and services are furnished before October 1, 2002, under this chapter to a veteran who–
         (i) has a service-connected disability; and
         (ii) is entitled to care (or payment of the expenses of care) under a health-plan contract.
     (3) In the case of a health-plan contract that contains a requirement for payment of a deductible or copayment by the veteran–
@@ -20,25 +20,15 @@
         (iii) a period of 60 days has passed following the mailing of such notice.
       (C) A proceeding under subparagraph (B) of this paragraph may not be brought after the end of the six-year period beginning on the last day on which the care or services for which recovery is sought are furnished.
   (c)    (1) The Secretary may compromise, settle, or waive any claim which the United States has under this section.
-    (2)      (A) The Secretary, after consultation with the Comptroller General of the United States, shall prescribe regulations for the purpose of determining the reasonable cost of care or services under subsection (a)(1) of this section. Any determination of such cost shall be made in accordance with such regulations.
-      (B) Such regulations shall provide that the reasonable cost of care or services sought to be recovered or collected from a third-party liable under a health-plan contract may not exceed the amount that such third party demonstrates to the satisfaction of the Secretary it would pay for the care or services if provided by facilities (other than facilities of departments or agencies of the United States) in the same geographic area.
+    (2)      (A) The Secretary, after consultation with the Comptroller General of the United States, shall prescribe regulations for the purpose of determining reasonable charges for care or services under subsection (a)(1) of this section. Any determination of such charges shall be made in accordance with such regulations.
+      (B) Such regulations shall provide that reasonable charges for care or services sought to be recovered or collected from a third-party liable under a health-plan contract may not exceed the amount that such third party demonstrates to the satisfaction of the Secretary it would pay for the care or services if provided by facilities (other than facilities of departments or agencies of the United States) in the same geographic area.
       (C) Not later than 45 days after the date on which the Secretary prescribes such regulations (or any amendment to such regulations), the Comptroller General shall submit to the Committees on Veterans“ Affairs of the Senate and the House of Representatives the Comptroller General“s comments on and recommendations regarding such regulations (or amendment).
   (d) Any contract or agreement into which the Secretary enters with a person under section 3718 of title 31 for collection services to recover indebtedness owed the United States under this section shall provide, with respect to such services, that such person is subject to sections 5701 and 7332 of this title.
   (e) A veteran eligible for care or services under this chapter–
     (1) may not be denied such care or services by reason of this section; and
     (2) may not be required by reason of this section to make any copayment or deductible payment in order to receive such care.
   (f) No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under section 1711(b) of this title.
-  (g)    (1) There is established in the Treasury a fund to be known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund (hereafter referred to in this section as the ””Fund““).
-    (2) Amounts recovered or collected under this section shall be deposited in the Fund.
-    (3) Sums in the Fund shall be available to the Secretary for the following:
-      (A) Payment of necessary expenses for the identification, billing, and collection of the cost of care and services furnished under this chapter, and for the administration and collection of payments required under subsection (f) or (g) of section 1710 of this title for hospital care, medical services, or nursing home care and under section 1722A of this title for medications, including–
-        (i) the costs of computer hardware and software, word processing and telecommunications equipment, other equipment, supplies, and furniture;
-        (ii) personnel training and travel costs;
-        (iii) personnel and administrative costs for attorneys in the Office of General Counsel of the Department and for support personnel of such office;
-        (iv) other personnel and administrative costs; and
-        (v) the costs of any contract for identification, billing, or collection services.
-      (B) Payment of the Secretary for reasonable charges, as determined by the Secretary, imposed for (i) services and utilities (including light, water, and heat) furnished by the Secretary, (ii) recovery and collection activities under this section, and (iii) administration of the Fund.
-    (4) Not later than January 1 of each year, there shall be deposited into the Treasury as miscellaneous receipts an amount equal to the amount of the unobligated balance remaining in the Fund at the close of business on September 30 of the preceding year minus any part of such balance that the Secretary determines is necessary in order to enable the Secretary to defray, during the fiscal year in which the deposit is made, the expenses, payments, and costs described in paragraph (3).
+     [(g) Repealed. Pub. L. 105–33, title VIII, § 8023(b)(4), Aug. 5, 1997, 111 Stat. 667.]
   (h)    (1) Subject to paragraph (3) of this subsection, the Secretary shall make available medical records of a veteran described in paragraph (2) of this subsection for inspection and review by representatives of the third party concerned for the sole purposes of permitting the third party to verify–
       (A) that the care or services for which recovery or collection is sought were furnished to the veteran; and
       (B) that the provision of such care or services to the veteran meets criteria generally applicable under the health-plan contract involved.
