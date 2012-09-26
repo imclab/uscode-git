@@ -7,8 +7,9 @@
     (2) ””gas““ means natural gas, flammable gas, or toxic or corrosive gas;
     (3) ””gas pipeline facility““ includes a pipeline, a right of way, a facility, a building, or equipment used in transporting gas or treating gas during its transportation;
     (4) ””hazardous liquid““ means–
-      (A) petroleum or a petroleum product; and
-      (B) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
+      (A) petroleum or a petroleum product;
+      (B) nonpetroleum fuel, including biofuel, that is flammable, toxic, or corrosive or would be harmful to the environment if released in significant quantities; and
+      (C) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
     (5) ””hazardous liquid pipeline facility““ includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
     (6) ””interstate gas pipeline facility““ means a gas pipeline facility–
       (A) used to transport gas; and
