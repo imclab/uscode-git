@@ -1,37 +1,13 @@
-  (a) Prerequisites
-     Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
-  (b) Proof of compliance with statutory provisions
-     Except as provided in section 1635(c) of this title, in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a) of this section, of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
-  (c) Right of rescission by consumer unaffected
-     Any consumer who has the right to rescind a transaction under section 1635 of this title may rescind the transaction as against any assignee of the obligation.
-  (d) Rights upon assignment of certain mortgages
-    (1) In general
-       Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
-    (2) Limitation on damages
-       Notwithstanding any other provision of law, relief provided as a result of any action made permissible by paragraph (1) may not exceed–
-      (A) with respect to actions based upon a violation of this subchapter, the amount specified in section 1640 of this title; and
-      (B) with respect to all other causes of action, the sum of–
-        (i) the amount of all remaining indebtedness; and
-        (ii) the total amount paid by the consumer in connection with the transaction.
-    (3) Offset
-       The amount of damages that may be awarded under paragraph (2)(B) shall be reduced by the amount of any damages awarded under paragraph (2)(A).
-    (4) Notice
-       Any person who sells or otherwise assigns a mortgage referred to in section 1602(aa) of this title shall include a prominent notice of the potential liability under this subsection as determined by the Board.
-  (e) Liability of assignee for consumer credit transactions secured by real property
-    (1) In general
-       Except as otherwise specifically provided in this subchapter, any civil action against a creditor for a violation of this subchapter, and any proceeding under section 1607 of this title against a creditor, with respect to a consumer credit transaction secured by real property may be maintained against any assignee of such creditor only if–
-      (A) the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement provided in connection with such transaction pursuant to this subchapter; and
-      (B) the assignment to the assignee was voluntary.
-    (2) Violation apparent on the face of the disclosure described
-       For the purpose of this section, a violation is apparent on the face of the disclosure statement if–
-      (A) the disclosure can be determined to be incomplete or inaccurate by a comparison among the disclosure statement, any itemization of the amount financed, the note, or any other disclosure of disbursement; or
-      (B) the disclosure statement does not use the terms or format required to be used by this subchapter.
-  (f) Treatment of servicer
-    (1) In general
-       A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as an assignee of such obligation for purposes of this section unless the servicer is or was the owner of the obligation.
-    (2) Servicer not treated as owner on basis of assignment for administrative convenience
-       A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as the owner of the obligation for purposes of this section on the basis of an assignment of the obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address, and telephone number of the owner of the obligation or the master servicer of the obligation.
-    (3) ””Servicer““ defined
-       For purposes of this subsection, the term ””servicer““ has the same meaning as in section 2605(i)(2) of title 12.
-    (4) Applicability
-       This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
+  (a) Findings
+     Congress finds the following:
+    (1) Forests and rangeland, and the resources of forests and rangeland, are of strategic economic and ecological importance to the United States, and the Federal Government has an important and substantial role in ensuring the continued health, productivity, and sustainability of the forests and rangeland of the United States.
+    (2) Over 75 percent of the productive commercial forest land in the United States is privately owned, with some 60 percent owned by small nonindustrial private owners. These 10,000,000 nonindustrial private owners are critical to providing both commodity and noncommodity values to the citizens of the United States.
+    (3) The National Forest System manages only 17 percent of the commercial timberland of the United States, with over half of the standing softwoods inventory located on that land. Dramatic changes in Federal agency policy during the early 1990“s have significantly curtailed the management of this vast timber resource, causing abrupt shifts in the supply of timber from public to private ownership. As a result of these shifts in supply, some 60 percent of total wood production in the United States is now coming from private forest land in the southern United States.
+    (4) At the same time that pressures are building for the removal of even more land from commercial production, the Federal Government is significantly reducing its commitment to productivity-related research regarding forests and rangeland, which is critically needed by the private sector for the sustained management of remaining available timber and forage resources for the benefit of all species.
+    (5) Uncertainty over the availability of the United States timber supply, increasing regulatory burdens, and the lack of Federal Government support for research is causing domestic wood and paper producers to move outside the United States to find reliable sources of wood supplies, which in turn results in a worsening of the United States trade balance, the loss of employment and infrastructure investments, and an increased risk of infestations of exotic pests and diseases from imported wood products.
+    (6) Wood and paper producers in the United States are being challenged not only by shifts in Federal Government policy, but also by international competition from tropical countries where growth rates of trees far exceed those in the United States. Wood production per acre will need to quadruple from 1996 levels for the United States forestry sector to remain internationally competitive on an ever decreasing forest land base.
+    (7) Better and more frequent forest inventorying and analysis is necessary to identify productivity-related forestry research needs and to provide forest managers with the current data necessary to make timely and effective management decisions.
+  (b) Relationship to other law
+     This subchapter shall be deemed to complement the policies and direction set forth in the Forest and Rangeland Renewable Resources Planning Act of 1974 [16 U.S.C. 1600 et seq.].
+  (c) Purpose
+     It is the purpose of this subchapter to authorize the Secretary to expand research activities to encompass international forestry and natural resource issues on a global scale.

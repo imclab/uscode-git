@@ -1,26 +1,25 @@
-  (a) General requirements applicable to franchisor
-     Prior to termination of any franchise or nonrenewal of any franchise relationship, the franchisor shall furnish notification of such termination or such nonrenewal to the franchisee who is a party to such franchise or such franchise relationship–
-    (1) in the manner described in subsection (c) of this section; and
-    (2) except as provided in subsection (b) of this section, not less than 90 days prior to the date on which such termination or nonrenewal takes effect.
-  (b) Additional requirements applicable to franchisor
-    (1) In circumstances in which it would not be reasonable for the franchisor to furnish notification, not less than 90 days prior to the date on which termination or nonrenewal takes effect, as required by subsection (a)(2) of this section–
-      (A) such franchisor shall furnish notification to the franchisee affected thereby on the earliest date on which furnishing of such notification is reasonably practicable; and
-      (B) in the case of leased marketing premises, such franchisor–
-        (i) may not establish a new franchise relationship with respect to such premises before the expiration of the 30-day period which begins–
-          (I) on the date notification was posted or personally delivered, or
-          (II) if later, on the date on which such termination or nonrenewal takes effect; and
-        (ii) may, if permitted to do so by the franchise agreement, repossess such premises and, in circumstances under which it would be reasonable to do so, operate such premises through employees or agents.
-    (2) In the case of any termination of any franchise or any nonrenewal of any franchise relationship pursuant to the provisions of section 2802(b)(2)(E) of this title or section 2803(c)(2) of this title, the franchisor shall–
-      (A) furnish notification to the franchisee not less than 180 days prior to the date on which such termination or nonrenewal takes effect; and
-      (B) promptly provide a copy of such notification, together with a plan describing the schedule and conditions under which the franchisor will withdraw from the marketing of motor fuel through retail outlets in the relevant geographic area, to the Governor of each State which contains a portion of such area.
-  (c) Manner and form of notification
-     Notification under this section–
-    (1) shall be in writing;
-    (2) shall be posted by certified mail or personally delivered to the franchisee; and
-    (3) shall contain–
-      (A) a statement of intention to terminate the franchise or not to renew the franchise relationship, together with the reasons therefor;
-      (B) the date on which such termination or nonrenewal takes effect; and
-      (C) the summary statement prepared under subsection (d) of this section.
-  (d) Preparation, publication, etc., of statutory summaries
-    (1) Not later than 30 days after June 19, 1978, the Secretary of Energy shall prepare and publish in the Federal Register a simple and concise summary of the provisions of this subchapter, including a statement of the respective responsibilities of, and the remedies and relief available to, any franchisor and franchisee under this subchapter.
-    (2) In the case of summaries required to be furnished under the provisions of section 2802(b)(2)(D) of this title or subsection (c)(3)(C) of this section before the date of publication of such summary in the Federal Register, such summary may be furnished not later than 5 days after it is so published rather than at the time required under such provisions.
+  (a) Mandatory functions
+     In implementing the Plan, the Secretaries shall–
+    (1) provide advisory, educational, and technical assistance (including training) with respect to aquaculture to interested persons, and in providing such assistance, shall, to the maximum extent practicable, avoid duplication of similar assistance provided by other Federal departments and agencies and by State agencies;
+    (2) consult and cooperate with interested persons, Federal departments and agencies, State agencies, and regional fishery management councils established under section 1852 of this title;
+    (3) encourage the implementation of aquacultural technology in the rehabilitation and enhancement of publicly owned fish and shellfish stocks (including rehabilitation and enhancement by private nonprofit enterprises), and in the development of private commercial aquacultural enterprises; and
+    (4) prescribe such regulations as may be necessary to carry out the Plan.
+  (b) Discretionary functions
+     In implementing the Plan, the Secretaries may–
+    (1) for the purposes of assessing the biological, technical, and economic feasibility of any aquacultural system–
+      (A) conduct tests of the system, and, if necessary to demonstrate its feasibility, construct, operate, and maintain developmental aquaculture facilities for testing laboratory results, and
+      (B) conduct such other tests or analyses as may be necessary;
+    (2) develop methods to enhance seed stocks of aquatic species; and
+    (3) conduct such other tests or analyses or take such other actions as the Secretaries deem necessary or appropriate.
+  (c) Information services
+    (1) In addition to performing such other mandatory functions under this chapter–
+      (A) the Secretaries shall collect and analyze scientific, technical, legal, and economic information relating to aquaculture, including acreages, water use, production, marketing, culture techniques, and other relevant matters;
+      (B) the Secretary shall–
+        (i) establish, within the Department of Agriculture, a National Aquaculture Information Center that shall serve as a repository for the information generated under subparagraph (A) and other provisions of this chapter and shall, on a request basis, make that information available to the public,
+        (ii) arrange with foreign nations for the exchange of information relating to aquaculture and support a translation service, and
+        (iii) conduct a study of the extent to which the United States aquaculture industry has access to relevant Federal programs which assist the agricultural sector and report to Congress on the findings of such study by December 31, 1986;
+      (C) the Secretary of Commerce shall conduct a study, and report to Congress thereon by December 31, 1987, to determine whether existing capture fisheries could be adversely affected by competition from products produced by commercial aquacultural enterprises and include in such study an assessment of any adverse effect, by species and by geographical region, on such fisheries and recommend measures to ameliorate any such effect; and
+      (D) the Secretary of the Interior, in consultation with the Secretary of Commerce, shall undertake a study, and report to Congress thereon by December 31, 1987, to identify exotic species introduced into the United States waters as a result of aquaculture activities, and to determine the potential benefits and impacts of the introduction of exotic species.
+    (2) Any production information submitted to the Secretaries under paragraph (1)(A) shall be confidential and may only be disclosed if required under court order. The Secretaries shall preserve such confidentiality. The Secretaries may release or make public any information in any aggregate or summary form that does not directly or indirectly disclose the identity, business transactions, or trade secrets of any person who submits such information.
+  (d) Biennial report
+     The Secretary, through the coordinating group and in consultation with the Secretary of Commerce and the Secretary of the Interior,,\1\N shall prepare on a biennial basis, and submit to Congress, a report on the status of aquaculture in the United States. Such report shall contain a description and evaluation of the actions undertaken with respect to the Plan during the reporting period, and explanation of any revisions made to the Plan during the reporting period, and such other comments and recommendations as the Secretary deems appropriate. The report required by this subsection shall be submitted to the Congress not later than February 1, 1988.

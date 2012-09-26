@@ -1,29 +1,17 @@
-  (a) Full and conspicuous disclosure of terms and conditions; additional requirements for contents
-     In order to improve the adequacy of information available to consumers, prevent deception, and improve competition in the marketing of consumer products, any warrantor warranting a consumer product to a consumer by means of a written warranty shall, to the extent required by rules of the Commission, fully and conspicuously disclose in simple and readily understood language the terms and conditions of such warranty. Such rules may require inclusion in the written warranty of any of the following items among others:
-    (1) The clear identification of the names and addresses of the warrantors.
-    (2) The identity of the party or parties to whom the warranty is extended.
-    (3) The products or parts covered.
-    (4) A statement of what the warrantor will do in the event of a defect, malfunction, or failure to conform with such written warranty–at whose expense–and for what period of time.
-    (5) A statement of what the consumer must do and expenses he must bear.
-    (6) Exceptions and exclusions from the terms of the warranty.
-    (7) The step-by-step procedure which the consumer should take in order to obtain performance of any obligation under the warranty, including the identification of any person or class of persons authorized to perform the obligations set forth in the warranty.
-    (8) Information respecting the availability of any informal dispute settlement procedure offered by the warrantor and a recital, where the warranty so provides, that the purchaser may be required to resort to such procedure before pursuing any legal remedies in the courts.
-    (9) A brief, general description of the legal remedies available to the consumer.
-    (10) The time at which the warrantor will perform any obligations under the warranty.
-    (11) The period of time within which, after notice of a defect, malfunction, or failure to conform with the warranty, the warrantor will perform any obligations under the warranty.
-    (12) The characteristics or properties of the products, or parts thereof, that are not covered by the warranty.
-    (13) The elements of the warranty in words or phrases which would not mislead a reasonable, average consumer as to the nature or scope of the warranty.
-  (b) Availability of terms to consumer; manner and form for presentation and display of information; duration; extension of period for written warranty or service contract
-    (1)      (A) The Commission shall prescribe rules requiring that the terms of any written warranty on a consumer product be made available to the consumer (or prospective consumer) prior to the sale of the product to him.
-      (B) The Commission may prescribe rules for determining the manner and form in which information with respect to any written warranty of a consumer product shall be clearly and conspicuously presented or displayed so as not to mislead the reasonable, average consumer, when such information is contained in advertising, labeling, point-of-sale material, or other representations in writing.
-    (2) Nothing in this chapter (other than paragraph (3) of this subsection) shall be deemed to authorize the Commission to prescribe the duration of written warranties given or to require that a consumer product or any of its components be warranted.
-    (3) The Commission may prescribe rules for extending the period of time a written warranty or service contract is in effect to correspond with any period of time in excess of a reasonable period (not less than 10 days) during which the consumer is deprived of the use of such consumer product by reason of failure of the product to conform with the written warranty or by reason of the failure of the warrantor (or service contractor) to carry out such warranty (or service contract) within the period specified in the warranty (or service contract).
-  (c) Prohibition on conditions for written or implied warranty; waiver by Commission
-     No warrantor of a consumer product may condition his written or implied warranty of such product on the consumer“s using, in connection with such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if–
-    (1) the warrantor satisfies the Commission that the warranted product will function properly only if the article or service so identified is used in connection with the warranted product, and
-    (2) the Commission finds that such a waiver is in the public interest.
-       The Commission shall identify in the Federal Register, and permit public comment on, all applications for waiver of the prohibition of this subsection, and shall publish in the Federal Register its disposition of any such application, including the reasons therefor.
-  (d) Incorporation by reference of detailed substantive warranty provisions
-     The Commission may by rule devise detailed substantive warranty provisions which warrantors may incorporate by reference in their warranties.
-  (e) Applicability to consumer products costing more than $5
-     The provisions of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $5.
+  (a) Formulation and implementation of plans and projects developed pursuant to plans
+     The Secretary of the Interior (hereinafter referred to as ””Secretary““) is authorized to formulate transportation plans and implement transportation projects where feasible pursuant to those plans for units of the national park system.
+  (b) Contracts, acquisitions, etc., for improvement of access to park system units
+     To carry out the purposes of subsection (a) of this section, the Secretary is authorized to–
+    (1) contract with public or private agencies or carriers to provide transportation services, capital equipment, or facilities to improve access to units of the national park system;
+    (2) operate such services directly in the absence of suitable and adequate agencies or carriers;
+    (3) acquire by purchase, lease, or agreement, capital equipment for such services; and
+    (4) where necessary to carry out the purposes of this chapter, acquire by lease, purchase, donation, exchange, or transfer, lands, waters, and interests therein which are situated outside the boundary of a unit of the national park system, which property shall be administered as part of the unit: T3ProvidedK, That any land or interests in land owned by a State or any of its political subdivisions may be acquired only by donation: T3Provided furtherK, That any land acquisition shall be subject to such statutory limitations, if any, on methods of acquisition and appropriations thereof as may be specifically applicable to such area.
+  (c) Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(A), Nov. 12, 1996, 110 Stat. 4195
+  (d) Appropriation of fees collected and covered into Planning, Development, and Operation of Recreational Facilities appropriation account
+     All fees directly collected by the National Park Service in the operation of the facilities and services authorized by this chapter shall be covered into the Planning, Development, and Operation of Recreation Facilities appropriation account to be subject to appropriation.
+  (e) Establishment of information programs
+     The Secretary shall establish information programs to inform the public of available park access opportunities and to promote the use of transportation modes other than personal motor vehicles for access to and travel within the units of the national park system.
+  (f) Undertaking of concession facilities or services
+     Transportation facilities and services provided pursuant to this chapter shall not be considered as concession facilities or services within the meaning of the Act of October 9, 1965 (79 Stat. 969) \1\N and may be undertaken by the Secretary directly or by contract without regard to any requirement of local, State, or Federal law respecting determinations of public convenience and necessity or other similar matters: T3ProvidedK, That the Secretary or his contractor shall consult with the appropriate State or local public service commission or other such body having authority to issue certificates of convenience and necessity, and any such contractor shall be subject to applicable requirements of such body unless the Secretary determines that such requirements would not be consistent with the purposes and provisions of this chapter.
+  (g) Construction of grant of authority respecting operation of motor vehicles excepted from statutory coverage
+     No grant of authority in this chapter shall be deemed to expand the exemption of section 10526(a)(9) \1\ of title 49.
