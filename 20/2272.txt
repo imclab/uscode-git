@@ -12,19 +12,14 @@
       (B)        (i)          (I) there has been a shift by such workers“ firm to a foreign country in the production of articles or the supply of services like or directly competitive with articles which are produced or services which are supplied by such firm; or
           (II) such workers“ firm has acquired from a foreign country articles or services that are like or directly competitive with articles which are produced or services which are supplied by such firm; and
         (ii) the shift described in clause (i)(I) or the acquisition of articles or services described in clause (i)(II) contributed importantly to such workers“ separation or threat of separation.
-  (b) Adversely affected workers in public agencies
-     A group of workers in a public agency shall be certified by the Secretary as eligible to apply for adjustment assistance under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that–
-    (1) a significant number or proportion of the workers in the public agency have become totally or partially separated, or are threatened to become totally or partially separated;
-    (2) the public agency has acquired from a foreign country services like or directly competitive with services which are supplied by such agency; and
-    (3) the acquisition of services described in paragraph (2) contributed importantly to such workers“ separation or threat of separation.
-  (c) Adversely affected secondary workers
+  (b) Adversely affected secondary workers
      A group of workers shall be certified by the Secretary as eligible to apply for trade adjustment assistance benefits under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that–
     (1) a significant number or proportion of the workers in the workers“ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated;
-    (2) the workers“ firm is a supplier or downstream producer to a firm that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article or service that was the basis for such certification (as defined in subsection (d)(3) and (4) of this section); and
+    (2) the workers“ firm is a supplier or downstream producer to a firm that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article or service that was the basis for such certification (as defined in subsection (c)(3) and (4) of this section); and
     (3) either–
       (A) the workers“ firm is a supplier and the component parts it supplied to the firm described in paragraph (2) accounted for at least 20 percent of the production or sales of the workers“ firm; or
       (B) a loss of business by the workers“ firm with the firm described in paragraph (2) contributed importantly to the workers“ separation or threat of separation determined under paragraph (1).
-  (d) Definitions
+  (c) Definitions
      For purposes of this section–
     (1) The term ””contributed importantly““ means a cause which is important but not necessarily more important than any other cause.
     (2)      (A) Any firm that engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
@@ -33,12 +28,11 @@
       (A) T4In generalK.–The term ””downstream producer““ means a firm that performs additional, value-added production processes or services directly for another firm for articles or services with respect to which a group of workers in such other firm has been certified under subsection (a).
       (B) T4Value-added production processes or servicesK.–For purposes of subparagraph (A), value-added production processes or services include final assembly, finishing, testing, packaging, or maintenance or transportation services.
     (4) T4SupplierK.–The term ””supplier““ means a firm that produces and supplies directly to another firm component parts for articles, or services, used in the production of articles or in the supply of services, as the case may be, that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm.
-    (5) T4Reference to firmK.–For purposes of subsection (a), the term ””firm““ does not include a public agency.
-  (e) Basis for Secretary“s determinations
+  (d) Basis for Secretary“s determinations
     (1) In general
        The Secretary shall, in determining whether to certify a group of workers under section 2273 of this title, obtain from the workers“ firm, or a customer of the workers“ firm, information the Secretary determines to be necessary to make the certification, through questionnaires and in such other manner as the Secretary determines appropriate.
     (2) Additional information
-       The Secretary may seek additional information to determine whether to certify a group of workers under subsection (a), (b), or (c)–
+       The Secretary may seek additional information to determine whether to certify a group of workers under subsection (a) or (b)–
       (A) by contacting–
         (i) officials or employees of the workers“ firm;
         (ii) officials of customers of the workers“ firm;
@@ -54,7 +48,7 @@
          The Secretary shall require the workers“ firm or a customer of the workers“ firm to provide information requested by the Secretary under paragraph (1) by subpoena pursuant to section 2321 of this title if the firm or customer (as the case may be) fails to provide the information within 20 days after the date of the Secretary“s request, unless the firm or customer (as the case may be) demonstrates to the satisfaction of the Secretary that the firm or customer (as the case may be) will provide the information within a reasonable period of time.
       (C) Protection of confidential information
          The Secretary may not release information obtained under paragraph (1) that the Secretary considers to be confidential business information unless the firm or customer (as the case may be) submitting the confidential business information had notice, at the time of submission, that the information would be released by the Secretary, or the firm or customer (as the case may be) subsequently consents to the release of the information. Nothing in this subparagraph shall be construed to prohibit the Secretary from providing such confidential business information to a court in camera or to another party under a protective order issued by a court.
-  (f) Firms identified by the International Trade Commission
+  (e) Firms identified by the International Trade Commission
      Notwithstanding any other provision of this part, a group of workers covered by a petition filed under section 2271 of this title shall be certified under subsection (a) as eligible to apply for adjustment assistance under this part if–
     (1) the workers“ firm is publicly identified by name by the International Trade Commission as a member of a domestic industry in an investigation resulting in–
       (A) an affirmative determination of serious injury or threat thereof under section 2252(b)(1) of this title;

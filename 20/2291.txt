@@ -37,22 +37,11 @@
   (c) Waivers of training requirements
     (1) Issuance of waivers
        The Secretary may issue a written statement to an adversely affected worker waiving the requirement to be enrolled in training described in subsection (a)(5)(A) of this section if the Secretary determines that it is not feasible or appropriate for the worker, because of 1 or more of the following reasons:
-      (A) Recall
-         The worker has been notified that the worker will be recalled by the firm from which the separation occurred.
-      (B) Marketable skills
-        (i) In general
-           The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
-        (ii) Marketable skills defined
-           For purposes of clause (i), the term ””marketable skills““ may include the possession of a postgraduate degree from an institution of higher education (as defined in section 1002 of title 20) or an equivalent institution, or the possession of an equivalent postgraduate certification in a specialized field.
-      (C) Retirement
-         The worker is within 2 years of meeting all requirements for entitlement to either–
-        (i) old-age insurance benefits under title II of the Social Security Act (42 U.S.C. 401 et seq.) (except for application therefor); or
-        (ii) a private pension sponsored by an employer or labor organization.
-      (D) Health
+      (A) Health
          The worker is unable to participate in training due to the health of the worker, except that a waiver under this subparagraph shall not be construed to exempt a worker from requirements relating to the availability for work, active search for work, or refusal to accept work under Federal or State unemployment compensation laws.
-      (E) Enrollment unavailable
+      (B) Enrollment unavailable
          The first available enrollment date for the approved training of the worker is within 60 days after the date of the determination made under this paragraph, or, if later, there are extenuating circumstances for the delay in enrollment, as determined pursuant to guidelines issued by the Secretary.
-      (F) Training not available
+      (C) Training not available
          Training approved by the Secretary is not reasonably available to the worker from either governmental agencies or private sources (which may include area career and technical education schools, as defined in section 2302 of title 20, and employers), no training that is suitable for the worker is available at a reasonable cost, or no training funds are available.
     (2) Duration of waivers
       (A) In general
@@ -63,7 +52,7 @@
       (A) Issuance by cooperating States
          An agreement under section 2311 of this title shall authorize a cooperating State to issue waivers as described in paragraph (1).
       (B) Review of waivers
-         An agreement under section 2311 of this title shall require a cooperating State to review each waiver issued by the State under subparagraph (A), (B), (D), (E), or (F) of paragraph (1)–
+         An agreement under section 2311 of this title shall require a cooperating State to review each waiver issued by the State under subparagraph (A), (B), or (C) of paragraph (1)–
         (i) 3 months after the date on which the State issues the waiver; and
         (ii) on a monthly basis thereafter.
       (C) Submission of statements
