@@ -61,9 +61,9 @@
           (II) allows the information recorded under subclause (I) to be transmitted immediately to the Commission; and
           (III) allows the Commission to post the information on the Internet immediately upon receipt; and
         (ii) make a copy of software that meets the standards promulgated under clause (i) available to each person required to file a designation, statement, or report in electronic form under this Act.
-      (B) T4Additional informationKTo the extent feasible, the Commission shall require vendors to include in the software developed under the standards under subparagraph (A) the ability for any person to file any designation, statement, or report required under this Act in electronic form.
-      (C) T4Required useKNotwithstanding any provision of this Act relating to times for filing reports, each candidate for Federal office (or that candidate“s authorized committee) shall use software that meets the standards promulgated under this paragraph once such software is made available to such candidate.
-      (D) T4Required postingKThe Commission shall, as soon as practicable, post on the Internet any information received under this paragraph.
+      (B) T4Additional informationK.–To the extent feasible, the Commission shall require vendors to include in the software developed under the standards under subparagraph (A) the ability for any person to file any designation, statement, or report required under this Act in electronic form.
+      (C) T4Required useK.–Notwithstanding any provision of this Act relating to times for filing reports, each candidate for Federal office (or that candidate“s authorized committee) shall use software that meets the standards promulgated under this paragraph once such software is made available to such candidate.
+      (D) T4Required postingK.–The Commission shall, as soon as practicable, post on the Internet any information received under this paragraph.
   (b) Contents of reports
      Each report under this section shall disclose–
     (1) the amount of cash on hand at the beginning of the reporting period;
