@@ -1,16 +1,42 @@
-  (a) The Secretary of Defense and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency, shall jointly appoint a Strategic Environmental Research and Development Program Scientific Advisory Board (hereafter in this section referred to as the ””Advisory Board““) consisting of not less than six and not more than 14 members.
-  (b)    (1) The following persons shall be permanent members of the Advisory Board:
-      (A) The Science Advisor to the President, or his designee.
-      (B) The Administrator of the National Oceanic and Atmospheric Administration, or his designee.
-    (2) Other members of the Advisory Board shall be appointed from among persons eminent in the fields of basic sciences, engineering, ocean and environmental sciences, education, research management, international and security affairs, health physics, health sciences, or social sciences, with due regard given to the equitable representation of scientists and engineers who are women or who represent minority groups. At least one member of the Advisory Board shall be a representative of environmental public interest groups and one member shall be a representative of the interests of State governments.
-    (3) The Secretary of Defense and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency, shall request–
-      (A) that the head of the National Academy of Sciences, in consultation with the head of the National Academy of Engineering and the head of the Institutes of Medicine of the National Academy of Sciences, nominate persons for appointment to the Advisory Board;
-      (B) that the Council on Environmental Quality nominate for appointment to the Advisory Board at least one person who is a representative of environmental public interest groups; and
-      (C) that the National Association of Governors nominate for appointment to the Advisory Board at least one person who is representative of the interests of State governments.
-    (4) Members of the Advisory Board shall be appointed for terms of not less than two and not more than four years.
-  (c) A member of the Advisory Board who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee, except for the purposes of chapter 81 of title 5 (relating to compensation for work-related injuries) and chapter 171 of title 28 (relating to tort claims).
-  (d) The Advisory Board shall prescribe procedures for carrying out its responsibilities. Such procedures shall define a quorum as a majority of the members, provide for annual election of the Chairman by the members of the Advisory Board, and require at least four meetings of the Advisory Board each year.
-  (e) The Council shall refer to the Advisory Board, and the Advisory Board shall review, each proposed research project including its estimated cost, for research in and development of technologies related to environmental activities in excess of $1,000,000. The Advisory Board shall make any recommendations to the Council that the Advisory Board considers appropriate regarding such project or proposal.
-  (f) The Advisory Board may make recommendations to the Council regarding technologies, research, projects, programs, activities, and, if appropriate, funding within the scope of the Strategic Environmental Research and Development Program.
-  (g) The Advisory Board shall assist and advise the Council in identifying the environmental data and analytical assistance activities that should be covered by the policies and procedures prescribed pursuant to section 2902(d)(1) of this title.
-  (h) Each member of the Advisory Board shall be required to file a financial disclosure report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+  (a) T4Energy Performance GoalsK.–(1) The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
+  (2) The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
+  (b) T4Energy Performance Master PlanK.–(1) The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
+  (2) The master plan shall include the following:
+    (A) A separate master plan, developed by each military department and Defense Agency, for the achievement of energy performance goals.
+    (B) The use of a baseline standard for the measurement of energy consumption by transportation systems, support systems, utilities, and facilities and infrastructure that is consistent for all of the military departments.
+    (C) A method of measurement of reductions or conservation in energy consumption that provides for the taking into account of changes in the current size of fleets, number of facilities, and overall square footage of facility plants.
+    (D) Metrics to track annual progress in meeting energy performance goals.
+    (E) A description of specific requirements, and proposed investments, in connection with the achievement of energy performance goals reflected in the budget of the President for each fiscal year (as submitted to Congress under section 1105(a) of title 31).
+    (F) The up-to date list of energy-efficient products maintained under section 2915(e)(2) of this title.
+  (3) Not later than 30 days after the date on which the budget of the President is submitted to Congress for a fiscal year under section 1105(a) of title 31, the Secretary shall submit the current version of the master plan to Congress.
+  (c) T4Special ConsiderationsK.–For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
+    (1) Opportunities to reduce the current rate of consumption of energy.
+    (2) Opportunities to reduce the future demand and the requirements for the use of energy.
+    (3) Opportunities to implement conservation measures to improve the efficient use of energy.
+    (4) Opportunities to pursue alternative energy initiatives, including the use of alternative fuels and hybrid-electric drive in military vehicles and equipment.
+    (5) Opportunities for the high-performance construction, lease, operation, and maintenance of buildings.
+    (6) Cost effectiveness, cost savings, and net present value of alternatives.
+    (7) The value of diversification of types and sources of energy used.
+    (8) The value of economies-of-scale associated with fewer energy types used.
+    (9) The value of the use of renewable energy sources.
+    (10) The value of incorporating electric, hybrid-electric, and high efficiency vehicles into vehicle fleets.
+    (11) The potential for an action to serve as an incentive for members of the armed forces and civilian personnel to reduce energy consumption or adopt an improved energy performance measure.
+    (12) Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
+  (d) T4Selection of Energy Conservation MeasuresK.–For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that–
+    (1) are readily available;
+    (2) demonstrate an economic return on the investment;
+    (3) are consistent with the energy performance goals and energy performance master plan for the Department; and
+    (4) are supported by the special considerations specified in subsection (c).
+  (e) T4Goal Regarding Use of Renewable Energy To Meet Facility Energy NeedsK.–(1) It shall be the goal of the Department of Defense–
+    (A) to produce or procure not less than 25 percent of the total quantity of facility energy it consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
+    (B) to produce or procure facility energy from renewable energy sources whenever the use of such renewable energy sources is consistent with the energy performance goals and energy performance master plan for the Department and supported by the special considerations specified in subsection (c).
+  (2) To help ensure that the goal specified in paragraph (1)(A) regarding the use of renewable energy by the Department of Defense is achieved, the Secretary of Defense shall establish an interim goal for fiscal year 2018 for the production or procurement of facility energy from renewable energy sources.
+  (3)    (A) The Secretary of Defense shall establish a policy to maximize savings for the bulk purchase of replacement renewable energy certificates in connection with the development of facility energy projects using renewable energy sources.
+    (B) Under the policy required by subparagraph (A), the Secretary of a military department shall submit requests for the purchase of replacement renewable energy certificates to a centralized purchasing authority maintained by such department or the Defense Logistics Agency with expertise regarding–
+      (i) the market for renewable energy certificates;
+      (ii) the procurement of renewable energy certificates; and
+      (iii) obtaining the best value for the military department by maximizing the purchase of renewable energy certificates from projects placed into service before January 1, 1999.
+    (C) The centralized purchasing authority shall solicit industry for the most competitive offer for replacement renewable energy certificates, to include a combination of renewable energy certificates from new projects and projects placed into service before January 1, 1999.
+    (D) Subparagraph (B) does not prohibit the Secretary of a military department from entering into an agreement outside of the centralized purchasing authority if the Secretary will obtain the best value by bundling the renewable energy certificates with the facility energy project through a power purchase agreement or other contractual mechanism at the installation.
+    (E) Nothing in this paragraph shall be construed to authorize the purchase of renewable energy certificates to meet Federal goals or mandates in the absence of the development of a facility energy project using renewable energy sources.
+    (F) This policy does not make the purchase of renewable energy certificates mandatory, but the policy shall apply whenever original renewable energy certificates are proposed to be swapped for replacement renewable energy certificates.

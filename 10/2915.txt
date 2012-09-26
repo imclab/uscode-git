@@ -7,16 +7,9 @@
   (2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a facility shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act (42 U.S.C. 8254(a)).
   (d) T4Exception to Square Feet and Cost Per Square Foot LimitationsK.–In order to equip a military construction project (including a military family housing project) with heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy system using solar energy or other renewable forms of energy, the Secretary concerned may authorize an increase in any otherwise applicable limitation with respect to the number of square feet or the cost per square foot of the project by such amount as may be necessary for such purpose. Any such increase under this subsection shall be in addition to any other administrative increase in cost per square foot or variation in floor area authorized by law.
   (e) T4Use of Energy Efficient Products in FacilitiesK.–(1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section.
-  (2) For purposes of this subsection, energy efficient products may include, at a minimum, the following technologies, consistent with the products specified in paragraph (3):
-    (A) Roof-top solar thermal, photovoltaic, and energy reducing coating technologies.
-    (B) Energy management control and supervisory control and data acquisition systems.
-    (C) Energy efficient heating, ventilation, and air conditioning systems.
-    (D) Thermal windows and insulation systems.
-    (E) Electric meters.
-    (F) Lighting, equipment, and appliances that are designed to use less electricity.
-    (G) Hybrid vehicle plug-in charging stations.
-    (H) Solar-power collecting structures to shade vehicle parking areas.
-      (I) Wall and roof insulation systems and air infiltration-mitigation systems, such as weatherproofing.
+  (2)    (A) The Secretary of Defense shall prescribe a definition of the term ””energy-efficient product““ for purposes of this subsection and establish and maintain a list of products satisfying the definition. The definition and list shall be developed in consultation with the Secretary of Energy to ensure, to the maximum extent practicable, consistency with definitions of the term used by other Federal agencies.
+    (B) The Secretary shall modify the definition and list of energy-efficient products as necessary to account for emerging or changing technologies.
+    (C) The list of energy-efficient products shall be included as part of the energy performance master plan developed pursuant to section 2911(b)(2) of this title.
   (3) In determining the energy efficiency of products, the Secretary shall consider products that–
     (A) meet or exceed Energy Star specifications; or
     (B) are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.

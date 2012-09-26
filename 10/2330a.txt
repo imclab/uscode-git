@@ -13,11 +13,12 @@
       (A) a small business concern;
       (B) a small business concern owned and controlled by socially and economically disadvantaged individuals; or
       (C) a small business concern owned and controlled by women.
-  (c) T4InventoryK.–(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
+  (c) T4InventoryK.–(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
     (A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for–
-      (i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees; and
-      (ii) the calculation of contractor manpower equivalents in a manner that is comparable to the calculation of full-time equivalents for use in inventories of functions performed by Department of Defense employees.
-    (B) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures.
+      (i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees;
+      (ii) the calculation of contractor full-time equivalents for direct labor, using direct labor hours in a manner that is comparable to the calculation of Department of Defense civilian full-time employees; and
+      (iii) the conduct and completion of the annual review required under subsection (e)(1).
+    (B) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
   (2) The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
     (A) The functions and missions performed by the contractor.
     (B) The contracting organization, the component of the Department of Defense administering the contract, and the organization whose requirements are being met through contractor performance of the function.
@@ -35,13 +36,17 @@
     (2) ensure that–
       (A) each contract on the list that is a personal services contract has been entered into, and is being performed, in accordance with applicable statutory and regulatory requirements;
       (B) the activities on the list do not include any inherently governmental functions; and
-      (C) to the maximum extent practicable, the activities on the list do not include any functions closely associated with inherently governmental functions;
+      (C) to the maximum extent practicable, the activities on the list do not include any functions closely associated with inherently governmental functions; and
     (3) identify activities that should be considered for conversion–
       (A) to performance by civilian employees of the Department of Defense pursuant to section 2463 of this title; or
-      (B) to an acquisition approach that would be more advantageous to the Department of Defense; and
-    (4) develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.
-  (f) T4Rule of ConstructionK.–Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
-  (g) T4DefinitionsK.–In this section:
+      (B) to an acquisition approach that would be more advantageous to the Department of Defense.
+  (f) T4Development of Plan and Enforcement and Approval MechanismsK.–The Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to–
+    (1) provide for the use of the inventory by the military department or Defense Agency to implement the requirements of section 129a of this title;
+    (2) ensure the inventory is used to inform strategic workforce planning;
+    (3) facilitate use of the inventory for compliance with section 235 of this title; and
+    (4) provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
+  (g) T4Rule of ConstructionK.–Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
+  (h) T4DefinitionsK.–In this section:
     (1) The term ””performance-based““, with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
     (2) The definitions set forth in section 2225(f) of this title for the terms ””simplified acquisition threshold““, ””small business concern““, ””small business concern owned and controlled by socially and economically disadvantaged individuals““, and ””small business concern owned and controlled by women““ shall apply.
     (3) T4Function closely associated with inherently governmental functionsK.–The term ””function closely associated with inherently governmental functions““ has the meaning given that term in section 2383(b)(3) of this title.

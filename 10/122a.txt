@@ -1,4 +1,6 @@
-  (a) T4In GeneralK.–The Secretary of Defense shall ensure that each report described in subsection (b) is made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs.
+  (a) T4In GeneralK.–The Secretary of Defense shall ensure that each report described in subsection (b) is \1\N
+    (1) made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs; and
+    (2) to the maximum extent practicable, transmitted in an electronic format.
   (b) T4Covered ReportsK.–(1) Except as provided in paragraph (2), a report described in this subsection is any report that is required by law to be submitted to Congress by the Secretary of Defense, or by any element of the Department of Defense.
   (2) A report otherwise described in paragraph (1) is not a report described in this subsection if the report contains–
     (A) classified information;

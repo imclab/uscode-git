@@ -7,14 +7,14 @@
   (d) T4Challenges to RestrictionsK.–(1) The Secretary of Defense may challenge a use or release restriction asserted with respect to technical data by a contractor or subcontractor at any tier under a contract subject to this section if the Secretary finds that–
     (A) reasonable grounds exist to question the current validity of the asserted restriction; and
     (B) the continued adherence by the United States to the asserted restriction would make it impracticable to procure the item to which the technical data pertain competitively at a later time.
-  (2)    (A) Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period described in subparagraph (B) unless the technical data involved–
+  (2)    (A) A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period described in subparagraph (B) unless the technical data involved–
       (i) are publicly available;
-      (ii) have been furnished to the United States without restriction; or
-      (iii) have been otherwise made available without restriction.
-    (B) The three-year period referred to in subparagraph (A) is the three-year period beginning on the later of–
+      (ii) have been furnished to the United States without restriction;
+      (iii) have been otherwise made available without restriction; or
+      (iv) are the subject of a fraudulently asserted use or release restriction.
+    (B) The six-year period referred to in subparagraph (A) is the six-year period beginning on the later of–
       (i) the date on which final payment is made on the contract under which the technical data are required to be delivered; or
       (ii) the date on which the technical data are delivered under the contract.
-    (C) The limitation in this paragraph shall not apply to a case in which the Secretary finds that reasonable grounds exist to believe that a contractor or subcontractor has erroneously asserted a use or release restriction with regard to technical data described in section 2320(a)(2)(A) of this title.
   (3) If the Secretary challenges an asserted use or release restriction under paragraph (1), the Secretary shall provide written notice of the challenge to the contractor or subcontractor asserting the restriction. Any such notice shall–
     (A) state the specific grounds for challenging the asserted restriction;
     (B) require a response within 60 days justifying the current validity of the asserted restriction; and
