@@ -5,7 +5,7 @@
    Regional Assistant Administrators, Agency for International Development (4).
    Assistant Secretaries of Agriculture (3).
    Assistant Secretaries of Commerce (11).
-   Assistant Secretaries of Defense (10).
+   Assistant Secretaries of Defense (12).
    Assistant Secretaries of the Air Force (4).
    Assistant Secretaries of the Army (5).
    Assistant Secretaries of the Navy (4).
@@ -77,7 +77,7 @@
    President, Government National Mortgage Association, Department of Housing and Urban Development.
    Assistant Secretary of Commerce for Oceans and Atmosphere, the incumbent of which also serves as Deputy Administrator of the National Oceanic and Atmospheric Administration.
    Director, Bureau of Prisons, Department of Justice.
-   Assistant Secretaries of Energy (7).
+   Assistant Secretaries of Energy (8).
    General Counsel of the Department of Energy.
    Administrator, Economic Regulatory Administration, Department of Energy.
    Administrator, Energy Information Administration, Department of Energy.
@@ -101,6 +101,7 @@
    Assistant Administrator, Office of Solid Waste, Environmental Protection Agency.
    Assistant Administrators, Environmental Protection Agency (8).
    Director of Operational Test and Evaluation, Department of Defense.
+   Director of Cost Assessment and Program Evaluation, Department of Defense.
    Special Representatives of the President for arms control, nonproliferation, and disarmament matters, Department of State.
    Director, National Institute of Standards and Technology, Department of Commerce.
    Director of Defense Research and Engineering.
@@ -131,9 +132,10 @@
    Chief Financial Officer, Environmental Protection Agency.
    Chief Financial Officer, National Aeronautics and Space Administration.
    Commissioner, Office of Navajo and Hopi Indian Relocation.
-   Deputy Under Secretary of Defense for Policy.
-   Deputy Under Secretary of Defense for Personnel and Readiness.
-   Deputy Under Secretary of Defense for Logistics and Materiel Readiness.
+   Principal Deputy Under Secretary of Defense for Policy.
+   Principal Deputy Under Secretary of Defense for Personnel and Readiness.
+   Principal Deputy Under Secretary of Defense (Comptroller).
+   Principal Deputy Under Secretary of Defense for Intelligence.
    General Counsel of the Department of the Army.
    General Counsel of the Department of the Navy.
    General Counsel of the Department of the Air Force.
