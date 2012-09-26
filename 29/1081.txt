@@ -1,26 +1,20 @@
-  (a) Plans excepted from applicability of this part
-     This part shall apply to any employee pension benefit plan described in section 1003(a) of this title, (and not exempted under section 1003(b) of this title), other than–
-    (1) an employee welfare benefit plan;
-    (2) an insurance contract plan described in subsection (b) of this section;
-    (3) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees;
-    (4)      (A) a plan which is established and maintained by a society, order, or association described in section 501(c)(8) or (9) of title 26, if no part of the contributions to or under such plan are made by employers of participants in such plan; or
-      (B) a trust described in section 501(c)(18) of title 26;
-    (5) a plan which has not at any time after September 2, 1974, provided for employer contributions;
-    (6) an agreement providing payments to a retired partner or deceased partner or a deceased partner“s successor in interest as described in section 736 of title 26;
-    (7) an individual retirement account or annuity as described in section 408(a) of title 26, or a retirement bond described in section 409 of title 26 (as effective for obligations issued before January 1, 1984);
-    (8) an individual account plan (other than a money purchase plan) and a defined benefit plan to the extent it is treated as an individual account plan (other than a money purchase plan) under section 1002(35)(B) of this title;
-    (9) an excess benefit plan; or
-    (10) any plan, fund or program under which an employer, all of whose stock is directly or indirectly owned by employees, former employees or their beneficiaries, proposes through an unfunded arrangement to compensate retired employees for benefits which were forfeited by such employees under a pension plan maintained by a former employer prior to the date such pension plan became subject to this chapter.
-  (b) ””Insurance contract plan““ defined
-     For the purposes of paragraph (2) of subsection (a) of this section a plan is an ””insurance contract plan““ if–
-    (1) the plan is funded exclusively by the purchase of individual insurance contracts,
-    (2) such contracts provide for level annual premium payments to be paid extending not later than the retirement age for each individual participating in the plan, and commencing with the date the individual became a participant in the plan (or, in the case of an increase in benefits, commencing at the time such increase became effective),
-    (3) benefits provided by the plan are equal to the benefits provided under each contract at normal retirement age under the plan and are guaranteed by an insurance carrier (licensed under the laws of a State to do business with the plan) to the extent premiums have been paid,
-    (4) premiums payable for the plan year, and all prior plan years under such contracts have been paid before lapse or there is reinstatement of the policy,
-    (5) no rights under such contracts have been subject to a security interest at any time during the plan year, and
-    (6) no policy loans are outstanding at any time during the plan year.
-       A plan funded exclusively by the purchase of group insurance contracts which is determined under regulations prescribed by the Secretary of the Treasury to have the same characteristics as contracts described in the preceding sentence shall be treated as a plan described in this subsection.
-  (c) Applicability of this part to terminated multiemployer plans
-     This part applies, with respect to a terminated multiemployer plan to which section 1321 of this title applies, until the last day of the plan year in which the plan terminates, within the meaning of section 1341a(a)(2) of this title.
-  (d) Financial assistance from Pension Benefit Guaranty Corporation
-     Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section in such manner as determined by the Secretary of the Treasury.
+  (a) Except as otherwise provided in this section, this part shall apply in the case of plan years beginning after September 2, 1974.
+  (b)    (1) Except as otherwise provided in subsection (d) of this section, sections 1055, 1056(d) and 1058 of this title shall apply with respect to plan years beginning after December 31, 1975.
+    (2) Except as otherwise provided in subsections (c) and (d) of this section in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
+  (c)    (1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of–
+      (A) the date on which the last of such agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after September 2, 1974), or
+      (B) December 31, 1980.
+         For purposes of subparagraph (A) and section 1086(c) \1\N of this title, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this chapter or the Internal Revenue Code of 1986 shall not be treated as a termination of such collective bargaining agreement. This paragraph shall not apply unless the Secretary determines that the participation and vesting rules in effect on September 2, 1974, are not less favorable to participants, in the aggregate, than the rules provided under sections 1052, 1053, and 1054 of this title.
+    (2) For purposes of paragraph (1), the term ””supplementary or special plan provision““ means any plan provision which–
+      (A) provides supplementary benefits, not in excess of one-third of the basic benefit, in the form of any annuity for the life of the participant, or
+      (B) provides that, under a contractual agreement based on medical evidence as to the effects of working in an adverse environment for an extended period of time, a participant having 25 years of service is to be treated as having 30 years of service.
+    (3) This subsection shall apply with respect to a plan if (and only if) the application of this subsection results in a later effective date for this part than the effective date required by subsection (b) of this section.
+  (d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of the Internal Revenue Code of 1986 relating to participation, vesting, funding, and form of benefit, this part shall apply to the first plan year to which such election applies and to all subsequent plan years.
+  (e)    (1) No pension plan to which section 1052 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1052 of this title first becomes effective with respect to such plan) which provides that any employee“s participation in the plan would commence to any date later than the later of–
+      (A) the date on which his participation would commence under the break in service rules of section 1052(b) of this title, or
+      (B) the date on which his participation would commence under the plan as in effect on January 1, 1974.
+    (2) No pension plan to which section 1053 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under–
+      (A) the break in service rules of section 1052(b)(3) of this title, or
+      (B) the plan as in effect on January 1, 1974.
+         Subparagraph (B) shall not apply if the break in service rules under the plan would have been in violation of any law or rule of law in effect on January 1, 1974.
+  (f) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
