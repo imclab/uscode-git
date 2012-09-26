@@ -1,27 +1,4 @@
-  (a) \1\N Oversight Board established
-    (1) In general
-       There is hereby established the Diplomatic Telecommunications Service Oversight Board (hereinafter in this chapter referred to as the ””Board““) as an instrumentality of the United States with the powers and authorities herein provided.
-    (2) Status
-       The Board shall oversee and monitor the operations of DTS-PO and shall be accountable for the duties assigned to DTS-PO under this chapter.
-    (3) Membership
-      (A) In general
-         The Board shall consist of three members as follows:
-        (i) The Deputy Director of the Office of Management and Budget.
-        (ii) Two members to be appointed by the President.
-      (B) Chairperson
-         The chairperson of the Board shall be the Deputy Director of the Office of Management and Budget.
-      (C) Terms
-         Members of the Board appointed by the President shall serve at the pleasure of the President.
-      (D) Quorum required
-         A quorum shall consist of all members of the Board and all decisions of the Board shall require a majority vote.
-    (4) Prohibition on compensation
-       Members of the Board may not receive additional pay, allowances, or benefits by reason of their service on the Board.
-    (5) Duties and authorities
-       The Board shall have the following duties and authorities with respect to DTS-PO:
-      (A) To review and approve overall strategies, policies, and goals established by DTS-PO for its activities.
-      (B) To review and approve financial plans, budgets, and periodic financing requests developed by DTS-PO.
-      (C) To review the overall performance of DTS-PO on a periodic basis, including its work, management activities, and internal controls, and the performance of DTS-PO relative to approved budget plans.
-      (D) To require from DTS-PO any reports, documents, and records the Board considers necessary to carry out its oversight responsibilities.
-      (E) To evaluate audits of DTS-PO.
-    (6) Limitation on authority
-       The CEO shall have the authority, without any prior review or approval by the Board, to make such determinations as the CEO considers appropriate and take such actions as the CEO considers appropriate with respect to the day-to-day management and operation of DTS-PO and to carry out the reforms of DTS-PO authorized by section 305 of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001 (section 305 of appendix G of Public Law 106–113).
+  (a) Authorization of appropriations
+     There are authorized to be appropriated such sums as may be necessary for the operations, maintenance, development, enhancement, modernization, and investment costs of the DTS Network and the DTS–PO. Funds appropriated for allocation to the DTS–PO shall remain available to the DTS–PO for a period of two fiscal years.
+  (b) Fees
+     The DTS–PO shall charge a department or agency that uses the DTS Network for only those bandwidth costs attributable to such department or agency and for specific projects carried out at the request of such department or agency, pursuant to the pricing methodology for such bandwidth costs and such projects approved under section 7302(e)(1) of this title, for which amounts have not been appropriated for allocation to the DTS–PO. The DTS–PO is authorized to directly receive payments from departments or agencies that use the DTS Network and to invoice such departments or agencies for the fees under this section either in advance of, or upon or after, providing the bandwidth or performing such projects. Such funds received from such departments or agencies shall remain available to the DTS–PO for a period of two fiscal years.
