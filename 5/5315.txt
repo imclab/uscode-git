@@ -6,9 +6,9 @@
    Under Secretary of the Air Force.
    Under Secretary of the Army.
    Under Secretary of the Navy.
-   Assistant Secretaries of Agriculture (2).
+   Assistant Secretaries of Agriculture (3).
    Assistant Secretaries of Commerce (11).
-   Assistant Secretaries of Defense (8).
+   Assistant Secretaries of Defense (9).
    Assistant Secretaries of the Air Force (4).
    Assistant Secretaries of the Army (5).
    Assistant Secretaries of the Navy (4).
@@ -81,7 +81,6 @@
    Executive Director for Operations, Nuclear Regulatory Commission.
    President, Government National Mortgage Association, Department of Housing and Urban Development.
    Assistant Secretary of Commerce for Oceans and Atmosphere, the incumbent of which also serves as Deputy Administrator of the National Oceanic and Atmospheric Administration.
-   Commissioner of Immigration and Naturalization, Department of Justice.
    Director, Bureau of Prisons, Department of Justice.
    Assistant Secretaries of Energy (6).
    General Counsel of the Department of Energy.
@@ -100,6 +99,12 @@
    Inspector General, Department of Labor.
    Inspector General, Department of Transportation.
    Inspector General, Department of Veterans Affairs.
+   Assistant Secretaries, Department of Homeland Security.
+   General Counsel, Department of Homeland Security.
+   Officer for Civil Rights and Civil Liberties, Department of Homeland Security.
+   Chief Financial Officer, Department of Homeland Security.
+   Chief Information Officer, Department of Homeland Security.
+   Inspector General, Department of Homeland Security.
    Deputy Director, Institute for Scientific and Technological Cooperation.
    Director of the National Institute of Justice.
    Director of the Bureau of Justice Statistics.
@@ -115,7 +120,6 @@
    Inspector General, Department of State.
    Director of Defense Research and Engineering.
    Ambassadors at Large.
-   Commissioner, National Center for Education Statistics.
    Assistant Secretary of Commerce and Director General of the United States and Foreign Commercial Service.
    Inspector General, Department of Commerce.
    Inspector General, Department of the Interior.
@@ -123,6 +127,7 @@
    Inspector General, Department of the Treasury.
    Inspector General, Agency for International Development.
    Inspector General, Environmental Protection Agency.
+   Inspector General, Export-Import Bank.
    Inspector General, Federal Emergency Management Agency.
    Inspector General, General Services Administration.
    Inspector General, National Aeronautics and Space Administration.
@@ -132,7 +137,7 @@
    Inspector General, Small Business Administration.
    Inspector General, Tennessee Valley Authority.
    Inspector General, Federal Deposit Insurance Corporation.
-   Assistant Secretaries, Department of Veterans Affairs (6).
+   Assistant Secretaries, Department of Veterans Affairs (7).
    General Counsel, Department of Veterans Affairs.
    Commissioner of Food and Drugs, Department of Health and Human Services \1\N
    Chairman, Board of Veterans“ Appeals.
@@ -170,7 +175,6 @@
    Inspector General, Social Security Administration.
    The \2\N Commissioner of Labor Statistics, Department of Labor.
    Administrator, Rural Utilities Service, Department of Agriculture.
-   Executive Director of the Alternative Agricultural Research and Commercialization Corporation.
    Chief Information Officer, Department of Agriculture.
    Chief Information Officer, Department of Commerce.
    Chief Information Officer, Department of Defense (unless the official designated as the Chief Information Officer of the Department of Defense is an official listed under section 5312, 5313, or 5314 of this title).

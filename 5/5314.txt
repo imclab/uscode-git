@@ -23,6 +23,7 @@
    Under Secretary of Defense for Policy.
    Under Secretary of Defense (Comptroller).
    Under Secretary of Defense for Personnel and Readiness.
+   Under Secretary of Defense for Intelligence.
    Deputy Administrator of the National Aeronautics and Space Administration.
    Deputy Directors of Central Intelligence (2).
    Director of the Office of Emergency Planning.
@@ -76,6 +77,8 @@
    Under Secretary for Health, Department of Veterans Affairs.
    Under Secretary for Benefits, Department of Veterans Affairs.
    Under Secretary for Memorial Affairs, Department of Veterans Affairs.
+   Under Secretaries, Department of Homeland Security.
+   Director of the Bureau of Citizenship and Immigration Services.
    Director of the Office of Government Ethics.
    Administrator for Federal Procurement Policy.
    Administrator, Office of Information and Regulatory Affairs, Office of Management and Budget.
@@ -89,5 +92,5 @@
    Deputy Director for State and Local Affairs, Office of National Drug Control Policy.
    Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
    Register of Copyrights.
-   Commissioner of Customs, Department of the Treasury \1\N
-   Under Secretary of Education \1\
+   Commissioner of Customs, Department of Homeland Security.
+   Under Secretary of Education \1\N
