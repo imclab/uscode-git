@@ -1,5 +1,5 @@
   (a) Permitted uses
-     Grants awarded under section 604 or 605 of this title may be used to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a State homeland security plan and relevant local, tribal, and regional homeland security plans, through–
+     The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a State homeland security plan and relevant local, tribal, and regional homeland security plans, through–
     (1) developing and enhancing homeland security, emergency management, or other relevant plans, assessments, or mutual aid agreements;
     (2) designing, conducting, and evaluating training and exercises, including training and exercises conducted under section 321a of this title and section 748 of this title;
     (3) protecting a system or asset included on the prioritized critical infrastructure list established under section 124T3lK(a)(2) of this title;
@@ -9,7 +9,7 @@
     (7) establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title;
     (8) enhancing school preparedness;
     (9) supporting public safety answering points;
-    (10) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
+    (10) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
     (11) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
     (12) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
     (13) any other appropriate activity, as determined by the Administrator.
@@ -23,7 +23,14 @@
          Not more than 50 percent of the amount awarded to a grant recipient under section 604 or 605 of this title in any fiscal year may be used to pay for personnel, including overtime and backfill costs, in support of the permitted uses under subsection (a).
       (B) Waiver
          At the request of the recipient of a grant under section 604 or 605 of this title, the Administrator may grant a waiver of the limitation under subparagraph (A).
-    (3) Construction
+    (3) Limitations on discretion
+      (A) In general
+         With respect to the use of amounts awarded to a grant recipient under section 604 or 605 of this title for personnel costs in accordance with paragraph (2) of this subsection, the Administrator may not–
+        (i) impose a limit on the amount of the award that may be used to pay for personnel, or personnel-related, costs that is higher or lower than the percent limit imposed in paragraph (2)(A); or
+        (ii) impose any additional limitation on the portion of the funds of a recipient that may be used for a specific type, purpose, or category of personnel, or personnel-related, costs.
+      (B) Analysts
+         If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
+    (4) Construction
       (A) In general
          A grant awarded under section 604 or 605 of this title may not be used to acquire land or to construct buildings or other physical facilities.
       (B) Exceptions
@@ -34,7 +41,7 @@
           (I) specifically approved by the Administrator;
           (II) any construction work occurs under terms and conditions consistent with the requirements under section 5196(j)(9) of title 42; and
           (III) the amount allocated for purposes under clause (i) does not exceed the greater of $1,000,000 or 15 percent of the grant award.
-    (4) Recreation
+    (5) Recreation
        Grants awarded under this part may not be used for recreational or social purposes.
   (c) Multiple-purpose funds
      Nothing in this part shall be construed to prohibit State, local, or tribal governments from using grant funds under sections 604 and 605 of this title in a manner that enhances preparedness for disasters unrelated to acts of terrorism, if such use assists such governments in achieving target capabilities related to preventing, preparing for, protecting against, or responding to acts of terrorism.
