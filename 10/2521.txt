@@ -1,11 +1,37 @@
-  (a) T4Establishment of ProgramK.–The Secretary of Defense shall establish a National Defense Manufacturing Technology Program. The Secretary shall use the program to–
-    (1) provide centralized guidance and direction (including goals, milestones, and priorities) to the military departments and the Defense Agencies on all matters relating to manufacturing technology;
-    (2) direct the development and implementation of Department of Defense plans, programs, projects, activities, and policies that promote the development and application of advanced technologies to manufacturing processes, tools, and equipment;
-    (3) improve the manufacturing quality, productivity, technology, and practices of businesses and workers providing goods and services to the Department of Defense;
-    (4) promote dual-use manufacturing processes;
-    (5) disseminate information concerning improved manufacturing improvement concepts, including information on such matters as best manufacturing practices, product data exchange specifications, computer-aided acquisition and logistics support, and rapid acquisition of manufactured parts;
-    (6) sustain and enhance the skills and capabilities of the manufacturing work force;
-    (7) promote high-performance work systems (with development and dissemination of production technologies that build upon the skills and capabilities of the work force), high levels of worker education and training; and
-    (8) ensure appropriate coordination between the manufacturing technology programs and industrial preparedness programs of the Department of Defense and similar programs undertaken by other departments and agencies of the Federal Government or by the private sector.
-  (b) T4Relationship to National Technology and Industrial Base PlanK.–The Secretary shall ensure that the program is developed and implemented in accordance with the manufacturing technology guidance set forth in the national technology and industrial base plan prepared under section 2506 of this title.
-  (c) T4RevisionsK.–The Secretary shall revise the program not later than March 15 of each year through fiscal year 1997 and of each odd-numbered year thereafter. Each revision shall identify each manufacturing technology program, project, or activity of the Department of Defense and the amounts provided for each such program, project, and activity in the budget submitted by the President under section 1105 of title 31 for the fiscal year beginning in that year.
+  (a) T4EstablishmentK.–The Secretary of Defense shall establish a Manufacturing Technology Program to further the national security objectives of section 2501(a) of this title through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems. The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program. The Under Secretary of Defense for Acquisition, Technology, and Logistics shall administer the program.
+  (b) T4Purpose of ProgramK.–The Secretary of Defense shall use the program–
+    (1) to provide centralized guidance and direction (including goals, milestones, and priorities) to the military departments and the Defense Agencies on all matters relating to manufacturing technology;
+    (2) to direct the development and implementation of Department of Defense plans, programs, projects, activities, and policies that promote the development and application of advanced technologies to manufacturing processes, tools, and equipment;
+    (3) to improve the manufacturing quality, productivity, technology, and practices of businesses and workers providing goods and services to the Department of Defense;
+    (4) to focus Department of Defense support for the development and application of advanced manufacturing technologies and processes for use to meet manufacturing requirements that are essential to the national defense, as well as for repair and remanufacturing in support of the operations of systems commands, depots, air logistics centers, and shipyards;
+    (5) to disseminate information concerning improved manufacturing improvement concepts, including information on such matters as best manufacturing practices, product data exchange specifications, computer-aided acquisition and logistics support, and rapid acquisition of manufactured parts;
+    (6) to sustain and enhance the skills and capabilities of the manufacturing work force;
+    (7) to promote high-performance work systems (with development and dissemination of production technologies that build upon the skills and capabilities of the work force), high levels of worker education and training; and
+    (8) to ensure appropriate coordination between the manufacturing technology programs and industrial preparedness programs of the Department of Defense and similar programs undertaken by other departments and agencies of the Federal Government or by the private sector.
+  (c) T4ExecutionK.–(1) The Secretary may carry out projects under the program through the Secretaries of the military departments and the heads of the Defense Agencies.
+  (2) In the establishment and review of requirements for an advanced manufacturing technology or process, the Secretary shall ensure the participation of those prospective technology users that are expected to be the users of that technology or process.
+  (3) The Secretary shall ensure that each project under the program for the development of an advanced manufacturing technology or process includes an implementation plan for the transition of that technology or process to the prospective technology users that will be the users of that technology or process.
+  (4) In the periodic review of a project under the program, the Secretary shall ensure participation by those prospective technology users that are the expected users for the technology or process being developed under the project.
+  (5) In order to promote increased dissemination and use of manufacturing technology throughout the national defense technology and industrial base, the Secretary shall seek, to the maximum extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.
+  (6) In this subsection, the term ””prospective technology users““ means the following officials and elements of the Department of Defense:
+    (A) Program and project managers for defense weapon systems.
+    (B) Systems commands.
+    (C) Depots.
+    (D) Air logistics centers.
+    (E) Shipyards.
+  (d) T4Competition and Cost SharingK.–(1) In accordance with the policy stated in section 2374 of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
+  (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
+  (e) T4Five-Year PlanK.–(1) The Secretary of Defense shall prepare a five-year plan for the program which establishes–
+    (A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
+    (B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program.
+  (2) The plan shall include the following:
+    (A) An assessment of the effectiveness of the program, including a description of all completed projects and status of implementation.
+    (B) An assessment of the extent to which the costs of projects are being shared by the following:
+      (i) Commercial enterprises in the private sector.
+      (ii) Department of Defense program offices, including weapon system program offices.
+      (iii) Departments and agencies of the Federal Government outside the Department of Defense.
+      (iv) Institutions of higher education.
+      (v) Other institutions not operated for profit.
+      (vi) Other sources.
+    (C) Plans for the implementation of the advanced manufacturing technologies and processes being developed under the program.
+  (3) The plan shall be updated annually and shall be included in the budget justification documents submitted in support of the budget of the Department of Defense for a fiscal year (as included in the budget of the President submitted to Congress under section 1105 of title 31).

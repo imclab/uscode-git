@@ -1,21 +1,26 @@
   (a) T4Conveyance AuthorityK.–The Secretary of a military department may convey a utility system, or part of a utility system, under the jurisdiction of the Secretary to a municipal, private, regional, district, or cooperative utility company or other entity. The conveyance may consist of all right, title, and interest of the United States in the utility system or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
-  (b) T4Selection of ConveyeeK.–If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
+  (b) T4Selection of ConveyeeK.–(1) If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
+  (2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
+  (3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
   (c) T4ConsiderationK.–(1) The Secretary concerned shall require as consideration for a conveyance under subsection (a) an amount equal to the fair market value (as determined by the Secretary) of the right, title, or interest of the United States conveyed. The consideration may take the form of–
     (A) a lump sum payment; or
     (B) a reduction in charges for utility services provided by the utility or entity concerned to the military installation at which the utility system is located.
   (2) If the utility services proposed to be provided as consideration under paragraph (1) are subject to regulation by a Federal or State agency, any reduction in the rate charged for the utility services shall be subject to establishment or approval by that agency.
+  (3) A contract for the receipt of utility services as consideration under paragraph (1), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 50 years.
   (d) T4Treatment of PaymentsK.–(1) A lump sum payment received under subsection (c) shall be credited, at the election of the Secretary concerned–
     (A) to an appropriation of the military department concerned available for the procurement of the same utility services as are provided by the utility system conveyed under this section;
     (B) to an appropriation of the military department available for carrying out energy savings projects or water conservation projects; or
     (C) to an appropriation of the military department available for improvements to other utility systems.
   (2) Amounts so credited shall be merged with funds in the appropriation to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriation with which merged.
   (e) T4Notice-and-Wait RequirementK.–The Secretary concerned may not make a conveyance under subsection (a) until–
-    (1) the Secretary submits to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that–
+    (1) the Secretary submits to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that–
       (A) the long-term economic benefit of the conveyance to the United States exceeds the long-term economic cost of the conveyance to the United States; and
       (B) the conveyance will reduce the long-term costs of the United States for utility services provided by the utility system concerned; and
     (2) a period of 21 days has elapsed after the date on which the economic analysis is received by the committees.
-  (f) T4Additional Terms and ConditionsK.–The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
-  (g) T4Utility System DefinedK.–(1) In this section, the term ””utility system““ means any of the following:
+  (f) T4Additional Terms and ConditionsK.–(1) The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+  (2) The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.
+  (g) T4Assistance for Construction, Repair, or Replacement of Utility SystemsK.–In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed. The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (e).
+  (h) T4Utility System DefinedK.–(1) In this section, the term ””utility system““ means any of the following:
     (A) A system for the generation and supply of electric power.
     (B) A system for the treatment or supply of water.
     (C) A system for the collection or treatment of wastewater.
@@ -24,5 +29,5 @@
     (F) A system for the transmission of telecommunications.
   (2) The term ””utility system““ includes the following:
     (A) Equipment, fixtures, structures, and other improvements utilized in connection with a system referred to in paragraph (1).
-    (B) Easements and rights-of-way associated with a system referred to in that paragraph.
-  (h) T4LimitationK.–This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
+    (B) Real property, easements, and rights-of-way associated with a system referred to in that paragraph.
+      (i) T4LimitationK.–This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.

@@ -1,0 +1,28 @@
+  (a) T4Collection of Data RequiredK.–To improve tracking and management of information technology products and services by the Department of Defense, the Secretary of Defense shall provide for the collection of the data described in subsection (b) for each purchase of such products or services made by a military department or Defense Agency in excess of the simplified acquisition threshold, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement.
+  (b) T4Data To Be CollectedK.–The data required to be collected under subsection (a) includes the following:
+    (1) The products or services purchased.
+    (2) Whether the products or services are categorized as commercially available off-the-shelf items, other commercial items, nondevelopmental items other than commercial items, other noncommercial items, or services.
+    (3) The total dollar amount of the purchase.
+    (4) The form of contracting action used to make the purchase.
+    (5) In the case of a purchase made through an agency other than the Department of Defense–
+      (A) the agency through which the purchase is made; and
+      (B) the reasons for making the purchase through that agency.
+    (6) The type of pricing used to make the purchase (whether fixed price or another type of pricing).
+    (7) The extent of competition provided in making the purchase.
+    (8) A statement regarding whether the purchase was made from–
+      (A) a small business concern;
+      (B) a small business concern owned and controlled by socially and economically disadvantaged individuals; or
+      (C) a small business concern owned and controlled by women.
+    (9) A statement regarding whether the purchase was made in compliance with the planning requirements under sections 5122 and 5123 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1422, 1423).
+  (c) T4Responsibility To Ensure Fairness of Certain PricesK.–The head of each contracting activity in the Department of Defense shall have responsibility for ensuring the fairness and reasonableness of unit prices paid by the contracting activity for information technology products and services that are frequently purchased commercially available off-the-shelf items.
+  (d) T4Limitation on Certain PurchasesK.–No purchase of information technology products or services in excess of the simplified acquisition threshold shall be made for the Department of Defense from a Federal agency outside the Department of Defense unless–
+    (1) the purchase data is collected in accordance with subsection (a); or
+    (2)      (A) in the case of a purchase by a Defense Agency, the purchase is approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics; or
+      (B) in the case of a purchase by a military department, the purchase is approved by the senior procurement executive of the military department.
+  (e) T4Annual ReportK.–Not later than March 15 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing a summary of the data collected in accordance with subsection (a).
+  (f) T4DefinitionsK.–In this section:
+    (1) The term ””senior procurement executive““, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).
+    (2) The term ””simplified acquisition threshold““ has the meaning given the term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).
+    (3) The term ””small business concern““ means a business concern that meets the applicable size standards prescribed pursuant to section 3(a) of the Small Business Act (15 U.S.C. 632(a)).
+    (4) The term ””small business concern owned and controlled by socially and economically disadvantaged individuals““ has the meaning given that term in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)).
+    (5) The term ””small business concern owned and controlled by women““ has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).

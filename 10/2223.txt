@@ -1,8 +1,9 @@
   (a) T4Additional Responsibilities of Chief Information Officer of Department of DefenseK.–In addition to the responsibilities provided for in chapter 35 of title 44 and in section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425), the Chief Information Officer of the Department of Defense shall–
     (1) review and provide recommendations to the Secretary of Defense on Department of Defense budget requests for information technology and national security systems;
     (2) ensure the interoperability of information technology and national security systems throughout the Department of Defense;
-    (3) ensure that information technology and national security systems standards that will apply throughout the Department of Defense are prescribed; and
-    (4) provide for the elimination of duplicate information technology and national security systems within and between the military departments and Defense Agencies.
+    (3) ensure that information technology and national security systems standards that will apply throughout the Department of Defense are prescribed;
+    (4) provide for the elimination of duplicate information technology and national security systems within and between the military departments and Defense Agencies; and
+    (5) maintain a consolidated inventory of Department of Defense mission critical and mission essential information systems, identify interfaces between those systems and other information systems, and develop and maintain contingency plans for responding to a disruption in the operation of any of those information systems.
   (b) T4Additional Responsibilities of Chief Information Officer of Military DepartmentsK.–In addition to the responsibilities provided for in chapter 35 of title 44 and in section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425), the Chief Information Officer of a military department, with respect to the military department concerned, shall–
     (1) review budget requests for all information technology and national security systems;
     (2) ensure that information technology and national security systems are in compliance with standards of the Government and the Department of Defense;

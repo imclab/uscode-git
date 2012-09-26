@@ -4,24 +4,26 @@
       (B) Persons who would be eligible for reserve-component retired pay but for the fact that they are under 60 years of age.
     (2) T4Participants in the planK.–The Plan applies to the following persons, who shall be participants in the Plan:
       (A) T4Standard annuity participantsK.–A person who is eligible to participate in the Plan under paragraph (1)(A) and who is married or has a dependent child when he becomes entitled to retired pay, unless he elects (with his spouse“s concurrence, if required under paragraph (3)) not to participate in the Plan before the first day for which he is eligible for that pay.
-      (B) T4Reserve-component annuity participantsK.–A person who (i) is eligible to participate in the Plan under paragraph (1)(B), (ii) is married or has a dependent child when he is notified under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay, and (iii) elects to participate in the Plan (and makes a designation under subsection (e)) before the end of the 90-day period beginning on the date he receives such notification.
-     A person described in clauses (i) and (ii) of subparagraph (B) who does not elect to participate in the Plan before the end of the 90-day period referred to in that clause remains eligible, upon reaching 60 years of age and otherwise becoming entitled to retired pay, to participate in the Plan in accordance with eligibility under paragraph (1)(A).
+      (B) T4Reserve-component annuity participantsK.–A person who (i) is eligible to participate in the Plan under paragraph (1)(B), and (ii) is married or has a dependent child when he is notified under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay, unless the person elects (with his spouse“s concurrence, if required under paragraph (3)) not to participate in the Plan before the end of the 90-day period beginning on the date on which he receives that notification.
+     A person who elects under subparagraph (B) not to participate in the Plan remains eligible, upon reaching 60 years of age and otherwise becoming entitled to retired pay, to participate in the Plan in accordance with eligibility under paragraph (1)(A).
     (3) T4Elections.–
       (A) T4Spousal consent for certain elections respecting standard annuityK.–A married person who is eligible to provide a standard annuity may not without the concurrence of the person“s spouse elect–
         (i) not to participate in the Plan;
         (ii) to provide an annuity for the person“s spouse at less than the maximum level; or
         (iii) to provide an annuity for a dependent child but not for the person“s spouse.
-      (B) T4Spousal consent for certain elections respecting reserve-component annuityK.–A married person who elects to provide a reserve-component annuity may not without the concurrence of the person“s spouse elect–
-        (i) to provide an annuity for the person“s spouse at less than the maximum level; or
-        (ii) to provide an annuity for a dependent child but not for the person“s spouse.
+      (B) T4Spousal consent for certain elections respecting reserve-component annuityK.–A married person who is eligible to provide a reserve-component annuity may not without the concurrence of the person“s spouse elect–
+        (i) not to participate in the Plan;
+        (ii) to designate under subsection (e)(2) the effective date for commencement of annuity payments under the Plan in the event that the member dies before becoming 60 years of age to be the 60th anniversary of the member“s birth (rather than the day after the date of the member“s death);
+        (iii) to provide an annuity for the person“s spouse at less than the maximum level; or
+        (iv) to provide an annuity for a dependent child but not for the person“s spouse.
       (C) T4Exception when spouse unavailableK.–A person may make an election described in subparagraph (A) or (B) without the concurrence of the person“s spouse if the person establishes to the satisfaction of the Secretary concerned–
         (i) that the spouse“s whereabouts cannot be determined; or
         (ii) that, due to exceptional circumstances, requiring the person to seek the spouse“s consent would otherwise be inappropriate.
       (D) T4Construction with former spouse election provisionsK.–This paragraph does not affect any right or obligation to elect to provide an annuity for a former spouse (or for a former spouse and dependent child) under subsection (b)(2).
       (E) T4Notice to spouse of election to provide former spouse annuityK.–If a married person who is eligible to provide a standard annuity elects to provide an annuity for a former spouse (or for a former spouse and dependent child) under subsection (b)(2), that person“s spouse shall be notified of that election.
     (4) T4Irrevocability of elections.–
-      (A) T4Standard annuityK.–An election under paragraph (2)(A) not to participate in the Plan is irrevocable if not revoked before the date on which the person first becomes entitled to retired pay.
-      (B) T4Reserve-component annuityK.–An election under paragraph (2)(B) to participate in the Plan is irrevocable if not revoked before the end of the 90-day period referred to in that paragraph.
+      (A) T4Standard annuityK.–An election under paragraph (2)(A) is irrevocable if not revoked before the date on which the person first becomes entitled to retired pay.
+      (B) T4Reserve-component annuityK.–An election under paragraph (2)(B) is irrevocable if not revoked before the end of the 90-day period referred to in that paragraph.
     (5) T4Participation by person marrying after retirement, etc.–
       (A) T4Election to participate in planK.–A person who is not married and has no dependent child upon becoming eligible to participate in the Plan but who later marries or acquires a dependent child may elect to participate in the Plan.
       (B) T4Manner and time of electionK.–Such an election must be written, signed by the person making the election, and received by the Secretary concerned within one year after the date on which that person marries or acquires that dependent child.
@@ -72,7 +74,7 @@
       (D) T4Notice to spouseK.–If a person who is married makes an election to provide an annuity to a former spouse under this paragraph, that person“s spouse shall be notified of the election.
       (E) T4Effective date of electionK.–An election under this paragraph is effective as of–
         (i) the first day of the first month following the month in which the election is received by the Secretary concerned; or
-        (ii) in the case of a person required (as described in section 1450(f)(3)(B) of this title) to make the election by reason of a court order or filing the date of which is on or after the date of the enactment of the subparagraph, the first day of the first month which begins after the date of that court order or filing.
+        (ii) in the case of a person required (as described in section 1450(f)(3)(B) of this title) to make the election by reason of a court order or filing the date of which is after October 16, 1998, the first day of the first month which begins after the date of that court order or filing.
     (4) T4Former spouse and child coverageK.–A person who elects to provide an annuity for a former spouse under paragraph (2) or (3) may, at the time of the election, elect to provide coverage under that annuity for both the former spouse and a dependent child, if the child resulted from the person“s marriage to that former spouse.
     (5) T4Disclosure of whether election of former spouse coverage is requiredK.–A person who elects to provide an annuity to a former spouse under paragraph (2) or (3) shall, at the time of making the election, provide the Secretary concerned with a written statement (in a form to be prescribed by that Secretary and signed by such person and the former spouse) setting forth–
       (A) whether the election is being made pursuant to the requirements of a court order; or
@@ -89,7 +91,7 @@
       (B) shall pay an annuity to that former spouse as if the member had been a participant in the Plan and had made an election under subsection (b) to provide an annuity to the former spouse, or in accordance with that election, as the case may be, if the Secretary receives a written request from the former spouse concerned that the election be deemed to have been made in the same manner as provided in section 1450(f)(3) of this title.
     (4) T4PriorityK.–An annuity that may be provided under this subsection shall be provided in preference to an annuity that may be provided under any other provision of this subchapter on account of service of the same member.
     (5) T4ComputationK.–The amount of an annuity under this subsection is computed under section 1451(c) of this title.
-  (e) T4Designation for Commencement of Reserve-Component AnnuityK.–In any case in which a person electing to participate in the Plan is required to make a designation under this subsection, the person making such election shall designate whether, in the event he dies before becoming 60 years of age, the annuity provided shall become effective on–
+  (e) T4Designation for Commencement of Reserve-Component AnnuityK.–In any case in which a person is required to make a designation under this subsection, the person shall designate whether, in the event he dies before becoming 60 years of age, the annuity provided shall become effective on–
     (1) the day after the date of his death; or
     (2) the 60th anniversary of his birth.
   (f) T4Coverage of Survivors of Persons Dying When Eligible To Elect Reserve-Component Annuity.–

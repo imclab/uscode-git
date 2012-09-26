@@ -6,7 +6,7 @@
   (2) The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to–
     (A) whether the test and evaluation performed were adequate; and
     (B) whether the results of such test and evaluation confirm that the items or components actually tested are effective and suitable for combat.
-  (3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Technology, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
+  (3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
   (4) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program under paragraph (2) and the congressional defense committees have received that report.
   (5) In this subsection, the term ””major defense acquisition program““ has the meaning given that term in section 139(a)(2)(B) of this title.
   (c) T4Determination of Quantity of Articles Required for Operational TestingK.–The quantity of articles of a new system that are to be procured for operational testing shall be determined by–
@@ -26,4 +26,4 @@
       (C) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
     (2) The term ””congressional defense committees““ means–
       (A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-      (B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+      (B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.

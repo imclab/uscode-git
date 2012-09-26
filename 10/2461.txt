@@ -3,7 +3,7 @@
     (A) The function to be analyzed for possible change.
     (B) The location at which the function is performed by Department of Defense civilian employees.
     (C) The number of civilian employee positions potentially affected.
-    (D) The anticipated length and cost of the analysis.
+    (D) The anticipated length and cost of the analysis, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis.
     (E) A certification that a proposed performance of the commercial or industrial type function by persons who are not civilian employees of the Department of Defense is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
   (2) The duty to prepare a report under paragraph (1) may be delegated. A report prepared below the major command or claimant level of a military department, or below the equivalent level in a Defense Agency, pursuant to any such delegation shall be reviewed at the major command, claimant level, or equivalent level, as the case may be, before submission to Congress.
   (3) An analysis of a commercial or industrial type function for possible change to performance by the private sector shall include the following:
@@ -13,19 +13,26 @@
       (iii) In addition to the costs referred to in clause (i), an estimate of all other costs and expenditures that the Government would incur because of the award of such a contract.
     (B) An examination of the potential economic effect of performance of the function by the private sector on the following:
       (i) Employees of the Department of Defense who would be affected by such a change in performance.
-      (ii) The local community and the Government, if more than 75 employees of the Department of Defense perform the function.
+      (ii) The local community and the Government, if more than 50 employees of the Department of Defense perform the function.
     (C) An examination of the effect of performance of the function by the private sector on the military mission associated with the performance of the function.
   (4)    (A) A representative individual or entity at a facility where a commercial or industrial type function is analyzed for possible change in performance may submit to the Secretary of Defense an objection to the analysis on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the analysis. The objection shall be in writing and shall be submitted within 90 days after the following date:
       (i) In the case of a failure to submit the report when required, the date on which the representative individual or an official of the representative entity authorized to pose the objection first knew or should have known of that failure.
       (ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
     (B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the commercial or industrial type function covered by the analysis to which objected may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
   (c) T4Notification of DecisionK.–(1) If, as a result of the completion of the examinations under subsection (b)(3), a decision is made to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, the Secretary of Defense shall submit to Congress a report describing that decision. The report shall contain the following:
-    (A) An indication that the examinations required under subsection (b)(3) have been completed.
-    (B) The Secretary“s certification that the Government calculation of the cost of performance of the function by Department of Defense civilian employees is based on an estimate of the most cost effective manner for performance of the function by Department of Defense civilian employees.
-    (C) The Secretary“s certification that the examination required by subsection (b)(3)(A) as part of the analysis demonstrates that the performance of the function by the private sector will result in savings to the Government over the life of the contract.
-    (D) The Secretary“s certification that the entire analysis is available for examination.
-    (E) A schedule for completing the change to performance of the function by the private sector.
-  (2) The change of the function to contractor performance may not begin until after the submission of the report required by this subsection.
+    (A) The date when the analysis of that commercial or industrial type function for possible change to performance by the private sector was commenced.
+    (B) An indication that the examinations required under subsection (b)(3) have been completed.
+    (C) The Secretary“s certification that the Government calculation of the cost of performance of the function by Department of Defense civilian employees is based on an estimate of the most cost effective manner for performance of the function by Department of Defense civilian employees.
+    (D) The number of Department of Defense civilian employees who were performing the function when the analysis was commenced, the number of such employees whose employment was terminated or otherwise affected in implementing the most efficient organization of the function, and the number of such employees whose employment would be terminated or otherwise affected by changing to performance of the function by the private sector.
+    (E) The Secretary“s certification that the factors considered in the examinations performed under subsection (b)(3), and in the making of the decision to change performance, did not include any predetermined personnel constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.
+    (F) The Secretary“s certification that the examination required by subsection (b)(3)(A) as part of the analysis demonstrates that the performance of the function by the private sector will result in savings to the Government over the life of the contract.
+    (G) A statement of the potential economic effect of the change on each affected local community, as determined in the examination under subsection (b)(3)(B)(ii).
+    (H) The Secretary“s certification that the entire analysis is available for examination.
+      (I) A schedule for completing the change to performance of the function by the private sector.
+  (2) If the commercial or industrial type function to be changed to performance by the private sector is performed at a Center of Industrial and Technical Excellence designated under section 2474(a) of this title or an Army ammunition plant–
+    (A) the report required by this subsection shall also include a description of the effect that the performance and administration of the resulting contract will have on the overhead costs of the center or ammunition plant, as the case may be; and
+    (B) notwithstanding paragraph (3), the change of the function to contractor performance may not begin until at least 60 days after the submission of the report.
+  (3) The change of the function to contractor performance may not begin until after the submission of the report required by this subsection.
   (d) T4Waiver for Small FunctionsK.–Subsections (a) through (c) and subsection (g) shall not apply to a commercial or industrial type function of the Department of Defense that is being performed by 50 or fewer Department of Defense civilian employees.
   (e) T4Waiver for the Purchase of Products and Services of the Blind and Other Severely Handicapped PersonsK.–Subsections (a) through (c) and subsection (g) shall not apply to a commercial or industrial type function of the Department of Defense that–
     (1) is included on the procurement list established pursuant to section 2 of the Javits-Wagner-O“Day Act (41 U.S.C. 47); or

@@ -12,19 +12,28 @@
     (5) The unremarried surviving spouse and eligible child dependents of a deceased member–
       (A) who died while in a status described in paragraph (1) or (2);
       (B) who is described in section 1448(d)(1) of this title; or
-      (C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under section 1076a of this title pursuant to subsection (i)(2) of such section.
+      (C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under section 1076a of this title.
   (c) T4PremiumsK.–(1) A member enrolled in the dental insurance plan established under subsection (a) shall pay the premiums charged for the insurance coverage.
   (2) The Secretary of Defense shall establish procedures for the collection of the premiums charged for coverage by the dental insurance plan. To the maximum extent practicable, the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay of the member (if pay is available to the member).
-  (d) T4Benefits Available Under the PlanK.–The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.
+  (d) T4Benefits Available Under the PlanK.–The dental insurance plan established under subsection (a) shall provide benefits for dental care and treatment which may be comparable to the benefits authorized under section 1076a of this title for plans established under that section and shall include diagnostic services, preventative services, endodontics and other basic restorative services, surgical services, and emergency services.
   (e) T4CoverageK.–(1) The Secretary shall prescribe a minimum required period for enrollment by a member or surviving spouse in the dental insurance plan established under subsection (a).
   (2) The dental insurance plan shall provide for voluntary enrollment of participants and shall authorize a member or eligible unremarried surviving spouse to enroll for self only or for self and eligible dependents.
-  (f) T4Termination of EnrollmentK.–The Secretary shall terminate the enrollment of any enrollee, and any eligible dependents of the enrollee covered by the enrollment, in the dental insurance plan established under subsection (a) upon the occurrence of the following:
+  (f) T4Required terminations of EnrollmentK.–The Secretary shall terminate the enrollment of any enrollee, and any eligible dependents of the enrollee covered by the enrollment, in the dental insurance plan established under subsection (a) upon the occurrence of the following:
     (1) In the case of an enrollment under subsection (b)(1), termination of the member“s entitlement to retired pay.
     (2) In the case of an enrollment under subsection (b)(2), termination of the member“s status as a member of the Retired Reserve.
     (3) In the case of an enrollment under subsection (b)(5), remarriage of the surviving spouse.
   (g) T4Continuation of Dependents“ Enrollment Upon Death of EnrolleeK.–Coverage of a dependent in the dental insurance plan established under subsection (a) under an enrollment of a member or a surviving spouse who dies during the period of enrollment shall continue until the end of that period and may be renewed by (or for) the dependent, so long as the premium paid is sufficient to cover continuation of the dependent“s enrollment. The Secretary may terminate coverage of the dependent when the premiums paid are no longer sufficient to cover continuation of the enrollment. The Secretary shall prescribe in regulations under subsection (h) the parties responsible for paying the remaining premiums due on the enrollment and the manner for collection of the premiums.
   (h) T4RegulationsK.–The dental insurance plan established under subsection (a) shall be administered under regulations prescribed by the Secretary of Defense, in consultation with the other administering Secretaries.
-    (i) T4DefinitionsK.–In this section:
-      (1) The term ””eligible dependent““ means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
-      (2) The term ””eligible child dependent““ means a dependent described in subparagraph (D) or (I) of section 1072(2) of this title.
-      (3) The term ””retired pay““ includes retainer pay.
+    (i) T4Voluntary DisenrollmentK.–(1) With respect to enrollment in the dental insurance plan established under subsection (a), the Secretary of Defense–
+      (A) shall allow for a period of up to 30 days at the beginning of the prescribed minimum enrollment period during which an enrollee may disenroll; and
+      (B) shall provide for limited circumstances under which disenrollment shall be permitted during the prescribed enrollment period, without jeopardizing the fiscal integrity of the dental program.
+  (2) The circumstances described in paragraph (1)(B) shall include–
+    (A) a case in which a retired member, surviving spouse, or dependent of a retired member who is also a Federal employee is assigned to a location outside the jurisdiction of the dental insurance plan established under subsection (a) that prevents utilization of dental benefits under the plan;
+    (B) a case in which a retired member, surviving spouse, or dependent of a retired member is prevented by a serious medical condition from being able to obtain benefits under the plan;
+    (C) a case in which severe financial hardship would result; and
+    (D) any other circumstances which the Secretary considers appropriate.
+  (3) The Secretary shall establish procedures for timely decisions on requests for disenrollment under this section and for appeal to the TRICARE Management Activity of adverse decisions.
+  (j) T4DefinitionsK.–In this section:
+    (1) The term ””eligible dependent““ means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
+    (2) The term ””eligible child dependent““ means a dependent described in subparagraph (D) or (I) of section 1072(2) of this title.
+    (3) The term ””retired pay““ includes retainer pay.
