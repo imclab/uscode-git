@@ -13,7 +13,7 @@
       (B) that, under subchapter II of this chapter–
         (i) is a vessel or fishery facility for which an obligation was accelerated and paid;
         (ii) was acquired by the Federal Ship Financing Fund or successor account under section 53717 of this title; or
-        (iii) was sold at foreclosure begun or intervened in by the Secretary.
+        (iii) was sold at foreclosure begun or intervened in by the Secretary or Administrator.
     (4) Financing any part of the repayment to the United States Government of any amount of a construction-differential subsidy paid for a vessel.
     (5) Refinancing an existing obligation (regardless of whether guaranteed under this chapter) issued for a purpose described in paragraphs (1)–(4), including a short-term obligation incurred to obtain temporary funds with the intention of refinancing.
     (6) Financing or refinancing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, reconditioning, or purchase of a fishery facility.
@@ -22,8 +22,10 @@
       (B) activities that assist in the transition to reduced fishing capacity; or
       (C) technologies or upgrades designed to improve collection and reporting of fishery-dependent data, to reduce bycatch, to improve selectivity or reduce adverse impacts of fishing gear, or to improve safety.
   (b) T4Non-Vessels Treated as VesselsK.–An obligation guaranteed under subsection (a)(6) or (7) shall be treated, for purposes of this chapter, in the same manner and to the same extent as an obligation that aids in financing the construction, reconstruction, reconditioning, or purchase of a vessel, except with respect to provisions that by their nature can only be applied to vessels.
-  (c) T4Priorities for Certain VesselsK.–In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Secretary shall give priority to–
-    (1) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
-    (2) after applying paragraph (1), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines–
-      (A) is suitable for service as a naval auxiliary in time of war or national emergency; and
-      (B) meets a shortfall in sealift capacity or capability.
+  (c) T4Priorities for Certain Vessels.–
+    (1) T4VesselsK.–In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Administrator shall give priority to–
+      (A) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
+      (B) after applying subparagraph (A), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines–
+        (i) is suitable for service as a naval auxiliary in time of war or national emergency; and
+        (ii) meets a shortfall in sealift capacity or capability.
+    (2) T4Time for determinationK.–The Secretary of Defense shall determine whether a vessel satisfies paragraph (1)(B) not later than 30 days after receipt of a request from the Administrator for such a determination.

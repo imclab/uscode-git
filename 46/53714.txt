@@ -1,11 +1,11 @@
-  (a) T4RegulationsK.–Subject to this section, the Secretary shall prescribe regulations to assess a fee for guaranteeing an obligation under this chapter.
+  (a) T4RegulationsK.–Subject to this section, the Secretary or Administrator shall prescribe regulations to assess a fee for guaranteeing an obligation under this chapter.
   (b) T4Computation of FeeK.–
     (1) T4In generalK.–The amount of the fee for a guarantee under this chapter shall be equal to the sum of the amounts determined under paragraph (2) for the years in which the guarantee is in effect.
-    (2) T4Present value for each yearK.–The amount referred to in paragraph (1) for a year in which the guarantee is in effect is the present value of the amount calculated under paragraph (3). To determine the present value, the Secretary shall apply a discount rate determined by the Secretary of the Treasury, considering current market yields on outstanding obligations of the United States Government having periods to maturity comparable to the period to maturity for the guaranteed obligation.
+    (2) T4Present value for each yearK.–The amount referred to in paragraph (1) for a year in which the guarantee is in effect is the present value of the amount calculated under paragraph (3). To determine the present value, the Secretary or Administrator shall apply a discount rate determined by the Secretary of the Treasury, considering current market yields on outstanding obligations of the United States Government having periods to maturity comparable to the period to maturity for the guaranteed obligation.
     (3) T4Calculation of amountK.–The amount referred to in paragraph (2) shall be calculated by multiplying–
       (A) the estimated average unpaid principal amount of the obligation that will be outstanding during the year (excluding the average amount, other than interest, on deposit during the year in an escrow fund under section 53715 of this title); by
       (B) the fee rate set under paragraph (4).
-    (4) T4Setting fee ratesK.–To set the fee rate referred to in paragraph (3)(B), the Secretary shall establish a formula that–
+    (4) T4Setting fee ratesK.–To set the fee rate referred to in paragraph (3)(B), the Secretary or Administrator shall establish a formula that–
       (A) takes into account the security provided for the guaranteed obligation; and
       (B) is a sliding scale based on the creditworthiness of the obligor, using–
         (i) the lowest allowable rate under paragraph (5) for the most creditworthy obligors; and
