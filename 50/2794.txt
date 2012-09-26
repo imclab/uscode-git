@@ -1,6 +1,12 @@
   (a) Partnerships
      For the purpose of facilitating the transfer of technology, the Secretary of Energy shall ensure, to the maximum extent practicable, that atomic energy defense activities research on, and development of, any dual-use critical technology is conducted through cooperative research and development agreements, or other arrangements, that involve laboratories of the Department of Energy and other entities.
-  (b) Definitions
+  (b) Cooperative research and development centers
+    (1) Subject to the availability of appropriations provided for such purpose, the Administrator for Nuclear Security shall establish a cooperative research and development center described in paragraph (2) at each national security laboratory.
+    (2) A cooperative research and development center described in this paragraph is a center to foster collaborative scientific research, technology development, and the appropriate transfer of research and technology to users in addition to the national security laboratories.
+    (3) In establishing a cooperative research and development center under this subsection, the Administrator–
+      (A) shall enter into cooperative research and development agreements with governmental, public, academic, or private entities; and
+      (B) may enter into a contract with respect to constructing, purchasing, managing, or leasing buildings or other facilities.
+  (c) Definitions
      In this section:
     (1) The term ””dual-use critical technology““ means a technology–
       (A) that is critical to atomic energy defense activities, as determined by the Secretary of Energy;
@@ -19,3 +25,4 @@
         (iii) Agencies of State Governments.
         (iv) Any other persons or entities that may be eligible and appropriate, as determined in accordance with applicable laws and regulations.
     (4) The term ””atomic energy defense activities““ does not include activities covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program.
+    (5) The term ””national security laboratory““ has the meaning given that term in section 2471 of this title.

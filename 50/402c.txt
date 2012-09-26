@@ -1,11 +1,52 @@
   (a) Establishment
-    (1) There shall be a National Counterintelligence Executive, who shall be appointed by the Director of National Intelligence.
-    (2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, and Director of the Central Intelligence Agency in selecting an individual for appointment as the Executive.
-  (b) Mission
-     The mission of the National Counterintelligence Executive shall be to serve as the head of national counterintelligence for the United States Government.
-  (c) Duties
-     Subject to the direction and control of the Director of National Intelligence, the duties of the National Counterintelligence Executive are as follows:
-    (1) To carry out the mission referred to in subsection (b) of this section.
-    (2) To act as chairperson of the National Counterintelligence Policy Board under section 402a of this title.
-    (3) To act as head of the Office of the National Counterintelligence Executive under section 402c of this title.
-    (4) To participate as an observer on such boards, committees, and entities of the executive branch as the Director of National Intelligence considers appropriate for the discharge of the mission and functions of the Executive and the Office of the National Counterintelligence Executive under section 402c of this title.
+     There shall be an Office of the National Counterintelligence Executive.
+  (b) Head of Office
+     The National Counterintelligence Executive shall be the head of the Office of the National Counterintelligence Executive.
+  (c) Location of Office
+     The Office of the National Counterintelligence Executive shall be located in the Office of the Director of National Intelligence.
+  (d) Functions
+     Subject to the direction and control of the National Counterintelligence Executive, the functions of the Office of the National Counterintelligence Executive shall be as follows:
+    (1) National threat identification and prioritization assessment
+       Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce on an annual basis a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
+    (2) National Counterintelligence Strategy
+       Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, and based on the most current National Threat Identification and Prioritization Assessment under paragraph (1), to produce on an annual basis a strategy for the counterintelligence programs and activities of the United States Government to be known as the National Counterintelligence Strategy.
+    (3) Implementation of National Counterintelligence Strategy
+       To evaluate on an ongoing basis the implementation of the National Counterintelligence Strategy and to submit to the President periodic reports on such evaluation, including a discussion of any shortfalls in the implementation of the Strategy and recommendations for remedies for such shortfalls.
+    (4) National counterintelligence strategic analyses
+       As directed by the Director of National Intelligence and in consultation with appropriate elements of the departments and agencies of the United States Government, to oversee and coordinate the production of strategic analyses of counterintelligence matters, including the production of counterintelligence damage assessments and assessments of lessons learned from counterintelligence activities.
+    (5) National counterintelligence program budget
+       In consultation with the Director of National Intelligence–
+      (A) to coordinate the development of budgets and resource allocation plans for the counterintelligence programs and activities of the Department of Defense, the Federal Bureau of Investigation, the Central Intelligence Agency, and other appropriate elements of the United States Government;
+      (B) to ensure that the budgets and resource allocation plans developed under subparagraph (A) address the objectives and priorities for counterintelligence under the National Counterintelligence Strategy; and
+      (C) to submit to the National Security Council periodic reports on the activities undertaken by the Office under subparagraphs (A) and (B).
+    (6) National counterintelligence collection and targeting coordination
+       To develop priorities for counterintelligence investigations and operations, and for collection of counterintelligence, for purposes of the National Counterintelligence Strategy, except that the Office may not–
+      (A) carry out any counterintelligence investigations or operations; or
+      (B) establish its own contacts, or carry out its own activities, with foreign intelligence services.
+    (7) National counterintelligence outreach, watch, and warning
+      (A) Counterintelligence vulnerability surveys
+         To carry out and coordinate surveys of the vulnerability of the United States Government, and the private sector, to intelligence threats in order to identify the areas, programs, and activities that require protection from such threats.
+      (B) Outreach
+         To carry out and coordinate outreach programs and activities on counterintelligence to other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
+      (C) Research and development
+         To ensure that research and development programs and activities of the United States Government, and the private sector, direct attention to the needs of the counterintelligence community for technologies, products, and services.
+      (D) Training and professional development
+         To develop policies and standards for training and professional development of individuals engaged in counterintelligence activities and to manage the conduct of joint training exercises for such personnel.
+  (e) Additional requirements regarding National Threat Identification and Prioritization Assessment and National Counterintelligence Strategy
+    (1) A National Threat Identification and Prioritization Assessment under subsection (d)(1), and any modification of such assessment, shall not go into effect until approved by the President.
+    (2) A National Counterintelligence Strategy under subsection (d)(2), and any modification of such strategy, shall not go into effect until approved by the President.
+    (3) The National Counterintelligence Executive shall submit to the congressional intelligence committees each National Threat Identification and Prioritization Assessment, or modification thereof, and each National Counterintelligence Strategy, or modification thereof, approved under this section.
+    (4) In this subsection, the term ””congressional intelligence committees““ means–
+      (A) the Select Committee on Intelligence of the Senate; and
+      (B) the Permanent Select Committee on Intelligence of the House of Representatives.
+  (f) Personnel
+    (1) Personnel of the Office of the National Counterintelligence Executive may consist of personnel employed by the Office or personnel on detail from any other department, agency, or element of the Federal Government. Any such detail may be on a reimbursable or nonreimbursable basis, at the election of the head of the agency detailing such personnel.
+    (2) Notwithstanding section 104(d) \1\N or any other provision of law limiting the period of the detail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the National Counterintelligence Executive and the head of the department, agency, or element concerned consider appropriate.
+  (g) Treatment of activities under certain administrative laws
+     The files of the Office shall be treated as operational files of the Central Intelligence Agency for purposes of section 701 of the National Security Act of 1947 (50 U.S.C. 431) to the extent such files meet criteria under subsection (b) of that section for treatment of files as operational files of an element of the Agency.
+  (h) Oversight by Congress
+     The location of the Office of the National Counterintelligence Executive within the Office of the Director of National Intelligence shall not be construed as affecting access by Congress, or any committee of Congress, to–
+    (1) any information, document, record, or paper in the possession of the Office; or
+    (2) any personnel of the Office.
+      (i) Construction
+         Nothing in this section shall be construed as affecting the authority of the Director of National Intelligence, the Secretary of Defense, the Secretary of State, the Attorney General, or the Director of the Federal Bureau of Investigation as provided or specified under the National Security Act of 1947 or under other provisions of law.
