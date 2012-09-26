@@ -344,6 +344,33 @@
         (ii) in the case of a crop for which the administrative fee required for the purchase of noninsured crop disaster assistance coverage exceeds 10 percent of the value of that coverage.
       (B) Treatment of acreage
          The Secretary shall not consider the value of any crop exempted under subparagraph (A) in calculating the supplemental revenue assistance program guarantee under subsection (b)(3) and the total farm revenue under subsection (b)(4).
+    (7) 2008 transition assistance
+      (A) In general
+         Eligible producers on a farm described in subparagraph (A) of paragraph (4) that failed to timely pay the appropriate fee described in that subparagraph shall be eligible for assistance under this section in accordance with subparagraph (B) if the eligible producers on the farm–
+        (i) pay the appropriate fee described in paragraph (4)(A) not later than 90 days after February 17, 2009; and
+        (ii)          (I) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, agree to obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) (excluding a crop insurance pilot program under that Act) for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+          (II) in the case of each noninsurable commodity of the eligible producers on the farm, agree to file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the next year for which a policy is available.
+      (B) Amount of assistance
+         Eligible producers on a farm that meet the requirements of subparagraph (A) shall be eligible to receive assistance under this section as if the eligible producers on the farm–
+        (i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+        (ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
+      (C) Equitable relief
+         Except as provided in subparagraph (D), eligible producers on a farm that met the requirements of paragraph (1) before the deadline described in paragraph (4)(A) and are eligible to receive, a disaster assistance payment under this section for a production loss during the 2008 crop year shall be eligible to receive an amount equal to the greater of–
+        (i) the amount that would have been calculated under subparagraph (B) if the eligible producers on the farm had paid the appropriate fee under that subparagraph; or
+        (ii) the amount that would have been calculated under subparagraph (A) of subsection (b)(3) if–
+          (I) in clause (i) of that subparagraph, ””120 percent““ is substituted for ””115 percent““; and
+          (II) in clause (ii) of that subparagraph, ””125““ \6\N is substituted for ””120 percent““.
+      (D) Limitation
+         For amounts made available under this paragraph, the Secretary may make such adjustments as are necessary to ensure that no producer receives a payment under this paragraph for an amount in excess of the assistance received by a similarly situated producer that had purchased the same or higher level of crop insurance prior to February 17, 2009.
+      (E) Authority of the Secretary
+         The Secretary may provide such additional assistance as the Secretary considers appropriate to provide equitable treatment for eligible producers on a farm that suffered production losses in the 2008 crop year that result in multiyear production losses, as determined by the Secretary.
+      (F) Lack of access
+         Notwithstanding any other provision of this section, the Secretary may provide assistance (including multiyear assistance) under this section to eligible producers on a farm that–
+        (i) suffered a production loss or multiyear production losses due to a natural cause during the 2008 crop year; and
+        (ii) as determined by the Secretary–
+          (I)            (aa) except as provided in item (bb), lack access to a policy or plan of insurance under subtitle A \4\; or
+            (bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
+          (II) are not eligible for the noninsured crop disaster assistance program established by section 7333 of title 7.
   (h) Payment limitations
     (1) Definitions of legal entity and person
        In this subsection, the terms ””legal entity““ and ””person““ have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) \5\ (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
@@ -358,4 +385,4 @@
       (i) Period of effectiveness
          This section shall be effective only for losses that are incurred as the result of a disaster, adverse weather, or other environmental condition that occurs on or before September 30, 2011, as determined by the Secretary.
       (j) No duplicative payments
-         In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) \6\N and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
+         In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) \7\N and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
