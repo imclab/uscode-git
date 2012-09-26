@@ -1,0 +1,78 @@
+  (a) Exhaust standards for light-duty vehicles and certain light-duty trucks
+     The standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (gvwr) (but not including light-duty trucks of more than 3,750 lbs. loaded vehicle weight (lvw)) or light-duty vehicles:
+    (1) Phase I
+       Beginning with model year 1996, for the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions shall not exceed the levels specified in the following table:
+       T4Phase I Clean Fuel Vehicle Emission Standards for Light-Duty Trucks of up to T13,750 T4Lbs. LVW and up to T16,000 T4Lbs. GVWR and Light-Duty Vehicles
+       50,000 mile standardD0.125D3.4D0.4DD0.015
+       100,000 mile standardD0.156D4.2D0.6D0.08*D0.018
+    (2) Phase II
+       Beginning with model year 2001, for air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions shall not exceed the levels specified in the following table.
+       T4Phase II Clean Fuel Vehicle Emission Standards for Light-Duty Trucks of up to T13,750 T4Lbs. LVW and up to T16,000 T4Lbs. GVWR and Light-Duty Vehicles
+       50,000 mile standardD0.075D3.4D0.2DD0.015
+       100,000 mile standardD0.090D4.2D0.3D0.08D0.018
+  (b) Exhaust standards for light-duty trucks of more than 3,750 lbs. LVW and up to 5,750 lbs. LVW and up to 6,000 lbs. GVWR
+     The standards set forth in this paragraph shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 3,750 lbs. loaded vehicle weight (lvw) but not more than 5,750 lbs. lvw and not more than 6,000 lbs. gross weight rating (GVWR):
+    (1) Phase I
+       Beginning with model year 1996, for the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions shall not exceed the levels specified in the following table.
+       T4Phase I Clean Fuel Vehicle Emission Standards for Light-Duty Trucks of More Than T13,750 T4Lbs. and up to T15,750 T4Lbs. LVW and up to T16,000 T4Lbs. GVWR
+       50,000 mile standardD0.160D4.4D0.7DD0.018
+       100,000 mile standardD0.200D5.5D0.9D0.08D0.023
+    (2) Phase II
+       Beginning with model year 2001, for the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions shall not exceed the levels specified in the following table.
+       T4Phase II Clean Fuel Vehicle Emission Standards for Light-Duty Trucks of More Than T13,750 T4Lbs. LVW and up to T15,750 T4Lbs. LVW and up to T16,000 T4Lbs. GVWR
+       50,000 mile standardD0.100D4.4D0.4DD0.018
+       100,000 mile standardD0.130D5.5D0.5D0.08D0.023
+  (c) Exhaust standards for light-duty trucks greater than 6,000 lbs. GVWR
+     The standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 6,000 lbs. gross weight rating (GVWR) and less than or equal to 8,500 lbs. GVWR, beginning with model year 1998. For the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions of vehicles within the test weight categories specified in the following table shall not exceed the levels specified in such table.
+     T4Clean Fuel Vehicle Emission Standards for Light Duty Trucks Greater Than T16,000 T4lbs. GVWR
+     Test Weight Category: Up to 3,750 lbs. tw
+     50,000 mile standardD0.125D3.4D0.4**DD0.015
+     120,000 mile standardD0.180D5.0D0.6 D0.08D0.022
+     Test Weight Category: Above 3,750 but not above 5,750 lbs. tw
+     50,000 mile standardD0.160D4.4D0.7**DD0.018
+     120,000 mile standardD0.230D6.4D1.0 D0.10D0.027
+     Test Weight Category: Above 5,750 tw but not above 8,500 lbs. gvwr
+     50,000 mile standardD0.195D5.0D1.1**DD0.022
+     120,000 mile standardD0.280D7.3D1.5 D0.12D0.032
+  (d) Flexible and dual-fuel vehicles
+    (1) In general
+       The Administrator shall establish standards and requirements under this section for the model year 1996 and thereafter for vehicles weighing not more than 8,500 lbs. gvwr which are capable of operating on more than one fuel. Such standards shall require that such vehicles meet the exhaust standards applicable under subsection \1\N (a), (b), and (c) of this section for CO, NOG5T2xK, and HCHO, and if appropriate, PM for single-fuel vehicles of the same vehicle category and model year.
+    (2) Exhaust NMOG standard for operation on clean alternative fuel
+       In addition to standards for the pollutants referred to in paragraph (1), the standards established under paragraph (1) shall require that vehicle exhaust emissions of NMOG not exceed the levels (expressed in grams per mile) specified in the tables below when the vehicle is operated on the clean alternative fuel for which such vehicle is certified:
+       T4NMOG Standards for Flexible- and Dual-Fueled Vehicles When Operating on Clean Alternative Fuel
+       Light-duty Trucks up to 6,000 lbs. GVWR and Light-duty vehicles
+       Beginning MY 1996:
+       LDT“s (0–3,750 lbs. LVW) and light-duty vehiclesDoi00.125Doi00.156
+       LDT“s (3,751–5,750 lbs. LVW)Doi00.160Doi00.20 
+       Beginning MY 2001:
+       LDT“s (0–3,750 lbs. LVW) and light-duty vehiclesDoi00.075Doi00.090
+       LDT“s (3,751–5,750 lbs. LVW)Doi00.100Doi00.130
+       Light-duty Trucks More than 6,000 lbs. GVWR
+       Beginning MY 1998:
+       LDT“s (0–3,750 lbs. TW)Doi00.125Doi00.180
+       LDT“s (3,751–5,750 lbs. TW)Doi00.160Doi00.230
+       LDT“s (above 5,750 lbs. TW)Doi00.195Doi00.280
+    (3) NMOG standard for operation on conventional fuel
+       In addition to the standards referred to in paragraph (1), the standards established under paragraph (1) shall require that vehicle exhaust emissions of NMOG not exceed the levels (expressed in grams per mile) specified in the tables below:
+       T4NMOG Standards for Flexible- and Dual-Fueled Vehicles When Operating on Conventional Fuel
+       Light-duty Trucks of up to 6,000 lbs. GVWR and Light-duty vehicles
+       Beginning MY 1996:
+       LDT“s (0–3,750 lbs. LVW) and light-duty vehiclesDoi00.25Doi00.31 
+       LDT“s (3,751–5,750 lbs. LVW)Doi00.32Doi00.40 
+       Beginning MY 2001:
+       LDT“s (0–3,750 lbs. LVW) and light-duty vehiclesDoi00.125Doi00.156
+       LDT“s (3,751–5,750 lbs. LVW)Doi00.160Doi00.200
+       Light-duty Trucks of up to 6,000 lbs. GVWR
+       Beginning MY 1998:
+       LDT“s (0–3,750 lbs. TW)Doi00.25Doi00.36
+       LDT“s (3,751–5,750 lbs. TW)Doi00.32Doi00.46
+       LDT“s (above 5,750 lbs. TW)Doi00.39Doi00.56
+  (e) Replacement by CARB standards
+    (1) Single set of CARB standards
+       If the State of California promulgates regulations establishing and implementing a single set of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and such set of standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such set of California standards shall apply to clean-fuel vehicles in such category in lieu of the standards otherwise applicable under section 7582 of this title and subsection (a), (b), (c), or (d) of this section, as the case may be.
+    (2) Multiple sets of CARB standards
+       If the State of California promulgates regulations establishing and implementing several different sets of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and each of such sets of California standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such standards shall be treated as ””qualifying California standards““ for purposes of this paragraph. Where more than one set of qualifying standards are established and administered by the State of California, the least stringent set of qualifying California standards shall apply to the clean-fuel vehicles concerned in lieu of the standards otherwise applicable to such vehicles under section 7582 of this title and this section.
+  (f) Less stringent CARB standards
+     If the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board applicable to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section are modified after November 15, 1990, to provide an emissions standard which is less stringent than the otherwise applicable standard set forth in subsection (a), (b), (c), or (d) of this section, or if any effective date contained in such regulations is delayed, such modified standards or such delay (or both, as the case may be) shall apply, for an interim period, in lieu of the standard or effective date otherwise applicable under subsection (a), (b), (c), or (d) of this section to any vehicles covered by such modified standard or delayed effective date. The interim period shall be a period of not more than 2 model years from the effective date otherwise applicable under subsection (a), (b), (c), or (d) of this section. After such interim period, the otherwise applicable standard set forth in subsection (a), (b), (c), or (d) of this section shall take effect with respect to such vehicles (unless subsequently replaced under subsection (e) of this section).
+  (g) Not applicable to heavy-duty vehicles
+     Notwithstanding any provision of the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board nothing in this section shall apply to heavy-duty engines in vehicles of more than 8,500 lbs. GVWR.

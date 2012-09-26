@@ -1,37 +1,31 @@
-  (a) Agency authority
-    (1) The head of an executive agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of–
-      (A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that executive agency under this subchapter; and
-      (B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
-    (2) The head of an executive agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to section 254b \1\N of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to–
-      (A) the proposal for the contract or subcontract;
-      (B) the discussions conducted on the proposal;
-      (C) pricing of the contract or subcontract; or
-      (D) performance of the contract or subcontract.
-  (b) Subpoena power
-    (1) The Inspector General of an executive agency appointed under section 3 or 8G \1\ of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
-    (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
-    (3) The authority provided by paragraph (1) may not be delegated.
-    (4) In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives a report on the exercise of such authority during such preceding year and the reasons why such authority was exercised in any instance.
-  (c) Comptroller General authority
-    (1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
-    (2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required–
-      (A) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its records available for examination; and
-      (B) where the executive agency determines, after taking into account the price and availability of the property and services from United States sources, that the public interest would be best served by not applying paragraph (1).
-    (3) Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
-  (d) Limitation on preaward audits relating to indirect costs
-     An executive agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this subchapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer“s determination.
-  (e) Limitation
-     The authority of an executive agency under subsection (a) of this section, and the authority of the Comptroller General under subsection (c) of this section, with respect to a contract or subcontract shall expire three years after final payment under such contract or subcontract.
-  (f) Inapplicability to certain contracts
-     This section does not apply to the following contracts:
-    (1) Contracts for utility services at rates not exceeding those established to apply uniformly to the public, plus any applicable reasonable connection charge.
-    (2) A contract or subcontract that is not greater than the simplified acquisition threshold.
-  (g) Form of original record storage
-     Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form.
-  (h) Use of images of original records
-     An executive agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
-    (1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
-    (2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
-    (3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
-      (i) ””Records““ defined
-         In this section, the term ””records““ includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
+  (a) Purpose; authorization of grants and loans; considerations; conditions on loans; appropriations
+    (1) For the purpose of encouraging the establishment and initial operation of home health programs to provide home health services in areas in which such services are inadequate or not readily accessible, the Secretary may, in accordance with the provisions of this section, make grants to public and nonprofit private entities and loans to proprietary entities to meet the initial costs of establishing and operating such home health programs. Such grants and loans may include funds to provide training for paraprofessionals (including homemaker home health aides) to provide home health services.
+    (2) In making grants and loans under this subsection, the Secretary shall–
+      (A) consider the relative needs of the several States for home health services;
+      (B) give preference to areas in which a high percentage of the population proposed to be served is composed of individuals who are elderly, medically indigent, or disabled; and
+      (C) give special consideration to areas with inadequate means of transportation to obtain necessary health services.
+    (3)      (A) No loan may be made to a proprietary entity under this section unless the application of such entity for such loan contains assurances satisfactory to the Secretary that–
+        (i) at the time the application is made the entity is fiscally sound;
+        (ii) the entity is unable to secure a loan for the project for which the application is submitted from non-Federal lenders at the rate of interest prevailing in the area in which the entity is located; and
+        (iii) during the period of the loan, such entity will remain fiscally sound.
+      (B) Loans under this section shall be made at an interest rate comparable to the rate of interest prevailing on the date the loan is made with respect to the marketable obligations of the United States of comparable maturities, adjusted to provide for administrative costs.
+    (4) Applications for grants and loans under this subsection shall be in such form and contain such information as the Secretary shall prescribe.
+    (5) There are authorized to be appropriated for grants and loans under this subsection $5,000,000 for each of the fiscal years ending on September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
+  (b) Grants and contracts for training programs for paraprofessionals; considerations; applications; appropriations
+    (1) The Secretary may make grants to and enter into contracts with public and private entities to assist them in developing appropriate training programs for paraprofessionals (including homemaker home health aides) to provide home health services.
+    (2) Any program established with a grant or contract under this subsection to train homemaker home health aides shall–
+      (A) extend for at least forty hours, and consist of classroom instruction and at least twenty hours (in the aggregate) of supervised clinical instruction directed toward preparing students to deliver home health services;
+      (B) be carried out under appropriate professional supervision and be designed to train students to maintain or enhance the personal care of an individual in his home in a manner which promotes the functional independence of the individual; and
+      (C) include training in–
+        (i) personal care services designed to assist an individual in the activities of daily living such as bathing, exercising, personal grooming, and getting in and out of bed; and
+        (ii) household care services such as maintaining a safe living environment, light housekeeping, and assisting in providing good nutrition (by the purchasing and preparation of food).
+    (3) In making grants and entering into contracts under this subsection, special consideration shall be given to entities which establish or will establish programs to provide training for persons fifty years of age and older who wish to become paraprofessionals (including homemaker home health aides) to provide home health services.
+    (4) Applications for grants and contracts under this subsection shall be in such form and contain such information as the Secretary shall prescribe.
+    (5) There are authorized to be appropriated for grants and contracts under this subsection $2,000,000 for each of the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
+  (c) Report to Congress with respect to grants and loans and training of personnel
+     The Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives on or before January 1, 1984, with respect to–
+    (1) the impact of grants made and contracts entered into under subsections (a) and (b) of this section (as such subsections were in effect prior to October 1, 1981);
+    (2) the need to continue grants and loans under subsections (a) and (b) of this section (as such subsections are in effect on the day after January 4, 1983); and
+    (3) the extent to which standards have been applied to the training of personnel who provide home health services.
+  (d) ””Home health services““ defined
+     For purposes of this section, the term ””home health services““ has the meaning prescribed for the term by section 1395x(m) of this title.

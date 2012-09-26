@@ -1,37 +1,56 @@
-  (a) Agency authority
-    (1) The head of an executive agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of–
-      (A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that executive agency under this subchapter; and
-      (B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
-    (2) The head of an executive agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to section 254b \1\N of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to–
-      (A) the proposal for the contract or subcontract;
-      (B) the discussions conducted on the proposal;
-      (C) pricing of the contract or subcontract; or
-      (D) performance of the contract or subcontract.
-  (b) Subpoena power
-    (1) The Inspector General of an executive agency appointed under section 3 or 8G \1\ of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
-    (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
-    (3) The authority provided by paragraph (1) may not be delegated.
-    (4) In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives a report on the exercise of such authority during such preceding year and the reasons why such authority was exercised in any instance.
-  (c) Comptroller General authority
-    (1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
-    (2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required–
-      (A) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its records available for examination; and
-      (B) where the executive agency determines, after taking into account the price and availability of the property and services from United States sources, that the public interest would be best served by not applying paragraph (1).
-    (3) Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
-  (d) Limitation on preaward audits relating to indirect costs
-     An executive agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this subchapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer“s determination.
-  (e) Limitation
-     The authority of an executive agency under subsection (a) of this section, and the authority of the Comptroller General under subsection (c) of this section, with respect to a contract or subcontract shall expire three years after final payment under such contract or subcontract.
-  (f) Inapplicability to certain contracts
-     This section does not apply to the following contracts:
-    (1) Contracts for utility services at rates not exceeding those established to apply uniformly to the public, plus any applicable reasonable connection charge.
-    (2) A contract or subcontract that is not greater than the simplified acquisition threshold.
-  (g) Form of original record storage
-     Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form.
-  (h) Use of images of original records
-     An executive agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
-    (1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
-    (2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
-    (3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
-      (i) ””Records““ defined
-         In this section, the term ””records““ includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
+  (a) Administration
+     The rural health services outreach demonstration grant program established under section 241 of this title shall be administered by the Office of Rural Health Policy (of the Health Resources and Services Administration), in consultation with State rural health offices or other appropriate State governmental entities.
+  (b) Grants
+     Under the program referred to in subsection (a) of this section, the Secretary, acting through the Director of the Office of Rural Health Policy, may award grants to expand access to, coordinate, restrain the cost of, and improve the quality of essential health care services, including preventive and emergency services, through the development of integrated health care delivery systems or networks in rural areas and regions.
+  (c) Eligible networks
+    (1) Outreach networks
+       To be eligible to receive a grant under this section, an entity shall–
+      (A) be a rural public or nonprofit private entity that is or represents a network or potential network that includes three or more health care providers or other entities that provide or support the delivery of health care services; and
+      (B) in consultation with the State office of rural health or other appropriate State entity, prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including–
+        (i) a description of the activities which the applicant intends to carry out using amounts provided under the grant;
+        (ii) a plan for continuing the project after Federal support is ended;
+        (iii) a description of the manner in which the activities funded under the grant will meet health care needs of underserved rural populations within the State; and
+        (iv) a description of how the local community or region to be served by the network or proposed network will be involved in the development and ongoing operations of the network.
+    (2) For-profit entities
+       An eligible network may include for-profit entities so long as the network grantee is a nonprofit entity.
+    (3) Telemedicine networks
+      (A) In general
+         An entity that is a health care provider and a member of an existing or proposed telemedicine network, or an entity that is a consortium of health care providers that are members of an existing or proposed telemedicine network shall be eligible for a grant under this section.
+      (B) Requirement
+         A telemedicine network referred to in subparagraph (A) shall, at a minimum, be composed of–
+        (i) a multispecialty entity that is located in an urban or rural area, which can provide 24-hour a day access to a range of specialty care; and
+        (ii) at least two rural health care facilities, which may include rural hospitals, rural physician offices, rural health clinics, rural community health clinics, and rural nursing homes.
+  (d) Preference
+     In awarding grants under this section, the Secretary shall give preference to applicant networks that include–
+    (1) a majority of the health care providers serving in the area or region to be served by the network;
+    (2) any federally qualified health centers, rural health clinics, and local public health departments serving in the area or region;
+    (3) outpatient mental health providers serving in the area or region; or
+    (4) appropriate social service providers, such as agencies on aging, school systems, and providers under the women, infants, and children program, to improve access to and coordination of health care services.
+  (e) Use of funds
+    (1) In general
+       Amounts provided under grants awarded under this section shall be used–
+      (A) for the planning and development of integrated self-sustaining health care networks; and
+      (B) for the initial provision of services.
+    (2) Expenditures in rural areas
+      (A) In general
+         In awarding a grant under this section, the Secretary shall ensure that not less than 50 percent of the grant award is expended in a rural area or to provide services to residents of rural areas.
+      (B) Telemedicine networks
+         An entity described in subsection (c)(3) of this section may not use in excess of–
+        (i) 40 percent of the amounts provided under a grant under this section to carry out activities under paragraph (3)(A)(iii); and
+        (ii) 20 percent of the amounts provided under a grant under this section to pay for the indirect costs associated with carrying out the purposes of such grant.
+    (3) Telemedicine networks
+      (A) In general
+         An entity described in subsection (c)(3) of this section, may use amounts provided under a grant under this section to–
+        (i) demonstrate the use of telemedicine in facilitating the development of rural health care networks and for improving access to health care services for rural citizens;
+        (ii) provide a baseline of information for a systematic evaluation of telemedicine systems serving rural areas;
+        (iii) purchase or lease and install equipment; and
+        (iv) operate the telemedicine system and evaluate the telemedicine system.
+      (B) Limitations
+         An entity described in subsection (c)(3) of this section, may not use amounts provided under a grant under this section–
+        (i) to build or acquire real property;
+        (ii) purchase or install transmission equipment (such as laying cable or telephone lines, microwave towers, satellite dishes, amplifiers, and digital switching equipment); or
+        (iii) for construction, except that such funds may be expended for minor renovations relating to the installation of equipment; \1\N
+  (f) Term of grants
+     Funding may not be provided to a network under this section for in excess of a 3-year period.
+  (g) Authorization of appropriations
+     For the purpose of carrying out this section there are authorized to be appropriated $36,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001.

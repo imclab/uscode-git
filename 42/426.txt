@@ -1,33 +1,6 @@
-  (a) In general
-    (1) The Administrator shall establish a program for the development and implementation of a Federal acquisition computer network architecture (hereinafter in this section referred to as ””FACNET““) that will be Government-wide and provide interoperability among users. The Administrator shall assign a program manager for FACNET and shall provide for overall direction of policy and leadership in the development, coordination, installation, operation, and completion of implementation of FACNET by executive agencies.
-    (2) In carrying out paragraph (1), the Administrator shall consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
-    (3) Government-wide FACNET capability (as defined in section 426a(b) of this title) shall be implemented not later than January 1, 2000.
-  (b) Functions of FACNET
-     The FACNET architecture shall provide for the following functions:
-    (1) Government functions
-       Allow executive agencies to do the following electronically:
-      (A) Provide widespread public notice of solicitations for contract opportunities issued by an executive agency.
-      (B) Receive responses to solicitations and associated requests for information through such system.
-      (C) Provide public notice of contract awards (including price) through such system.
-      (D) In cases in which it is practicable, receive questions regarding solicitations through such system.
-      (E) In cases in which it is practicable, issue orders to be made through such system.
-      (F) In cases in which it is practicable, make payments to contractors by bank card, electronic funds transfer, or other automated methods.
-      (G) Archive data relating to each procurement action made using such system.
-    (2) Private sector user functions
-       Allow private sector users to do the following electronically:
-      (A) Access notice of solicitations for contract opportunities issued by an executive agency.
-      (B) Access and review solicitations issued by an executive agency.
-      (C) Respond to solicitations issued by the executive agency.
-      (D) In cases in which it is practicable, receive orders from the executive agency.
-      (E) Access information on contract awards (including price) made by the executive agency.
-      (F) In cases in which it is practicable, receive payment by bank card, electronic funds transfer, or other automated means.
-    (3) General functions
-      (A) Allow the electronic interchange of procurement information between the private sector and the Federal Government and among Federal agencies.
-      (B) Employ nationally and internationally recognized data formats that serve to broaden and ease the electronic interchange of data.
-      (C) Allow convenient and universal user access through any point of entry.
-  (c) Notice and solicitation regulations
-     In connection with implementation of the architecture referred to in subsection (a) of this section, the Federal Acquisition Regulatory Council shall ensure that the Federal Acquisition Regulation contains appropriate notice and solicitation provisions applicable to acquisitions conducted through a FACNET capability. The provisions shall specify the required form and content of notices of acquisitions and the minimum periods for notifications of solicitations and for deadlines for the submission of offers under solicitations. Each minimum period specified for a notification of solicitation and each deadline for the submission of offers under a solicitation shall afford potential offerors a reasonable opportunity to respond.
-  (d) ””Architecture““ defined
-     For purposes of this section, the term ””architecture““ means the conceptual framework that–
-    (1) uses a combination of commercial hardware and commercial software to enable contractors to conduct business with the Federal Government by electronic means; and
-    (2) includes a description of the functions to be performed to achieve the mission of streamlining procurement through electronic commerce, the system elements and interfaces needed to perform the functions, and the designation of performance levels of those system elements.
+  (a) Suspension of benefits
+     If the Commissioner of Social Security, on the basis of information obtained by or submitted to the Commissioner, believes that an individual entitled to benefits under section 423 of this title, or that a child who has attained the age of eighteen and is entitled to benefits under section 402(d) of this title, or that a widow or surviving divorced wife who has not attained age 60 and is entitled to benefits under section 402(e) of this title, or that a widower or surviving divorced husband who has not attained age 60 and is entitled to benefits under section 402(f) of this title, may have ceased to be under a disability, the Commissioner of Social Security may suspend the payment of benefits under such section 402(d), 402(e), 402(f), or 423 of this title until it is determined (as provided in section 421 of this title) whether or not such individual“s disability has ceased or until the Commissioner of Social Security believes that such disability has not ceased. In the case of any individual whose disability is subject to determination under an agreement with a State under section 421(b) of this title, the Commissioner of Social Security shall promptly notify the appropriate State of the Commissioner“s action under this subsection and shall request a prompt determination of whether such individual“s disability has ceased. For purposes of this subsection, the term ””disability““ has the meaning assigned to such term in section 423(d) of this title. Whenever the benefits of an individual entitled to a disability insurance benefit are suspended for any month, the benefits of any individual entitled thereto under subsection (b), (c), or (d) of section 402 of this title, on the basis of the wages and self-employment income of such individual, shall be suspended for such month. The first sentence of this subsection shall not apply to any child entitled to benefits under section 402(d) of this title, if he has attained the age of 18 but has not attained the age of 22, for any month during which he is a full-time student (as defined and determined under section 402(d) of this title).
+  (b) Continued payments during rehabilitation program
+     Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual“s entitlement to such benefits is based, has or may have ceased, if–
+    (1) such individual is participating in a program of vocational rehabilitation services approved by the Commissioner of Social Security, and
+    (2) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.

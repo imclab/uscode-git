@@ -1,29 +1,26 @@
-  (a) Drug-free workplace requirement
-    (1) Requirement for persons other than individuals
-       No person, other than an individual, shall be considered a responsible source, under the meaning of such term as defined in section 403(8) of this title, for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items as defined in section 403 of this title, unless such person has certified to the contracting agency that it will provide a drug-free workplace by–
-      (A) publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person“s workplace and specifying the actions that will be taken against employees for violations of such prohibition;
-      (B) establishing a drug-free awareness program to inform employees about–
-        (i) the dangers of drug abuse in the workplace;
-        (ii) the person“s policy of maintaining a drug-free workplace;
-        (iii) any available drug counseling, rehabilitation, and employee assistance programs; and
-        (iv) the penalties that may be imposed upon employees for drug abuse violations;
-      (C) making it a requirement that each employee to be engaged in the performance of such contract be given a copy of the statement required by subparagraph (A);
-      (D) notifying the employee in the statement required by subparagraph (A), that as a condition of employment on such contract, the employee will–
-        (i) abide by the terms of the statement; and
-        (ii) notify the employer of any criminal drug statute conviction for a violation occurring in the workplace no later than 5 days after such conviction;
-      (E) notifying the contracting agency within 10 days after receiving notice under subparagraph (D)(ii) from an employee or otherwise receiving actual notice of such conviction;
-      (F) imposing a sanction on, or requiring the satisfactory participation in a drug abuse assistance or rehabilitation program by, any employee who is so convicted, as required by section 703 of this title; and
-      (G) making a good faith effort to continue to maintain a drug-free workplace through implementation of subparagraphs (A), (B), (C), (D), (E), and (F).
-    (2) Requirement for individuals
-       No Federal agency shall enter into a contract with an individual unless such contract includes a certification by the individual that the individual will not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in the performance of the contract.
-  (b) Suspension, termination, or debarment of contractor
-    (1) Grounds for suspension, termination, or debarment
-       Each contract awarded by a Federal agency shall be subject to suspension of payments under the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that–
-      (A) the contractor or individual has made a false certification under subsection (a) of this section;
-      (B) the contractor violates such certification by failing to carry out the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1) of this section; or
-      (C) such a number of employees of such contractor have been convicted of violations of criminal drug statutes for violations occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a) of this section.
-    (2) Conduct of suspension, termination, and debarment proceedings
-      (A) If a contracting officer determines, in writing, that cause for suspension of payments, termination, or suspension or debarment exists, an appropriate action shall be initiated by a contracting officer of the agency, to be conducted by the agency concerned in accordance with the Federal Acquisition Regulation and applicable agency procedures.
-      (B) The Federal Acquisition Regulation shall be revised to include rules for conducting suspension and debarment proceedings under this subsection, including rules providing notice, opportunity to respond in writing or in person, and such other procedures as may be necessary to provide a full and fair proceeding to a contractor or individual in such proceeding.
-    (3) Effect of debarment
-       Upon issuance of any final decision under this subsection requiring debarment of a contractor or individual, such contractor or individual shall be ineligible for award of any contract by any Federal agency, and for participation in any future procurement by any Federal agency, for a period specified in the decision, not to exceed 5 years.
+  (a) To improve the health of all mothers and children consistent with the applicable health status goals and national health objectives established by the Secretary under the Public Health Service Act [42 U.S.C. 201 et seq.] for the year 2000, there are authorized to be appropriated $705,000,000 for fiscal year 1994 and each fiscal year thereafter–
+    (1) for the purpose of enabling each State–
+      (A) to provide and to assure mothers and children (in particular those with low income or with limited availability of health services) access to quality maternal and child health services;
+      (B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
+      (C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
+      (D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
+    (2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
+    (3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following–
+      (A) maternal and infant health home visiting programs in which case management services as defined in subparagraphs (A) and (B) of subsection (b)(4) of this section, health education services, and related social support services are provided in the home to pregnant women or families with an infant up to the age one by an appropriate health professional or by a qualified nonprofessional acting under the supervision of a health care professional,
+      (B) projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state \1\N plans approved under subchapter XIX of this chapter,
+      (C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 \2\N of this title and using, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
+      (D) maternal and child health centers which (i) provide prenatal, delivery, and postpartum care for pregnant women and preventive and primary care services for infants up to age one, and (ii) operate under the direction of a not-for-profit hospital,
+      (E) maternal and child health projects to serve rural populations, and
+      (F) outpatient and community based services programs (including day care services) for children with special health care needs whose medical services are provided primarily through inpatient institutional care.
+  (b) For purposes of this subchapter:
+    (1) The term ””consolidated health programs““ means the programs administered under the provisions of–
+      (A) this subchapter (relating to maternal and child health and services for children with special health care needs),
+      (B) section 1382d(c) of this title (relating to supplemental security income for disabled children),
+      (C) sections 247a of this title (relating to lead-based paint poisoning prevention programs), 300b of this title (relating to genetic disease programs), 300c–11 of this title (relating to sudden infant death syndrome programs) and 300c–21 of this title (relating to hemophilia treatment centers), and
+      (D) title VI of the Health Services and Centers Amendments of 1978 (Public Law 95–626; relating to adolescent pregnancy grants),
+     as such provisions were in effect before August 13, 1981.
+    (2) The term ””low income““ means, with respect to an individual or family, such an individual or family with an income determined to be below the income official poverty line defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title.
+    (3) The term ””care coordination services““ means services to promote the effective and efficient organization and utilization of resources to assure access to necessary comprehensive services for children with special health care needs and their families.
+    (4) The term ””case management services““ means–
+      (A) with respect to pregnant women, services to assure access to quality prenatal, delivery, and postpartum care; and
+      (B) with respect to infants up to age one, services to assure access to quality preventive and primary care services.
