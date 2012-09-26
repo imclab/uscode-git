@@ -18,8 +18,8 @@
   (5) Conversion to stock corporations
      Any successor entity or separated entity created out of INTELSAT or Inmarsat shall be a national corporation or similar accepted commercial structure, subject to the laws of the nation in which incorporated, as follows:
     (A) An initial public offering of securities of any successor entity or separated entity–
-      (i) shall be conducted, for the successor entities of INTELSAT, on or about December 31, 2003, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than June 30, 2004; and
-      (ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2004, except that the Commission may extend this deadline to not later than December 31, 2004.
+      (i) shall be conducted, for the successor entities of INTELSAT, on or about June 30, 2005, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than December 31, 2005; and
+      (ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2005, except that the Commission may extend this deadline to not later than December 31, 2004.
     (B) The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.
     (C) A majority of the members of the board of directors of any successor entity or separated entity shall not be directors, employees, officers, or managers or otherwise serve as representatives of any signatory or former signatory. No member of the board of directors of any successor or separated entity shall be a director, employee, officer or manager of any intergovernmental organization remaining after the privatization.
     (D) Any successor entity or separated entity shall–
@@ -28,6 +28,14 @@
       (iii) have no directors, officers, or managers who hold such positions in any intergovernmental organization; and
       (iv) in the case of a separated entity, have no officers or directors, who (I) are officers or managers of any intergovernmental organization, or (II) have any direct financial interest in or financial relationship to any international organization, except that such interest may be managed through a blind trust or similar mechanism.
     (E) Any transactions or other relationships between or among any successor entity, separated entity, INTELSAT, or Inmarsat shall be conducted on an arm“s length basis.
+    (F) Notwithstanding subparagraphs (A) and (B), a successor entity may be deemed a national corporation and may forgo an initial public offering and public securities listing and still achieve the purposes of this section if–
+      (i) the successor entity certifies to the Commission that–
+        (I) the successor entity has achieved substantial dilution of the aggregate amount of signatory or former signatory financial interest in such entity;
+        (II) any signatories and former signatories that retain a financial interest in such successor entity do not possess, together or individually, effective control of such successor entity; and
+        (III) no intergovernmental organization has any ownership interest in a successor entity of INTELSAT or more than a minimal ownership interest in a successor entity of Inmarsat;
+      (ii) the successor entity provides such financial and other information to the Commission as the Commission may require to verify such certification; and
+      (iii) the Commission determines, after notice and comment, that the successor entity is in compliance with such certification.
+    (G) For purposes of subparagraph (F), the term ””substantial dilution““ means that a majority of the financial interests in the successor entity is no longer held or controlled, directly or indirectly, by signatories or former signatories.
   (6) Regulatory treatment
      Any successor entity or separated entity created after March 17, 2000, shall apply through the appropriate national licensing authorities for international frequency assignments and associated orbital registrations for all satellites.
   (7) Competition policies in domiciliary country
