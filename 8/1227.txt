@@ -29,8 +29,9 @@
         (ii) it appears to the satisfaction of the Attorney General that the alien has failed or refused to fulfill the alien“s marital agreement which in the opinion of the Attorney General was made for the purpose of procuring the alien“s admission as an immigrant.
       (H) Waiver authorized for certain misrepresentations
          The provisions of this paragraph relating to the removal of aliens within the United States on the ground that they were inadmissible at the time of admission as aliens described in section 1182(a)(6)(C)(i) of this title, whether willful or innocent, may, in the discretion of the Attorney General, be waived for any alien (other than an alien described in paragraph (4)(D)) who–
-        (i) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
-        (ii) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+        (i)          (I) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
+          (II) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+        (ii) is an alien who qualifies for classification under clause (iii) or (iv) of section 1154(a)(1)(A) of this title or clause (ii) or (iii) of section 1154(a)(1)(B) of this title.
          A waiver of removal for fraud or misrepresentation granted under this subparagraph shall also operate to waive removal based on the grounds of inadmissibility directly resulting from such fraud or misrepresentation.
     (2) Criminal offenses
       (A) General crimes
@@ -81,7 +82,10 @@
         (ii) Waiver authorized
            The Attorney General may waive clause (i) in the case of an alien lawfully admitted for permanent residence if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was incurred solely to assist, aid, or support the alien“s spouse or child (and no other individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this clause.
       (D) Falsely claiming citizenship
-         Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title) or any Federal or State law is deportable.
+        (i) In general
+           Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title) or any Federal or State law is deportable.
+        (ii) Exception
+           In the case of an alien making a representation described in clause (i), if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making such representation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such representation.
     (4) Security and related grounds
       (A) In general
          Any alien who has engaged, is engaged, or at any time after admission engages in–
@@ -101,7 +105,21 @@
     (5) Public charge
        Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
     (6) Unlawful voters
-       Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+      (A) In general
+         Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+      (B) Exception
+         In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such violation.
+    (7) Waiver for victims of domestic violence
+      (A) In general
+         The Attorney General is not limited by the criminal court record and may waive the application of paragraph (2)(E)(i) (with respect to crimes of domestic violence and crimes of stalking) and (ii) in the case of an alien who has been battered or subjected to extreme cruelty and who is not and was not the primary perpetrator of violence in the relationship–
+        (i) upon a determination that–
+          (I) the alien was acting is \1\N self-defense;
+          (II) the alien was found to have violated a protection order intended to protect the alien; or
+          (III) the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime–
+            (aa) that did not result in serious bodily injury; and
+            (bb) where there was a connection between the crime and the alien“s having been battered or subjected to extreme cruelty.
+      (B) Credible evidence considered
+         In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
   (b) Deportation of certain nonimmigrants
      An alien, admitted as a nonimmigrant under the provision of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
   (c) Waiver of grounds for deportation
