@@ -32,7 +32,7 @@
     (3) ””monetary instruments““ means–
       (A) United States coins and currency;
       (B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers“ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
-      (C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5333 \1\N and 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+      (C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
     (4) T4Nonfinancial trade or businessK.–The term ””nonfinancial trade or business““ means any trade or business other than a financial institution that is subject to the reporting requirements of section 5313 and regulations prescribed under such section.
     (5) ””person““, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
     (6) ””United States““ means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
@@ -40,5 +40,5 @@
     (1) ””domestic financial agency““ and ””domestic financial institution““ apply to an action in the United States of a financial agency or institution.
     (2) ””foreign financial agency““ and ””foreign financial institution““ apply to an action outside the United States of a financial agency or institution.
   (c) T4Additional DefinitionsK.–For purposes of this subchapter, the following definitions shall apply:
-    (1) \2\N T4Certain institutions included in definitionK.–The term ””financial institution““ (as defined in subsection (a)) includes the following:
-      (A) \3\N Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
+    (1) \1\N T4Certain institutions included in definitionK.–The term ””financial institution““ (as defined in subsection (a)) includes the following:
+      (A) \2\N Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.

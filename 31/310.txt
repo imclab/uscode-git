@@ -24,12 +24,19 @@
       (I) Administer the requirements of subchapter II of chapter 53 of this title, chapter 2 of title I of Public Law 91–508, and section 21 of the Federal Deposit Insurance Act, to the extent delegated such authority by the Secretary of the Treasury.
       (J) Such other duties and powers as the Secretary of the Treasury may delegate or prescribe.
   (c) T4Requirements Relating to Maintenance and Use of Data BanksK.–The Secretary of the Treasury shall establish and maintain operating procedures with respect to the government-wide data access service and the financial crimes communications center maintained by FinCEN which provide–
-    (1) for the coordinated and efficient transmittal of information to, entry of information into, and withdrawal of information from, the data maintenance system maintained by the Network, including–
+    (1) for the coordinated and efficient transmittal of information to, entry of information into, and withdrawal of information from, the data maintenance system maintained by FinCEN, including–
       (A) the submission of reports through the Internet or other secure network, whenever possible;
       (B) the cataloguing of information in a manner that facilitates rapid retrieval by law enforcement personnel of meaningful data; and
       (C) a procedure that provides for a prompt initial review of suspicious activity reports and other reports, or such other means as the Secretary may provide, to identify information that warrants immediate action; and
     (2) in accordance with section 552a of title 5 and the Right to Financial Privacy Act of 1978, appropriate standards and guidelines for determining–
-      (A) who is to be given access to the information maintained by the Network;
+      (A) who is to be given access to the information maintained by FinCEN;
       (B) what limits are to be imposed on the use of such information; and
       (C) how information about activities or relationships which involve or are closely associated with the exercise of constitutional rights is to be screened out of the data maintenance system.
-  (d) T4Authorization of AppropriationsK.–There are authorized to be appropriated for FinCEN such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005.
+  (d) T4Authorization of AppropriationsK.–
+    (1) T4In generalK.–There are authorized to be appropriated for FinCEN such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005.
+    (2) T4Authorization for funding key technological improvements in mission-critical fincen systemsK.–There are authorized to be appropriated for fiscal year 2005 the following amounts, which are authorized to remain available until expended:
+      (A) BSA T4directK.–For technological improvements to provide authorized law enforcement and financial regulatory agencies with Web-based access to FinCEN data, to fully develop and implement the highly secure network required under section 362 of Public Law 107–56 to expedite the filing of, and reduce the filing costs for, financial institution reports, including suspicious activity reports, collected by FinCEN under chapter 53 and related provisions of law, and enable FinCEN to immediately alert financial institutions about suspicious activities that warrant immediate and enhanced scrutiny, and to provide and upgrade advanced information-sharing technologies to materially improve the Government“s ability to exploit the information in the FinCEN data banks, $16,500,000.
+      (B) T4Advanced analytical technologiesK.–To provide advanced analytical tools needed to ensure that the data collected by FinCEN under chapter 53 and related provisions of law are utilized fully and appropriately in safeguarding financial institutions and supporting the war on terrorism, $5,000,000.
+      (C) T4Data networking modernizationK.–To improve the telecommunications infrastructure to support the improved capabilities of the FinCEN systems, $3,000,000.
+      (D) T4Enhanced compliance capabilityK.–To improve the effectiveness of the Office of Compliance in FinCEN, $3,000,000.
+      (E) T4Detection and prevention of financial crimes and terrorismK.–To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
