@@ -1,26 +1,17 @@
-  (a) Establishment
-     There is established in the Treasury of the United States a separate fund to be known as the National Defense Stockpile Transaction Fund (hereinafter in this section referred to as the ””fund““).
-  (b) Fund operations
-    (1) All moneys received from the sale of materials in the stockpile under paragraphs (5) and (6) of section 98e(a) of this title shall be covered into the fund.
-    (2) Subject to section 98d(a)(1) of this title, moneys covered into the fund under paragraph (1) are hereby made available (subject to such limitations as may be provided in appropriation Acts) for the following purposes:
-      (A) The acquisition, maintenance, and disposal of strategic and critical materials under section 98e(a) of this title.
-      (B) Transportation, storage, and other incidental expenses related to such acquisition, maintenance, and disposal.
-      (C) Development of current specifications of stockpile materials and the upgrading of existing stockpile materials to meet current specifications (including transportation, when economical, related to such upgrading).
-      (D) Testing and quality studies of stockpile materials.
-      (E) Studying future material and mobilization requirements for the stockpile.
-      (F) Activities authorized under section 98h–6 of this title.
-      (G) Contracting under competitive procedures for materials development and research to–
-        (i) improve the quality and availability of materials stockpiled from time to time in the stockpile; and
-        (ii) develop new materials for the stockpile.
-      (H) Improvement or rehabilitation of facilities, structures, and infrastructure needed to maintain the integrity of stockpile materials.
-      (I) Disposal of hazardous materials that are stored in the stockpile and authorized for disposal by law.
-      (J) Pay of employees of the National Defense Stockpile program.
-      (K) Other expenses of the National Defense Stockpile program.
-    (3) Moneys in the fund shall remain available until expended.
-  (c) Moneys received from sale of materials being rotated or disposed of
-     All moneys received from the sale of materials being rotated under the provisions of section 98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
-  (d) Effect of bartering
-     If, during a fiscal year, the National Defense Stockpile Manager barters materials in the stockpile for the purpose of acquiring, upgrading, refining, or processing other materials (or for services directly related to that purpose), the contract value of the materials so bartered shall–
-    (1) be applied toward the total value of materials that are authorized to be disposed of from the stockpile during that fiscal year;
-    (2) be treated as an acquisition for purposes of satisfying any requirement imposed on the National Defense Stockpile Manager to enter into obligations during that fiscal year under subsection (b)(2) of this section; and
-    (3) not increase or decrease the balance in the fund.
+  (a) Development, mining, preparation, treatment, and utilization of ores and other mineral substances
+    (1) The President shall make scientific, technologic, and economic investigations concerning the development, mining, preparation, treatment, and utilization of ores and other mineral substances that (A) are found in the United States, or in its territories or possessions, (B) are essential to the national defense, industrial, and essential civilian needs of the United States, and (C) are found in known domestic sources in inadequate quantities or grades.
+    (2) Such investigations shall be carried out in order to–
+      (A) determine and develop new domestic sources of supply of such ores and mineral substances;
+      (B) devise new methods for the treatment and utilization of lower grade reserves of such ores and mineral substances; and
+      (C) develop substitutes for such essential ores and mineral products.
+    (3) Investigations under paragraph (1) may be carried out on public lands and, with the consent of the owner, on privately owned lands for the purpose of exploring and determining the extent and quality of deposits of such minerals, the most suitable methods of mining and beneficiating such minerals, and the cost at which the minerals or metals may be produced.
+  (b) Development of sources of supplies of agricultural materials; use of agricultural commodities for manufacture of materials
+     The President shall make scientific, technologic, and economic investigations of the feasibility of developing domestic sources of supplies of any agricultural material or for using agricultural commodities for the manufacture of any material determined pursuant to section 98b(a) of this title to be a strategic and critical material or substitutes therefor.
+  (c) Development of sources of supply of other materials; development or use of alternative methods for refining or processing materials in stockpile
+     The President shall make scientific, technologic, and economic investigations concerning the feasibility of–
+    (1) developing domestic sources of supply of materials (other than materials referred to in subsections (a) and (b) of this section) determined pursuant to section 98b(a) of this title to be strategic and critical materials; and
+    (2) developing or using alternative methods for the refining or processing of a material in the stockpile so as to convert such material into a form more suitable for use during an emergency or for storage.
+  (d) Grants and contracts to encourage conservation of strategic and critical materials
+     The President shall encourage the conservation of domestic sources of any material determined pursuant to section 98b(a) of this title to be a strategic and critical material by making grants or awarding contracts for research regarding the development of–
+    (1) substitutes for such material; or
+    (2) more efficient methods of production or use of such material.

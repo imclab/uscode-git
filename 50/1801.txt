@@ -1,51 +1,10 @@
-   As used in this subchapter:
-  (a) ””Foreign power““ means–
-    (1) a foreign government or any component thereof, whether or not recognized by the United States;
-    (2) a faction of a foreign nation or nations, not substantially composed of United States persons;
-    (3) an entity that is openly acknowledged by a foreign government or governments to be directed and controlled by such foreign government or governments;
-    (4) a group engaged in international terrorism or activities in preparation therefor;
-    (5) a foreign-based political organization, not substantially composed of United States persons; or
-    (6) an entity that is directed and controlled by a foreign government or governments.
-  (b) ””Agent of a foreign power““ means–
-    (1) any person other than a United States person, who–
-      (A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section;
-      (B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person“s presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities; or
-    (2) any person who–
-      (A) knowingly engages in clandestine intelligence gathering activities for or on behalf of a foreign power, which activities involve or may involve a violation of the criminal statutes of the United States;
-      (B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for or on behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
-      (C) knowingly engages in sabotage or international terrorism, or activities that are in preparation therefor, for or on behalf of a foreign power; or
-      (D) knowingly aids or abets any person in the conduct of activities described in subparagraph (A), (B), or (C) or knowingly conspires with any person to engage in activities described in subparagraph (A), (B), or (C).
-  (c) ””International terrorism““ means activities that–
-    (1) involve violent acts or acts dangerous to human life that are a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or any State;
-    (2) appear to be intended–
-      (A) to intimidate or coerce a civilian population;
-      (B) to influence the policy of a government by intimidation or coercion; or
-      (C) to affect the conduct of a government by assassination or kidnapping; and
-    (3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
-  (d) ””Sabotage““ means activities that involve a violation of chapter 105 of title 18, or that would involve such a violation if committed against the United States.
-  (e) ””Foreign intelligence information““ means–
-    (1) information that relates to, and if concerning a United States person is necessary to, the ability of the United States to protect against–
-      (A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
-      (B) sabotage or international terrorism by a foreign power or an agent of a foreign power; or
-      (C) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power; or
-    (2) information with respect to a foreign power or foreign territory that relates to, and if concerning a United States person is necessary to–
-      (A) the national defense or the security of the United States; or
-      (B) the conduct of the foreign affairs of the United States.
-  (f) ””Electronic surveillance““ means–
-    (1) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire or radio communication sent by or intended to be received by a particular, known United States person who is in the United States, if the contents are acquired by intentionally targeting that United States person, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes;
-    (2) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire communication to or from a person in the United States, without the consent of any party thereto, if such acquisition occurs in the United States;
-    (3) the intentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States; or
-    (4) the installation or use of an electronic, mechanical, or other surveillance device in the United States for monitoring to acquire information, other than from a wire or radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes.
-  (g) ””Attorney General““ means the Attorney General of the United States (or Acting Attorney General) or the Deputy Attorney General.
-  (h) ””Minimization procedures““, with respect to electronic surveillance, means–
-    (1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
-    (2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1) of this section, shall not be disseminated in a manner that identifies any United States person, without such person“s consent, unless such person“s identity is necessary to understand foreign intelligence information or assess its importance;
-    (3) notwithstanding paragraphs (1) and (2), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
-    (4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than twenty-four hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
-      (i) ””United States person““ means a citizen of the United States, an alien lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3) of this section.
-      (j) ””United States““, when used in a geographic sense, means all areas under the territorial sovereignty of the United States and the Trust Territory of the Pacific Islands.
-      (k) ””Aggrieved person““ means a person who is the target of an electronic surveillance or any other person whose communications or activities were subject to electronic surveillance.
-         T3(l)K ””Wire communication““ means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
-  (m) ””Person““ means any individual, including any officer or employee of the Federal Government, or any group, entity, association, corporation, or foreign power.
-  (n) ””Contents““, when used with respect to a communication, includes any information concerning the identity of the parties to such communication or the existence, substance, purport, or meaning of that communication.
-     T3(o)K ””State““ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+  (a) Termination of national emergencies pursuant to National Emergencies Act
+    (1) Except as provided in subsection (b) of this section, notwithstanding the termination pursuant to the National Emergencies Act [50 U.S.C. 1601 et seq.] of a national emergency declared for purposes of this chapter, any authorities granted by this chapter, which are exercised on the date of such termination on the basis of such national emergency to prohibit transactions involving property in which a foreign country or national thereof has any interest, may continue to be so exercised to prohibit transactions involving that property if the President determines that the continuation of such prohibition with respect to that property is necessary on account of claims involving such country or its nationals.
+    (2) Notwithstanding the termination of the authorities described in section 101(b) of this Act, any such authorities, which are exercised with respect to a country on the date of such termination to prohibit transactions involving any property in which such country or any national thereof has any interest, may continue to be exercised to prohibit transactions involving that property if the President determines that the continuation of such prohibition with respect to that property is necessary on account of claims involving such country or its nationals.
+  (b) Congressional termination of national emergencies by concurrent resolution
+     The authorities described in subsection (a)(1) of this section may not continue to be exercised under this section if the national emergency is terminated by the Congress by concurrent resolution pursuant to section 202 of the National Emergencies Act [50 U.S.C. 1622] and if the Congress specifies in such concurrent resolution that such authorities may not continue to be exercised under this section.
+  (c) Supplemental savings provisions; supersedure of inconsistent provisions
+    (1) The provisions of this section are supplemental to the savings provisions of paragraphs (1), (2), and (3) of section 101(a) [50 U.S.C. 1601(a)(1), (2), (3)] and of paragraphs (A), (B), and (C) of section 202(a) [50 U.S.C. 1622(a)(A), (B), and (C)] of the National Emergencies Act.
+    (2) The provisions of this section supersede the termination provisions of section 101(a) [50 U.S.C. 1601(a)] and of title II [50 U.S.C. 1621 et seq.] of the National Emergencies Act to the extent that the provisions of this section are inconsistent with these provisions.
+  (d) Periodic reports to Congress
+     If the President uses the authority of this section to continue prohibitions on transactions involving foreign property interests, he shall report to the Congress every six months on the use of such authority.
