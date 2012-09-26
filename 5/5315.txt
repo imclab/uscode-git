@@ -5,7 +5,7 @@
    Regional Assistant Administrators, Agency for International Development (4).
    Assistant Secretaries of Agriculture (3).
    Assistant Secretaries of Commerce (11).
-   Assistant Secretaries of Defense (12).
+   Assistant Secretaries of Defense (16).
    Assistant Secretaries of the Air Force (4).
    Assistant Secretaries of the Army (5).
    Assistant Secretaries of the Navy (4).
@@ -103,8 +103,6 @@
    Director of Operational Test and Evaluation, Department of Defense.
    Director of Cost Assessment and Program Evaluation, Department of Defense.
    Special Representatives of the President for arms control, nonproliferation, and disarmament matters, Department of State.
-   Director, National Institute of Standards and Technology, Department of Commerce.
-   Director of Defense Research and Engineering.
    Ambassadors at Large.
    Assistant Secretary of Commerce and Director General of the United States and Foreign Commercial Service.
    Assistant Secretaries, Department of Veterans Affairs (7).
@@ -171,5 +169,5 @@
    Principal Deputy Administrator, National Nuclear Security Administration.
    Additional Deputy Administrators of the National Nuclear Security Administration (3), but if the Deputy Administrator for Naval Reactors is an officer of the Navy on active duty, (2).
    Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office.
-   General Counsel of the Office of the National Intelligence Director.
+   General Counsel of the Office of the Director of National Intelligence.
    Chief Medical Officer, Department of Homeland Security.
