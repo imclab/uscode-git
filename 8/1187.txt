@@ -259,9 +259,14 @@
       (A) System
          The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic travel authorization system (referred to in this paragraph as the ””System““) to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the \4\N alien to travel to the United States.
       (B) Fees
-         The Secretary of Homeland Security may charge a fee for the use of the System, which shall be–
-        (i) set at a level that will ensure recovery of the full costs of providing and administering the System; and
-        (ii) available to pay the costs incurred to administer the System.
+        (i) In general
+           No later than 6 months after March 4, 2010, the Secretary of Homeland Security shall establish a fee for the use of the System and begin assessment and collection of that fee. The initial fee shall be the sum of–
+          (I) $10 per travel authorization; and
+          (II) an amount that will at least ensure recovery of the full costs of providing and administering the System, as determined by the Secretary.
+        (ii) Disposition of amounts collected
+           Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
+        (iii) Sunset of Travel Promotion Fund fee
+           The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2015.
       (C) Validity
         (i) Period
            The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination at any time and for any reason.
