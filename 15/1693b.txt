@@ -1,28 +1,34 @@
-  (a) Prescription by Board
-     The Board shall prescribe regulations to carry out the purposes of this subchapter. In prescribing such regulations, the Board shall:
-    (1) consult with the other agencies referred to in section 1693T3oK \1\N of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
-    (2) prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
-    (3) to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
-    (4) any proposed regulations and accompanying analyses shall be sent promptly to Congress by the Board.
+  (a) Prescription by the Bureau and the Board
+    (1) In general
+       Except as provided in paragraph (2), the Bureau shall prescribe rules to carry out the purposes of this subchapter.
+    (2) Authority of the Board
+       The Board shall have sole authority to prescribe rules–
+      (A) to carry out the purposes of this subchapter with respect to a person described in section 5519(a) of title 12; and
+      (B) to carry out the purposes of section 1693T3oK–2 of this title.
+         In prescribing such regulations, the Board shall:
+        (1) \1\N consult with the other agencies referred to in section 1693T3oK \2\N of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
+        (2) \1\ prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
+        (3) \1\ to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
+        (4) \1\ any proposed regulations and accompanying analyses shall be sent promptly to Congress by the Board.
   (b) Issuance of model clauses
-     The Board shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Board shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+     The Bureau shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
   (c) Criteria; modification of requirements
-     Regulations prescribed hereunder may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of electronic fund transfers or remittance transfers, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith. The Board shall by regulation modify the requirements imposed by this subchapter on small financial institutions if the Board determines that such modifications are necessary to alleviate any undue compliance burden on small financial institutions and such modifications are consistent with the purpose and objective of this subchapter.
+     Regulations prescribed hereunder may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of electronic fund transfers or remittance transfers, as in the judgment of the Bureau are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith. The Bureau shall by regulation modify the requirements imposed by this subchapter on small financial institutions if the Bureau determines that such modifications are necessary to alleviate any undue compliance burden on small financial institutions and such modifications are consistent with the purpose and objective of this subchapter.
   (d) Applicability to service providers other than certain financial institutions
     (1) In general
-       If electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer“s account, the Board shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapter are made applicable to such persons and services.
+       If electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer“s account, the Bureau shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapter are made applicable to such persons and services.
     (2) State and local government electronic benefit transfer systems
       (A) ””Electronic benefit transfer system““ defined
          In this paragraph, the term ””electronic benefit transfer system““–
         (i) means a system under which a government agency distributes needs-tested benefits by establishing accounts that may be accessed by recipients electronically, such as through automated teller machines or point-of-sale terminals; and
         (ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by a Federal, State, or local government agency.
       (B) Exemption generally
-         The disclosures, protections, responsibilities, and remedies established under this subchapter, and any regulation prescribed or order issued by the Board in accordance with this subchapter, shall not apply to any electronic benefit transfer system established under State or local law or administered by a State or local government.
+         The disclosures, protections, responsibilities, and remedies established under this subchapter, and any regulation prescribed or order issued by the Bureau in accordance with this subchapter, shall not apply to any electronic benefit transfer system established under State or local law or administered by a State or local government.
       (C) Exception for direct deposit into recipient“s account
          Subparagraph (B) shall not apply with respect to any electronic funds transfer under an electronic benefit transfer system for a deposit directly into a consumer account held by the recipient of the benefit.
       (D) Rule of construction
          No provision of this paragraph–
-        (i) affects or alters the protections otherwise applicable with respect to benefits established by any other provision \2\N Federal, State, or local law; or
+        (i) affects or alters the protections otherwise applicable with respect to benefits established by any other provision \3\N Federal, State, or local law; or
         (ii) otherwise supersedes the application of any State or local law.
     (3) Fee disclosures at automated teller machines
       (A) In general
@@ -48,3 +54,7 @@
            The term ””electronic fund transfer““ includes a transaction that involves a balance inquiry initiated by a consumer in the same manner as an electronic fund transfer, whether or not the consumer initiates a transfer of funds in the course of the transaction.
         (iii) Host transfer services
            The term ””host transfer services““ means any electronic fund transfer made by an automated teller machine operator in connection with a transaction initiated by a consumer at an automated teller machine operated by such operator.
+  (e) Deference
+     No provision of this subchapter may be construed as altering, limiting, or otherwise affecting the deference that a court affords to–
+    (1) the Bureau in making determinations regarding the meaning or interpretation of any provision of this subchapter for which the Bureau has authority to prescribe regulations; or
+    (2) the Board in making determinations regarding the meaning or interpretation of section 1693T3oK–2 of this title.

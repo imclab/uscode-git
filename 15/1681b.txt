@@ -25,7 +25,7 @@
       (A) the person who obtains such report from the agency certifies to the agency that–
         (i) the person has complied with paragraph (2) with respect to the consumer report, and the person will comply with paragraph (3) with respect to the consumer report if paragraph (3) becomes applicable; and
         (ii) information from the consumer report will not be used in violation of any applicable Federal or State equal employment opportunity law or regulation; and
-      (B) the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer“s rights under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) \1\N of this title.
+      (B) the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer“s rights under this subchapter, as prescribed by the Bureau under section 1681g(c)(3) \1\N of this title.
     (2) Disclosure to consumer
       (A) In general
          Except as provided in subparagraph (B), a person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless–
@@ -33,7 +33,7 @@
         (ii) the consumer has authorized in writing (which authorization may be made on the document referred to in clause (i)) the procurement of the report by that person.
       (B) Application by mail, telephone, computer, or other similar means
          If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, at any time before a consumer report is procured or caused to be procured in connection with that application–
-        (i) the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, by oral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer“s rights under section 1681m(a)(3) of this title; and
+        (i) the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, by oral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer“s rights under section 1681m(a)(3) \1\ of this title; and
         (ii) the consumer shall have consented, orally, in writing, or electronically to the procurement of the report by that person.
       (C) Scope
          Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer“s application for employment only if–
@@ -43,14 +43,14 @@
       (A) In general
          Except as provided in subparagraph (B), in using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates–
         (i) a copy of the report; and
-        (ii) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) \1\ of this title.
+        (ii) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Bureau under section 1681g(c)(3) \1\ of this title.
       (B) Application by mail, telephone, computer, or other similar means
         (i) If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, and if a person who has procured a consumer report on the consumer for employment purposes takes adverse action on the employment application based in whole or in part on the report, then the person must provide to the consumer to whom the report relates, in lieu of the notices required under subparagraph (A) of this section and under section 1681m(a) of this title, within 3 business days of taking such action, an oral, written or electronic notification–
           (I) that adverse action has been taken based in whole or in part on a consumer report received from a consumer reporting agency;
           (II) of the name, address and telephone number of the consumer reporting agency that furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
           (III) that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide to the consumer the specific reasons why the adverse action was taken; and
           (IV) that the consumer may, upon providing proper identification, request a free copy of a report and may dispute with the consumer reporting agency the accuracy or completeness of any information in a report.
-        (ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer“s request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer“s rights as prescribed by the Federal Trade Commission under section 1681g(c)(3) \1\ of this title.
+        (ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer“s request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer“s rights as prescribed by the Bureau under section 1681g(c)(3) \1\ of this title.
       (C) Scope
          Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer“s application for employment only if–
         (i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
@@ -143,14 +143,12 @@
     (3) Actions authorized by Federal law, insurance activities and regulatory determinations
        Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed–
       (A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
-      (B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,\2\N or described in section 6802(e) of this title; or
-      (C) as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title,\3\N or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).
+      (B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,\1\ or described in section 6802(e) of this title; or
+      (C) as otherwise determined to be necessary and appropriate, by regulation or order, by the Bureau or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).
     (4) Limitation on redisclosure of medical information
        Any person that receives medical information pursuant to paragraph (1) or (3) shall not disclose such information to any other person, except as necessary to carry out the purpose for which the information was initially disclosed, or as otherwise permitted by statute, regulation, or order.
     (5) Regulations and effective date for paragraph (2)
-      (A) Regulations required
-         Each Federal banking agency and the National Credit Union Administration shall, subject to paragraph (6) and after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
-      (B) Final regulations required
-         The Federal banking agencies and the National Credit Union Administration shall issue the regulations required under subparagraph (A) in final form before the end of the 6-month period beginning on December 4, 2003.
+      (A) \2\N Regulations required
+         The Bureau may, after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
     (6) Coordination with other laws
        No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.

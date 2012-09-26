@@ -19,34 +19,34 @@
   (b) Exempt information
      The requirements of subsection (a) of this section respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
   (c) Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores
-    (1) Commission summary of rights required
+    (1) Commission \2\N summary of rights required
       (A) In general
-         The Commission shall prepare a model summary of the rights of consumers under this subchapter.
+         The Commission \2\ shall prepare a model summary of the rights of consumers under this subchapter.
       (B) Content of summary
          The summary of rights prepared under subparagraph (A) shall include a description of–
         (i) the right of a consumer to obtain a copy of a consumer report under subsection (a) of this section from each consumer reporting agency;
         (ii) the frequency and circumstances under which a consumer is entitled to receive a consumer report without charge under section 1681j of this title;
         (iii) the right of a consumer to dispute information in the file of the consumer under section 1681i of this title;
         (iv) the right of a consumer to obtain a credit score from a consumer reporting agency, and a description of how to obtain a credit score;
-        (v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Commission prescribed under section 211(c) \1\ of the Fair and Accurate Credit Transactions Act of 2003; and
-        (vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) of this title, as provided in the regulations of the Commission prescribed under section 1681j(a)(1)(C) of this title.
+        (v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Bureau prescribed under section 211(c) \1\ of the Fair and Accurate Credit Transactions Act of 2003; and
+        (vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) \1\ of this title, as provided in the regulations of the Bureau prescribed under section 1681j(a)(1)(C) of this title.
       (C) Availability of summary of rights
-         The Commission shall–
+         The Commission \2\ shall–
         (i) actively publicize the availability of the summary of rights prepared under this paragraph;
         (ii) conspicuously post on its Internet website the availability of such summary of rights; and
         (iii) promptly make such summary of rights available to consumers, on request.
     (2) Summary of rights required to be included with agency disclosures
        A consumer reporting agency shall provide to a consumer, with each written disclosure by the agency to the consumer under this section–
-      (A) the summary of rights prepared by the Commission under paragraph (1);
+      (A) the summary of rights prepared by the Bureau under paragraph (1);
       (B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
       (C) a list of all Federal agencies responsible for enforcing any provision of this subchapter, and the address and any appropriate phone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
       (D) a statement that the consumer may have additional rights under State law, and that the consumer may wish to contact a State or local consumer protection agency or a State attorney general (or the equivalent thereof) to learn of those rights; and
       (E) a statement that a consumer reporting agency is not required to remove accurate derogatory information from the file of a consumer, unless the information is outdated under section 1681c of this title or cannot be verified.
   (d) Summary of rights of identity theft victims
     (1) In general
-       The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+       The Commission,\2\ in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
     (2) Summary of rights and contact information
-       Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Commission pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Commission under paragraph (1), and information on how to contact the Commission to obtain more detailed information.
+       Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Bureau pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Bureau under paragraph (1), and information on how to contact the Bureau to obtain more detailed information.
   (e) Information available to victims
     (1) In general
        For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to–
@@ -62,8 +62,8 @@
       (B) as proof of a claim of identity theft, at the election of the business entity–
         (i) a copy of a police report evidencing the claim of the victim of identity theft; and
         (ii) a properly completed–
-          (I) copy of a standardized affidavit of identity theft developed and made available by the Commission; or
-          (II) an \2\N affidavit of fact that is acceptable to the business entity for that purpose.
+          (I) copy of a standardized affidavit of identity theft developed and made available by the Bureau; or
+          (II) an \3\N affidavit of fact that is acceptable to the business entity for that purpose.
     (3) Procedures
        The request of a victim under paragraph (1) shall–
       (A) be in writing;
@@ -136,7 +136,7 @@
       (A) supply the consumer with a credit score that is derived from a credit scoring model that is widely distributed to users by that consumer reporting agency in connection with residential real property loans or with a credit score that assists the consumer in understanding the credit scoring assessment of the credit behavior of the consumer and predictions about the future credit behavior of the consumer; and
       (B) a statement indicating that the information and credit scoring model may be different than that used by the lender.
     (8) Fair and reasonable fee
-       A consumer reporting agency may charge a fair and reasonable fee, as determined by the Commission, for providing the information required under this subsection.
+       A consumer reporting agency may charge a fair and reasonable fee, as determined by the Bureau, for providing the information required under this subsection.
     (9) Use of enquiries as a key factor
        If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
   (g) Disclosure of credit scores by certain mortgage lenders

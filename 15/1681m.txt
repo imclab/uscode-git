@@ -1,11 +1,14 @@
   (a) Duties of users taking adverse actions on basis of information contained in consumer reports
      If any person takes any adverse action with respect to any consumer that is based in whole or in part on any information contained in a consumer report, the person shall–
     (1) provide oral, written, or electronic notice of the adverse action to the consumer;
-    (2) provide to the consumer orally, in writing, or electronically–
+    (2) provide to the consumer written or electronic disclosure–
+      (A) of a numerical credit score as defined in section 1681g(f)(2)(A) of this title used by such person in taking any adverse action based in whole or in part on any information in a consumer report; and
+      (B) of the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title;
+    (3) provide to the consumer orally, in writing, or electronically–
       (A) the name, address, and telephone number of the consumer reporting agency (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis) that furnished the report to the person; and
       (B) a statement that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide the consumer the specific reasons why the adverse action was taken; and
-    (3) provide to the consumer an oral, written, or electronic notice of the consumer“s right–
-      (A) to obtain, under section 1681j of this title, a free copy of a consumer report on the consumer from the consumer reporting agency referred to in paragraph (2), which notice shall include an indication of the 60-day period under that section for obtaining such a copy; and
+    (4) provide to the consumer an oral, written, or electronic notice of the consumer“s right–
+      (A) to obtain, under section 1681j of this title, a free copy of a consumer report on the consumer from the consumer reporting agency referred to in paragraph (3), which notice shall include an indication of the 60-day period under that section for obtaining such a copy; and
       (B) to dispute, under section 1681i of this title, with a consumer reporting agency the accuracy or completeness of any information in a consumer report furnished by the agency.
   (b) Adverse action based on information obtained from third parties other than consumer reporting agencies
     (1) In general
@@ -38,14 +41,14 @@
     (2) Disclosure of address and telephone number; format
        A statement under paragraph (1) shall–
       (A) include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title; and
-      (B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Commission, by rule, in consultation with the Federal banking agencies and the National Credit Union Administration.
+      (B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Bureau, by rule, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration.
     (3) Maintaining criteria on file
        A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
     (4) Authority of Federal agencies regarding unfair or deceptive acts or practices not affected
        This section is not intended to affect the authority of any Federal or State agency to enforce a prohibition against unfair or deceptive acts or practices, including the making of false or misleading statements in connection with a credit or insurance transaction that is not initiated by the consumer.
   (e) Red flag guidelines and regulations required
     (1) Guidelines
-       The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title–
+       The Federal banking agencies, the National Credit Union Administration, the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title–
       (A) establish and maintain guidelines for use by each financial institution and each creditor regarding identity theft with respect to account holders at, or customers of, such entities, and update such guidelines as often as necessary;
       (B) prescribe regulations requiring each financial institution and each creditor to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A), to identify possible risks to account holders or customers or to the safety and soundness of the institution or customers; and
       (C) prescribe regulations applicable to card issuers to ensure that, if a card issuer receives notification of a change of address for an existing account, and within a short period of time (during at least the first 30 days after such notification is received) receives a request for an additional or replacement card for the same account, the card issuer may not issue the additional or replacement card, unless the card issuer, in accordance with reasonable policies and procedures–
@@ -96,11 +99,14 @@
        A notice under this subsection shall, at a minimum–
       (A) include a statement informing the consumer that the terms offered to the consumer are set based on information from a consumer report;
       (B) identify the consumer reporting agency furnishing the report;
-      (C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge; and
-      (D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title).
+      (C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge;
+      (D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
+      (E) include a statement informing the consumer of–
+        (i) a numerical credit score as defined in section 1681g(f)(2)(A) of this title, used by such person in making the credit decision described in paragraph (1) based in whole or in part on any information in a consumer report; and
+        (ii) the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title.
     (6) Rulemaking
       (A) Rules required
-         The Commission and the Board shall jointly prescribe rules.
+         The Bureau shall prescribe rules to carry out this subsection.
       (B) Content
          Rules required by subparagraph (A) shall address, but are not limited to–
         (i) the form, content, time, and manner of delivery of any notice under this subsection;

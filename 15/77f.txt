@@ -1,40 +1,22 @@
   (a) Method of registration
      Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
   (b) Registration fee
-    (1) Recovery of cost of services
-       The Commission shall, in accordance with this subsection, collect registration fees that are designed to recover the costs to the government of the securities registration process, and costs related to such process, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.
-    (2) Fee payment required
-       At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (5) or (6).
-    (3) Offsetting collections
-       Fees collected pursuant to this subsection for any fiscal year–
-      (A) shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission; and
-      (B) except as provided in paragraph (9), shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
-    (4) General revenues prohibited
-       No fees collected pursuant to this subsection for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
-    (5) Annual adjustment
-       For each of the fiscal years 2003 through 2011, the Commission shall by order adjust the rate required by paragraph (2) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate fee collections under this subsection that are equal to the target offsetting collection amount for such fiscal year.
-    (6) Final rate adjustment
-       For fiscal year 2012 and all of the succeeding fiscal years, the Commission shall by order adjust the rate required by paragraph (2) for all of such fiscal years to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for fiscal year 2012, is reasonably likely to produce aggregate fee collections under this subsection in fiscal year 2012 equal to the target offsetting collection amount for fiscal year 2011.
-    (7) Pro rata application
+    (1) Fee payment required
+       At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
+    (2) Annual adjustment
+       For each fiscal year, the Commission shall by order adjust the rate required by paragraph (1) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate fee collections under this subsection that are equal to the target fee collection amount for such fiscal year.
+    (3) Pro rata application
        The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
-    (8) Review and effective date
-       In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (5) or (6) and published under paragraph (10) shall not be subject to judicial review. Subject to paragraphs (3)(B) and (9)–
-      (A) an adjusted rate prescribed under paragraph (5) shall take effect on the later of–
-        (i) the first day of the fiscal year to which such rate applies; or
-        (ii) five days after the date on which a regular appropriation to the Commission for such fiscal year is enacted; and
-      (B) an adjusted rate prescribed under paragraph (6) shall take effect on the later of–
-        (i) the first day of fiscal year 2012; or
-        (ii) five days after the date on which a regular appropriation to the Commission for fiscal year 2012 is enacted.
-    (9) Lapse of appropriation
-       If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this subsection at the rate in effect during the preceding fiscal year, until 5 days after the date such a regular appropriation is enacted.
-    (10) Publication
-       The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) \1\N of this title for each fiscal year not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
-    (11) Definitions
+    (4) Review and effective date
+       In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (2) and published under paragraph (5) shall not be subject to judicial review. An adjusted rate prescribed under paragraph (2) shall take effect on the first day of the fiscal year to which such rate applies.
+    (5) Publication
+       The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) \1\N of this title for each fiscal year not later than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
+    (6) Definitions
        For purposes of this subsection:
-      (A) Target offsetting collection amount
-         The target offsetting collection amount for each of the fiscal years 2002 through 2011 is determined according to the following table:
+      (A) Target fee collection amount
+         The target fee collection amount for each fiscal year is determined according to the following table:
           
-         T2Target offsetting
+         T2Target fee
          T2Fiscal year:
          T2collection amount
           2002
@@ -57,6 +39,26 @@
          $334,000,000
           2011
          $394,000,000
+          2012
+         $425,000,000
+          2013
+         $455,000,000
+          2014
+         $485,000,000
+          2015
+         $515,000,000
+          2016
+         $550,000,000
+          2017
+         $585,000,000
+          2018
+         $620,000,000
+          2019
+         $660,000,000
+          2020
+         $705,000,000
+          2021 and each fiscal year thereafter
+         An amount that is equal to the target fee collection amount for the prior fiscal year, adjusted by the rate of inflation.
       (B) Baseline estimate of the aggregate maximum offering prices
          The baseline estimate of the aggregate maximum offering prices for any fiscal year is the baseline estimate of the aggregate maximum offering price at which securities are proposed to be offered pursuant to registration statements filed with the Commission during such fiscal year as determined by the Commission, after consultation with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for projections pursuant to section 907 of title 2.
   (c) Time registration effective

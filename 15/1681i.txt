@@ -66,20 +66,20 @@
      Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) of this section to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
   (e) Treatment of complaints and report to Congress
     (1) In general
-       The Commission shall–
+       The Commission \1\N shall–
       (A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
       (B) transmit each such complaint to each consumer reporting agency involved.
     (2) Exclusion
-       Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act [15 U.S.C. 41 et seq.] shall not be subject to paragraph (1).
+       Complaints received or obtained by the Bureau pursuant to its investigative authority under the Consumer Financial Protection Act of 2010 shall not be subject to paragraph (1).
     (3) Agency responsibilities
-       Each consumer reporting agency described in section 1681a(p) of this title that receives a complaint transmitted by the Commission pursuant to paragraph (1) shall–
+       Each consumer reporting agency described in section 1681a(p) of this title that receives a complaint transmitted by the Bureau pursuant to paragraph (1) shall–
       (A) review each such complaint to determine whether all legal obligations imposed on the consumer reporting agency under this subchapter (including any obligation imposed by an applicable court or administrative order) have been met with respect to the subject matter of the complaint;
-      (B) provide reports on a regular basis to the Commission regarding the determinations of and actions taken by the consumer reporting agency, if any, in connection with its review of such complaints; and
+      (B) provide reports on a regular basis to the Bureau regarding the determinations of and actions taken by the consumer reporting agency, if any, in connection with its review of such complaints; and
       (C) maintain, for a reasonable time period, records regarding the disposition of each such complaint that is sufficient to demonstrate compliance with this subsection.
     (4) Rulemaking authority
-       The Commission may prescribe regulations, as appropriate to implement this subsection.
+       The Commission \1\ may prescribe regulations, as appropriate to implement this subsection.
     (5) Annual report
-       The Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Commission under this subsection.
+       The Commission \1\ shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Bureau under this subsection.
   (f) Reinvestigation requirement applicable to resellers
     (1) Exemption from general reinvestigation requirement
        Except as provided in paragraph (2), a reseller shall be exempt from the requirements of this section.

@@ -13,7 +13,7 @@
        With respect to loans made, guaranteed, or insured by Federal departments or agencies identified in subsection (b)(3)(B)(ii), such departments or agencies may exempt refinancings under a streamlined refinancing from this income verification requirement as long as the following conditions are met:
       (A) The consumer is not 30 days or more past due on the prior existing residential mortgage loan.
       (B) The refinancing does not increase the principal balance outstanding on the prior existing residential mortgage loan, except to the extent of fees and charges allowed by the department or agency making, guaranteeing, or insuring the refinancing.
-      (C) Total points and fees (as defined in section 1602(aa)(4) of this title, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator) payable in connection with the refinancing do not exceed 3 percent of the total new loan amount.
+      (C) Total points and fees (as defined in section 1602(aa)(4) \1\N of this title, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator) payable in connection with the refinancing do not exceed 3 percent of the total new loan amount.
       (D) The interest rate on the refinanced loan is lower than the interest rate of the original loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
       (E) The refinancing is subject to a payment schedule that will fully amortize the refinancing in accordance with the regulations prescribed by the department or agency making, guaranteeing, or insuring the refinancing.
       (F) The terms of the refinancing do not result in a balloon payment, as defined in subsection (b)(2)(A)(ii).
@@ -60,10 +60,10 @@
         (viii) for which the term of the loan does not exceed 30 years, except as such term may be extended under paragraph (3), such as in high-cost areas; and
         (ix) in the case of a reverse mortgage (except for the purposes of subsection (a) of this section, to the extent that such mortgages are exempt altogether from those requirements), a reverse mortgage which meets the standards for a qualified mortgage, as set by the Bureau in rules that are consistent with the purposes of this subsection.
       (B) Average prime offer rate
-         The term ””average prime offer rate““ means the average prime offer rate for a comparable transaction as of the date on which the interest rate for the transaction is set, as published by the Bureau..\1\N
+         The term ””average prime offer rate““ means the average prime offer rate for a comparable transaction as of the date on which the interest rate for the transaction is set, as published by the Bureau..\2\N
       (C) Points and fees
         (i) In general
-           For purposes of subparagraph (A), the term ””points and fees““ means points and fees as defined by section 1602(aa)(4) of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
+           For purposes of subparagraph (A), the term ””points and fees““ means points and fees as defined by section 1602(aa)(4) \1\ of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
         (ii) Computation
            For purposes of computing the total points and fees under this subparagraph, the total points and fees shall exclude either of the amounts described in the following subclauses, but not both:
           (I) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage“s interest rate will be discounted does not exceed by more than 1 percentage point the average prime offer rate.
@@ -94,7 +94,7 @@
            The following agencies shall, in consultation with the Bureau, prescribe rules defining the types of loans they insure, guarantee, or administer, as the case may be, that are qualified mortgages for purposes of paragraph (2)(A), and such rules may revise, add to, or subtract from the criteria used to define a qualified mortgage under paragraph (2)(A), upon a finding that such rules are consistent with the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections:
           (I) The Department of Housing and Urban Development, with regard to mortgages insured under the National Housing Act [12 U.S.C. 1701 et seq.].
           (II) The Department of Veterans Affairs, with regard to a loan made or guaranteed by the Secretary of Veterans Affairs.
-          (III) The Department of Agriculture, with regard \2\N loans guaranteed by the Secretary of Agriculture pursuant to section 1472(h) of title 42.
+          (III) The Department of Agriculture, with regard \3\N loans guaranteed by the Secretary of Agriculture pursuant to section 1472(h) of title 42.
           (IV) The Rural Housing Service, with regard to loans insured by the Rural Housing Service.
   (c) Prohibition on certain prepayment penalties
     (1) Prohibited on certain loans
