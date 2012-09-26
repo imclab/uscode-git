@@ -4,10 +4,11 @@
     (B) an entity organized or existing under the laws of the United States or a State; or
     (C) an entity organized or existing under the laws of a foreign country if the controlling interest (as defined by the Secretary of Transportation) is held by an individual or entity described in subclause (A) or (B) of this clause.
   (2) ””executive agency““ has the same meaning given that term in section 105 of title 5.
-  (3) ””launch““ means to place or try to place a launch vehicle and any payload–
+  (3) ””launch““ means to place or try to place a launch vehicle or reentry vehicle and any payload from Earth–
     (A) in a suborbital trajectory;
     (B) in Earth orbit in outer space; or
-    (C) otherwise in outer space.
+    (C) otherwise in outer space,
+   including activities involved in the preparation of a launch vehicle or payload for launch, when those activities take place at a launch site in the United States.
   (4) ””launch property““ means an item built for, or used in, the launch preparation or launch of a launch vehicle.
   (5) ””launch services““ means–
     (A) activities involved in the preparation of a launch vehicle and payload for launch; and
@@ -16,12 +17,18 @@
   (7) ””launch vehicle““ means–
     (A) a vehicle built to operate in, or place a payload in, outer space; and
     (B) a suborbital rocket.
-  (8) ””payload““ means an object that a person undertakes to place in outer space by means of a launch vehicle, including components of the vehicle specifically designed or adapted for that object.
+  (8) ””payload““ means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
   (9) ””person““ means an individual and an entity organized or existing under the laws of a State or country.
-  (10) ””State““ means a State of the United States, the District of Columbia, and a territory or possession of the United States.
-  (11) ””third party““ means a person except–
-    (A) the United States Government or the Government“s contractors or subcontractors involved in launch services;
+  (10) ””reenter““ and ””reentry““ mean to return or attempt to return, purposefully, a reentry vehicle and its payload, if any, from Earth orbit or from outer space to Earth.
+  (11) ””reentry services““ means–
+    (A) activities involved in the preparation of a reentry vehicle and its payload, if any, for reentry; and
+    (B) the conduct of a reentry.
+  (12) ””reentry site““ means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
+  (13) ””reentry vehicle““ means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
+  (14) ””State““ means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+  (15) ””third party““ means a person except–
+    (A) the United States Government or the Government“s contractors or subcontractors involved in launch services or reentry services;
     (B) a licensee or transferee under this chapter;
-    (C) a licensee“s or transferee“s contractors, subcontractors, or customers involved in launch services; or
-    (D) the customer“s contractors or subcontractors involved in launch services.
-  (12) ””United States““ means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+    (C) a licensee“s or transferee“s contractors, subcontractors, or customers involved in launch services or reentry services; or
+    (D) the customer“s contractors or subcontractors involved in launch services or reentry services.
+  (16) ””United States““ means the States of the United States, the District of Columbia, and the territories and possessions of the United States.

@@ -1,3 +1,77 @@
-  (a) T4General AuthorityK.–The Secretary of Transportation may make grants under this section to be used only for capital projects (including capital maintenance items).
-  (b) T4Application of Other SectionsK.–(1) Sections 5307(a)–(d), (h)–(T3lK), and (n) and 5336(a)–(c), (f), (g), and (j) of this title apply to amounts made available under section 5338(a) of this title to carry out this section.
-  (2) Sections 5307(e) and 5336(d) of this title apply to grants under this section.
+  (a) T4DefinitionsK.–In this section–
+    (1) the term ””clean fuel vehicle““ means a vehicle that–
+      (A) is powered by–
+        (i) compressed natural gas;
+        (ii) liquefied natural gas;
+        (iii) biodiesel fuels;
+        (iv) batteries;
+        (v) alcohol-based fuels;
+        (vi) hybrid electric;
+        (vii) fuel cell;
+        (viii) clean diesel, to the extent allowed under this section; or
+        (ix) other low or zero emissions technology; and
+      (B) the Administrator of the Environmental Protection Agency has certified sufficiently reduces harmful emissions;
+    (2) the term ””designated recipient““ has the same meaning as in section 5307(a)(2); and
+    (3) the term ””eligible project““–
+      (A) means a project for–
+        (i) purchasing or leasing clean fuel buses, including buses that employ a lightweight composite primary structure;
+        (ii) constructing or leasing clean fuel buses or electrical recharging facilities and related equipment;
+        (iii) improving existing mass transportation facilities to accommodate clean fuel buses;
+        (iv) repowering pre-1993 engines with clean fuel technology that meets the current urban bus emission standards; or
+        (v) retrofitting or rebuilding pre-1993 engines if before half life to rebuild; and
+      (B) in the discretion of the Secretary, may include projects relating to clean fuel, biodiesel, hybrid electric, or zero emissions technology vehicles that exhibit equivalent or superior emissions reductions to existing clean fuel or hybrid electric technologies.
+  (b) T4AuthorityK.–The Secretary shall make grants in accordance with this section to designated recipients to finance eligible projects.
+  (c) T4Application.–
+    (1) T4In generalK.–Not later than January 1 of each year, any designated recipient seeking to apply for a grant under this section for an eligible project shall submit an application to the Secretary, in such form and in accordance with such requirements as the Secretary shall establish by regulation.
+    (2) T4Certification requiredK.–An application submitted under paragraph (1) shall contain a certification by the applicant that the grantee will operate vehicles purchased with a grant under this section only with clean fuels.
+  (d) T4Apportionment of Funds.–
+    (1) T4FormulaK.–Not later than February 1 of each year, the Secretary shall apportion amounts made available to carry out this section to designated recipients submitting applications under subsection (c), of which–
+      (A) two-thirds shall be apportioned to designated recipients with eligible projects in urban areas with a population of at least 1,000,000, of which–
+        (i) 50 percent shall be apportioned, such that each such designated recipient receives a grant in an amount equal to the ratio between–
+          (I) the number of vehicles in the bus fleet of the eligible project of the designated recipient, weighted by severity of nonattainment for the area in which the eligible project is located, as provided in paragraph (2); and
+          (II) the total number of vehicles in the bus fleets of all eligible projects in areas with a population of at least 1,000,000 funded under this section, weighted by severity of nonattainment for all areas in which those eligible projects are located, as provided in paragraph (2); and
+        (ii) 50 percent shall be apportioned, such that each such designated recipient receives a grant in an amount equal to the ratio between–
+          (I) the number of bus passenger miles (as that term is defined in section 5336(c)) of the eligible project of the designated recipient, weighted by severity of nonattainment of the area in which the eligible project is located, as provided in paragraph (2); and
+          (II) the total number of bus passenger miles of all eligible projects in areas with a population of at least 1,000,000 funded under this section, weighted by severity of nonattainment of all areas in which those eligible projects are located, as provided in paragraph (2); and
+      (B) one-third shall be apportioned to designated recipients with eligible projects in urban areas with a population of less than 1,000,000, of which–
+        (i) 50 percent shall be apportioned, such that each such designated recipient receives a grant in an amount equal to the ratio between–
+          (I) the number of vehicles in the bus fleet of the eligible project of the designated recipient, weighted by severity of nonattainment for the area in which the eligible project is located, as provided in paragraph (2); and
+          (II) the total number of vehicles in the bus fleets of all eligible projects in areas with a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment for all areas in which those eligible projects are located, as provided in paragraph (2); and
+        (ii) 50 percent shall be apportioned, such that each such designated recipient receives a grant in an amount equal to the ratio between–
+          (I) the number of bus passenger miles (as that term is defined in section 5336(c)) of the eligible project of the designated recipient, weighted by severity of nonattainment of the area in which the eligible project is located, as provided in paragraph (2); and
+          (II) the total number of bus passenger miles of all eligible projects in areas with a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment of all areas in which those eligible projects are located, as provided in paragraph (2).
+    (2) T4Weighting of severity of nonattainment.–
+      (A) T4In generalK.–For purposes of paragraph (1), subject to subparagraph (B) of this paragraph, the number of clean fuel vehicles in the fleet, or the number of passenger miles, shall be multiplied by a factor of–
+        (i) 1.0 if, at the time of the apportionment, the area is a maintenance area (as that term is defined in section 101 of title 23) for ozone or carbon monoxide;
+        (ii) 1.1 if, at the time of the apportionment, the area is classified as–
+          (I) a marginal ozone nonattainment area under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.); or
+          (II) a marginal carbon monoxide nonattainment area under subpart 3 of part D of title I of the Clean Air Act (42 U.S.C. 7512 et seq.);
+        (iii) 1.2 if, at the time of the apportionment, the area is classified as–
+          (I) a moderate ozone nonattainment area under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.); or
+          (II) a moderate carbon monoxide nonattainment area under subpart 3 of part D of title I of the Clean Air Act (42 U.S.C. 7512 et seq.);
+        (iv) 1.3 if, at the time of the apportionment, the area is classified as–
+          (I) a serious ozone nonattainment area under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.); or
+          (II) a serious carbon monoxide nonattainment area under subpart 3 of part D of title I of the Clean Air Act (42 U.S.C. 7512 et seq.);
+        (v) 1.4 if, at the time of the apportionment, the area is classified as–
+          (I) a severe ozone nonattainment area under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.); or
+          (II) a severe carbon monoxide nonattainment area under subpart 3 of part D of title I of the Clean Air Act (42 U.S.C. 7512 et seq.); or
+        (vi) 1.5 if, at the time of the apportionment, the area is classified as–
+          (I) an extreme ozone nonattainment area under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.); or
+          (II) an extreme carbon monoxide nonattainment area under subpart 3 of part D of title I of the Clean Air Act (42 U.S.C. 7512 et seq.).
+      (B) T4Additional adjustment for carbon monoxide areasK.–If, in addition to being classified as a nonattainment or maintenance area (as that term is defined in section 101 of title 23) for ozone under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.), the area was also classified under subpart 3 of part D of title I of that Act (42 U.S.C. 7512 et seq.) as a nonattainment area for carbon monoxide, the weighted nonattainment or maintenance area fleet and passenger miles for the eligible project, as calculated under subparagraph (A), shall be further multiplied by a factor of 1.2.
+    (3) T4Maximum grant amount.–
+      (A) T4In generalK.–The amount of a grant made to a designated recipient under this section shall not exceed the lesser of–
+        (i) for an eligible project in an area–
+          (I) with a population of less than 1,000,000, $15,000,000; and
+          (II) with a population of at least 1,000,000, $25,000,000; or
+        (ii) 80 percent of the total cost of the eligible project.
+      (B) T4ReapportionmentK.–Any amounts that would otherwise be apportioned to a designated recipient under this subsection that exceed the amount described in subparagraph (A) shall be reapportioned among other designated recipients in accordance with paragraph (1).
+  (e) T4Additional Requirements.–
+    (1) T4Limitation on usesK.–Not less than 5 percent of the amount made available by or appropriated under section 5338 in each fiscal year to carry out this section shall be available for any eligible projects for which an application is received from a designated recipient, for–
+      (A) the purchase or construction of hybrid electric or battery-powered buses; or
+      (B) facilities specifically designed to service those buses.
+    (2) T4Clean diesel busesK.–Not more than 35 percent of the amount made available by or appropriated under section 5338 in each fiscal year to carry out this section may be made available to fund clean diesel buses.
+    (3) T4Bus retrofitting and replacementK.–Not more than 5 percent of the amount made available by or appropriated under section 5338 in each fiscal year to carry out this section may be made available to fund retrofitting or replacement of the engines of buses that do not meet the clean air standards of the Environmental Protection Agency, as in effect on the date on which the application for such retrofitting or replacement is submitted under subsection (c)(1).
+  (f) T4Availability of FundsK.–Any amount made available or appropriated under this section–
+    (1) shall remain available to a project for 1 year after the fiscal year for which the amount is made available or appropriated; and
+    (2) that remains unobligated at the end of the period described in paragraph (1), shall be added to the amount made available in the following fiscal year.
