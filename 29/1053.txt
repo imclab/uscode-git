@@ -1,0 +1,97 @@
+  (a) Nonforfeitability requirements
+     Each pension plan shall provide that an employee“s right to his normal retirement benefit is nonforfeitable upon the attainment of normal retirement age and in addition shall satisfy the requirements of paragraphs (1) and (2) of this subsection.
+    (1) A plan satisfies the requirements of this paragraph if an employee“s rights in his accrued benefit derived from his own contributions are nonforfeitable.
+    (2) A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A), (B), or (C).
+      (A) A plan satisfies the requirements of this subparagraph if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions.
+      (B) A plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of the employee“s accrued benefit derived from employer contributions determined under the following table:
+          
+         The nonforfeitable
+           Years of service:
+         percentage is:
+         3
+         20    
+         4
+         40    
+         5
+         60    
+         6
+         80    
+         7 or more
+         100.   
+      (C) A plan satisfies the requirements of this subparagraph if–
+        (i) the plan is a multiemployer plan (within the meaning of section 1002(37)), and
+        (ii) under the plan–
+          (I) an employee who is covered pursuant to a collective bargaining agreement described in section 1002(37)(A)(ii) of this title and who has completed at least 10 years of service has a nonforfeitable right to 100 percent of the employee“s accrued benefit derived from employer contributions, and
+          (II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).
+    (3)      (A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 1055 of this title).
+      (B) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits–
+        (i) in the case of a plan other than a multi-employer plan, by an employer who maintains the plan under which such benefits were being paid; and
+        (ii) in the case of a multiemployer plan, in the same industry, in the same trade or craft, and the same geographic area covered by the plan, as when such benefits commenced.
+       The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subparagraph, including regulations with respect to the meaning of the term ””employed““.
+      (C) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 1082(c)(8) of this title.
+      (D)        (i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in the last sentence of section 1054(c)(2)(C) of this title) made by such participant.
+        (ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of section 1054(c)(2)(C) of this title (if such subsection applies) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
+        (iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions, made by such participant before September 2, 1974, if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
+        (iv) For purposes of this subparagraph, in the case of any class-year plan, a withdrawal of employee contributions shall be treated as a withdrawal of such contributions on a plan year by plan year basis in succeeding order of time.
+        (v) Cross reference.–
+           T2For nonforfeitability where the employee has a nonforfeitable right to at least 50 percent of his accrued benefit, see section 1056(c) of this title.
+      (E)        (i) A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant“s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
+        (ii) A participant“s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because–
+          (I) the plan is amended to reduce benefits under section 1425 or 1441 of this title, or
+          (II) benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
+      (F) A matching contribution (within the meaning of section 401(m) of title 26) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26, an excess deferral under section 402(g)(2)(A) of title 26, or an excess aggregate contribution under section 401(m)(6)(B) of title 26.
+  (b) Computation of period of service
+    (1) In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2) of this section, all of an employee“s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
+      (A) years of service before age 18,\1\N
+      (B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions,\1\
+      (C) years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan, defined by the Secretary of the Treasury;
+      (D) service not required to be taken into account under paragraph (3);
+      (E) years of service before January 1, 1971, unless the employee has had at least 3 years of service after December 31, 1970;
+      (F) years of service before this part first applies to the plan if such service would have been disregarded under the rules of the plan with regard to breaks in service, as in effect on the applicable date; and
+      (G) in the case of a multiemployer plan, years of service–
+        (i) with an employer after–
+          (I) a complete withdrawal of such employer from the plan (within the meaning of section 1383 of this title), or
+          (II) to the extent permitted by regulations prescribed by the Secretary of the Treasury, a partial withdrawal described in section 1385(b)(2)(A)(i) of this title in connection with the decertification of the collective bargaining representative; and
+        (ii) with any employer under the plan after the termination date of the plan under section 1348 of this title.
+    (2)      (A) For purposes of this section, except as provided in subparagraph (C), the term ””year of service““ means a calendar year, plan year, or other 12-consecutive month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) during which the participant has completed 1,000 hours of service.
+      (B) For purposes of this section, the term ””hour of service““ has the meaning provided by section 1052(a)(3)(C) of this title.
+      (C) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term ””year of service““ shall be such period as determined under regulations of the Secretary.
+      (D) For purposes of this section, in the case of any maritime industry, 125 days of service shall be treated as 1,000 hours of service. The Secretary may prescribe regulations to carry out the purposes of this subparagraph.
+    (3)      (A) For purposes of this paragraph, the term ””1-year break in service““ means a calendar year, plan year, or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) during which the participant has not completed more than 500 hours of service.
+      (B) For purposes of paragraph (1), in the case of any employee who has any 1-year break in service, years of service before such break shall not be required to be taken into account until he has completed a year of service after his return.
+      (C) For purposes of paragraph (1), in the case of any participant in an individual account plan or an insured defined benefit plan which satisfies the requirements of subsection 1054(b)(1)(F) of this title who has 5 consecutive 1-year breaks in service, years of service after such 5-year period shall not be required to be taken into account for purposes of determining the nonforfeitable percentage of his accrued benefit derived from employer contributions which accrued before such 5-year period.
+      (D)        (i) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of–
+          (I) 5, or
+          (II) the aggregate number of years of service before such period.
+        (ii) If any years of service are not required to be taken into account by reason of a period of breaks in service to which clause (i) applies, such years of service shall not be taken into account in applying clause (i) to a subsequent period of breaks in service.
+        (iii) For purposes of clause (i), the term ””nonvested participant““ means a participant who does not have any nonforfeitable right under the plan to an accrued benefit derived from employer contributions.
+      (E)        (i) In the case of each individual who is absent from work for any period–
+          (I) by reason of the pregnancy of the individual,
+          (II) by reason of the birth of a child of the individual,
+          (III) by reason of the placement of a child with the individual in connection with the adoption of such child by such individual, or
+          (IV) for purposes of caring for such child for a period beginning immediately following such birth or placement,
+             the plan shall treat as hours of service, solely for purposes of determining under this paragraph whether a 1-year break in service has occurred, the hours described in clause (ii).
+        (ii) The hours described in this clause are–
+          (I) the hours of service which otherwise would normally have been credited to such individual but for such absence, or
+          (II) in any case in which the plan is unable to determine the hours described in subclause (I), 8 hours of service per day of absence,
+             except that the total number of hours treated as hours of service under this clause by reason of such pregnancy or placement shall not exceed 501 hours.
+        (iii) The hours described in clause (ii) shall be treated as hours of service as provided in this subparagraph–
+          (I) only in the year in which the absence from work begins, if a participant would be prevented from incurring a 1-year break in service in such year solely because the period of absence is treated as hours of service as provided in clause (i); or
+          (II) in any other case, in the immediately following year.
+        (iv) For purposes of this subparagraph, the term ””year““ means the period used in computations pursuant to paragraph (2).
+        (v) A plan may provide that no credit will be given pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish–
+          (I) that the absence from work is for reasons referred to in clause (i), and
+          (II) the number of days for which there was such an absence.
+    (4) Cross references.–
+       T2(A) For definitions of ””accrued benefit““ and ””normal retirement age““, see sections 1002(23) and (24) of this title;
+       T2(B) For effect of certain cash out distributions, see section 1054(d)(1) of this title.
+  (c) Plan amendments altering vesting schedule
+    (1)      (A) A plan amendment changing any vesting schedule under this plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+      (B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
+    (2) Subsection (a) of this section shall not apply to benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary of the Treasury to preclude the discrimination prohibited by section 401(a)(4) of title 26.
+  (d) Nonforfeitable benefits after lesser period and in greater amounts than required
+     A pension plan may allow for nonforfeitable benefits after a lesser period and in greater amounts than are required by this part.
+  (e) Consent for distribution; present value; covered distributions
+    (1) If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $3,500, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
+    (2) For purposes of paragraph (1), the present value shall be calculated in accordance with section 1055(g)(3) of this title.
+    (3) This subsection shall not apply to any distribution of dividends to which section 404(k) of title 26 applies.
