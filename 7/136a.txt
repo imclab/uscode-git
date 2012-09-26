@@ -171,7 +171,7 @@
       (C) 120 days for any other new antimicrobial product;
       (D) 90 days for a substantially similar or identical antimicrobial product;
       (E) 90 days for an amendment to an antimicrobial registration that does not require scientific review of data; and
-      (F) 90 to 180 days for an amendment to an antimicrobial registration that requires scientific review of data and that is not otherwise described in this paragraph.
+      (F) 120 days for an amendment to an antimicrobial registration that requires scientific review of data and that is not otherwise described in this paragraph.
     (3) Implementation
       (A) Proposed rulemaking
         (i) Issuance
@@ -208,7 +208,7 @@
         (iii) 180 days for any other new antimicrobial product;
         (iv) 90 days for a substantially similar or identical antimicrobial product;
         (v) 90 days for an amendment to an antimicrobial registration that does not require scientific review of data; and
-        (vi) 240 days for an amendment to an antimicrobial registration that requires scientific review of data and that is not otherwise described in this subparagraph.
+        (vi) 120 days for an amendment to an antimicrobial registration that requires scientific review of data and that is not otherwise described in this subparagraph.
       (E) Wood preservatives
          An application for the registration, or for an amendment to the registration, of a wood preservative product for which a claim of pesticidal activity listed in section 136(mm) of this title is made (regardless of any other pesticidal claim that is made with respect to the product) shall be reviewed by the Administrator within the same period as that established under this paragraph for an antimicrobial pesticide product application, consistent with the degree of risk posed by the use of the wood preservative product, if the application requires the applicant to satisfy the same data requirements as are required to support an application for a wood preservative product that is an antimicrobial pesticide.
       (F) Notification
@@ -218,6 +218,10 @@
            If the Administrator fails to notify an applicant within the period of time required under clause (i), the failure shall be considered an agency action unlawfully withheld or unreasonably delayed for purposes of judicial review under chapter 7 of title 5.
         (iii) Exemption
            This subparagraph does not apply to an application for an antimicrobial pesticide that is filed under subsection (c)(3)(B) of this section prior to 90 days after August 3, 1996.
+        (iv) Limitation
+           Notwithstanding clause (ii), the failure of the Administrator to notify an applicant for an amendment to a registration for an antimicrobial pesticide shall not be judicially reviewable in a Federal or State court if the amendment requires scientific review of data within–
+          (I) the time period specified in subparagraph (D)(vi), in the absence of a final regulation under subparagraph (B); or
+          (II) the time period specified in paragraph (2)(F), if adopted in a final regulation under subparagraph (B).
     (4) Annual report
       (A) Submission
          Beginning on August 3, 1996, and ending on the date that the goals under paragraph (2) are achieved, the Administrator shall, not later than March 1 of each year, prepare and submit an annual report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.

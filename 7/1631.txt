@@ -16,7 +16,7 @@
         (i) organized according to farm products;
         (ii) arranged within each such product–
           (I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
-          (II) in numerical order according to the social security number of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number of such debtors; and
+          (II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors; and
           (III) geographically by county or parish; and
           (IV) by crop year;
         (iii) containing the information referred to in paragraph (4)(D);
@@ -33,20 +33,21 @@
       (C) contains,
         (i) the name and address of the secured party;
         (ii) the name and address of the person indebted to the secured party;
-        (iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+        (iii) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
         (iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
       (D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
       (E) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
       (F) lapses on either the expiration of the effective period of the statement or the filing of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first;
       (G) is accompanied by the requisite filing fee set by the Secretary of State; and
       (H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
-    (5) The term ””farm product““ means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
+    (5) \3\N The term ””farm product““ means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
     (6) The term ””knows““ or ””knowledge““ means actual knowledge.
     (7) The term ””security interest““ means an interest in farm products that secures payment or performance of an obligation.
     (8) The term ””selling agent““ means any person, other than a commission merchant, who is engaged in the business of negotiating the sale and purchase of any farm product on behalf of a person engaged in farming operations.
     (9) The term ””State““ means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
     (10) The term ””person““ means any individual, partnership, corporation, trust, or any other business entity.
     (11) The term ””Secretary of State““ means the Secretary of State or the designee of the State.
+  (5) \4\N The term ””approved unique identifier““ means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
   (d) Purchases free of security interest
      Except as provided in subsection (e) of this section and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
   (e) Purchases subject to security interest
@@ -56,7 +57,7 @@
         (ii) contains,
           (I) the name and address of the secured party;
           (II) the name and address of the person indebted to the secured party;
-          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+          (III) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
           (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
         (iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
         (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
@@ -78,7 +79,7 @@
         (ii) contains,
           (I) the name and address of the secured party;
           (II) the name and address of the person indebted to the secured party;
-          (III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+          (III) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
           (IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
         (iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
         (iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
