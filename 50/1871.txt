@@ -3,11 +3,25 @@
     (1) the aggregate number of persons targeted for orders issued under this chapter, including a breakdown of those targeted for–
       (A) electronic surveillance under section 1805 of this title;
       (B) physical searches under section 1824 of this title;
-      (C) pen registers under section 1842 of this title; and
+      (C) pen registers under section 1842 of this title;
       (D) access to records under section 1861 of this title;
+      (E) acquisitions under section 1881b of this title; and
+      (F) acquisitions under section 1881c of this title;
     (2) the number of individuals covered by an order issued pursuant to section 1801(b)(1)(C) of this title;
     (3) the number of times that the Attorney General has authorized that information obtained under this chapter may be used in a criminal proceeding or any information derived therefrom may be used in a criminal proceeding;
     (4) a summary of significant legal interpretations of this chapter involving matters before the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review, including interpretations presented in applications or pleadings filed with the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review by the Department of Justice; and
-    (5) copies of all decisions (not including orders) or opinions of the Foreign Intelligence Surveillance Court or Foreign Intelligence Surveillance Court of Review that include significant construction or interpretation of the provisions of this chapter.
+    (5) copies of all decisions, orders, or opinions of the Foreign Intelligence Surveillance Court or Foreign Intelligence Surveillance Court of Review that include significant construction or interpretation of the provisions of this chapter.
   (b) Frequency
      The first report under this section shall be submitted not later than 6 months after December 17, 2004. Subsequent reports under this section shall be submitted semi-annually thereafter.
+  (c) Submissions to Congress
+     The Attorney General shall submit to the committees of Congress referred to in subsection (a)–
+    (1) a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and
+    (2) a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008, and not previously submitted in a report under subsection (a).
+  (d) Protection of national security
+     The Attorney General, in consultation with the Director of National Intelligence, may authorize redactions of materials described in subsection (c) that are provided to the committees of Congress referred to in subsection (a), if such redactions are necessary to protect the national security of the United States and are limited to sensitive sources and methods information or the identities of targets.
+  (e) Definitions
+     In this section:
+    (1) Foreign Intelligence Surveillance Court
+       The term ””Foreign Intelligence Surveillance Court““ means the court established under section 1803(a) of this title.
+    (2) Foreign Intelligence Surveillance Court of Review
+       The term ””Foreign Intelligence Surveillance Court of Review““ means the court established under section 1803(b) of this title.
