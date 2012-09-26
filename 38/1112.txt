@@ -44,9 +44,16 @@
       (N) Cancer of the salivary gland.
       (O) Cancer of the urinary tract.
       (P) Bronchiolo-alveolar carcinoma.
+      (Q) Cancer of the bone.
+      (R) Cancer of the brain.
+      (S) Cancer of the colon.
+      (T) Cancer of the lung.
+      (U) Cancer of the ovary.
     (3) For the purposes of this subsection:
       (A) The term ””radiation-exposed veteran““ means (i) a veteran who, while serving on active duty, participated in a radiation-risk activity, or (ii) an individual who, while a member of a reserve component of the Armed Forces, participated in a radiation-risk activity during a period of active duty for training or inactive duty training.
       (B) The term ””radiation-risk activity““ means any of the following:
         (i) Onsite participation in a test involving the atmospheric detonation of a nuclear device (without regard to whether the nation conducting the test was the United States or another nation).
         (ii) The occupation of Hiroshima or Nagasaki, Japan, by United States forces during the period beginning on August 6, 1945, and ending on July 1, 1946.
         (iii) Internment as prisoner of war in Japan (or service on active duty in Japan immediately following such internment) during World War II which (as determined by the Secretary) resulted in an opportunity for exposure to ionizing radiation comparable to that of veterans described in clause (ii) of this subparagraph.
+        (iv) Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384T3lK(14)).
+    (4) A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.

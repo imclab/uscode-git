@@ -1,15 +1,67 @@
-  (a) In order to recruit and retain highly qualified physicians and dentists in the Veterans Health Administration, the Secretary shall provide special pay under this subchapter. Such special pay shall be provided under regulations that the Secretary shall prescribe to carry out this subchapter. Before prescribing regulations under this subchapter, the Secretary shall receive the recommendations of the Under Secretary for Health with respect to those regulations.
-  (b) Special pay may be paid to a physician or dentist under this subchapter only upon the execution of, and for the duration of, a written agreement entered into by the physician or dentist in accordance with section 7432 of this title.
-  (c) A physician or dentist serving a period of obligated service pursuant to chapter 76 of this title is not eligible for special pay under this subchapter during the first three years of such obligated service, except that, at the discretion of the Secretary and upon the recommendation of the Under Secretary for Health, such a physician or dentist may be paid special pay for full-time status during those three years.
-  (d)    (1) The Secretary may determine categories of positions applicable to either physicians or dentists, or both, in the Veterans Health Administration as to which there is no significant recruitment and retention problem. While any such determination is in effect, the Secretary may not enter into an agreement under this subchapter with a physician or dentist serving in a position covered by the determination. Before making a determination under this paragraph, the Secretary shall receive the recommendations of the Under Secretary for Health with respect to the determination.
-    (2) Not later than one year after making any such determination with respect to a category of positions, and each year thereafter that such determination remains in effect, the Secretary shall make a redetermination.
-    (3) Any determination under this subsection shall be in accordance with regulations prescribed to carry out this subchapter.
-  (e) If the Under Secretary for Health determines that payment of special pay to a physician or dentist who is employed on a less than half-time basis is the most cost-effective way available for providing needed medical or dental specialist services at a Department facility, the Under Secretary for Health may authorize the payment of special pay for factors other than for full-time status to that physician or dentist at a rate computed on the basis of the proportion that the part-time employment of the physician or dentist bears to full-time employment.
-  (f) Special pay may not be paid under this section to a physician or dentist who–
-    (1) is employed on less than a quarter-time basis or on an intermittent basis;
-    (2) occupies an internship or residency training position; or
-    (3) is a reemployed annuitant.
-  (g)    (1) In the case of a physician or dentist who is employed in a position that is covered by a determination by the Secretary under subsection (d)(1) that the Administration does not have a significant recruitment or retention problem with respect to a particular category of positions and who on the day before the effective date of this subchapter was receiving special pay under an agreement entered into under section 4118 of this title (as in effect before such date), the Secretary may pay to that physician or dentist, in addition to basic pay, retention pay under this subsection.
-    (2) The annual rate of such retention pay for any individual may not exceed the rate which, when added to the rate of basic pay payable to that individual, is equal to the sum of the annual rate of basic pay and the annual rate of special pay paid to that physician or dentist pursuant to the final agreement with that individual under such section 4118.
-    (3) Such retention pay shall be treated for all purposes as special pay paid under subchapter III of chapter 74 of this title.
-    (4) Retention pay under this subsection shall be paid under such regulations as the Secretary may prescribe.
+  (a) T4Elements of PayK.–Pay of physicians and dentists in the Veterans Health Administration shall consist of three elements as follows:
+    (1) Base pay as provided for under subsection (b).
+    (2) Market pay as provided for under subsection (c).
+    (3) Performance pay as provided under subsection (d).
+  (b) T4Base PayK.–One element of pay for physicians and dentists shall be base pay. Base pay shall meet the following requirements:
+    (1) Each physician and dentist is entitled to base pay determined under the Physician and Dentist Base and Longevity Pay Schedule.
+    (2) The Physician and Dentist Base and Longevity Pay Schedule is composed of 15 rates of base pay designated, from the lowest rate of pay to the highest rate of pay, as base pay steps 1 through 15.
+    (3) The rate of base pay payable to a physician or dentist is based on the total number of the years of the service of the physician or dentist in the Veterans Health Administration as follows:
+       T2For a physician or dentist
+       T2The rate of
+        
+       T2base pay is
+       T2 with total service of:
+       T2the rate
+        
+       T2payable for:
+       two years or less I44step 1   
+       more than 2 years and not more than 4 years I44step 2   
+       more than 4 years and not more than 6 years I44step 3   
+       more than 6 years and not more than 8 years I44step 4   
+       more than 8 years and not more than 10 years I44step 5   
+       more than 10 years and not more than 12 years I44step 6   
+       more than 12 years and not more than 14 years I44step 7   
+       more than 14 years and not more than 16 years I44step 8   
+       more than 16 years and not more than 18 years I44step 9   
+       more than 18 years and not more than 20 years I44step 10  
+       more than 20 years and not more than 22 years I44step 11  
+       more than 22 years and not more than 24 years I44step 12  
+       more than 24 years and not more than 26 years I44step 13  
+       more than 26 years and not more than 28 years I44step 14  
+       more than 28 years I44step 15.
+    (4) At the same time as rates of basic pay are increased for a year under section 5303 of title 5, the Secretary shall increase the amount of base pay payable under this subsection for that year by a percentage equal to the percentage by which rates of basic pay are increased under such section for that year.
+  (c) T4Market PayK.–One element of pay for physicians and dentists shall be market pay. Market pay shall meet the following requirements:
+    (1) Each physician and dentist is eligible for market pay.
+    (2) Market pay shall consist of pay intended to reflect the recruitment and retention needs for the specialty or assignment (as defined by the Secretary) of a particular physician or dentist in a facility of the Department of Veterans Affairs.
+    (3) The annual amount of the market pay payable to a physician or dentist shall be determined by the Secretary on a case-by-case basis.
+    (4)      (A) In determining the amount of market pay for physicians or dentists, the Secretary shall consult two or more national surveys of pay for physicians or dentists, as applicable, whether prepared by private, public, or quasi-public entities in order to make a general assessment of the range of pays payable to physicians or dentists, as applicable.
+      (B)        (i) In determining the amount of the market pay for a particular physician or dentist under this subsection, and in determining a tier (if any) to apply to a physician or dentist under subsection (e)(1)(B), the Secretary shall consult with and consider the recommendations of an appropriate panel or board composed of physicians or dentists (as applicable).
+        (ii) A physician or dentist may not be a member of the panel or board that makes recommendations under clause (i) with respect to the market pay of such physician or dentist, as the case may be.
+        (iii) The Secretary should, to the extent practicable, ensure that a panel or board consulted under this subparagraph includes physicians or dentists (as applicable) who are practicing clinicians and who do not hold management positions in the medical facility of the Department at which the physician or dentist subject to the consultation is employed.
+    (5) The determination of the amount of market pay of a physician or dentist shall take into account–
+      (A) the level of experience of the physician or dentist in the specialty or assignment of the physician or dentist;
+      (B) the need for the specialty or assignment of the physician or dentist at the medical facility of the Department concerned;
+      (C) the health care labor market for the specialty or assignment of the physician or dentist, which may cover any geographic area the Secretary considers appropriate for the specialty or assignment;
+      (D) the board certifications, if any, of the physician or dentist;
+      (E) the prior experience, if any, of the physician or dentist as an employee of the Veterans Health Administration; and
+      (F) such other considerations as the Secretary considers appropriate.
+    (6) The amount of market pay of a physician or dentist shall be evaluated by the Secretary not less often than once every 24 months. The amount of market pay may be adjusted as the result of an evaluation under this paragraph. A physician or dentist whose market pay is evaluated under this paragraph shall receive written notice of the results of such evaluation in accordance with procedures prescribed under section 7433 of this title.
+    (7) No adjustment of the amount of market pay of a physician or dentist under paragraph (6) may result in a reduction of the amount of market pay of the physician or dentist while in the same position or assignment at the medical facility of the Department concerned.
+  (d) T4Performance PayK.–(1) One element of pay for physicians and dentists shall be performance pay.
+  (2) Performance pay shall be paid to a physician or dentist on the basis of the physician“s or dentist“s achievement of specific goals and performance objectives prescribed by the Secretary.
+  (3) The Secretary shall ensure that each physician and dentist of the Department is advised of the specific goals or objectives that are to be measured by the Secretary in determining the eligibility of that physician or dentist for performance pay.
+  (4) The amount of the performance pay payable to a physician or dentist may vary annually on the basis of individual achievement or attainment of the goals or objectives applicable to the physician or dentist under paragraph (2).
+  (5) The amount of performance pay payable to a physician or dentist in a fiscal year shall be determined in accordance with regulations prescribed by the Secretary, but may not exceed the lower of–
+    (A) $15,000; or
+    (B) the amount equal to 7.5 percent of the sum of the base pay and the market pay payable to such physician or dentist in that fiscal year.
+  (6) A failure to meet goals or objectives applicable to a physician or dentist under paragraph (2) may not be the sole basis for an adverse personnel action against that physician or dentist.
+  (e) T4Requirements and Limitations on Total PayK.–(1)(A) Not less often than once every two years, the Secretary shall prescribe for Department-wide applicability the minimum and maximum amounts of annual pay that may be paid under this section to physicians and the minimum and maximum amounts of annual pay that may be paid under this section to dentists.
+  (B) The Secretary may prescribe for Department-wide applicability under this paragraph separate minimum and maximum amounts of pay for a specialty or assignment. If the Secretary prescribes separate minimum and maximum amounts for a specialty or assignment, the Secretary may establish up to four tiers of minimum and maximum amounts for such specialty or assignment and prescribe for each tier a minimum amount and a maximum amount that the Secretary determines appropriate for the professional responsibilities, professional achievements, and administrative duties of the physicians or dentists (as the case may be) whose pay is set within that tier.
+  (C) Amounts prescribed under this paragraph shall be published in the Federal Register, and shall not take effect until at least 60 days after the date of publication.
+  (2) Except as provided in paragraph (3) and subject to paragraph (4), the sum of the total amount of the annual rate of base pay payable to a physician or dentist under subsection (b) and the market pay determined for the physician or dentist under subsection (c) may not be less than the minimum amount, nor more than the maximum amount, applicable to specialty or assignment of the physician or dentist under paragraph (1).
+  (3) The sum of the total amount of the annual rate of base pay payable to a physician or dentist under subsection (b) and the market pay determined for the physician or dentist under subsection (c) may exceed the maximum amount applicable to the specialty or assignment of the physician or dentist under paragraph (1) as a result of an adjustment under paragraph (3) or (4) of subsection (b).
+  (4) In no case may the total amount of compensation paid to a physician or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3.
+  (f) T4Treatment of PayK.–Pay under subsections (b) and (c) of this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
+  (g) T4Ancillary Effects of Decreases in PayK.–(1) A decrease in pay of a physician or dentist resulting from an adjustment in the amount of market pay of the physician or dentist under subsection (c) shall not be treated as an adverse action.
+  (2) If the pay of a physician or dentist is reduced under this subchapter as a result of an involuntary reassignment in connection with a disciplinary action taken against the physician or dentist, the involuntary reassignment shall be subject to appeal under subchapter V of this chapter.
+  (h) T4Delegation of ResponsibilitiesK.–The Secretary may delegate to an appropriate officer or employee of the Department any responsibility of the Secretary under subsection (c), (d), or (e) except for the responsibilities of the Secretary under subsection (e)(1).
