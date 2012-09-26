@@ -12,7 +12,7 @@
   (9) ””Judge of competent jurisdiction““ means–
     (a) a judge of a United States district court or a United States court of appeals; and
     (b) a judge of any court of general criminal jurisdiction of a State who is authorized by a statute of that State to enter orders authorizing interceptions of wire, oral, or electronic communications;
-  (10) ””communication common carrier““ shall have the same meaning which is given the term ””common carrier““ by section 153(h) \2\N of title 47 of the United States Code;
+  (10) ””communication common carrier““ has the meaning given that term in section 3 of the Communications Act of 1934;
   (11) ””aggrieved person““ means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
   (12) ””electronic communication““ means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include–
     (A) any wire or oral communication;

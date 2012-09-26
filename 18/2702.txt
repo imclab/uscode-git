@@ -9,13 +9,13 @@
     (2) as otherwise authorized in section 2517, 2511(2)(a), or 2703 of this title;
     (3) with the lawful consent of the originator or an addressee or intended recipient of such communication, or the subscriber in the case of remote computing service;
     (4) to a person employed or authorized or whose facilities are used to forward such communication to its destination;
-    (5) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service; or
+    (5) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
     (6) to a law enforcement agency–
       (A) if the contents–
         (i) were inadvertently obtained by the service provider; and
-        (ii) appear to pertain to the commission of a crime;
+        (ii) appear to pertain to the commission of a crime; or
       (B) if required by section 227 of the Crime Control Act of 1990; or
-      (C) if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay.
+    (7) to a Federal, State, or local governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
   (c) T4Exceptions for Disclosure of Customer RecordsK.–A provider described in subsection (a) may divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a)(1) or (a)(2))–
     (1) as otherwise authorized in section 2703;
     (2) with the lawful consent of the customer or subscriber;

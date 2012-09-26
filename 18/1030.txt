@@ -18,7 +18,7 @@
     (1) T4GenerallyK.–The punishment for an offense under subsection (a) of this section is–
       (A) in the case of an offense that does not occur after a conviction for another offense under this section–
         (i) if the offense is under paragraph (1), (2), (3), (6), (7), or (10) of subsection (a), a fine under this title or imprisonment for not more than 10 years, or both; and
-        (ii) if the offense is under paragraph (4), (5), (8), or (9),\1\N of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
+        (ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
       (B) in the case of an offense that occurs after a conviction for another offense under this section, a fine under this title or imprisonment for not more than 20 years, or both; and
       (C) in either case, forfeiture to the United States of any personal property used or intended to be used to commit the offense.
     (2) T4Forfeiture procedureK.–The forfeiture of property under this section, including any seizure and disposition of the property and any related administrative and judicial proceeding, shall be governed by section 413 of the Controlled Substances Act, except for subsection (d) of that section.
@@ -31,7 +31,7 @@
     (5) the term ””traffic““ means transfer, or otherwise dispose of, to another, or obtain control of with intent to transfer or dispose of;
     (6) the term ””device-making equipment““ means any equipment, mechanism, or impression designed or primarily used for making an access device or a counterfeit access device;
     (7) the term ””credit card system member““ means a financial institution or other entity that is a member of a credit card system, including an entity, whether affiliated with or identical to the credit card issuer, that is the sole member of a credit card system;
-    (8) the term ””scanning receiver““ means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119 or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument \2\N
+    (8) the term ””scanning receiver““ means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119 or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument;
     (9) the term ””telecommunications service““ has the meaning given such term in section 3 of title I of the Communications Act of 1934 (47 U.S.C. 153);
     (10) the term ””facilities-based carrier““ means an entity that owns communications transmission facilities, is responsible for the operation and maintenance of those facilities, and holds an operating license issued by the Federal Communications Commission under the authority of title III of the Communications Act of 1934; and
     (11) the term ””telecommunication identifying information““ means electronic serial number or any other number or signal that identifies a specific telecommunications instrument or account, or a specific communication transmitted from a telecommunications instrument.
