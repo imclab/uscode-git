@@ -67,6 +67,12 @@
   (7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
   (8)    (A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
     (B) The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete background check of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
-  (d) T4Nondisclosure of InformationK.–Notwithstanding any other provision of law, information developed under this chapter is not required to be disclosed to the public, including–
-    (1) facility security plans, vessel security plans, and port vulnerability assessments; and
-    (2) other information related to security plans, procedures, or programs for vessels or facilities authorized under this chapter.
+  (d) T4Nondisclosure of Information.–
+    (1) T4In generalK.–Information developed under this section or sections 70102, 70104, and 70108 is not required to be disclosed to the public, including–
+      (A) facility security plans, vessel security plans, and port vulnerability assessments; and
+      (B) other information related to security plans, procedures, or programs for vessels or facilities authorized under this section or sections 70102, 70104, and 70108.
+    (2) T4LimitationsK.–Nothing in paragraph (1) shall be construed to authorize the designation of information as sensitive security information (as defined in section 1520.5 of title 49, Code of Federal Regulations)–
+      (A) to conceal a violation of law, inefficiency, or administrative error;
+      (B) to prevent embarrassment to a person, organization, or agency;
+      (C) to restrain competition; or
+      (D) to prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
