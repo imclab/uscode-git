@@ -1,0 +1,14 @@
+  (a) T4ProhibitionsK.–Except as provided in subsection (b)–
+    (1) a person or entity providing an electronic communication service to the public shall not knowingly divulge to any person or entity the contents of a communication while in electronic storage by that service; and
+    (2) a person or entity providing remote computing service to the public shall not knowingly divulge to any person or entity the contents of any communication which is carried or maintained on that service–
+      (A) on behalf of, and received by means of electronic transmission from (or created by means of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such service; and
+      (B) solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing.
+  (b) T4ExceptionsK.–A person or entity may divulge the contents of a communication–
+    (1) to an addressee or intended recipient of such communication or an agent of such addressee or intended recipient;
+    (2) as otherwise authorized in section 2517, 2511(2)(a), or 2703 of this title;
+    (3) with the lawful consent of the originator or an addressee or intended recipient of such communication, or the subscriber in the case of remote computing service;
+    (4) to a person employed or authorized or whose facilities are used to forward such communication to its destination;
+    (5) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service; or
+    (6) to a law enforcement agency, if such contents–
+      (A) were inadvertently obtained by the service provider; and
+      (B) appear to pertain to the commission of a crime.
