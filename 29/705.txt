@@ -74,7 +74,7 @@
   (9) Disability
      The term ””disability““ means–
     (A) except as otherwise provided in subparagraph (B), a physical or mental impairment that constitutes or results in a substantial impediment to employment; or
-    (B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, a physical or mental impairment that substantially limits one or more major life activities.
+    (B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, the meaning given it in section 12102 of title 42.
   (10) Drug and illegal use of drugs
     (A) Drug
        The term ””drug““ means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
@@ -153,10 +153,7 @@
       (i) has a physical or mental impairment which for such individual constitutes or results in a substantial impediment to employment; and
       (ii) can benefit in terms of an employment outcome from vocational rehabilitation services provided pursuant to subchapter I, III, or VI of this chapter.
     (B) Certain programs; limitations on major life activities
-       Subject to subparagraphs (C), (D), (E), and (F), the term ””individual with a disability““ means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who–
-      (i) has a physical or mental impairment which substantially limits one or more of such person“s major life activities;
-      (ii) has a record of such an impairment; or
-      (iii) is regarded as having such an impairment.
+       Subject to subparagraphs (C), (D), (E), and (F), the term ””individual with a disability““ means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
     (C) Rights and advocacy provisions
       (i) In general; exclusion of individuals engaging in drug use
          For purposes of subchapter V of this chapter, the term ””individual with a disability““ does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.

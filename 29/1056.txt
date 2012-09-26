@@ -109,8 +109,8 @@
       (B) Exemption
          Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to–
         (i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the occurrence referred to in subparagraph (A), and
-        (ii) in the case of subparagraph (A)(ii), the amount sufficient to result in a funding target attainment percentage of 60 percent.
-      (C) Unpredictable contingent event
+        (ii) in the case of subparagraph (A)(ii), the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
+      (C) Unpredictable contingent event benefit
          For purposes of this paragraph, the term ””unpredictable contingent event benefit““ means any benefit payable solely by reason of–
         (i) a plant shutdown (or similar event, as determined by the Secretary of the Treasury), or
         (ii) an event other than the attainment of any age, performance of any service, receipt or derivation of any compensation, or occurrence of death or disability.
@@ -147,6 +147,7 @@
         (i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
         (ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
         (iii) any other payment specified by the Secretary of the Treasury by regulations.
+         Such term shall not include the payment of a benefit which under section 1053(e) of this title may be immediately distributed without the consent of the participant.
     (4) Limitation on benefit accruals for plans with severe funding shortfalls
       (A) In general
          A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan“s adjusted funding target attainment percentage for a plan year is less than 60 percent, benefit accruals under the plan shall cease as of the valuation date for the plan year.
@@ -167,7 +168,7 @@
           (II) if there is a failure to make a payment of the minimum required contribution for any plan year beginning after the security is provided, the due date for the payment under section 1083(j) of this title, or
           (III) if the adjusted funding target attainment percentage is less than 60 percent for a consecutive period of 7 years, the valuation date for the last year in the period.
         (iv) Release of security
-           The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary of the Treasury may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the funding target attainment percentage.
+           The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary of the Treasury may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the adjusted funding target attainment percentage.
       (B) Prefunding balance or funding standard carryover balance may not be used
          No prefunding balance or funding standard carryover balance under section 1083(f) of this title may be used under paragraph (1), (2), or (4) to satisfy any payment an employer may make under any such paragraph to avoid or terminate the application of any limitation under such paragraph.
       (C) Deemed reduction of funding balances
@@ -203,7 +204,7 @@
          The term ””adjusted funding target attainment percentage““ means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26) which were made by the plan during the preceding 2 plan years.
       (C) Application to plans which are fully funded without regard to reductions for funding balances
         (i) In general
-           In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to this subparagraph and without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
+           In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
         (ii) Transition rule
            Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for ””100 percent““ the applicable percentage determined in accordance with the following table:
            T2 In the case of a plan year
@@ -217,6 +218,8 @@
            2010
            96.   
         (iii) Limitation
-           Clause (ii) shall not apply with respect to any plan year after 2008 unless the funding target attainment percentage (determined without regard to this subparagraph) of the plan for each preceding plan year after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
-    (10) Special rule for 2008
+           Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
+    (10) Secretarial authority for plans with alternate valuation date
+       In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
+    (11) Special rule for 2008
        For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.

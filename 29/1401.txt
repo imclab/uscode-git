@@ -16,9 +16,7 @@
      In any proceeding under subsection (b) of this section, there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
   (d) Payments by employer prior and subsequent to determination by arbitrator; adjustments; failure of employer to make payments
      Payments shall be made by an employer in accordance with the determinations made under this part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title).
-  (e) Furnishing of information by plan sponsor to employer respecting computation of withdrawal liability of employer; fees
-     If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer“s potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.
-  (f) Procedures applicable to certain disputes
+  (e) Procedures applicable to certain disputes
     (1) In general
        If–
       (A) a plan sponsor of a plan determines that–
@@ -35,7 +33,7 @@
          Nothing in this subparagraph shall affect the burden of establishing any other element of a claim for withdrawal liability under this subtitle.
       (B) Procedure
          Notwithstanding subsection (d) of this section and section 1399(c) of this title, if an employer contests the plan sponsor“s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a) of this section, or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor“s determination.
-  (g) Procedures applicable to certain disputes
+  (f) Procedures applicable to certain disputes
     (1) T4In generalK.–If–
       (A) a plan sponsor of a plan determines that–
         (i) a complete or partial withdrawal of an employer has occurred, or

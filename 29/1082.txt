@@ -12,12 +12,12 @@
     (2) Joint and several liability where employer member of controlled group
        If the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for payment of such contributions.
     (3) Multiemployer plans in critical status
-       Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 1085 of this title. This paragraph shall only apply if the plan adopts a rehabilitation plan in accordance with section 1085(e) of this title and complies with the terms of such rehabilitation plan (and any updates or modifications of the plan).
+       Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 1085 of this title. This paragraph shall only apply if the plan sponsor adopts a rehabilitation plan in accordance with section 1085(e) of this title and complies with the terms of such rehabilitation plan (and any updates or modifications of the plan).
   (c) Variance from minimum funding standards
     (1) Waiver in case of business hardship
       (A) In general
          If–
-        (i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan is) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+        (i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
         (ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
          the Secretary of the Treasury may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. The Secretary of the Treasury shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years.
       (B) Effects of waiver
@@ -78,7 +78,7 @@
          The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under subparagraph (A).
     (7) Restriction on plan amendments
       (A) In general
-         No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+         No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
       (B) Exception
          Subparagraph (A) shall not apply to any plan amendment which–
         (i) the Secretary of the Treasury determines to be reasonable and which provides for only de minimis increases in the liabilities of the plan,
@@ -88,7 +88,7 @@
        For corresponding duties of the Secretary of the Treasury with regard to implementation of title 26, see section 412(c) of title 26.
   (d) Miscellaneous rules
     (1) Change in method or year
-       If the funding method, the valuation date, or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary of the Treasury.
+       If the funding method or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary of the Treasury.
     (2) Certain retroactive plan amendments
        For purposes of this section, any amendment applying to a plan year which–
       (A) is adopted after the close of such plan year but no later than 2\1/2\ months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),
