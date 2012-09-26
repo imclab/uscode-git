@@ -1,4 +1,5 @@
-  (a)    (1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 \1\N of this title) shall apply to the production and disclosure of financial records pursuant to requests from–
+  (a) Access to financial records for certain intelligence and protective purposes
+    (1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 \1\N of this title) shall apply to the production and disclosure of financial records pursuant to requests from–
       (A) a Government authority authorized to conduct foreign counter- or foreign positive-intelligence activities for purposes of conducting such activities;
       (B) the Secret Service for the purpose of conducting its protective functions (18 U.S.C. 3056; 3 U.S.C. 202, Public Law 90–331, as amended); or
       (C) a Government authority authorized to conduct investigations of, or intelligence or counterintelligence analyses related to, international terrorism for the purpose of conducting such investigations or analyses.
@@ -9,10 +10,13 @@
       (B) The Federal Bureau of Investigation may disseminate information obtained pursuant to this paragraph only as provided in guidelines approved by the Attorney General for foreign intelligence collection and foreign counterintelligence investigations conducted by the Federal Bureau of Investigation, and, with respect to dissemination to an agency of the United States, only if such information is clearly relevant to the authorized responsibilities of such agency.
       (C) On the dates provided in section 415b of title 50, the Attorney General shall fully inform the congressional intelligence committees (as defined in section 401a of title 50) concerning all requests made pursuant to this paragraph.
       (D) No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer“s or entity“s financial records under this paragraph.
-  (b)    (1) Nothing in this chapter shall prohibit a Government authority from obtaining financial records from a financial institution if the Government authority determines that delay in obtaining access to such records would create imminent danger of–
+  (b) Emergency access to financial records
+    (1) Nothing in this chapter shall prohibit a Government authority from obtaining financial records from a financial institution if the Government authority determines that delay in obtaining access to such records would create imminent danger of–
       (A) physical injury to any person;
       (B) serious property damage; or
       (C) flight to avoid prosecution.
     (2) In the instances specified in paragraph (1), the Government shall submit to the financial institution the certificate required in section 3403(b) of this title signed by a supervisory official of a rank designated by the head of the Government authority.
     (3) Within five days of obtaining access to financial records under this subsection, the Government authority shall file with the appropriate court a signed, sworn statement of a supervisory official of a rank designated by the head of the Government authority setting forth the grounds for the emergency access. The Government authority shall thereafter comply with the notice provisions of section 3409(c) of this title.
     (4) The Government authority specified in paragraph (1) shall compile an annual tabulation of the occasions in which this section was used.
+  (d) \3\N Definition of ””financial institution““
+     For purposes of this section, and sections 3415 and 3417 of this title insofar as they relate to the operation of this section, the term ””financial institution““ has the same meaning as in subsections (a)(2) and (c)(1) of section 5312 of title 31, except that, for purposes of this section, such term shall include only such a financial institution any part of which is located inside any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands.
