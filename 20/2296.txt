@@ -7,7 +7,7 @@
       (E) the worker is qualified to undertake and complete such training, and
       (F) such training is suitable for the worker and available at a reasonable cost,
          the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
-    (2)      (A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $80,000,000, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000.
+    (2)      (A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $220,000,000.
       (B) If, during any fiscal year, the Secretary estimates that the amount of funds necessary to pay the costs of training approved under this section will exceed the amount of the limitation imposed under subparagraph (A), the Secretary shall decide how the portion of such limitation that has not been expended at the time of such estimate is to be apportioned among the States for the remainder of such fiscal year.
     (3) For purposes of applying paragraph (1)(C), a reasonable expectation of employment does not require that employment opportunities for a worker be available, or offered, immediately upon the completion of training approved under this paragraph (1).
     (4)      (A) If the costs of training an adversely affected worker are paid by the Secretary under paragraph (1), no other payment for such costs may be made under any other provision of Federal law.
@@ -16,7 +16,9 @@
         (ii) are reimbursable under any other provision of Federal law and a portion of such costs have already been paid under such other provision of Federal law.
       (C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker, even if such use has the effect of indirectly paying or reducing any portion of the costs involved in training the adversely affected worker.
     (5) The training programs that may be approved under paragraph (1) include, but are not limited to–
-      (A) on-the-job training,
+      (A) employer-based training, including–
+        (i) on-the-job training, and
+        (ii) customized training,
       (B) any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998 [29 U.S.C. 2801 et seq.],
       (C) any training program approved by a private industry council established under section 102 of such Act,
       (D) any program of remedial education,
@@ -47,10 +49,15 @@
     (5) the employer has not terminated the employment of any regular employee or otherwise reduced the workforce of the employer with the intention of filling the vacancy so created by hiring such adversely affected worker,
     (6) the job for which such adversely affected worker is being trained is not being created in a promotional line that will infringe in any way upon the promotional opportunities of currently employed individuals,
     (7) such training is not for the same occupation from which the worker was separated and with respect to which such worker“s group was certified pursuant to section 2272 of this title,
-    (8) the employer certifies to the Secretary that the employer will continue to employ such worker for at least 26 weeks after completion of such training if the worker desires to continue such employment and the employer does not have due cause to terminate such employment,
+    (8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providing the training and additional supervision related to the training,
     (9) the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of paragraphs (1), (2), (3), (4), (5), and (6), and
     (10) the employer has not taken, at any time, any action which violated the terms of any certification described in paragraph (8) made by such employer with respect to any other on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1) of this section.
   (d) Eligibility for unemployment insurance
      A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned.
   (e) ””Suitable employment““ defined
      For purposes of this section the term ””suitable employment““ means, with respect to a worker, work of a substantially equal or higher skill level than the worker“s past adversely affected employment, and wages for such work at not less than 80 percent of the worker“s average weekly wage.
+  (f) ””Customized training““ defined
+     For purposes of this section, the term ””customized training““ means training that is–
+    (1) designed to meet the special requirements of an employer or group of employers;
+    (2) conducted with a commitment by the employer or group of employers to employ an individual upon successful completion of the training; and
+    (3) for which the employer pays for a significant portion (but in no case less than 50 percent) of the cost of such training, as determined by the Secretary.
