@@ -1,61 +1,33 @@
   (a) In general
-     Any loan guaranteed or insured under this subchapter, including the security given for such loan, may be sold or assigned by the lender to any person.
-  (b) Initial transfers
-    (1) In general
-       The lender of a loan guaranteed or insured under this subchapter may transfer to any individual or legal entity–
-      (A) all rights and obligations of the lender in the loan or in the unguaranteed or uninsured portion of the loan; and
-      (B) any security given for the loan.
-    (2) Additional requirements
-       With respect to a transfer described in paragraph (1)–
-      (A) the transfer shall be consistent with such regulations as the Secretary shall promulgate under subsection (i) of this section; and
-      (B) the lender shall give notice of the transfer to the Secretary.
-    (3) Responsibilities of transferee
-       On any transfer under paragraph (1), the transferee shall–
-      (A) be deemed to be the lender for the purpose of this subchapter;
-      (B) become the secured party of record; and
-      (C) be responsible for–
-        (i) performing the duties of the lender; and
-        (ii) servicing the loan in accordance with the terms of the guarantee by the Secretary of the loan.
-  (c) Secondary transfers
-    (1) In general
-       Any transferee under subsection (b) of this section of a loan guaranteed or insured under this subchapter may transfer to any individual or legal entity–
-      (A) all rights and obligations of the transferee in the loan or in the unguaranteed or uninsured portion of the loan; and
-      (B) any security given for the loan.
-    (2) Additional requirements
-       With respect to a transfer described in paragraph (1)–
-      (A) the transfer shall be consistent with such regulations as the Secretary shall promulgate under subsection (i) of this section; and
-      (B) the transferor shall give notice of the transfer to the Secretary.
-    (3) Acknowledgment by Secretary
-       On receipt of a notice of a transfer under paragraph (2)(B), the Secretary shall issue to the transferee an acknowledgment by the Secretary of–
-      (A) the transfer; and
-      (B) the interest of the transferee in the guaranteed or insured portion of the loan.
-    (4) Responsibilities of lender
-       Notwithstanding any transfer permitted by this subsection, the lender shall–
-      (A) remain obligated on the guarantee agreement or insurance agreement between the lender and the Secretary;
-      (B) continue to be responsible for servicing the loan in a manner consistent with that guarantee agreement or insurance agreement; and
-      (C) remain the secured creditor of record.
-  (d) Full faith and credit
+     All or any portion of a loan guaranteed or insured under this subchapter, including the security given for the loan–
+    (1) may be transferred by the lender by sale or assignment to any person; and
+    (2) may be retransferred by the transferee.
+  (b) Transfers of loans
+     With respect to a transfer described in subsection (a)–
+    (1) the transfer shall be consistent with such regulations as the Secretary shall promulgate under subsection (h); and
+    (2) the transferee shall give notice of the transfer to the Secretary.
+  (c) Full faith and credit
     (1) In general
        The full faith and credit of the United States is pledged to the payment of all loan guarantees and loan insurance made under this subchapter after December 13, 2002.
     (2) Validity
-      (A) In general
-         Except as provided in subparagraph (B), the validity of a guarantee or insurance of a loan under this subchapter shall be incontestable if the obligations of the guarantee or insurance held by a transferee have been acknowledged under subsection (c)(3) of this section.
-      (B) Exception for fraud or misrepresentation
-         Subparagraph (A) shall not apply in a case in which a transferee has actual knowledge of fraud or misrepresentation, or participates in or condones fraud or misrepresentation, in connection with a loan.
-  (e) Damages
+       Except as provided in regulations in effect on the date on which a loan is made, the validity of a guarantee or insurance of a loan under this subchapter shall be incontestable.
+  (d) Damages
      Notwithstanding section 3302 of title 31, the Secretary may recover from a lender of a loan under this subchapter any damages suffered by the Secretary as a result of a material breach of the obligations of the lender with respect to a guarantee or insurance by the Secretary of the loan.
-  (f) Fees
-     The Secretary may collect a fee for any loan or guaranteed or insured portion of a loan that is transferred in accordance with this section.
-  (g) Central registration of loans
-     On promulgation of final regulations under subsection (i) of this section, the Secretary shall–
+  (e) Fees
+    (1) In general
+       The Secretary may collect a fee for any loan or guaranteed or insured portion of a loan that is transferred in accordance with this section.
+    (2) Compensation of fiscal transfer agent
+       A fiscal transfer agent designated under subsection (f) may be compensated through any of the fees assessed under this section and any interest earned on any funds or fees collected by the fiscal transfer agent while the funds or fees are in the control of the fiscal transfer agent and before the time at which the fiscal transfer agent is contractually required to transfer such funds to the Secretary or to transferees or other holders.
+  (f) Central registration of loans
+     On promulgation of final regulations under subsection (h), the Secretary shall–
     (1) provide for a central registration of all guaranteed or insured loans transferred under this section; and
     (2) enter into 1 or more contracts with a fiscal transfer agent–
       (A) to act as the designee of the Secretary under this section; and
-      (B) to carry out on behalf of the Secretary the central registration and fiscal transfer agent functions, and issuance of acknowledgments, under this section.
-  (h) Pooling of loans
+      (B) to carry out on behalf of the Secretary the central registration and fiscal transfer agent functions under this section.
+  (g) Pooling of loans
     (1) In general
        Nothing in this subchapter prohibits the pooling of whole loans or interests in loans transferred under this section.
     (2) Regulations
-       In promulgating regulations under subsection (i) of this section, the Secretary may include such regulations to effect orderly and efficient pooling procedures as the Secretary determines to be necessary.
-      (i) Regulations
-         Not later than 180 days after December 13, 2002, the Secretary shall develop such procedures and promulgate such regulations as are necessary to facilitate, administer, and promote transfers of loans and guaranteed and insured portions of loans under this section.
+       In promulgating regulations under subsection (i),\1\N the Secretary may include such regulations to effect orderly and efficient pooling procedures as the Secretary determines to be necessary.
+  (h) Regulations
+     Not later than 180 days after December 13, 2002, the Secretary shall develop such procedures and promulgate such regulations as are necessary to facilitate, administer, and promote transfers of loans and guaranteed and insured portions of loans under this section.
