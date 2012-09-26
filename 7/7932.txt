@@ -9,7 +9,16 @@
     (7) In the case of extra long staple cotton, $0.7977 per pound.
     (8) In the case of rice, $6.50 per hundredweight.
     (9) In the case of soybeans, $5.00 per bushel.
-    (10) In the case of other oilseeds, $0.0960 per pound.
+    (10) In the case of other oilseeds, $.0960 per pound for each of the following kinds of oilseeds:
+      (A) Sunflower seed.
+      (B) Rapeseed.
+      (C) Canola.
+      (D) Safflower.
+      (E) Flaxseed.
+      (F) Mustard seed.
+      (G) Crambe.
+      (H) Sesame seed.
+        (I) Other oilseeds designated by the Secretary.
     (11) In the case of graded wool, $1.00 per pound.
     (12) In the case of nongraded wool, $0.40 per pound.
     (13) In the case of mohair, $4.20 per pound.
@@ -28,7 +37,16 @@
     (7) In the case of extra long staple cotton, $0.7977 per pound.
     (8) In the case of rice, $6.50 per hundredweight.
     (9) In the case of soybeans, $5.00 per bushel.
-    (10) In the case of other oilseeds, $0.0930 per pound.
+    (10) In the case of other oilseeds, $.0930 per pound for each of the following kinds of oilseeds:
+      (A) Sunflower seed.
+      (B) Rapeseed.
+      (C) Canola.
+      (D) Safflower.
+      (E) Flaxseed.
+      (F) Mustard seed.
+      (G) Crambe.
+      (H) Sesame seed.
+        (I) Other oilseeds designated by the Secretary.
     (11) In the case of graded wool, $1.00 per pound.
     (12) In the case of nongraded wool, $0.40 per pound.
     (13) In the case of mohair, $4.20 per pound.
@@ -36,3 +54,10 @@
     (15) In the case of dry peas, $6.22 per hundredweight.
     (16) In the case of lentils, $11.72 per hundredweight.
     (17) In the case of small chickpeas, $7.43 per hundredweight.
+  (c) Single county loan rate for other oilseeds
+     The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(10) and (b)(10) of this section.
+  (d) Quality grades for dry peas, lentils, and small chickpeas
+     The loan rate for dry peas, lentils, and small chickpeas shall be based on–
+    (1) in the case of dry peas, United States feed peas;
+    (2) in the case of lentils, United States number 3 lentils; and
+    (3) in the case of small chickpeas, United States number 3 small chickpeas that drop below a 20/64 screen.
