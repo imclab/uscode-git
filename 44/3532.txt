@@ -1,7 +1,20 @@
-  (a) Except as provided under subsection (b), the definitions under section 3502 shall apply to this subchapter.
-  (b) In this subchapter:
-    (1) The term ””information technology““ has the meaning given that term in section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401).
-    (2) The term ””mission critical system““ means any telecommunications or information system used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency, that–
-      (A) is defined as a national security system under section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452);
-      (B) is protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be classified in the interest of national defense or foreign policy; or
-      (C) processes any information, the loss, misuse, disclosure, or unauthorized access to or modification of, would have a debilitating impact on the mission of an agency.
+  (a) T4In GeneralK.–Except as provided under subsection (b), the definitions under section 3502 shall apply to this subchapter.
+  (b) T4Additional DefinitionsK.–As used in this subchapter–
+    (1) the term ””information security““ means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide–
+      (A) integrity, which means guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity;
+      (B) confidentiality, which means preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information;
+      (C) availability, which means ensuring timely and reliable access to and use of information; and
+      (D) authentication, which means utilizing digital credentials to assure the identity of users and validate their access;
+    (2) the term ””national security system““ means any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency, the function, operation, or use of which–
+      (A) involves intelligence activities;
+      (B) involves cryptologic activities related to national security;
+      (C) involves command and control of military forces;
+      (D) involves equipment that is an integral part of a weapon or weapons system; or
+      (E) is critical to the direct fulfillment of military or intelligence missions provided that this definition does not apply to a system that is used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications);
+    (3) the term ””information technology““ has the meaning given that term in section 11101 of title 40; and
+    (4) the term ””information system““ means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information, and includes–
+      (A) computers and computer networks;
+      (B) ancillary equipment;
+      (C) software, firmware, and related procedures;
+      (D) services, including support services; and
+      (E) related resources.

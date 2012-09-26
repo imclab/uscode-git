@@ -20,8 +20,9 @@
     (1) review and approve proposed agency collections of information;
     (2) coordinate the review of the collection of information associated with Federal procurement and acquisition by the Office of Information and Regulatory Affairs with the Office of Federal Procurement Policy, with particular emphasis on applying information technology to improve the efficiency and effectiveness of Federal procurement, acquisition and payment, and to reduce information collection burdens on the public;
     (3) minimize the Federal information collection burden, with particular emphasis on those individuals and entities most adversely affected;
-    (4) maximize the practical utility of and public benefit from information collected by or for the Federal Government; and
-    (5) establish and oversee standards and guidelines by which agencies are to estimate the burden to comply with a proposed collection of information.
+    (4) maximize the practical utility of and public benefit from information collected by or for the Federal Government;
+    (5) establish and oversee standards and guidelines by which agencies are to estimate the burden to comply with a proposed collection of information; \1\N
+    (6) publish in the Federal Register and make available on the Internet (in consultation with the Small Business Administration) on an annual basis a list of the compliance assistance resources available to small businesses, with the first such publication occurring not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
   (d) With respect to information dissemination, the Director shall develop and oversee the implementation of policies, principles, standards, and guidelines to–
     (1) apply to Federal agency dissemination of public information, regardless of the form or format in which such information is disseminated; and
     (2) promote public access to public information and fulfill the purposes of this subchapter, including through the effective use of information technology.
@@ -55,14 +56,13 @@
       (B) regulations promulgated by the Archivist of the United States and the Administrator of General Services; and
     (3) oversee the application of records management policies, principles, standards, and guidelines, including requirements for archiving information maintained in electronic format, in the planning and design of information systems.
   (g) With respect to privacy and security, the Director shall–
-    (1) develop and oversee the implementation of policies, principles, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for agencies;
-    (2) oversee and coordinate compliance with sections 552 and 552a of title 5, sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441), and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note),\1\N and related information management laws; and
-    (3) require Federal agencies, consistent with the standards and guidelines promulgated under section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note),\1\ to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
+    (1) develop and oversee the implementation of policies, principles, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for agencies; and
+    (2) oversee and coordinate compliance with sections 552 and 552a of title 5, sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 11331 of title 40 and subchapter II of this chapter, and related information management laws.
   (h) With respect to Federal information technology, the Director shall–
     (1) in consultation with the Director of the National Institute of Standards and Technology and the Administrator of General Services–
       (A) develop and oversee the implementation of policies, principles, standards, and guidelines for information technology functions and activities of the Federal Government, including periodic evaluations of major information systems; and
-      (B) oversee the development and implementation of standards under section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441);
-    (2) monitor the effectiveness of, and compliance with, directives issued under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.) and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757);
+      (B) oversee the development and implementation of standards under section 11331 of title 40;
+    (2) monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 of title 40;
     (3) coordinate the development and review by the Office of Information and Regulatory Affairs of policy associated with Federal procurement and acquisition of information technology with the Office of Federal Procurement Policy;
     (4) ensure, through the review of agency budget proposals, information resources management plans and other means–
       (A) agency integration of information resources management plans, program plans and budgets for acquisition and use of information technology; and

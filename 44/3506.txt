@@ -41,7 +41,7 @@
         (ii) evaluate the accuracy of the agency“s estimate of the burden of the proposed collection of information;
         (iii) enhance the quality, utility, and clarity of the information to be collected; and
         (iv) minimize the burden of the collection of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology; and
-      (B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv); and
+      (B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
     (3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507–
       (A) is necessary for the proper performance of the functions of the agency, including that the information has practical utility;
       (B) is not unnecessarily duplicative of information otherwise reasonably accessible to the agency;
@@ -55,7 +55,8 @@
       (G) contains the statement required under paragraph (1)(B)(iii);
       (H) has been developed by an office that has planned and allocated resources for the efficient and effective management and use of the information to be collected, including the processing of the information in a manner which shall enhance, where appropriate, the utility of the information to agencies and the public;
       (I) uses effective and efficient statistical survey methodology appropriate to the purpose for which the information is to be collected; and
-      (J) to the maximum extent practicable, uses information technology to reduce burden and improve data quality, agency efficiency and responsiveness to the public.
+      (J) to the maximum extent practicable, uses information technology to reduce burden and improve data quality, agency efficiency and responsiveness to the public; and
+    (4) in addition to the requirements of this chapter regarding the reduction of information collection burdens for small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), make efforts to further reduce the information collection burden for small business concerns with fewer than 25 employees.
   (d) With respect to information dissemination, each agency shall–
     (1) ensure that the public has timely and equitable access to the agency“s public information, including ensuring such access through–
       (A) encouraging a diversity of public and private sources for information based on government public information;
@@ -77,9 +78,8 @@
     (6) make data available to statistical agencies and readily accessible to the public.
   (f) With respect to records management, each agency shall implement and enforce applicable policies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
   (g) With respect to privacy and security, each agency shall–
-    (1) implement and enforce applicable policies, procedures, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for the agency;
-    (2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, the Computer Security Act of 1987 (40 U.S.C. 759 note),\1\N and related information management laws; and
-    (3) consistent with the Computer Security Act of 1987 (40 U.S.C. 759 note),\1\ identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
+    (1) implement and enforce applicable policies, procedures, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for the agency; and
+    (2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, subchapter II of this chapter, and related information management laws.
   (h) With respect to Federal information technology, each agency shall–
     (1) implement and enforce applicable Governmentwide and agency information technology management policies, principles, standards, and guidelines;
     (2) assume responsibility and accountability for information technology investments;
@@ -88,3 +88,5 @@
     (5) assume responsibility for maximizing the value and assessing and managing the risks of major information systems initiatives through a process that is–
       (A) integrated with budget, financial, and program management decisions; and
       (B) used to select, control, and evaluate the results of major information systems initiatives.
+        (i)          (1) In addition to the requirements described in subsection (c), each agency shall, with respect to the collection of information and the control of paperwork, establish 1 point of contact in the agency to act as a liaison between the agency and small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)).
+          (2) Each point of contact described under paragraph (1) shall be established not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
