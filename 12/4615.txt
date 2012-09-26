@@ -1,11 +1,34 @@
-  (a) Mandatory actions
-    (1) Capital restoration plan
-       An enterprise that is classified as undercapitalized shall, within the time period provided in section 4622(b) and (d) of this title, submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
-    (2) Restriction on capital distributions
-       An enterprise that is classified as undercapitalized may not make any capital distribution that would result in the enterprise being reclassified as significantly undercapitalized or critically undercapitalized.
-  (b) Discretionary reclassification from undercapitalized to significantly undercapitalized
-     The Director may reclassify as significantly undercapitalized an enterprise that is classified as undercapitalized (and the enterprise shall be subject to the provisions of section 4616 of this title) if–
-    (1) the enterprise does not submit a capital restoration plan that is substantially in compliance with section 4622 of this title within the applicable period or the Director does not approve the capital restoration plan submitted by the enterprise; or
-    (2) the Director determines that the enterprise has failed to make, in good faith, reasonable efforts necessary to comply with the capital restoration plan and fulfill the schedule for the plan approved by the Director.
-  (c) Effective date
-     This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test.
+  (a) In general
+     For purposes of this subchapter, the Director shall classify the enterprises according to the following capital classifications:
+    (1) Adequately capitalized
+       An enterprise shall be classified as adequately capitalized if the enterprise–
+      (A) maintains an amount of total capital that is equal to or exceeds the risk-based capital level established for the enterprise under section 4611 of this title; and
+      (B) maintains an amount of core capital that is equal to or exceeds the minimum capital level established for the enterprise under section 4612 of this title.
+    (2) Undercapitalized
+       An enterprise shall be classified as undercapitalized if–
+      (A) the enterprise–
+        (i) does not maintain an amount of total capital that is equal to or exceeds the risk-based capital level established for the enterprise; and
+        (ii) maintains an amount of core capital that is equal to or exceeds the minimum capital level established for the enterprise; or
+      (B) the enterprise is otherwise classified as undercapitalized under subsection (b)(1) of this section.
+    (3) Significantly undercapitalized
+       An enterprise shall be classified as significantly undercapitalized if–
+      (A) the enterprise–
+        (i) does not maintain an amount of total capital that is equal to or exceeds the risk-based capital level established for the enterprise;
+        (ii) does not maintain an amount of core capital that is equal to or exceeds the minimum capital level established for the enterprise; and
+        (iii) maintains an amount of core capital that is equal to or exceeds the critical capital level established for the enterprise under section 4613 of this title; or
+      (B) the enterprise is otherwise classified as significantly undercapitalized under subsection (b)(2) of this section or section 4615(b) of this title.
+    (4) Critically undercapitalized
+       An enterprise shall be classified as critically undercapitalized if–
+      (A) the enterprise–
+        (i) does not maintain an amount of total capital that is equal to or exceeds the risk-based capital level established for the enterprise; and
+        (ii) does not maintain an amount of core capital that is equal to or exceeds the critical capital level for the enterprise; or
+      (B) is otherwise classified as critically undercapitalized under subsection (b)(3) of this section or section 4616(b)(5) of this title.
+  (b) Discretionary classification
+     If at any time the Director determines in writing that an enterprise is engaging in conduct not approved by the Director that could result in a rapid depletion of core capital or that the value of the property subject to mortgages held or securitized by the enterprise has decreased significantly, the Director may classify the enterprise–
+    (1) as undercapitalized, if the enterprise is otherwise classified as adequately capitalized;
+    (2) as significantly undercapitalized, if the enterprise is otherwise classified as undercapitalized; and
+    (3) as critically undercapitalized, if the enterprise is otherwise classified as significantly undercapitalized.
+  (c) Quarterly determination
+     The Director shall determine the capital classification of the enterprises for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (b) of this section). The first such determination shall be made during the 3-month period beginning on the appointment of the Director.
+  (d) Implementation
+     Notwithstanding any other provision of this section, during the period beginning on October 28, 1992, and ending upon the effective date of section 4615 of this title (as provided in section 4615(c) of this title), an enterprise shall be classified as adequately capitalized if the enterprise maintains an amount of core capital that is equal to or exceeds the minimum capital level for the enterprise under section 4612 of this title.
