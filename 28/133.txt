@@ -44,8 +44,8 @@
      WesternD4  
      Eastern and WesternD1  
      Louisiana:
-     EasternD13  
-     MiddleD2  
+     EasternD12  
+     MiddleD3  
      WesternD7  
      MaineD3  
      MarylandD10  
