@@ -78,32 +78,58 @@
     (2) For purposes of paragraph (1), a plan amendment which has the effect of–
       (A) eliminating or reducing an early retirement benefit or a retirement-type subsidy (as defined in regulations), or
       (B) eliminating an optional form of benefit,
-         with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
+         with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
     (3) For purposes of this subsection, any–
       (A) tax credit employee stock ownership plan (as defined in section 409(a) of title 26, or
       (B) employee stock ownership plan (as defined in section 4975(e)(7) of title 26),
          shall not be treated as failing to meet the requirements of this subsection merely because it modifies distribution options in a nondiscriminatory manner.
+    (4)      (A) A defined contribution plan (in this subparagraph referred to as the ””transferee plan““) shall not be treated as failing to meet the requirements of this subsection merely because the transferee plan does not provide some or all of the forms of distribution previously available under another defined contribution plan (in this subparagraph referred to as the ””transferor plan““) to the extent that–
+        (i) the forms of distribution previously available under the transferor plan applied to the account of a participant or beneficiary under the transferor plan that was transferred from the transferor plan to the transferee plan pursuant to a direct transfer rather than pursuant to a distribution from the transferor plan;
+        (ii) the terms of both the transferor plan and the transferee plan authorize the transfer described in clause (i);
+        (iii) the transfer described in clause (i) was made pursuant to a voluntary election by the participant or beneficiary whose account was transferred to the transferee plan;
+        (iv) the election described in clause (iii) was made after the participant or beneficiary received a notice describing the consequences of making the election; and
+        (v) the transferee plan allows the participant or beneficiary described in clause (iii) to receive any distribution to which the participant or beneficiary is entitled under the transferee plan in the form of a single sum distribution.
+      (B) Subparagraph (A) shall apply to plan mergers and other transactions having the effect of a direct transfer, including consolidations of benefits attributable to different employers within a multiple employer plan.
+    (5) Except to the extent provided in regulations promulgated by the Secretary of the Treasury, a defined contribution plan shall not be treated as failing to meet the requirements of this subsection merely because of the elimination of a form of distribution previously available thereunder. This paragraph shall not apply to the elimination of a form of distribution with respect to any participant unless–
+      (A) a single sum payment is available to such participant at the same time or times as the form of distribution being eliminated; and
+      (B) such single sum payment is based on the same or greater portion of the participant“s account as the form of distribution being eliminated.
   (h) Notice of significant reduction in benefit accruals
-    (1) A plan described in paragraph (2) may not be amended so as to provide for a significant reduction in the rate of future benefit accrual, unless, after adoption of the plan amendment and not less than 15 days before the effective date of the plan amendment, the plan administrator provides a written notice, setting forth the plan amendment and its effective date, to–
-      (A) each participant in the plan,
-      (B) each beneficiary who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title), and
-      (C) each employee organization representing participants in the plan,
-         except that such notice shall instead be provided to a person designated, in writing, to receive such notice on behalf of any person referred to in subparagraph (A), (B), or (C).
-    (2) A plan is described in this paragraph if such plan is–
-      (A) a defined benefit plan, or
-      (B) an individual account plan which is subject to the funding standards of section 1082 of this title.
-        (i) Prohibition on benefit increases where plan sponsor is in bankruptcy
-          (1) In the case of a plan described in paragraph (3) which is maintained by an employer that is a debtor in a case under title 11 or similar Federal or State law, no amendment of the plan which increases the liabilities of the plan by reason of–
-            (A) any increase in benefits,
-            (B) any change in the accrual of benefits, or
-            (C) any change in the rate at which benefits become nonforfeitable under the plan,
-               with respect to employees of the debtor, shall be effective prior to the effective date of such employer“s plan of reorganization.
-          (2) Paragraph (1) shall not apply to any plan amendment that–
-            (A) the Secretary of the Treasury determines to be reasonable and that provides for only de minimis increases in the liabilities of the plan with respect to employees of the debtor,
-            (B) only repeals an amendment described in section 1082(c)(8) of this title,
-            (C) is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26, or
-            (D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
-          (3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funded current liability percentage (within the meaning of section 1082(d)(8) of this title) is less than 100 percent after taking into account the effect of the amendment.
-          (4) For purposes of this subsection, the term ””employer““ has the meaning set forth in section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title.
-        (j) Cross reference
-           T2For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.
+    (1) An applicable pension plan may not be amended so as to provide for a significant reduction in the rate of future benefit accrual unless the plan administrator provides the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals).
+    (2) The notice required by paragraph (1) shall be written in a manner calculated to be understood by the average plan participant and shall provide sufficient information (as determined in accordance with regulations prescribed by the Secretary of the Treasury) to allow applicable individuals to understand the effect of the plan amendment. The Secretary of the Treasury may provide a simplified form of notice for, or exempt from any notice requirement, a plan–
+      (A) which has fewer than 100 participants who have accrued a benefit under the plan, or
+      (B) which offers participants the option to choose between the new benefit formula and the old benefit formula.
+    (3) Except as provided in regulations prescribed by the Secretary of the Treasury, the notice required by paragraph (1) shall be provided within a reasonable time before the effective date of the plan amendment.
+    (4) Any notice under paragraph (1) may be provided to a person designated, in writing, by the person to which it would otherwise be provided.
+    (5) A plan shall not be treated as failing to meet the requirements of paragraph (1) merely because notice is provided before the adoption of the plan amendment if no material modification of the amendment occurs before the amendment is adopted.
+    (6)      (A) In the case of any egregious failure to meet any requirement of this subsection with respect to any plan amendment, the provisions of the applicable pension plan shall be applied as if such plan amendment entitled all applicable individuals to the greater of–
+        (i) the benefits to which they would have been entitled without regard to such amendment, or
+        (ii) the benefits under the plan with regard to such amendment.
+      (B) For purposes of subparagraph (A), there is an egregious failure to meet the requirements of this subsection if such failure is within the control of the plan sponsor and is–
+        (i) an intentional failure (including any failure to promptly provide the required notice or information after the plan administrator discovers an unintentional failure to meet the requirements of this subsection),
+        (ii) a failure to provide most of the individuals with most of the information they are entitled to receive under this subsection, or
+        (iii) a failure which is determined to be egregious under regulations prescribed by the Secretary of the Treasury.
+    (7) The Secretary of the Treasury may by regulations allow any notice under this subsection to be provided by using new technologies.
+    (8) For purposes of this subsection–
+      (A) The term ””applicable individual““ means, with respect to any plan amendment–
+        (i) each participant in the plan; and
+        (ii) any beneficiary who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title),
+       whose rate of future benefit accrual under the plan may reasonably be expected to be significantly reduced by such plan amendment.
+      (B) The term ””applicable pension plan““ means–
+        (i) any defined benefit plan; or
+        (ii) an individual account plan which is subject to the funding standards of section 412 of title 26.
+    (9) For purposes of this subsection, a plan amendment which eliminates or significantly reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A) of this section) shall be treated as having the effect of significantly reducing the rate of future benefit accrual.
+      (i) Prohibition on benefit increases where plan sponsor is in bankruptcy
+        (1) In the case of a plan described in paragraph (3) which is maintained by an employer that is a debtor in a case under title 11 or similar Federal or State law, no amendment of the plan which increases the liabilities of the plan by reason of–
+          (A) any increase in benefits,
+          (B) any change in the accrual of benefits, or
+          (C) any change in the rate at which benefits become nonforfeitable under the plan,
+             with respect to employees of the debtor, shall be effective prior to the effective date of such employer“s plan of reorganization.
+        (2) Paragraph (1) shall not apply to any plan amendment that–
+          (A) the Secretary of the Treasury determines to be reasonable and that provides for only de minimis increases in the liabilities of the plan with respect to employees of the debtor,
+          (B) only repeals an amendment described in section 1082(c)(8) of this title,
+          (C) is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26, or
+          (D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
+        (3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funded current liability percentage (within the meaning of section 1082(d)(8) of this title) is less than 100 percent after taking into account the effect of the amendment.
+        (4) For purposes of this subsection, the term ””employer““ has the meaning set forth in section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title.
+      (j) Cross reference
+         T2For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.

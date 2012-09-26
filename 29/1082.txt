@@ -25,7 +25,7 @@
       (D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard, the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
     (4) Under regulations prescribed by the Secretary of the Treasury, amounts required to be amortized under paragraph (2) or paragraph (3), as the case may be–
       (A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
-      (B) may be off set against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
+      (B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
     (5) T4Interest.–
       (A) T4In generalK.–The funding standard account (and items therein) shall be charged or credited (as determined under regulations prescribed by the Secretary of the Treasury) with interest at the appropriate rate consistent with the rate or rates of interest used under the plan to determine costs.
       (B) T4Required change of interest rateK.–For purposes of determining a plan“s current liability and for purposes of determining a plan“s required contribution under subsection (d) of this section for any plan year–
@@ -78,7 +78,7 @@
       (B) all amounts described in paragraphs (2), (B), (C), and (D) and (3)(B) of subsection (b) of this section which are required to be amortized shall be considered fully amortized for purposes of such paragraphs.
     (7) T4Full-funding limitation.–
       (A) T4In generalK.–For purposes of paragraph (6), the term ””full-funding limitation““ means the excess (if any) of–
-        (i) the lesser of (I) the applicable percentage of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
+        (i) the lesser of (I) in the case of plan years beginning before January 1, 2004, the applicable percentage of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
         (ii) the lesser of–
           (I) the fair market value of the plan“s assets, or
           (II) the value of such assets determined under paragraph (2).
@@ -95,24 +95,23 @@
           (I) the term ””current liability““ has the meaning given such term by subsection (d)(7) of this section (without regard to subparagraph (D) thereof), and
           (II) assets shall not be reduced by any credit balance in the funding standard account.
       (F) T4Applicable percentageK.–For purposes of subparagraph (A)(i)(I), the applicable percentage shall be determined in accordance with the following table:
-         T2In the case of any plan
+         T2In the case of any plan year
          T2The applicable
-         T2 year beginning in–
+         T2 beginning in calendar year–
          T2percentage is–
-           1999 or 2000
-         155  
-           2001 or 2002
-         160  
-           2003 or 2004
+           2002
          165  
-           2005 and succeeding years
+           2003
          170.
     (8) For purposes of this part, any amendment applying to a plan year which–
       (A) is adopted after the close of such plan year but no later than 2\1/2\ months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),
       (B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
       (C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
          shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment or, within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless he determines that such amendment is necessary because of a substantial business hardship (as determined under section 1083(b) of this title) and that waiver under section 1083(a) of this title is unavailable or inadequate.
-    (9) For purposes of this part, a determination of experience gains and losses and a valuation of the plan“s liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary of the Treasury.
+    (9)      (A) For purposes of this part, a determination of experience gains and losses and a valuation of the plan“s liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary of the Treasury.
+      (B)        (i) Except as provided in clause (ii), the valuation referred to in subparagraph (A) shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
+        (ii) The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 125 percent of the plan“s current liability (as defined in paragraph (7)(B)).
+        (iii) Information under clause (ii) shall, in accordance with regulations, be actuarially adjusted to reflect significant differences in participants.
     (10) For purposes of this section–
       (A) In the case of a defined benefit plan other than a multiemployer plan, any contributions for a plan year made by an employer during the period–
         (i) beginning on the day after the last day of such plan year, and
