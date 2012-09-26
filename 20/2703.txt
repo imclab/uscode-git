@@ -2,7 +2,7 @@
     (1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3) of this section, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if–
       (A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
       (B) the sum of (i) the cost or value of the materials produced in a beneficiary country or two or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
-         For purposes of determining the percentage referred to in subparagraph (B), the term ””beneficiary country““ includes the Commonwealth of Puerto Rico and the United States Virgin Islands. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
+         For purposes of determining the percentage referred to in subparagraph (B), the term ””beneficiary country““ includes the Commonwealth of Puerto Rico, the United States Virgin Islands, and any former beneficiary country. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
     (2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out this subsection including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone–
       (A) simple combining or packaging operations, or
       (B) mere dilution with water or mere dilution with another substance that does not materially alter the characteristics of the article.
@@ -67,6 +67,7 @@
             (cc) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the action proposed to be proclaimed and the reasons for such actions, and the advice obtained under division (bb);
             (dd) a period of 60 calendar days, beginning with the first day on which the President has met the requirements of division (cc), has expired; and
             (ee) the President has consulted with such committees regarding the proposed action during the period referred to in division (cc).
+          (III) If the President determines that any fabric or yarn was determined to be eligible for preferential treatment under subclause (I) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
         (vi) Handloomed, handmade, and folklore articles
            A handloomed, handmade, or folklore article of a CBTPA beneficiary country identified under subparagraph (C) that is certified as such by the competent authority of such beneficiary country.
         (vii) Special rules
@@ -181,6 +182,17 @@
          The term ””CBTPA““ means the United States-Caribbean Basin Trade Partnership Act.
       (F) FTAA
          The term ””FTAA““ means the Free Trade Area of the Americas.
+      (G) Former CBTPA beneficiary country
+         The term ””former CBTPA beneficiary country““ means a country that ceases to be designated as a CBTPA beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
+      (H) Articles that undergo production in a CBTPA beneficiary country and a former CBTPA beneficiary country
+        (i) For purposes of determining the eligibility of an article for preferential treatment under paragraph (2) or (3), references in either such paragraph, and in subparagraph (C) of this paragraph to–
+          (I) a ””CBTPA beneficiary country““ shall be considered to include any former CBTPA beneficiary country, and
+          (II) ””CBTPA beneficiary countries““ shall be considered to include former CBTPA beneficiary countries,
+         if the article, or a good used in the production of the article, undergoes production in a CBTPA beneficiary country.
+        (ii) An article that is eligible for preferential treatment under clause (i) shall not be ineligible for such treatment because the article is imported directly from a former CBTPA beneficiary country.
+        (iii) Notwithstanding clauses (i) and (ii), an article that is a good of a former CBTPA beneficiary country for purposes of section 1304 of this title or section 3592 of this title, as the case may be, shall not be eligible for preferential treatment under paragraph (2) or (3), unless–
+          (I) it is an article that is a good of the Dominican Republic under either such section 1304 or 3592 of this title; and
+          (II) the article, or a good used in the production of the article, undergoes production in Haiti.
   (c) Sugar and beef products; stable food production plan; suspension of duty-free treatment; monitoring
     (1) As used in this subsection–
       (A) The term ””sugar and beef products““ means–

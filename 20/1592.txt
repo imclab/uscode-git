@@ -60,7 +60,9 @@
          An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
       (B) Time periods for making corrections
          In the regulations referred to in subparagraph (A), the Secretary of the Treasury is authorized to prescribe time periods for making a corrected declaration and paying duties owing under subparagraph (A), if such periods are not shorter than 1 year following the date on which the importer makes the incorrect claim.
-    (9) Seizure
+    (9) Prior disclosure regarding claims under the Dominican Republic-Central America-United States Free Trade Agreement
+       An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 4033 of this title if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
+    (10) Seizure
        If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) of this section and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c) of this section.
   (d) Deprivation of lawful duties, taxes, or fees
      Notwithstanding section 1514 of this title, if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a) of this section, the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
@@ -90,3 +92,12 @@
        A person may not be considered to have violated paragraph (1) if–
       (A) the information was correct at the time it was provided in a Chile FTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
       (B) the person immediately and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certificate.
+  (h) False certifications of origin under the Dominican Republic-Central America-United States Free Trade Agreement
+    (1) In general
+       Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CAFTA–DR certification of origin (as defined in section 1508(g)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 4033 of this title. The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of this subsection.
+    (2) Prompt and voluntary disclosure of incorrect information
+       No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a CAFTA–DR certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
+    (3) Exception
+       A person may not be considered to have violated paragraph (1) if–
+      (A) the information was correct at the time it was provided in a CAFTA–DR certification of origin but was later rendered incorrect due to a change in circumstances; and
+      (B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
