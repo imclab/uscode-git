@@ -12,6 +12,8 @@
       (D) a public or quasi-public agency.
     (4) Fund
        The term ””Fund““ means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e) of this section.
+    (5) Intermediary
+       The term ””intermediary““ means a financial institution receiving Center funds for establishing a revolving fund and relending to an eligible entity.
   (b) Establishment of Center
      The Secretary shall establish a National Sheep Industry Improvement Center.
   (c) Purposes
@@ -44,27 +46,30 @@
       (F) any other funds acquired by the Center.
     (3) Use of Fund
       (A) In general
-         The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.
+         The Center may use amounts in the Fund to make direct loans, loan guarantees, cooperative agreements, equity interests, investments, repayable grants, and grants to eligible entities, either directly or through an intermediary, in accordance with a strategic plan submitted under subsection (d) of this section.
       (B) Continued existence
-         The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c) of this section.
+         The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c) of this section. The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.
       (C) Diverse area
          The Center shall, to the maximum extent practicable, use the Fund to serve broad geographic areas and regions of diverse production.
-      (D) Variety of loans and grants
-         The Center shall, to the maximum extent practicable, use the Fund to provide a variety of grants and intermediate- and long-term loans.
-      (E) Administration
-         The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center.
-      (F) Influencing legislation
+      (D) Administration
+         The Center may not use more than 3 percent of the amounts in the portfolio of the Center for each fiscal year for the administration of the Center. The portfolio shall be calculated at the beginning of each fiscal year and shall include a total of–
+        (i) all outstanding loan balances;
+        (ii) the Fund balance;
+        (iii) the outstanding balance to intermediaries; and
+        (iv) the amount the Center paid for all equity interests.
+      (E) Influencing legislation
          None of the amounts in the Fund may be used to influence legislation.
-      (G) Accounting
+      (F) Accounting
          To be eligible to receive amounts from the Fund, an entity must agree to account for the amounts using generally accepted accounting principles.
-      (H) Uses of Fund
+      (G) Uses of Fund
          The Center may use amounts in the Fund to–
         (i) participate with Federal and State agencies in financing activities that are in accordance with a strategic plan submitted under subsection (d) of this section, including participation with several States in a regional effort;
         (ii) participate with other public and private funding sources in financing activities that are in accordance with the strategic plan, including participation in a regional effort;
         (iii) provide security for, or make principal or interest payments on, revenue or general obligation bonds issued by a State, if the proceeds from the sale of the bonds are deposited in the Fund;
         (iv) accrue interest;
-        (v) guarantee or purchase insurance for local obligations to improve credit market access or reduce interest rates for a project that is in accordance with the strategic plan; or
-        (vi) sell assets, loans, and equity interests acquired in connection with the financing of projects funded by the Center.
+        (v) guarantee or purchase insurance for local obligations to improve credit market access or reduce interest rates for a project that is in accordance with the strategic plan;
+        (vi) sell assets, loans, and equity interests acquired in connection with the financing of projects funded by the Center; or
+        (vii) purchase equity interests.
     (4) Loans
       (A) Rate
          A loan from the Fund may be made at an interest rate that is below the market rate or may be interest free.
@@ -85,17 +90,13 @@
          Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $20,000,000 to carry out this section.
       (C) Additional funds
          In addition to any funds provided under subparagraph (B), there is authorized to be appropriated $30,000,000 to carry out this section.
-      (D) Privatization
-         No additional Federal funds shall be used to carry out this section beginning on the earlier of–
-        (i) the date that is 10 years after April 4, 1996; or
-        (ii) the day after a total of $50,000,000 has been made available under subparagraphs (B) and (C) to carry out this section.
   (f) Board of Directors
     (1) In general
        The management of the Center shall be vested in a Board of Directors.
     (2) Powers
        The Board shall–
       (A) be responsible for the general supervision of the Center;
-      (B) review any grant, loan, contract, or cooperative agreement to be made or entered into by the Center and any financial assistance provided to the Center;
+      (B) review any contract, direct loan, loan guarantee, cooperative agreement, equity interest, investment, repayable grant, and grant to be made or entered into by the Center and any financial assistance provided to the Center;
       (C) make the final decision, by majority vote, on whether and how to provide assistance to an applicant; and
       (D) develop and establish a budget plan and a long-term operating plan to carry out the goals of the Center.
     (3) Composition
@@ -119,13 +120,13 @@
          Subject to subparagraph (B), the term of office of a voting member of the Board shall be 3 years.
       (B) Staggered initial terms
          The initial voting members of the Board (other than the chairperson of the initially established Board) shall serve for staggered terms of 1, 2, and 3 years, as determined by the Secretary.
-      (C) Reelection
-         A voting member may be reelected for not more than 1 additional term.
+      (C) Reappointment
+         A voting member may be reappointed for not more than one additional term.
     (6) Vacancy
       (A) In general
          A vacancy on the Board shall be filled in the same manner as the original Board.
-      (B) Reelection
-         A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term.
+      (B) Reappointment
+         A voting member appointed to fill a vacancy for an unexpired term may be reappointed for one full term.
     (7) Chairperson
       (A) In general
          The Board shall select a chairperson from among the voting members of the Board.
@@ -210,3 +211,31 @@
           (C) impose other appropriate sanctions, including recoupment of money improperly expended for purposes prohibited or not authorized by this Act and disqualification from receipt of financial assistance under this section.
         (3) Rescission of sanctions
            The Secretary shall rescind sanctions imposed under paragraph (2) on a finding by the Secretary that there is no longer any failure by the Board or the Center to comply with this section or that the noncompliance will be promptly corrected.
+      (j) Privatization
+        (1) In general
+           Privatization of a revolving fund for the purposes of assisting the United States sheep and goat industries shall occur on the earlier of–
+          (A) September 30, 2006; or
+          (B) the date as of which a total of $30,000,000 has been appropriated for the Center under subsection (e)(6)(C) of this section.
+        (2) Privatization proposal
+           On privatization of a revolving fund in accordance with paragraph (1), the Board shall submit to the Secretary, for approval, a privatization proposal that–
+          (A) delineates a private successor entity to the Center; and
+          (B) establishes a transition plan.
+        (3) Private successor entity
+           The private successor entity shall–
+          (A) have the purposes described in subsection (c) of this section;
+          (B) be organized under the laws of one of the States; and
+          (C) be able to continue the activities of the Center.
+        (4) Transition plan
+           The transition plan shall–
+          (A) identify any continuing role of the Federal Government with respect to the Center;
+          (B) provide for the transfer of all Center assets and liabilities to the private successor entity; and
+          (C) delineate the status of the Board and employees of the Center.
+        (5) Implementation
+          (A) In general
+             On approval by the Secretary of the private successor entity and the transition plan, the Center shall create the private successor entity and implement the transition plan.
+          (B) Authority
+             The Secretary shall have all necessary authority to implement the transition plan.
+        (6) Transfer of funds
+           On creation of the private successor entity, all funds held by the Department of the Treasury pursuant to this section shall be transferred to the private successor entity.
+        (7) Repeal
+           On the date the Secretary publishes notice in the Federal Register that the transition plan is complete, this section is repealed.

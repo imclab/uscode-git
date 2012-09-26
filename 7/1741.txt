@@ -1,9 +1,9 @@
    The Commodity Credit Corporation shall, as rapidly as the Secretary of Agriculture shall determine to be practicable, set aside within its inventories not more than the following maximum quantities and not less than the following minimum quantities of agricultural commodities or products thereof heretofore or hereafter acquired by it from 1954 and prior years“ crops and production in connection with its price support operations:
     h1Commodityh1Maximum quantityh1Minimum quantityj
-   Wheat (bushels)D500,000,000D400,000,000
-   Upland cotton (bales)D4,000,000D3,000,000
-   Cottonseed oil (pounds)D500,000,000D0
-   Butter (pounds)D200,000,000D0
-   Nonfat dry milk solids (pounds)D300,000,000D0
-   Cheese (pounds)D150,000,000D0
+   Wheat (bushels) D500,000,000 D400,000,000
+   Upland cotton (bales) D4,000,000 D3,000,000
+   Cottonseed oil (pounds) D500,000,000 D0
+   Butter (pounds) D200,000,000 D0
+   Nonfat dry milk solids (pounds) D300,000,000 D0
+   Cheese (pounds) D150,000,000 D0
    Such quantities shall be known as the ””commodity set-aside““.
