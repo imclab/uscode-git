@@ -32,9 +32,11 @@
          The CEO shall certify to the appropriate congressional committees that the operational and communications security requirements and practices of DTS conform to the highest security requirements and practices required by any agency utilizing the DTS.
       (D) Reports to Congress
         (i) Semiannual reports
-           Beginning on August 1, 2001, and every 6 months thereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issues that hinder the ability of DTS-PO to fulfill its mandate.
-        (ii) Other reports
-           In addition to the report required by clause (i), the CEO shall keep the appropriate congressional committees of jurisdiction fully and currently informed with regard to DTS-PO activities, particularly with regard to any significant security infractions or major outages in the DTS.
+           Except as provided in clause (ii), beginning on August 1, 2001, and every 6 months thereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issues that hinder the ability of DTS-PO to fulfill its mandate.
+        (ii) Submittal date of reports to congressional intelligence committees
+           In the case of reports required to be submitted under clause (i) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal dates for such reports shall be as provided in section 415b of title 50.
+        (iii) Other reports
+           In addition to the reports required by clause (i), the CEO shall keep the appropriate congressional committees of jurisdiction fully and currently informed with regard to DTS-PO activities, particularly with regard to any significant security infractions or major outages in the DTS.
   (b) Establishment of positions of Deputy Executive Officer
     (1) In general
        There shall be two Deputy Executive Officers of the Diplomatic Telecommunications Service Program Office, each to be appointed by the President.
