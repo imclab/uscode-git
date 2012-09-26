@@ -4,7 +4,14 @@
       (B) bear a notice that any further reproduction or distribution in a format other than a specialized format is an infringement; and
       (C) include a copyright notice identifying the copyright owner and the date of the original publication.
     (2) The provisions of this subsection shall not apply to standardized, secure, or norm-referenced tests and related testing material, or to computer programs, except the portions thereof that are in conventional human language (including descriptions of pictorial works) and displayed to users in the ordinary course of using the computer programs.
-  (c) For purposes of this section, the term–
+  (c) Notwithstanding the provisions of section 106, it is not an infringement of copyright for a publisher of print instructional materials for use in elementary or secondary schools to create and distribute to the National Instructional Materials Access Center copies of the electronic files described in sections 612(a)(23)(C), 613(a)(6), and section 674(e) of the Individuals with Disabilities Education Act that contain the contents of print instructional materials using the National Instructional Material Accessibility Standard (as defined in section 674(e)(3) of that Act), if–
+    (1) the inclusion of the contents of such print instructional materials is required by any State educational agency or local educational agency;
+    (2) the publisher had the right to publish such print instructional materials in print formats; and
+    (3) such copies are used solely for reproduction or distribution of the contents of such print instructional materials in specialized formats.
+  (d) For purposes of this section, the term–
     (1) ””authorized entity““ means a nonprofit organization or a governmental agency that has a primary mission to provide specialized services relating to training, education, or adaptive reading or information access needs of blind or other persons with disabilities;
-    (2) ””blind or other persons with disabilities““ means individuals who are eligible or who may qualify in accordance with the Act entitled ””An Act to provide books for the adult blind““, approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats; and
-    (3) ””specialized formats““ means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities.
+    (2) ””blind or other persons with disabilities““ means individuals who are eligible or who may qualify in accordance with the Act entitled ””An Act to provide books for the adult blind““, approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats;
+    (3) ””print instructional materials““ has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act; and
+    (4) ””specialized formats““ means–
+      (A) braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities; and
+      (B) with respect to print instructional materials, includes large print formats when such materials are distributed exclusively for use by blind or other persons with disabilities.
