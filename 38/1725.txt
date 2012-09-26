@@ -1,4 +1,4 @@
-  (a) T4General AuthorityK.–(1) Subject to subsections (c) and (d), the Secretary may reimburse a veteran described in subsection (b) for the reasonable value of emergency treatment furnished the veteran in a non-Department facility.
+  (a) T4General AuthorityK.–(1) Subject to subsections (c) and (d), the Secretary shall reimburse a veteran described in subsection (b) for the reasonable value of emergency treatment furnished the veteran in a non-Department facility.
   (2) In any case in which reimbursement is authorized under subsection (a)(1), the Secretary, in the Secretary“s discretion, may, in lieu of reimbursing the veteran, make payment of the reasonable value of the furnished emergency treatment directly–
     (A) to a hospital or other health care provider that furnished the treatment; or
     (B) to the person or organization that paid for such treatment on behalf of the veteran.
@@ -26,7 +26,11 @@
     (1) The term ””emergency treatment““ means medical care or services furnished, in the judgment of the Secretary–
       (A) when Department or other Federal facilities are not feasibly available and an attempt to use them beforehand would not be reasonable;
       (B) when such care or services are rendered in a medical emergency of such nature that a prudent layperson reasonably expects that delay in seeking immediate medical attention would be hazardous to life or health; and
-      (C) until such time as the veteran can be transferred safely to a Department facility or other Federal facility.
+      (C) until–
+        (i) such time as the veteran can be transferred safely to a Department facility or other Federal facility and such facility is capable of accepting such transfer; or
+        (ii) such time as a Department facility or other Federal facility accepts such transfer if–
+          (I) at the time the veteran could have been transferred safely to a Department facility or other Federal facility, no Department facility or other Federal facility agreed to accept such transfer; and
+          (II) the non-Department facility in which such medical care or services was furnished made and documented reasonable attempts to transfer the veteran to a Department facility or other Federal facility.
     (2) The term ””health-plan contract““ includes any of the following:
       (A) An insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar arrangement under which health services for individuals are provided or the expenses of such services are paid.
       (B) An insurance program described in section 1811 of the Social Security Act (42 U.S.C. 1395c) or established by section 1831 of that Act (42 U.S.C. 1395j).
