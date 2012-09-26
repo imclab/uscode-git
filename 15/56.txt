@@ -2,12 +2,13 @@
     (1) Except as otherwise provided in paragraph (2) or (3), if–
       (A) before commencing, defending, or intervening in, any civil action involving this subchapter (including an action to collect a civil penalty) which the Commission, or the Attorney General on behalf of the Commission, is authorized to commence, defend, or intervene in, the Commission gives written notification and undertakes to consult with the Attorney General with respect to such action; and
       (B) the Attorney General fails within 45 days after receipt of such notification to commence, defend, or intervene in, such action;
-         the Commission may commence, defend, or intervene in, and supervise the litigation or, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose.
+         the Commission may commence, defend, or intervene in, and supervise the litigation of, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose.
     (2) Except as otherwise provided in paragraph (3), in any civil action–
       (A) under section 53 of this title (relating to injunctive relief);
       (B) under section 57b of this title (relating to consumer redress);
-      (C) to obtain judicial review of a rule prescribed by the Commission, or a cease and desist order issued under section 45 of this title; or
-      (D) under the second paragraph of section 49 of this title (relating to enforcement of a subpena) and under the fourth paragraph of such section (relating to compliance with section 46 of this title);
+      (C) to obtain judicial review of a rule prescribed by the Commission, or a cease and desist order issued under section 45 of this title;
+      (D) under the second paragraph of section 49 of this title (relating to enforcement of a subpena) and under the fourth paragraph of such section (relating to compliance with section 46 of this title); or
+      (E) under section 57b–2a of this title;
          the Commission shall have exclusive authority to commence or defend, and supervise the litigation of, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose, unless the Commission authorizes the Attorney General to do so. The Commission shall inform the Attorney General of the exercise of such authority and such exercise shall not preclude the Attorney General from intervening on behalf of the United States in such action and any appeal of such action as may be otherwise provided by law.
     (3)      (A) If the Commission makes a written request to the Attorney General, within the 10-day period which begins on the date of the entry of the judgment in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), to represent itself through any of its attorneys designated by it for such purpose before the Supreme Court in such action, it may do so, if–
         (i) the Attorney General concurs with such request; or
@@ -20,3 +21,12 @@
     (5) The provisions of this subsection shall apply notwithstanding chapter 31 of title 28, or any other provision of law.
   (b) Certification by Commission to Attorney General for criminal proceedings
      Whenever the Commission has reason to believe that any person, partnership, or corporation is liable for a criminal penalty under this subchapter, the Commission shall certify the facts to the Attorney General, whose duty it shall be to cause appropriate criminal proceedings to be brought.
+  (c) Foreign litigation
+    (1) Commission attorneys
+       With the concurrence of the Attorney General, the Commission may designate Commission attorneys to assist the Attorney General in connection with litigation in foreign courts on particular matters in which the Commission has an interest.
+    (2) Reimbursement for foreign counsel
+       The Commission is authorized to expend appropriated funds, upon agreement with the Attorney General, to reimburse the Attorney General for the retention of foreign counsel for litigation in foreign courts and for expenses related to litigation in foreign courts in which the Commission has an interest.
+    (3) Limitation on use of funds
+       Nothing in this subsection authorizes the payment of claims or judgments from any source other than the permanent and indefinite appropriation authorized by section 1304 of title 31.
+    (4) Other authority
+       The authority provided by this subsection is in addition to any other authority of the Commission or the Attorney General.

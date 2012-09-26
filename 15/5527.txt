@@ -1,6 +1,6 @@
   (a) Nonapplicability
      Except to the extent the appropriate Federal agency or department head determines, the provisions of this chapter shall not apply to–
     (1) programs or activities regarding computer systems that process classified information; or
-    (2) computer systems the function, operation, or use of which are those delineated in paragraphs (1) through (5) of section 2315(a) of title 10.
+    (2) computer systems the function, operation, or use of which are those delineated in paragraphs (1) through (5) of section 2315(a) of title 10.\1\N
   (b) Acquisition of prototype and early production models
      In accordance with Federal contracting law, Federal agencies and departments participating in the Program may acquire prototype or early production models of new high-performance computing systems and subsystems to stimulate hardware and software development. Items of computing equipment acquired under this subsection shall be considered research computers for purposes of applicable acquisition regulations.
