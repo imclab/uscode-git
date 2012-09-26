@@ -9,3 +9,7 @@
     (B) For the purposes of subparagraph (A)–
       (i) continuity of session is broken only by an adjournment of Congress sine die; and
       (ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.
+  (c) T4Notification of Determinations Regarding Certain Commercial ItemsK.–The first time that a weapon system or other item of military equipment described in subsection (a)(3) is determined to be a commercial item for the purposes of the exception contained in that subsection, the Secretary of Defense shall submit to Congress a notification of the determination, together with the justification for the determination. The justification for the determination shall include, at a minimum, the following:
+    (1) The estimated percentage of commonality of parts of the version of the item that is sold or leased in the commercial marketplace and the Government“s version of the item.
+    (2) The value of any unique support and test equipment and tools that are necessary to support the military requirements if the item were maintained by the Government.
+    (3) A comparison of the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the private sector with the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the Government.

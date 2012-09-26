@@ -13,22 +13,22 @@
         
        oi0xl3911
        oi0xl3914
-       oi0xl3992DMonthly basic pay of grade to which member is advanced on retired list.
+       oi0xl3992 DMonthly basic pay of grade to which member is advanced on retired list.
     (2) T4Rate of basic pay to be usedK.–The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member“s retirement.
   (d) T4Retirement for Members of the Navy and Marine CorpsK.–In the case of a member whose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
       
      oi0xl6323  
-     oi0xl6325(b)DBasic pay of the grade the officer would hold if he had not received an appointment described in section 6325(b).
-     oi0xl6326  DBasic pay of the pay grade in which the member was serving on the day before retirement.
-     oi0xl6330  DBasic pay that the member received at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve.
-     oi0xl6151  DBasic pay of the grade to which the member is advanced under section 6151.
-     oi06334 DBasic pay of the grade to which the member is advanced under section 6334.
+     oi0xl6325(b) DBasic pay of the grade the officer would hold if he had not received an appointment described in section 6325(b).
+     oi0xl6326   DBasic pay of the pay grade in which the member was serving on the day before retirement.
+     oi0xl6330   DBasic pay that the member received at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve.
+     oi0xl6151   DBasic pay of the grade to which the member is advanced under section 6151.
+     oi06334  DBasic pay of the grade to which the member is advanced under section 6334.
   (e) T4Voluntary Retirement for Members of the Air Force.–
     (1) T4In generalK.–In the case of a member whose retired pay is computed under section 8991 of this title or who is entitled to retired pay computed under section 8992 of this title, the retired pay base is determined in accordance with the following table.
         
        oi0xl8911
        oi0xl8914
-       oi0xl8992DMonthly basic pay of grade to which member is advanced on retired list.
+       oi0xl8992 DMonthly basic pay of grade to which member is advanced on retired list.
     (2) T4Rate of basic pay to be usedK.–The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member“s retirement.
   (f) T4Coast GuardK.–In the case of a member who is retired under any section of title 14, the member“s retired pay is computed under section 423(a) of title 14 in the manner provided in that section.
   (g) T4Commissioned Corps of National Oceanic and Atmospheric AdministrationK.–In the case of an officer whose retired pay is computed under section 16 of the Coast and Geodetic Survey Commissioned Officers“ Act of 1948 (33 U.S.C. 853T3oK), the retired pay base is the basic pay of the rank with which the officer retired.
@@ -37,7 +37,10 @@
     (2) T4Voluntary retirementK.–If the officer is retired under section 211(a) of such Act, the retired pay base is the basic pay of the highest grade held by the officer and in which, in the case of a temporary promotion to such grade, the officer has performed active duty for not less than six months.
       (i) T4Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, and Senior Enlisted Members.–
         (1) T4In generalK.–For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, or as the senior enlisted member of an armed force, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
-        (2) T4DefinitionsK.–In this subsection:
+        (2) T4Exception for members reduced in grade or who do not serve satisfactorilyK.–Paragraph (1) does not apply in the case of a member who, while or after serving in a position specified in that paragraph and by reason of conduct occurring on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999–
+          (A) in the case of an enlisted member, is reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or other administrative process; or
+          (B) in the case an officer, is not certified by the Secretary of Defense under section 1370(c) of this title as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
+        (3) T4DefinitionsK.–In this subsection:
           (A) The term ””Chief of Service““ means any of the following:
             (i) Chief of Staff of the Army.
             (ii) Chief of Naval Operations.
