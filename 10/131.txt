@@ -1,4 +1,4 @@
-  (a) There is in the Department of Defense an Office of the Secretary of Defense. The function of the Office is to assist the Secretary of Defense in carrying out his duties and responsibilities and to carry out such other duties as may be prescribed by law.
+  (a) There is in the Department of Defense an Office of the Secretary of Defense. The function of the Office is to assist the Secretary of Defense in carrying out the Secretary“s duties and responsibilities and to carry out such other duties as may be prescribed by law.
   (b) The Office of the Secretary of Defense is composed of the following:
     (1) The Deputy Secretary of Defense.
     (2) The Under Secretaries of Defense, as follows:
@@ -8,11 +8,22 @@
       (D) The Under Secretary of Defense for Personnel and Readiness.
       (E) The Under Secretary of Defense for Intelligence.
     (3) The Deputy Chief Management Officer of the Department of Defense.
-    (4) The Director of Defense Research and Engineering.
-    (5) The Assistant Secretaries of Defense.
-    (6) The Director of Operational Test and Evaluation.
-    (7) The General Counsel of the Department of Defense.
-    (8) The Inspector General of the Department of Defense.
-    (9) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
+    (4) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
+      (A) The Director of Cost Assessment and Program Evaluation.
+      (B) The Director of Operational Test and Evaluation.
+      (C) The General Counsel of the Department of Defense.
+      (D) The Inspector General of the Department of Defense.
+    (5) The Principal Deputy Under Secretaries of Defense.
+    (6) The Assistant Secretaries of Defense.
+    (7) Other officials provided for by law, as follows:
+      (A) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) of this title.
+      (B) The Deputy Assistant Secretary of Defense for Systems Engineering appointed pursuant to section 139b(b) of this title.
+      (C) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c of this title.
+      (D) The Director of Small Business Programs appointed pursuant to section 144 of this title.
+      (E) The official designated under section 1501(a) of this title to have responsibility for Department of Defense matters relating to missing persons as set forth in section 1501 of this title.
+      (F) The Director of Family Policy under section 1781 of this title.
+      (G) The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title.
+      (H) The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+    (8) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
   (c) Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
   (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.

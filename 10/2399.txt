@@ -1,7 +1,7 @@
-  (a) T4Condition for Proceeding Beyond Low-Rate Initial ProductionK.–(1) The Secretary of Defense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
-  (2) In this subsection, the term ””major defense acquisition program““ means a conventional weapons system that–
-    (A) is a major system within the meaning of that term in section 2302(5) of this title; and
-    (B) is designed for use in combat.
+  (a) T4Condition for Proceeding Beyond Low-rate Initial ProductionK.–(1) The Secretary of Defense shall provide that a covered major defense acquisition program or a covered designated major subprogram may not proceed beyond low-rate initial production until initial operational test and evaluation of the program or subprogram is completed.
+  (2) In this subsection:
+    (A) The term ””covered major defense acquisition program““ means a major defense acquisition program that involves the acquisition of a weapon system that is a major system within the meaning of that term in section 2302(5) of this title.
+    (B) The term ””covered designated major subprogram““ means a major subprogram designated under section 2430a(a)(1) of this title that is a major subprogram of a covered major defense acquisition program.
   (b) T4Operational Test and EvaluationK.–(1) Operational testing of a major defense acquisition program may not be conducted until the Director of Operational Test and Evaluation of the Department of Defense approves (in writing) the adequacy of the plans (including the projected level of funding) for operational test and evaluation to be conducted in connection with that program.
   (2) The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating–
     (A) the opinion of the Director as to–

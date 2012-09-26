@@ -32,7 +32,7 @@
       (A) the contract or subcontract being modified is a contract or subcontract for which submission of certified cost or pricing data may not be required by reason of paragraph (1)(A) or (1)(B); and
       (B) the modification would not change the contract or subcontract, as the case may be, from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
     (3) T4Noncommercial modifications of commercial itemsK.–(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
-  (B) In this paragraph, the term ””noncommercial modification““, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
+  (B) In this paragraph, the term ””noncommercial modification““, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) \1\N of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
   (C) Nothing in subparagraph (A) shall be construed–
     (i) to limit the applicability of the exception in subparagraph (A) or (C) of paragraph (1) to cost or pricing data on a noncommercial modification of a commercial item; or
     (ii) to require the submission of cost or pricing data on any aspect of an acquisition of a commercial item other than the cost and pricing of noncommercial modifications of such item.
@@ -72,4 +72,4 @@
   (h) T4DefinitionsK.–In this section:
     (1) T4Cost or pricing dataK.–The term ””cost or pricing data““ means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), or, if applicable consistent with subsection (e)(1)(B), another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
     (2) T4SubcontractK.–The term ””subcontract““ includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
-    (3) T4Commercial itemK.–The term ””commercial item““ has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
+    (3) T4Commercial itemK.–The term ””commercial item““ has the meaning provided such term in section 103 of title 41.

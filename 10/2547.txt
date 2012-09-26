@@ -1,8 +1,12 @@
-  (a) The Secretary of Defense may make available for humanitarian relief purposes any nonlethal excess supplies of the Department of Defense.
-  (b) Excess supplies made available for humanitarian relief purposes under this section shall be transferred to the Secretary of State, who shall be responsible for the distribution of such supplies.
-  (c) This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the intelligence committees under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.).
-  (d) In this section:
-    (1) The term ””nonlethal excess supplies““ means property, other than real property, of the Department of Defense–
-      (A) that is excess property, as defined in regulations of the Department of Defense; and
-      (B) that is not a weapon, ammunition, or other equipment or material that is designed to inflict serious bodily harm or death.
-    (2) The term ””intelligence committees““ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+  (a) T4Performance of Certain Acquisition-related FunctionsK.–The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
+    (1) The development of requirements relating to the defense acquisition system (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to section 181 of this title).
+    (2) The coordination of measures to control requirements creep in the defense acquisition system.
+    (3) The development of career paths in acquisition for military personnel (as required by section 1722a of this title).
+    (4) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
+  (b) T4Rule of ConstructionK.–Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or section 8014(c)(1)(A) of this title, except as explicitly provided in this section.
+  (c) T4DefinitionsK.–In this section:
+    (1) The term ””requirements creep““ means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
+    (2) The term ””requirements document““ means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that–
+      (A) justifies the need for a materiel approach, or an approach that is a combination of materiel and non-materiel, to satisfy one or more specific capability gaps;
+      (B) details the information necessary to develop an increment of militarily useful, logistically supportable, and technically mature capability, including key performance parameters; or
+      (C) identifies production attributes required for a single increment of a program.

@@ -13,15 +13,20 @@
       (A) a small business concern;
       (B) a small business concern owned and controlled by socially and economically disadvantaged individuals; or
       (C) a small business concern owned and controlled by women.
-  (c) T4InventoryK.–(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
+  (c) T4InventoryK.–(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
+    (A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for–
+      (i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees; and
+      (ii) the calculation of contractor manpower equivalents in a manner that is comparable to the calculation of full-time equivalents for use in inventories of functions performed by Department of Defense employees.
+    (B) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures.
+  (2) The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
     (A) The functions and missions performed by the contractor.
     (B) The contracting organization, the component of the Department of Defense administering the contract, and the organization whose requirements are being met through contractor performance of the function.
     (C) The funding source for the contract under which the function is performed by appropriation and operating agency.
     (D) The fiscal year for which the activity first appeared on an inventory under this section.
-    (E) The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.
+    (E) The number of contractor employees, expressed as full-time equivalents for direct labor, using direct labor hours and associated cost data collected from contractors (except that estimates may be used where such data is not available and cannot reasonably be made available in a timely manner for the purpose of the inventory).
     (F) A determination whether the contract pursuant to which the activity is performed is a personal services contract.
     (G) A summary of the data required to be collected for the activity under subsection (a).
-  (2) The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
+  (3) The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
   (d) T4Public Availability of InventoriesK.–Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall–
     (1) make the inventory available to the public; and
     (2) publish in the Federal Register a notice that the inventory is available to the public.
