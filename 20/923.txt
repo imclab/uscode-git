@@ -1,100 +1,13 @@
-  (a) As used in this chapter–
-    (1) The term ””person““ and the term ””whoever““ include any individual, corporation, company, association, firm, partnership, society, or joint stock company.
-    (2) The term ””interstate or foreign commerce““ includes commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia, but such term does not include commerce between places within the same State but through any place outside of that State. The term ””State““ includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
-    (3) The term ””firearm““ means (A) any weapon (including a starter gun) which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; (B) the frame or receiver of any such weapon; (C) any firearm muffler or firearm silencer; or (D) any destructive device. Such term does not include an antique firearm.
-    (4) The term ””destructive device““ means–
-      (A) any explosive, incendiary, or poison gas–
-        (i) bomb,
-        (ii) grenade,
-        (iii) rocket having a propellant charge of more than four ounces,
-        (iv) missile having an explosive or incendiary charge of more than one-quarter ounce,
-        (v) mine, or
-        (vi) device similar to any of the devices described in the preceding clauses;
-      (B) any type of weapon (other than a shotgun or a shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
-      (C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
-         The term ””destructive device““ shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10; or any other device which the Secretary of the Treasury finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
-    (5) The term ””shotgun““ means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
-    (6) The term ””short-barreled shotgun““ means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
-    (7) The term ””rifle““ means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed metallic cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger.
-    (8) The term ””short-barreled rifle““ means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
-    (9) The term ””importer““ means any person engaged in the business of importing or bringing firearms or ammunition into the United States for purposes of sale or distribution; and the term ””licensed importer““ means any such person licensed under the provisions of this chapter.
-    (10) The term ””manufacturer““ means any person engaged in the business of manufacturing firearms or ammunition for purposes of sale or distribution; and the term ””licensed manufacturer““ means any such person licensed under the provisions of this chapter.
-    (11) The term ””dealer““ means (A) any person engaged in the business of selling firearms at wholesale or retail, (B) any person engaged in the business of repairing firearms or of making or fitting special barrels, stocks, or trigger mechanisms to firearms, or (C) any person who is a pawnbroker. The term ””licensed dealer““ means any dealer who is licensed under the provisions of this chapter.
-    (12) The term ””pawnbroker““ means any person whose business or occupation includes the taking or receiving, by way of pledge or pawn, of any firearm as security for the payment or repayment of money.
-    (13) The term ””collector““ means any person who acquires, holds, or disposes of firearms as curios or relics, as the Secretary shall by regulation define, and the term ””licensed collector““ means any such person licensed under the provisions of this chapter.
-    (14) The term ””indictment““ includes an indictment or information in any court under which a crime punishable by imprisonment for a term exceeding one year may be prosecuted.
-    (15) The term ””fugitive from justice““ means any person who has fled from any State to avoid prosecution for a crime or to avoid giving testimony in any criminal proceeding.
-    (16) The term ””antique firearm““ means–
-      (A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and
-      (B) any replica of any firearm described in subparagraph (A) if such replica–
-        (i) is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition, or
-        (ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.
-    (17)      (A) The term ””ammunition““ means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
-      (B) The term ””armor piercing ammunition““ means–
-        (i) a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium; or
-        (ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile.
-      (C) The term ””armor piercing ammunition““ does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
-    (18) The term ””Secretary““ or ””Secretary of the Treasury““ means the Secretary of the Treasury or his delegate.
-    (19) The term ””published ordinance““ means a published law of any political subdivision of a State which the Secretary determines to be relevant to the enforcement of this chapter and which is contained on a list compiled by the Secretary, which list shall be published in the Federal Register, revised annually, and furnished to each licensee under this chapter.
-    (20) The term ””crime punishable by imprisonment for a term exceeding one year““ does not include–
-      (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices, or
-      (B) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
-         What constitutes a conviction of such a crime shall be determined in accordance with the law of the jurisdiction in which the proceedings were held. Any conviction which has been expunged, or set aside or for which a person has been pardoned or has had civil rights restored shall not be considered a conviction for purposes of this chapter, unless such pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
-    (21) The term ””engaged in the business““ means–
-      (A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
-      (B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
-      (C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
-      (D) as applied to a dealer in firearms, as defined in section 921(a)(11)(B), a person who devotes time, attention, and labor to engaging in such activity as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who makes occasional repairs of firearms, or who occasionally fits special barrels, stocks, or trigger mechanisms to firearms;
-      (E) as applied to an importer of firearms, a person who devotes time, attention, and labor to importing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms imported; and
-      (F) as applied to an importer of ammunition, a person who devotes time, attention, and labor to importing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition imported.
-    (22) The term ””with the principal objective of livelihood and profit““ means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: T3ProvidedK, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term ””terrorism““ means activity, directed against United States persons, which–
-      (A) is committed by an individual who is not a national or permanent resident alien of the United States;
-      (B) involves violent acts or acts dangerous to human life which would be a criminal violation if committed within the jurisdiction of the United States; and
-      (C) is intended–
-        (i) to intimidate or coerce a civilian population;
-        (ii) to influence the policy of a government by intimidation or coercion; or
-        (iii) to affect the conduct of a government by assassination or kidnapping.
-    (23) The term ””machinegun““ has the meaning given such term in section 5845(b) of the National Firearms Act (26 U.S.C. 5845(b)).
-    (24) The terms ””firearm silencer““ and ””firearm muffler““ mean any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
-    (25) The term ””school zone““ means–
-      (A) in, or on the grounds of, a public, parochial or private school; or
-      (B) within a distance of 1,000 feet from the grounds of a public, parochial or private school.
-    (26) The term ””school““ means a school which provides elementary or secondary education, as determined under State law.
-    (27) The term ””motor vehicle““ has the meaning given such term in section 13102 of title 49, United States Code.
-    (28) The term ””semiautomatic rifle““ means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
-    (29) The term ””handgun““ means–
-      (A) a firearm which has a short stock and is designed to be held and fired by the use of a single hand; and
-      (B) any combination of parts from which a firearm described in subparagraph (A) can be assembled.
-    (30) The term ””semiautomatic assault weapon““ means–
-      (A) any of the firearms, or copies or duplicates of the firearms in any caliber, known as–
-        (i) Norinco, Mitchell, and Poly Technologies Avtomat Kalashnikovs (all models);
-        (ii) Action Arms Israeli Military Industries UZI and Galil;
-        (iii) Beretta Ar70 (SC–70);
-        (iv) Colt AR–15;
-        (v) Fabrique National FN/FAL, FN/LAR, and FNC;
-        (vi) SWD M–10, M–11, M–11/9, and M–12;
-        (vii) Steyr AUG;
-        (viii) INTRATEC TEC–9, TEC–DC9 and TEC–22; and
-        (ix) revolving cylinder shotguns, such as (or similar to) the Street Sweeper and Striker 12;
-      (B) a semiautomatic rifle that has an ability to accept a detachable magazine and has at least 2 of–
-        (i) a folding or telescoping stock;
-        (ii) a pistol grip that protrudes conspicuously beneath the action of the weapon;
-        (iii) a bayonet mount;
-        (iv) a flash suppressor or threaded barrel designed to accommodate a flash suppressor; and
-        (v) a grenade launcher;
-      (C) a semiautomatic pistol that has an ability to accept a detachable magazine and has at least 2 of–
-        (i) an ammunition magazine that attaches to the pistol outside of the pistol grip;
-        (ii) a threaded barrel capable of accepting a barrel extender, flash suppressor, forward handgrip, or silencer;
-        (iii) a shroud that is attached to, or partially or completely encircles, the barrel and that permits the shooter to hold the firearm with the nontrigger hand without being burned;
-        (iv) a manufactured weight of 50 ounces or more when the pistol is unloaded; and
-        (v) a semiautomatic version of an automatic firearm; and
-      (D) a semiautomatic shotgun that has at least 2 of–
-        (i) a folding or telescoping stock;
-        (ii) a pistol grip that protrudes conspicuously beneath the action of the weapon;
-        (iii) a fixed magazine capacity in excess of 5 rounds; and
-        (iv) an ability to accept a detachable magazine.
-    (31) The term ””large capacity ammunition feeding device““–
-      (A) means a magazine, belt, drum, feed strip, or similar device manufactured after the date of enactment of the Violent Crime Control and Law Enforcement Act of 1994 that has a capacity of, or that can be readily restored or converted to accept, more than 10 rounds of ammunition; but
-      (B) does not include an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition.
-    (32) The term ””intimate partner““ means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
-  (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
+  (a) Enrollment of ineligible child in system school
+     Subject to subsection (b) of this section and in accordance with regulations issued under subsection (c) of this section, the Director may authorize the enrollment in a school of the defense dependents“ education system of a child not otherwise eligible to enroll in such a school if and to the extent that there is space available for such child in the school.
+  (b) Determination of amount of tuition; use of payments
+    (1) Except as otherwise provided under subsection (c) of this section, any child permitted to enroll in a school of the defense dependents“ education system under this section shall be required to pay tuition at a rate determined by the Secretary of Defense, which shall not be less than the rate necessary to defray the average cost of the enrollment of children in the system under this section.
+    (2) Amounts received under paragraph (1) shall be available to the defense dependents“ education system to assist in defraying the cost of enrollment of children in the system under this section.
+  (c) Regulations respecting enrollment requirements
+     The Secretary of Defense may by regulation identify classes of children who shall be eligible to enroll in schools of the defense dependents“ education system under this section if and to the extent that there is space available, establish priorities among such classes, waive the tuition requirement of subsection (b)(1) of this section with respect to any such class, and issue such other regulations as may be necessary to carry out this section.
+  (d) Enrollment of certain children in overseas schools
+    (1) The Secretary of Defense may authorize the enrollment in schools of the defense dependents“ education system of children in the following classes:
+      (A) Children of officers and employees of the United States (other than civilian officers and employees who are sponsors under section 932(2) of this title) stationed in overseas areas.
+      (B) Children of employees of contractors employed in carrying out work for the United States in overseas areas.
+      (C) Children of other citizens or nationals of the United States or of foreign nationals, if the Secretary determines that enrollment of such children is in the national interest.
+    (2) Notwithstanding subsection (c) of this section, the Secretary may not waive the tuition requirements of subsection (b)(1) of this section with respect to children referred to in paragraph (1).

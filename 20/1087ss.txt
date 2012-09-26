@@ -1,0 +1,37 @@
+  (a) Simplified application section
+    (1) In general
+       The Secretary shall develop and use an easily identifiable simplified application section as part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
+    (2) Reduced data requirements
+       The simplified application form shall–
+      (A) in the case of a family meeting the requirements of subsection (b)(1) of this section, permit such family to submit only the data elements required under subsection (b)(2) of this section for the purposes of establishing eligibility for student financial aid under this part; and
+      (B) in the case of a family meeting the requirements of subsection (c) of this section, permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c) of this section.
+  (b) Simplified needs test
+    (1) Eligibility
+       An applicant is eligible to file a simplified form containing the elements required by paragraph (2) if–
+      (A) in the case of an applicant who is a dependent student–
+        (i) the student“s parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and
+        (ii) the total adjusted gross income of the parents (excluding any income of the dependent student) is less than $50,000; or
+      (B) in the case of an applicant who is an independent student–
+        (i) the student (and the student“s spouse, if any) files or is eligible to file a form described in paragraph (3) or certifies that the student (and the student“s spouse, if any) is not required to file an income tax return; and
+        (ii) the adjusted gross income of the student (and the student“s spouse, if any) is less than $50,000.
+    (2) Simplified test elements
+       The six elements to be used for the simplified needs analysis are–
+      (A) adjusted gross income,
+      (B) Federal taxes paid,
+      (C) untaxed income and benefits,
+      (D) the number of family members,
+      (E) the number of family members in postsecondary education, and
+      (F) an allowance (A) for State and other taxes, as defined in section 1087T3ooK(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
+    (3) Qualifying forms
+       A student or family files a form described in this paragraph if the student or family, respectively, files–
+      (A) a form 1040A or 1040EZ (including any prepared or electronic version of such form) required pursuant to title 26; or
+      (B) an income tax return (including any prepared or electronic version of such return) required pursuant to the tax code of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau.
+  (c) Zero expected family contribution
+     The Secretary shall consider an applicant to have an expected family contribution equal to zero if–
+    (1) in the case of a dependent student–
+      (A) the student“s parents were not required to file an income tax return under section 6012(a)(1) of title 26; and
+      (B) the sum of the adjusted gross income of the parents is less than or equal to the maximum amount of income (rounded annually to the nearest thousand dollars) that may be earned in 1992 or the current year, whichever is higher, in order to claim the maximum Federal earned income credit; or
+    (2) in the case of an independent student with dependents other than a spouse–
+      (A) the student (and the student“s spouse, if any) was not required to file an income tax return under section 6012(a)(1) of title 26; and
+      (B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to the maximum amount of income (rounded annually to the nearest thousand dollars) that may be earned in 1992 or the current year, whichever is higher, in order to claim the maximum Federal earned income credit.
+         An individual is not required to qualify or file for the earned income credit in order to be eligible under this subsection.

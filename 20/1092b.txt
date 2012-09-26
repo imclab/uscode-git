@@ -1,0 +1,37 @@
+  (a) Development of System
+     The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B of this subchapter and loans made under parts C and D of this subchapter, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower“s loan. The information in the data system shall include (but is not limited to)–
+    (1) the amount and type of each such loan made;
+    (2) the names and social security numbers of the borrowers;
+    (3) the guaranty agency responsible for the guarantee of the loan;
+    (4) the institution of higher education or organization responsible for loans made under parts C and D of this subchapter;
+    (5) \1\N the exact amount of loans partially or totally canceled or in deferment for service under the Peace Corps Act (22 U.S.C. 2501 et seq.)),\2\N for service under the Domestic Volunteer Service Act of 1973 [42 U.S.C. 4950 et seq.], and for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness.\3\N
+  (5) \1\ the eligible institution in which the student was enrolled or accepted for enrollment at the time the loan was made, and any additional institutions attended by the borrower;
+  (6) the total amount of loans made to any borrower and the remaining balance of the loans;
+  (7) the lender, holder, and servicer of such loans;
+  (8) information concerning the date of any default on the loan and the collection of the loan, including any information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuant to section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan;
+  (9) information regarding any deferments or forbearance granted on such loans; and
+  (10) the date of cancellation of the note upon completion of repayment by the borrower of the loan or payment by the Secretary pursuant to section 1087 of this title.
+  (b) Additional information
+     For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include–
+    (1) information concerning the income level of the borrower and his family and the extent of the borrower“s need for student financial assistance, including loans;
+    (2) information concerning the type of institution attended by the borrower and the year of the program of education for which the loan was obtained;
+    (3) information concerning other student financial assistance received by the borrower; and
+    (4) information concerning Federal costs associated with the student loan program under part B of this subchapter, including the costs of interest subsidies, special allowance payments, and other subsidies.
+  (c) Verification
+     The Secretary may require lenders, guaranty agencies, or institutions of higher education to verify information or obtain eligibility or other information through the National Student Loan Data System prior to making, guaranteeing, or certifying a loan made under part B, C, or D of this subchapter.
+  (d) Report to Congress
+     The Secretary shall prepare and submit to the appropriate committees of the Congress, in each fiscal year, a report describing the results obtained by the establishment and operation of the student loan data system authorized by this section.
+  (e) Standardization of data reporting
+    (1) In general
+       The Secretary shall by regulation prescribe standards and procedures (including relevant definitions) that require all lenders and guaranty agencies to report information on all aspects of loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 in uniform formats in order to permit the direct comparison of data submitted by individual lenders, servicers or guaranty agencies.
+    (2) Activities
+       For the purpose of establishing standards under this section, the Secretary shall–
+      (A) consult with guaranty agencies, lenders, institutions of higher education, and organizations representing the groups described in paragraph (1);
+      (B) develop standards designed to be implemented by all guaranty agencies and lenders with minimum modifications to existing data processing hardware and software; and
+      (C) publish the specifications selected to be used to encourage the automation of exchanges of information between all parties involved in loans under this subchapter and part C of subchapter I of chapter 34 of title 42.
+  (f) Common identifiers
+     The Secretary shall, not later than July 1, 1993–
+    (1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42; and
+    (2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
+  (g) Integration of databases
+     The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42.

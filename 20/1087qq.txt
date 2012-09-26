@@ -1,0 +1,124 @@
+  (a) Computation of expected family contribution
+     For each independent student with dependents other than a spouse, the expected family contribution is equal to the amount determined by–
+    (1) computing adjusted available income by adding–
+      (A) the family“s available income (determined in accordance with subsection (b) of this section); and
+      (B) the family“s contribution from assets (determined in accordance with subsection (c) of this section);
+    (2) assessing such adjusted available income in accordance with an assessment schedule set forth in subsection (d) of this section; and
+    (3) dividing the assessment resulting under paragraph (2) by the number of family members who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+       except that the amount determined under this subsection shall not be less than zero.
+  (b) Family“s available income
+    (1) In general
+       The family“s available income is determined by deducting from total income (as defined in section 1087vv of this title)–
+      (A) Federal income taxes;
+      (B) an allowance for State and other taxes, determined in accordance with paragraph (2);
+      (C) an allowance for social security taxes, determined in accordance with paragraph (3);
+      (D) an income protection allowance, determined in accordance with paragraph (4); and
+      (E) an employment expense allowance, determined in accordance with paragraph (5).
+    (2) Allowance for State and other taxes
+       The allowance for State and other taxes is equal to an amount determined by multiplying total income (as defined in section 1087vv of this title) by a percentage determined according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+       Percentages for Computation of State and Other Tax Allowance
+                        then the percentage is–
+       lAlaska, Puerto Rico, WyomingDoi0 3Doi0 2
+       lAmerican Samoa, Guam, Louisiana, Nevada, Texas, Trust Territory, Virgin IslandsDoi0 4Doi0 3
+       lFlorida, South Dakota, Tennessee, New MexicoDoi0 5Doi0 4
+       lNorth Dakota, WashingtonDoi0 6Doi0 5
+       lAlabama, Arizona, Arkansas, Indiana, Mississippi, Missouri, Montana, New Hampshire, Oklahoma, West VirginiaDoi0 7Doi0 6
+       lColorado, Connecticut, Georgia, Illinois, Kansas, KentuckyDoi0 8Doi0 7
+       lCalifornia, Delaware, Idaho, Iowa, Nebraska, North Carolina, Ohio, Pennsylvania, South Carolina, Utah, Vermont, Virginia, Canada, MexicoDoi0 9Doi0 8
+       lMaine, New JerseyDoi010Doi0 9
+       lDistrict of Columbia, Hawaii, Maryland, Massachusetts, Oregon, Rhode IslandDoi011Doi010
+       lMichigan, MinnesotaDoi012Doi011
+       lWisconsinDoi013Doi012
+       lNew YorkDoi014Doi013
+       lOtherDoi0 9Doi0 8
+    (3) Allowance for social security taxes
+       The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
+    (4) Income protection allowance
+       The income protection allowance is determined by the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+       Income Protection Allowance
+       2D$10,520D$8,720D D D D$1,790
+       3D13,100D11,310D$9,510
+       4D16,180D14,380D12,590D$10,790
+       5D19,090D17,290D15,500D 13,700D$11,910
+       6D22,330D20,530D18,740D 16,940D 15,150
+       For each additional add:D2,520D2,520D2,520D2,520D2,520
+    (5) Employment expense allowance
+       The employment expense allowance is determined as follows (or a successor table prescribed by the Secretary under section 1087rr of this title):
+      (A) If the student is married and the student“s spouse is employed in the year for which their income is reported, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the student or spouse with the lesser earned income.
+      (B) If a student qualifies as a surviving spouse or as a head of household as defined in section 2 of title 26, such allowance is equal to the lesser of $2,500 or 35 percent of the student“s earned income.
+  (c) Family“s contribution from assets
+    (1) In general
+       The family“s contribution from assets is equal to–
+      (A) the family net worth (determined in accordance with paragraph (2)); minus
+      (B) the asset protection allowance (determined in accordance with paragraph (3)); multiplied by
+      (C) the asset conversion rate (determined in accordance with paragraph (4)), except that the result shall not be less than zero.
+    (2) Family net worth
+       The family net worth is calculated by adding–
+      (A) the current balance of checking and savings accounts and cash on hand;
+      (B) the net value of investments and real estate, excluding the net value in the principal place of residence; and
+      (C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as ””NW““), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
+         Adjusted Net Worth of a Business or Farm
+         Less than $1D$0
+         $1–$75,000D40 percent of NW
+         $75,001–$225,000D$30,000 plus 50 percent of NW over $75,000
+         $225,001–$375,000D$105,000 plus 60 percent of NW over $225,000
+         $375,001 or moreD$195,000 plus 100 percent of NW over $375,000
+    (3) Asset protection allowance
+       The asset protection allowance is calculated according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+       Asset Protection Allowances for Families and Students
+                        then the allowance is–
+       25 or lessDoi0 $  0Doi0   $0
+       26Doi0 2,200Doi0 1,600
+       27Doi0 4,300Doi0 3,200
+       28Doi0 6,500Doi0 4,700
+       29Doi0 8,600Doi0 6,300
+       30Doi010,800Doi0 7,900
+       31Doi013,000Doi0 9,500
+       32Doi015,100Doi011,100
+       33Doi017,300Doi012,600
+       34Doi019,400Doi014,200
+       35Doi021,600Doi015,800
+       36Doi023,800Doi017,400
+       37Doi025,900Doi019,000
+       38Doi028,100Doi020,500
+       39Doi030,200Doi022,100
+       40Doi032,400Doi023,700
+       41Doi033,300Doi024,100
+       42Doi034,100Doi024,700
+       43Doi035,000Doi025,200
+       44Doi035,700Doi025,800
+       45Doi036,600Doi026,300
+       46Doi037,600Doi026,900
+       47Doi038,800Doi027,600
+       48Doi039,800Doi028,200
+       49Doi040,800Doi028,800
+       50Doi041,800Doi029,500
+       51Doi043,200Doi030,200
+       52Doi044,300Doi031,100
+       53Doi045,700Doi031,800
+       54Doi047,100Doi032,600
+       55Doi048,300Doi033,400
+       56Doi049,800Doi034,400
+       57Doi051,300Doi035,200
+       58Doi052,900Doi036,200
+       59Doi054,800Doi037,200
+       60Doi056,500Doi038,100
+       61Doi058,500Doi039,200
+       62Doi060,300Doi040,300
+       63Doi062,400Doi041,500
+       64Doi064,600Doi042,800
+       65 or moreDoi066,800Doi044,000
+    (4) Asset conversion rate
+       The asset conversion rate is 12 percent.
+  (d) Assessment schedule
+     The adjusted available income (as determined under subsection (a)(1) of this section and hereafter referred to as ””AAI““) is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+     Assessment From Adjusted Available Income (AAI)
+     Less than -$3,409D-$750
+     -$3,409 to $9,400D22% of AAI
+     $9,401 to $11,800D$2,068 + 25% of AAI over $9,400
+     $11,801 to $14,200D$2,668 + 29% of AAI over $11,800
+     $14,201 to $16,600D$3,364 + 34% of AAI over $14,200
+     $16,601 to $19,000D$4,180 + 40% of AAI over $16,600
+     $19,001 or moreD$5,140 + 47% of AAI over $19,000
+  (e) Computations in case of separation, divorce, or death
+     In the case of a student who is divorced or separated, or whose spouse has died, the spouse“s income and assets shall not be considered in determining the family“s available income or assets.
