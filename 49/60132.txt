@@ -1,0 +1,6 @@
+  (a) T4Information To Be ProvidedK.–Not later than 6 months after the date of enactment of this section, the operator of a pipeline facility (except distribution lines and gathering lines) shall provide to the Secretary of Transportation the following information with respect to the facility:
+    (1) Geospatial data appropriate for use in the National Pipeline Mapping System or data in a format that can be readily converted to geospatial data.
+    (2) The name and address of the person with primary operational control to be identified as its operator for purposes of this chapter.
+    (3) A means for a member of the public to contact the operator for additional information about the pipeline facilities it operates.
+  (b) T4UpdatesK.–A person providing information under subsection (a) shall provide to the Secretary updates of the information to reflect changes in the pipeline facility owned or operated by the person and as otherwise required by the Secretary.
+  (c) T4Technical Assistance To Improve Local Response CapabilitiesK.–The Secretary may provide technical assistance to State and local officials to improve local response capabilities for pipeline emergencies by adapting information available through the National Pipeline Mapping System to software used by emergency response personnel responding to pipeline emergencies.
