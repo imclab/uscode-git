@@ -1,28 +1,34 @@
-  (a) Investigation by General Counsel; issuance of complaint; statement of reasons
-     If the Department or labor organization is charged by any person with having engaged in or engaging in an unfair labor practice, the General Counsel shall investigate the charge and may issue and cause to be served upon the Department or labor organization a complaint. In any case in which the General Counsel does not issue a complaint because the charge fails to state an unfair labor practice, the General Counsel shall provide the person making the charge a written statement of the reasons for not issuing a complaint.
-  (b) Notice in complaint
-     Any complaint under subsection (a) of this section shall contain a notice–
-    (1) of the charge;
-    (2) that a hearing will be held before the Board (or any member thereof or before an individual employed by the Board and designated for such purpose); and
-    (3) of the time and place fixed for the hearing.
-  (c) Answer; personal appearance
-     The labor organization or Department involved shall have the right to file an answer to the original and any amended complaint and to appear in person or otherwise and give testimony at the time and place fixed in the complaint for the hearing.
-  (d) Time of filing of charges
-    (1) Except as provided in paragraph (2), no complaint shall be issued based on any alleged unfair labor practice which occurred more than 6 months before the filing of the charge with the Board.
-    (2) If the General Counsel determines that the person filing any charge was prevented from filing the charge during the 6-month period referred to in paragraph (1) by reason of–
-      (A) any failure of the Department or labor organization against which the charge is made to perform a duty owed to the person, or
-      (B) any concealment which prevented discovery of the alleged unfair labor practice during the 6-month period,
-         the General Counsel may issue a complaint based on the charge if the charge was filed during the 6-month period beginning on the day of the discovery by the person of the alleged unfair labor practice.
-  (e) Regulations providing for resolution through informal methods
-     The General Counsel may prescribe regulations providing for informal methods by which the alleged unfair labor practice may be resolved prior to the issuance of a complaint.
-  (f) Hearing
-     The Board (or any member thereof or any individual employed by the Board and designated for such purpose) shall conduct a hearing on the complaint not earlier than 5 days after the date on which the complaint is served. In the discretion of the individual or individuals conducting the hearing, any person involved may be allowed to intervene in the hearing and to present testimony. Any such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5, except that the parties shall not be bound by rules of evidence, whether statutory, common law, or adopted by a court. A transcript shall be kept of the hearing. After such a hearing the Board, in its discretion, may upon notice receive further evidence or hear argument.
-  (g) Findings of fact relative to issuance of orders; backpay
-     If the Board (or any member thereof or any individual employed by the Board and designated for such purpose) determines after any hearing on a complaint under subsection (f) of this section that the preponderance of the evidence received demonstrates that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, then the individual or individuals conducting the hearing shall state in writing their findings of fact and shall issue and cause to be served on the Department or labor organization an order–
-    (1) to cease and desist from any such unfair labor practice in which the Department or labor organization is engaged;
-    (2) requiring the parties to renegotiate a collective bargaining agreement in accordance with the order of the Board and requiring that the agreement, as amended, be given retroactive effect;
-    (3) requiring reinstatement of an employee with backpay in accordance with section 5596 of title 5; or
-    (4) including any combination of the actions described in paragraphs (1) through (3) or such other action as will carry out the purpose of this subchapter.
-       If any such order requires reinstatement of an employee with backpay, backpay may be required of the Department (as provided in section 5596 of title 5) or of the labor organization, as the case may be, which is found to have engaged in the unfair labor practice involved.
-  (h) Findings of fact requiring dismissal of complaint
-     If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
+  (a) Department of State
+     It shall be an unfair labor practice for the Department–
+    (1) to interfere with, restrain, or coerce any employee in the exercise by the employee of any right under this subchapter;
+    (2) to encourage or discourage membership in any labor organization by discrimination in connection with hiring, tenure, promotion, or other conditions of employment;
+    (3) to sponsor, control, or otherwise assist any labor organization, other than to furnish upon request customary and routine services and facilities on an impartial basis to labor organizations having equivalent status;
+    (4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint or petition, or has given any information, affidavit, or testimony under this subchapter;
+    (5) to refuse to consult or negotiate in good faith with a labor organization, as required under this subchapter;
+    (6) to fail or refuse to cooperate in impasse procedures and impasse decisions, as required under this subchapter;
+    (7) to enforce any rule or regulation (other than a rule or regulation implementing section 2302 of title 5) which is in conflict with an applicable collective bargaining agreement if the agreement was in effect before the date the rule or regulation was prescribed; or
+    (8) to fail or refuse otherwise to comply with any provision of this subchapter.
+  (b) Labor organizations
+     It shall be an unfair labor practice for a labor organization–
+    (1) to interfere with, restrain, or coerce any employee in the exercise by the employee of any right under this subchapter;
+    (2) to cause or attempt to cause the Department to discriminate against any employee in the exercise by the employee of any right under this subchapter;
+    (3) to coerce, discipline, fine, or attempt to coerce a member of the labor organization as punishment or reprisal, or for the purpose of hindering or impeding the member“s work performance or productivity as an employee or the discharge of the member“s functions as an employee;
+    (4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis of race, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
+    (5) to refuse to consult or negotiate in good faith with the Department, as required under this subchapter;
+    (6) to fail or refuse to cooperate in impasse procedures and impasse decisions, as required under this subchapter;
+    (7)      (A) to call, or participate in, a strike, work stoppage, or slowdown, or to picket the Department in a labor-management dispute (except that any such picketing in the United States which does not interfere with the Department“s operations shall not be an unfair labor practice); or
+      (B) to condone any unfair labor practice described in subparagraph (A) by failing to take action to prevent or stop such activity;
+    (8) to deny membership to any employee in the unit represented by the labor organization except–
+      (A) for failure to tender dues uniformly required as a condition of acquiring and retaining membership, or
+      (B) in the exercise of disciplinary procedures consistent with the organization“s constitution or bylaws and this subchapter; or
+    (9) to fail or refuse otherwise to comply with any provision of this subchapter.
+  (c) Personal views, arguments, opinions, or statements
+     The expression of any personal view, argument, or opinion, or the making of any statement, which–
+    (1) publicizes the fact of a representational election and encourages employees to exercise their right to vote in such an election;
+    (2) corrects the record with respect to any false or misleading statement made by any person; or
+    (3) informs employees of the Government“s policy relating to labor-management relations and representation,
+       if the expression contains no threat of reprisal or force or promise of benefit and was not made under coercive conditions shall not–
+      (A) constitute an unfair labor practice under this subchapter, or
+      (B) constitute grounds for the setting aside of any election conducted under this subchapter.
+  (d) Election of remedies
+     Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 4139(a)(2) of this title, an employee has an option of using the grievance procedure under subchapter XI of this chapter or an appeals procedure, issues which can be raised under section 4114 of this title or subchapter XI of this chapter may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under section 4114 of this title or subchapter XI of this chapter.
